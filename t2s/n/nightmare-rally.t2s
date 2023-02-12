@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/n/NightmareRally.tzx.zip
+nightmare-rally.z80
+--sim-load
+--tape-name "Nightmare Rally.tzx"
+--tape-sum 59c2ab80fff3500f73469e672947bcf1
+--start 57415

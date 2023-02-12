@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/pub/sinclair/games/r/Renegade(TheHitSquad).tzx.zip
+renegade.z80
+--sim-load
+--tape-name "Renegade - 48k (The Hit Squad).tzx"
+--tape-sum 86aec045597c7a812cf5c752053383ab
+--start 23768

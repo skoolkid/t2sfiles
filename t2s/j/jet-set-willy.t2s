@@ -1,0 +1,6 @@
+https://www.worldofspectrum.org//pub/sinclair/games/j/JetSetWilly_2.tzx.zip
+jet-set-willy.z80
+--sim-load
+--tape-name "Jet Set Willy.tzx"
+--tape-sum 240ae791996a5794f97d90aa08004e92
+--start 33792

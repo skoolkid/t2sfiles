@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/pub/sinclair/games/s/SamStoatSafebreaker.tzx.zip
+sam-stoat-safebreaker.z80
+--sim-load
+--tape-name "Sam Stoat Safebreaker.tzx"
+--tape-sum 5bbe64b84c53c148343435e000c31083
+--start 64722
+--sim-load-config first-edge=0
