@@ -1,0 +1,7 @@
+; Contributed by Bedazzle
+https://spectrumcomputing.co.uk/pub/sinclair/games/e/EricTheFloaters.tzx.zip
+eric-and-the-floaters.z80
+--sim-load
+--tape-name "Eric And The Floaters.tzx"
+--tape-sum 01eb9fa0efc16ff4a3aaf29d5cce20e7
+--start 40912
