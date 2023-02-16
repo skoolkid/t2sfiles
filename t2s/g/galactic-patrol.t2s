@@ -1,0 +1,6 @@
+https://www.worldofspectrum.net/pub/sinclair/games/g/GalacticPatrol.tzx.zip
+galactic-patrol.z80
+--sim-load
+--tape-name "Galactic Patrol.tzx"
+--tape-sum 94827dbfba53fa26396d2d218990ed5b
+--start 24739

@@ -1,0 +1,6 @@
+https://www.worldofspectrum.org/pub/sinclair/games/b/BombJackII.tzx.zip
+bomb-jack-ii.z80
+--sim-load
+--tape-name "Bomb Jack 2.tzx"
+--tape-sum a481286503c7eb94a7d8e62a73088fb6
+--start 65224
