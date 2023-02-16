@@ -1,6 +1,6 @@
 ; Contributed by Bedazzle
 https://spectrumcomputing.co.uk/pub/sinclair/games/e/EarthShaker.tap.zip
-earth-shacker.z80
+earth-shaker.z80
 --sim-load
 --tape-name "EARTHSHA.TAP"
 --tape-sum c8fb828bc368c824098270a446e2a385
