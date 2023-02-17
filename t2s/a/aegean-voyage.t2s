@@ -1,0 +1,6 @@
+https://www.tzxvault.org/Spectrum/TZX/AegeanVoyage.zip
+aegean-voyage.z80
+--sim-load
+--tape-name "Aegean Voyage.tzx"
+--tape-sum 8f2aaafb34f65f540767cd473c8acb15
+--start 32768

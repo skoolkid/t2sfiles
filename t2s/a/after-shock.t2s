@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AfterShock.tzx.zip
+after-shock.z80
+--sim-load
+--tape-name "After Shock.tzx"
+--tape-sum 713b167ddcdd24982f97d10727f31b55
+--start 40396

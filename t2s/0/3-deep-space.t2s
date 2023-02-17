@@ -1,0 +1,6 @@
+https://www.worldofspectrum.org/pub/sinclair/games/123/3DeepSpace.tzx.zip
+3-deep-space.z80
+--sim-load
+--tape-name "3 Deep Space.tzx"
+--tape-sum 173b70bf621b4bbda1e8609049cb76ba
+--start 25280

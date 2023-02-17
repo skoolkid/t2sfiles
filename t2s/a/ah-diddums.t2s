@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/pub/sinclair/games/a/AhDiddums.tzx.zip
+ah-diddums.z80
+--sim-load
+--tape-name "Ah Diddums.tzx"
+--tape-sum 266787e259d13a3081221b19cf436693
+--start 24577

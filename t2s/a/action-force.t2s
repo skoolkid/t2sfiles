@@ -1,0 +1,6 @@
+https://www.worldofspectrum.org/pub/sinclair/games/a/ActionForce.tzx.zip
+action-force.z80
+--sim-load
+--tape-name "Action Force.tzx"
+--tape-sum 7b5606f811b65ac79142e80dbd5e0c5a
+--start 49152

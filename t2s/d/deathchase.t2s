@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/pub/sinclair/games/d/Deathchase.tzx.zip
+deathchase.z80
+--sim-load
+--tape-name "3D Deathchase.tzx"
+--tape-sum fe364c0806838107a6dc12b5faddcab2
+--start 23871

@@ -1,0 +1,6 @@
+https://www.tzxvault.org/Spectrum/TZX/Arnhem.zip
+arnhem.z80
+--sim-load
+--tape-name "Arnhem.tzx"
+--tape-sum 95c371b56c8c9a2635b9c0d0873f1954
+--start 26068

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/a/Aquasquad.tzx.zip
+aquasquad.z80
+--sim-load
+--tape-name "Aqua Squad.tzx"
+--tape-sum 4c10e949a52c910786ad1bb1586a0e69
+--start 39800

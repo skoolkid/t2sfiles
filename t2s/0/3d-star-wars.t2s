@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/StarWars3D.tzx.zip
+3d-star-wars.z80
+--sim-load
+--tape-name "3D Star Wars.tzx"
+--tape-sum a5701fb2418554950de3b86b95b174fd
+--start 48400

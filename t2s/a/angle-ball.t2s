@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/pub/sinclair/games/a/AngleBall.tzx.zip
+angle-ball.z80
+--sim-load
+--tape-name "Angleball.tzx"
+--tape-sum d6f863aa287c33e384efebedd2ed7fed
+--start 24576

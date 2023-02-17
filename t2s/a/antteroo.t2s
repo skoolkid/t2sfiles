@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/a/Antteroo.tzx.zip
+antteroo.z80
+--sim-load
+--tape-name "Antteroo.tzx"
+--tape-sum 28af3d82be40a521b88e6c90f3d875f5
+--start 32780
