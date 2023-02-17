@@ -39,7 +39,8 @@ t2s file naming and format
 Each `t2s` file in this repository is named after the game for which it
 produces a pristine snapshot, restricted to digits, lower case letters, and
 hyphens. If the game name starts with 'The', that word goes at the end of the
-filename, e.g. `great-escape-the.t2s`.
+filename, e.g. `great-escape-the.t2s`. If there are two or more games with the
+same name, the publisher's name is appended, e.g. `battle-of-britain-pss.t2s`.
 
 The contents of each `t2s` file have the following format:
 
@@ -66,7 +67,10 @@ where:
   the contents of the remote zip archive have changed or been updated (this
   does happen occasionally)
 * `--start <address>` specifies the all-important start address (the value of
-  the program counter in the Z80 snapshot that's produced)
+  the program counter in the Z80 snapshot that's produced); this line must
+  be present, but may be commented out if it makes the LOAD fail (which can
+  happen with some games that hit the same address in RAM multiple times during
+  the LOAD)
 * `<other options>` are any other `tap2sna.py` options required to make the
   simulated LOAD work (e.g. `--tape-start`, `--tape-stop`, `--sim-load-config`)
 
