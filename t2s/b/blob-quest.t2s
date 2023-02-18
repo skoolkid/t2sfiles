@@ -1,0 +1,6 @@
+https://www.tzxvault.org/Spectrum/TZX/BlobQuest.zip
+blob-quest.z80
+--sim-load
+--tape-name "Blob Quest.tzx"
+--tape-sum 4f21e230312bccce0374066b8275f3d0
+--start 64768

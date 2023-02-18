@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BlackHawk.tzx.zip
+black-hawk.z80
+--sim-load
+--tape-name "Black Hawk.tzx"
+--tape-sum 84930f0559d245a85e8904ec4808b6d3
+--start 32768

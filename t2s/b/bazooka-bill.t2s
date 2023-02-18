@@ -1,0 +1,6 @@
+https://www.worldofspectrum.org/pub/sinclair/games/b/BazookaBill.tzx.zip
+bazooka-bill.z80
+--sim-load
+--tape-name "Bazooka Bill.tzx"
+--tape-sum 4a4ab5576afa55686c13561d330f3376
+--start 32788

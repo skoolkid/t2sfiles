@@ -1,0 +1,6 @@
+https://www.worldofspectrum.org/pub/sinclair/games/b/BlueThunder.tzx.zip
+blue-thunder.z80
+--sim-load
+--tape-name "Blue Thunder.tzx"
+--tape-sum 74b974cddf2e2ab287956e223e968ada
+--start 40971

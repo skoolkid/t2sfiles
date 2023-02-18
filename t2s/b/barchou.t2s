@@ -1,0 +1,6 @@
+https://www.worldofspectrum.org/pub/sinclair/games/b/Barchou.tzx.zip
+barchou.z80
+--sim-load
+--tape-name "Barchou.tzx"
+--tape-sum 4b413d632011384bbe4503a237a52456
+--start 29687

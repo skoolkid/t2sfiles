@@ -1,0 +1,6 @@
+https://www.worldofspectrum.org/pub/sinclair/games/b/BMXJungleBike.tzx.zip
+bmx-jungle-bike.z80
+--sim-load
+--tape-name "B.M.X. Jungle Bike.tzx"
+--tape-sum 79c5e8435d629f7963e5be62605f779e
+--start 40000

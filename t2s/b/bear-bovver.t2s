@@ -1,0 +1,6 @@
+https://www.tzxvault.org/Spectrum/TZX/BearBovver.zip
+bear-bovver.z80
+--sim-load
+--tape-name "Bear Bovver.tzx"
+--tape-sum dd55b2e7928fb88d7ec1eab71b77c050
+--start 47302

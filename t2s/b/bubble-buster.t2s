@@ -1,0 +1,6 @@
+https://www.tzxvault.org/Spectrum/TZX/BubbleBuster.zip
+bubble-buster.z80
+--sim-load
+--tape-name "Bubble Buster.tzx"
+--tape-sum 0604c0f2de2a12aa07280748930ad0bc
+--start 40224
