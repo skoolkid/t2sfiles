@@ -1,0 +1,7 @@
+https://www.worldofspectrum.net/pub/sinclair/games/s/StarWarsV1.tzx.zip
+star-wars-domark.z80
+--sim-load
+--tape-name "Star Wars - Release 1 - Side 1.tzx"
+--tape-sum e36c32fd456f65801d4abfd1af382a65
+--start 65451
+--tape-start 6

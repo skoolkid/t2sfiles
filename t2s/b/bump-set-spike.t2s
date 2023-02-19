@@ -1,0 +1,6 @@
+https://www.tzxvault.org/Spectrum/TZX/BumpSetSpike.zip
+bump-set-spike.z80
+--sim-load
+--tape-name "Bump Set Spike.tzx"
+--tape-sum b606541f26e1e1f942b0b83f4d5c9823
+--start 39045

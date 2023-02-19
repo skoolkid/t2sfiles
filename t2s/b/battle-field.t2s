@@ -1,0 +1,6 @@
+https://www.tzxvault.org/Spectrum/TZX/BattleField.zip
+battle-field.z80
+--sim-load
+--tape-name "Battle Field.tzx"
+--tape-sum 3796d99c84ec6cd5c9e57be8627c1e38
+--start 41601

@@ -1,0 +1,6 @@
+https://www.worldofspectrum.org/pub/sinclair/games/a/AstroBlaster.tzx.zip
+astro-blaster.z80
+--sim-load
+--tape-name "Astro Blaster.tzx"
+--tape-sum f57b390525ac73a8c7487fb9697f5162
+--start 26368

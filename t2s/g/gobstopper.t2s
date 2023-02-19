@@ -1,0 +1,6 @@
+https://www.worldofspectrum.net/pub/sinclair/games/g/Gobstopper.tzx.zip
+gobstopper.z80
+--sim-load
+--tape-name "Gob Stopper (Calisto).tzx"
+--tape-sum 43803187b78421dfe88bbfe3aa218b8d
+--start 40001

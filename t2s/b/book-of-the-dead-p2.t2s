@@ -1,0 +1,6 @@
+https://www.worldofspectrum.org/pub/sinclair/games/b/BookOfTheDead.tzx.zip
+book-of-the-dead-p2.z80
+--sim-load
+--tape-name "Book Of The Dead - Part 2.tzx"
+--tape-sum 7105a0034f3a01bf38a2d1002d0d6d46
+--start 23813

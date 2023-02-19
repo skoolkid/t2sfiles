@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/pub/sinclair/games/b/BionicNinja.tzx.zip
+bionic-ninja.z80
+--sim-load
+--tape-name "Bionic Ninja.tzx"
+--tape-sum 8440199f4d61e7218b33c08940b18673
+--start 65052

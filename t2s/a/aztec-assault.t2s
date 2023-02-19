@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/pub/sinclair/games/a/AztecAssault.tzx.zip
+aztec-assault.z80
+--sim-load
+--tape-name "Aztec Assault.tzx"
+--tape-sum ad6659be34f5bae6287fd3b48ffe6797
+; --start 29169

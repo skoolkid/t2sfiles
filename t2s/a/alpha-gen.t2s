@@ -1,0 +1,6 @@
+https://www.worldofspectrum.org/pub/sinclair/games/a/Alpha-Gen.tzx.zip
+alpha-gen.z80
+--sim-load
+--tape-name "Alpha-Gen.tzx"
+--tape-sum de64c1791bd53d9772e2191aa9e8fb8e
+--start 24500

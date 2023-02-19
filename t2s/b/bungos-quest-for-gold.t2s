@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BungosQuestForGold.tzx.zip
+bungos-quest-for-gold.z80
+--sim-load
+--tape-name "Bungo's Quest For Gold.tzx"
+--tape-sum a3276872c739b031cde6ad7defff64f1
+--start 25063

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BeyondElDorado.tzx.zip
+beyond-el-dorado.z80
+--sim-load
+--tape-name "Beyond Eldorado.tzx"
+--tape-sum 948e0b040376aba6f3016958e6ebc865
+--start 25000

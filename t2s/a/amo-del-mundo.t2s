@@ -1,0 +1,6 @@
+https://www.worldofspectrum.org/pub/sinclair/games/a/AmoDelMundo.tzx.zip
+amo-del-mundo.z80
+--sim-load
+--tape-name "Amo Del Mundo.tzx"
+--tape-sum 691b61ad181ef9a7f15476d9c485ee75
+--start 65187

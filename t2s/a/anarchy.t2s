@@ -1,0 +1,6 @@
+https://www.worldofspectrum.org/pub/sinclair/games/a/Anarchy.tzx.zip
+anarchy.z80
+--sim-load
+--tape-name "Anarchy.tzx"
+--tape-sum b6ddc3390208aabd336a375623ca26e2
+--start 43113

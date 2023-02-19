@@ -1,0 +1,6 @@
+https://www.worldofspectrum.org/pub/sinclair/games/a/ArnoldTheAdventurer.tzx.zip
+arnold-the-adventurer.z80
+--sim-load
+--tape-name "Arnold The Adventurer - Part 1.tzx"
+--tape-sum fb14e73e726615625b2013cd18257c6e
+; --start 29169

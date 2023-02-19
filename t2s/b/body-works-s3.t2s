@@ -1,0 +1,6 @@
+https://www.worldofspectrum.org/pub/sinclair/games/b/BodyWorks.tzx.zip
+body-works-s3.z80
+--sim-load
+--tape-name "Body Works - Side 3.tzx"
+--tape-sum f999d910d45e3f06abfec662562a9564
+--start 23398

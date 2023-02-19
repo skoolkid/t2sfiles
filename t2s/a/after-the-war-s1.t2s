@@ -1,0 +1,6 @@
+https://www.worldofspectrum.org/pub/sinclair/games/a/AfterTheWar.tzx.zip
+after-the-war-s1.z80
+--sim-load
+--tape-name "After The War - Side 1.tzx"
+--tape-sum dfefa4ce1aa1bb363d16a5b888043276
+--start 48800

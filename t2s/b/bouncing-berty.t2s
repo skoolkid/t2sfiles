@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BouncingBerty.tzx.zip
+bouncing-berty.z80
+--sim-load
+--tape-name "Bouncing Berty.tzx"
+--tape-sum 56ee271061a63e8367be452e5dd812e1
+--start 29768

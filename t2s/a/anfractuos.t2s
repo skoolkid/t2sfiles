@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/pub/sinclair/games/a/Anfractuos.tzx.zip
+anfractuos.z80
+--sim-load
+--tape-name "Anfractuos.tzx"
+--tape-sum be2ab61fcd72a918697e2f65ee89c577
+--start 65394

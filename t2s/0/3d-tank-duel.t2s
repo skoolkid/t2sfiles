@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/pub/sinclair/games/t/TankDuel3D.tzx.zip
+3d-tank-duel.z80
+--sim-load
+--tape-name "3D Tank Duel.tzx"
+--tape-sum fc4987d1605f60a04e04baef9fb575c8
+--start 51029

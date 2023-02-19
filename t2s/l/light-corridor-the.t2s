@@ -1,0 +1,6 @@
+https://www.tzxvault.org/Spectrum/TZX/TheLightCorridor.zip
+light-corridor-the.z80
+--sim-load
+--tape-name "The Light Corridor.tzx"
+--tape-sum 66674ee9c6b696404c5847be32796af4
+--start 32879

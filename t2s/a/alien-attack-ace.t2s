@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/pub/sinclair/games/a/AlienAttack.tzx.zip
+alien-attack-ace.z80
+--sim-load
+--tape-name "Alien Attack.tzx"
+--tape-sum b77d069ece56dbe3026d7d1b36243deb
+--start 41000
