@@ -1,0 +1,6 @@
+https://worldofspectrum.org/pub/sinclair/games/c/CannibalsFromOuterSpace.tzx.zip
+cannibals-from-outer-space.z80
+--sim-load
+--tape-name Cannibals.tzx
+--tape-sum f3800bf8d2513498d406d2414cd0ff05
+--start 25500

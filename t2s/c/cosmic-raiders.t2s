@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/pub/sinclair/games/c/CosmicRaidersV2.tzx.zip
+cosmic-raiders.z80
+--sim-load
+--tape-name "Cosmic Raiders - Release 2.tzx"
+--tape-sum 13fd7e30f2994a136bde1e78e5b65d0c
+--start 28515

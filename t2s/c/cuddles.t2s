@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Cuddles.tzx.zip
+cuddles.z80
+--sim-load
+--tape-name "Cuddles.tzx"
+--tape-sum f0bd25ec1265357b528becb491ac1c97
+--start 25000

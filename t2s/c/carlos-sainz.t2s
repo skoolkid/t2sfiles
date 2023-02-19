@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CarlosSainz.tzx.zip
+carlos-sainz.z80
+--sim-load
+--tape-name "Carlos Sainz.tzx"
+--tape-sum 186c1f4f10f8e9eebde22892e759198c
+; --start 23802

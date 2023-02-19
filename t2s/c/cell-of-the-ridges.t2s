@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/CellOfTheRidges.zip
+cell-of-the-ridges.z80
+--sim-load
+--tape-name "Cell Of The Ridges.tzx"
+--tape-sum 149edb88c64d1b478bcedee3b430cfcc
+; --start 29169

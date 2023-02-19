@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/CastleSpellerous.zip
+castle-spellerous.z80
+--sim-load
+--tape-name "Castle Spellerous.tzx"
+--tape-sum 3764e4b7ecdbf33e744136ea41c51799
+--start 65024

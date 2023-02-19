@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/pub/sinclair/games/c/CountDuckula2.tzx.zip
+count-duckula-2.z80
+--sim-load
+--tape-name "Count Duckula II - 48k.tzx"
+--tape-sum 89f58d16da5bc9381b3f1447cbad29c7
+--start 35057

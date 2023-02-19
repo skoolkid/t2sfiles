@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/pub/sinclair/games/c/CosmicPirate.tzx.zip
+cosmic-pirate.z80
+--sim-load
+--tape-name "Cosmic Pirate (Byte-Back).tzx"
+--tape-sum 1f31745cc7893856a135cfce426b2e96
+--start 23323

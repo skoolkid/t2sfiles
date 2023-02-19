@@ -1,0 +1,6 @@
+http://tzxvault.org/Spectrum/TZX/Cargo.zip
+cargo.z80
+--sim-load
+--tape-name "Cargo.tzx"
+--tape-sum df67731d581fdca65ece1f95fe0d7d61
+--start 23312

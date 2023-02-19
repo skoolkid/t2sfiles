@@ -1,0 +1,6 @@
+https://worldofspectrum.org/pub/sinclair/games/c/CastleQuest.tzx.zip
+castle-quest-scorpio.z80
+--sim-load
+--tape-name "Castle Quest.tzx"
+--tape-sum ee4a5968dd8350907683931bd03e0f5f
+--start 65318

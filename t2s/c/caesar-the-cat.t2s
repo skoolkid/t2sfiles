@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CaesarTheCat(MirrorsoftLtd).tzx.zip
+caesar-the-cat.z80
+--sim-load
+--tape-name "Caesar The Cat.tzx"
+--tape-sum 40f8ca42c31325a51c5e4c18684d814f
+--start 49169
