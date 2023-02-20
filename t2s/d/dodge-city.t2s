@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/DodgeCity.zip
+dodge-city.z80
+--sim-load
+--tape-name "Dodge City - Action Game.tzx"
+--tape-sum bd7d452281e9fc828120ae49dae13724
+--start 40960

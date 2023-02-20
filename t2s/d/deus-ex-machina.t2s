@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DeusExMachina.tzx.zip
+deus-ex-machina.z80
+--sim-load
+--tape-name "Deus Ex Machina.tzx"
+--tape-sum b4240b3a371cd369266a25bc50c73691
+--start 58267

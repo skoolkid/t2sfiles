@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/pub/sinclair/games/d/DukeBluebeardsCastle.tzx.zip
+duke-bluebeards-castle.z80
+--sim-load
+--tape-name "Duke Bluebeard's Castle.tzx"
+--tape-sum 1dd2fff236f3b7b1c8cb18029f19ef87
+--start 23324

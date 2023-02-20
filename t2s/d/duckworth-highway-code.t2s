@@ -1,0 +1,6 @@
+https://worldofspectrum.org/pub/sinclair/games/d/DuckworthHighwayCode.tzx.zip
+duckworth-highway-code.z80
+--sim-load
+--tape-name "Duckworth Highway Code - Side 1.tzx"
+--tape-sum 82742308fef283f85edb61c06761853a
+; --start 58881

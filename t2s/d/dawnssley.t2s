@@ -1,0 +1,6 @@
+https://worldofspectrum.org/pub/sinclair/games/d/Dawnssley.tzx.zip
+dawnssley.z80
+--sim-load
+--tape-name "Dawnssley.tzx"
+--tape-sum e59c5045108bd6f6133d895e3de43b12
+--start 30000

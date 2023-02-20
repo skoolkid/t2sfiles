@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/DeathStar.zip
+death-star.z80
+--sim-load
+--tape-name "Death Star.tzx"
+--tape-sum 59e4c3e35ecafa5b18c65262d3a8f780
+--start 23325

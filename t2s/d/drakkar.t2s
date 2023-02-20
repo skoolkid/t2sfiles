@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/d/Drakkar.tzx.zip
+drakkar.z80
+--sim-load
+--tape-name "Drakkar.tzx"
+--tape-sum 90f7d010d0c1591211dfc118736cf147
+--start 63059

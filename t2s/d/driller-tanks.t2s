@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/DrillerTanks.zip
+driller-tanks.z80
+--sim-load
+--tape-name "Driller Tanks.tzx"
+--tape-sum 2c3a706c00b3eee3b27cab582cb4cb54
+--start 44000

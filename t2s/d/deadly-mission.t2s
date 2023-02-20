@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DeadlyMission.tzx.zip
+deadly-mission.z80
+--sim-load
+--tape-name "Deadly Mission.tzx"
+--tape-sum 5de41f84c30ecd2c7eecf61a0bbc910d
+--start 34104

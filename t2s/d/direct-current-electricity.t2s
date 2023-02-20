@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/DirectCurrentElectricity.zip
+direct-current-electricity.z80
+--sim-load
+--tape-name "Direct Current Electricity.tzx"
+--tape-sum 56f3ccedbeda915ab7d64860778cd888
+--start 65488

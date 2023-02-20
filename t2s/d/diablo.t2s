@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/d/Diablo48(different).tzx.zip
+diablo.z80
+--sim-load
+--tape-name "Diablo! - 48k - Alternate - Side A.tzx"
+--tape-sum d608ea2e498a6fc01c07218d40757a4c
+; --start 36376

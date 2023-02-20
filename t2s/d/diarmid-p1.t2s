@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/d/Diarmid.tzx.zip
+diarmid-p1.z80
+--sim-load
+--tape-name "Diarmid - Part 1.tzx"
+--tape-sum 225b89dce7d26429cea8913916ac5ef5
+; --start 29201

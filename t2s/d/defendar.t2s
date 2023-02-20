@@ -1,0 +1,6 @@
+https://worldofspectrum.org/pub/sinclair/games/d/Defendar.tzx.zip
+defendar.z80
+--sim-load
+--tape-name "Deffendar.tzx"
+--tape-sum 56266851d0c06eb639a1e41141b86ace
+--start 45068
