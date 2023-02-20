@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/e/Eights.tzx.zip
+eights.z80
+--sim-load
+--tape-name "Eights.tzx"
+--tape-sum 1d16571e750c8e6f4f35e921a1d1905d
+--start 65170

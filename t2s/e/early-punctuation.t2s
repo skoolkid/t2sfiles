@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/EarlyPunctuation.zip
+early-punctuation.z80
+--sim-load
+--tape-name "Early Punctuation.tzx"
+--tape-sum 2b5f77ba0d32eaf28232a56f9d9af6f0
+--start 65024

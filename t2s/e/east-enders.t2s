@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/EastEnders.zip
+east-enders.z80
+--sim-load
+--tape-name "East Enders.tzx"
+--tape-sum 91c0ba1d3644804d41f96777bed54fc8
+--start 64700

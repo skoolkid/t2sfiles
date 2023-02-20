@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/e/Elfindor(ZenobiSoftware).tzx.zip
+elfindor.z80
+--sim-load
+--tape-name "Elfindor.tzx"
+--tape-sum ac11c90f3badf8773a6e371967a266bd
+--start 25000

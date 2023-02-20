@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/pub/sinclair/games/e/EscapeFromMagic.tzx.zip
+escape-from-magic.z80
+--sim-load
+--tape-name "Escape From Magic.tzx"
+--tape-sum 7cadd86ffce9445442e9495d8ed4b963
+--start 34104

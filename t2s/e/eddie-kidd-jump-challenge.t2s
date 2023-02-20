@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/pub/sinclair/games/e/EddieKiddJumpChallenge.tzx.zip
+eddie-kidd-jump-challenge.z80
+--sim-load
+--tape-name "Eddie Kidd Jump Challenge.tzx"
+--tape-sum 1fc5bd1311bf401fb743389f88e9c4b7
+--start 53248

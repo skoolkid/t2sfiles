@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/e/EscapeFromPrisonPlanet.tzx.zip
+escape-from-prison-planet.z80
+--sim-load
+--tape-name "Escape From Prison Planet - Side A.tzx"
+--tape-sum 064e7c1c4722b8bed520c9d466d438ed
+; --start 29201

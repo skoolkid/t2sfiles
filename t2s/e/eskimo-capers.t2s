@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/EskimoCapers.zip
+eskimo-capers.z80
+--sim-load
+--tape-name "Eskimo Capers.tzx"
+--tape-sum 58f3efd38c7167ccbd9c98e713ab4858
+--start 31991

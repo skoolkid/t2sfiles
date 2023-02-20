@@ -1,0 +1,6 @@
+https://worldofspectrum.org/pub/sinclair/games/e/EstimatorRacer.tzx.zip
+estimator-racer.z80
+--sim-load
+--tape-name "Estimator Racer.tzx"
+--tape-sum 1519be95fbbbc5ec15b373348c38baee
+--start 31175
