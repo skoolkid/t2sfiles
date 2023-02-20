@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Zip-Zap.zip
+zip-zap.z80
+--sim-load
+--tape-name "Zip-Zap.tzx"
+--tape-sum 9edde0806adc43282b185ae4e583e138
+--start 24577

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/pub/sinclair/games/w/Wiz-Biz.tzx.zip
+wiz-biz.z80
+--sim-load
+--tape-name "Wiz-Biz.tzx"
+--tape-sum 9ba27056aca25ae54b0b0e8a74404aa0
+--start 34104

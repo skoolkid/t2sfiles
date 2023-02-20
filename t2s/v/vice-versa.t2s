@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/v/ViceVersa.tzx.zip
+vice-versa.z80
+--sim-load
+--tape-name "Vice Versa.tzx"
+--tape-sum 52566303caac1b6387c2a91c928e9944
+--start 33000

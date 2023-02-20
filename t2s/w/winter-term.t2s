@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/WinterTerm.zip
+winter-term.z80
+--sim-load
+--tape-name "WinterTerm.tzx"
+--tape-sum c00d37dbd91669742969d5211b0de034
+--start 34104

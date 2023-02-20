@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/pub/sinclair/games/w/WizardAkyrzThe.tzx.zip
+wizard-akyrz-the.z80
+--sim-load
+--tape-name "Wizard Of Akyrz.tzx"
+--tape-sum 630fc905be6951bbcc4efe28fc41eddd
+--start 24576

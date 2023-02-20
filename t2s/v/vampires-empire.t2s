@@ -1,0 +1,6 @@
+"https://tzxvault.org/Spectrum/TZX/Vampire'sEmpire.zip"
+vampires-empire.z80
+--sim-load
+--tape-name "Vampire's Empire.tzx"
+--tape-sum 1e34d8033c6571b7f390883beff54d8c
+--start 25088

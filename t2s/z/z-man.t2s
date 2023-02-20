@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/z/Z-Man(RBMarketingLtd).tzx.zip
+z-man.z80
+--sim-load
+--tape-name "Z-Man.tzx"
+--tape-sum e6bb42aba6c16dfac41a9fd6a811254e
+--start 31857

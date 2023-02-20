@@ -1,0 +1,6 @@
+https://worldofspectrum.org/pub/sinclair/games/z/ZuluWars.tzx.zip
+zulu-wars.z80
+--sim-load
+--tape-name "Zulu War - Side 1.tzx"
+--tape-sum b47cccf542529befe4a7a3acfcd2279e
+--start 65267

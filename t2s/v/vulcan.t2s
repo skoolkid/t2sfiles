@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/v/Vulcan.tzx.zip
+vulcan.z80
+--sim-load
+--tape-name "Vulcan - 48k.tzx"
+--tape-sum 8b1093a7331f58649086c70c59e1c42d
+--start 48500

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/pub/sinclair/games/z/ZogansRevenge.tzx.zip
+bogmole-ii-zogans-revenge.z80
+--sim-load
+--tape-name "Zogan's Revenge.tzx"
+--tape-sum d1fc6156af005d869aef1a0a33c90765
+; --start 29169

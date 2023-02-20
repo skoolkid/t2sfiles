@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/pub/sinclair/games/w/Wibstars.tzx.zip
+wibstars.z80
+--sim-load
+--tape-name "Wibstars.tzx"
+--tape-sum 8a65faeb786a412952c3f8033f59e897
+--start 23791

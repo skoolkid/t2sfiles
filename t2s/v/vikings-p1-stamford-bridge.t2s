@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/pub/sinclair/games/v/Vikings.tzx.zip
+vikings-p1-stamford-bridge.z80
+--sim-load
+--tape-name "Vikings - Stamford Bridge.tzx"
+--tape-sum 7976a2eb03138f1cd9fee4784f1d604d
+--start 42000

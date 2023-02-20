@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/pub/sinclair/games/v/VampireKiller.tzx.zip
+vampire-killer.z80
+--sim-load
+--tape-name "Vampire Killer.tzx"
+--tape-sum d3412e64fb1da180fc974551d888d6db
+--start 62859

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/v/VideoCardArcade.tzx.zip
+video-card-arcade.z80
+--sim-load
+--tape-name "Video Card Arcade.tzx"
+--tape-sum 7dd809a76438b42dc16e458a4520c50d
+--start 58027

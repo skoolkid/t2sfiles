@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/y/YogiBear.tzx.zip
+yogi-bear.z80
+--sim-load
+--tape-name "Yogi Bear.tzx"
+--tape-sum 730fc2a09ed5a3e18bf1c40055b8d3cd
+--start 65087

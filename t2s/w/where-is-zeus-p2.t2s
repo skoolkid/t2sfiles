@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/WhereIsZeus.zip
+where-is-zeus-p2.z80
+--sim-load
+--tape-name "Where Is Zeus - Part 2.tzx"
+--tape-sum 049deeb96f105524af819f8aae094124
+; --start 29201

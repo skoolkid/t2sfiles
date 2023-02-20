@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/pub/sinclair/games/z/ZXTrek.tzx.zip
+zx-trek.z80
+--sim-load
+--tape-name "ZX Trek.tzx"
+--tape-sum f491ea7d2b277cbe7110846b03bcff77
+--start 65368
