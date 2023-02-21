@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Flameout.zip
+flameout.z80
+--sim-load
+--tape-name "Flameout.tzx"
+--tape-sum 625e26c2eab04d5d96c37dc4be5d5efe
+--start 25000

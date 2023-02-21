@@ -1,0 +1,6 @@
+"https://tzxvault.org/Spectrum/TZX/Freez'Bees.zip"
+freez-bees.z80
+--sim-load
+--tape-name "Freez' Bees.tzx"
+--tape-sum 765c293ffcf875a43f085f4441809fe6
+--start 36500

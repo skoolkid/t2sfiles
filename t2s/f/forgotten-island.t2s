@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/f/ForgottenIsland.tzx.zip
+forgotten-island.z80
+--sim-load
+--tape-name "Forgotten Island.tzx"
+--tape-sum 7e2df41a14130206da55975d229c4d87
+--start 34104

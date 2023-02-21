@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/FaultyTowers.zip
+faulty-towers.z80
+--sim-load
+--tape-name "Faulty Towers.tzx"
+--tape-sum b273bfab317e72e552d7066273fe7a40
+--start 25063

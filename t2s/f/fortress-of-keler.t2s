@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/FortressOfKeler.zip
+fortress-of-keler.z80
+--sim-load
+--tape-name "Fortress Of Keler.tzx"
+--tape-sum f1909579ee95556b2f5c381c2abf8e68
+--start 25000

@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/FindersKeepers.zip
+finders-keepers.z80
+--sim-load
+--tape-name "Finders Keepers.tzx"
+--tape-sum e25f8f219a6c326cd38c8956131a2f7a
+--start 28672

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/f/ForGoldOrGlory.tzx.zip
+for-gold-or-glory.z80
+--sim-load
+--tape-name "For Gold Or Glory.tzx"
+--tape-sum 4b1d84409164ccd8cba5d440a768b7e9
+--start 34104

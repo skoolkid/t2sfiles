@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/f/FantasiaDiamond.tzx.zip
+fantasia-diamond.z80
+--sim-load
+--tape-name "Fantasia Diamond.tzx"
+--tape-sum 82f7bff0ad4b47aae333868fa89eb38d
+--start 64102

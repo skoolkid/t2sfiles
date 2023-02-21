@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/FlyerFox.zip
+flyer-fox.z80
+--sim-load
+--tape-name "Flyer Fox.tzx"
+--tape-sum ebbb76e316283b3d6338b82f632dd234
+--start 25500
