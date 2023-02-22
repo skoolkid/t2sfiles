@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/GalacticTrooper.zip
+galactic-trooper.z80
+--sim-load
+--tape-name "Galactic Trooper.tzx"
+--tape-sum f6c64f6417ea647e118ce84c30a8b362
+--start 24958

@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/IncaCurse.zip
+inca-curse.z80
+--sim-load
+--tape-name "Inca Curse.tzx"
+--tape-sum a308ff6e6d7cb7994f2c5cc543475faa
+--start 24108

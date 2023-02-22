@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/HypaRaid.zip
+hypa-raid.z80
+--sim-load
+--tape-name "Hypa Raid.tzx"
+--tape-sum daa5bc34191115a3fc0b47a3e77b537a
+--start 43100

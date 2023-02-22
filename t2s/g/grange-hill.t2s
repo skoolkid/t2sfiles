@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/GrangeHill.zip
+grange-hill.z80
+--sim-load
+--tape-name "Grange Hill - 48k.tzx"
+--tape-sum 4096f6a94fd993dd9d626fd3cd8bc31a
+--start 24145

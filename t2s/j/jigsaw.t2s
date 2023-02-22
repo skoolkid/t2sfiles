@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Jigsaw.zip
+jigsaw.z80
+--sim-load
+--tape-name "Jigsaw.tzx"
+--tape-sum 88d34a8e4ca4023bc5345aefe5a3f812
+--start 23762

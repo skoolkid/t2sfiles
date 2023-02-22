@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/h/HighwayCode.tzx.zip
+highway-code-test.z80
+--sim-load
+--tape-name "Highway Code Test.tzx"
+--tape-sum 28bf1fd2d75005f493d6d04b0ef8c3c9
+--start 57000

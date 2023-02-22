@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/j/JudgeDredd.tzx.zip
+judge-dredd.z80
+--sim-load
+--tape-name "Judge Dredd.tzx"
+--tape-sum 5b6ae6a1d9a21169f723766aa38bd5b9
+--start 24736

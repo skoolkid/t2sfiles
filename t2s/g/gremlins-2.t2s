@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Gremlins2.zip
+gremlins-2.z80
+--sim-load
+--tape-name "Gremlins 2.tzx"
+--tape-sum 217d523bacc4c14d716c4f3a8824b9a8
+--start 47296

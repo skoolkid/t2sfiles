@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/HauntedHedges.zip
+haunted-hedges.z80
+--sim-load
+--tape-name "Haunted Hedges.tzx"
+--tape-sum 004f856dad251ec0b547d5d6742b9f92
+--start 27800

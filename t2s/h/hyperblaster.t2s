@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Hyperblaster.zip
+hyperblaster.z80
+--sim-load
+--tape-name "Hyperblaster.tzx"
+--tape-sum a8924eab58c627dd4b4fc4117029205a
+--start 65418

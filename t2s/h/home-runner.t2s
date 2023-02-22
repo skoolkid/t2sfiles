@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/h/HomeRunner.tzx.zip
+home-runner.z80
+--sim-load
+--tape-name "Home Runner.tzx"
+--tape-sum adbe74d02167fd1eac69f37ef689889b
+--start 44000

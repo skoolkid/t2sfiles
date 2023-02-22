@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/g/Grid-Bug.tzx.zip
+grid-bug.z80
+--sim-load
+--tape-name "Grid Bug.tzx"
+--tape-sum 634635f64098c38e60eedf77ffab0987
+--start 26598

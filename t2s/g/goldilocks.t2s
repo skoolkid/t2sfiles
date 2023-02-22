@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/g/Goldilocks.tzx.zip
+goldilocks.z80
+--sim-load
+--tape-name "Goldilocks.tzx"
+--tape-sum 07bc2ca9db7d28a6d5c5b70f1c0e3a1b
+--start 23411

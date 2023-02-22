@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/InvadersFromPlanetX.zip
+invaders-from-planet-x.z80
+--sim-load
+--tape-name "Invaders From Planet X.tzx"
+--tape-sum 68e46f0b5b2a946f427f850b84edaa84
+; --start 36383

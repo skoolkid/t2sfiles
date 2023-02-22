@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/h/HarveyHeadbanger.tzx.zip
+harvey-headbanger.z80
+--sim-load
+--tape-name "Harvey Headbanger.tzx"
+--tape-sum ee01264af04db0111addb5e47a073ac7
+--start 57344

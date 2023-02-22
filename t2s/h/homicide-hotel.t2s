@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/h/HomicideHotel.tzx.zip
+homicide-hotel.z80
+--sim-load
+--tape-name "Homicide Hotel.tzx"
+--tape-sum f34415909f7f532193c3ef13435c58ab
+; --start 36376

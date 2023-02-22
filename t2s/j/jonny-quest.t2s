@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/JonnyQuest.zip
+jonny-quest.z80
+--sim-load
+--tape-name "Jonny Quest.tzx"
+--tape-sum 18795ff7efccbb412f09bd96b14c1b36
+--start 16384

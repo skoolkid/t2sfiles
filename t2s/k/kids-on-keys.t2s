@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/KidsOnKeys.zip
+kids-on-keys.z80
+--sim-load
+--tape-name "Kids On Keys.tzx"
+--tape-sum 98082a300b5ea5ebc6142bf2ecdae70a
+--start 32768

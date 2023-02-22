@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/h/H.A.R.D..tzx.zip
+hard.z80
+--sim-load
+--tape-name "HARD.tzx"
+--tape-sum 34537bd07bd2fdb5d2900906c781a48d
+--start 36224

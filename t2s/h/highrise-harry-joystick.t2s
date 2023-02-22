@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/h/HighriseHarry.tzx.zip
+highrise-harry-joystick.z80
+--sim-load
+--tape-name "Highrise Harry - Joystick.tzx"
+--tape-sum dfc779fb36ecb9380bfdfef12d190a6b
+--start 40001

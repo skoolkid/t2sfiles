@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/GalacticGambler.zip
+galactic-gambler.z80
+--sim-load
+--tape-name "Galactic Gambler.tzx"
+--tape-sum d2c8decad21c74c32ebcac803bf7fcc0
+--start 23817

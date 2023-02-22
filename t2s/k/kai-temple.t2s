@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/k/KaiTemple.tzx.zip
+kai-temple.z80
+--sim-load
+--tape-name "Kai Temple.tzx"
+--tape-sum b65e98a747cdca9dc421e8c1ed0a7e0b
+--start 40000

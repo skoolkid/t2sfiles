@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/InternationalRugby.zip
+international-rugby.z80
+--sim-load
+--tape-name "International Rugby.tzx"
+--tape-sum 632d213ee1f92a306835c559bc422c60
+; --start 28774

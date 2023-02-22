@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/i/Interalia.tzx.zip
+interalia.z80
+--sim-load
+--tape-name "Interalia.tzx"
+--tape-sum 5a3531204b18d4109af1df5a58b1f430
+--start 58122

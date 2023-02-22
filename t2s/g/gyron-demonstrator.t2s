@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/g/GyronDemonstrator.tzx.zip
+gyron-demonstrator.z80
+--sim-load
+--tape-name "Gyron Demonstrator.tzx"
+--tape-sum 2ef2e7c0c77f3bf69684ea70d0b3908d
+--start 24576

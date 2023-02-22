@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/g/Galactians.tzx.zip
+galactians.z80
+--sim-load
+--tape-name "Galactians.tzx"
+--tape-sum b33222650aa21642089001016a23d7eb
+--start 23500

@@ -1,0 +1,6 @@
+"https://tzxvault.org/Spectrum/TZX/JockyWilson'sDartChallenge.zip"
+jocky-wilsons-dart-challenge.z80
+--sim-load
+--tape-name "Jocky Wilson's Dart Challenge.tzx"
+--tape-sum 0a0e1a5b1fd0b48345a04f61214cd368
+--start 24605

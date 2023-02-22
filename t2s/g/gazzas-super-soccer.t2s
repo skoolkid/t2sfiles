@@ -1,0 +1,6 @@
+"https://tzxvault.org/Spectrum/TZX/Gazza'sSuperSoccer.zip"
+gazzas-super-soccer.z80
+--sim-load
+--tape-name "Gazza's Super Soccer.tzx"
+--tape-sum 03c0475727eff5a9701b326ba81b9e66
+--start 27904

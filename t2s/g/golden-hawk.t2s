@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/GoldenHawk.zip
+golden-hawk.z80
+--sim-load
+--tape-name "Golden Hawk.tzx"
+--tape-sum ea8c5e56725e1cc54967387d0b9a888c
+--start 26317

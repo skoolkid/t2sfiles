@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/j/JestersJaunt.tzx.zip
+jesters-jaunt-p1.z80
+--sim-load
+--tape-name "Jester's Jaunt - Part 1.tzx"
+--tape-sum 8a1b095c9dd8f36d81b4cdae5fd095c9
+; --start 29169
