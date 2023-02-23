@@ -1,0 +1,7 @@
+https://tzxvault.org/Spectrum/TZX/RoadToad.zip
+road-toad.z80
+--sim-load
+--tape-name "Road Toad.tzx"
+--tape-sum f67a33462c2744b8d70a5bf902f85630
+--start 24626
+--tape-stop 18

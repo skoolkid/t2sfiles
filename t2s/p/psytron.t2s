@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Psytron.tzx.zip
+psytron.z80
+--sim-load
+--tape-name "Psytron - Side 1.tzx"
+--tape-sum b16ca7e88f576b56d90c074bc76a0dc3
+--start 59682

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Piggy.tzx.zip
+piggy-bug-byte.z80
+--sim-load
+--tape-name "Piggy.tzx"
+--tape-sum f66a0991f55269bf10a12522b87ccc3f
+--start 33171

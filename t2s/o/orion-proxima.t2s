@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/o/Orion.tzx.zip
+orion-proxima.z80
+--sim-load
+--tape-name "orion.tzx"
+--tape-sum 1185470e535deaf83a75840ff1c86af8
+--start 64952

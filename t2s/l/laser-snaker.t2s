@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/l/LaserSnaker.tzx.zip
+laser-snaker.z80
+--sim-load
+--tape-name "Laser Snaker.tzx"
+--tape-sum a7a6b472ff996f3cb54eb2fcaf752c70
+--start 42000

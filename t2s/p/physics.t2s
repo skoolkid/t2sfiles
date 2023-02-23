@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Physics.zip
+physics.z80
+--sim-load
+--tape-name "Physics - Side A.tzx"
+--tape-sum c889254ebbc0f327eda5c3f62641d754
+; --start 57150

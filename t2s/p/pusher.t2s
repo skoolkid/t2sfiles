@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Pusher.zip
+pusher.z80
+--sim-load
+--tape-name "Pusher.tzx"
+--tape-sum 3d6932bec7caa0f67d37322f98d237c0
+--start 63660

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/o/OperationColossus.tzx.zip
+operation-colossus.z80
+--sim-load
+--tape-name "Operation Colossus.tzx"
+--tape-sum 571d719795ff768b90dfd9551692109d
+--start 25000

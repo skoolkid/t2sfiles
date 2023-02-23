@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RallyDriver.tzx.zip
+rally-driver.z80
+--sim-load
+--tape-name "Rally Driver.tzx"
+--tape-sum 2432a1fef59b1b74c01fbf89c56a3273
+--start 23398

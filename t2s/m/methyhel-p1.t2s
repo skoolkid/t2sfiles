@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Methyhel.tzx.zip
+methyhel-p1.z80
+--sim-load
+--tape-name "Methyhel - Part 1.tzx"
+--tape-sum 5b71e5dccd4aaef820605d2a4b33dc23
+; --start 29046

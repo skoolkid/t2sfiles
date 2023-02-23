@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/q/Quackers.tzx.zip
+quackers.z80
+--sim-load
+--tape-name "Quackers.tzx"
+--tape-sum 653ea741197a27fa8ea21ffa642d3777
+--start 27013

@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/MotorcycleCrazy!.zip
+motorcycle-crazy.z80
+--sim-load
+--tape-name "Motorcycle Crazy!.tzx"
+--tape-sum 9418a1c9e845a54a18654aa467261618
+--start 25000

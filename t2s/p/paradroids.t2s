@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Paradroids.tzx.zip
+paradroids.z80
+--sim-load
+--tape-name "Paradroids.tzx"
+--tape-sum 7d37ac0e06d2a94444cada7549cd3669
+--start 43228

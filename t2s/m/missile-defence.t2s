@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MissileDefence.tzx.zip
+missile-defence.z80
+--sim-load
+--tape-name "Missile Defence - Side 1.tzx"
+--tape-sum f7a0b018ebc48f04be2f712a77222591
+--start 29104

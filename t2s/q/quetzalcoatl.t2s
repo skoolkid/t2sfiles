@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/q/Quetzalcoatl.tzx.zip
+quetzalcoatl.z80
+--sim-load
+--tape-name "Quetzalcoatl.tzx"
+--tape-sum 1344ebf96cc2d4c4383ba86cd5336735
+--start 57344

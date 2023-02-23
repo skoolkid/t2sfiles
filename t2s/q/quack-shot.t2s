@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Quack-Shot.zip
+quack-shot.z80
+--sim-load
+--tape-name "Quack-Shot.tzx"
+--tape-sum 2a052f3a82b92bebcf136258304b1068
+--start 42700

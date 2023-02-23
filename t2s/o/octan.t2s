@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/o/Octan.tzx.zip
+octan.z80
+--sim-load
+--tape-name "Octan.tzx"
+--tape-sum 12f0c6cdf98434fe382d878b2905b1fd
+--start 54554

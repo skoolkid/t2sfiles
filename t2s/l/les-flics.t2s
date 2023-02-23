@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/LesFlics.zip
+les-flics.z80
+--sim-load
+--tape-name "Les Flics.tzx"
+--tape-sum 2ea666746e254aa01997d91442ee1000
+--start 36783

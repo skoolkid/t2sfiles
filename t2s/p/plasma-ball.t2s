@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PlasmaBall.tzx.zip
+plasma-ball.z80
+--sim-load
+--tape-name "Plasma Ball.tzx"
+--tape-sum 1191051c85e02aa7ac85dd4a17e119b1
+--start 42270

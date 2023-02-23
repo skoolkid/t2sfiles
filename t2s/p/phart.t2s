@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/PHART.zip
+phart.z80
+--sim-load
+--tape-name "PHART.tzx"
+--tape-sum bc3d259b38df8b043f32b746894a6fe2
+; --start 36366

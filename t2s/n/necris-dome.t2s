@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/n/NecrisDome.tzx.zip
+necris-dome.z80
+--sim-load
+--tape-name "Necris Dome.tzx"
+--tape-sum 8947412fc750bab844e3191368f3f68d
+--start 34104

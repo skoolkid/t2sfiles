@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/o/Orion_2.tzx.zip
+orion-software-projects.z80
+--sim-load
+--tape-name "Orion.tzx"
+--tape-sum 59ea974f8b5124eefefb9a7a980c639c
+--start 52695

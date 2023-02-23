@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/l/Liberator.tzx.zip
+liberator.z80
+--sim-load
+--tape-name "Liberator.tzx"
+--tape-sum b0eafc4d12eea54975bc155ff2e26de7
+--start 32312

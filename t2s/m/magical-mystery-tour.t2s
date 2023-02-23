@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/MagicalMysteryTour.zip
+magical-mystery-tour.z80
+--sim-load
+--tape-name "Magical Mystery Tour.tzx"
+--tape-sum 2abff0635be8f651077988c4308d6fb4
+--start 25063

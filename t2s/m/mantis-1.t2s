@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Mantis1.tzx.zip
+mantis-1.z80
+--sim-load
+--tape-name "Mantis 1.tzx"
+--tape-sum b064fc6742a5ade2b2e39c7a4d5fa0bc
+--start 25024

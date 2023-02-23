@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/OilStrike.zip
+oil-strike.z80
+--sim-load
+--tape-name "Oil Strike.tzx"
+--tape-sum 73eece6b764032de73f3c8bfe855e666
+--start 23398

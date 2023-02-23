@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Pool.zip
+pool.z80
+--sim-load
+--tape-name "Pool.tzx"
+--tape-sum 5e3970ae7aae328c91fe62667cb77bbc
+--start 25000

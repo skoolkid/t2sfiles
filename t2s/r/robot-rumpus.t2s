@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/RobotRumpus.zip
+robot-rumpus.z80
+--sim-load
+--tape-name "Robot Rumpus.tzx"
+--tape-sum 6176b46dc3c5da5cf9247118d35ccf7a
+--start 40000

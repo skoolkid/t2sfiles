@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/MerryXmasSanta.zip
+merry-xmas-santa.z80
+--sim-load
+--tape-name "Merry Xmas Santa.tzx"
+--tape-sum a59f155555260fc7e2d8684aa69d0df6
+--start 56701

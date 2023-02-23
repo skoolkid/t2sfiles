@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/r/Reveal.tzx.zip
+reveal.z80
+--sim-load
+--tape-name "Reveal.tzx"
+--tape-sum 959093b83d8e5ddb79cbbd401dfefe19
+--start 24576

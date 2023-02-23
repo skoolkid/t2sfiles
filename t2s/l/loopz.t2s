@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Loopz.zip
+loopz.z80
+--sim-load
+--tape-name "Loopz.tzx"
+--tape-sum 6beef521e2763391e4effda1e6a6884a
+--start 26400

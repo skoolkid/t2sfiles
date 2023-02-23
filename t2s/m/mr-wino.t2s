@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/MrWino.zip
+mr-wino.z80
+--sim-load
+--tape-name "Mr Wino.tzx"
+--tape-sum 7c7afc909c9ebef522d3896dab29e2ca
+--start 28000

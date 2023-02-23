@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/RoadWars.zip
+road-wars.z80
+--sim-load
+--tape-name "Road Wars.tzx"
+--tape-sum 32b695f6cf59e53668f576481565ab02
+--start 32765

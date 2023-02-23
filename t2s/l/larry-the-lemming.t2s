@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/LarryTheLemming.zip
+larry-the-lemming.z80
+--sim-load
+--tape-name "Larry The Lemming.tzx"
+--tape-sum a85a7f96097f9306725a753ee7119fc6
+; --start 29169

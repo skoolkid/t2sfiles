@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Laserstraal.zip
+laserstraal.z80
+--sim-load
+--tape-name "Laserstraal.tzx"
+--tape-sum f03b87513c595e700d7198a137a01fd3
+--start 25000

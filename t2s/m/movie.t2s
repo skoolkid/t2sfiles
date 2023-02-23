@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Movie.tzx.zip
+movie.z80
+--sim-load
+--tape-name "Movie.tzx"
+--tape-sum 6710e3f10166277c9d32d8d41a288749
+--start 65446

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PrehistoricAdventure.tzx.zip
+prehistoric-adventure.z80
+--sim-load
+--tape-name "Prehistoric Adventure.tzx"
+--tape-sum 486e6e0ae5215d00a256d68fc9666875
+--start 58096

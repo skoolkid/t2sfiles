@@ -1,0 +1,6 @@
+"https://tzxvault.org/Spectrum/TZX/Mahownie'sLight.zip"
+mahownies-light.z80
+--sim-load
+--tape-name "Mahownie's Light.tzx"
+--tape-sum 91f23095da75a5b60de13e3c2c1faf3a
+--start 25063

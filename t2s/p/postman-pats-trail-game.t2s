@@ -1,0 +1,6 @@
+"https://tzxvault.org/Spectrum/TZX/PostmanPat'sTrailGame.zip"
+postman-pats-trail-game.z80
+--sim-load
+--tape-name "Postman Pat's Trail Game.tzx"
+--tape-sum 0920c95723e7e182709dc0e72a9f1c98
+--start 59900

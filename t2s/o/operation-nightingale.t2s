@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/o/OperationNightingale.tzx.zip
+operation-nightingale.z80
+--sim-load
+--tape-name "Operation Nightingale.tzx"
+--tape-sum 77c8642cd1085b257e292e188d946c7d
+--start 25063

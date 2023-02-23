@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/l/Life-Term.tzx.zip
+lifeterm.z80
+--sim-load
+--tape-name "Lifeterm.tzx"
+--tape-sum acda9edd92de68c7b8d8395dfacd2b99
+--start 34104

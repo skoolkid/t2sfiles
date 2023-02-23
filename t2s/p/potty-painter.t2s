@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/PottyPainter.zip
+potty-painter.z80
+--sim-load
+--tape-name "Potty Painter.tzx"
+--tape-sum 2aaa6f75531d37a8450239c11f6ba334
+--start 23309

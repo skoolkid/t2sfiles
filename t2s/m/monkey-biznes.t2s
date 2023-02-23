@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MonkeyBiznes.tzx.zip
+monkey-biznes.z80
+--sim-load
+--tape-name "Monkey Biznes.tzx"
+--tape-sum 60beea4d203f7cf5996ac44d036ba0f3
+--start 40096

@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/LancerLords.zip
+lancer-lords.z80
+--sim-load
+--tape-name "Lancer Lords.tzx"
+--tape-sum cbecfc15f188197e9f74500adff20c30
+--start 23358

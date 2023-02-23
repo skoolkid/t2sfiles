@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/LunarLetters.zip
+lunar-letters.z80
+--sim-load
+--tape-name "Lunar Letters.tzx"
+--tape-sum d6389c9671cc86e24a875ba05778d938
+--start 32220

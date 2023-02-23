@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RexHard.tzx.zip
+rex-hard.z80
+--sim-load
+--tape-name "Rex Hard.tzx"
+--tape-sum b174de59b95701e86b36250321ecf4a5
+--start 55632

@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/MicroMaze.zip
+micro-maze.z80
+--sim-load
+--tape-name "Micro Maze.tzx"
+--tape-sum 633116afb9c8bc60ea11b46e707c8656
+--start 54000

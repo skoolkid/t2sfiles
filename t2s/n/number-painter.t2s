@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/NumberPainter.zip
+number-painter.z80
+--sim-load
+--tape-name "Number Painter.tzx"
+--tape-sum b48228c0f069631efe4fccfd90ac0c2c
+--start 27328

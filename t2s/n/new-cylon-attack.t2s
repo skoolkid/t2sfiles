@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/NewCylonAttack.zip
+new-cylon-attack.z80
+--sim-load
+--tape-name "New Cylon Attack.tzx"
+--tape-sum 5373a825577e9bd718040eb2ddb4d028
+--start 25500

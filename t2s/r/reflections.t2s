@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/r/Reflections.tzx.zip
+reflections.z80
+--sim-load
+--tape-name "Reflections.tzx"
+--tape-sum 79e88baaaffc65f3394b46368b0e8f2c
+--start 28701

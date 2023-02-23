@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/PubGames.zip
+pub-games.z80
+--sim-load
+--tape-name "Pub Games - Side A.tzx"
+--tape-sum e31b0ab55f28bb23630257590574465a
+--start 53800

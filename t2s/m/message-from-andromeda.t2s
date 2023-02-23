@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MessageFromAndromeda.tzx.zip
+message-from-andromeda.z80
+--sim-load
+--tape-name "Message From Andromeda.tzx"
+--tape-sum eee11928463dafdc695fd88956e384fb
+; --start 23815

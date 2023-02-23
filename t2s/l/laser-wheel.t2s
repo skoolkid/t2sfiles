@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/LaserWheel.zip
+laser-wheel.z80
+--sim-load
+--tape-name "Laser Wheel.tzx"
+--tape-sum 159261cbf9e6ee3a0fa25bc75422bd13
+--start 32768

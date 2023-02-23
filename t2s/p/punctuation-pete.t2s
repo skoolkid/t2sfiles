@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/PunctuationPete.zip
+punctuation-pete.z80
+--sim-load
+--tape-name "Punctuation Pete.tzx"
+--tape-sum 605bb5561ff7ca5bea39492e7302a202
+--start 23312

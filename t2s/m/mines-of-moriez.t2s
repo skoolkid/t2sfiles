@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/MinesOfMoriez.zip
+mines-of-moriez.z80
+--sim-load
+--tape-name "Mines Of Moriez.tzx"
+--tape-sum 0d12e84ecd6989acd6a98ffdc1d3400c
+--start 57040
