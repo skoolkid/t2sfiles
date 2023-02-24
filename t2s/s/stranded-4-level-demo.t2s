@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/StrandedDemo.tzx.zip
+stranded-4-level-demo.z80
+--sim-load
+--tape-name "Stranded - 4 Level Demo.tzx"
+--tape-sum fd9267dc306dd5d8602892b12d69c07d
+--start 30000

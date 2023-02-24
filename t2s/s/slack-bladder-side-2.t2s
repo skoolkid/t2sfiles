@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/SlackBladder.zip
+slack-bladder-side-2.z80
+--sim-load
+--tape-name "Slack Bladder - Side 2.tzx"
+--tape-sum ecdaa6ebbe97410de13c7b322d8eb570
+--start 25000

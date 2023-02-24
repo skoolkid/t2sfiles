@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/StarsSistem.tzx.zip
+stars-sistem.z80
+--sim-load
+--tape-name "StarsSistem.tzx"
+--tape-sum e4c18f71ad667c4d7b4aa61847c397b2
+--start 36000

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SpeechMarks.tzx.zip
+speech-marks.z80
+--sim-load
+--tape-name "Speech Marks.tzx"
+--tape-sum d24ede009bc13ca258b8751cfac8d2e7
+; --start 65024

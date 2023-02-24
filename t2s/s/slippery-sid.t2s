@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/SlipperySid.zip
+slippery-sid.z80
+--sim-load
+--tape-name "Slippery Sid.tzx"
+--tape-sum 1362981382951580f9fbfa0b0f690c34
+--start 25561

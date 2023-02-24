@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/SeaHawk.zip
+sea-hawk.z80
+--sim-load
+--tape-name "Sea Hawk.tzx"
+--tape-sum b5a85dac13a61a6e6abe84e998174938
+--start 41004

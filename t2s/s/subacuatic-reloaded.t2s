@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SubacuaticReloaded.tzx.zip
+subacuatic-reloaded.z80
+--sim-load
+--tape-name "Subacuatic Reloaded.tzx"
+--tape-sum 6ea7590f2e0e31f5920ca3948e7ae0c5
+--start 25000

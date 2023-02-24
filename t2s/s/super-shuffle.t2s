@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SuperShuffle.tzx.zip
+super-shuffle.z80
+--sim-load
+--tape-name "Super Shuffle.tzx"
+--tape-sum ae8f88c758b56d91ffba2b4b265c5455
+--start 36000

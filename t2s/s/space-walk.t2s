@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SpaceWalk.tzx.zip
+space-walk.z80
+--sim-load
+--tape-name "Space Walk.tzx"
+--tape-sum ff1bbb4bd190cb152ff17844962d932d
+--start 31498

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SumScruncher.tzx.zip
+sum-scruncher.z80
+--sim-load
+--tape-name "Sum Scruncher.tzx"
+--tape-sum 77f977de52471c4be7debbe02c771cb5
+--start 32220

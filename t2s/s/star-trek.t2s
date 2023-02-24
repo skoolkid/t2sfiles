@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/StarTrek_2.tzx.zip
+star-trek.z80
+--sim-load
+--tape-name "Star Trek.tzx"
+--tape-sum f552cc917bdc86c52195d81fdd65e365
+--start 64100

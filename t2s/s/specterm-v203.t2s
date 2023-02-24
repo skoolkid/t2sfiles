@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Spectermv2.03.zip
+specterm-v203.z80
+--sim-load
+--tape-name "Specterm v2.03.tzx"
+--tape-sum ca0a08ecc85718d0ce6bc4e9733d1a29
+--start 61006

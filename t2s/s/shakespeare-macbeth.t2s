@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Shakespeare-Macbeth.zip
+shakespeare-macbeth.z80
+--sim-load
+--tape-name "Shakespeare - Macbeth.tzx"
+--tape-sum 8c996424b1888ad6375e582f3bf04b98
+; --start 65129

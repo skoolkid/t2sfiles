@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/StatutorySickPay.zip
+statutory-sick-pay.z80
+--sim-load
+--tape-name "Statutory Sick Pay.tzx"
+--tape-sum 0be6000afe69ff906460593a2810d2a5
+--start 23760

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SoLittleTime.tzx.zip
+so-little-time.z80
+--sim-load
+--tape-name "So Little Time.tzx"
+--tape-sum b67e1c1b329281068d02d886f031598f
+; --start 29169

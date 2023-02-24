@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/ShrewsburyKey.tzx.zip
+shrewsbury-key.z80
+--sim-load
+--tape-name "Shrewsbury Key.tzx"
+--tape-sum abe8216404d9779dbd30cd4071b060bf
+--start 23320

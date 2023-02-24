@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Starclash.tzx.zip
+starclash.z80
+--sim-load
+--tape-name "Starclash.tzx"
+--tape-sum 78e4ab954b08435f743bdb8232d17da5
+--start 23762

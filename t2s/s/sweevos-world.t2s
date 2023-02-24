@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SweevosWorld.tzx.zip
+sweevos-world.z80
+--sim-load
+--tape-name "Sweevo's World.tzx"
+--tape-sum bedcd8c91e34f01e8f8741d65b99aec5
+--start 24800

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SharkAttack.tzx.zip
+shark-attack.z80
+--sim-load
+--tape-name "Shark Attack.tzx"
+--tape-sum 677ffb40571ebd575d16e6545be23589
+--start 24027

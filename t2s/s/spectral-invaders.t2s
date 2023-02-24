@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/SpectralInvaders-Release1.zip
+spectral-invaders.z80
+--sim-load
+--tape-name "Spectral Invaders - Release 1.tzx"
+--tape-sum 8d4f425b817869919594521ba5ff6e6a
+--start 24577

@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/SUDD.zip
+sudd.z80
+--sim-load
+--tape-name "SUDD.tzx"
+--tape-sum 8774468834c43917a24b2d292a97356d
+--start 23792

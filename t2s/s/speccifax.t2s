@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Speccifax.zip
+speccifax.z80
+--sim-load
+--tape-name "Speccifax.tzx"
+--tape-sum 9eac0deccf1926ed0082963c92b69d44
+--start 56400

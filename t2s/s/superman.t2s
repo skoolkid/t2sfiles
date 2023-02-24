@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Superman.zip
+superman.z80
+--sim-load
+--tape-name "Superman.tzx"
+--tape-sum c7544a7669900c4bdb54885e9f196750
+--start 33000

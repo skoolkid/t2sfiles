@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Soccer7.zip
+soccer-7.z80
+--sim-load
+--tape-name "Soccer 7.tzx"
+--tape-sum 7159620984335cfd23fe3b6e8ce1501a
+--start 64810

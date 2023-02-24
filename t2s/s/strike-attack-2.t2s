@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/StrikeAttack2.zip
+strike-attack-2.z80
+--sim-load
+--tape-name "Strike Attack 2.tzx"
+--tape-sum 8452522f2ecf39d3380c9e5bc665af38
+; --start 64257

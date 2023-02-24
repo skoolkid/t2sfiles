@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Swat!.zip
+swat.z80
+--sim-load
+--tape-name "Swat!.tzx"
+--tape-sum 8e3a6fa79219d18ec85788614a2aa0d2
+--start 45590

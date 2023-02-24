@@ -1,0 +1,6 @@
+"https://tzxvault.org/Spectrum/TZX/Santa'sChristmasCaper.zip"
+santas-christmas-caper.z80
+--sim-load
+--tape-name "Santa's Christmas Caper.tzx"
+--tape-sum 6dcecd5a39113be253a6cc9b1caec06a
+--start 24528

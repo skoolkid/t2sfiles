@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/SkyRunner.zip
+sky-runner.z80
+--sim-load
+--tape-name "Sky Runner.tzx"
+--tape-sum 2bcac375ffabe062b07ef963d4cabb3c
+--start 63723

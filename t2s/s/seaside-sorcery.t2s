@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/SeasideSorcery.zip
+seaside-sorcery.z80
+--sim-load
+--tape-name "Seaside Sorcery.tzx"
+--tape-sum 3bb01960a27c9d9491ef4b23e2e537b6
+; --start 29169

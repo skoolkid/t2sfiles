@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Stranded.tzx.zip
+stranded-cronosoft.z80
+--sim-load
+--tape-name "Stranded.tzx"
+--tape-sum ccce5c8b0d5f1189582b1b23833420af
+--start 30000

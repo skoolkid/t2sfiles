@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SuperTed.tzx.zip
+super-ted.z80
+--sim-load
+--tape-name "Super Ted.tzx"
+--tape-sum 6befc7d9ae608795b3ec3e7fac864c16
+--start 59900

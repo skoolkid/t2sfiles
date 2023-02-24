@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Shakespeare-MerchantOfVenice.zip
+shakespeare-merchant-of-venice.z80
+--sim-load
+--tape-name "Shakespeare - Merchant Of Venice.tzx"
+--tape-sum 9221f737bc2f113c55df08481ec11c4e
+--start 65129

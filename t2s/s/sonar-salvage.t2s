@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SonarSalvage.tzx.zip
+sonar-salvage.z80
+--sim-load
+--tape-name "Sonar Salvage.tzx"
+--tape-sum 53dd05a5b753fa740407e1f2badf182d
+--start 52200

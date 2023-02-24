@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/SpyTrek.zip
+spy-trek.z80
+--sim-load
+--tape-name "Spy Trek.tzx"
+--tape-sum 4dec61ba41e860fa1e7f12da131133da
+--start 34104

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SpectralDungeonsThe.tzx.zip
+spectral-dungeons-the.z80
+--sim-load
+--tape-name "spectral-dungeons.tzx"
+--tape-sum b91bdad53f848fa530f7ef5414079a99
+--start 32768

@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Stormbringer-48k.zip
+stormbringer.z80
+--sim-load
+--tape-name "Stormbringer - 48k.tzx"
+--tape-sum 9dfba2a2b295359d3fa53766183f929c
+--start 37632

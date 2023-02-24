@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/SYS64.zip
+sys-64-side-2.z80
+--sim-load
+--tape-name "SYS 64 - Side 2.tzx"
+--tape-sum de8b51ef611626289d572ce77561f94a
+--start 65321

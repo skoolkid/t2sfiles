@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Starfighters.tzx.zip
+starfighters.z80
+--sim-load
+--tape-name "Starfighters.tzx"
+--tape-sum 34fc9fbca78ccc3fe3075342b4bfa2a0
+--start 29950

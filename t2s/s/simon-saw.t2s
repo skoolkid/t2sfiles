@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/SimonSaw.zip
+simon-saw.z80
+--sim-load
+--tape-name "Simon Saw.tzx"
+--tape-sum 32603818c98c84b0cafeb6e76c34ce42
+--start 65100

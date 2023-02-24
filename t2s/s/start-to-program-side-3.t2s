@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/StartToProgram.tzx.zip
+start-to-program-side-3.z80
+--sim-load
+--tape-name "Start To Program - Side 3.tzx"
+--tape-sum 66fb9a4fd587966f10b471b42bf77699
+--start 65311

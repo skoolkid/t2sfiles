@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/SouthernBelle.zip
+southern-belle-side-2.z80
+--sim-load
+--tape-name "Southern Belle - Side 2.tzx"
+--tape-sum cba75fd1c45f27951e13d849bbcb57ac
+--start 41000

@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/StreetRacer.zip
+street-racer.z80
+--sim-load
+--tape-name "Street Racer.tzx"
+--tape-sum a73b1ddfb164ccc0116e0f4f7bbe424c
+--start 29700

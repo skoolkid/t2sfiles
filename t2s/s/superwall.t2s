@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Superwall.tzx.zip
+superwall.z80
+--sim-load
+--tape-name "Superwall.tzx"
+--tape-sum 16da4e72a0751249e18e396cb53f463e
+--start 60000

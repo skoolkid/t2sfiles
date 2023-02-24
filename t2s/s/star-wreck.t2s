@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/StarWreck.tzx.zip
+star-wreck.z80
+--sim-load
+--tape-name "Star Wreck.tzx"
+--tape-sum 7cd9263b68ae4f257d546eec9685108f
+--start 34104

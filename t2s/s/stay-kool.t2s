@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/StayKool.tzx.zip
+stay-kool.z80
+--sim-load
+--tape-name "Stay Kool.tzx"
+--tape-sum 6ad88c50851eb607c7bf3011b2b8310b
+--start 26440

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/ShareBizz.tzx.zip
+share-bizz.z80
+--sim-load
+--tape-name "Share Bizz.tzx"
+--tape-sum 1932f9c78061213b44d4f75284d87bc1
+--start 64500

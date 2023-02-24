@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Souls.tzx.zip
+souls.z80
+--sim-load
+--tape-name "souls.tzx"
+--tape-sum f1d4f7594b64f7dd2a2a5610218721ff
+--start 24000

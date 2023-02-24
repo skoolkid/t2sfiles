@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/StarFarce.tzx.zip
+star-farce.z80
+--sim-load
+--tape-name "Star Farce.tzx"
+--tape-sum cb8b609ccc42d4918b0153234db5aba7
+--start 53102

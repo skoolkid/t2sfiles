@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SpaceCommand.tzx.zip
+space-command.z80
+--sim-load
+--tape-name "Space Command.tzx"
+--tape-sum f6d6d3bfce12a95c171ee07aedb828db
+--start 23309

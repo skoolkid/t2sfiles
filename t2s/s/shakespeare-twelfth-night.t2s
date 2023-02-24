@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Shakespeare-TwelfthNight.zip
+shakespeare-twelfth-night.z80
+--sim-load
+--tape-name "Shakespeare - Twelfth Night.tzx"
+--tape-sum 90647808f2d2f581927d79638e567454
+; --start 65129

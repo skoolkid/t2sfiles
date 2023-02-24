@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Scoredraw.zip
+scoredraw.z80
+--sim-load
+--tape-name "Scoredraw.tzx"
+--tape-sum 62483593321533aa58ac8e34098f477b
+--start 26100

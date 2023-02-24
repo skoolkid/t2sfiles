@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Survivor.tzx.zip
+survivor.z80
+--sim-load
+--tape-name "Survivor.tzx"
+--tape-sum 510b909169f78b9a548dce40bf5ddfaf
+; --start 36372

@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/SoundDesigner.zip
+sound-designer-side-b.z80
+--sim-load
+--tape-name "Sound Designer - Side B.tzx"
+--tape-sum aa6c633c7fa59fdc1edd95c4c482beb9
+--start 25850

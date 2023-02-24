@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Spectrechess.tzx.zip
+spectrechess.z80
+--sim-load
+--tape-name "Spectrechess.tzx"
+--tape-sum 2ae9ae415aa9e8b264c67717b656a2c7
+--start 32768

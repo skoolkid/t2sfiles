@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/StoryHouse.tzx.zip
+story-house.z80
+--sim-load
+--tape-name "Story House.tzx"
+--tape-sum 3bdaf9eacab371db774cf05640e93aa5
+--start 60751
