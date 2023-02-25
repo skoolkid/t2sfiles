@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/Thunderland.tzx.zip
+thunderland.z80
+--sim-load
+--tape-name "Thunderland.tzx"
+--tape-sum 28580eb066b57a466f4aad43248d95e6
+--start 23877

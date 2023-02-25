@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/TimeZone.zip
+time-zone.z80
+--sim-load
+--tape-name "Time Zone.tzx"
+--tape-sum a957a6b280b4ee7d4ca45300981690d6
+--start 35000

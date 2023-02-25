@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TreasureIsland.tzx.zip
+treasure-island.z80
+--sim-load
+--tape-name "Treasure Island.tzx"
+--tape-sum e00f51323f3b2e52ee55eec547d87d17
+--start 23331

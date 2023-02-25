@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CarJourney(TransEuropaBV)(WoltersSoftware).tzx.zip
+trans-europa-bv.z80
+--sim-load
+--tape-name "Trans-Europa BV.tzx"
+--tape-sum 6d157c64b4e66df8ee4d35da4c675773
+--start 23398

@@ -1,0 +1,6 @@
+"https://tzxvault.org/Spectrum/TZX/TinyTouch'n'Go.zip"
+tiny-touch-n-go.z80
+--sim-load
+--tape-name "Tiny Touch 'n' Go.tzx"
+--tape-sum cc108392cfc398b86f6cdf4bad32008e
+--start 64610

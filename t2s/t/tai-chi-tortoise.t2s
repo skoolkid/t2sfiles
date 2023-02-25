@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Tai-ChiTortoise.zip
+tai-chi-tortoise.z80
+--sim-load
+--tape-name "Tai-Chi Tortoise.tzx"
+--tape-sum 465d0066982b7d65f53a7d21c96ba4f4
+--start 24988

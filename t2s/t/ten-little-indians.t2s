@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/TenLittleIndians.zip
+ten-little-indians.z80
+--sim-load
+--tape-name "Ten Little Indians.tzx"
+--tape-sum fc39ea7af35a8451c2d3fd72d2b23902
+--start 24576

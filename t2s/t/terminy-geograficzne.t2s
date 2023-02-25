@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/TerminyGeograficzne.zip
+terminy-geograficzne.z80
+--sim-load
+--tape-name "Terminy Geograficzne.tzx"
+--tape-sum 35a7f55bdd9967804ca8e5dda243c9b0
+--start 64600

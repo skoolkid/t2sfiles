@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/TrixiesQuest.zip
+trixies-quest.z80
+--sim-load
+--tape-name "Trixies Quest.tzx"
+--tape-sum dc6ae15e2e32a08a41f7d7a1792a11b0
+--start 25063

@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/TreasureHunt.zip
+treasure-hunt-side-a.z80
+--sim-load
+--tape-name "Treasure Hunt - Side A.tzx"
+--tape-sum 85272e65156f8c6ae0835c5cdf2dffa8
+--start 32768

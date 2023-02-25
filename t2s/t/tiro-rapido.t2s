@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TiroRapido.tzx.zip
+tiro-rapido.z80
+--sim-load
+--tape-name "TiroRapido.tzx"
+--tape-sum cd3567f40cfdd9e8407dec9672b43484
+--start 40000

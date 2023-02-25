@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Treasure.zip
+treasure.z80
+--sim-load
+--tape-name "Treasure.tzx"
+--tape-sum 641783c26b62ee7237d9ec917f238bec
+--start 25063

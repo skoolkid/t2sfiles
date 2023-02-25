@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/ThroughTheTrapdoor.zip
+through-the-trapdoor.z80
+--sim-load
+--tape-name "Through The Trapdoor.tzx"
+--tape-sum 895284cc626fda2e4ba0e0b054f8e400
+--start 63041

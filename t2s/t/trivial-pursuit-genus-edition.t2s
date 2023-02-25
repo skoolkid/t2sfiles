@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TrivialPursuit.tzx.zip
+trivial-pursuit-genus-edition.z80
+--sim-load
+--tape-name "Trivial Pursuit - Genus Edition.tzx"
+--tape-sum de93fc66570fbb058f8de20c4f5354a2
+--start 65265

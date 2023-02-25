@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/TenseFrench.zip
+tense-french.z80
+--sim-load
+--tape-name "Tense French.tzx"
+--tape-sum f096cded35a078d2efb9aafdd6163b24
+; --start 65221

@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/TheTreeStones.zip
+tree-stones-the.z80
+--sim-load
+--tape-name "The Tree Stones.tzx"
+--tape-sum 44530e289b80bd3990339b8ef433f74c
+; --start 36366

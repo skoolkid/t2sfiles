@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/Tundra.tzx.zip
+tundra-v2.z80
+--sim-load
+--tape-name "Tundra v2.tzx"
+--tape-sum 62e5b77bc8450e2e2f96d3d40f6eecfb
+--start 26485

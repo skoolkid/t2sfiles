@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/Taxi.tzx.zip
+taxi.z80
+--sim-load
+--tape-name "Taxi!.tzx"
+--tape-sum 76b9a224f6783ad0083917529a37e7a3
+--start 32112

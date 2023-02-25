@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TaxReturns.tzx.zip
+tax-returns.z80
+--sim-load
+--tape-name "Tax Returns.tzx"
+--tape-sum 19da54fb58b4f74a31333999c0125db7
+; --start 29201

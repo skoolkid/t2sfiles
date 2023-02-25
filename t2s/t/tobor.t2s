@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/Tobor.tzx.zip
+tobor.z80
+--sim-load
+--tape-name "Tobor.tzx"
+--tape-sum f0afa5b4558a05cc6cbaf9d5a2e5a2c7
+--start 40000

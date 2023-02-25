@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/TheTaxmanCometh.zip
+taxman-cometh-the.z80
+--sim-load
+--tape-name "The Taxman Cometh.tzx"
+--tape-sum 230af24d53d0e8eae6fc7e4acc5d761e
+; --start 29201

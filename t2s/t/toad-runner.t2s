@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/Toadrunner.tzx.zip
+toad-runner.z80
+--sim-load
+--tape-name "Toad Runner.tzx"
+--tape-sum caea69aa16c087cc0d32a26cc2b9c71b
+--start 27392

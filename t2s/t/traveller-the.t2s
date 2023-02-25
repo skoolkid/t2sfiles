@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/TheTraveller.zip
+traveller-the.z80
+--sim-load
+--tape-name "The Traveller.tzx"
+--tape-sum 9b5ca5341d10276a6fda1a21a6a3095a
+--start 25000

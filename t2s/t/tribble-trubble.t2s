@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TribbleTrubble.tzx.zip
+tribble-trubble.z80
+--sim-load
+--tape-name "Tribble Trubble.tzx"
+--tape-sum d1d1aa3d9b66ddb1ae736167ab213201
+--start 37413

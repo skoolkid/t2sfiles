@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Teastrainer.zip
+teastrainer.z80
+--sim-load
+--tape-name "Teastrainer.tzx"
+--tape-sum bdeb39d2a9ee6b59b920854899bbbdec
+; --start 36366

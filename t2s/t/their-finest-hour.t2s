@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TheirFinestHour.tzx.zip
+their-finest-hour.z80
+--sim-load
+--tape-name "Their Finest Hour.tzx"
+--tape-sum d60cb221fcadc979d32ffef4ccdf33b1
+--start 24000

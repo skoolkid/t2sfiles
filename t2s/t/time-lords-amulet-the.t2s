@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/TheTimeLordsAmulet.zip
+time-lords-amulet-the.z80
+--sim-load
+--tape-name "The Time Lords Amulet.tzx"
+--tape-sum d05e1cd33c901bd9f550a60235d44138
+--start 25063

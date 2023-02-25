@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/TablicaMendelejewa.zip
+tablica-mendelejewa.z80
+--sim-load
+--tape-name "Tablica Mendelejewa.tzx"
+--tape-sum 5c6bb2513c9de8bcb55293ac1be7c882
+--start 23762
