@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Astronomer.zip
+astronomer.z80
+--sim-load
+--tape-name "Astronomer.tzx"
+--tape-sum 0be8853b352691e211457f37cfd43206
+--start 51982

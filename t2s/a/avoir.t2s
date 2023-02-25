@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/a/Avoir.tzx.zip
+avoir.z80
+--sim-load
+--tape-name "Avoir.tzx"
+--tape-sum 2ae7a8f8e1f145318c6a786b3ec8d86d
+--start 25063

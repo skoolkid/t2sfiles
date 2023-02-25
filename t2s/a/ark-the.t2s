@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/TheArk.zip
+ark-the.z80
+--sim-load
+--tape-name "The Ark.tzx"
+--tape-sum 52df4e310627830f7edec9818c024c92
+--start 58516

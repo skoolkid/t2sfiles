@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/123/4From88.tzx.zip
+4-from-88.z80
+--sim-load
+--tape-name "4From88.tzx"
+--tape-sum fdeed4ec064440b7199119d2943995c6
+--start 50000

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/123/100Kilometri.tzx.zip
+100-kilometri.z80
+--sim-load
+--tape-name "100Kilometri.tzx"
+--tape-sum 9b7f7e235ec0c80f8d4b83cc92f849e7
+--start 58474

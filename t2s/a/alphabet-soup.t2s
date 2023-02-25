@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AlphabetSoup.tzx.zip
+alphabet-soup.z80
+--sim-load
+--tape-name "Alphabet Soup.tzx"
+--tape-sum 58fa34662d10eb6d092c1736077d549d
+; --start 32348

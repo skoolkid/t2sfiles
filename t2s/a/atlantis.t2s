@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Atlantis.zip
+atlantis.z80
+--sim-load
+--tape-name "Atlantis.tzx"
+--tape-sum 36550684d7f6a29a45f1f1233af91a46
+--start 25600

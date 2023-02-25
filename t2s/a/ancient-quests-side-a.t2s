@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/AncientQuests.zip
+ancient-quests-side-a.z80
+--sim-load
+--tape-name "Ancient Quests - Side A.tzx"
+--tape-sum 2f04eb50a2e5a21bbcb9fce60e851bdb
+--start 24832

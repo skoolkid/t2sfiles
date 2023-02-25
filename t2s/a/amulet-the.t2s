@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/TheAmulet.zip
+amulet-the.z80
+--sim-load
+--tape-name "The Amulet.tzx"
+--tape-sum 6047263e14b60087b7c24ccecb16a6da
+--start 25000

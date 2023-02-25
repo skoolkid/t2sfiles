@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/TheAdventuresOfSinbad.zip
+adventures-of-sinbad-the.z80
+--sim-load
+--tape-name "The Adventures Of Sinbad.tzx"
+--tape-sum 8b5f037aaea2e1f2fe43347eb059ff7a
+--start 51145

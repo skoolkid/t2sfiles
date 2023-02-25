@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/a/Alpha-BethDemo.tzx.zip
+alpha-beth-demo.z80
+--sim-load
+--tape-name "Alpha-Beth - Demo.tzx"
+--tape-sum e842a8d1709c1debf72daafd7704e52b
+--start 36000

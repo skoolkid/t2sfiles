@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/4MinuteWarning.zip
+4-minute-warning.z80
+--sim-load
+--tape-name "4 Minute Warning.tzx"
+--tape-sum 3e0bdb34d44b9203997f5e04a8096c66
+--start 25394
