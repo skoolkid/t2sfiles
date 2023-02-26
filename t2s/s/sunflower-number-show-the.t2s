@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SunflowerNumberShowThe.tzx.zip
+sunflower-number-show-the.z80
+--sim-load
+--tape-name "The Sunflower Number Show.tzx"
+--tape-sum 23bf287226e8239e2a859611241c3a21
+--start 62500

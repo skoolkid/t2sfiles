@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/TheCurse.zip
+curse-the.z80
+--sim-load
+--tape-name "The Curse.tzx"
+--tape-sum 2ce6555d969f56854f8127c9c0502918
+--start 25000

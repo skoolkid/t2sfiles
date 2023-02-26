@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/TheRace.zip
+race-the.z80
+--sim-load
+--tape-name "The Race - 48k.tzx"
+--tape-sum 7a72bc6e77a6ada13f3729301c2c9004
+--start 25039

@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/TheGraphicsCreator.zip
+graphics-creator-the-side-a.z80
+--sim-load
+--tape-name "The Graphics Creator - Side A.tzx"
+--tape-sum af228a11f4497d09194ecc286504d218
+--start 28672

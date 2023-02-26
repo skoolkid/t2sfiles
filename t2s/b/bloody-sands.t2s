@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BloodySands.tzx.zip
+bloody-sands.z80
+--sim-load
+--tape-name "BloodySands.tzx"
+--tape-sum fb9a1753bb80387f5df72a223c1db674
+--start 30000

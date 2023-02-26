@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/ThePyramid.zip
+pyramid-the.z80
+--sim-load
+--tape-name "The Pyramid.tzx"
+--tape-sum 9ba4a72bae03e13b1aacbf3533f8e85e
+--start 40448

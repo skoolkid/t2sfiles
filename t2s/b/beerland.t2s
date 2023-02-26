@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Beerland.tzx.zip
+beerland.z80
+--sim-load
+--tape-name "Beerland.tzx"
+--tape-sum 83c776ffc460033980d92c5f91f82b8a
+--start 23845

@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/TheEmpireStrikesBack.zip
+empire-strikes-back-the.z80
+--sim-load
+--tape-name "The Empire Strikes Back.tzx"
+--tape-sum f45c7c0c442afa94645c088093eb2054
+--start 65305

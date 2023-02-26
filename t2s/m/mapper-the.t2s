@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/TheMapper.zip
+mapper-the.z80
+--sim-load
+--tape-name "The Mapper.tzx"
+--tape-sum 9ffe7002fd00beed1662308ae8113ee2
+; --start 29169

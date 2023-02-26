@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/TheMorebyJewels.zip
+moreby-jewels-the.z80
+--sim-load
+--tape-name "The Moreby Jewels.tzx"
+--tape-sum 8fc5ffeea975163cd469e9001f7ea60c
+--start 25000

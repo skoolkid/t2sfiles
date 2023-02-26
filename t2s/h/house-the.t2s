@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/h/HouseThe.tzx.zip
+house-the.z80
+--sim-load
+--tape-name "The House.tzx"
+--tape-sum 6287e133530d83922a29ffd6d76479a7
+; --start 29201

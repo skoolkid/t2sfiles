@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/TheHighwayCode.zip
+highway-code-the-side-b.z80
+--sim-load
+--tape-name "The Highway Code - Side B.tzx"
+--tape-sum 906b9381cb6da94c698835a4a747f76e
+--start 63390

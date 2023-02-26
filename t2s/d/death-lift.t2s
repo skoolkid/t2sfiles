@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DeathLift.tzx.zip
+death-lift.z80
+--sim-load
+--tape-name "death lift.tzx"
+--tape-sum 5fb2730724e0632b442b199fc05eb662
+--start 46207

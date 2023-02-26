@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/g/GoldenPyramidThe.tzx.zip
+golden-pyramid-the.z80
+--sim-load
+--tape-name "The Golden Pyramid.tzx"
+--tape-sum ecc687b41b88b995c26d1fc840212369
+--start 25000

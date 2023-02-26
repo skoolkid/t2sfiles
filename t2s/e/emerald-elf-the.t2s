@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/e/EmeraldElfThe.tzx.zip
+emerald-elf-the.z80
+--sim-load
+--tape-name "The Emerald Elf.tzx"
+--tape-sum cad62573fb1c38e44bcd8cd6830e9e6d
+; --start 29169

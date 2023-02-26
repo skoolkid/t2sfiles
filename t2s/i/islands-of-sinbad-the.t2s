@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/TheIslandsOfSinbad.zip
+islands-of-sinbad-the.z80
+--sim-load
+--tape-name "The Islands Of Sinbad.tzx"
+--tape-sum 6c4f1f5d8f6b3180b3662897bd012068
+; --start 29201

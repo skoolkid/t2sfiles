@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/e/EnergemEnigmaThe.tzx.zip
+energem-enigma-the.z80
+--sim-load
+--tape-name "The Energem Enigma.tzx"
+--tape-sum 80d7f5c7f4b70ff5d65411bbef7cfffb
+--start 18434

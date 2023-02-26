@@ -2,5 +2,5 @@ https://spectrumcomputing.co.uk/pub/sinclair/games/b/BirthdaySurprise.tzx.zip
 birthday-surprise.z80
 --sim-load
 --tape-name "Birthday Surprise.tzx"
---tape-sum e511aad786265c4a1229dca731e51be3
+--tape-sum a587660f9a9c25f659cd2525cee9ca5f
 --start 25063

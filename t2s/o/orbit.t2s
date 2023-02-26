@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/o/Orbit.tzx.zip
+orbit.z80
+--sim-load
+--tape-name "orbit.tzx"
+--tape-sum ac690eed2495970b567a955add7e21ed
+; --start 64830

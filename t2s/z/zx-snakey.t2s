@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/z/ZXSnakey.tzx.zip
+zx-snakey.z80
+--sim-load
+--tape-name "zxsnakey.tzx"
+--tape-sum c6dc4f290084664b13d15269d175a9ce
+--start 36072

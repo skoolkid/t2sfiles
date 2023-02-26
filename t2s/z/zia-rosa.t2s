@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/z/ZiaRosa.tzx.zip
+zia-rosa.z80
+--sim-load
+--tape-name "ziarosa.tzx"
+--tape-sum b005fb3315f8296a4327b4ae5c8e1862
+--start 25063

@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/BillyTheKid.zip
+billy-the-kid-lightgun.z80
+--sim-load
+--tape-name "Billy The Kid - Lightgun.tzx"
+--tape-sum 79df354fdb0e8a6471a55429032bcc98
+--start 25039

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/a/Anglina1.tzx.zip
+anglina-i.z80
+--sim-load
+--tape-name "anglina1.tzx"
+--tape-sum 55eed27d83ea8a2b599165cdbcddb7df
+--start 24200

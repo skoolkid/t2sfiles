@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/k/KillWar4.tzx.zip
+kill-war-4.z80
+--sim-load
+--tape-name "killwar4.tzx"
+--tape-sum 43a6eea3551a0df1ba1d4d45f7909830
+--start 33000

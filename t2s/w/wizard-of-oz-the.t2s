@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/TheWizardOfOz.zip
+wizard-of-oz-the.z80
+--sim-load
+--tape-name "The Wizard Of Oz.tzx"
+--tape-sum 4bba219d2504db6d46a079ef2937a1d2
+; --start 29201

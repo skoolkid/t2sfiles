@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/f/FrontierOfWarriors-MaydayCallTheDemo.tzx.zip
+frontier-of-warriors.z80
+--sim-load
+--tape-name "frontier.tzx"
+--tape-sum 459386ec5199797a9d3bc1efab15757d
+--start 34104

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BlackDwarfsLair.tzx.zip
+black-dwarfs-lair-the.z80
+--sim-load
+--tape-name "The Black Dwarf's Lair.tzx"
+--tape-sum 787c5bf52e4d580e21cb2fe34a7c2af1
+--start 32256

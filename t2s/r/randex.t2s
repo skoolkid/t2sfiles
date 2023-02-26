@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/r/Randex.tzx.zip
+randex.z80
+--sim-load
+--tape-name "randex.tzx"
+--tape-sum d20db358131e74209c7b220f038cbf3e
+--start 57200

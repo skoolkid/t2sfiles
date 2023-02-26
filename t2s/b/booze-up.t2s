@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/BoozeUp.zip
+booze-up.z80
+--sim-load
+--tape-name "Booze Up.tzx"
+--tape-sum 325e8b15606a8d9be551b65a09bcf28c
+--start 25000

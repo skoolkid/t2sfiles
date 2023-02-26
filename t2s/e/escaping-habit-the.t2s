@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/TheEscapingHabit.zip
+escaping-habit-the.z80
+--sim-load
+--tape-name "The Escaping Habit.tzx"
+--tape-sum 24e596e58347b9d275055570e736f050
+; --start 29201

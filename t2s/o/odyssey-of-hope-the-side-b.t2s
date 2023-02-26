@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/o/OdysseyOfHopeThe.tzx.zip
+odyssey-of-hope-the-side-b.z80
+--sim-load
+--tape-name "The Odyssey Of Hope - Side B.tzx"
+--tape-sum db82711f0d6f3e37e4421f5a20defb0b
+--start 23438

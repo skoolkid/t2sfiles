@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RamiroElVampiro.tzx.zip
+ramiro-el-vampiro-side-a.z80
+--sim-load
+--tape-name "mojon-twins--ramiro-A.tzx"
+--tape-sum c38a0f04a1e33c283decf63777dbaf3e
+--start 60500

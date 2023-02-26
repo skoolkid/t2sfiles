@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/TheShakyGame.zip
+shaky-game-the.z80
+--sim-load
+--tape-name "The Shaky Game.tzx"
+--tape-sum a6915e3c72576791d2098d162ab552a8
+--start 24576

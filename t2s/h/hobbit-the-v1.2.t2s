@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/h/HobbitTheV1.2.tzx.zip
+hobbit-the-v1.2.z80
+--sim-load
+--tape-name "The Hobbit v1.2.tzx"
+--tape-sum 3c359e2e8618e371cf385b9302bfe687
+--start 27648

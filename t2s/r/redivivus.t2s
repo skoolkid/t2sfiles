@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/r/REdIvIvUs.tzx.zip
+redivivus.z80
+--sim-load
+--tape-name "rEdIvIvUs.tzx"
+--tape-sum 65dc339a90bc93006ac3f9b795643ea1
+--start 32768
