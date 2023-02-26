@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Colossus4Chessv4.0.zip
+colossus-4-chess-v4.0.z80
+--sim-load
+--tape-name "Colossus 4 Chess v4.0.tzx"
+--tape-sum 88c71429a463b5b16be63b4d0df57cdc
+--start 29184

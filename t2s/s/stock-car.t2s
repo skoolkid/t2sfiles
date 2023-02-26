@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/StockCar.tzx.zip
+stock-car.z80
+--sim-load
+--tape-name "Car Race.tzx"
+--tape-sum c2d8869d7c5fb312f4d5f0c8bbc9f95a
+--start 23883

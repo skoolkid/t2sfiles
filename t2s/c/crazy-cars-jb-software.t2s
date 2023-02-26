@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CrazyCars.tzx.zip
+crazy-cars-jb-software.z80
+--sim-load
+--tape-name "CrazyCars.tzx"
+--tape-sum f09f395bbd8bf23745da7b92481c2ffa
+--start 49104

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CosmosTheAdventure.tzx.zip
+cosmos-the-adventure.z80
+--sim-load
+--tape-name "CosmosTheAdventure.tzx"
+--tape-sum 48a61b1402e79eb171119e8ee803e519
+--start 44951

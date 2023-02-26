@@ -1,0 +1,6 @@
+"https://tzxvault.org/Spectrum/TZX/Caesar'sTravels.zip"
+caesars-travels.z80
+--sim-load
+--tape-name "Caesar's Travels.tzx"
+--tape-sum 85a98604a06da5a435c83bd7413c9928
+--start 43520

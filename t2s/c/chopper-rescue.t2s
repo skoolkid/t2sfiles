@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/ChopperRescue.zip
+chopper-rescue.z80
+--sim-load
+--tape-name "Chopper Rescue.tzx"
+--tape-sum 423226e397f2b8b6a05e542e8fd6129a
+--start 25394

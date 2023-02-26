@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Citadel.zip
+citadel.z80
+--sim-load
+--tape-name "Citadel.tzx"
+--tape-sum 52230e7811c0d3403e8a335dc98a94ea
+--start 25000

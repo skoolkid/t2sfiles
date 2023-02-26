@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CleverClogs-Shipshapes.tzx.zip
+clever-clogs-shipshapes-side-1.z80
+--sim-load
+--tape-name "Clever Clogs - Shipshapes - Side 1.tzx"
+--tape-sum dd8e8747fb544f519255899a2f24ffd7
+--start 63420

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CaptainSlog.tzx.zip
+captain-slog.z80
+--sim-load
+--tape-name "Captain Slog.tzx"
+--tape-sum 7f7117b19bb39d79f07e2939bd3cb22f
+--start 39343

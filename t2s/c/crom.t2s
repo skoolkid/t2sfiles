@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Crom.tzx.zip
+crom.z80
+--sim-load
+--tape-name "Crom.tzx"
+--tape-sum 0c0c524ee44b05e3227be9599fe6c027
+--start 25000
