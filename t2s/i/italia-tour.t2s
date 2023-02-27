@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/i/ItaliaTour.tzx.zip
+italia-tour.z80
+--sim-load
+--tape-name "ItaliaTour.tzx"
+--tape-sum ac839acf16ca9269f35b113c1c5e1848
+--start 65010

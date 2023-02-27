@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/HomeBuilder.zip
+home-builder.z80
+--sim-load
+--tape-name "Home Builder.tzx"
+--tape-sum 89ea7aae3636a95a90b2c655e229b818
+--start 24105

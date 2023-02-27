@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/f/Fuckerman.tzx.zip
+fuckerman.z80
+--sim-load
+--tape-name "Fuckerman.tzx"
+--tape-sum 1fe7073027c7326d32b0cc603ef77b51
+--start 34104

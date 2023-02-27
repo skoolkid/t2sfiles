@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DamaCinese.tzx.zip
+dama-cinese.z80
+--sim-load
+--tape-name "DamaCinese.tzx"
+--tape-sum d9f56a1dc3384c004f24e82bf6faca89
+--start 32256

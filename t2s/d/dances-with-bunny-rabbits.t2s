@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/DancesWithBunnyRabbits.zip
+dances-with-bunny-rabbits.z80
+--sim-load
+--tape-name "Dances With Bunny Rabbits.tzx"
+--tape-sum dd135cce77922843ef50029f1edb0d42
+--start 25063

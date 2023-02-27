@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/g/GridTrap.tzx.zip
+grid-trap.z80
+--sim-load
+--tape-name "Grid Trap.tzx"
+--tape-sum 6c0220b9ce6ab8a70059e1b045c8d98d
+--start 53200

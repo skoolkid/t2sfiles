@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DiseaseDodgers.tzx.zip
+disease-dodgers.z80
+--sim-load
+--tape-name "Disease Dodgers.tzx"
+--tape-sum ff815bfa368a071c3ca9b34728f7869b
+--start 23398

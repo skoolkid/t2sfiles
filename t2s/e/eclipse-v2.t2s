@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Eclipsev2.zip
+eclipse-v2.z80
+--sim-load
+--tape-name "Eclipse v2.tzx"
+--tape-sum 402afc6eace5ba690bf721522e55d5de
+--start 25000

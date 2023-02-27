@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/g/GoWestYoungMan.tzx.zip
+go-west-young-man.z80
+--sim-load
+--tape-name "Go West Young Man.tzx"
+--tape-sum f9e88a1ad7f695b674c89b5215469693
+--start 25063

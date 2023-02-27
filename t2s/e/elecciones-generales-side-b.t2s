@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/e/EleccionesGenerales.tzx.zip
+elecciones-generales-side-b.z80
+--sim-load
+--tape-name "Elecciones Generales - Side B.tzx"
+--tape-sum 4e7cb1d086389c50e2b22f5e67030776
+; --start 63880

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/i/InDeep.tzx.zip
+in-deep.z80
+--sim-load
+--tape-name "In Deep.tzx"
+--tape-sum efcbbd7b9f10ee4914ad5add33be5707
+--start 43551

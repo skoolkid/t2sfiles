@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/i/IndianaJonesADobyvatele.tzx.zip
+indiana-jones-a-dobyvatele.z80
+--sim-load
+--tape-name "IndianaJonesDobyvatele.tzx"
+--tape-sum 24c7c8377aaa86b838fdbdd97c9ea74a
+--start 40000

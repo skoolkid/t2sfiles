@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/d/D-Posicion.tzx.zip
+d-posicion.z80
+--sim-load
+--tape-name "D-Posicion.tzx"
+--tape-sum fd1c7d8f2cfc8fdfaf4dd399742a4046
+--start 60000

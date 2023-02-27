@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/d/Damax.tzx.zip
+damax.z80
+--sim-load
+--tape-name "DAMAX.tzx"
+--tape-sum bdca9d2e37ed82d8c78c29aa40b7164d
+--start 52030

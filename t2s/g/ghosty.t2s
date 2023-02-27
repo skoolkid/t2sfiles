@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/g/Ghosty.tzx.zip
+ghosty.z80
+--sim-load
+--tape-name "Ghosty.tzx"
+--tape-sum ab3a195132a70b6d65e36c79a3694423
+--start 27214

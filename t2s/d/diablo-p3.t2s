@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Diablo!.zip
+diablo-p3.z80
+--sim-load
+--tape-name "Diablo! - Part 3 - 48k.tzx"
+--tape-sum 46ad291c379fff6fd4ef50f1279160ec
+; --start 36376

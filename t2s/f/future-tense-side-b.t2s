@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/f/FutureTense.tzx.zip
+future-tense-side-b.z80
+--sim-load
+--tape-name "Future Tense - Side B.tzx"
+--tape-sum 8c1b6512e88c96fd933efc239921a79f
+; --start 36376

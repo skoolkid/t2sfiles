@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/FrankNStein-Rebooted.zip
+frank-n-stein-rebooted.z80
+--sim-load
+--tape-name "Frank N Stein - Rebooted.tzx"
+--tape-sum a8091543ffc1c3e02a5ff811c3c4dcce
+--start 24000

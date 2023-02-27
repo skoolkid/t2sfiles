@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/i/Investigator.tzx.zip
+investigator.z80
+--sim-load
+--tape-name "Investigator.tzx"
+--tape-sum e5a18c74dbb7368239cdfe0b1d6b0695
+--start 23877

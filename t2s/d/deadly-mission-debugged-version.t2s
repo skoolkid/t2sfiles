@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/DeadlyMission-DebuggedVersion.zip
+deadly-mission-debugged-version.z80
+--sim-load
+--tape-name "Deadly Mission - Debugged Version.tzx"
+--tape-sum 408c844c0c9a4746292c84bea2c9892c
+--start 34104

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/d/Doomwatch.tzx.zip
+doomwatch.z80
+--sim-load
+--tape-name "Doomwatch.tzx"
+--tape-sum e56f2a1f2ffceae59cd93ae542a8b6f3
+--start 62810

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/f/F-1.tzx.zip
+f-1.z80
+--sim-load
+--tape-name "F-1.tzx"
+--tape-sum 45dcc547e469e0dc9cb641ce20f8fab8
+--start 24343

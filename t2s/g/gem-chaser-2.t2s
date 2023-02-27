@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/GemChaser2.zip
+gem-chaser-2.z80
+--sim-load
+--tape-name "Gem Chaser 2.tzx"
+--tape-sum 4195515b9fe4f3ff50aa3d49cae6526c
+--start 33344

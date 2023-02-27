@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Gamao.zip
+gamao.z80
+--sim-load
+--tape-name "Gamao.tzx"
+--tape-sum 77203ea6da3d6c1ae773f7f498923f92
+--start 24000

@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/GorfianInvaders.zip
+gorfian-invaders.z80
+--sim-load
+--tape-name "Gorfian Invaders.tzx"
+--tape-sum 711d183dba208c6cf47f8678c4268e26
+--start 24608

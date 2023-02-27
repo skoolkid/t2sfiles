@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/f/FruitMachine_2.tzx.zip
+fruit-machine.z80
+--sim-load
+--tape-name "Fruit Machine.tzx"
+--tape-sum fb0a8c66609d98cc273c112f5797ea7d
+--start 49770

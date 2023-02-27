@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/IntruderAlert-Ver.II.zip
+intruder-alert-v2.z80
+--sim-load
+--tape-name "Intruder Alert - Ver.II.tzx"
+--tape-sum 892bd727bafa8285ad52c68df2d6e708
+; --start 36366

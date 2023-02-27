@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/h/Halley.tzx.zip
+halley.z80
+--sim-load
+--tape-name "Halley.tzx"
+--tape-sum 115f99921d859edb192cb96d766aef85
+--start 60350

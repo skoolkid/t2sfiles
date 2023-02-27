@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SpectrumSafari(ExploradorEl)(MicroparadiseSoftware).tzx.zip
+el-explorador.z80
+--sim-load
+--tape-name "El Explorador.tzx"
+--tape-sum 709c42b060c2fe1c4a64c28274734b3e
+--start 58356

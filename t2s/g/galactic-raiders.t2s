@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/GalacticRaiders.zip
+galactic-raiders.z80
+--sim-load
+--tape-name "Galactic Raiders.tzx"
+--tape-sum 4e851185c8dd6979fdb00e8867389cba
+--start 26900

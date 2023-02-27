@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Dex.zip
+dex.z80
+--sim-load
+--tape-name "Dex.tzx"
+--tape-sum b8a1fef2612b7a530ea6a5d7f1652678
+; --start 30000

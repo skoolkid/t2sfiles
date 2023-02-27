@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Exolon-Non-PlayingVersion.zip
+exolon-non-playing-version.z80
+--sim-load
+--tape-name "Exolon - Non-Playing Version.tzx"
+--tape-sum fd1f3e35f44ff82c0ffdefdfc0d6ae03
+--start 28000
