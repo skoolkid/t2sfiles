@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/z/Zima2.tzx.zip
+zima2.z80
+--sim-load
+--tape-name "Zima2.tzx"
+--tape-sum e626657de57653441c0381aeea334827
+--start 65271

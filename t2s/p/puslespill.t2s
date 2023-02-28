@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Puslespill.zip
+puslespill.z80
+--sim-load
+--tape-name "Puslespill.tzx"
+--tape-sum 4a230a2a57e17c1aa4ed9cee62150d56
+--start 60900

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/l/Lancelot.tzx.zip
+lancelot.z80
+--sim-load
+--tape-name "Lancelot.tzx"
+--tape-sum 291b424656ac9701fabbdcf5f8a93481
+--start 34800

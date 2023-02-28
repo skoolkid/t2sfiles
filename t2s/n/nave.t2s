@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/n/Nave.tzx.zip
+nave.z80
+--sim-load
+--tape-name "Nave.tzx"
+--tape-sum 65c156dc7925b5ac6c09a5e7060a1e6c
+--start 23346

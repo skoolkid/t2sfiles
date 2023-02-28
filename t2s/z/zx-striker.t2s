@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/z/ZXStriker.tzx.zip
+zx-striker.z80
+--sim-load
+--tape-name "Zxstriker.tzx"
+--tape-sum c2403b913dab044bb43c6964dcaff333
+--start 33000

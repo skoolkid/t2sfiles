@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MaliceInBlunderland_2.tzx.zip
+malice.z80
+--sim-load
+--tape-name "Malice.tzx"
+--tape-sum eea59e0a7f7ee9224625e071688c9317
+--start 25063

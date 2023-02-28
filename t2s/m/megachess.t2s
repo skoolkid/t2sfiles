@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Megachess.tzx.zip
+megachess.z80
+--sim-load
+--tape-name "Megachess.tzx"
+--tape-sum a67cc17f70dc11ed478f5d7983cb6d1d
+--start 55016

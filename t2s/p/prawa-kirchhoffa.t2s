@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/PrawaKirchhoffa.zip
+prawa-kirchhoffa.z80
+--sim-load
+--tape-name "Prawa Kirchhoffa.tzx"
+--tape-sum 72b0fd8351960e3b0b58199331d740b2
+--start 24087

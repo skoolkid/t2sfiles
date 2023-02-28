@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/OhMummy.zip
+oh-mummy.z80
+--sim-load
+--tape-name "Oh Mummy.tzx"
+--tape-sum 1b2a18fb3d5576a1b18e8fd0d8368544
+--start 24064

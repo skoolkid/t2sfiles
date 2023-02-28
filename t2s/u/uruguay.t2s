@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AtlasDeLaRepublicaOrientalDelUruguay.tzx.zip
+uruguay.z80
+--sim-load
+--tape-name "Uruguay.tzx"
+--tape-sum 31bbdab5da0e8b2e9bb1465fa37f7091
+--start 23883

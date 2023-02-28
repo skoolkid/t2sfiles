@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Mazeman-Release2.zip
+mazeman-release-2.z80
+--sim-load
+--tape-name "Mazeman - Release 2.tzx"
+--tape-sum 032f66b918156cc344e735e3d770e02c
+--start 30720

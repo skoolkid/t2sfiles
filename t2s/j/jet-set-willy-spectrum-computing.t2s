@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/j/JetSetWilly-SpectrumComputing.tzx.zip
+jet-set-willy-spectrum-computing.z80
+--sim-load
+--tape-name "Jet Set Willy - Spectrum Computing.tzx"
+--tape-sum 1febe5a662add0ce1080f1f344fa9e73
+--start 33792

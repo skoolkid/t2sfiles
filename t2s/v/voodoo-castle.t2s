@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/VoodooCastle.zip
+voodoo-castle.z80
+--sim-load
+--tape-name "Voodoo Castle.tzx"
+--tape-sum 451a46bf813a8e0938e23abe7dc29d26
+--start 25000

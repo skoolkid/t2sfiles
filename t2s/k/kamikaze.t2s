@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Kamikaze.zip
+kamikaze.z80
+--sim-load
+--tape-name "Kamikaze.tzx"
+--tape-sum 121f887837dc2eb89197e9ea4268ac6c
+--start 24611

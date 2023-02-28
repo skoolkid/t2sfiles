@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Phantomasa2.tzx.zip
+phantomasa-2.z80
+--sim-load
+--tape-name "Phantomasa 2 - 48K.tzx"
+--tape-sum 5ca2b20654697cadda552fffcec68fbc
+--start 35000

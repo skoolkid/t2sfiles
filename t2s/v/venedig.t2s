@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/v/Venedig.tzx.zip
+venedig.z80
+--sim-load
+--tape-name "Venedig.tzx"
+--tape-sum cf317986d15f44339614bc9be3794451
+--start 64060

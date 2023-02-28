@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/RogueComet.zip
+rogue-comet.z80
+--sim-load
+--tape-name "Rogue Comet.tzx"
+--tape-sum c4c4419efb2702b64160dba8a4641336
+--start 25000

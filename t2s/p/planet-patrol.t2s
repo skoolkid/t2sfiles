@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/PlanetPatrol.zip
+planet-patrol.z80
+--sim-load
+--tape-name "Planet Patrol.tzx"
+--tape-sum d456e168d94e254cfdffc3ae2e3d62e6
+--start 23398

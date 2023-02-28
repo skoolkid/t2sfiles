@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/l/Lucifer.tzx.zip
+lucifer.z80
+--sim-load
+--tape-name "Lucifer.tzx"
+--tape-sum ea46e533d84a47556dd811842deac926
+--start 46640

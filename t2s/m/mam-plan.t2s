@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MamPlan.tzx.zip
+mam-plan.z80
+--sim-load
+--tape-name "MamPlan.tzx"
+--tape-sum 9e4311339a4358db5060c652c5e46ec4
+--start 60899

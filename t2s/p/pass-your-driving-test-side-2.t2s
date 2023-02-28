@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/PassYourDrivingTest.zip
+pass-your-driving-test-side-2.z80
+--sim-load
+--tape-name "Pass Your Driving Test - Side 2.tzx"
+--tape-sum f86068b2ab28b8547f0db94780c293aa
+--start 65232

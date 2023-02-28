@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/r/ReductioAdNihilum.tzx.zip
+reductio-ad-nihilum.z80
+--sim-load
+--tape-name "ReductioAdNihilum.tzx"
+--tape-sum 2d2874b2aa8b6efd8eaa6480642a2aad
+--start 24000

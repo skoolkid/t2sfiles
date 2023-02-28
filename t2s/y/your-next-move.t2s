@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/YourNextMove.zip
+your-next-move.z80
+--sim-load
+--tape-name "Your Next Move.tzx"
+--tape-sum 26d1e3aa9b9d7171f0605dba1ec55355
+--start 23820

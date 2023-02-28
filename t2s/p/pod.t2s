@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Pod.zip
+pod.z80
+--sim-load
+--tape-name "Pod.tzx"
+--tape-sum 261baeaabab45a8e171bba5bb4821e7e
+--start 53248

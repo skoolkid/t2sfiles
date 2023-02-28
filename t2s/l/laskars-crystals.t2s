@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/l/LaskarsCrystals.tzx.zip
+laskars-crystals.z80
+--sim-load
+--tape-name "Laskar's Crystals.tzx"
+--tape-sum ea6db49ebddf82a180fee7307ed042a9
+--start 25000

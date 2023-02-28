@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/k/Karyssia-QueenOfDiamonds.tzx.zip
+karyssia-queen-of-diamonds-p3.z80
+--sim-load
+--tape-name "Karyssia - Queen Of Diamonds.tzx"
+--tape-sum f52bbea62bff3c1a62d130c17ec69b01
+; --start 23485
+--tape-start 25

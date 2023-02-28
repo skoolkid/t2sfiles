@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/o/O-TrixV1.0.tzx.zip
+o-trix-v1.0.z80
+--sim-load
+--tape-name "O-Trix_v1.0.tzx"
+--tape-sum 14cfbb50fe324f57337a6e5a4a89e82f
+--start 27000

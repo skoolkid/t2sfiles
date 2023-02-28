@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/LostInTheAmazon.zip
+lost-in-the-amazon.z80
+--sim-load
+--tape-name "Lost In The Amazon.tzx"
+--tape-sum b55f69cab608dc2efac6a3c2c94b4f8a
+; --start 29201

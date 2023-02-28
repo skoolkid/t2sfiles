@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/k/KryptonRaiders.tzx.zip
+krypton-raiders.z80
+--sim-load
+--tape-name "Krypton Raiders.tzx"
+--tape-sum fe2d039f6764a7e4b4f533bc3e276b9f
+--start 42000

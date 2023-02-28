@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/ZXOthello.zip
+zx-othello.z80
+--sim-load
+--tape-name "ZX Othello.tzx"
+--tape-sum 02411c3572e00c396730583df07eae74
+--start 24064

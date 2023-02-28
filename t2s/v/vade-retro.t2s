@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/v/VADERETRO.tzx.zip
+vade-retro.z80
+--sim-load
+--tape-name "VADERETROi.tzx"
+--tape-sum 4f2a1fc55933847c4494b09943bd8df9
+--start 28500

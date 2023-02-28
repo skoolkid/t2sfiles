@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/PegasusBridge.zip
+pegasus-bridge.z80
+--sim-load
+--tape-name "Pegasus Bridge.tzx"
+--tape-sum 798ebbfc07f704e8ea17ba4d81b0ffe8
+--start 40554

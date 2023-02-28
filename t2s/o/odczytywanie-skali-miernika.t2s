@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/OdczytywanieSkaliMiernika.zip
+odczytywanie-skali-miernika.z80
+--sim-load
+--tape-name "Odczytywanie Skali Miernika.tzx"
+--tape-sum b95aebaad64a8dce544249b5d5edd6a6
+--start 24087

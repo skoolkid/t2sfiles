@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MinCiamPai.tzx.zip
+min-ciam-pai.z80
+--sim-load
+--tape-name "MinCiamPai.tzx"
+--tape-sum 8e419b6039153f8cb480d7b7e2a2c9b2
+--start 37600

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MacMansMagicMirror.tzx.zip
+mac-mans-magic-mirror.z80
+--sim-load
+--tape-name "Mac Mans Magic Mirror.tzx"
+--tape-sum ea137b10fe8cb81f140ca1d732e9c345
+--start 23336

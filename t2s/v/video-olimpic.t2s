@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/v/VideoOlimpic.tzx.zip
+video-olimpic.z80
+--sim-load
+--tape-name "Video Olimpic.tzx"
+--tape-sum 8dd11ceb70dfe05217cc3ff9c76f2ca6
+--start 27500

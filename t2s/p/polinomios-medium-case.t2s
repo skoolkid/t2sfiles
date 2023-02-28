@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Polinomios(MediumCase).tzx.zip
+polinomios-medium-case.z80
+--sim-load
+--tape-name "Polinomios.tzx"
+--tape-sum 2f35c3009ec20217addbfe08dd3960ef
+--start 23372

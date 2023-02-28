@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/o/Octagon.tzx.zip
+octagon.z80
+--sim-load
+--tape-name "Octagon.tzx"
+--tape-sum 3c052a3ea326b6279dcb9ec3c45f939b
+--start 64156

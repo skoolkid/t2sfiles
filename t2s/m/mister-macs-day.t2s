@@ -1,0 +1,6 @@
+"https://tzxvault.org/Spectrum/TZX/MisterMac'sDay.zip"
+mister-macs-day.z80
+--sim-load
+--tape-name "Mister Mac's Day.tzx"
+--tape-sum 53a069fc1ddd590b8ad0c0e31ed40ed8
+--start 23411

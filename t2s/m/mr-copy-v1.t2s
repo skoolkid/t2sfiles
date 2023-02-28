@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Mr.Copyv1.zip
+mr-copy-v1.z80
+--sim-load
+--tape-name "Mr. Copy v1.tzx"
+--tape-sum 21a3d211480166ac8d7dcfa42ad66640
+--start 24501

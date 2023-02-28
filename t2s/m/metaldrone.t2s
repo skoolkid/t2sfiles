@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Metaldrone.zip
+metaldrone.z80
+--sim-load
+--tape-name "Metaldrone.tzx"
+--tape-sum 2de44b30a815c2539691d0ab0243936a
+--start 41770

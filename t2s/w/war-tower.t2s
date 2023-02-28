@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/w/WarTower.tzx.zip
+war-tower.z80
+--sim-load
+--tape-name "War Tower.tzx"
+--tape-sum 7f5c0a4fbea0d06380bea9af92801431
+--start 26370

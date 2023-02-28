@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/ManicMiner-PerpetualMotion.tzx.zip
+manic-miner-perpetual-motion.z80
+--sim-load
+--tape-name "Manic Miner - Perpetual Motion.tzx"
+--tape-sum 5bea87b195e3b04aaa07fe4995f5b98f
+--start 33792

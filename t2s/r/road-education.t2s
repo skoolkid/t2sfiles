@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RoadEducation.tzx.zip
+road-education.z80
+--sim-load
+--tape-name "RoadEducation.tzx"
+--tape-sum 5e693dc06d55372cbe1f09240b98e3ee
+--start 65070

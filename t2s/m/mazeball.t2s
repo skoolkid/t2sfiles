@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Mazeball.zip
+mazeball.z80
+--sim-load
+--tape-name "Mazeball.tzx"
+--tape-sum ca86ac7b2a29c2a9804446c98636615c
+--start 45032

@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/JasonAndTheArgonauts.zip
+jason-of-the-argonauts.z80
+--sim-load
+--tape-name "Jason And The Argonauts.tzx"
+--tape-sum 220aec7dfe76607bbc3b05e4c8a9f594
+--start 25000

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/w/WoordenMaken.tzx.zip
+woorden-maken.z80
+--sim-load
+--tape-name "Woorden Maken.tzx"
+--tape-sum 76a81368c5fdd123d3fbac2b1f039e63
+--start 63900

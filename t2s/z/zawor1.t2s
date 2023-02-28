@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/z/Zawor1.tzx.zip
+zawor1.z80
+--sim-load
+--tape-name "Zawor1.tzx"
+--tape-sum 43b8ca3fbe94b11e549aab48227805e4
+--start 58419

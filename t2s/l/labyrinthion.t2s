@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/l/Labyrinthion.tzx.zip
+labyrinthion.z80
+--sim-load
+--tape-name "Labyrinthion.tzx"
+--tape-sum 0cf6eba70c8cf6d20d648d520a631299
+--start 23797

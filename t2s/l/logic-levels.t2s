@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/LogicLevels.zip
+logic-levels.z80
+--sim-load
+--tape-name "Logic Levels.tzx"
+--tape-sum 14449fa3bec77a8b2a715bf542266bb2
+--start 32768

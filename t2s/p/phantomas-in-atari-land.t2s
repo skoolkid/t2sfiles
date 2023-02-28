@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PhantomasInAtariLand.tzx.zip
+phantomas-in-atari-land.z80
+--sim-load
+--tape-name "Phantomas In Atari Land.tzx"
+--tape-sum 213139eac5dd279fae790ce06207a31b
+--start 48685

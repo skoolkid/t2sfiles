@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RaiderOfTheForgottenArk.tzx.zip
+raider-of-the-forgotten-ark.z80
+--sim-load
+--tape-name "Raider Of The Forgotten Ark.tzx"
+--tape-sum 4758ff4874af22e6fbbca766f93a6975
+--start 64001

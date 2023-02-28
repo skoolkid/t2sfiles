@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Micronauts.tzx.zip
+micronauts.z80
+--sim-load
+--tape-name "Micronauts.tzx"
+--tape-sum 602f7442f8232cd1b3127ea22955b833
+--start 50000

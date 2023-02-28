@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/z/Zap-Lap.tzx.zip
+zap-lap.z80
+--sim-load
+--tape-name "ZapLap.tzx"
+--tape-sum 1c6d7edf1ebad31c4baae811160e9314
+--start 61200

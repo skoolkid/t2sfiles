@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Wychwood.zip
+wychwood.z80
+--sim-load
+--tape-name "Wychwood.tzx"
+--tape-sum 7c88e5e76035ae4cdfa492e9a82d0d22
+--start 25000

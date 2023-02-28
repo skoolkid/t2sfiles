@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/ManicMiner4.zip
+manic-miner-4.z80
+--sim-load
+--tape-name "Manic Miner 4.tzx"
+--tape-sum 95ef9dbd3c07295849c5bb0ba233cb26
+--start 32768

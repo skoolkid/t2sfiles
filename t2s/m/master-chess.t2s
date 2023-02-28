@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MasterChess.tzx.zip
+master-chess.z80
+--sim-load
+--tape-name "Master Chess.tzx"
+--tape-sum 0ead1669a06a8bf591c004e92ba5cd75
+--start 40963

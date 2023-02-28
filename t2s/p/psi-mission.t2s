@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PSIMission.tzx.zip
+psi-mission.z80
+--sim-load
+--tape-name "PSI Mission.tzx"
+--tape-sum a9228b2bdf4590d7cad2ae8dea9ef45c
+--start 42016

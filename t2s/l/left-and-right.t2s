@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/l/LeftAndRight.tzx.zip
+left-and-right.z80
+--sim-load
+--tape-name "Left And Right.tzx"
+--tape-sum 568d01ecbf548fac428dafc6a48df0d7
+--start 23820

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/j/Jeremy.tzx.zip
+jeremy.z80
+--sim-load
+--tape-name "Jeremy.tzx"
+--tape-sum 8008229a50d4678ba9ff1049e594c719
+--start 65318

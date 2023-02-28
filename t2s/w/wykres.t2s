@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/w/Wykres.tzx.zip
+wykres.z80
+--sim-load
+--tape-name "Wykres.tzx"
+--tape-sum 354917696bd82b15247092d5766ac0e0
+--start 65383
