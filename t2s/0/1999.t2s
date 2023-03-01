@@ -1,0 +1,6 @@
+https://skoolkit.ca/tapes/1999.zip
+1999.z80
+--sim-load
+--tape-name "1999 (Alternative).tzx"
+--tape-sum a9545436cdf6a8291db1c539fcb37bfa
+--start 63054

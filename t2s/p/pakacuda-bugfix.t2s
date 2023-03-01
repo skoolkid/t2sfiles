@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/pub/sinclair/games/p/Pakacuda(BUGFIX).tzx.zip
+pakacuda-bugfix.z80
+--sim-load
+--tape-name "Pakacuda - Bugfix.tzx"
+--tape-sum c57c2205b2d557795bccb300b437775c
+--start 25661
