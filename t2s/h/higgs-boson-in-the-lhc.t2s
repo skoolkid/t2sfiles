@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/h/HiggsBosonInTheLHC.tap.zip
+higgs-boson-in-the-lhc.z80
+--sim-load
+--tape-name "BOSON.TAP"
+--tape-sum b8d23e15ca798b803510cfc3a82302cb
+--start 23766

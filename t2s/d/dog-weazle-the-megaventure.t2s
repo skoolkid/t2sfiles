@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DogWeazle-TheMegaventure.tap.zip
+dog-weazle-the-megaventure.z80
+--sim-load
+--tape-name "DOGWEAZ.TAP"
+--tape-sum ef5655aabf68fb95c8437aa3c63ecdda
+--start 48000

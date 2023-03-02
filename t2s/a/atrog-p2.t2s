@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AtrogPart2.tap.zip
+atrog-p2.z80
+--sim-load
+--tape-name "ATROG_2.TAP"
+--tape-sum 11412e693b21ebe172763c8bc02bf032
+--start 25057

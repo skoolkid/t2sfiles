@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DokonalaVrazda.tap.zip
+dokonala-vrazda.z80
+--sim-load
+--tape-name "DokonalaVrazda.tap"
+--tape-sum 3f1d8b4aad866c5f278454ec5100a263
+--start 24200

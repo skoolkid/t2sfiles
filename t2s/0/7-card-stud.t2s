@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/123/7CardStud.tap.zip
+7-card-stud.z80
+--sim-load
+--tape-name "7CARDSTD.TAP"
+--tape-sum 8597fa8b10434d299088e67aa1241940
+--start 18434

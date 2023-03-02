@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Connect4_3.tap.zip
+connect-4-john-westhead.z80
+--sim-load
+--tape-name "CONNEC4W.TAP"
+--tape-sum d28db45a872fc4111456674b1667d902
+; --start 63001

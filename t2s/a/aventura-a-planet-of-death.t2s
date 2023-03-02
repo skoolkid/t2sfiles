@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AventuraA-PlanetOfDeath.tap.zip
+aventura-a-planet-of-death.z80
+--sim-load
+--tape-name "Aventura A - Planet Of Death - Game.tap"
+--tape-sum 221f2e4caa4553176296221b2c4c924e
+; --start 29041

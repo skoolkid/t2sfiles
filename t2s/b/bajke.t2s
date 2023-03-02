@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Bajke.tap.zip
+bajke.z80
+--sim-load
+--tape-name "BAJKE.TAP"
+--tape-sum f3467db99a28bb446e209c35942f080b
+--start 24350

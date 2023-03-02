@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/a/Abakus.tap.zip
+abakus.z80
+--sim-load
+--tape-name "ABAKUS.TAP"
+--tape-sum d5d3655bae3ef812db13ac8ed130e333
+--start 23420

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0000095/Adventurer.tzx.zip
+adventurer.z80
+--sim-load
+--tape-name "Adventurer.tzx"
+--tape-sum 9397aa2d2ee8ccb6a5e2da92dd4c8b34
+--start 64952

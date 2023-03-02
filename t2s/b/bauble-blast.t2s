@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BAUBLEBLAST.tap.zip
+bauble-blast.z80
+--sim-load
+--tape-name "BAUBLEBLAST.tap"
+--tape-sum 37f0327501037a55127de4348141a521
+--start 41344

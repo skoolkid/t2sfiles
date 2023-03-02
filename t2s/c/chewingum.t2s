@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Chewingum.tap.zip
+chewingum.z80
+--sim-load
+--tape-name "Chewingum.tap"
+--tape-sum 9eeb3fdc9d8c330616dc82e3ddfedbec
+--start 25963

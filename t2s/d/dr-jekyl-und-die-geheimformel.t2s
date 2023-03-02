@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/d/Dr.JekylUndDieGeheimformel.tap.zip
+dr-jekyl-und-die-geheimformel.z80
+--sim-load
+--tape-name "DRJEKYL.TAP"
+--tape-sum 50547d3208d57d2ce6a0f01f8ae8815d
+--start 55000

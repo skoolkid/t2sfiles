@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Colourbind.tap.zip
+colourbind.z80
+--sim-load
+--tape-name "Colourbind.tap"
+--tape-sum 767677f49fa9d21e0afd90b31f4c17aa
+--start 40686

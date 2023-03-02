@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/a/Alaska.tap.zip
+alaska.z80
+--sim-load
+--tape-name "ALASKA.TAP"
+--tape-sum 639483a6a140515fb95e3dec49bb4137
+--start 24608

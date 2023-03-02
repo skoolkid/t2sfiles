@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AlertaOvni.tap.zip
+alerta-ovni.z80
+--sim-load
+--tape-name "Alerta Ovni.tap"
+--tape-sum ee8e25ef65b85318c265856512c660f4
+; --start 29041

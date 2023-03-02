@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DejaVu.tap.zip
+deja-vu.z80
+--sim-load
+--tape-name "DEJAVU.TAP"
+--tape-sum 478fb512e1fbc74066597710d731da78
+--start 50000

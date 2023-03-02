@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CrazyCastles.tap.zip
+crazy-castles.z80
+--sim-load
+--tape-name "CRAZCAST.TAP"
+--tape-sum 1b390d8aadcc8f52c08ee0715a59bf7b
+--start 42000

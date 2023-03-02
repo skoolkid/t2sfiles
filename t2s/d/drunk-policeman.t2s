@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DrunkPoliceman.tap.zip
+drunk-policeman.z80
+--sim-load
+--tape-name "DRNKPOLC.TAP"
+--tape-sum 724ed72459d341f92113279676821f8c
+--start 50000

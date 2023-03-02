@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AcademyHelp.tap.zip
+academy-help.z80
+--sim-load
+--tape-name "AcademyHelp.tap"
+--tape-sum e72a31606bfba3d288a50a5bc61bc357
+--start 25000
