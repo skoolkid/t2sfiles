@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/k/KnockoutWhist.tap.zip
+knockout-whist.z80
+--sim-load
+--tape-name "Knockout Whist.tap"
+--tape-sum 001655fee8ea4a1fcac571a4b751870e
+--start 56996

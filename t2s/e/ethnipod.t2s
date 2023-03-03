@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/e/Ethnipod.tap.zip
+ethnipod.z80
+--sim-load
+--tape-name "ETHNIPOD.TAP"
+--tape-sum 7469a1d242379ac4dd22802ab2c6174c
+--start 25031

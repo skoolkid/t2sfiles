@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/g/Giliszta.tap.zip
+giliszta.z80
+--sim-load
+--tape-name "GILISZTA.TAP"
+--tape-sum c59da0f70c8d89ce9da91df089438613
+--start 27403

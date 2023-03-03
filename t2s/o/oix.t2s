@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/o/OiX.tap.zip
+oix.z80
+--sim-load
+--tape-name "GO_BANG.TAP"
+--tape-sum 4908390b8c50f76899e3682443c9ccf9
+--start 46200

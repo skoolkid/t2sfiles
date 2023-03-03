@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TruenoAzulEl.tap.zip
+trueno-azul-el.z80
+--sim-load
+--tape-name "El Trueno Azul.tap"
+--tape-sum 5a4283dbe50838681724a7bc738cee92
+--start 50001

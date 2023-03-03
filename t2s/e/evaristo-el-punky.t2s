@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/e/EvaristoElPunky.tap.zip
+evaristo-el-punky.z80
+--sim-load
+--tape-name "Evaristo El Punky.tap"
+--tape-sum 64936295161c4a31979f534ba907c41b
+--start 43551

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TopFruitmachineThe.tap.zip
+top-fruitmachine-the.z80
+--sim-load
+--tape-name "FRUITMAC.TAP"
+--tape-sum 8950e70ee6241682e1ab6e84ed186c89
+--start 31562

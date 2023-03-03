@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/f/FrenchVerbs.tap.zip
+french-verbs.z80
+--sim-load
+--tape-name "FR_VERBE.TAP"
+--tape-sum e2c1891b5ec77715025caf1afed1be5f
+--start 24200

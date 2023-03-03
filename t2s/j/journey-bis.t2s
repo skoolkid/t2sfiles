@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/j/JourneyBis.tap.zip
+journey-bis.z80
+--sim-load
+--tape-name "Journey.tap"
+--tape-sum 8347c10f6ea7ad19e5da77fedf147795
+--start 64756

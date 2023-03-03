@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/f/Flashpoint.tap.zip
+flashpoint.z80
+--sim-load
+--tape-name "FLASHPNT.TAP"
+--tape-sum 4bdb9b4adeca66dd4234247e1cafbaaf
+--start 57202

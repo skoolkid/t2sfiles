@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SpecialAgent(GeheimAgent)(WoltersSoftware).tap.zip
+geheim-agent.z80
+--sim-load
+--tape-name "GEHAGENT.TAP"
+--tape-sum 40641ba3f3afd8f413e2d54d3ca1d0b2
+--start 23398

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/e/EscapeOfTheSnails(German).tap.zip
+escape-of-the-snails-german.z80
+--sim-load
+--tape-name "Escape of the Snails (Deutsch) v.1.tap"
+--tape-sum db7272a2dc6d0e0f7ae8724db6429c67
+--start 33792
