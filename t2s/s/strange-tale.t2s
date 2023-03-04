@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/StrangeTale.tap.zip
+strange-tale.z80
+--sim-load
+--tape-name "Strange Tale.tap"
+--tape-sum f35ae93c1f7ab4ff1b235de8cf1aefc3
+--start 34793

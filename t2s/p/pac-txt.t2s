@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PAC-TXT.tap.zip
+pac-txt.z80
+--sim-load
+--tape-name "pacen.tap"
+--tape-sum ba1b5921b46eb05971d86ebd16eb4ed3
+--start 50662

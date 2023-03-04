@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SuperFruitMachine.tap.zip
+super-fruit-machine.z80
+--sim-load
+--tape-name "SFRUIT.TAP"
+--tape-sum 9aaed6bba3246dc1ed96a07b323569c9
+--start 51817

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RunningMan.tap.zip
+running-man.z80
+--sim-load
+--tape-name "RunMan.tap"
+--tape-sum e17665d362749ae0518e09a61e03ceb7
+--start 40000

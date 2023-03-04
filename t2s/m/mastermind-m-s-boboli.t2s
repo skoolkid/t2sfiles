@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Mastermind_7.tap.zip
+mastermind-m-s-boboli.z80
+--sim-load
+--tape-name "MASTER_3.TAP"
+--tape-sum 55f6488865df3d4102cd924406bf78c3
+--start 32256

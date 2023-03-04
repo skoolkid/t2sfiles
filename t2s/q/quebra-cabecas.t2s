@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/q/Quebra-Cabecas.tap.zip
+quebra-cabecas.z80
+--sim-load
+--tape-name "QUEBRA_C.TAP"
+--tape-sum fd17b701f9a6a8626637b9d480e71a01
+--start 24544

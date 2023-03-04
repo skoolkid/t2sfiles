@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/l/LookForThePiramidsTreasure.tap.zip
+look-for-the-piramids-treasure.z80
+--sim-load
+--tape-name "Look For The Piramid's Treasure.tap"
+--tape-sum 8708ce99bd806825c688cb5cddc3286c
+; --start 29073

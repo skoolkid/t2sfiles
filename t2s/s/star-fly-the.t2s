@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/StarFlyThe.tap.zip
+star-fly-the.z80
+--sim-load
+--tape-name "STARFLY.TAP"
+--tape-sum 1bb40597b6fc4eafd12974079105db9d
+--start 40026

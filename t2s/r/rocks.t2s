@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/r/Rocks.tap.zip
+rocks.z80
+--sim-load
+--tape-name "ROCKS.TAP"
+--tape-sum d13d23a278a84fb16f68aaf6149d5e0f
+--start 24576

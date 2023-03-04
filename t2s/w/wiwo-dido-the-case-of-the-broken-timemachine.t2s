@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/w/WiwoDido-TheCaseOfTheBrokenTimemachine.tap.zip
+wiwo-dido-the-case-of-the-broken-timemachine.z80
+--sim-load
+--tape-name "wiwo.tap"
+--tape-sum 9253bf3cab65c062502b0bff67927820
+--start 23755

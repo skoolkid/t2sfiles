@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/n/NastyNasty.tap.zip
+nasty-nasty.z80
+--sim-load
+--tape-name "NastyNasty.tap"
+--tape-sum f3eefea8fd1de114eced5163259d0de8
+--start 29787

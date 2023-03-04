@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Sokoban_3.tap.zip
+sokoban-we.z80
+--sim-load
+--tape-name "SOKOBAN.TAP"
+--tape-sum e1ca546008696c2f53699683874b0717
+--start 24500

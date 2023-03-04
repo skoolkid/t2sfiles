@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/l/LarryTheLanderII-CosmicCarnage.tap.zip
+larry-the-lander-ii-cosmic-carnage-lisa.z80
+--sim-load
+--tape-name "LISA.tap"
+--tape-sum 79ad54de142e456ccf250dd867cc3654
+--start 37069

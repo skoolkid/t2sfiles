@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PimevalMan.tap.zip
+pimeval-man.z80
+--sim-load
+--tape-name "PIMEVAL.TAP"
+--tape-sum 562a9917a5963f140dd6988b22dd559c
+--start 42000

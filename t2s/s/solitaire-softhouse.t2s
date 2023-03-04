@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Solitaire_3.tap.zip
+solitaire-softhouse.z80
+--sim-load
+--tape-name "SOLITAR2.TAP"
+--tape-sum 0ebd4e56d81ada9e0f0b3992fbfca202
+--start 23787

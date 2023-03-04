@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/ScorchedEarthThe.tap.zip
+scorched-earth-the.z80
+--sim-load
+--tape-name "scorched_earth-russian.tap"
+--tape-sum fcd401758cbccfc4937d936ce9f88d1b
+--start 25000

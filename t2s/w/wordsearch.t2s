@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/w/Wordsearch.tap.zip
+wordsearch.z80
+--sim-load
+--tape-name "WORDSRCH.TAP"
+--tape-sum 0512a15c4af307e19ee888ea2632ba31
+--start 63950

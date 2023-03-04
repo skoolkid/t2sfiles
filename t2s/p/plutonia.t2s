@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Plutonia.tap.zip
+plutonia.z80
+--sim-load
+--tape-name "Plutonia.tap"
+--tape-sum 4cdd08f46d8819eb68632d80cd692baf
+--start 23784

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SalenTanRicos.tap.zip
+salen-tan-ricos.z80
+--sim-load
+--tape-name "salentan.tap"
+--tape-sum ff1b6b3ac941455dcd9e46e3760e4001
+--start 23755

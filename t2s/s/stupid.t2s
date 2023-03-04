@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Stupid.tap.zip
+stupid.z80
+--sim-load
+--tape-name "Stupid.tap"
+--tape-sum b6b6e8a26a0aae9388621fc054c4ffb5
+--start 38000

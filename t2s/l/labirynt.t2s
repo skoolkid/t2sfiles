@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/l/LabiryntV2.tap.zip
+labirynt.z80
+--sim-load
+--tape-name "LABIRYNT.TAP"
+--tape-sum 39edf8cf2f4408f25e562a34caa66fc8
+--start 50350

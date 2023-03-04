@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/Tombola_3.tap.zip
+tombola-ina.z80
+--sim-load
+--tape-name "TOMBOLAI.TAP"
+--tape-sum 8addb4cfad16a04dc53c966a2cc9a697
+; --start 55000

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/n/NewYear1985.tap.zip
+new-year-1985.z80
+--sim-load
+--tape-name "NEWY1985.TAP"
+--tape-sum 53e921170070d34221b3eba1d7feec15
+--start 39000

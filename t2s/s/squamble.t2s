@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Squamble.tap.zip
+squamble.z80
+--sim-load
+--tape-name "SQUAMBLE.TAP"
+--tape-sum 4b04fd77a756cd6f9fef8e1f32f05572
+--start 62122

@@ -1,6 +1,6 @@
-https://tzxvault.org/Spectrum/TZX/ZXOthello.zip
+https://worldofspectrum.net/pub/sinclair/games/z/ZXOthello.tap.zip
 zx-othello.z80
 --sim-load
---tape-name "ZX Othello.tzx"
---tape-sum 02411c3572e00c396730583df07eae74
---start 24064
+--tape-name "ZX-Othello.tap"
+--tape-sum 519f9f2c5324551b18dc742cba18d6fe
+--start 23769

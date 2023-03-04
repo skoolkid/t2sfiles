@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TinyTetris.tap.zip
+tiny-tetris.z80
+--sim-load
+--tape-name "TINYTETR.TAP"
+--tape-sum 97aa7af72dba884d33955f8642f55c2d
+--start 16384

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/ThroTheWall.tap.zip
+thro-the-wall.z80
+--sim-load
+--tape-name "THROWALL.TAP"
+--tape-sum 08a9638b49fca5d43fded34d796b16bf
+--start 32256

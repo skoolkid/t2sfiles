@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Mrazik88.tap.zip
+mrazik-88.z80
+--sim-load
+--tape-name "MRAZIK88.TAP"
+--tape-sum b838ad095c30997feaad962f2cbfc971
+--start 23352

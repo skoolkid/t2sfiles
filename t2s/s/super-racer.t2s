@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SuperRacer.tap.zip
+super-racer.z80
+--sim-load
+--tape-name "Super Racer.tap"
+--tape-sum 448d485b8cb42b8840ac10fce31709c8
+--start 40000

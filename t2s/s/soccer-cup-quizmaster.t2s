@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SoccerCupQuizmaster.tap.zip
+soccer-cup-quizmaster.z80
+--sim-load
+--tape-name "SOCCERCQ.TAP"
+--tape-sum aa7bfe57be46367d58c712b5ae759b9e
+--start 42240

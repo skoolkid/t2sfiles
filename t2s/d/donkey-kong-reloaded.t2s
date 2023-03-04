@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DonkeyKongReloaded.tap.zip
+donkey-kong-reloaded.z80
+--sim-load
+--tape-name "donkeykongreloaded_0.tap"
+--tape-sum f949bb5d3c449d6f22067e1448494d3f
+--start 30600

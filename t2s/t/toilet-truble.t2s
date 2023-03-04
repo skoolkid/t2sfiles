@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/ToiletTruble.tap.zip
+toilet-truble.z80
+--sim-load
+--tape-name "TOILETTR.TAP"
+--tape-sum 3d75935eb229869e790103e84b7fc462
+--start 24832

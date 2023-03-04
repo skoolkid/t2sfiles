@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BullsAndCows_2.tap.zip
+bulls-and-cows-virt-group.z80
+--sim-load
+--tape-name "bulls_cows.tap"
+--tape-sum a752ea2ba024e80110ececb307a67b25
+; --start 57004

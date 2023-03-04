@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PyramidPatience.tap.zip
+pyramid-patience.z80
+--sim-load
+--tape-name "PYRAMPAT.TAP"
+--tape-sum e71898fb3f6cef439c1617edf3d8d5c1
+--start 36400

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/StripJack.tap.zip
+strip-jack-carlos-correia.z80
+--sim-load
+--tape-name "STRIP_JA.TAP"
+--tape-sum 83dfdd01724f04b1a52b66021eb81165
+--start 16389

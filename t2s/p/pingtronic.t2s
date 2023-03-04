@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Pingtronic.tap.zip
+pingtronic.z80
+--sim-load
+--tape-name "Pingtronic.tap"
+--tape-sum 08d233ac5b693ecaa7a82f4fa476a1b2
+--start 32256

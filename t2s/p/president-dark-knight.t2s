@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/p/President_2.tap.zip
+president-dark-knight.z80
+--sim-load
+--tape-name "PRESIDNT.TAP"
+--tape-sum daf9b9a576fa349ac4925be066e45626
+--start 65268

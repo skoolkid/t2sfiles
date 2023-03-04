@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/l/Letris2.tap.zip
+letris-2.z80
+--sim-load
+--tape-name "LETRIS2.TAP"
+--tape-sum 78d2bd49f48e225e01280d5b7b757a79
+--start 41101

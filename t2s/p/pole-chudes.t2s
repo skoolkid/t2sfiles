@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PoleChudes.tap.zip
+pole-chudes.z80
+--sim-load
+--tape-name "PoleChudes.tap"
+--tape-sum 2ba2433517879ba24ec8787f2a95ac84
+--start 27000

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/j/JetSetChile.tap.zip
+jet-set-chile.z80
+--sim-load
+--tape-name "jetset.tap"
+--tape-sum d8a8c33e860cf2737dfd238b2c597fe5
+--start 33792

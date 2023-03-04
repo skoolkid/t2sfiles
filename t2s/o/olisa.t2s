@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/o/Olisa.tap.zip
+olisa.z80
+--sim-load
+--tape-name "Olisa-en.tap"
+--tape-sum 61698a7c51b861d5222e2af7d23d61cd
+--start 64908

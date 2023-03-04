@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SemiStack.tap.zip
+semi-stack.z80
+--sim-load
+--tape-name "SemiStack/semistak.tap"
+--tape-sum 2c9e70bbeac71daa9d7fddb927334194
+--start 23771

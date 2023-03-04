@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SpeederDemo.tap.zip
+speeder.z80
+--sim-load
+--tape-name "Speeder.tap"
+--tape-sum 77d92fbdba9dd9f526520856072ff725
+--start 32768

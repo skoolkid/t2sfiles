@@ -1,6 +1,6 @@
-https://tzxvault.org/Spectrum/TZX/Thinker.zip
+https://worldofspectrum.net/pub/sinclair/games/t/Thinker.tap.zip
 thinker.z80
 --sim-load
---tape-name "Thinker.tzx"
---tape-sum 985e4d94808be89748a4e978038f3a44
---start 50000
+--tape-name "Thinker.tap"
+--tape-sum a4cc7ba138035658852bedf12afd712a
+--start 51000

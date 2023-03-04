@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MockV1.1.tap.zip
+mock-v1.1-p2.z80
+--sim-load
+--tape-name "Mock v1.1 - Part 2.tap"
+--tape-sum b34097b003bac0d81fbc89e455f987d6
+--start 34793

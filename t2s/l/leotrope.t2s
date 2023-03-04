@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/l/Leotrope.tap.zip
+leotrope.z80
+--sim-load
+--tape-name "Leotrope.tap"
+--tape-sum c1c3ab5fd10da77ecf925fc34a792dc5
+--start 23296

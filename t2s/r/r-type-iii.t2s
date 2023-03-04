@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/r/R-TypeIII.tap.zip
+r-type-iii.z80
+--sim-load
+--tape-name "R-TYPE3.TAP"
+--tape-sum 12d64e532eda79075b1c57a9ba818c93
+--start 51387

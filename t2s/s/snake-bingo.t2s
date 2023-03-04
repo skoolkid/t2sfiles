@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SnakeBingo.tap.zip
+snake-bingo.z80
+--sim-load
+--tape-name "snakbing.tap"
+--tape-sum 08022cce68125c7329847c0c3606d359
+--start 23755

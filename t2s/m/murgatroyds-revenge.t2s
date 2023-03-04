@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MurgatroydsRevenge.tap.zip
+murgatroyds-revenge.z80
+--sim-load
+--tape-name "murgr81.tap"
+--tape-sum 72e8c5b1ffb5aafbc3e46e03009f23d8
+--start 40003

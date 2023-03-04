@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Starwash.tap.zip
+starwash.z80
+--sim-load
+--tape-name "Starwash.tap"
+--tape-sum 3dabc53b6f378689e6ad3fc4293f14ab
+; --start 29041

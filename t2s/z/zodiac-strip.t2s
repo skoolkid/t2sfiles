@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/z/ZodiacStrip.tap.zip
+zodiac-strip.z80
+--sim-load
+--tape-name "ZODIAC.TAP"
+--tape-sum 509b6cdc1c13b41d18788cdf502a09bc
+--start 23313

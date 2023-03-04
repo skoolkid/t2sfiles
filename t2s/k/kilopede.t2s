@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/k/Kilopede.tap.zip
+kilopede.z80
+--sim-load
+--tape-name "Kilopede/kilopede.tap"
+--tape-sum ce620ed236a41c56ce60bbb94c226408
+--start 23770

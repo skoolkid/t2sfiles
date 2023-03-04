@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PlayBall.tap.zip
+play-ball.z80
+--sim-load
+--tape-name "PlayBall/PlayBall.tap"
+--tape-sum 3ea99052b22123857079a2387ffe08f5
+--start 23774
