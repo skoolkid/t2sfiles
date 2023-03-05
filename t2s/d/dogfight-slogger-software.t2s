@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/d/Dogfight_3.tap.zip
+dogfight-slogger-software.z80
+--sim-load
+--tape-name "DOGFIGHT.TAP"
+--tape-sum e7202fb703f81723478e864ca6f9aba6
+; --start 25000
