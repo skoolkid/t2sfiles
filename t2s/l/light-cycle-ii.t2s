@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/l/LightCycleII.tap.zip
+light-cycle-ii.z80
+--sim-load
+--tape-name "LIGHTCY2.TAP"
+--tape-sum 953f11533430563ca885dd7707274f1d
+--start 22240

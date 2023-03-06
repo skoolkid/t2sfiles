@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Planet10.tap.zip
+planet-10.z80
+--sim-load
+--tape-name "PLANET10.TAP"
+--tape-sum 7862705fab9c756a6e6d026df0abfb43
+--start 21987

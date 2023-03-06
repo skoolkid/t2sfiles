@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Sabrina.tap.zip
+sabrina.z80
+--sim-load
+--tape-name "Sabrina.tap"
+--tape-sum 4b157192662a91187265dde5e55e46cc
+--start 25561
+--tape-stop 12

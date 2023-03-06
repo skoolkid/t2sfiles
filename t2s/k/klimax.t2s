@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/k/Klimax.tap.zip
+klimax.z80
+--sim-load
+--tape-name "KLIMAX.TAP"
+--tape-sum 86f793b24ac263adaf7ff9307b1cd75e
+--start 65088

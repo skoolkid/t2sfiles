@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DodgerDon.tap.zip
+dodger-don.z80
+--sim-load
+--tape-name "DOGERDON.TAP"
+--tape-sum 39e4c93b241230ad4c92d27c9fca1555
+--start 40000

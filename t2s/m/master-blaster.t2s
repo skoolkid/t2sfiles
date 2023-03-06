@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MasterBlaster.tap.zip
+master-blaster.z80
+--sim-load
+--tape-name "MBLASTER.TAP"
+--tape-sum b633328bc100a80de2c928f289db5fc7
+--start 60903
