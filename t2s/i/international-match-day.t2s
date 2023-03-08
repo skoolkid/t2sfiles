@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/i/InternationalMatchDay.tzx.zip
+international-match-day.z80
+--sim-load
+--tape-name "International Match Day.tzx"
+--tape-sum cb959e7265391362742fbda62cee86e8
+--start 33354

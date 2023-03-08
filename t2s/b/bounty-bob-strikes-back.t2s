@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BountyBobStrikesBack.tzx.zip
+bounty-bob-strikes-back.z80
+--sim-load
+--tape-name "Bounty Bob Strikes Back.tzx"
+--tape-sum ff08bef9974206aed3cd1c246b1e9c26
+--start 65461

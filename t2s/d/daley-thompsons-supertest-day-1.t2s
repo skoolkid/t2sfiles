@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DaleyThompsonsSupertest48.tzx.zip
+daley-thompsons-supertest-day-1.z80
+--sim-load
+--tape-name "Daley Thompson's Supertest - Day 1 - 48k.tzx"
+--tape-sum 14c9ae2671daa2e68a6830e31a3be5db
+--start 65461

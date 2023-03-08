@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/f/Flak.tzx.zip
+flak.z80
+--sim-load
+--tape-name "Flak.tzx"
+--tape-sum 8093888fbb7dc27d643c31d53646b155
+--start 59932

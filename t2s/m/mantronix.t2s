@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Mantronix.tzx.zip
+mantronix.z80
+--sim-load
+--tape-name "Mantronix.tzx"
+--tape-sum 9ecad986c078d68f51113d211e5784fc
+--start 65389

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CosmicShockAbsorber.tzx.zip
+cosmic-shock-absorber.z80
+--sim-load
+--tape-name "Cosmic Shock Absorber - 48k.tzx"
+--tape-sum 46af8ee39aaba365d6f6e56e375035e7
+--start 65373

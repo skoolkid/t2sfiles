@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Beach-Head.tzx.zip
+beach-head.z80
+--sim-load
+--tape-name "Beach Head.tzx"
+--tape-sum 24c29096cf3882cdd5682bdd661d432b
+--start 51281

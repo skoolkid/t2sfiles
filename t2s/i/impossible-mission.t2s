@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/i/ImpossibleMission.tzx.zip
+impossible-mission.z80
+--sim-load
+--tape-name "Impossible Mission.tzx"
+--tape-sum 461c189b10fcbcf5fdffe4157a399e4b
+--start 65229

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DeathStarInterceptor.tzx.zip
+death-star-interceptor.z80
+--sim-load
+--tape-name "Death Star Interceptor.tzx"
+--tape-sum ac0fa4543884df79b2c4258445155812
+--start 49978

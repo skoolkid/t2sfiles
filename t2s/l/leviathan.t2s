@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/l/Leviathan.tzx.zip
+leviathan.z80
+--sim-load
+--tape-name "Leviathan - 48k.tzx"
+--tape-sum adcd582fa8f0b165555555a9d90d5461
+--start 41191

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MarioBros.tzx.zip
+mario-bros.z80
+--sim-load
+--tape-name "Mario Bros.tzx"
+--tape-sum 7bb67334c153688a7ee63b2e576d9db1
+--start 65319

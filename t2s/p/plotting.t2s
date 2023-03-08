@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Plotting.tzx.zip
+plotting.z80
+--sim-load
+--tape-name "Plotting.tzx"
+--tape-sum a625c12b3504f54d5991cdbb3a8c8b76
+--start 23296

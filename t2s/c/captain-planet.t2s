@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CaptainPlanet.tzx.zip
+captain-planet.z80
+--sim-load
+--tape-name "Captain Planet.tzx"
+--tape-sum 4c24c95b75a46cb223d705a586316826
+--start 23409
