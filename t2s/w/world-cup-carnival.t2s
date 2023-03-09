@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/w/WorldCupCarnival.tzx.zip
+world-cup-carnival.z80
+--sim-load
+--tape-name "World Cup Carnival.tzx"
+--tape-sum c57505a97c668c12cb8cca02eb164882
+--start 23309

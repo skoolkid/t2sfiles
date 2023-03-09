@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RoadBlasters.tzx.zip
+road-blasters.z80
+--sim-load
+--tape-name "Road Blasters - Side 1.tzx"
+--tape-sum db56775b479a6ad6674902e51b70905f
+--start 61486
+--tape-stop 53

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TheyStoleAMillion.tzx.zip
+they-stole-a-million.z80
+--sim-load
+--tape-name "They Stole A Million.tzx"
+--tape-sum e88088823dc752dfc6f77ef982f18134
+--start 65364

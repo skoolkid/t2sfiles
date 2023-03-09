@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/w/WorldSeriesBasketball.tzx.zip
+world-series-basketball.z80
+--sim-load
+--tape-name "World Series Basketball.tzx"
+--tape-sum d2965b67d064d23d196b30116bb8f1e6
+--start 65461

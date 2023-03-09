@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TransformersThe.tzx.zip
+transformers-the.z80
+--sim-load
+--tape-name "Transformers.tzx"
+--tape-sum 0bd5fe9521175245f2a4baa04a425edc
+--start 64942

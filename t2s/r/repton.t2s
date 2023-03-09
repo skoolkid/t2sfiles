@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/r/Repton.tzx.zip
+repton.z80
+--sim-load
+--tape-name "Repton.tzx"
+--tape-sum 68c5bfc2be3de38d88814bf608971244
+--start 65283

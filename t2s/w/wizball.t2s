@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/w/Wizball.tzx.zip
+wizball.z80
+--sim-load
+--tape-name "Wizball.tzx"
+--tape-sum 933a36867ea6963792890d24f7e23dee
+--start 65329

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/r/Repton2.tzx.zip
+repton-2.z80
+--sim-load
+--tape-name "Repton 2.tzx"
+--tape-sum d7689054abf238b468f13500bbeb239d
+--start 65283

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SuperGran.tzx.zip
+super-gran.z80
+--sim-load
+--tape-name "Super Gran.tzx"
+--tape-sum dbd905812d0e5924b9143195ec5746d8
+--start 62932
