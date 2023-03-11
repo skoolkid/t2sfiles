@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SpacedOut.tzx.zip
+spaced-out.z80
+--sim-load
+--tape-name "Spaced Out.tzx"
+--tape-sum dc09995f85011e85feccc14f1ed1f329
+--start 23419

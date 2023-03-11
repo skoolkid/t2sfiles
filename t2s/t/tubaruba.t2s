@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/Tubaruba.tzx.zip
+tubaruba.z80
+--sim-load
+--tape-name "Tubaruba.tzx"
+--tape-sum 9ea88ea4898710415f817c41819a23a7
+--start 23931

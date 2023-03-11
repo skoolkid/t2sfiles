@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/v/Virus.tzx.zip
+virus-firebird.z80
+--sim-load
+--tape-name "Virus.tzx"
+--tape-sum df66ec5c20b5822b030addee0f209992
+--start 64629

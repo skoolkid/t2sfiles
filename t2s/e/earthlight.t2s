@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/e/Earthlight.tzx.zip
+earthlight.z80
+--sim-load
+--tape-name "Earthlight - 48k.tzx"
+--tape-sum 7c91f1f48168f8c76a23621f4e1b6093
+--start 23943

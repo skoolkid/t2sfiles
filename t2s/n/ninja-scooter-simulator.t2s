@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/n/NinjaScooterSimulator.tzx.zip
+ninja-scooter-simulator.z80
+--sim-load
+--tape-name "Ninja Scooter Simulator.tzx"
+--tape-sum 3d06062881f8fdbeea5c162929b76463
+--start 23422

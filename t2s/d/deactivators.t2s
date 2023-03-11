@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/d/Deactivators_2.tzx.zip
+deactivators.z80
+--sim-load
+--tape-name "Deactivators (Firebird).tzx"
+--tape-sum b47007ce10a09b1fd955e1e02239708b
+--start 23419

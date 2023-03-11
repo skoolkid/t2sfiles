@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/i/InternationalSpeedway.tzx.zip
+international-speedway.z80
+--sim-load
+--tape-name "International Speedway.tzx"
+--tape-sum 00347eb2387a57b9ad57cafe8416627d
+--start 23922
