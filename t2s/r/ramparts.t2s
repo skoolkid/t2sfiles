@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/r/Ramparts.tzx.zip
+ramparts.z80
+--sim-load
+--tape-name "Ramparts.tzx"
+--tape-sum f26e3a7fff30ad3bc47abcd18be0a737
+--start 64509

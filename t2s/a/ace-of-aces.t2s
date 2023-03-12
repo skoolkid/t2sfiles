@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AceOfAces.tzx.zip
+ace-of-aces.z80
+--sim-load
+--tape-name "Ace Of Aces.tzx"
+--tape-sum c3b246c7d25806bf1f185a8d985b45da
+--start 60474
+--tape-stop 5

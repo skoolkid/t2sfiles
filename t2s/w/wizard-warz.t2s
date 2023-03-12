@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/w/WizardWarz.tzx.zip
+wizard-warz.z80
+--sim-load
+--tape-name "Wizard Warz.tzx"
+--tape-sum 82c2c0fc080c322ab227fc1a210683dd
+--start 23393

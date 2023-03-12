@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/g/Gunslinger.tzx.zip
+gunslinger.z80
+--sim-load
+--tape-name "Gunslinger.tzx"
+--tape-sum 5ab9d04b56d5ccd9c3193f8d4805ad17
+--start 60513
+--tape-stop 12

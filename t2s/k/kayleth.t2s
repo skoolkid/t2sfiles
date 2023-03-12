@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/k/Kayleth.tzx.zip
+kayleth.z80
+--sim-load
+--tape-name "Kayleth.tzx"
+--tape-sum 622f88302c38fbe2cebfc1041ce9fce3
+--start 64745

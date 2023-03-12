@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/h/HumanKillingMachine.tzx.zip
+human-killing-machine.z80
+--sim-load
+--tape-name "Human Killing Machine - 48k.tzx"
+--tape-sum 670bbfbef3ab4c46970b07ffc8032ad3
+--start 65474

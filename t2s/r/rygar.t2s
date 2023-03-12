@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/r/Rygar.tzx.zip
+rygar.z80
+--sim-load
+--tape-name "Rygar.tzx"
+--tape-sum cd3ad7e8a87b44436eed0fcc90bde0f2
+--start 64509

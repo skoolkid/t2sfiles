@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/l/LazerTag.tzx.zip
+lazer-tag.z80
+--sim-load
+--tape-name "Lazer Tag.tzx"
+--tape-sum f131c354288b21859ac31b070bf65206
+--start 64509

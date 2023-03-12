@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AcroJet.tzx.zip
+acro-jet.z80
+--sim-load
+--tape-name "Acro Jet.tzx"
+--tape-sum ec701515acc3b9ee72ec16bb5698cd67
+--start 64474

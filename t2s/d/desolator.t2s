@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/d/Desolator.tzx.zip
+desolator.z80
+--sim-load
+--tape-name "Desolator - Side 1.tzx"
+--tape-sum 6eae5ab9884e60a450d353583e933024
+--start 40509
