@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/Tantalus.tzx.zip
+tantalus.z80
+--sim-load
+--tape-name "Tantalus.tzx"
+--tape-sum 4e893fd595401d14723d4499602d544e
+--start 33885

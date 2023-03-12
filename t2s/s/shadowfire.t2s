@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Shadowfire.tzx.zip
+shadowfire.z80
+--sim-load
+--tape-name "Shadowfire.tzx"
+--tape-sum a27a885077397eb0073afcae70149351
+--start 64376

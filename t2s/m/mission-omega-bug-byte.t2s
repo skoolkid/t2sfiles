@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MissionOmega.tzx.zip
+mission-omega-bug-byte.z80
+--sim-load
+--tape-name "Mission Omega.tzx"
+--tape-sum 175745922a9c6f89c6f082fcfc8c9e0d
+--start 65186
