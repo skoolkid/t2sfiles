@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Cylu.tzx.zip
+cylu.z80
+--sim-load
+--tape-name "Cylu.tzx"
+--tape-sum c93748432632dd7621d4a4f5fec1e620
+--start 23344

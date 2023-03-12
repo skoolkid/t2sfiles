@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/r/Runestone(FirebirdSoftwareLtd).tzx.zip
+runestone.z80
+--sim-load
+--tape-name "Runestone.tzx"
+--tape-sum 831f4c70e38a6bab5b700bf91d126131
+--start 23344
