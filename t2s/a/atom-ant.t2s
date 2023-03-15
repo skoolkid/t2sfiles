@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AtomAnt.tzx.zip
+atom-ant.z80
+--sim-load
+--tape-name "Atom Ant.tzx"
+--tape-sum 5508bf4b524c8a0ad82b63391776333b
+--start 40715

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/a/Automania.tzx.zip
+automania.z80
+--sim-load
+--tape-name "Automania.tzx"
+--tape-sum dee584d51ac566d5873b9d3369fdeb22
+--start 32819

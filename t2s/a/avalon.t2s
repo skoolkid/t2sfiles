@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/a/Avalon.tzx.zip
+avalon.z80
+--sim-load
+--tape-name "Avalon.tzx"
+--tape-sum 1ec1486d2256a9793c363196d4fae31b
+--start 65023

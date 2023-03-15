@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/a/A.I.TicTacToeV1.0.tzx.zip
+ai-tic-tac-toe.z80
+--sim-load
+--tape-name "AITTT_1_final.tzx"
+--tape-sum 6285ce4482e8a4f02129af5ff38a23b8
+--start 36864

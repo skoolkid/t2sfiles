@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AirborneRanger.tzx.zip
+airborne-ranger.z80
+--sim-load
+--tape-name "Airborne Ranger - Tape 1 - Side A.tzx"
+--tape-sum 26eee3d9cf92758ebc78fc5133852035
+--start 33402

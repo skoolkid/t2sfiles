@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AndyCapp.tzx.zip
+andy-capp.z80
+--sim-load
+--tape-name "Andy Capp - Side A.tzx"
+--tape-sum 6cb8db54e313692b097608b600de344c
+--start 65381
