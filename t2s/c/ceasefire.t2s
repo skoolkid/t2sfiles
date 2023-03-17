@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Ceasefire.tap.zip
+ceasefire.z80
+--sim-load
+--tape-name "CEASEFIR.TAP"
+--tape-sum 8ac862ce1551668f3250b4860334180e
+--start 16404

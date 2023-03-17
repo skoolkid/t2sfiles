@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BladeRunner.tzx.zip
+blade-runner.z80
+--sim-load
+--tape-name "Blade Runner.tzx"
+--tape-sum 682da7a7472ab04b2a5efc4f518bc395
+--start 50721

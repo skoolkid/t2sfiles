@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CollisionCourse.tzx.zip
+collision-course.z80
+--sim-load
+--tape-name "Collision Course.tzx"
+--tape-sum 347ace27408764dd9ec707ece2985a4d
+--start 36059
+--tape-stop 7

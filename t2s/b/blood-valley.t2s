@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BloodValley.tzx.zip
+blood-valley.z80
+--sim-load
+--tape-name "Blood Valley.tzx"
+--tape-sum 56f7d5ca5d0acfc4673d40233b40448e
+--start 23859

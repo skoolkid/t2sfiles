@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Coracle.tzx.zip
+coracle.z80
+--sim-load
+--tape-name "Coracle.tzx"
+--tape-sum 2f8269750546294f4029ff29b94e37e0
+--start 7997

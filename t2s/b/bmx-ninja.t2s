@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BMXNinja.tzx.zip
+bmx-ninja.z80
+--sim-load
+--tape-name "BMX Ninja (Alternative).tzx"
+--tape-sum 9134379f3389c0c999c2b67161497a51
+--start 64074

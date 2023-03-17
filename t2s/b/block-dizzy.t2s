@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Block-Dizzy.tzx.zip
+block-dizzy.z80
+--sim-load
+--tape-name "DIZZYBLO.TZX"
+--tape-sum 26416a815ba607e492a46b84ad6537cb
+--start 65171

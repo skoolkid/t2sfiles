@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Cybex.tzx.zip
+cybex.z80
+--sim-load
+--tape-name "CYBEX.TZX"
+--tape-sum 3baaaa2fcf719ed1a561e81166e6687a
+--start 65281

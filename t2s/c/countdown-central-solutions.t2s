@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Countdown.tzx.zip
+countdown-central-solutions.z80
+--sim-load
+--tape-name "Countdown (Carol And Paul Bradbury).tzx"
+--tape-sum 6e754ccda03963b489de0b7743ad919b
+--start 25000

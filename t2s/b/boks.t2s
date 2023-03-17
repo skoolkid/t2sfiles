@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Boks.tzx.zip
+boks.z80
+--sim-load
+--tape-name "Boks (288).tzx"
+--tape-sum 40319a7dbfb8fbc132b3adf8488c3366
+--start 16384

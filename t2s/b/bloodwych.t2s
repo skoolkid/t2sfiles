@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Bloodwych.tzx.zip
+bloodwych.z80
+--sim-load
+--tape-name "Bloodwych - The Game.tzx"
+--tape-sum 5f72d5249bd08b48720df4832a7de7f3
+--start 23296

@@ -1,5 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/TheGraphicsCreator.zip
-bonkers.z80
+bonkers-mastertronic.z80
 --sim-load
 --tape-name "The Graphics Creator - Side B.tzx"
 --tape-sum d4245fa5e6466a590ce95e3282ba0a5b

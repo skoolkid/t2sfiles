@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CosmicSheriff.tzx.zip
+cosmic-sheriff.z80
+--sim-load
+--tape-name "Cosmic Sheriff.tzx"
+--tape-sum 7173aa63d46f10cd8d3a5aaf6b6db720
+--start 64031

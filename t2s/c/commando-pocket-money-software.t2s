@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Commando.tzx.zip
+commando-pocket-money-software.z80
+--sim-load
+--tape-name "Commando (Pocket Money Software).tzx"
+--tape-sum ad3f21d82fc9c00718ba7132fa30fb87
+--start 25000

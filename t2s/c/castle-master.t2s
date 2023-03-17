@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CastleMaster.tzx.zip
+castle-master.z80
+--sim-load
+--tape-name "Castle Master.tzx"
+--tape-sum 2f393eacbe631b0efcab491bb1cc6608
+--start 26624

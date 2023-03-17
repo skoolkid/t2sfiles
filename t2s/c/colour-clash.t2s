@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/ColourClash.tzx.zip
+colour-clash.z80
+--sim-load
+--tape-name "Colour Clash.tzx"
+--tape-sum c582713f3767f7007490aa95ad2f3b85
+--start 24700

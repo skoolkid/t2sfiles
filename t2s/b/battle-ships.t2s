@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BattleShips.tzx.zip
+battle-ships.z80
+--sim-load
+--tape-name "Battleships.tzx"
+--tape-sum 28ec7bed55b0638f6bf28b4dbc098dff
+--start 65201

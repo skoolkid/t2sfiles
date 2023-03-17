@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BigTrouble.tzx.zip
+big-trouble.z80
+--sim-load
+--tape-name "Big Trouble!.tzx"
+--tape-sum d125fa665ef0ddb661d59101744c5cd7
+--start 65517

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BattleValley.tzx.zip
+battle-valley.z80
+--sim-load
+--tape-name "Battle Valley (Rack-It).tzx"
+--tape-sum ee503fb8e2737516780bcb332d337ab7
+--start 45265

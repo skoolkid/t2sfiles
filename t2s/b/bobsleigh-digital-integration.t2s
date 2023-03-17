@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Bobsleigh.tzx.zip
+bobsleigh-digital-integration.z80
+--sim-load
+--tape-name "Bobsleigh.tzx"
+--tape-sum 2208f565b8f41b82bddf6041cde9e154
+--start 57383

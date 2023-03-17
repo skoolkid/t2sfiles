@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BrianBloodaxe.tzx.zip
+brian-bloodaxe.z80
+--sim-load
+--tape-name "Brian Bloodaxe.tzx"
+--tape-sum 01b9b9454fc40eec0db0ba16ef2e6552
+--start 24800

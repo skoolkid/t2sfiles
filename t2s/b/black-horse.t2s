@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BlackHorse.tzx.zip
+black-horse.z80
+--sim-load
+--tape-name "Black Horse.tzx"
+--tape-sum c7c27319a4ddf7176597da42233ac803
+--start 64717

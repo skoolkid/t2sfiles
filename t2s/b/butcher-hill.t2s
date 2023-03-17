@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/b/ButcherHill.tzx.zip
+butcher-hill.z80
+--sim-load
+--tape-name "Butcher Hill.tzx"
+--tape-sum 7651985ea3e891613334e6dfd34cea39
+--start 60509

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Cityfighter.tzx.zip
+cityfighter.z80
+--sim-load
+--tape-name "City Fighter.tzx"
+--tape-sum 90b95441d9766e177dacda49ddf2636e
+--start 28146
