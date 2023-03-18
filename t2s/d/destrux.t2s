@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/d/Destrux.tzx.zip
+destrux.z80
+--sim-load
+--tape-name "DESTRUX.TZX"
+--tape-sum 65232484db678aa8026e45c4abe832ae
+--start 55582

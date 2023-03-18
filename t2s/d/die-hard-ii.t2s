@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DieHardII.tzx.zip
+die-hard-ii.z80
+--sim-load
+--tape-name "28_Die Hard 2.tzx"
+--tape-sum 3abd0de7e2d4e0d64836510deba2f67b
+--start 65449

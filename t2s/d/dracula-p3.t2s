@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/d/Dracula.tzx.zip
+dracula-p3.z80
+--sim-load
+--tape-name "Dracula - Part 3 - The Hunt.tzx"
+--tape-sum d81332be8b1162f1dbc68af083fea6da
+--start 65053

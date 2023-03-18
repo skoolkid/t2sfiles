@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/d/Deathscape.tzx.zip
+deathscape.z80
+--sim-load
+--tape-name "Deathscape.tzx"
+--tape-sum e6142242c80d39220ecb7566a17d99cb
+--start 64376

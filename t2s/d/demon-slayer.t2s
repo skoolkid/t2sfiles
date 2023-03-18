@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DemonSlayer.tzx.zip
+demon-slayer.z80
+--sim-load
+--tape-name "DEMONSLA.TZX"
+--tape-sum df0670208c52e991f310a4993f39bd54
+--start 16396

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/d/Driller.tzx.zip
+driller.z80
+--sim-load
+--tape-name "Driller.tzx"
+--tape-sum 492e8ce19a42addab4baee7304c5f363
+--start 65380
