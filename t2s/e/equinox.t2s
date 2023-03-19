@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/e/Equinox.tzx.zip
+equinox.z80
+--sim-load
+--tape-name "Equinox.tzx"
+--tape-sum 24afc08e6c64e8387ab0c08d8c51abc3
+--start 65271

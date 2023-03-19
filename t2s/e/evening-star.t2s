@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/e/EveningStar.tzx.zip
+evening-star.z80
+--sim-load
+--tape-name "Evening Star.tzx"
+--tape-sum 95a479625850dd6e17cbc24c852453be
+--start 65113

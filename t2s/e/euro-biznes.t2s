@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/e/EuroBiznes.tzx.zip
+euro-biznes.z80
+--sim-load
+--tape-name "EuroBiznes.tzx"
+--tape-sum 9c2455c074bd1478bd3f6c624344b461
+--start 24056

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/e/Exodus.tzx.zip
+exodus.z80
+--sim-load
+--tape-name "Exodus.tzx"
+--tape-sum 722bbbdd5acac336bfffcc8a8b2ea794
+--start 29662

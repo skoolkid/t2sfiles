@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/e/Exolon.tzx.zip
+exolon.z80
+--sim-load
+--tape-name "Exolon.tzx"
+--tape-sum 7ba525e945808b0031f479dfb6fb2fd5
+--start 65105
