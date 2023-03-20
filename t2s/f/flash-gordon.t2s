@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/f/FlashGordon.tzx.zip
+flash-gordon.z80
+--sim-load
+--tape-name "Flash Gordon.tzx"
+--tape-sum 3aa4b625af8d95b9a6f8f03cb56eadb4
+--start 59671
+--tape-stop 8

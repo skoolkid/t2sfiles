@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/f/Frontline.tzx.zip
+frontline.z80
+--sim-load
+--tape-name "Front-Line.tzx"
+--tape-sum 3c5e1d206b95678b8b83312d0df6dcd0
+--start 16418

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/f/FrostByte.tzx.zip
+frost-byte.z80
+--sim-load
+--tape-name "Frost Byte.tzx"
+--tape-sum 840dc80643181d04b49d9a6ed1b4be16
+--start 65271

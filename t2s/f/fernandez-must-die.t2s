@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/f/FernandezMustDie.tzx.zip
+fernandez-must-die.z80
+--sim-load
+--tape-name "Fernandez Must Die.tzx"
+--tape-sum 8eb6e40422c551a25701606f3cd41c3e
+--start 65316
