@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/g/GhostCastles.tzx.zip
+ghost-castles.z80
+--sim-load
+--tape-name "ghostc.tzx"
+--tape-sum dfdc451331fb22b75c9dc483b3abf895
+--start 64873

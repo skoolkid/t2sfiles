@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/h/HeroQuest.tzx.zip
+hero-quest.z80
+--sim-load
+--tape-name "Hero Quest - 48k.tzx"
+--tape-sum a22e75a6a2ef537e266563163227cbe5
+--start 39763

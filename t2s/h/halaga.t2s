@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/h/Halaga.tzx.zip
+halaga.z80
+--sim-load
+--tape-name "Halaga.tzx"
+--tape-sum 52d64b273ff229502864b7415e7fe2ce
+--start 39000

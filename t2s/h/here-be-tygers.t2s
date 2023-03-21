@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/h/HereBeTygers.tzx.zip
+here-be-tygers.z80
+--sim-load
+--tape-name "Here Be Tygers.tzx"
+--tape-sum edb4b306e9e99022921949b699cad8b3
+--start 25063
+--tape-start 7

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/g/GoldenBasket.tzx.zip
+golden-basket.z80
+--sim-load
+--tape-name "Golden Basket.tzx"
+--tape-sum d152cd07b5322f3aec0687cb9510c0a4
+--start 64535

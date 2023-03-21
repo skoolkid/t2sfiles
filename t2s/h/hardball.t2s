@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/h/HardBall.tzx.zip
+hardball.z80
+--sim-load
+--tape-name "HARDBALL.TZX"
+--tape-sum f8bf0ca91dbfce39837ca9cab3931f0a
+--start 64509
