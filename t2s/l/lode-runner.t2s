@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/l/LodeRunner.tzx.zip
+lode-runner.z80
+--sim-load
+--tape-name "Lode Runner.tzx"
+--tape-sum e1b91f45a3cae327617fc1550487d554
+--start 65255

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/k/Kaboom.tzx.zip
+kaboom.z80
+--sim-load
+--tape-name "kaboom.tzx"
+--tape-sum 20f72bfef173c613bcf9d0ae07634dda
+--start 64952

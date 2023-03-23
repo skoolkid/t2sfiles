@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/l/LostCaves.tzx.zip
+lost-caves.z80
+--sim-load
+--tape-name "Lost Caves - Side 1.tzx"
+--tape-sum c5a7fd92970caa353d5562aeed99c6f3
+--start 65188
