@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Ms.Pac-Man.tzx.zip
+ms-pac-man.z80
+--sim-load
+--tape-name "Ms Pacman.tzx"
+--tape-sum 67149beea737fb45998fba7472b3f449
+--start 65206

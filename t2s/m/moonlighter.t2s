@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Moonlighter.tzx.zip
+moonlighter.z80
+--sim-load
+--tape-name "Moonlighter.tzx"
+--tape-sum e62b445c67304eb9dbe7da42585d4455
+--start 41774

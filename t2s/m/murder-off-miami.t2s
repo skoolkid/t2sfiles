@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MurderOffMiami.tzx.zip
+murder-off-miami.z80
+--sim-load
+--tape-name "Murder Off Miami - Side 1.tzx"
+--tape-sum a589825e399f0de7551de5231bb2267f
+--start 23867
+--tape-stop 7

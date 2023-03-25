@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MoonStrike.tzx.zip
+moon-strike-side-b.z80
+--sim-load
+--tape-name "Moon Strike - Side B.tzx"
+--tape-sum 5e7f8a61737ce209865c64df39b524f9
+--start 65413
+--tape-stop 8

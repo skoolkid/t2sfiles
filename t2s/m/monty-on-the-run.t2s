@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MontyOnTheRun.tzx.zip
+monty-on-the-run.z80
+--sim-load
+--tape-name "Monty On The Run - Side 1.tzx"
+--tape-sum b790de20d11e6dc1dd78e887cbea0a43
+--start 43363

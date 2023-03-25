@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Mothership.tzx.zip
+mothership-artic.z80
+--sim-load
+--tape-name "Mothership.tzx"
+--tape-sum 6c0df4f03c4cc812861f7e5a348d5a16
+--start 23762

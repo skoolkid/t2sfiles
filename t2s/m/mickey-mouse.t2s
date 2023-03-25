@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MickeyMouse.tzx.zip
+mickey-mouse.z80
+--sim-load
+--tape-name "Mickey Mouse.tzx"
+--tape-sum b921852f207498ce68da7100449b943c
+--start 49331

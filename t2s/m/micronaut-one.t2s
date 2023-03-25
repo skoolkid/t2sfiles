@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MicronautOne.tzx.zip
+micronaut-one.z80
+--sim-load
+--tape-name "Micronaut One.tzx"
+--tape-sum 481ebc7082af5f944bf2a6b49d32970e
+--start 65519

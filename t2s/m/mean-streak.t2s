@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MeanStreak.tzx.zip
+mean-streak.z80
+--sim-load
+--tape-name "Mean Streak - 48k.tzx"
+--tape-sum 2496612fa5380bc7c1242d32be185cd9
+--start 65050
