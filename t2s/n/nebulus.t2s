@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/n/Nebulus.tzx.zip
+nebulus.z80
+--sim-load
+--tape-name "Nebulus.tzx"
+--tape-sum d57b4f78a7c32b44c526d963db419d19
+--start 65113

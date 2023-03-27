@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/n/NonComposMentis.tzx.zip
+non-compos-mentis.z80
+--sim-load
+--tape-name "MENTIS.TZX"
+--tape-sum f5c7dac71cfcc1ced56aab7ba8fbbeda
+--start 65172

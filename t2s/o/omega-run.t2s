@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/o/OmegaRun.tzx.zip
+omega-run.z80
+--sim-load
+--tape-name "Omega Run.tzx"
+--tape-sum e9864828c2781c9d693e5d9263f3dd18
+--start 60687

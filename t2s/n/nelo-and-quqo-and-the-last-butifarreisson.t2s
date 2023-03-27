@@ -1,6 +1,6 @@
-https://worldofspectrum.net/pub/sinclair/games/n/NeloQuqoAndTheLastButifarreisson_2.tzx.zip
+https://worldofspectrum.net/pub/sinclair/games/n/NeloQuqoAndTheLastButifarreisson.tzx.zip
 nelo-and-quqo-and-the-last-butifarreisson.z80
 --sim-load
 --tape-name "neloquqo.tzx"
---tape-sum 24b6bc866f2f55d62e6ce52934b1dba1
+--tape-sum 970076badd7a844985e557cdc93c86b1
 --start 32768

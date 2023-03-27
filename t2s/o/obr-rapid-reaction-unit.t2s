@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/o/O.B.R.-RapidReactionUnit.tzx.zip
+obr-rapid-reaction-unit.z80
+--sim-load
+--tape-name "O_B_R.TZX"
+--tape-sum 0978fe4fd405e129083a04f8e75ed46c
+--start 25000

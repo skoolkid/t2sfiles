@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/n/NetherEarth.tzx.zip
+nether-earth.z80
+--sim-load
+--tape-name "Nether Earth.tzx"
+--tape-sum b63b464eeab396134594d3952aec7af2
+--start 42496
