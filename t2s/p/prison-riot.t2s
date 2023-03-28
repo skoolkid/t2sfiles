@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PrisonRiot.tzx.zip
+prison-riot.z80
+--sim-load
+--tape-name "Prison Riot - 48k.tzx"
+--tape-sum f6f91804664179ed0ed94c595b2f7131
+--start 65188

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Poyans.tzx.zip
+poyans.z80
+--sim-load
+--tape-name "Poyans.tzx"
+--tape-sum ea4c804882ecdf1aa04add53d75c8895
+--start 65348

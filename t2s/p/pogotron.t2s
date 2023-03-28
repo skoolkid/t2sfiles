@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Pogotron.tzx.zip
+pogotron.z80
+--sim-load
+--tape-name "Pogotron.tzx"
+--tape-sum 49e7f33abb75d3c1dd9341f214a8d9a7
+--start 58063

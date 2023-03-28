@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Puzzles.tzx.zip
+puzzles.z80
+--sim-load
+--tape-name "Puzzles.tzx"
+--tape-sum 18e925e8aa5dd7d9b8442d3f0e036f11
+--start 64981
