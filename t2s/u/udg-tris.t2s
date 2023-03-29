@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/u/UDG-Tris.tzx.zip
+udg-tris.z80
+--sim-load
+--tape-name "UDGtris.tzx"
+--tape-sum e1458f505694057b6389cece4aaddf32
+--start 7997

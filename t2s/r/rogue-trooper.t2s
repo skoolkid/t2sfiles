@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RogueTrooper.tzx.zip
+rogue-trooper.z80
+--sim-load
+--tape-name "Rogue Trooper.tzx"
+--tape-sum fd20c9ef1d4bb5981ed26b85999976f6
+--start 65135

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/z/ZXCruciverber.tzx.zip
+zx-cruciverber.z80
+--sim-load
+--tape-name "ZxCruciverber.tzx"
+--tape-sum d15acc92a62b5c2559459865048da5aa
+--start 7997
+--tape-stop 5

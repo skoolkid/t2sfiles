@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/v/Videostop.tzx.zip
+videostop-cv-software.z80
+--sim-load
+--tape-name "Video Stop.tzx"
+--tape-sum 14548b9d1329dcc95c3854e87de48652
+--start 7997

@@ -1,6 +1,6 @@
-https://spectrumcomputing.co.uk/pub/sinclair/games/v/Vectron(FirebirdSoftwareLtd).tzx.zip
+https://worldofspectrum.net/pub/sinclair/games/v/Vectron.tzx.zip
 vectron.z80
 --sim-load
---tape-name "Vectron 3D.tzx"
---tape-sum 80b5e377047ef334fdd521d93e531daf
+--tape-name "Vectron.tzx"
+--tape-sum b4596f2f086beb301e94e8a2a833c8cf
 --start 32795

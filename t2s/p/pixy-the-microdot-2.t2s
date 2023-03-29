@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PixyTheMicrodot2.tzx.zip
+pixy-the-microdot-2.z80
+--sim-load
+--tape-name "PIXY2.TZX"
+--tape-sum 160139779bf86ab5251336745a1297de
+--start 65172

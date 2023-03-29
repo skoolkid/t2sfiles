@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PiknikUCesty.tzx.zip
+piknik-u-cesty.z80
+--sim-load
+--tape-name "PIKNIK.TZX"
+--tape-sum a9050be26ac64575ee797c54acd82947
+--start 65131

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RescateEnElGolfo.tzx.zip
+rescate-en-el-golfo-side-2.z80
+--sim-load
+--tape-name "Rescate En El Golfo - Side 2.tzx"
+--tape-sum 02244bff74681be947eb87b6c353e343
+--start 64535
+--tape-stop 7

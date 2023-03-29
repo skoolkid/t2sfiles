@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/v/VegaSolaris.tzx.zip
+vega-solaris.z80
+--sim-load
+--tape-name "Vega Solaris.tzx"
+--tape-sum 1061645395eabb15c8105e81291065bc
+--start 62729

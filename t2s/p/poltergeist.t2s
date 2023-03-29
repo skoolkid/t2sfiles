@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Poltergeist.tzx.zip
+poltergeist.z80
+--sim-load
+--tape-name "POLTERGE.TZX"
+--tape-sum 69ec4eb15999d6cf1a870e3bd183d3dd
+--start 65289

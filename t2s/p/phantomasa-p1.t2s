@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Phantomasa.tzx.zip
+phantomasa-p1.z80
+--sim-load
+--tape-name "Phantomasa - Part 1.tzx"
+--tape-sum e39674a144d860a0d57986f978fcec38
+--start 49562

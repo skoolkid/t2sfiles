@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/z/ZombieZombie.tzx.zip
+zombie-zombie.z80
+--sim-load
+--tape-name "Zombie Zombie.tzx"
+--tape-sum f01a00b0652c2ac0883e0158129b98af
+--start 65479

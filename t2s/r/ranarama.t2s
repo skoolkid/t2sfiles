@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/r/Ranarama.tzx.zip
+ranarama.z80
+--sim-load
+--tape-name "Rana Rama.tzx"
+--tape-sum a3ba06d843ddf39c928f69475dd1c39e
+--start 26202

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Paintcraze.tzx.zip
+paintcraze.z80
+--sim-load
+--tape-name "Paint Craze.tzx"
+--tape-sum 6feb6840cf147d94ab10781540bfc9ab
+--start 40000
+--tape-start 7

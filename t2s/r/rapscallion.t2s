@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/r/Rapscallion.tzx.zip
+rapscallion.z80
+--sim-load
+--tape-name "Rapscallion.tzx"
+--tape-sum d2dacb6815d10e803f076c45fd15716e
+--start 57819

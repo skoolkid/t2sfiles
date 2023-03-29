@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/r/Rollaround.tzx.zip
+rollaround.z80
+--sim-load
+--tape-name "Rollaround.tzx"
+--tape-sum b66a2e4cb6031dde2d6867da96b807ef
+--start 65030

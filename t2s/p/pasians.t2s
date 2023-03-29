@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Pasians.tzx.zip
+pasians.z80
+--sim-load
+--tape-name "PASIANS.TZX"
+--tape-sum 9b1f76df1e2eec58a71f54eb93a6c47c
+--start 23362

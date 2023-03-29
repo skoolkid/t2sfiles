@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/y/Yeti.tzx.zip
+yeti.z80
+--sim-load
+--tape-name "Yeti.tzx"
+--tape-sum 5e666ebf07b6308d64dc78121a6e35f6
+--start 65354

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Pac-Man.tzx.zip
+pac-man-atarisoft.z80
+--sim-load
+--tape-name "Pac-Man.tzx"
+--tape-sum 14983a3553c2ae57128391d5ea9e6606
+--start 29588

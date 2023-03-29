@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/p/ProSpeedboatSimulatorDemo.tzx.zip
+pro-speedboat-simulator.z80
+--sim-load
+--tape-name "PSPEEDEM.TZX"
+--tape-sum 50a7f6ac261b2a12c1a7a074784126e1
+--start 65172

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RainbowIslands.tzx.zip
+rainbow-islands.z80
+--sim-load
+--tape-name "Rainbow Islands - Side 1.tzx"
+--tape-sum 4962d7a32512b306c444525a80fb4f37
+--start 24578

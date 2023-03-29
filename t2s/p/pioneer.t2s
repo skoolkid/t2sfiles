@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Pioneer.tzx.zip
+pioneer.z80
+--sim-load
+--tape-name "PIONEER.TZX"
+--tape-sum 8de132aed9d723dcf456fbf3d7c4e167
+--start 7997
