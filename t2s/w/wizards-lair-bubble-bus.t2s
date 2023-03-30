@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/w/WizardsLair.tzx.zip
+wizards-lair-bubble-bus.z80
+--sim-load
+--tape-name "Wizard's Lair.tzx"
+--tape-sum f0c960f39dd332db3e0af74d3617ca0a
+--start 60887

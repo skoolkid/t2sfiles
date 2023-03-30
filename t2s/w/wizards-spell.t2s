@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/w/WizardsSpell.tzx.zip
+wizards-spell.z80
+--sim-load
+--tape-name "Wizard's Spell.tzx"
+--tape-sum 3a8fcd26a9456fbcba131605be5e5d92
+--start 65328

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/w/Wreckage.tzx.zip
+wreckage.z80
+--sim-load
+--tape-name "Wreckage.tzx"
+--tape-sum f82c13391ea058a3f5158ad868a30674
+--start 7997

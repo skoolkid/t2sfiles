@@ -1,5 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Whodunnit(Mastertronic).zip
-whodunnit.z80
+whodunnit-mastertronic.z80
 --sim-load
 --tape-name "Whodunnit (Mastertronic).tzx"
 --tape-sum bb28c99acb8f128bb11f22f69451f1e0
