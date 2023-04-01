@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SpaceHarrier.tzx.zip
+space-harrier.z80
+--sim-load
+--tape-name "Space Harrier.tzx"
+--tape-sum ce9361970e6a05db043656a5baf34022
+--start 65449

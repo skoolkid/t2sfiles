@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/StreetHassle.tzx.zip
+street-hassle.z80
+--sim-load
+--tape-name "Street Hassle.tzx"
+--tape-sum 30c5b0f70aba4f6ba49bfe1fa66498e9
+--start 62004
+--tape-stop 10

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SoapLand.tzx.zip
+soapland-p3.z80
+--sim-load
+--tape-name "Soapland - Part 3.tzx"
+--tape-sum fa4433a98cf9418d165888eb0a38ad34
+--start 7997

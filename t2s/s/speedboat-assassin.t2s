@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SpeedboatAssassins.tzx.zip
+speedboat-assassin.z80
+--sim-load
+--tape-name "Speedboat Assassin.tzx"
+--tape-sum e30591163a536a2a8148aef8fa5a28a2
+--start 32765
+--tape-stop 8

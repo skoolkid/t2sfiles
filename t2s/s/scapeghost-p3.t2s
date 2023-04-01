@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Scapeghost.tzx.zip
+scapeghost-p3.z80
+--sim-load
+--tape-name "Scapeghost - 48k - Part 3.tzx"
+--tape-sum c0029b7313444117e4bc52f7c961ab50
+--start 23296

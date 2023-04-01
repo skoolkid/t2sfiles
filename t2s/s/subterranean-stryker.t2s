@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SubterraneanStryker.tzx.zip
+subterranean-stryker.z80
+--sim-load
+--tape-name "Subterranean Stryker.tzx"
+--tape-sum 8b9758404685678735ec57433a0035b1
+--start 55284

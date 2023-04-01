@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SoldierOne.tzx.zip
+soldier-one.z80
+--sim-load
+--tape-name "SOLDIER1.TZX"
+--tape-sum 1dca5e26865738e529173fc991fe7581
+--start 65317

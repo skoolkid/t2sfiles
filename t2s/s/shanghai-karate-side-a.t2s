@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/ShanghaiKarate.tzx.zip
+shanghai-karate-side-a.z80
+--sim-load
+--tape-name "Shanghai Karate - Side A.tzx"
+--tape-sum 57d99727c88808922497ecdbb680d14f
+--start 65364
+--tape-stop 8

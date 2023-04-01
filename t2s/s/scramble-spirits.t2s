@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/ScrambleSpirits.tzx.zip
+scramble-spirits.z80
+--sim-load
+--tape-name "Scramble Spirits - Side A.tzx"
+--tape-sum 12151cbabf03fc678869c839fc335671
+--start 65052

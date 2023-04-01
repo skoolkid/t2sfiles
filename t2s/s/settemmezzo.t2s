@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Settemmezzo.tzx.zip
+settemmezzo.z80
+--sim-load
+--tape-name "Settemmezzo.tzx"
+--tape-sum b7f126e2fefb6c30abbb6065471fad12
+--start 7997

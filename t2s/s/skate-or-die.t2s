@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SkateOrDie.tzx.zip
+skate-or-die.z80
+--sim-load
+--tape-name "Skate Or Die - Side 1.tzx"
+--tape-sum fa62a8dad6f1c644378c55ceac1c0056
+--start 24328
+--tape-stop 16

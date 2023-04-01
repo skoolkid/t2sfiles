@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SorcerersMountain.tzx.zip
+sorcerers-mountain.z80
+--sim-load
+--tape-name "The Sorcerer's Mountain.tzx"
+--tape-sum c02b8ffbcdf3c213ae7bbdc2724c4501
+--start 7997

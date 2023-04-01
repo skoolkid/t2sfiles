@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Sudoku.tzx.zip
+sudoku-cronosoft.z80
+--sim-load
+--tape-name "sudoku-FULL.tzx"
+--tape-sum 4761cb4d1fcf8b106caeaf7f56220dcd
+--start 23581
+--tape-stop 10

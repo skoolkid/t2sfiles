@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Soliter.tzx.zip
+soliter.z80
+--sim-load
+--tape-name "Soliter.tzx"
+--tape-sum a97355d367b46175b2323462ca394d6a
+--start 24200
