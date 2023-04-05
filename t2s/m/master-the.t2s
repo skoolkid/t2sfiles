@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MasterThe.tzx.zip
+master-the.z80
+--sim-load
+--tape-name "The Master.tzx"
+--tape-sum 41f20b30e4b9dfddd25703bd19078af3
+--start 24576

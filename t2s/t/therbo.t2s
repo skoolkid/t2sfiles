@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/Therbo.tzx.zip
+therbo.z80
+--sim-load
+--tape-name "Therbo.tzx"
+--tape-sum 334ab59e9d035cfc1e68545cbd0f669a
+--start 40600
+--tape-stop 6

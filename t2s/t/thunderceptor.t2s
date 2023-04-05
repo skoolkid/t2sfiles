@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/Thunderceptor.tzx.zip
+thunderceptor.z80
+--sim-load
+--tape-name "TCEPTOR.TZX"
+--tape-sum d9b456597dde69e9312775746e0715ce
+--start 63604

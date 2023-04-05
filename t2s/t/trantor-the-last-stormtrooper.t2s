@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/Trantor-TheLastStormtrooper.tzx.zip
+trantor-the-last-stormtrooper.z80
+--sim-load
+--tape-name "TRANTOR.TZX"
+--tape-sum 1021cd71d3a594f39cd92cf4b382e9ff
+--start 64504

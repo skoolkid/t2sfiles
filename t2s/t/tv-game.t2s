@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TV-Game.tzx.zip
+tv-game.z80
+--sim-load
+--tape-name "tvgame.tzx"
+--tape-sum f40367bc3808bba482774f6f1a263970
+--start 61450

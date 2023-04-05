@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TainaEgypetskyhPyramid.tzx.zip
+taina-egypetskyh-pyramid.z80
+--sim-load
+--tape-name "taina.tzx"
+--tape-sum 6e79eb6d72dec9764a5eaee4de449ca4
+; --start 57004
+--tape-stop 19

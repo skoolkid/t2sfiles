@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/Thanos.tzx.zip
+thanos.z80
+--sim-load
+--tape-name "Thanos.TZX"
+--tape-sum c0c9fa3f80319744adba7dc952619075
+--start 24000

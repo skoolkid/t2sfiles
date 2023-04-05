@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/Tronn3.tzx.zip
+tronn-3.z80
+--sim-load
+--tape-name "Tronn 3.tzx"
+--tape-sum 9aa5342a0cdda8b6807fb5f50603af10
+--start 7997

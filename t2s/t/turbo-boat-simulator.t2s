@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TurboBoatSimulator.tzx.zip
+turbo-boat-simulator.z80
+--sim-load
+--tape-name "Turbo Boat Simulator.tzx"
+--tape-sum 7e3c8ab867a1e8ed182e71afa5cd9b0c
+--start 30077

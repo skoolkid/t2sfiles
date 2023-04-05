@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/l/LegendsOfTheLandThe.tzx.zip
+legends-of-the-land-the.z80
+--sim-load
+--tape-name "LegendsOfTheLand.tzx"
+--tape-sum 1db3fec7afa19adaf4f6c5c890ac1db8
+--start 36800
+--tape-stop 9

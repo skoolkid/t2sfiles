@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/f/FlintstonesThe.tzx.zip
+flintstones-the.z80
+--sim-load
+--tape-name "The Flintstones.tzx"
+--tape-sum 53f42eb510414abcd960395f17c76401
+--start 23379
+--tape-stop 9

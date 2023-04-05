@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/Thrust.tzx.zip
+thrust.z80
+--sim-load
+--tape-name "Thrust.tzx"
+--tape-sum 25085f194171bcd6f213c2e8166de58f
+--start 65421

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SunderedSwordThe.tzx.zip
+sundered-sword-the.z80
+--sim-load
+--tape-name "The Sundered Sword.tzx"
+--tape-sum d4c609b92aed62899de4ae0c3f60b2b3
+--start 26226
+--tape-stop 8

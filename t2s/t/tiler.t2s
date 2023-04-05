@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/Tiler.tzx.zip
+tiler.z80
+--sim-load
+--tape-name "Tiler.tzx"
+--tape-sum cd528486a5d9d5afb09677b77cd108c4
+--start 30000
