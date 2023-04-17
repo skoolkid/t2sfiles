@@ -16,7 +16,8 @@ pristine snapshot of Pyjamarama:
     Simulation stopped (PC at start address): PC=32819
     Writing pyjamarama.z80
 
-SkoolKit 8.9+ is required.
+Most of the files in this repository work with SkoolKit 8.9+, but some require
+SkoolKit 8.10+.
 
 Pristine snapshots
 ------------------
