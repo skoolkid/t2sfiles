@@ -3,4 +3,5 @@ trouble-with-trolls-the.z80
 --sim-load
 --tape-name "The Trouble With Trolls.tzx"
 --tape-sum 8aa7604927c01b0a44bc6ea1ea719efd
-; --start 29169
+--start 29169
+--sim-load-config finish-tape=1

@@ -3,4 +3,5 @@ revenge-of-the-space-pirates.z80
 --sim-load
 --tape-name "Revenge Of The Space Pirates - Side 1.tzx"
 --tape-sum a1c79d559d3ea5e6c9f062b7bb969cad
-; --start 29169
+--start 29169
+--sim-load-config finish-tape=1

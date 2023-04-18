@@ -3,4 +3,5 @@ lost-city-the.z80
 --sim-load
 --tape-name "The Lost City.tzx"
 --tape-sum 00e263614c0c7c972ce15c4f2d8d0ad6
-; --start 29169
+--start 29169
+--sim-load-config finish-tape=1

@@ -3,4 +3,5 @@ nythyhel.z80
 --sim-load
 --tape-name "Nythyhel.tzx"
 --tape-sum 6b761a9aea475f939a87c3f74ab13395
-; --start 29169
+--start 29169
+--sim-load-config finish-tape=1

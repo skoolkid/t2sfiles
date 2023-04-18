@@ -3,4 +3,5 @@ producent-boubli.z80
 --sim-load
 --tape-name "PRODUCEN.TAP"
 --tape-sum d2da80fcb80c1963068bd6b325a3503e
-; --start 60826
+--start 60826
+--sim-load-config finish-tape=1

@@ -3,4 +3,5 @@ mathematics-o-level-revision-and-cse-side-a.z80
 --sim-load
 --tape-name "Mathematics - O-Level Revision And CSE - Side A.tzx"
 --tape-sum 34e9b222a8ad19ab32db131138b9f9b0
-; --start 57150
+--start 57150
+--sim-load-config finish-tape=1

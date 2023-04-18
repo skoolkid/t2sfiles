@@ -3,4 +3,5 @@ project-nova-p1.z80
 --sim-load
 --tape-name "Project Nova - Part 1.tzx"
 --tape-sum 87a7fd545b493a4002900a20797daafc
-; --start 36376
+--start 36376
+--sim-load-config finish-tape=1

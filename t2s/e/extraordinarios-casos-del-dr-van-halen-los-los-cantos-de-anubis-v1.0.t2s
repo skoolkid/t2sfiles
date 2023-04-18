@@ -3,4 +3,5 @@ extraordinarios-casos-del-dr-van-halen-los-los-cantos-de-anubis-v1.0.z80
 --sim-load
 --tape-name "Los Extraordinarios Casos Del Dr. Van Halen - Los Cantos De Anubis V1.0.tzx"
 --tape-sum 5951e13b9c716b110c116017c7442488
-; --start 29041
+--start 29041
+--sim-load-config finish-tape=1

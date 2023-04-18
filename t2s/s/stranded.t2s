@@ -3,4 +3,5 @@ stranded.z80
 --sim-load
 --tape-name "Stranded - 48k.tzx"
 --tape-sum 963ab9ef3d552798b2ca740fc53b5227
-; --start 29201
+--start 29201
+--sim-load-config finish-tape=1

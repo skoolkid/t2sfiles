@@ -3,4 +3,5 @@ masters-of-serebal-the.z80
 --sim-load
 --tape-name "The Masters Of Serebal.tzx"
 --tape-sum 3fa8c388580a66a6b72bb79bf1e281f8
-; --start 48471
+--start 48471
+--sim-load-config finish-tape=1

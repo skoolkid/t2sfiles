@@ -3,5 +3,6 @@ abc-lift-off.z80
 --sim-load
 --tape-name "a,b,c...Lift-Off!.tzx"
 --tape-sum b8e7c08d1368dfa67d21bc428bda8473
-; --start 30092
+--start 30092
 --tape-stop 13
+--sim-load-config finish-tape=1

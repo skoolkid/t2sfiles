@@ -3,4 +3,5 @@ beware-collaborators.z80
 --sim-load
 --tape-name "Beware Collaborators - 48k.tzx"
 --tape-sum 162c1d8b1a2aa2fa31b6b609b6200e8d
-; --start 36366
+--start 36366
+--sim-load-config finish-tape=1

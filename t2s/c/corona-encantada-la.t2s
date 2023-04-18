@@ -3,4 +3,5 @@ corona-encantada-la.z80
 --sim-load
 --tape-name "La Corona Encantada.tzx"
 --tape-sum d699fd62aa960e518f97611d0b5cf851
-; --start 24576
+--start 24576
+--sim-load-config finish-tape=1

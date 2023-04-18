@@ -3,4 +3,5 @@ greyfell.z80
 --sim-load
 --tape-name "Greyfell.tzx"
 --tape-sum db9a20c37c01e8bba00d650743d8d050
-; --start 24171
+--start 24171
+--sim-load-config finish-tape=1

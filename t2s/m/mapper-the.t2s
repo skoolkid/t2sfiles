@@ -3,4 +3,5 @@ mapper-the.z80
 --sim-load
 --tape-name "The Mapper.tzx"
 --tape-sum 9ffe7002fd00beed1662308ae8113ee2
-; --start 29169
+--start 29169
+--sim-load-config finish-tape=1

@@ -3,4 +3,5 @@ corya-the-warrior-sage-p1.z80
 --sim-load
 --tape-name "Corya The Warrior Sage - Part 1.tzx"
 --tape-sum b3336549e08be4f7cdd71999485eed3c
-; --start 29201
+--start 29201
+--sim-load-config finish-tape=1

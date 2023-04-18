@@ -3,4 +3,5 @@ nick-tracy.z80
 --sim-load
 --tape-name "Nick Tracy (3PSOFT).tap"
 --tape-sum 6cd68b60dc33bcb5af23f04e92b4ddde
-; --start 29073
+--start 29073
+--sim-load-config finish-tape=1

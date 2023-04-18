@@ -3,4 +3,5 @@ for-petes-sake-p1.z80
 --sim-load
 --tape-name "For Pete's Sake - Part 1.tzx"
 --tape-sum 1b9740ca147e39559aada9dbf621d0aa
-; --start 29201
+--start 29201
+--sim-load-config finish-tape=1

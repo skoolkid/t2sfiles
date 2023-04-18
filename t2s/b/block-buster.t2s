@@ -3,4 +3,5 @@ block-buster.z80
 --sim-load
 --tape-name "Block-Buster.tzx"
 --tape-sum ae34f28c4dedf465616cfb649793a5ef
-; --start 65060
+--start 65060
+--sim-load-config finish-tape=1

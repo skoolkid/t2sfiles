@@ -3,5 +3,6 @@ run-bronwynn-run-p2.z80
 --sim-load
 --tape-name "Run, Bronwynn, Run! - Side 1.tzx"
 --tape-sum f2a9c88f7b1ba6b9f24f06d9dc3eb196
-; --start 29169
+--start 29169
 --tape-start 13
+--sim-load-config finish-tape=1

@@ -3,4 +3,5 @@ ginormous-fishtank-adventure-the.z80
 --sim-load
 --tape-name "The Ginormous Fishtank Adventure.tzx"
 --tape-sum f93c868ee29446b928e3fb09c64acc6d
-; --start 29169
+--start 29169
+--sim-load-config finish-tape=1

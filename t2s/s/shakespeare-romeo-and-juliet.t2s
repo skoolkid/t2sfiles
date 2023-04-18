@@ -3,4 +3,5 @@ shakespeare-romeo-and-juliet.z80
 --sim-load
 --tape-name "Shakespeare - Romeo And Juliet.tzx"
 --tape-sum 5570ca43bd076c648ac061c5b1b39916
-; --start 65129
+--start 65129
+--sim-load-config finish-tape=1

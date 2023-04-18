@@ -3,4 +3,5 @@ plagues-of-egypt-the-p1.z80
 --sim-load
 --tape-name "The Plagues Of Egypt - Part 1.tzx"
 --tape-sum 4c996799b560e4eb878440a85cf8bbe8
-; --start 36366
+--start 36366
+--sim-load-config finish-tape=1

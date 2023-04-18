@@ -3,4 +3,5 @@ conman-the-barbaric.z80
 --sim-load
 --tape-name "Conman The Barbaric.tzx"
 --tape-sum d48600ef1cd3dff799fbd7dba12b7262
-; --start 36366
+--start 36366
+--sim-load-config finish-tape=1

@@ -3,4 +3,5 @@ future-tense-side-b.z80
 --sim-load
 --tape-name "Future Tense - Side B.tzx"
 --tape-sum 8c1b6512e88c96fd933efc239921a79f
-; --start 36376
+--start 36376
+--sim-load-config finish-tape=1

@@ -3,4 +3,5 @@ dark-storm.z80
 --sim-load
 --tape-name "Dark Storm.tzx"
 --tape-sum b9ca6f228c0d24c421c602d0de825468
-; --start 36376
+--start 36376
+--sim-load-config finish-tape=1

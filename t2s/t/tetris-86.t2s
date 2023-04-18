@@ -3,4 +3,5 @@ tetris-86.z80
 --sim-load
 --tape-name "Tetris86.tzx"
 --tape-sum d6294c3384f0d08f375f0cd1362c7013
-; --start 32256
+--start 32256
+--sim-load-config finish-tape=1

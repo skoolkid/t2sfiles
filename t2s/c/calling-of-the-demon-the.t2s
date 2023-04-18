@@ -3,4 +3,5 @@ calling-of-the-demon-the.z80
 --sim-load
 --tape-name "The Calling Of The Demon - 48k.tzx"
 --tape-sum 616ca95e8f2e442f378a7fc1431db891
-; --start 36376
+--start 36376
+--sim-load-config finish-tape=1

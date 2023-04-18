@@ -3,4 +3,5 @@ intruder-alert.z80
 --sim-load
 --tape-name "Intruder Alert.tzx"
 --tape-sum 9d6da39a53d199bfab5faef497964b92
-; --start 36383
+--start 36383
+--sim-load-config finish-tape=1

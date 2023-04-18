@@ -3,4 +3,5 @@ ten-green-bottles.z80
 --sim-load
 --tape-name "Ten Green Bottles.tzx"
 --tape-sum 19d147a57be2860103b84846c7d39ec9
-; --start 29201
+--start 29201
+--sim-load-config finish-tape=1

@@ -3,4 +3,5 @@ theres-a-hole-in-your-bucket.z80
 --sim-load
 --tape-name "There's A Hole In Your Bucket.tzx"
 --tape-sum f60be1091319301bf8b058928762317d
-; --start 29169
+--start 29169
+--sim-load-config finish-tape=1

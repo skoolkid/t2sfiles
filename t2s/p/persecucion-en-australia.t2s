@@ -3,4 +3,5 @@ persecucion-en-australia.z80
 --sim-load
 --tape-name "Persecucion En Australia.tzx"
 --tape-sum 1752c5858cc5929f11df4aa434beb05f
-; --start 29041
+--start 29041
+--sim-load-config finish-tape=1

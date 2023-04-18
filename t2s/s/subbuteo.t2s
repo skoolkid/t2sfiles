@@ -3,5 +3,6 @@ subbuteo.z80
 --sim-load
 --tape-name "Subbuteo.tzx"
 --tape-sum a208737ddd6492efd35f6f1944c00d6b
-; --start 24170
+--start 24170
 --tape-stop 10
+--sim-load-config finish-tape=1

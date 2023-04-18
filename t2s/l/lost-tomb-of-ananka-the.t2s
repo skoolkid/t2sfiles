@@ -3,4 +3,5 @@ lost-tomb-of-ananka-the.z80
 --sim-load
 --tape-name "The Lost Tomb Of Ananka.tzx"
 --tape-sum 9eaf594982a8ad9739d166f4105d5228
-; --start 29169
+--start 29169
+--sim-load-config finish-tape=1

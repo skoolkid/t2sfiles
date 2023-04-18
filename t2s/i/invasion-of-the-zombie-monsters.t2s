@@ -3,4 +3,5 @@ invasion-of-the-zombie-monsters.z80
 --sim-load
 --tape-name "RLV904_Invasion_of_the_Zombie_Monsters.tzx"
 --tape-sum 03ff13facd5011641d9d06af88cc22a0
-; --start 24576
+--start 24576
+--sim-load-config finish-tape=1

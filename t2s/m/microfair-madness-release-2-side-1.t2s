@@ -3,4 +3,5 @@ microfair-madness-release-2-side-1.z80
 --sim-load
 --tape-name "Microfair Madness - 48k - Release 2 - Side 1.tzx"
 --tape-sum 848b2b0bf15cf8c307a90311c1dbb259
-; --start 29169
+--start 29169
+--sim-load-config finish-tape=1

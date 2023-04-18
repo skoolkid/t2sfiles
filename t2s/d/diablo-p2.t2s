@@ -3,4 +3,5 @@ diablo-p2.z80
 --sim-load
 --tape-name "Diablo! - Part 2 - 48k.tzx"
 --tape-sum 39fea4b361b2f5ef30a49d8161877203
-; --start 36376
+--start 36376
+--sim-load-config finish-tape=1

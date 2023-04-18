@@ -3,4 +3,5 @@ era-of-enchantment-p1.z80
 --sim-load
 --tape-name "Era Of Enchantment - Part 1.tzx"
 --tape-sum f63698eb278adf96fcf73fa859e9c998
-; --start 36366
+--start 36366
+--sim-load-config finish-tape=1

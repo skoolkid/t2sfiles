@@ -3,4 +3,5 @@ flight-191.z80
 --sim-load
 --tape-name "Flight 191.tzx"
 --tape-sum 566649546bee60faef69e81d98525064
-; --start 29169
+--start 29169
+--sim-load-config finish-tape=1

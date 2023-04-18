@@ -3,4 +3,5 @@ palace-hotel.z80
 --sim-load
 --tape-name "Palace Hotel (3PSOFT).tap"
 --tape-sum c1774d2b27dc03e6607db4b2e4fd0af5
-; --start 29073
+--start 29073
+--sim-load-config finish-tape=1

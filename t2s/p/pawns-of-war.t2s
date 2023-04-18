@@ -3,4 +3,5 @@ pawns-of-war.z80
 --sim-load
 --tape-name "Pawns Of War.tzx"
 --tape-sum 8347504726a1617ef0aef6f5f03a2922
-; --start 29169
+--start 29169
+--sim-load-config finish-tape=1

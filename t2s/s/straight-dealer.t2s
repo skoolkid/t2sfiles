@@ -3,4 +3,5 @@ straight-dealer.z80
 --sim-load
 --tape-name "Straight Dealer.tzx"
 --tape-sum 8305e0ef511c90f766b131c09656cc9b
-; --start 65149
+--start 65149
+--sim-load-config finish-tape=1

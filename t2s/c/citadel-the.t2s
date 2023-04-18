@@ -3,4 +3,5 @@ citadel-the.z80
 --sim-load
 --tape-name "The Citadel.tzx"
 --tape-sum 560c8cb93ddf405769d1576c628c107e
-; --start 29169
+--start 29169
+--sim-load-config finish-tape=1

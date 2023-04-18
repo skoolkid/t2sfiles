@@ -3,4 +3,5 @@ extraordinarios-casos-del-dr-van-halen-los-tristes-alas-del-destino-v1.0.z80
 --sim-load
 --tape-name "Los Extraordinarios Casos Del Dr. Van Halen - Tristes Alas Del Destino V1.0.tzx"
 --tape-sum acaf7f02f100b0e2e64249e9f8c619f2
-; --start 29041
+--start 29041
+--sim-load-config finish-tape=1

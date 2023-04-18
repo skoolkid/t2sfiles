@@ -3,4 +3,5 @@ esta-en-la-caja.z80
 --sim-load
 --tape-name "Esta En La Caja.tzx"
 --tape-sum 1110b4eade066e4ced3301de3b0bf34d
-; --start 24576
+--start 24576
+--sim-load-config finish-tape=1

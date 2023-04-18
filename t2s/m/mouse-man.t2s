@@ -3,4 +3,5 @@ mouse-man.z80
 --sim-load
 --tape-name "Mouse Man.tzx"
 --tape-sum 79fff9708422e69b5655421918307185
-; --start 29169
+--start 29169
+--sim-load-config finish-tape=1

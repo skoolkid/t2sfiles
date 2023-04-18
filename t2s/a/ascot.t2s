@@ -3,4 +3,5 @@ ascot.z80
 --sim-load
 --tape-name "Ascot.tzx"
 --tape-sum c31043fb6dcd1847dec6193f8112efc5
-; --start 64631
+--start 64631
+--sim-load-config finish-tape=1

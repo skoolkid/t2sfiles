@@ -3,4 +3,5 @@ way-of-the-exploding-tits-the.z80
 --sim-load
 --tape-name "expl_tits.tzx"
 --tape-sum 8ec364883c37e10bc83a1539f7224f2b
-; --start 36372
+--start 36372
+--sim-load-config finish-tape=1

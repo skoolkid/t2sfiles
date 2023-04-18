@@ -3,4 +3,5 @@ time-switch-v2.z80
 --sim-load
 --tape-name "Time Switch - v2.tzx"
 --tape-sum 41001a0f9761c2ae5a127784cab9e66b
-; --start 23300
+--start 23300
+--sim-load-config finish-tape=1

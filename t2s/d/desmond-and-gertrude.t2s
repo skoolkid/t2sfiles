@@ -3,4 +3,5 @@ desmond-and-gertrude.z80
 --sim-load
 --tape-name "Desmond And Gertrude.tzx"
 --tape-sum 3839fcb12133c908434ad6b44a46ca33
-; --start 29169
+--start 29169
+--sim-load-config finish-tape=1

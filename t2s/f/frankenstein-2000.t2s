@@ -3,4 +3,5 @@ frankenstein-2000.z80
 --sim-load
 --tape-name "Frankenstein 2000.tzx"
 --tape-sum c96b740331a79de3c1625f2524fc4ef5
-; --start 27157
+--start 27157
+--sim-load-config finish-tape=1

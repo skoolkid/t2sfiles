@@ -3,4 +3,5 @@ arlene.z80
 --sim-load
 --tape-name "ARLENE.TZX"
 --tape-sum 06cbb1e2044c40416b7b80f35ad5f8fa
-; --start 29169
+--start 29169
+--sim-load-config finish-tape=1

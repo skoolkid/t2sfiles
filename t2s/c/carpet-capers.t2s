@@ -3,4 +3,5 @@ carpet-capers.z80
 --sim-load
 --tape-name "Carpet Capers.tzx"
 --tape-sum f2107171d4145c45d52671d8ab03d736
-; --start 37050
+--start 37050
+--sim-load-config finish-tape=1

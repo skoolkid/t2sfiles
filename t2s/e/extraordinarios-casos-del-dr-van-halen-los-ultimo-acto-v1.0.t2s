@@ -3,4 +3,5 @@ extraordinarios-casos-del-dr-van-halen-los-ultimo-acto-v1.0.z80
 --sim-load
 --tape-name "Los Extraordinarios Casos Del Dr. Van Halen - Ultimo Acto V1.0.tzx"
 --tape-sum a1ea8655cec6a239241f1fdb71c486b4
-; --start 29041
+--start 29041
+--sim-load-config finish-tape=1

@@ -3,4 +3,5 @@ theme-park-uk.z80
 --sim-load
 --tape-name "Theme Park UK.tzx"
 --tape-sum d14f2193b047b1daf4ace5ee09d3dda5
-; --start 29169
+--start 29169
+--sim-load-config finish-tape=1

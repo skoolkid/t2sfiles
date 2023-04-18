@@ -3,4 +3,5 @@ maldicion-de-aros-la.z80
 --sim-load
 --tape-name "La Maldicion De Aros.tzx"
 --tape-sum da71c7d63a23e5358299300b0760856b
-; --start 29041
+--start 29041
+--sim-load-config finish-tape=1

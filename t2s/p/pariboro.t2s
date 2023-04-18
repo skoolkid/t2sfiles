@@ -3,4 +3,5 @@ pariboro.z80
 --sim-load
 --tape-name "pariboro.tap"
 --tape-sum b6b53886919cb1ed862c2c113cd836a3
-; --start 32768
+--start 32768
+--sim-load-config finish-tape=1

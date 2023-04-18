@@ -3,4 +3,5 @@ juanito-3.z80
 --sim-load
 --tape-name "Juanito 3.tap"
 --tape-sum 946cbe41d1281e8ea97ed3b9b30c2369
-; --start 29073
+--start 29073
+--sim-load-config finish-tape=1

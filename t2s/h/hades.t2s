@@ -3,4 +3,5 @@ hades.z80
 --sim-load
 --tape-name "HADES.TZX"
 --tape-sum c0868ecda0db7641721d007d7ffcd89f
-; --start 29201
+--start 29201
+--sim-load-config finish-tape=1

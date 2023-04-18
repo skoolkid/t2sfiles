@@ -3,4 +3,5 @@ ten-little-adventurers.z80
 --sim-load
 --tape-name "Ten Little Adventurers.tzx"
 --tape-sum 361557032c71c5502823b91001258775
-; --start 29169
+--start 29169
+--sim-load-config finish-tape=1

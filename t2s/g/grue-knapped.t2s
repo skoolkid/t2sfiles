@@ -3,4 +3,5 @@ grue-knapped.z80
 --sim-load
 --tape-name "Grue-Knapped (Adventure Probe).tzx"
 --tape-sum 073587d2a1aab042107e624152fbfd35
-; --start 29169
+--start 29169
+--sim-load-config finish-tape=1

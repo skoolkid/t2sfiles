@@ -3,4 +3,5 @@ cup-the.z80
 --sim-load
 --tape-name "The Cup.tzx"
 --tape-sum d7fbead276ae08275ec5a6eeecb89679
-; --start 36376
+--start 36376
+--sim-load-config finish-tape=1

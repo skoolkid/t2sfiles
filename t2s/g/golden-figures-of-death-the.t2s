@@ -3,4 +3,5 @@ golden-figures-of-death-the.z80
 --sim-load
 --tape-name "Golden Figures Of Death.tzx"
 --tape-sum b1ad945646764e2bc63450e43847c7a9
-; --start 29169
+--start 29169
+--sim-load-config finish-tape=1

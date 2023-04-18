@@ -3,4 +3,5 @@ loony-lander.z80
 --sim-load
 --tape-name "Loony Lander.tzx"
 --tape-sum 12bc04dbad8a9864cf33772a773134f9
-; --start 61000
+--start 61000
+--sim-load-config finish-tape=1

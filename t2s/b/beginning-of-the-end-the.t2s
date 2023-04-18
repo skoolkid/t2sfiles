@@ -3,4 +3,5 @@ beginning-of-the-end-the.z80
 --sim-load
 --tape-name "The Beginning Of The End.tzx"
 --tape-sum 71b67237a180a19714a4fea11087bbc2
-; --start 29169
+--start 29169
+--sim-load-config finish-tape=1

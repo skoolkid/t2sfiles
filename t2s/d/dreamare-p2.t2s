@@ -3,4 +3,5 @@ dreamare-p2.z80
 --sim-load
 --tape-name "Dreamare - Part 2.tzx"
 --tape-sum 4a26b46fe9619fcaaf143e8d2ea70df6
-; --start 36366
+--start 36366
+--sim-load-config finish-tape=1

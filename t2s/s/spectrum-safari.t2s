@@ -3,4 +3,5 @@ spectrum-safari.z80
 --sim-load
 --tape-name "Spectrum Safari.tzx"
 --tape-sum 4ab406fc57617d2cd43f4c760b32756f
-; --start 58356
+--start 58356
+--sim-load-config finish-tape=1

@@ -3,4 +3,5 @@ rochn-la-era-de-las-espadas.z80
 --sim-load
 --tape-name "Rochn, La Era De Las Espadas.tap"
 --tape-sum d439df8dabf1d2cfbc485c49925e4875
-; --start 29041
+--start 29041
+--sim-load-config finish-tape=1

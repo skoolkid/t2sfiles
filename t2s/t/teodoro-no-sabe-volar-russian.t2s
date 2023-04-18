@@ -3,4 +3,5 @@ teodoro-no-sabe-volar-russian.z80
 --sim-load
 --tape-name "TeodoroNSVru.tap"
 --tape-sum 2ec5b8cb56d7b8d305507798a7c8fe95
-; --start 24204
+--start 24204
+--sim-load-config finish-tape=1

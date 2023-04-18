@@ -3,4 +3,5 @@ deep-probe-plus-d-version.z80
 --sim-load
 --tape-name "Deep Probe - +D Version.tzx"
 --tape-sum 8e76f8b39327670ddeeb57ea3842c195
-; --start 29169
+--start 29169
+--sim-load-config finish-tape=1

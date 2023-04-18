@@ -3,4 +3,5 @@ cimmerjan.z80
 --sim-load
 --tape-name "Cimmerjan.tap"
 --tape-sum 8d0018e571377e7e32db1adcd54b51eb
-; --start 36376
+--start 36376
+--sim-load-config finish-tape=1

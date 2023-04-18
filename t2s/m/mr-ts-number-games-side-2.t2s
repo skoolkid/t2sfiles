@@ -3,4 +3,5 @@ mr-ts-number-games-side-2.z80
 --sim-load
 --tape-name "Mr T's Number Games - Side 2.tzx"
 --tape-sum 167e50b10210713913b8b16fdda7530e
-; --start 23416
+--start 23416
+--sim-load-config finish-tape=1

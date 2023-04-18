@@ -3,4 +3,5 @@ starwash.z80
 --sim-load
 --tape-name "Starwash.tap"
 --tape-sum 3dabc53b6f378689e6ad3fc4293f14ab
-; --start 29041
+--start 29041
+--sim-load-config finish-tape=1

@@ -3,4 +3,5 @@ menagerie-the.z80
 --sim-load
 --tape-name "The Menagerie.tzx"
 --tape-sum c5174d840aa9521eff3e7b72125960ff
-; --start 36372
+--start 36372
+--sim-load-config finish-tape=1

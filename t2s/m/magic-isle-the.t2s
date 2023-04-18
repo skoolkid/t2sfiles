@@ -3,4 +3,5 @@ magic-isle-the.z80
 --sim-load
 --tape-name "The Magic Isle.tzx"
 --tape-sum 4ca57bd5a9f98e1972d16b2c3ff4201d
-; --start 29201
+--start 29201
+--sim-load-config finish-tape=1

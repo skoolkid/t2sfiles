@@ -3,4 +3,5 @@ song-of-taliesin-the-p1.z80
 --sim-load
 --tape-name "The Song Of Taliesin - Part 1.tzx"
 --tape-sum daba0253b8cc53b9328e4416ebd0f4e4
-; --start 29169
+--start 29169
+--sim-load-config finish-tape=1

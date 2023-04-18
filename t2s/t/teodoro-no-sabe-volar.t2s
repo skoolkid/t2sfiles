@@ -3,4 +3,5 @@ teodoro-no-sabe-volar.z80
 --sim-load
 --tape-name "TeodoroNSVen.tap"
 --tape-sum fa9cb33f3a9459a113513cd2282f1fb1
-; --start 24204
+--start 24204
+--sim-load-config finish-tape=1

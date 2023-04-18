@@ -3,4 +3,5 @@ a-dungeon-romp.z80
 --sim-load
 --tape-name "A Dungeon Romp.tzx"
 --tape-sum bc2fded0b2de7aca2201cfd2209fa32c
-; --start 29201
+--start 29201
+--sim-load-config finish-tape=1

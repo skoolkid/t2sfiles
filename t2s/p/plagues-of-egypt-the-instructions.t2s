@@ -3,4 +3,5 @@ plagues-of-egypt-the-instructions.z80
 --sim-load
 --tape-name "The Plagues Of Egypt - Instructions.tzx"
 --tape-sum 37636d223abee641241e931211f984c7
-; --start 36366
+--start 36366
+--sim-load-config finish-tape=1

@@ -3,4 +3,5 @@ chechnya-95.z80
 --sim-load
 --tape-name "chech95.tzx"
 --tape-sum be217ddc8efb5ed9357ec3db0513ce23
-; --start 57004
+--start 57004
+--sim-load-config finish-tape=1

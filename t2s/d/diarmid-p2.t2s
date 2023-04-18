@@ -3,4 +3,5 @@ diarmid-p2.z80
 --sim-load
 --tape-name "Diarmid - Part 2.tzx"
 --tape-sum 413b9f636332e979537c0f547c6aeb2d
-; --start 29201
+--start 29201
+--sim-load-config finish-tape=1

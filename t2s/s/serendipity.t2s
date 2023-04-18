@@ -3,4 +3,5 @@ serendipity.z80
 --sim-load
 --tape-name "Serendipity.tzx"
 --tape-sum c2657fe0aa4314f0edc2912b5cd0e24b
-; --start 29169
+--start 29169
+--sim-load-config finish-tape=1

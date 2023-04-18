@@ -3,4 +3,5 @@ tumler.z80
 --sim-load
 --tape-name "Tumler.tzx"
 --tape-sum 7c3309a36ead97a242003b29575e2e8e
-; --start 23845
+--start 23845
+--sim-load-config finish-tape=1

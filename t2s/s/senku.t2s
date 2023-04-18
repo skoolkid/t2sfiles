@@ -3,4 +3,5 @@ senku.z80
 --sim-load
 --tape-name "SENKU.TAP"
 --tape-sum 7a80c1de4b7bda167f5b300b2778ac2a
-; --start 23925
+--start 23925
+--sim-load-config finish-tape=1

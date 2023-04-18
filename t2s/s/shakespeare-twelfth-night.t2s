@@ -3,4 +3,5 @@ shakespeare-twelfth-night.z80
 --sim-load
 --tape-name "Shakespeare - Twelfth Night.tzx"
 --tape-sum 90647808f2d2f581927d79638e567454
-; --start 65129
+--start 65129
+--sim-load-config finish-tape=1

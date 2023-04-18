@@ -79,10 +79,7 @@ where:
   the contents of the remote zip archive have changed or been updated (this
   does happen occasionally)
 * `--start <address>` specifies the all-important start address (the value of
-  the program counter in the Z80 snapshot that's produced); this line must
-  be present, but may be commented out if it makes the LOAD fail (which can
-  happen with some games that hit the same address in RAM multiple times during
-  the LOAD)
+  the program counter in the Z80 snapshot that's produced)
 * `<other options>` are any other `tap2sna.py` options required to make the
   simulated LOAD work (e.g. `--tape-start`, `--tape-stop`, `--sim-load-config`)
 

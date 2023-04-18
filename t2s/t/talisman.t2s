@@ -3,4 +3,5 @@ talisman.z80
 --sim-load
 --tape-name "Talisman.tzx"
 --tape-sum 27ab110979c2a772f5e69be6e4024363
-; --start 29201
+--start 29201
+--sim-load-config finish-tape=1

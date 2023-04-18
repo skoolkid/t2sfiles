@@ -3,4 +3,5 @@ chemistry-side-b.z80
 --sim-load
 --tape-name "Chemistry - Side B.tzx"
 --tape-sum f811ce6a50e9d1e1c3463663ae5bdfc3
-; --start 50150
+--start 50150
+--sim-load-config finish-tape=1

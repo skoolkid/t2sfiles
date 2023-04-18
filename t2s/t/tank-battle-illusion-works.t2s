@@ -3,4 +3,5 @@ tank-battle-illusion-works.z80
 --sim-load
 --tape-name "tankbattle.tap"
 --tape-sum a271f866c8d1eaae774fc8bbe6add530
-; --start 25000
+--start 25000
+--sim-load-config finish-tape=1

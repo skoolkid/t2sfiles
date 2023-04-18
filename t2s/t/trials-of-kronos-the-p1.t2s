@@ -3,4 +3,5 @@ trials-of-kronos-the-p1.z80
 --sim-load
 --tape-name "The Trials Of Kronos - Part 1.tzx"
 --tape-sum cabd5e9ad3e797ada66277986eb11e92
-; --start 29169
+--start 29169
+--sim-load-config finish-tape=1

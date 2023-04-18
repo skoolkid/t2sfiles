@@ -3,4 +3,5 @@ arnold-the-adventurer-3.z80
 --sim-load
 --tape-name "Arnold The Adventurer 3.tzx"
 --tape-sum 749ec80cf85a4ef065074026b84a1855
-; --start 29201
+--start 29201
+--sim-load-config finish-tape=1

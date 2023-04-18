@@ -3,5 +3,6 @@ sabat-of-milton-gordon-the.z80
 --sim-load
 --tape-name "The Sabat Of Milton Gordon.tzx"
 --tape-sum 0bc5c1fbfac88d5b4e59e4fed2f8e8f1
-; --start 29046
+--start 29046
 --tape-stop 10
+--sim-load-config finish-tape=1

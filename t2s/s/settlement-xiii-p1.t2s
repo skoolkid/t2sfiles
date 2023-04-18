@@ -3,4 +3,5 @@ settlement-xiii-p1.z80
 --sim-load
 --tape-name "Settlement XIII - Part 1.tzx"
 --tape-sum 1a380689a9d57cd6667c2b47a3257a2d
-; --start 29169
+--start 29169
+--sim-load-config finish-tape=1

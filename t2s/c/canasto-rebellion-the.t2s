@@ -3,4 +3,5 @@ canasto-rebellion-the.z80
 --sim-load
 --tape-name "The Canasto Rebellion.tzx"
 --tape-sum c094c9cdda00319ed021baec14e2e38e
-; --start 36376
+--start 36376
+--sim-load-config finish-tape=1

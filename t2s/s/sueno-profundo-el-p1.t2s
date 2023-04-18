@@ -3,4 +3,5 @@ sueno-profundo-el-p1.z80
 --sim-load
 --tape-name "El Sueno Profundo - Part 1.tap"
 --tape-sum 7a066e84adae8146b9f49d3b9f61b06d
-; --start 29041
+--start 29041
+--sim-load-config finish-tape=1

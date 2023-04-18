@@ -3,4 +3,5 @@ emerald-elf-the.z80
 --sim-load
 --tape-name "The Emerald Elf.tzx"
 --tape-sum cad62573fb1c38e44bcd8cd6830e9e6d
-; --start 29169
+--start 29169
+--sim-load-config finish-tape=1

@@ -3,4 +3,5 @@ surf-champ.z80
 --sim-load
 --tape-name "Surf Champ.tzx"
 --tape-sum ddddc3159fd593d301f92e89d739e600
-; --start 25363
+--start 25363
+--sim-load-config finish-tape=1

@@ -3,4 +3,5 @@ personal-computer-whirled.z80
 --sim-load
 --tape-name "Personal Computer Whirled!.tzx"
 --tape-sum 54e7981299e3569afd75910b1ff1d552
-; --start 36366
+--start 36366
+--sim-load-config finish-tape=1

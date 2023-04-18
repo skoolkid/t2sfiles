@@ -3,4 +3,5 @@ zen-quest.z80
 --sim-load
 --tape-name "Zen Quest.tzx"
 --tape-sum 2b3de75f8484caf15feaf77ee9759d51
-; --start 29201
+--start 29201
+--sim-load-config finish-tape=1

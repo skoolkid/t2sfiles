@@ -3,4 +3,5 @@ life-of-a-lone-electron-the.z80
 --sim-load
 --tape-name "The Life Of A Lone Electron.tzx"
 --tape-sum 70db5e83b9254ca9bbb99dab8bb8dd0b
-; --start 29169
+--start 29169
+--sim-load-config finish-tape=1

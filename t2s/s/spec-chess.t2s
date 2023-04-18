@@ -3,4 +3,5 @@ spec-chess.z80
 --sim-load
 --tape-name "Spec Chess.tzx"
 --tape-sum 558fbcba7be667745cccf96403d41bed
-; --start 61616
+--start 61616
+--sim-load-config finish-tape=1

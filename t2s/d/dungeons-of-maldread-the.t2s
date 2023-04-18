@@ -3,4 +3,5 @@ dungeons-of-maldread-the.z80
 --sim-load
 --tape-name "The Dungeons Of Maldread.tzx"
 --tape-sum a8ad0e7395c695f17b61ba237453613a
-; --start 29201
+--start 29201
+--sim-load-config finish-tape=1

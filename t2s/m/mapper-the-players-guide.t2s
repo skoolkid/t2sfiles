@@ -3,4 +3,5 @@ mapper-the-players-guide.z80
 --sim-load
 --tape-name "The Mapper - Players Guide.tzx"
 --tape-sum d41c4ed79aae84c36dcbc1e4efd20636
-; --start 29169
+--start 29169
+--sim-load-config finish-tape=1

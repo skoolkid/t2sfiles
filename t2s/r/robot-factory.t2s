@@ -3,4 +3,5 @@ robot-factory.z80
 --sim-load
 --tape-name "Robot Factory.tzx"
 --tape-sum 9ee6dc5912410eaa2472a37d530aab14
-; --start 24019
+--start 24019
+--sim-load-config finish-tape=1

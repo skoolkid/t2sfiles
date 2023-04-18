@@ -3,4 +3,5 @@ mad-cars.z80
 --sim-load
 --tape-name "Mad Cars.tzx"
 --tape-sum 755217c0cc538706991758e8009f3670
-; --start 24019
+--start 24019
+--sim-load-config finish-tape=1

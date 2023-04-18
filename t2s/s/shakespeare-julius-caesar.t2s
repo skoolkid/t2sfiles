@@ -3,4 +3,5 @@ shakespeare-julius-caesar.z80
 --sim-load
 --tape-name "Shakespeare - Julius Caesar.tzx"
 --tape-sum a27431bf9d4bf647d80e834f5df3be86
-; --start 65129
+--start 65129
+--sim-load-config finish-tape=1

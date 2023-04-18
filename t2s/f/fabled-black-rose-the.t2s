@@ -3,4 +3,5 @@ fabled-black-rose-the.z80
 --sim-load
 --tape-name "The Fabled Black Rose.tzx"
 --tape-sum 5d10765a969f8429aabb6d78263017cd
-; --start 29169
+--start 29169
+--sim-load-config finish-tape=1

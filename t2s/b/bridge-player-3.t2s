@@ -3,4 +3,5 @@ bridge-player-3.z80
 --sim-load
 --tape-name "Bridge Player 3.tzx"
 --tape-sum 71af50f850abb666160deff9224c9350
-; --start 65290
+--start 65290
+--sim-load-config finish-tape=1

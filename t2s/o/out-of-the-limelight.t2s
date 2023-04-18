@@ -3,4 +3,5 @@ out-of-the-limelight.z80
 --sim-load
 --tape-name "Out Of The Limelight.tzx"
 --tape-sum c05a347ba39116f379432d4e61034c7a
-; --start 29201
+--start 29201
+--sim-load-config finish-tape=1

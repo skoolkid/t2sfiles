@@ -3,4 +3,5 @@ sefton-manor-assignment-the.z80
 --sim-load
 --tape-name "The Sefton Manor Assignment.tzx"
 --tape-sum 1841c361bc9c006c37c95e8dd69f87f4
-; --start 36366
+--start 36366
+--sim-load-config finish-tape=1

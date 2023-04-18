@@ -3,4 +3,5 @@ greg-the-egg-p1.z80
 --sim-load
 --tape-name "Greg The Egg - Side 1.tzx"
 --tape-sum 5b1c4eea09d726d52d6690c079f93660
-; --start 29169
+--start 29169
+--sim-load-config finish-tape=1

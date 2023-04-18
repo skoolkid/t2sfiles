@@ -3,4 +3,5 @@ brian-and-the-dishonest-politician-p1.z80
 --sim-load
 --tape-name "Brian And The Dishonest Politician - Side 1.tzx"
 --tape-sum 80f43198a9d3aea5a038195aed952710
-; --start 29169
+--start 29169
+--sim-load-config finish-tape=1

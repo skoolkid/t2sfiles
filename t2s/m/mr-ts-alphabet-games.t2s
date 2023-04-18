@@ -3,4 +3,5 @@ mr-ts-alphabet-games.z80
 --sim-load
 --tape-name "Mr T's Alphabet Games.tzx"
 --tape-sum 82c6cea7d6b501aa1b730c7bf82d9f9c
-; --start 23416
+--start 23416
+--sim-load-config finish-tape=1

@@ -3,4 +3,5 @@ protect-and-survive.z80
 --sim-load
 --tape-name "Protect And Survive.tzx"
 --tape-sum 7730f960be79df41ec4999998deef663
-; --start 29169
+--start 29169
+--sim-load-config finish-tape=1

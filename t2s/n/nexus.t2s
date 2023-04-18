@@ -3,4 +3,5 @@ nexus.z80
 --sim-load
 --tape-name "Nexus.tzx"
 --tape-sum c0a94897b31e831f976c0d07a5355d2d
-; --start 63049
+--start 63049
+--sim-load-config finish-tape=1

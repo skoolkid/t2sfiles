@@ -3,4 +3,5 @@ civil-service-ii.z80
 --sim-load
 --tape-name "Civil Service II.tzx"
 --tape-sum 4513c0523e2613a890aeb0b3a85fc03d
-; --start 29201
+--start 29201
+--sim-load-config finish-tape=1

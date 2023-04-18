@@ -3,4 +3,5 @@ game-without-a-name.z80
 --sim-load
 --tape-name "Game Without A Name.tzx"
 --tape-sum fb85d6ba57f8d6384962843acb4d78d3
-; --start 36383
+--start 36383
+--sim-load-config finish-tape=1

@@ -3,4 +3,5 @@ what-was-that-p2.z80
 --sim-load
 --tape-name "What Was That - Part 2.tap"
 --tape-sum b7423c14dff4bd807f7f94ba16bcf607
-; --start 36376
+--start 36376
+--sim-load-config finish-tape=1

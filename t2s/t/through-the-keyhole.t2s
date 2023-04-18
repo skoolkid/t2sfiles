@@ -3,4 +3,5 @@ through-the-keyhole.z80
 --sim-load
 --tape-name "Through The Keyhole.tzx"
 --tape-sum 5e61118146476644b413c1a1bad58895
-; --start 29201
+--start 29201
+--sim-load-config finish-tape=1

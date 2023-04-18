@@ -3,4 +3,5 @@ gommy-defensor-medieval-spanish.z80
 --sim-load
 --tape-name "Gommy Defensor Medieval (Spanish).tap"
 --tape-sum 6865e1fa72cfac4db53c7afe4a8d3276
-; --start 25000
+--start 25000
+--sim-load-config finish-tape=1

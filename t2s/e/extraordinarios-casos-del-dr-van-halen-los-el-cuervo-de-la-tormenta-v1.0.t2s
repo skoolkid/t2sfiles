@@ -3,4 +3,5 @@ extraordinarios-casos-del-dr-van-halen-los-el-cuervo-de-la-tormenta-v1.0.z80
 --sim-load
 --tape-name "Los Extraordinarios Casos Del Dr. Van Halen - El Cuervo De La Tormenta V1.0.tzx"
 --tape-sum 4f6586c70c533438a1c8d6e7e7636e9d
-; --start 29041
+--start 29041
+--sim-load-config finish-tape=1

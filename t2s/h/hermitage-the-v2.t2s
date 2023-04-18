@@ -3,4 +3,5 @@ hermitage-the-v2.z80
 --sim-load
 --tape-name "The Hermitage v2.tzx"
 --tape-sum 876852d502fb2493512d82b50496741c
-; --start 36366
+--start 36366
+--sim-load-config finish-tape=1

@@ -3,4 +3,5 @@ choy-lee-fut-kung-fu-warrior.z80
 --sim-load
 --tape-name "Choy-Lee-Fut Kung-Fu Warrior.tzx"
 --tape-sum d6cae432f337f7f1388b5e2f1a84b48a
-; --start 23358
+--start 23358
+--sim-load-config finish-tape=1

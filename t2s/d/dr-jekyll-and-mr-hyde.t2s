@@ -3,4 +3,5 @@ dr-jekyll-and-mr-hyde.z80
 --sim-load
 --tape-name "Dr. Jekyll And Mr. Hyde - Side 1.tzx"
 --tape-sum acd591a2be7439df6bae330a494a7e0e
-; --start 36383
+--start 36383
+--sim-load-config finish-tape=1

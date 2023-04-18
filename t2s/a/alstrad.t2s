@@ -3,4 +3,5 @@ alstrad.z80
 --sim-load
 --tape-name "Alstrad.tzx"
 --tape-sum bfa1d836bec58a4ca62b7fc301019124
-; --start 29201
+--start 29201
+--sim-load-config finish-tape=1

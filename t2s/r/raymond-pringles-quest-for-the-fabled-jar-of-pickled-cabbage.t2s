@@ -3,4 +3,5 @@ raymond-pringles-quest-for-the-fabled-jar-of-pickled-cabbage.z80
 --sim-load
 --tape-name "Raymond Pringle's Quest For The Fabled Jar Of Pickled Cabbage.tzx"
 --tape-sum 04968d98015dfa42846c6bf629673fd4
-; --start 29169
+--start 29169
+--sim-load-config finish-tape=1

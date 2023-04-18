@@ -3,4 +3,5 @@ trudnaja-doroga.z80
 --sim-load
 --tape-name "TRUDNAJA.TAP"
 --tape-sum d23e4687d86ea0f3b78492d2738519ca
-; --start 36376
+--start 36376
+--sim-load-config finish-tape=1

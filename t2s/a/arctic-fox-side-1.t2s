@@ -3,4 +3,5 @@ arctic-fox-side-1.z80
 --sim-load
 --tape-name "Arctic Fox - Side 1.tzx"
 --tape-sum fbb889437d65259fecbaff5ae1df4f3b
-; --start 44450
+--start 44450
+--sim-load-config finish-tape=1

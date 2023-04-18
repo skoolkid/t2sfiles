@@ -3,4 +3,5 @@ excessus-fixed.z80
 --sim-load
 --tape-name "Excessus (Fixed).tap"
 --tape-sum 635ebed24f6ac5a5a3fdc230165926b7
-; --start 29041
+--start 29041
+--sim-load-config finish-tape=1

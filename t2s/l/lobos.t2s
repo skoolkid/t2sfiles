@@ -3,4 +3,5 @@ lobos.z80
 --sim-load
 --tape-name "Lobos.tap"
 --tape-sum d176809868998ea6424f38117962dc3d
-; --start 29073
+--start 29073
+--sim-load-config finish-tape=1

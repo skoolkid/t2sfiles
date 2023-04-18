@@ -3,4 +3,5 @@ twas-a-time-of-dread.z80
 --sim-load
 --tape-name "'Twas A Time Of Dread.tzx"
 --tape-sum d03b597e2516fadff9c0b5ef39905612
-; --start 29169
+--start 29169
+--sim-load-config finish-tape=1

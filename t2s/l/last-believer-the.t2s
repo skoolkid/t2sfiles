@@ -3,4 +3,5 @@ last-believer-the.z80
 --sim-load
 --tape-name "The Last Believer.tzx"
 --tape-sum d4ac4b0c231c460fb5e17747341b9a59
-; --start 29201
+--start 29201
+--sim-load-config finish-tape=1

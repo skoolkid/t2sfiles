@@ -3,4 +3,5 @@ helvera-mistress-of-the-park.z80
 --sim-load
 --tape-name "Helvera - Mistress Of The Park.tzx"
 --tape-sum 9bc65726f01b5196b3a95e1e495c91dc
-; --start 29169
+--start 29169
+--sim-load-config finish-tape=1

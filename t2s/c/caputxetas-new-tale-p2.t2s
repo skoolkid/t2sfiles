@@ -3,4 +3,5 @@ caputxetas-new-tale-p2.z80
 --sim-load
 --tape-name "Caputxeta's New Tale - Part 2 (without character set).tap"
 --tape-sum 4cc02d423c8ebc40a097ef344af09a6d
-; --start 29073
+--start 29073
+--sim-load-config finish-tape=1

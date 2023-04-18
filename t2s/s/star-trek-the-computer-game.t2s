@@ -3,4 +3,5 @@ star-trek-the-computer-game.z80
 --sim-load
 --tape-name "STARTRKG.TAP"
 --tape-sum 6de97b21dafe2d7310e0530520b06587
-; --start 23367
+--start 23367
+--sim-load-config finish-tape=1

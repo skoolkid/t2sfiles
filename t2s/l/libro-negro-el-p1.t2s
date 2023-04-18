@@ -3,4 +3,5 @@ libro-negro-el-p1.z80
 --sim-load
 --tape-name "El Libro Negro - Part 1.tap"
 --tape-sum 971d91175d76d0b240018dab46059398
-; --start 29169
+--start 29169
+--sim-load-config finish-tape=1

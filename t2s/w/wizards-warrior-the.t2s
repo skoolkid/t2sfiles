@@ -3,4 +3,5 @@ wizards-warrior-the.z80
 --sim-load
 --tape-name "The Wizards Warrior.tzx"
 --tape-sum 0ec9bb99bd8bc11bfe15e3bfaf192558
-; --start 36376
+--start 36376
+--sim-load-config finish-tape=1

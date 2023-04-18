@@ -3,4 +3,5 @@ juanito-en-busca-de-su-baloncito-p1.z80
 --sim-load
 --tape-name "Juanito En Busca De Su Baloncito - Part 1.tap"
 --tape-sum 44d4c249e6f277d64e9b88b4bb40fc78
-; --start 29073
+--start 29073
+--sim-load-config finish-tape=1

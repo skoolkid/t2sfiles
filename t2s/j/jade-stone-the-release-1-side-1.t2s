@@ -3,4 +3,5 @@ jade-stone-the-release-1-side-1.z80
 --sim-load
 --tape-name "The Jade Stone - Release 1 - Side 1.tzx"
 --tape-sum eb0a147f7a81ede6151f394d881d00fe
-; --start 36366
+--start 36366
+--sim-load-config finish-tape=1

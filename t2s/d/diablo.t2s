@@ -3,4 +3,5 @@ diablo.z80
 --sim-load
 --tape-name "Diablo! - 48k - Alternate - Side A.tzx"
 --tape-sum d608ea2e498a6fc01c07218d40757a4c
-; --start 36376
+--start 36376
+--sim-load-config finish-tape=1

@@ -3,4 +3,5 @@ crawling-horror-the-p1.z80
 --sim-load
 --tape-name "The Crawling Horror - Part 1.tap"
 --tape-sum 2f64a9ec8d40d0b03548b2c133b8d979
-; --start 29169
+--start 29169
+--sim-load-config finish-tape=1

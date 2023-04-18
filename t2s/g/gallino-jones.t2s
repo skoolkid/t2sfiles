@@ -3,4 +3,5 @@ gallino-jones.z80
 --sim-load
 --tape-name "Gallino Jones.tap"
 --tape-sum 38e263998d7019109fb1d2cdd7de7cd4
-; --start 29073
+--start 29073
+--sim-load-config finish-tape=1

@@ -3,4 +3,5 @@ dream-quest-of-unknown-kadath-the-p2.z80
 --sim-load
 --tape-name "The Dream-Quest Of Unknown Kadath - Part 2.tap"
 --tape-sum 6ae172d00a0e84f860d02495968418fd
-; --start 36376
+--start 36376
+--sim-load-config finish-tape=1

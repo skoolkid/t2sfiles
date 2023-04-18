@@ -3,4 +3,5 @@ hideous-the-p1.z80
 --sim-load
 --tape-name "The Hideous - Part 1.tap"
 --tape-sum 334fafe8845ac7e7a1c32d24fce8b32b
-; --start 29169
+--start 29169
+--sim-load-config finish-tape=1

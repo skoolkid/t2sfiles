@@ -3,4 +3,5 @@ heresville.z80
 --sim-load
 --tape-name "Heresville.tap"
 --tape-sum 437ed53392384518a8afc85f59e69b56
-; --start 29073
+--start 29073
+--sim-load-config finish-tape=1

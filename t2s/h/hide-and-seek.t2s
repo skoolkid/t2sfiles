@@ -3,4 +3,5 @@ hide-and-seek.z80
 --sim-load
 --tape-name "Hide And Seek.tzx"
 --tape-sum 424dbea47107fe3647786a35e00dd4ce
-; --start 29169
+--start 29169
+--sim-load-config finish-tape=1

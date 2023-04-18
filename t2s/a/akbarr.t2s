@@ -3,4 +3,5 @@ akbarr.z80
 --sim-load
 --tape-name "Akbarr.tzx"
 --tape-sum c546a6bd37f49b5120f606c053f4cd24
-; --start 29041
+--start 29041
+--sim-load-config finish-tape=1

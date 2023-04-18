@@ -3,4 +3,5 @@ duckworth-highway-code-side-2.z80
 --sim-load
 --tape-name "Duckworth Highway Code - Side 2.tzx"
 --tape-sum 97ac5574634f08a3a52099b5844a7c7b
-; --start 58369
+--start 58369
+--sim-load-config finish-tape=1

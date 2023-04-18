@@ -3,4 +3,5 @@ perseus-p1.z80
 --sim-load
 --tape-name "Perseus - Part 1.tzx"
 --tape-sum e1dafa4c31e0d3182b6bf9506e5bea92
-; --start 29201
+--start 29201
+--sim-load-config finish-tape=1

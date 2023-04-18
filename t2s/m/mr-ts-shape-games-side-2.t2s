@@ -3,4 +3,5 @@ mr-ts-shape-games-side-2.z80
 --sim-load
 --tape-name "Mr T's Shape Games - Side 2.tzx"
 --tape-sum 66eeddd94f27562f938907ed8bdcad55
-; --start 23416
+--start 23416
+--sim-load-config finish-tape=1

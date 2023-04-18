@@ -3,4 +3,5 @@ deep-probe-full-fx.z80
 --sim-load
 --tape-name "Deep Probe - Full FX.tzx"
 --tape-sum 8918ef4481f9a273413bedc1fc40300a
-; --start 29169
+--start 29169
+--sim-load-config finish-tape=1

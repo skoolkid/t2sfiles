@@ -3,4 +3,5 @@ anillo-el-p1.z80
 --sim-load
 --tape-name "El Anillo - Alternate Version - Part 1.tap"
 --tape-sum 37ad3c492da28564c5f89fe1b8cdb695
-; --start 29073
+--start 29073
+--sim-load-config finish-tape=1

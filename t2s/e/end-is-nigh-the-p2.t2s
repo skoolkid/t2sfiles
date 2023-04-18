@@ -3,4 +3,5 @@ end-is-nigh-the-p2.z80
 --sim-load
 --tape-name "The End Is Nigh - Part 2.tzx"
 --tape-sum 0aaeb064ebdd1f9bb45b6bf3c1a7987d
-; --start 29201
+--start 29201
+--sim-load-config finish-tape=1
