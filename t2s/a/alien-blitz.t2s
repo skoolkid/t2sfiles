@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AlienBlitz.tzx.zip
+alien-blitz.z80
+--sim-load
+--tape-name "Alien Blitz.tzx"
+--tape-sum 0e8b83ea54aaf71c7847b717036ffec7
+--start 1343
+--sim-load-config finish-tape=1

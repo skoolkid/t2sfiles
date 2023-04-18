@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AsteroidsInSpace.tzx.zip
+asteroids-in-space.z80
+--sim-load
+--tape-name "Asteroids-in-space.tzx"
+--tape-sum 8d1df99a9d76e8476fbef9142a0bab11
+--start 1343
+--sim-load-config finish-tape=1

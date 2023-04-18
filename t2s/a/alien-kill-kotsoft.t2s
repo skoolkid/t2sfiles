@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AlienKill.tzx.zip
+alien-kill-kotsoft.z80
+--sim-load
+--tape-name "alien_kill.tzx"
+--tape-sum a18682d9e2d2263e38a78bf598965e04
+--start 1343
+--sim-load-config finish-tape=1

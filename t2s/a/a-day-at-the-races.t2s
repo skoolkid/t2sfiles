@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DayAtTheRacesA.tzx.zip
+a-day-at-the-races.z80
+--sim-load
+--tape-name "DayAtTheRaces.tzx"
+--tape-sum 98a1566d8029fcd6a56e188b288c8071
+--start 1343
+--sim-load-config finish-tape=1

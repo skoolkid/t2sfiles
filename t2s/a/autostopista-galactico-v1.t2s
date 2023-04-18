@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AutostopistaGalactico.tzx.zip
+autostopista-galactico-v1.z80
+--sim-load
+--tape-name "Autostopista Galactico (Version 1).tzx"
+--tape-sum c5841123acdacb5505f01a7fcb1f9513
+--start 1343
+--sim-load-config finish-tape=1

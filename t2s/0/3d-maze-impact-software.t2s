@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Maze3D.tzx.zip
+3d-maze-impact-software.z80
+--sim-load
+--tape-name "3D Maze.tzx"
+--tape-sum 671ada4a79e94985d8dca4fc2ad8c760
+--start 1343
+--sim-load-config finish-tape=1

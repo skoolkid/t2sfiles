@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/Archery.tzx.zip
+archery.z80
+--sim-load
+--tape-name "Archery.tzx"
+--tape-sum fa49cf5c5b6d44446d476492d66d80d1
+--start 1343
+--sim-load-config finish-tape=1

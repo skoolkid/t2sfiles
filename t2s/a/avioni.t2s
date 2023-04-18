@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/Avioni.tzx.zip
+avioni.z80
+--sim-load
+--tape-name "Avioni.tzx"
+--tape-sum ce0c4f9c513444023c1b25589fed3ecb
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/Austerlitz1805.tzx.zip
+austerlitz-1805-side-1.z80
+--sim-load
+--tape-name "Austerlitz 1805 - Side 1.tzx"
+--tape-sum 9634ea3c7da1851c884a76fb4392a2e5
+--start 1343
+--sim-load-config finish-tape=1

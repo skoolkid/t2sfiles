@@ -29,10 +29,15 @@ the final byte of the game has loaded from tape (disregarding some
 unpredictable and irrelevant properties, such as the exact values of
 [FRAMES](https://skoolkid.github.io/rom/asm/5C78.html) and the R register).
 In particular, the program counter (PC) must point at the first instruction
-executed after the LOAD has finished that satisfies both of these criteria:
+executed after the LOAD has finished that is not part of the game's custom
+loading routine (if there is one). This instruction is typically somewhere in
+RAM, but can be in the ROM if the game comprises some BASIC code. Good
+candidate start addresses for games that run BASIC code before or during
+gameplay are:
 
-* it is in the address range 0x4000-0xFFFF (i.e. in RAM, not ROM)
-* it is not part of the game's custom loading routine (if there is one)
+* 0x053F (this is [SA/LD-RET](https://skoolkid.github.io/rom/asm/053F.html))
+* 0x1F3D (this is the HALT instruction in the
+  [PAUSE](https://skoolkid.github.io/rom/asm/1F3A.html) command routine)
 
 t2s file naming and format
 --------------------------

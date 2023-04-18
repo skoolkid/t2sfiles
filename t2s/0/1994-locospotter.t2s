@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/123/1994Locospotter.tzx.zip
+1994-locospotter.z80
+--sim-load
+--tape-name "1994 Locospotter.tzx"
+--tape-sum 8731d36687fe217605eac70db2916bb2
+--start 1343
+--sim-load-config finish-tape=1

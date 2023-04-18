@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AllTimeGreatTour1.tzx.zip
+all-time-great-tour-1-side-1.z80
+--sim-load
+--tape-name "All Time Great Tour (1) - Side 1.tzx"
+--tape-sum 279e30f43f8edf0a3ae3be26baee8bdc
+--start 1343
+--sim-load-config finish-tape=1

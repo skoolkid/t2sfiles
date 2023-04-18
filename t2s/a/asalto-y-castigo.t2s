@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AsaltoYCastigo.tzx.zip
+asalto-y-castigo.z80
+--sim-load
+--tape-name "Asalto Y Castigo.tzx"
+--tape-sum 8709869d8b9b691e7bf17e35d7ce4fbd
+--start 1343
+--sim-load-config finish-tape=1

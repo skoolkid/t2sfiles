@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AirDuel.tzx.zip
+air-duel.z80
+--sim-load
+--tape-name "AirDuel.tzx"
+--tape-sum 3d0190835f9dd25dc1f0f03574caec79
+--start 1343
+--sim-load-config finish-tape=1

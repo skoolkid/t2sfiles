@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/Armageddon.tzx.zip
+armageddon-fashionsoft.z80
+--sim-load
+--tape-name "Armageddon (Fashionsoft).tzx"
+--tape-sum eb2d06acbda53a2c6e5aeb304223df75
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TouchTooMuchA.tzx.zip
+a-touch-too-much.z80
+--sim-load
+--tape-name "A Touch Too Much.tzx"
+--tape-sum 1172b65ad7dc61a735813bfe3b28ec3a
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/A.T.R.A.M.tzx.zip
+atram.z80
+--sim-load
+--tape-name "A.T.RAM.tzx"
+--tape-sum 4ed1229646e11abdf60fce05bd711724
+--start 1343
+--sim-load-config finish-tape=1

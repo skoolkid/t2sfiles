@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AlleysGun.tzx.zip
+alleys-gun.z80
+--sim-load
+--tape-name "Alley's Gun.tzx"
+--tape-sum 076f531434facc7b7a4fb736253e0698
+--start 1343
+--sim-load-config finish-tape=1

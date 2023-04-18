@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/Auschwitz.tzx.zip
+auschwitz.z80
+--sim-load
+--tape-name "Auschwitz.tzx"
+--tape-sum 0e22ffcb16dcab0ea290a062d7b10ffa
+--start 23850
+--sim-load-config finish-tape=1

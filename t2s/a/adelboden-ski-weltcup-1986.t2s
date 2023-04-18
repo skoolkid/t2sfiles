@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AdelbodenSki-Weltcup1986.tzx.zip
+adelboden-ski-weltcup-1986.z80
+--sim-load
+--tape-name "Adelboden.tzx"
+--tape-sum 07551a197a25582eb2a81a8d91407b3f
+--start 1343
+--sim-load-config finish-tape=1
