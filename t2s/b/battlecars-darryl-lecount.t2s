@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Battlecars.tzx.zip
+battlecars-darryl-lecount.z80
+--sim-load
+--tape-name "BATTLE.TZX"
+--tape-sum 95317b7729272139b765354076b15561
+--start 1343
+--sim-load-config finish-tape=1

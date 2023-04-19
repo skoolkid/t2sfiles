@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Binary.tzx.zip
+binary.z80
+--sim-load
+--tape-name "Binary_V4_0.tzx"
+--tape-sum f99ced774c7501340c0e2ff8b42a69e7
+--start 1343
+--sim-load-config finish-tape=1

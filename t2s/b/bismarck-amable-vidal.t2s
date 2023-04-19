@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Bismarck.tzx.zip
+bismarck-amable-vidal.z80
+--sim-load
+--tape-name "BISMARCK.TZX"
+--tape-sum bd7b5b5909bf21eaae6458a029180f5c
+--start 1343
+--sim-load-config finish-tape=1

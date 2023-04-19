@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Blobhop.tzx.zip
+blobhop.z80
+--sim-load
+--tape-name "blobhop.tzx"
+--tape-sum 357d215697cd18c0a04d1bc21bfe2c29
+--start 1343
+--sim-load-config finish-tape=1

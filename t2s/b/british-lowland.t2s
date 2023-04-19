@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BritishLowland.tzx.zip
+british-lowland.z80
+--sim-load
+--tape-name "British Lowland.tzx"
+--tape-sum 71ee4d951e93b32cb74e444f83d9ad8e
+--start 1343
+--sim-load-config finish-tape=1

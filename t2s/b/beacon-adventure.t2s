@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BeaconAdventure.tzx.zip
+beacon-adventure.z80
+--sim-load
+--tape-name "Beacon Adventure.tzx"
+--tape-sum 58bc0862dcaa02df9fe235f40e01d0bd
+--start 1343
+--sim-load-config finish-tape=1

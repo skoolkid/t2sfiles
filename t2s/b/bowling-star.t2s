@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BowlingStar.tzx.zip
+bowling-star.z80
+--sim-load
+--tape-name "Bowling Star.tzx"
+--tape-sum 4fdeaa58a5e547096be4bc14d21e4ba6
+--start 1343
+--sim-load-config finish-tape=1

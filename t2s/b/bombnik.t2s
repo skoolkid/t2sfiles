@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Bombnik.tzx.zip
+bombnik.z80
+--sim-load
+--tape-name "Bombnik.tzx"
+--tape-sum ba95f535cc54913fa686a16343800083
+--start 1343
+--sim-load-config finish-tape=1

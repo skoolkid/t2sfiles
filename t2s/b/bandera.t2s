@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Bandera.tzx.zip
+bandera.z80
+--sim-load
+--tape-name "Bandera.tzx"
+--tape-sum 27b4a902aa6f0c78bd37187eeaa0b8d1
+--start 1343
+--sim-load-config finish-tape=1

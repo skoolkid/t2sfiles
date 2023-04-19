@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Beecatcher.tzx.zip
+beecatcher.z80
+--sim-load
+--tape-name "Beecatcher.tzx"
+--tape-sum e6ddbec67e95f245032be8a6e5a814b8
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BertieBug.tzx.zip
+bertie-bug.z80
+--sim-load
+--tape-name "PCG 08 - July 84 (Bertie Bug).tzx"
+--tape-sum b2d908dcd4104999ca0551dd1cbb0aab
+--start 1343
+--sim-load-config finish-tape=1
