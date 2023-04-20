@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/e/Endeavour.tzx.zip
+endeavour.z80
+--sim-load
+--tape-name "Endeavour.tzx"
+--tape-sum e5a8cb062489ebfec7098caadbaf92c6
+--start 1343
+--sim-load-config finish-tape=1

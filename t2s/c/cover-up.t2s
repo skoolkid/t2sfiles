@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CoverUp.tzx.zip
+cover-up.z80
+--sim-load
+--tape-name "Cover Up!.tzx"
+--tape-sum 4ca52b447c75a49685ffa6ebc761149e
+--start 1343
+--sim-load-config finish-tape=1

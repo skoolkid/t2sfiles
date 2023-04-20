@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CryWolf.tzx.zip
+cry-wolf.z80
+--sim-load
+--tape-name "Cry Wolf.tzx"
+--tape-sum b198a8c0808219974643396923ca23db
+--start 1343
+--sim-load-config finish-tape=1

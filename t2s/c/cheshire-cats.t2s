@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CheshireCats.tzx.zip
+cheshire-cats.z80
+--sim-load
+--tape-name "PCG 02 - Dec 83-Jan 84 (Cheshire Cats).tzx"
+--tape-sum 7e2ed032579033bef24491b0ab8d102a
+--start 1343
+--sim-load-config finish-tape=1

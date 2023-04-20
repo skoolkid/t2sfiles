@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/g/GoodShepherd.tzx.zip
+good-shepherd.z80
+--sim-load
+--tape-name "Good Shepherd.tzx"
+--tape-sum 6612df49b632fd902b4b75e38a7afc24
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/f/FourMinutesFromGlory.tzx.zip
+four-minutes-from-glory-side-1.z80
+--sim-load
+--tape-name "Four Minutes From Glory - Side 1.tzx"
+--tape-sum 021da6916b4a62c5abe5c7eac7ab92c9
+--start 1343
+--sim-load-config finish-tape=1

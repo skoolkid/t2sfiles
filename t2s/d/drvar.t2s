@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/Drvar.tzx.zip
+drvar.z80
+--sim-load
+--tape-name "117B-Drvar.tzx"
+--tape-sum 7f267b8a182cfc4c4c1d70256613dd69
+--start 1343
+--sim-load-config finish-tape=1

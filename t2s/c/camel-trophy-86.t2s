@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CamelTrophy86.tzx.zip
+camel-trophy-86.z80
+--sim-load
+--tape-name "CamelTrophy.tzx"
+--tape-sum 0c322fad77da07d53d20db13586ae013
+--start 11563
+--sim-load-config finish-tape=1

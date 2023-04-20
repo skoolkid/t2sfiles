@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/f/FirstPastThePost.tzx.zip
+first-past-the-post.z80
+--sim-load
+--tape-name "First Past The Post (Cult).tzx"
+--tape-sum 8e6df9deca4f72d598432975102dadf9
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CrewePowerbox.tzx.zip
+crewe-powerbox.z80
+--sim-load
+--tape-name "Rail Traffic Control Crewe - Alternate.tzx"
+--tape-sum cb5f3cb033e54e92939b466ef7d812ef
+--start 1343
+--sim-load-config finish-tape=1

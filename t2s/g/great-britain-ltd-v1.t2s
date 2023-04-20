@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/g/GreatBritainLtdV1.tzx.zip
+great-britain-ltd-v1.z80
+--sim-load
+--tape-name "Great Britain Limited - Release 1.tzx"
+--tape-sum aa66bebb5a224f68ebb8109a0ddb764a
+--start 1343
+--sim-load-config finish-tape=1

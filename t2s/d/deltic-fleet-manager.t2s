@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DelticFleetManager.tzx.zip
+deltic-fleet-manager.z80
+--sim-load
+--tape-name "Deltic Fleet Manager.tzx"
+--tape-sum da7391b1331599436479d06893ece4ce
+--start 1343
+--sim-load-config finish-tape=1

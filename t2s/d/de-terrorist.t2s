@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TerroristDe.tzx.zip
+de-terrorist.z80
+--sim-load
+--tape-name "De Terrorist.tzx"
+--tape-sum a8485e230c57a13c4fa6f83b368b1dd7
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/ComeMocos.tzx.zip
+come-mocos.z80
+--sim-load
+--tape-name "Come Mocos.tzx"
+--tape-sum 3951d8df66ee328b061223b822e129d2
+--start 1343
+--sim-load-config finish-tape=1

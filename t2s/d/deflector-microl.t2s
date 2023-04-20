@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/Deflector.tzx.zip
+deflector-microl.z80
+--sim-load
+--tape-name "Deflector (MiCROL, 1982).tzx"
+--tape-sum 14fe94882940dd650f2999d4d5ff30a6
+--start 1343
+--sim-load-config finish-tape=1

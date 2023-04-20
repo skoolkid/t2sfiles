@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/f/FlyingScotsman.tzx.zip
+flying-scotsman.z80
+--sim-load
+--tape-name "Flying Scotsman.tzx"
+--tape-sum da0ed1691355a55b009165e56321b959
+--start 1343
+--sim-load-config finish-tape=1

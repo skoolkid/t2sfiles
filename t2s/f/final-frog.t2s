@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/f/FinalFrog.tzx.zip
+final-frog.z80
+--sim-load
+--tape-name "Final Frog.tzx"
+--tape-sum e558bbf55f58fcbcccd08af0226243cd
+--start 1343
+--sim-load-config finish-tape=1

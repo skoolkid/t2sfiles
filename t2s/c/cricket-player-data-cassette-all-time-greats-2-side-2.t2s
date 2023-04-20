@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CricketPlayerDataCassetteAllTimeGreats2.tzx.zip
+cricket-player-data-cassette-all-time-greats-2-side-2.z80
+--sim-load
+--tape-name "Cricket Player Data Cassette All Time Greats 2 - Side 2.tzx"
+--tape-sum fb8a08ca9319b7500dfb0c0cb88ff411
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/e/Escape.tzx.zip
+escape-dmc.z80
+--sim-load
+--tape-name "Escape.tzx"
+--tape-sum 61c858fdaee7c510873f158459c9a770
+--start 1343
+--sim-load-config finish-tape=1

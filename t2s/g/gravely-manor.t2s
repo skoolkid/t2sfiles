@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/g/GravelyManor.tzx.zip
+gravely-manor.z80
+--sim-load
+--tape-name "Gravely Manor.tzx"
+--tape-sum 9564a65f2f0963fbe95f8a95bc47201b
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CricketMaster.tzx.zip
+cricket-master.z80
+--sim-load
+--tape-name "Cricket Master.tzx"
+--tape-sum 0ffbbcdaaf35de1833a4424cca65bbf8
+--start 1343
+--sim-load-config finish-tape=1

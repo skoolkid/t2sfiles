@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/Dictator.tzx.zip
+dictator.z80
+--sim-load
+--tape-name "Dictator.tzx"
+--tape-sum 658c91e346937ade3b35c916aab8d81e
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/e/EuropeanChampions.tzx.zip
+european-champions-side-a.z80
+--sim-load
+--tape-name "European Champions - Side A.tzx"
+--tape-sum cea4804a9986924bc8afdc9f1ec264d3
+--start 1343
+--sim-load-config finish-tape=1

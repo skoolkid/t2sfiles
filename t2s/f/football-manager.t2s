@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/f/FootballManager.tzx.zip
+football-manager.z80
+--sim-load
+--tape-name "Football Manager.tzx"
+--tape-sum 822ee9940ec60d99effeb5a922966068
+--start 1343
+--sim-load-config finish-tape=1

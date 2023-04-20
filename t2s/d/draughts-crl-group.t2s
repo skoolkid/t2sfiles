@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/d/Draughts.tzx.zip
+draughts-crl-group.z80
+--sim-load
+--tape-name "Draughts.tzx"
+--tape-sum c54cb6ce53b93b87bfac4b253579b42e
+--start 1343
+--tape-stop 8
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/g/GolfClub.tzx.zip
+golf-club.z80
+--sim-load
+--tape-name "Golf Club.tzx"
+--tape-sum 21ab24738b4e2122feeb85fc840e4c6b
+--start 1343
+--sim-load-config finish-tape=1

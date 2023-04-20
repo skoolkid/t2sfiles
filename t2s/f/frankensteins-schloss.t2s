@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/f/FrankensteinsSchloss.tzx.zip
+frankensteins-schloss.z80
+--sim-load
+--tape-name "Frankensteins Schloss.tzx"
+--tape-sum fa6cc49e40d8d9f3e8d75c1a79885498
+--start 1343
+--sim-load-config finish-tape=1

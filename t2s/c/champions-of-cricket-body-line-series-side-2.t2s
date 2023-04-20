@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/ChampionsOfCricket-BodyLineSeries.tzx.zip
+champions-of-cricket-body-line-series-side-2.z80
+--sim-load
+--tape-name "Champions Of Cricket - Body Line Series - Side 2.tzx"
+--tape-sum 748e0d767e458b0a8e1a739d6dcbad65
+--start 1343
+--sim-load-config finish-tape=1

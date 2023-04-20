@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/g/GraphicalGolf.tzx.zip
+graphical-golf.z80
+--sim-load
+--tape-name "Graphical Golf.tzx"
+--tape-sum dd720737744ef3d0462e87b1a05d72a2
+--start 1343
+--sim-load-config finish-tape=1

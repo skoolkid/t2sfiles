@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/g/Gold.tzx.zip
+gold.z80
+--sim-load
+--tape-name "Gold.tzx"
+--tape-sum b8b87a4947d18deaac83a2faec459741
+--start 1343
+--sim-load-config finish-tape=1

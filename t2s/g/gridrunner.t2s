@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/g/Gridrunner.tzx.zip
+gridrunner.z80
+--sim-load
+--tape-name "Gridrunner.tzx"
+--tape-sum 49806a5c34b0c678b4646f90b9c77610
+--start 1343
+--sim-load-config finish-tape=1

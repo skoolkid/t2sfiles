@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Cederick.tzx.zip
+cederick.z80
+--sim-load
+--tape-name "Cederick.tzx"
+--tape-sum 591d0b72da140ce90273081399ae377d
+--start 1343
+--sim-load-config finish-tape=1

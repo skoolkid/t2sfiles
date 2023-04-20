@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/ChampionsOfCricket-Special.tzx.zip
+champions-of-cricket-special-side-1.z80
+--sim-load
+--tape-name "Champions Of Cricket - Special - Side 1.tzx"
+--tape-sum 085a54814392a545c48064c0673bee5b
+--start 1343
+--sim-load-config finish-tape=1

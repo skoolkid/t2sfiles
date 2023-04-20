@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/g/GhostTown.tzx.zip
+ghost-town.z80
+--sim-load
+--tape-name "Ghost Town.tzx"
+--tape-sum 3c6301c852347b518cd1cb1c3ed1b9a4
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/g/GazRoids.tzx.zip
+gazroids.z80
+--sim-load
+--tape-name "GazRoids.tzx"
+--tape-sum cee4e72e108cdd49f7c69a73d61f8d7c
+--start 1343
+--sim-load-config finish-tape=1

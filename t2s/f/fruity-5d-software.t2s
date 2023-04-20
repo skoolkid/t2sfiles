@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/f/Fruity.tzx.zip
+fruity-5d-software.z80
+--sim-load
+--tape-name "FRUITY.TZX"
+--tape-sum 022dfd4910cd72f6b6c2baa925b2524f
+--start 1343
+--sim-load-config finish-tape=1

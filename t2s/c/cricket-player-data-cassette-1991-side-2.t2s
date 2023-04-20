@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CricketPlayerDataCassette1991.tzx.zip
+cricket-player-data-cassette-1991-side-2.z80
+--sim-load
+--tape-name "Cricket Player Data Cassette 1991 - Side 2.tzx"
+--tape-sum 4902eee14c37ddba3da82256e05cf8ef
+--start 1343
+--sim-load-config finish-tape=1

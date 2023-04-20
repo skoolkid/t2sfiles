@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/f/FlightSimulationV1.tzx.zip
+flight-simulation-v1.z80
+--sim-load
+--tape-name "Flight Simulation - Release 1.tzx"
+--tape-sum 6c821e39165a89a962eebc55714cb702
+--start 1343
+--sim-load-config finish-tape=1

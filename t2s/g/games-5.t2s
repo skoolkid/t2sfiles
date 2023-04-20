@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/g/Games5.tzx.zip
+games-5.z80
+--sim-load
+--tape-name "Star Trail.tzx"
+--tape-sum 22a6e16df2e94d276a7a496ef74ebe75
+--start 1343
+--sim-load-config finish-tape=1

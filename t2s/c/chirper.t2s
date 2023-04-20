@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Chirper.tzx.zip
+chirper.z80
+--sim-load
+--tape-name "Chirper.tzx"
+--tape-sum 04a41b42afd154a5a119400db21bf0c5
+--start 1343
+--sim-load-config finish-tape=1

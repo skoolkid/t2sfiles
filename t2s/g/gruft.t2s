@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/g/Gruft.tzx.zip
+gruft.z80
+--sim-load
+--tape-name "Gruft.tzx"
+--tape-sum 33e919e5c961080e02990d9969670afa
+--start 1343
+--sim-load-config finish-tape=1

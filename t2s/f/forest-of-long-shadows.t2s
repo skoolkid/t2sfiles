@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/f/ForestOfLongShadows.tzx.zip
+forest-of-long-shadows.z80
+--sim-load
+--tape-name "Forest Of Long Shadows.tzx"
+--tape-sum 491b0a942e47c12244b3898a2a8e0f2f
+--start 1343
+--sim-load-config finish-tape=1

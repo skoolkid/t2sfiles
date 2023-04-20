@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/e/Exiled.tzx.zip
+exiled.z80
+--sim-load
+--tape-name "EXILED.TZX"
+--tape-sum b5d289ad2119aeecbfe340d9630f5cd7
+--start 1343
+--sim-load-config finish-tape=1

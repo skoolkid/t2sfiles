@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DiamondQuest.tzx.zip
+diamond-quest.z80
+--sim-load
+--tape-name "Diamond Quest.tzx"
+--tape-sum 777001d16688ed9764d6954c03b7fdc5
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/f/FantasticAdventure.tzx.zip
+fantastic-adventure.z80
+--sim-load
+--tape-name "Fantastic Adventure.tzx"
+--tape-sum 84ba45d1f391c83738835744a984b3a4
+--start 1343
+--sim-load-config finish-tape=1

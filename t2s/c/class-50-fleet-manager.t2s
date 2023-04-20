@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Class50FleetManager.tzx.zip
+class-50-fleet-manager.z80
+--sim-load
+--tape-name "Class 50 Fleet Manager.tzx"
+--tape-sum a6c9dbed8fe733a44feae004b4322529
+--start 1343
+--sim-load-config finish-tape=1

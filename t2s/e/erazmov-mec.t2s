@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/e/ErazmovMec.tzx.zip
+erazmov-mec.z80
+--sim-load
+--tape-name "ErazmovMec.tzx"
+--tape-sum da63df96c334ca18c29d7fa3327db0b5
+--start 1343
+--sim-load-config finish-tape=1

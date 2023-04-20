@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DepotMasterOldOakCommon.tzx.zip
+depot-master-old-oak-common.z80
+--sim-load
+--tape-name "Depot Master Old Oak Common.tzx"
+--tape-sum 31e06aa79bb5b0fc608e54702b208031
+--start 1343
+--sim-load-config finish-tape=1
