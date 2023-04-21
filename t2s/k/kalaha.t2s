@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/k/Kalaha.tzx.zip
+kalaha.z80
+--sim-load
+--tape-name "Kalaha.tzx"
+--tape-sum b8568510074a99c123fc664a36903144
+--start 1343
+--sim-load-config finish-tape=1

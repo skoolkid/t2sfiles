@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MillionnaireLe.tzx.zip
+millionnaire-le.z80
+--sim-load
+--tape-name "Le Millionnaire.tzx"
+--tape-sum 69312b96817734ab2b7195cf3de54386
+--start 1343
+--sim-load-config finish-tape=1

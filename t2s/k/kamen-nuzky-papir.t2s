@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/k/KamenNuzkyPapir.tzx.zip
+kamen-nuzky-papir.z80
+--sim-load
+--tape-name "knp.tzx"
+--tape-sum d45bdb729d720982bce12fc486d8ec67
+--start 1343
+--sim-load-config finish-tape=1

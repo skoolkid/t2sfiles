@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/l/LazyJones.tzx.zip
+lazy-jones.z80
+--sim-load
+--tape-name "Lazy Jones.tzx"
+--tape-sum 58997fe8231e989ff9fab0c0a74475f2
+--start 1343
+--sim-load-config finish-tape=1

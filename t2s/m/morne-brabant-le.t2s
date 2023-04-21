@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MorneBrabantLe.tzx.zip
+morne-brabant-le.z80
+--sim-load
+--tape-name "Le Morne Brabant.tzx"
+--tape-sum 252a0350afc330241cdc77787f89ac1a
+--start 1343
+--sim-load-config finish-tape=1

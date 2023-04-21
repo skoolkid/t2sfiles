@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/l/LaserII.tzx.zip
+laser-ii.z80
+--sim-load
+--tape-name "Laser II.tzx"
+--tape-sum 72380d73d5cc40e6ddebf6a185dc5d44
+--start 1343
+--sim-load-config finish-tape=1

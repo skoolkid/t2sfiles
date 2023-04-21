@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/h/HighNoon.tzx.zip
+high-noon.z80
+--sim-load
+--tape-name "High Noon (Work Force).tzx"
+--tape-sum 6cf5ef50b269ba7871c7787a92a88a83
+--start 1343
+--tape-stop 6
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MurdersInTheRueMorgue.tzx.zip
+murder-in-the-rue-morgue.z80
+--sim-load
+--tape-name "Murder In The Rue Morgue.tzx"
+--tape-sum c41ca37d85e0c7859e806873c51fc5ff
+--start 1343
+--sim-load-config finish-tape=1

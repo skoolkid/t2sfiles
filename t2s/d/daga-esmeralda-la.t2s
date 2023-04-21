@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DagaEsmeraldaLa.tzx.zip
+daga-esmeralda-la.z80
+--sim-load
+--tape-name "La Daga Esmeralda.tzx"
+--tape-sum 001e4f640f7605ee0d7e2f2eadeff35e
+--start 1343
+--sim-load-config finish-tape=1

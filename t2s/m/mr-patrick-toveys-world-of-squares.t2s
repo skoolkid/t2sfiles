@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MrPatrickToveysWorldOfSquares.tzx.zip
+mr-patrick-toveys-world-of-squares.z80
+--sim-load
+--tape-name "Mr Patrick Tovey's World Of Squares.tzx"
+--tape-sum 7bd23c0c2144f909669fbee00078afb7
+--start 1343
+--sim-load-config finish-tape=1

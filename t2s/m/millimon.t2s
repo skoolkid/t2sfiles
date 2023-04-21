@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Millimon.tzx.zip
+millimon.z80
+--sim-load
+--tape-name "Millimon.tzx"
+--tape-sum 0b19a53df96c47da2852bc714f70d8be
+--start 1343
+--sim-load-config finish-tape=1

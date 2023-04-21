@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MasterCutler.tzx.zip
+master-cutler.z80
+--sim-load
+--tape-name "Master Cutler.tzx"
+--tape-sum ea8c37e28a3550ccaabe69e01551e073
+--start 1343
+--sim-load-config finish-tape=1

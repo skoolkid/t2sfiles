@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/ManicMuslim.tzx.zip
+manic-muslim.z80
+--sim-load
+--tape-name "Manic Muslim.tzx"
+--tape-sum e3df87f9d0e9141eccc4fefe31280668
+--start 1343
+--sim-load-config finish-tape=1

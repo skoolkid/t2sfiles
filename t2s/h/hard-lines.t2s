@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/h/HardLines.tzx.zip
+hard-lines.z80
+--sim-load
+--tape-name "Hard Lines.tzx"
+--tape-sum af9906281f3541302c483d978c7f83e7
+--start 1343
+--sim-load-config finish-tape=1

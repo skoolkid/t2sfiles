@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/j/Juggler.tzx.zip
+juggler.z80
+--sim-load
+--tape-name "Juggler.tzx"
+--tape-sum a00d35c4424e2d771fe923fbde2f2262
+--start 1343
+--sim-load-config finish-tape=1

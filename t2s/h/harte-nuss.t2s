@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/h/HarteNuss.tzx.zip
+harte-nuss.z80
+--sim-load
+--tape-name "HarteNuss.tzx"
+--tape-sum 7787d428ebed307e783792d6c7a3046f
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MasterMariner.tzx.zip
+master-mariner.z80
+--sim-load
+--tape-name "Master Mariner.tzx"
+--tape-sum 8157dc22acb772a32fd8ba12650e44be
+--start 1343
+--sim-load-config finish-tape=1

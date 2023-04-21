@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/l/LostOverBermuda.tzx.zip
+lost-over-bermuda.z80
+--sim-load
+--tape-name "Lost Over Bermuda.tzx"
+--tape-sum 9d6f5a6bb25fe74e2baa44db85fc754b
+--start 1343
+--sim-load-config finish-tape=1

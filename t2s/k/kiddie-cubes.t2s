@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/k/KiddieCubes.tzx.zip
+kiddie-cubes.z80
+--sim-load
+--tape-name "Dots.tzx"
+--tape-sum e976e0f2866e72bc1f11befe094e91c8
+--start 1343
+--sim-load-config finish-tape=1

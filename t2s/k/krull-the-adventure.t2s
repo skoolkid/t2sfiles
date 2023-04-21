@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/k/KrullTheAdventure.tzx.zip
+krull-the-adventure.z80
+--sim-load
+--tape-name "KrullTheAdventure.tzx"
+--tape-sum 70f7843b00c0d843553a88246cc7a0ea
+--start 1343
+--sim-load-config finish-tape=1

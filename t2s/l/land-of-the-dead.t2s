@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/l/LandOfTheDead.tzx.zip
+land-of-the-dead.z80
+--sim-load
+--tape-name "Land Of The Dead.tzx"
+--tape-sum 2b5794bc28ab941980f4f0cb41f94991
+--start 1343
+--sim-load-config finish-tape=1

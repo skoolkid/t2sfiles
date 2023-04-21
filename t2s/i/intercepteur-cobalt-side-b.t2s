@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/i/IntercepteurCobalt.tzx.zip
+intercepteur-cobalt-side-b.z80
+--sim-load
+--tape-name "Intercepteur Cobalt - Side B.tzx"
+--tape-sum c76609aa517b028c5914a7b3b8970c21
+--start 1343
+--sim-load-config finish-tape=1

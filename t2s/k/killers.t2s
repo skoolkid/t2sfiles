@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/k/Killers.tzx.zip
+killers.z80
+--sim-load
+--tape-name "Killers.tzx"
+--tape-sum b014533aa0abfcfb9618f678e75a4b63
+--start 1343
+--sim-load-config finish-tape=1

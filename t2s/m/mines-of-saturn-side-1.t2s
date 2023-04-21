@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MinesOfSaturn.tzx.zip
+mines-of-saturn-side-1.z80
+--sim-load
+--tape-name "Mines Of Saturn - Side 1.tzx"
+--tape-sum a49fb8170b3232a236e127d49081bcdf
+--start 1343
+--sim-load-config finish-tape=1

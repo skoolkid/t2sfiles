@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/h/Hetty.tzx.zip
+hetty.z80
+--sim-load
+--tape-name "Hetty.tzx"
+--tape-sum 6aac3ccc5c7b115cac37587bf6e9fdaf
+--start 1343
+--sim-load-config finish-tape=1

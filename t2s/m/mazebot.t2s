@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Mazebot.tzx.zip
+mazebot.z80
+--sim-load
+--tape-name "Mazebot.tzx"
+--tape-sum e0460ef9c093aea7acf56162fbcef5d9
+--start 1343
+--sim-load-config finish-tape=1

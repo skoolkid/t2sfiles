@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/l/LaserLord.tzx.zip
+laser-lord.z80
+--sim-load
+--tape-name "Laser Lord.tzx"
+--tape-sum 20ce7bd206acf24adbc2b7278332b42b
+--start 1343
+--sim-load-config finish-tape=1

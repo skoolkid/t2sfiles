@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MazeDeathRace.tzx.zip
+maze-death-race.z80
+--sim-load
+--tape-name "Maze Death Race.tzx"
+--tape-sum 0d454f9baf96f3d3d0ebe24a9c6ce867
+--start 1343
+--tape-stop 10
+--sim-load-config finish-tape=1

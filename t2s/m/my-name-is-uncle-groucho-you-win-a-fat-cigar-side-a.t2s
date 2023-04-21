@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MyNameIsUncleGroucho...YouWinAFatCigar.tzx.zip
+my-name-is-uncle-groucho-you-win-a-fat-cigar-side-a.z80
+--sim-load
+--tape-name "Groucho - Side A.tzx"
+--tape-sum 7d5198a81564bc7c0385ff3345e3f12c
+--start 1343
+--sim-load-config finish-tape=1

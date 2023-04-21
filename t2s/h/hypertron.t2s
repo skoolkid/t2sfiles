@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/h/Hypertron.tzx.zip
+hypertron.z80
+--sim-load
+--tape-name "Hypertron.tzx"
+--tape-sum 8f36b62e4c22f938eefff90438d9258d
+--start 1343
+--sim-load-config finish-tape=1

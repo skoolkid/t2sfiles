@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MageCage.tzx.zip
+mage-cage.z80
+--sim-load
+--tape-name "Mage Cage.tzx"
+--tape-sum f20ee5a8aac3c3b073cdd6e58ddd0244
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/i/Inkosi.tzx.zip
+inkosi.z80
+--sim-load
+--tape-name "Inkosi.tzx"
+--tape-sum 616bc280be7782fb09c953156e8c32b6
+--start 1343
+--sim-load-config finish-tape=1

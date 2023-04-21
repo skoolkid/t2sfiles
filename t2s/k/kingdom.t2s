@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/k/Kingdom.tzx.zip
+kingdom.z80
+--sim-load
+--tape-name "Kingdom.tzx"
+--tape-sum 5b619f776e3d0fc50865e8fef36057ba
+--start 1343
+--sim-load-config finish-tape=1
