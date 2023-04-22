@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SpectrumForthGame.tzx.zip
+spectrum-forth-game-48k.z80
+--sim-load
+--tape-name "Spectrum Forth Game - 48k.tzx"
+--tape-sum 2f7ab31f596861a68a484c93da81d81a
+--start 1343
+--tape-stop 8
+--sim-load-config finish-tape=1

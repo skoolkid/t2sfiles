@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SpaceResque.tzx.zip
+space-resque.z80
+--sim-load
+--tape-name "Space Resque.tzx"
+--tape-sum 938517570f871d0e47bfea001b555164
+--start 1343
+--sim-load-config finish-tape=1

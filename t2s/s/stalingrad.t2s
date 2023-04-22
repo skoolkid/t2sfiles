@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Stalingrad.tzx.zip
+stalingrad.z80
+--sim-load
+--tape-name "Stalingrad.tzx"
+--tape-sum cc9fc75503df37a5ac8017e1fcf05fdf
+--start 1343
+--sim-load-config finish-tape=1

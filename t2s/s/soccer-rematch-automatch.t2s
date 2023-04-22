@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SoccerRematch.tzx.zip
+soccer-rematch-automatch.z80
+--sim-load
+--tape-name "Soccer Rematch - Automatch - Side 2.tzx"
+--tape-sum bbd2c45ca88da38651b0cca869cc1aa9
+--start 1343
+--sim-load-config finish-tape=1

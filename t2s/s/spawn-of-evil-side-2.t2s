@@ -1,7 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SpawnOfEvil.tzx.zip
-spawn-of-evil-side-1.z80
+spawn-of-evil-side-2.z80
 --sim-load
---tape-name "3D Spawn Of Evil - Side 1.tzx"
---tape-sum 175a28e574680d3243bc3057da6e9521
+--tape-name "3D Spawn Of Evil - Side 2.tzx"
+--tape-sum b52e685721d66b4e68982074baf3a3db
 --start 1343
 --sim-load-config finish-tape=1

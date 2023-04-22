@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SpectralHangman.tzx.zip
+spectral-hangman.z80
+--sim-load
+--tape-name "Spectral Hangman.tzx"
+--tape-sum 76098cefe0ae85e5a94a8bb70395d718
+--start 1343
+--sim-load-config finish-tape=1

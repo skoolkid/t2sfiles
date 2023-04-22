@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SpaceFright.tzx.zip
+space-fright.z80
+--sim-load
+--tape-name "Space Fright.tzx"
+--tape-sum 54eab8bbd1a34a3e85c76a28d5a081a1
+--start 1343
+--sim-load-config finish-tape=1

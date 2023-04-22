@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SpectrumGalaxians.tzx.zip
+spectrum-galaxians.z80
+--sim-load
+--tape-name "Spectrum Galaxians.tzx"
+--tape-sum c9ad3e76839f4052e8fb16081f18495e
+--start 1343
+--tape-stop 3
+--sim-load-config finish-tape=1

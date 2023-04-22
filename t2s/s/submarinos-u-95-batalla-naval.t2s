@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SubmarinosU-95BatallaNaval.tzx.zip
+submarinos-u-95-batalla-naval.z80
+--sim-load
+--tape-name "Submarinos U-95 Batalla Naval.tzx"
+--tape-sum edd0f170afdf69b800d2417d41676c33
+--start 1343
+--tape-stop 8
+--sim-load-config finish-tape=1

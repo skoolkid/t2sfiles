@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/StocksAndShares.tzx.zip
+stocks-and-shares.z80
+--sim-load
+--tape-name "Stocks And Shares.tzx"
+--tape-sum 04389c34b6f110ab535da8e591c4d934
+--start 1343
+--sim-load-config finish-tape=1

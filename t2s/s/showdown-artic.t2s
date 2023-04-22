@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Showdown.tzx.zip
+showdown-artic.z80
+--sim-load
+--tape-name "Show-Down.tzx"
+--tape-sum b9dfba331ccf054fb1cbf384f5989f6e
+--start 1343
+--sim-load-config finish-tape=1

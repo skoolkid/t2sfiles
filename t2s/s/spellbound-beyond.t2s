@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Spellbound.tzx.zip
+spellbound-beyond.z80
+--sim-load
+--tape-name "Spellbound (Beyond).tzx"
+--tape-sum b1456a9cd7778df9252d4384d2de3c01
+--start 1343
+--sim-load-config finish-tape=1

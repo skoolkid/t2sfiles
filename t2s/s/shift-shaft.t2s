@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/ShiftShaft.tzx.zip
+shift-shaft.z80
+--sim-load
+--tape-name "Shift Shaft.tzx"
+--tape-sum 180a3881d875f130506ef69df367ce4d
+--start 1343
+--sim-load-config finish-tape=1

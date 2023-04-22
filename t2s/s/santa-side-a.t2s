@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Santa.tzx.zip
+santa-side-a.z80
+--sim-load
+--tape-name "Santa - Side A.tzx"
+--tape-sum d5e916fb375fe99ee42c896f2b99db7d
+--start 1343
+--sim-load-config finish-tape=1

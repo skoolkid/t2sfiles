@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Sorcerer.tzx.zip
+sorcerer.z80
+--sim-load
+--tape-name "The Sorcerer.tzx"
+--tape-sum 594b833a6595521b60cc9e5bb9f6b595
+--start 1343
+--sim-load-config finish-tape=1

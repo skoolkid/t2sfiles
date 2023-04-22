@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SuperLeague.tzx.zip
+super-league-cross-software.z80
+--sim-load
+--tape-name "Super League.tzx"
+--tape-sum dfb530e628f021086e8b815d46551589
+--start 1343
+--sim-load-config finish-tape=1

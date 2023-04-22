@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Speedway-TeamChampionship-1960.tzx.zip
+speedway-team-championship-1960-provincial-league.z80
+--sim-load
+--tape-name "Speedway - Team Championship - 1960 Provincial League.tzx"
+--tape-sum b21b9e7f13e3e091e6ec5babbc69d4cc
+--start 1343
+--sim-load-config finish-tape=1

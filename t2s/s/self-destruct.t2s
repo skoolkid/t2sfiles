@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SelfDestruct.tzx.zip
+self-destruct.z80
+--sim-load
+--tape-name "Self Destruct.tzx"
+--tape-sum bcfa84c34646136c8a4ec7631350f0e7
+--start 1343
+--sim-load-config finish-tape=1

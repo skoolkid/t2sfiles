@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/StarQuest.tzx.zip
+star-quest-breadhill.z80
+--sim-load
+--tape-name "Star Quest (Breadhill).tzx"
+--tape-sum d5363c8f6eb5d91f2798642314154518
+--start 1343
+--sim-load-config finish-tape=1

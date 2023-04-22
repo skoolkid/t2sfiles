@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Solitaire.tzx.zip
+solitaire-ccs.z80
+--sim-load
+--tape-name "Solitaire (CCS).tzx"
+--tape-sum cb445863e80c0513fa0f5cd7610a6fc2
+--start 1343
+--sim-load-config finish-tape=1

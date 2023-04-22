@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Star.tzx.zip
+star.z80
+--sim-load
+--tape-name "star.tzx"
+--tape-sum c56407e0d04033555aa9398140c24a65
+--start 1343
+--sim-load-config finish-tape=1

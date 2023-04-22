@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SkyDiver.tzx.zip
+sky-diver.z80
+--sim-load
+--tape-name "Sky Diver.tzx"
+--tape-sum 984870f37e2a3068f358947d2afdb257
+--start 1343
+--sim-load-config finish-tape=1

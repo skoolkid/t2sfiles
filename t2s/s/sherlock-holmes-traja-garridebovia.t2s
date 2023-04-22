@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SherlockHolmes-TrajaGarridebovia.tzx.zip
+sherlock-holmes-traja-garridebovia.z80
+--sim-load
+--tape-name "HOLMES.TZX"
+--tape-sum 0277f919f1f424a83bc8220d66873c0a
+--start 1343
+--sim-load-config finish-tape=1
