@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/v/Valkyrie17.tzx.zip
+valkyrie-17.z80
+--sim-load
+--tape-name "Valkyrie 17.tzx"
+--tape-sum fcdce9c94ba1b539f02a93d1a716f733
+--start 1343
+--tape-stop 10
+--sim-load-config finish-tape=1

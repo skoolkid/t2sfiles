@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/u/Uno.tzx.zip
+uno.z80
+--sim-load
+--tape-name "Uno.tzx"
+--tape-sum e5af8f92441d3fda8673aec761024b49
+--start 1343
+--sim-load-config finish-tape=1

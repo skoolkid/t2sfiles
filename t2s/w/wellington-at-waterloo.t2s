@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/w/WellingtonAtWaterloo.tzx.zip
+wellington-at-waterloo.z80
+--sim-load
+--tape-name "Wellington At Waterloo.tzx"
+--tape-sum 82bddfdc1ec4c23124ddfdba6c766643
+--start 1343
+--sim-load-config finish-tape=1

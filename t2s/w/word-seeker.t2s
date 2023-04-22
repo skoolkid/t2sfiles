@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/w/WordSeeker.tzx.zip
+word-seeker.z80
+--sim-load
+--tape-name "Word Seeker.tzx"
+--tape-sum bcbd0bf85b5a12aba89d4298ace641c8
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/w/WizardsCastle.tzx.zip
+wizards-castle.z80
+--sim-load
+--tape-name "Wizard's Den.tzx"
+--tape-sum 3c8f95efca2a640fdbcaf48203819ed1
+--start 1343
+--tape-stop 5
+--sim-load-config finish-tape=1

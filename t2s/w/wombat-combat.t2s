@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/w/WombatCombat.tzx.zip
+wombat-combat.z80
+--sim-load
+--tape-name "Wombat Combat.tzx"
+--tape-sum 8462be58f4ba376959a73f227d251a3a
+--start 1343
+--sim-load-config finish-tape=1

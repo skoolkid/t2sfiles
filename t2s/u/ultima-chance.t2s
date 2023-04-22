@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/u/UltimaChance.tzx.zip
+ultima-chance.z80
+--sim-load
+--tape-name "UltimaChance.tzx"
+--tape-sum 5ddc40d220a785b3953c69fd09d212c1
+--start 1343
+--sim-load-config finish-tape=1

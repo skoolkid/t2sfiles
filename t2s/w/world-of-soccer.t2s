@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/w/WorldOfSoccer.tzx.zip
+world-of-soccer.z80
+--sim-load
+--tape-name "World Of Soccer.tzx"
+--tape-sum e427593e57fc051f635a67696c918e55
+--start 1343
+--sim-load-config finish-tape=1

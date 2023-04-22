@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/w/WorldOfGrandPrixRacing-1993.tzx.zip
+world-of-grand-prix-racing-1993.z80
+--sim-load
+--tape-name "The World Of Grand Prix Racing - 1993.tzx"
+--tape-sum 8cb9d733e38a49137212c790ac94e784
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/w/Walls.tzx.zip
+walls.z80
+--sim-load
+--tape-name "Bricks.tzx"
+--tape-sum 63dc16f776177aff3d34e9661dc978d3
+--start 1343
+--sim-load-config finish-tape=1

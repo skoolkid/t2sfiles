@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/w/WorldHeavyweightBoxing.tzx.zip
+world-heavyweight-boxing.z80
+--sim-load
+--tape-name "World Heavyweight Boxing.tzx"
+--tape-sum 83f0cf734d93c7ee74630c9242c3c3bf
+--start 1343
+--sim-load-config finish-tape=1

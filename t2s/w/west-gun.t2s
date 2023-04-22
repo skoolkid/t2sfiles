@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/w/WestGun.tzx.zip
+west-gun.z80
+--sim-load
+--tape-name "West Gun.tzx"
+--tape-sum b002f99b96a33f64b7da0e2ffe59990e
+--start 1343
+--sim-load-config finish-tape=1

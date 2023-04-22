@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/z/ZahadaBermudskehoTrojuhelniku.tzx.zip
+zahada-bermudskeho-trojuhelniku.z80
+--sim-load
+--tape-name "ZAHADA.TZX"
+--tape-sum 259c8c6544c1303df8672a65c59c2988
+--start 1343
+--sim-load-config finish-tape=1

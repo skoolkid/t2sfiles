@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/w/Worm.tzx.zip
+worm-josephine-downer.z80
+--sim-load
+--tape-name "Worm.tzx"
+--tape-sum 7291e9a13c99a8214ffff1e44c8b2549
+--start 1343
+--sim-load-config finish-tape=1

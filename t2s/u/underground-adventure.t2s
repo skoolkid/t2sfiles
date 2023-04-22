@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/u/UndergroundAdventure.tzx.zip
+underground-adventure.z80
+--sim-load
+--tape-name "Underground Adventure.tzx"
+--tape-sum 57116e61f56e0a5fa0d8caf85ca68ffb
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/u/UnMundoFeliz.tzx.zip
+un-mundo-feliz.z80
+--sim-load
+--tape-name "Un Mundo Feliz.tzx"
+--tape-sum 4c6b3359cf18ad77b06804e1aea4f328
+--start 1343
+--sim-load-config finish-tape=1

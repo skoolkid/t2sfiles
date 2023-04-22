@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/w/Willibald.tzx.zip
+willibald.z80
+--sim-load
+--tape-name "Willibald.tzx"
+--tape-sum 0c77e72c33dc57fd3f3c04fced369205
+--start 1343
+--sim-load-config finish-tape=1

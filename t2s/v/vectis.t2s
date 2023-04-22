@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/v/Vectis.tzx.zip
+vectis.z80
+--sim-load
+--tape-name "Vectis3.tzx"
+--tape-sum 59b9ec6f94ea26a84be8d12e081081cb
+--start 1343
+--sim-load-config finish-tape=1

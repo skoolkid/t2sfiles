@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/w/WorldCup1986.tzx.zip
+world-cup-1986.z80
+--sim-load
+--tape-name "World Cup - Mexico 86.tzx"
+--tape-sum 7d03c7923f28095e3fae0a9aef754a54
+--start 1343
+--sim-load-config finish-tape=1
