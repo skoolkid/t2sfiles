@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Pentzy.tzx.zip
+pentzy.z80
+--sim-load
+--tape-name "pentzy.tzx"
+--tape-sum a224c3cc1e472f88e1c2c301007ec091
+--start 1343
+--sim-load-config finish-tape=1

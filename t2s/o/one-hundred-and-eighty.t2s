@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/o/OneHundredAndEighty.tzx.zip
+one-hundred-and-eighty.z80
+--sim-load
+--tape-name "180.tzx"
+--tape-sum 05fa551000cc5e2c310716c214d1f6a4
+--start 1343
+--tape-stop 7
+--sim-load-config finish-tape=1

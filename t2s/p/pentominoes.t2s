@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Pentominoes.tzx.zip
+pentominoes.z80
+--sim-load
+--tape-name "Pentominoes.tzx"
+--tape-sum 0cf665f9c44d2f71084fb90776b28105
+--start 1343
+--sim-load-config finish-tape=1

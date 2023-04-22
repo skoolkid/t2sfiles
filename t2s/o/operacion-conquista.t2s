@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/o/OperacionConquista.tzx.zip
+operacion-conquista.z80
+--sim-load
+--tape-name "Operacion Conquista.tzx"
+--tape-sum 3cf3c1a2d4f0385599d20b3f0e92a734
+--start 1343
+--sim-load-config finish-tape=1

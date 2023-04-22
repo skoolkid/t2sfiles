@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RelatosDeAhion.tzx.zip
+relatos-de-ahion.z80
+--sim-load
+--tape-name "Relatos De Ahion.tzx"
+--tape-sum c8819dbd84f5ca2d459d97a8391a769c
+--start 1343
+--sim-load-config finish-tape=1

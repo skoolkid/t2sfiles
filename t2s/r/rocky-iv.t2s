@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RockyIV.tzx.zip
+rocky-iv.z80
+--sim-load
+--tape-name "RockyIV.tzx"
+--tape-sum 21eca0f020b01843e30d0121af267e12
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/o/OperationCerberus.tzx.zip
+operation-cerberus.z80
+--sim-load
+--tape-name "Operation Cerberus.tzx"
+--tape-sum b880392e3203ec1dedd1746da2c4ec71
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/q/Quincy.tzx.zip
+quincy.z80
+--sim-load
+--tape-name "Quincy.tzx"
+--tape-sum 05ee47b5416e869fa369ec07084621cd
+--start 1343
+--sim-load-config finish-tape=1

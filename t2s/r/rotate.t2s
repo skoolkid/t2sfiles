@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/r/Rotate.tzx.zip
+rotate.z80
+--sim-load
+--tape-name "Rotate.tzx"
+--tape-sum 94f5f2a9aa0542c26c8b7b84dff527d2
+--start 1343
+--sim-load-config finish-tape=1

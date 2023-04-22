@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RTCExeter.tzx.zip
+rtc-exeter.z80
+--sim-load
+--tape-name "Rail Traffic Control Exeter.tzx"
+--tape-sum 7191422caf936180f80530e19d9e5f8f
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RugbyFifteen.tzx.zip
+rugby-fifteen.z80
+--sim-load
+--tape-name "Rugby Fifteen.tzx"
+--tape-sum 36de1d703d49ec2b67cb05b9a47bc8f2
+--start 1343
+--sim-load-config finish-tape=1

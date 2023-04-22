@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RabbitRabbit.tzx.zip
+rabbit-rabbit.z80
+--sim-load
+--tape-name "Rabbit Rabbit.tzx"
+--tape-sum 91f979789431db52b007650c9767a442
+--start 1343
+--sim-load-config finish-tape=1

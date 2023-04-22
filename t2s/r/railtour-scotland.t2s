@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RailtourScotland.tzx.zip
+railtour-scotland.z80
+--sim-load
+--tape-name "Rail Tour Scotland.tzx"
+--tape-sum 43cb387b5761520d2be0a52fcd7be861
+--start 1343
+--sim-load-config finish-tape=1

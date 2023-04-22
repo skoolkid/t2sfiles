@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Pirate.tzx.zip
+pirate-side-1.z80
+--sim-load
+--tape-name "Pirate - Side 1.tzx"
+--tape-sum dee181977c8d87fde2b0475c92882d91
+--start 1343
+--sim-load-config finish-tape=1

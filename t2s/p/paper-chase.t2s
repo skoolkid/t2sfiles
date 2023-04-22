@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PaperChase.tzx.zip
+paper-chase.z80
+--sim-load
+--tape-name "Paper Chase.tzx"
+--tape-sum 7cc978075de608ce0b98c3c4283df77d
+--start 1343
+--sim-load-config finish-tape=1

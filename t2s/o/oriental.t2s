@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/o/Oriental.tzx.zip
+oriental.z80
+--sim-load
+--tape-name "Oriental.tzx"
+--tape-sum 6f28f305d6da023fd8b2084dd5e598d9
+--start 1343
+--sim-load-config finish-tape=1

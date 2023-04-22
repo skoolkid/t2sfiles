@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/o/Opposition.tzx.zip
+opposition.z80
+--sim-load
+--tape-name "Opposition.tzx"
+--tape-sum d1e897790390ad9ab2af824a702dc95f
+--start 1343
+--sim-load-config finish-tape=1

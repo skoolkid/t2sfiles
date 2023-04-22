@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/r/Recovery.tzx.zip
+recovery.z80
+--sim-load
+--tape-name "RECOVERY.TZX"
+--tape-sum b75d8bbca594e01f14c73e8749ac3e52
+--start 53178

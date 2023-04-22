@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PitmanSeven.tzx.zip
+pitman-seven.z80
+--sim-load
+--tape-name "Pitman Seven.tzx"
+--tape-sum 00f7b39be5b905091f413176f03f8517
+--start 1343
+--sim-load-config finish-tape=1

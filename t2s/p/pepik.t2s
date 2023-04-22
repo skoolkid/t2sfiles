@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Pepik.tzx.zip
+pepik.z80
+--sim-load
+--tape-name "pepik.tzx"
+--tape-sum ae44eebd5d1b3d52a6f0b5742d654a7d
+--start 1343
+--sim-load-config finish-tape=1

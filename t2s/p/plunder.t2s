@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Plunder.tzx.zip
+plunder.z80
+--sim-load
+--tape-name "Plunder.tzx"
+--tape-sum 037c4d6a1bd19bde60427c921f83a452
+--start 1343
+--sim-load-config finish-tape=1

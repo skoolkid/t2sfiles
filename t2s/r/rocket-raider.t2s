@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RocketRaider.tzx.zip
+rocket-raider.z80
+--sim-load
+--tape-name "Rocket Raider.tzx"
+--tape-sum a3f6f9e00bab95647b4b52df1ab5f902
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/r/Redweed.tzx.zip
+red-weed.z80
+--sim-load
+--tape-name "Red Weed.tzx"
+--tape-sum 51ee145b5c7358a752530d01aeb4fb9d
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/n/NextWar.tzx.zip
+next-war.z80
+--sim-load
+--tape-name "Next War.tzx"
+--tape-sum 89f3c2f01c623269a1dc5927be46cefc
+--start 1343
+--sim-load-config finish-tape=1

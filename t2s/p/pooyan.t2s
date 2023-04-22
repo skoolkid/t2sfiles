@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Pooyan.tzx.zip
+pooyan.z80
+--sim-load
+--tape-name "Pooyan.tzx"
+--tape-sum 6a2d441b164d9e0e9bc5540d428cd8e5
+--start 1343
+--sim-load-config finish-tape=1

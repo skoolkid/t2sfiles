@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RoxIII.tzx.zip
+rox-iii.z80
+--sim-load
+--tape-name "Rox III.tzx"
+--tape-sum ea85de59a45c86ccf4b89f347be48b09
+--start 1343
+--sim-load-config finish-tape=1

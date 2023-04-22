@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RTCDoncaster.tzx.zip
+rtc-doncaster.z80
+--sim-load
+--tape-name "Rail Traffic Control Doncaster.tzx"
+--tape-sum 2c608181f8baa84342efb71d449b3e56
+--start 1343
+--sim-load-config finish-tape=1

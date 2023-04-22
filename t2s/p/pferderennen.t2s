@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Pferderennen.tzx.zip
+pferderennen.z80
+--sim-load
+--tape-name "Pferde.tzx"
+--tape-sum 0dedf305045fd7f2310fc6b67c3e3544
+--start 1343
+--sim-load-config finish-tape=1

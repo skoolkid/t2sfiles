@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/o/Obrazky.tzx.zip
+obrazky.z80
+--sim-load
+--tape-name "obrazky.tzx"
+--tape-sum d5de5c394adf812ecb48f1788056a7f7
+--start 1343
+--tape-stop 14
+--sim-load-config finish-tape=1

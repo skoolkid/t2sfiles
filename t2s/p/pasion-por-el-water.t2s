@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PasionPorElWater.tzx.zip
+pasion-por-el-water.z80
+--sim-load
+--tape-name "Pasion Por El Water.tzx"
+--tape-sum 220f00e81be23dc73ab33f1112e773e0
+--start 1343
+--sim-load-config finish-tape=1

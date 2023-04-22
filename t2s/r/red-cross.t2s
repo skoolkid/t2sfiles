@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RedCross.tzx.zip
+red-cross.z80
+--sim-load
+--tape-name "Red Cross.tzx"
+--tape-sum 42998f2bf0b5b7788553943dbdfff21a
+--start 1343
+--sim-load-config finish-tape=1

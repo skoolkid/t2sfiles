@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/o/OnTheBench.tzx.zip
+on-the-bench.z80
+--sim-load
+--tape-name "On The Bench.tzx"
+--tape-sum 3c1be087765ec4359e8e3e482c3b3f99
+--start 1343
+--tape-stop 11
+--sim-load-config finish-tape=1

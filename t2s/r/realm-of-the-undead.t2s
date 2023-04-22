@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RealmOfTheUndead.tzx.zip
+realm-of-the-undead.z80
+--sim-load
+--tape-name "Realm Of The Undead.tzx"
+--tape-sum 49f195a61a39b48829769c8e11e61c97
+--start 1343
+--sim-load-config finish-tape=1

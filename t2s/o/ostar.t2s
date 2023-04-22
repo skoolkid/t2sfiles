@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/o/Ostar.tzx.zip
+ostar.z80
+--sim-load
+--tape-name "Ostar.tzx"
+--tape-sum a3e0143eac118f6e6decb5acfd33fb72
+--start 1343
+--sim-load-config finish-tape=1

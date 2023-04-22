@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RTCLimeStreet.tzx.zip
+rtc-lime-street.z80
+--sim-load
+--tape-name "RTC Lime Street.tzx"
+--tape-sum ce9eeb81cf70115f26f431c83b630480
+--start 1343
+--sim-load-config finish-tape=1

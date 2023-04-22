@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PirxII.tzx.zip
+pirx-ii.z80
+--sim-load
+--tape-name "pirx2.tzx"
+--tape-sum 352070ec6eaad738476f269906fd855b
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Polaris.tzx.zip
+polaris.z80
+--sim-load
+--tape-name "Polaris.tzx"
+--tape-sum e5cd3c9943c2616694e31f45fd7b4e7a
+--start 1343
+--sim-load-config finish-tape=1

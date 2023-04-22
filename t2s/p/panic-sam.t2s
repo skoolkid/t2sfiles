@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PanicSam.tzx.zip
+panic-sam.z80
+--sim-load
+--tape-name "PanicSam.tzx"
+--tape-sum 580c44b9c9afd54457abb1c5aee00949
+--start 1343
+--sim-load-config finish-tape=1

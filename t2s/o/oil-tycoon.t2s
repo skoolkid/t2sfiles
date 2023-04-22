@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/o/OilTycoon.tzx.zip
+oil-tycoon.z80
+--sim-load
+--tape-name "Oil Tycoon.tzx"
+--tape-sum d0509bcaf54c07873c48635872936c3c
+--start 1343
+--sim-load-config finish-tape=1
