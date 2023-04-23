@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/ThirdWorldWar.tzx.zip
+third-world-war.z80
+--sim-load
+--tape-name "Third World War.tzx"
+--tape-sum 2d986cab3fd7d84f3426a3bd2319a0bd
+--start 1343
+--sim-load-config finish-tape=1

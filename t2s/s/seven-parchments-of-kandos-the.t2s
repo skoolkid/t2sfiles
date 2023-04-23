@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SevenParchmentsOfKandosThe.tzx.zip
+seven-parchments-of-kandos-the.z80
+--sim-load
+--tape-name "The Seven Parchments Of Kandos.tzx"
+--tape-sum 6e804de7bb750f9104967fe527c72538
+--start 1343
+--sim-load-config finish-tape=1

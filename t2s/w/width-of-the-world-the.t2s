@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/w/WidthOfTheWorldThe.tzx.zip
+width-of-the-world-the.z80
+--sim-load
+--tape-name "Width Of The World.tzx"
+--tape-sum ab915df7516a4c9114a44e65923667b3
+--start 1343
+--sim-load-config finish-tape=1

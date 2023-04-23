@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TrebleChampions.tzx.zip
+treble-champions.z80
+--sim-load
+--tape-name "Treble Champions.tzx"
+--tape-sum ea49a60d5e38e18727da1dae0d8b9670
+--start 1343
+--sim-load-config finish-tape=1

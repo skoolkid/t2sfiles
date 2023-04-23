@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/f/FourthDimensionThe.tzx.zip
+fourth-dimension-the.z80
+--sim-load
+--tape-name "The Fourth Dimension.tzx"
+--tape-sum 0668e8c85179a595a3ecfc0933e519f4
+--start 1343
+--sim-load-config finish-tape=1

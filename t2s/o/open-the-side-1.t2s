@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/o/OpenThe.tzx.zip
+open-the-side-1.z80
+--sim-load
+--tape-name "The Open - Side 1.tzx"
+--tape-sum 4a4ab3b00674de78e1567a7c1c11f865
+--start 1343
+--sim-load-config finish-tape=1

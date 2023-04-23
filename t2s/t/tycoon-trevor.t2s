@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TycoonTrevor.tzx.zip
+tycoon-trevor.z80
+--sim-load
+--tape-name "Tycoon Trevor.tzx"
+--tape-sum 620702cdf71afb23a18529d9b12413cf
+--start 22243

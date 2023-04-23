@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/g/GoldenChaliceThe.tzx.zip
+golden-chalice-the.z80
+--sim-load
+--tape-name "Golden Chalice.tzx"
+--tape-sum 152fc4cc30d472d000fb6569f86f6a01
+--start 1343
+--sim-load-config finish-tape=1

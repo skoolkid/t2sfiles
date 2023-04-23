@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CastleThe.tzx.zip
+castle-the.z80
+--sim-load
+--tape-name "The Castle.tzx"
+--tape-sum a2ae92999a9045f5a3b599113d8de567
+--start 1343
+--sim-load-config finish-tape=1

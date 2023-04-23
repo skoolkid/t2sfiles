@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TouristTrap.tzx.zip
+tourist-trap.z80
+--sim-load
+--tape-name "Tourist Trap.tzx"
+--tape-sum 615ed34fd644c3d5d2aac548e6b7d08d
+--start 1343
+--sim-load-config finish-tape=1

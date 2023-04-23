@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TorpedoShoot.tzx.zip
+torpedo-shoot.z80
+--sim-load
+--tape-name "Torpedo Shoot.tzx"
+--tape-sum 993233363d7e35db5acf675e07dbbbec
+--start 1343
+--sim-load-config finish-tape=1

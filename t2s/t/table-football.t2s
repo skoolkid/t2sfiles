@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TableFootball.tzx.zip
+table-football.z80
+--sim-load
+--tape-name "Table Football.tzx"
+--tape-sum f1b03a2c19463f48c9a8d44872e9fbc1
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/h/Hitch-HikersGuideToTheGalaxyThe.tzx.zip
+hitch-hikers-guide-to-the-galaxy-the.z80
+--sim-load
+--tape-name "The Hitch Hikers Guide To The Galaxy.tzx"
+--tape-sum 77a97010fce57e2c2f657b9ed98cbc0f
+--start 1343
+--sim-load-config finish-tape=1

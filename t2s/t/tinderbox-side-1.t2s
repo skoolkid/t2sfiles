@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/Tinderbox.tzx.zip
+tinderbox-side-1.z80
+--sim-load
+--tape-name "Tinderbox - Side 1.tzx"
+--tape-sum 13309f34b305e1be3cc0a373764d3901
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TrondheimBors.tzx.zip
+trondheim-bors.z80
+--sim-load
+--tape-name "Trondheim Bors.tzx"
+--tape-sum 14901e6cbc5d0f7c90e0bc86e2baf8b2
+--start 1343
+--sim-load-config finish-tape=1

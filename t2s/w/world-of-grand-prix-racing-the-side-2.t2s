@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/w/WorldOfGrandPrixRacing-1950sAllTimeGreatsThe.tzx.zip
+world-of-grand-prix-racing-the-side-2.z80
+--sim-load
+--tape-name "The World Of Grand Prix Racing - Side 2.tzx"
+--tape-sum 9042f25081662f83a94cf1ac967b54eb
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/g/GeneralThe.tzx.zip
+general-the-side-1.z80
+--sim-load
+--tape-name "The General - Side 1.tzx"
+--tape-sum 9a0d207a30ac74f4ff882443799840b9
+--start 1343
+--sim-load-config finish-tape=1

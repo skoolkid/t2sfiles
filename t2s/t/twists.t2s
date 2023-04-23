@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/Twists.tzx.zip
+twists.z80
+--sim-load
+--tape-name "Twists.tzx"
+--tape-sum 9e90873abbad7fc00b81f457dd71526f
+--start 1343
+--sim-load-config finish-tape=1

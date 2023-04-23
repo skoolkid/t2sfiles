@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SiegeOfDouneCastleThe.tzx.zip
+siege-of-doune-castle-the.z80
+--sim-load
+--tape-name "Siege of Doune Castle, The.tzx"
+--tape-sum 5285b09870a4033e76ae9c376148f155
+--start 1343
+--sim-load-config finish-tape=1

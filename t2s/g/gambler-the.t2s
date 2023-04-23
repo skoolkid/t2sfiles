@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/g/Gambler+Editor.tzx.zip
+gambler-the.z80
+--sim-load
+--tape-name "Gambler (Diamond Games).tzx"
+--tape-sum 16163411a801d5683f8bb0a7474f14f9
+--start 1343
+--tape-stop 22
+--sim-load-config finish-tape=1

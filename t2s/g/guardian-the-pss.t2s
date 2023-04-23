@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/g/GuardianThe.tzx.zip
+guardian-the-pss.z80
+--sim-load
+--tape-name "The Guardian (PSS).tzx"
+--tape-sum e674fa7c7ea22436b1ac03d2d099c71b
+--start 1343
+--sim-load-config finish-tape=1

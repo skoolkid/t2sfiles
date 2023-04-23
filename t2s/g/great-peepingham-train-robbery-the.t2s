@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/g/GreatPeepinghamTrainRobberyThe.tzx.zip
+great-peepingham-train-robbery-the.z80
+--sim-load
+--tape-name "The Great Peepingham Train Robbery.tzx"
+--tape-sum 46210791b37cbbfb3b326f8e9fc0e83c
+--start 1343
+--sim-load-config finish-tape=1

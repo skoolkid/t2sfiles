@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/f/FamousFive1The.tzx.zip
+famous-five-the.z80
+--sim-load
+--tape-name "The Famous Five.tzx"
+--tape-sum 9aa062e9e961f7b8d448055305f0c54f
+--start 1343
+--tape-stop 7
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/w/WarGameThe.tzx.zip
+war-game-the-side-1.z80
+--sim-load
+--tape-name "War Game - Side 1 (Reelax Games).tzx"
+--tape-sum be8860cbf59b898faa6810752ccdfd40
+--start 1343
+--sim-load-config finish-tape=1

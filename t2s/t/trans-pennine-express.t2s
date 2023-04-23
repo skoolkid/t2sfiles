@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/Trans-PennineExpress.tzx.zip
+trans-pennine-express.z80
+--sim-load
+--tape-name "Trans-Pennine.tzx"
+--tape-sum ebb7bcd239d2dfe50cdf1053d0e2bbbb
+--start 1343
+--sim-load-config finish-tape=1

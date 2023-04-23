@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TycoonTheCrosswordBusinessGame.tzx.zip
+tycoon-the-crossword-business-game.z80
+--sim-load
+--tape-name "Tycoon.tzx"
+--tape-sum 9567c1ba608137912676c8776556d3ca
+--start 1343
+--sim-load-config finish-tape=1

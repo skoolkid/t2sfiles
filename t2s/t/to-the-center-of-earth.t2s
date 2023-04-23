@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/ToTheCenterOfEarth.tzx.zip
+to-the-center-of-earth.z80
+--sim-load
+--tape-name "To the Center of Earth.tzx"
+--tape-sum cceb3d6c28f86c7a3fb0c28916fbda8f
+--start 1343
+--sim-load-config finish-tape=1
