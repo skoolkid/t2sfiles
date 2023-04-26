@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Phoenix.tzx.zip
+phoenix-zenobi.z80
+--sim-load
+--tape-name "Phoenix (Zenobi).tzx"
+--tape-sum f92bacd356d87ff0a291a2c20e2bafe4
+--start 29169
+--sim-load-config finish-tape=1

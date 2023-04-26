@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/Tremor.tzx.zip
+tremor.z80
+--sim-load
+--tape-name "Tremor (Americana).tzx"
+--tape-sum b55abe7b9b795d172979f10375d2e88b
+--start 39630

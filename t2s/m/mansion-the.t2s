@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MansionThe.tzx.zip
+mansion-the.z80
+--sim-load
+--tape-name "Mansion(bearb).tzx"
+--tape-sum d0b689a5512d92e5f7f45a91614a7b31
+--start 25000
+--sim-load-config finish-tape=1

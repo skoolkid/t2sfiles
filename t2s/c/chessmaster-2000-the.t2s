@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Chessmaster2000The.tzx.zip
+chessmaster-2000-the.z80
+--sim-load
+--tape-name "Chessmaster 2000 (Dro Soft).tzx"
+--tape-sum b6fcfd8cb2e62d4a2f890785b3d58136
+--start 24027

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Survival.tzx.zip
+survival-central-solutions.z80
+--sim-load
+--tape-name "Survival (Central Solutions).tzx"
+--tape-sum 1eca19b3431e0536a872d94b73a30d9b
+--start 25063

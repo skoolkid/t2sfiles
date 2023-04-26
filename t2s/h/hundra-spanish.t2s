@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/h/Hundra.tzx.zip
+hundra-spanish.z80
+--sim-load
+--tape-name "Hundra (Spanish).tzx"
+--tape-sum ac27ba857e9638e4b73bd0c900bd82e1
+--start 65436

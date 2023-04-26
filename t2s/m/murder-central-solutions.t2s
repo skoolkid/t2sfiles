@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Murder.tzx.zip
+murder-central-solutions.z80
+--sim-load
+--tape-name "Murder (Central Solutions).tzx"
+--tape-sum e48f388642be41d4b79fd4ddd73d0ae5
+--start 25063

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Meltdown.tzx.zip
+meltdown-kerian-uk.z80
+--sim-load
+--tape-name "Meltdown (Kerian UK).tzx"
+--tape-sum a537f58944eee77af1a5ff525e782445
+--start 31150
