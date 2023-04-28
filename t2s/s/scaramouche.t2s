@@ -3,5 +3,5 @@ scaramouche.z80
 --sim-load
 --tape-name "Scaramouche.tzx"
 --tape-sum 330e7b6ee3106f12d256a7874abe273d
---start 23921
---sim-load-config fast-load=0
+--start 23874
+--sim-load-config finish-tape=1
