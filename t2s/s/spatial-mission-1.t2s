@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SpatialMission1.tzx.zip
+spatial-mission-1.z80
+--sim-load
+--tape-name "Spatial Mission 1.tzx"
+--tape-sum 9b624a210779367aa7440420404f16b8
+--start 1343
+--tape-start 5
+--sim-load-config finish-tape=1
