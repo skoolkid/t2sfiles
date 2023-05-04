@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RemovalDeluxe.tap.zip
+removal-deluxe.z80
+--sim-load
+--tape-name "REMOVAL.TAP"
+--tape-sum 08f759f3a463ab9a043e54d2ba90a2d6
+--start 33150
+--sim-load-config fast-load=0
+--sim-load-config contended-in=1

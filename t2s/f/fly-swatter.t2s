@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/f/FlySwatter.tzx.zip
+fly-swatter.z80
+--sim-load
+--tape-name "flywar_ok.tzx"
+--tape-sum 204b146f2d1a4dbe7916bff970fe3d3f
+--start 23891
+--sim-load-config contended-in=1
