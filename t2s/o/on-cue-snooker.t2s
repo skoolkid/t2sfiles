@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/compilations/o/OnCue.tzx.zip
+on-cue-snooker.z80
+--sim-load
+--tape-name "On Cue.TZX"
+--tape-sum 2c6d68d22a2c5e7d08fadc728571539c
+--start 24576

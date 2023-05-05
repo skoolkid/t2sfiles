@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/compilations/l/LasVegas.tzx.zip
+las-vegas-super-nudger.z80
+--sim-load
+--tape-name "Las Vegas.tzx"
+--tape-sum cfc0a1c6016f8cab2175efa50989ce29
+--start 1343
+--sim-load-config finish-tape=1
