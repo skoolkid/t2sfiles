@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/i/Idiliar.tap.zip
+idiliar-p1.z80
+--sim-load
+--tape-name "Idiliar.tap"
+--tape-sum 5344abede61448d517b439883102e26f
+--start 29041
+--tape-stop 11
+--sim-load-config finish-tape=1

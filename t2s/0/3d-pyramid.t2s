@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Pyramid3D.tap.zip
+3d-pyramid.z80
+--sim-load
+--tape-name "PYRAMID3.TAP"
+--tape-sum ec45311c912f603bba2f1f16bb6f55c3
+--start 1343
+--sim-load-config finish-tape=1
+--tape-start 3

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PlayYourCardsRight.tap.zip
+play-your-cards-right-britannia-software.z80
+--sim-load
+--tape-name "PYCR.TAP"
+--tape-sum b97032e28a7980cbba33b51a28783dad
+--start 30000
+--tape-stop 7

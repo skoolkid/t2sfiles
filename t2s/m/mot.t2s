@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Mot.tap.zip
+mot.z80
+--sim-load
+--tape-name "MOT.TAP"
+--tape-sum 0a03a1b4d041d88b1e35ccbf55aa3867
+--start 65269
+--tape-stop 4

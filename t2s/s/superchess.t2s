@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Superchess(Chess)(2.99Classics).tzx.zip
+superchess.z80
+--sim-load
+--tape-name "Chess (299).tzx"
+--tape-sum 9f1e9dc5261d87bd6b0bdc1fabbe15b6
+--start 24780
+--tape-stop 6

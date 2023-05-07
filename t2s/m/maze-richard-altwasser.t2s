@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Maze_2.tzx.zip
+maze-richard-altwasser.z80
+--sim-load
+--tape-name "Maze.tzx"
+--tape-sum 9c8fc729eb99062ccbf0c67fbdcab3f5
+--start 1343
+--sim-load-config finish-tape=1
+--tape-stop 3

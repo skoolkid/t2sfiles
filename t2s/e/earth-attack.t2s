@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/e/EarthAttack.tap.zip
+earth-attack.z80
+--sim-load
+--tape-name "EARTHATT.TAP"
+--tape-sum 4d47c0ee4a6ff850e2f1989dfdac6a5c
+--start 1343
+--sim-load-config finish-tape=1
+--tape-stop 7

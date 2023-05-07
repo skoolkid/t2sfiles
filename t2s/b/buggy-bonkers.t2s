@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BuggyBonkers.tap.zip
+buggy-bonkers.z80
+--sim-load
+--tape-name "BUGGY-BO.TAP"
+--tape-sum 1cd249832a354b99b2b4446196cc85b5
+--start 1343
+--sim-load-config finish-tape=1
+--tape-stop 3

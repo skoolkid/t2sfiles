@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SexPoker.tap.zip
+sex-poker-andreas-niemann.z80
+--sim-load
+--tape-name "SEXPOK_1.TAP"
+--tape-sum f05558deb87fdd5c561344349e32e443
+--start 65000
+--tape-stop 9

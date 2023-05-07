@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TimeForAction(TimeBomb)(YourSinclair).tap.zip
+time-for-action.z80
+--sim-load
+--tape-name "TimeBomb.tap"
+--tape-sum 8f731087862caed24c45df7323d1bb91
+--start 1343
+--sim-load-config finish-tape=1
+--tape-stop 3

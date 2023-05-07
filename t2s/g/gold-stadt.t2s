@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/g/GoldStadt(SunSoft).tap.zip
+gold-stadt.z80
+--sim-load
+--tape-name "GOLDST_1.TAP"
+--tape-sum 41763eee1c39df6dc50793c6e1d73a20
+--start 1343
+--sim-load-config finish-tape=1
+--tape-stop 11

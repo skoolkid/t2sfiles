@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/WarGame.zip
+war-game-abbex-electronics.z80
+--sim-load
+--tape-name "War Game.tzx"
+--tape-sum 0a2b41a16ff0b721a09eb992010a4260
+--start 23325

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/n/NeverendingStoryIIThe.tap.zip
+neverending-story-ii-the.z80
+--sim-load
+--tape-name "NESTORY2.TAP"
+--tape-sum e8b7b74ca02694669f71f7f2e37d6d1e
+--start 23857
+--tape-stop 11

@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/a/Alien_2.tap.zip
+alien-chin.z80
+--sim-load
+--tape-name "ALIENJRS.TAP"
+--tape-sum 61ddc3e5ab03577289a882da33e10c8f
+--start 1343
+--sim-load-config finish-tape=1
+--tape-start 3

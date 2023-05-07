@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Station.tap.zip
+station.z80
+--sim-load
+--tape-name "STATION.TAP"
+--tape-sum ed23a0601e83dce8e658838c4f136ac7
+--start 1343
+--sim-load-config finish-tape=1
+--tape-start 3

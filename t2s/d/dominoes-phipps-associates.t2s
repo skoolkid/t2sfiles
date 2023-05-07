@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/d/Dominoes_4.tap.zip
+dominoes-phipps-associates.z80
+--sim-load
+--tape-name "DOMINOES.TAP"
+--tape-sum 3866ea42cf65f40d95e0985eb597a12c
+--start 1343
+--sim-load-config finish-tape=1
+--tape-stop 5

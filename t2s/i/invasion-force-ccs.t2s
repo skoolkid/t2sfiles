@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/i/InvasionForce_2.tap.zip
+invasion-force-ccs.z80
+--sim-load
+--tape-name "INVFORCE.TAP"
+--tape-sum ceae663582f2b12822234b28f4898058
+--start 1343
+--sim-load-config finish-tape=1
+--tape-stop 9

@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/g/Golf.tap.zip
+golf-abrasco.z80
+--sim-load
+--tape-name "GOLF-ABR.TAP"
+--tape-sum 734a14a3731de46718caf49ff1fe6859
+--start 1343
+--sim-load-config finish-tape=1
+--tape-start 5

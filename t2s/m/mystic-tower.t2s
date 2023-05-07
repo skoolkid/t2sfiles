@@ -1,0 +1,9 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MysticTower.tap.zip
+mystic-tower.z80
+--sim-load
+--tape-name "SIDEA.TAP"
+--tape-sum f9b9cdae97e842e5b182cfbe570802c4
+--start 1343
+--sim-load-config finish-tape=1
+--tape-start 7
+--tape-stop 11

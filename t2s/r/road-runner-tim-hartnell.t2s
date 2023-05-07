@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RoadRunner_2.tap.zip
+road-runner-tim-hartnell.z80
+--sim-load
+--tape-name "ROADRUNN.TAP"
+--tape-sum 9a1078b06e3a4e48fc78c74136cde7c2
+--start 1343
+--sim-load-config finish-tape=1
+--tape-stop 3

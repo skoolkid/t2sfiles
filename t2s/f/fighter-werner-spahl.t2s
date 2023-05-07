@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/f/Fighter.tap.zip
+fighter-werner-spahl.z80
+--sim-load
+--tape-name "FIGHTER.TAP"
+--tape-sum b4112f71dd5e434c1a731b60f2cc0d4f
+--start 1343
+--sim-load-config finish-tape=1
+--tape-stop 5

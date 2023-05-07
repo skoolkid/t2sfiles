@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CricketCaptain_2.tap.zip
+cricket-captain-cult-games.z80
+--sim-load
+--tape-name "CRICKETD.TAP"
+--tape-sum 37ecfebfbb34e778ad49dd49eff33d99
+--start 1343
+--sim-load-config finish-tape=1
+--tape-stop 9

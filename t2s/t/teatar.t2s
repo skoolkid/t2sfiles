@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/Teatar.tap.zip
+teatar.z80
+--sim-load
+--tape-name "TEATAR.TAP"
+--tape-sum 4b8392b9f3121c78ce6745b5bbcf3e45
+--start 60899
+--tape-stop 5

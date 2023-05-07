@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/i/Isotopes.tap.zip
+isotopes.z80
+--sim-load
+--tape-name "IZOTOPES.TAP"
+--tape-sum 1e6a99bf215f0ff9953d5c94f8e44f5a
+--start 1343
+--sim-load-config finish-tape=1
+--tape-stop 3

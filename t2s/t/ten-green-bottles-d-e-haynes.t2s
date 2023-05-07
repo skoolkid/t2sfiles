@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TenGreenBottles.tap.zip
+ten-green-bottles-d-e-haynes.z80
+--sim-load
+--tape-name "TGBOTTLE.TAP"
+--tape-sum 321e5cb3a8fcf83b2e00c774c5d0486f
+--start 1343
+--sim-load-config finish-tape=1
+--tape-stop 3
