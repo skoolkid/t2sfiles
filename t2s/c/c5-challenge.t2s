@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/C5Challenge.tap.zip
+c5-challenge.z80
+--sim-load
+--tape-name "C5Challenge.tap"
+--tape-sum a7859589ff8e3c555b455ec425d96975
+--start 1343
+--sim-load-config finish-tape=1

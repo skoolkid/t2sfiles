@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CreepyCrawley.tap.zip
+creepy-crawley.z80
+--sim-load
+--tape-name "CreepyCrawley.tap"
+--tape-sum 900d1bf326bd65117f72ad4f68373c5b
+--start 1343
+--sim-load-config finish-tape=1

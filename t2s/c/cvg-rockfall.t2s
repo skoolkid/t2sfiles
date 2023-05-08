@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CVGRockfall(NigelBland).tap.zip
+cvg-rockfall.z80
+--sim-load
+--tape-name "CVGRockfall.tap"
+--tape-sum c259ef633501dd7c013007e251fd0ec8
+--start 1343
+--sim-load-config finish-tape=1

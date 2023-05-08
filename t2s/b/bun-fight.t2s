@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BunFight.tap.zip
+bun-fight.z80
+--sim-load
+--tape-name "BUNFIGHT.TAP"
+--tape-sum 3af138a24efb5cecfa5c3e9ed5913989
+--start 1343
+--sim-load-config finish-tape=1

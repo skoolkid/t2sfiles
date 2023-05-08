@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BatallaNaval(ParaninfoSoftS.A.).tzx.zip
+batalla-naval.z80
+--sim-load
+--tape-name "Batalla Naval (Paraninfo).tzx"
+--tape-sum a8b6a7d75d2c1d8340dcc4741521f455
+--start 1343
+--sim-load-config finish-tape=1

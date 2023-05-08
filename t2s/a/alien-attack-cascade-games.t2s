@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AlienAttack.tap.zip
+alien-attack-cascade-games.z80
+--sim-load
+--tape-name "ALIENATT.TAP"
+--tape-sum d0dd47433b430e4bda357ed4ee13ab18
+--start 1343
+--sim-load-config finish-tape=1

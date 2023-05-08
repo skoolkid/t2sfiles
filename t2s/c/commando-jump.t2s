@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CommandoJump.tap.zip
+commando-jump.z80
+--sim-load
+--tape-name "CommandoJump.tap"
+--tape-sum 91ac8eeb4167b7d7c80693f5a83e045d
+--start 1343
+--sim-load-config finish-tape=1

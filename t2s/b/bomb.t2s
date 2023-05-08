@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Bomb.tap.zip
+bomb.z80
+--sim-load
+--tape-name "Bomb.tap"
+--tape-sum 133588c60f42c294b9049e9b619c68aa
+--start 1343
+--sim-load-config finish-tape=1

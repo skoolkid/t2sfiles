@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/Ascot.tap.zip
+ascot-peter-shaw.z80
+--sim-load
+--tape-name "Ascot.tap"
+--tape-sum e3169617dda255e3571a0d2135edf7e5
+--start 1343
+--sim-load-config finish-tape=1

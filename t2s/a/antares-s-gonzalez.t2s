@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/Antares_2.tap.zip
+antares-s-gonzalez.z80
+--sim-load
+--tape-name "ANTARES.TAP"
+--tape-sum 22f71a14a5f52069040d9810163d4e1b
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BeachAttack.tap.zip
+beach-attack.z80
+--sim-load
+--tape-name "BEACHATT.TAP"
+--tape-sum d85eada078906644fcbb03141aee21c2
+--start 1343
+--sim-load-config finish-tape=1

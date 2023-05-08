@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Brainstorm_3.tzx.zip
+brainstorm-micromega-side-1.z80
+--sim-load
+--tape-name "Brainstorm - Side 1 (Micromega).tzx"
+--tape-sum a203b4907225612dab10e371408c60f5
+--start 1343
+--sim-load-config finish-tape=1

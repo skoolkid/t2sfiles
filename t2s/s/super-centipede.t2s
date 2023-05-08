@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SuperCentipede.tap.zip
+super-centipede.z80
+--sim-load
+--tape-name "CENTIPEC.TAP"
+--tape-sum 1c5c7016a8dc2fc4d0f7a27d7ebc18e2
+--start 24608

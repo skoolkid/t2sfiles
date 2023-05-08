@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AnotherBrickOnTheWall.tap.zip
+another-brick-on-the-wall.z80
+--sim-load
+--tape-name "Another Brick On The Wall.tap"
+--tape-sum 64f3cb4747928bae3f8561a2eaa4b25f
+--start 1343
+--sim-load-config finish-tape=1

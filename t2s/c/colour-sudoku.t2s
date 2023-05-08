@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/ColourSudoku_2.tap.zip
+colour-sudoku.z80
+--sim-load
+--tape-name "COLOUR SUDOKU.tap"
+--tape-sum 13ae31239d0c14a0a338cacd0e7e87d8
+--start 1343
+--sim-load-config finish-tape=1

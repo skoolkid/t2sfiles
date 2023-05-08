@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/Tic-Tac-Toe3D.tap.zip
+3d-tic-tac-toe.z80
+--sim-load
+--tape-name "3DTIC__1.TAP"
+--tape-sum a96899aad0fd2352038421f5c938ad17
+--start 1343
+--sim-load-config finish-tape=1

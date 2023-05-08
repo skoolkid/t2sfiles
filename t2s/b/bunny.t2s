@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Bunny.tap.zip
+bunny.z80
+--sim-load
+--tape-name "BUNNY.TAP"
+--tape-sum b2283f97cc26d771c168ca7a9b7c8ef0
+--start 1343
+--sim-load-config finish-tape=1

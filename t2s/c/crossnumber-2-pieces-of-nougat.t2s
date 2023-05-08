@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Crossnumber2(PiecesOfNougat).tap.zip
+crossnumber-2-pieces-of-nougat.z80
+--sim-load
+--tape-name "crossnumber_2_-_pieces_of_nougat.tap"
+--tape-sum 16e94e15a800232aeebe6af384803984
+--start 1343
+--sim-load-config finish-tape=1

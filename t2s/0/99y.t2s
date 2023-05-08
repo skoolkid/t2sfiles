@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/123/99Y.tap.zip
+99y.z80
+--sim-load
+--tape-name "99Y.TAP"
+--tape-sum cb96e1d874348a107a11a79b0a074528
+--start 1343
+--sim-load-config finish-tape=1

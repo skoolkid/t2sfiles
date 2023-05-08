@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BeatTheBugEyes.tap.zip
+beat-the-bug-eyes.z80
+--sim-load
+--tape-name "BugEyes.tap"
+--tape-sum 9eccf6230b9139cbdeb580c2bbacade2
+--start 1343
+--sim-load-config finish-tape=1

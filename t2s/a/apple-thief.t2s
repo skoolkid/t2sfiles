@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AppleThief.tap.zip
+apple-thief.z80
+--sim-load
+--tape-name "APPLE-TH.TAP"
+--tape-sum 11d0b1eb5888946d4816b1b2a01d576c
+--start 1343
+--sim-load-config finish-tape=1

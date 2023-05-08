@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/Aliens.tap.zip
+aliens-darren-frampton.z80
+--sim-load
+--tape-name "ALIENDEF.TAP"
+--tape-sum b522e4fa7336cd2a4e2fb0f4e553844f
+--start 1343
+--sim-load-config finish-tape=1

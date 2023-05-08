@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/ChristmasTime.tap.zip
+christmas-time.z80
+--sim-load
+--tape-name "Christmas_Time.tap"
+--tape-sum 53acbcd88271946cecc8caacfffe243a
+--start 1343
+--sim-load-config finish-tape=1

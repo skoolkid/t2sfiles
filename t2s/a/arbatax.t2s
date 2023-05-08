@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/Arbatax.tap.zip
+arbatax.z80
+--sim-load
+--tape-name "ARBATAX.TAP"
+--tape-sum 0ed291625ba6d1fc34856df6e404d858
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Bingo_2.tzx.zip
+bingo-tynesoft.z80
+--sim-load
+--tape-name "Bingo (Tynesoft).tzx"
+--tape-sum f59a993f973bfe5f47a4d89d8b39bc51
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BennyBunny-GoldRush.tap.zip
+benny-bunny-gold-rush.z80
+--sim-load
+--tape-name "BennyBunnyGoldRush.tap"
+--tape-sum 23476335edddd994997419506cd1430b
+--start 1343
+--sim-load-config finish-tape=1

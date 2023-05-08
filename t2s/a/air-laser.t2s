@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AirLaser.tap.zip
+air-laser.z80
+--sim-load
+--tape-name "AirLaser.tap"
+--tape-sum 1cfeedfc8802514528691b72db69f286
+--start 1343
+--sim-load-config finish-tape=1

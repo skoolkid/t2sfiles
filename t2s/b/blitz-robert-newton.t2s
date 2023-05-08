@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Blitz_2.tzx.zip
+blitz-robert-newton.z80
+--sim-load
+--tape-name "BlockBlitz(YourComputer).tzx"
+--tape-sum 9fdb3451da7209881a5f505aaee61bda
+--start 1343
+--sim-load-config finish-tape=1

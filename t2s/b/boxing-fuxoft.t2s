@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Boxing.tap.zip
+boxing-fuxoft.z80
+--sim-load
+--tape-name "boxing.tap"
+--tape-sum 8502cfa28a0b677c0db79f9f4e220a11
+--start 1343
+--sim-load-config finish-tape=1

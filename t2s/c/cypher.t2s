@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Cypher.tap.zip
+cypher.z80
+--sim-load
+--tape-name "CYPHER.TAP"
+--tape-sum c8e78e4682289b010efe706adac50c42
+--start 1343
+--sim-load-config finish-tape=1

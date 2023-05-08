@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/Airspeeder.tap.zip
+airspeeder.z80
+--sim-load
+--tape-name "AIRSPEED.TAP"
+--tape-sum 6e89af3be723e40dbd39098cd4c64bf5
+--start 1343
+--sim-load-config finish-tape=1

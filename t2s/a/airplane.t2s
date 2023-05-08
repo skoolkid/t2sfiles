@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/Airplane.tap.zip
+airplane.z80
+--sim-load
+--tape-name "AIRPLANE.TAP"
+--tape-sum 9c56493f459e4402c74a3774a89ce207
+--start 1343
+--sim-load-config finish-tape=1

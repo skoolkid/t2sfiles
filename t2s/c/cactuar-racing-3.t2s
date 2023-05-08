@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CactuarRacing3.tap.zip
+cactuar-racing-3.z80
+--sim-load
+--tape-name "Cactuar Racing 3.TAP"
+--tape-sum 30a29dd3951ae887f11b94ebd003334e
+--start 1343
+--sim-load-config finish-tape=1

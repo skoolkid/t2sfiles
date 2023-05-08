@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Canute.tap.zip
+canute.z80
+--sim-load
+--tape-name "canute.tap"
+--tape-sum 944ff688ec1e0858f923be805a26e81a
+--start 1343
+--sim-load-config finish-tape=1

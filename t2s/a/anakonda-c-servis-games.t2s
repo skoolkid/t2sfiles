@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/Anakonda.tap.zip
+anakonda-c-servis-games.z80
+--sim-load
+--tape-name "anakonda.tap"
+--tape-sum db6879e8bbbf7fc981d22faadabe9efe
+--start 1343
+--sim-load-config finish-tape=1

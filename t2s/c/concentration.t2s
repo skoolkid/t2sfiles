@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Concentration.tap.zip
+concentration.z80
+--sim-load
+--tape-name "Concentration.tap"
+--tape-sum 2f332f46e8e83547aee300a4d8dd7018
+--start 1343
+--sim-load-config finish-tape=1

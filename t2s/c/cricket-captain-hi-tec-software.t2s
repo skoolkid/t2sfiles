@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CricketCaptain_3.tzx.zip
+cricket-captain-hi-tec-software.z80
+--sim-load
+--tape-name "Cricket Captain.tzx"
+--tape-sum 2a39a88ac5048852b14e546fa1257ecb
+--start 64559

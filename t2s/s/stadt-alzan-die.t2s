@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/StadtAlzanDie.tap.zip
+stadt-alzan-die.z80
+--sim-load
+--tape-name "ALZAN.TAP"
+--tape-sum c27817aa102ae4df5c737eaa2c259bbc
+--start 1343
+--sim-load-config finish-tape=1

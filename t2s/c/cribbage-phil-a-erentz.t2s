@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Cribbage_2.tap.zip
+cribbage-phil-a-erentz.z80
+--sim-load
+--tape-name "CRIB.TAP"
+--tape-sum d4d1eaf01f214cf362e388e39fc9380d
+--start 24685

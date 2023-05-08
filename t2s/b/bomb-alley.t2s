@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BombAlley.tap.zip
+bomb-alley.z80
+--sim-load
+--tape-name "BOMBALLY.TAP"
+--tape-sum 4db4a67e4c438454d3267e49ed2e1bce
+--start 1343
+--sim-load-config finish-tape=1

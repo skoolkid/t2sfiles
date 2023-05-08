@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/n/NoughtsAndCrosses_3.tap.zip
+noughts-and-crosses-richard-sutton.z80
+--sim-load
+--tape-name "cross.tap"
+--tape-sum 18e2530a61311ad1c63f39044bcb32f4
+--start 1343
+--sim-load-config finish-tape=1

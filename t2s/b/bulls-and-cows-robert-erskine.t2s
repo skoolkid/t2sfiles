@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BullsAndCows.tap.zip
+bulls-and-cows-robert-erskine.z80
+--sim-load
+--tape-name "Bulls And Cows.tap"
+--tape-sum 23aafdaed655d7c20b34af7583b07bf2
+--start 1343
+--sim-load-config finish-tape=1

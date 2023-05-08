@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BattleOnHoth.tap.zip
+battle-on-hoth.z80
+--sim-load
+--tape-name "BATTHOTH.TAP"
+--tape-sum 283bb1ac025c19bc9ea44bb2c57fbe13
+--start 1343
+--sim-load-config finish-tape=1

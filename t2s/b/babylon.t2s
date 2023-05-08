@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Babylon.tap.zip
+babylon.z80
+--sim-load
+--tape-name "Babylon.tap"
+--tape-sum 6d7cc40e010eaa749c3aa8fe3d90c778
+--start 1343
+--sim-load-config finish-tape=1

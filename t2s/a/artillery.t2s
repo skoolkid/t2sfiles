@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/Artillery.tap.zip
+artillery.z80
+--sim-load
+--tape-name "ARTILLRY.tap"
+--tape-sum d679fb51c2d62de785c2417ee4617bc7
+--start 1343
+--sim-load-config finish-tape=1

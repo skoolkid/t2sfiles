@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DevilBirds.tap.zip
+devil-birds.z80
+--sim-load
+--tape-name "BIRDS.TAP"
+--tape-sum a62dbf06ecd32f30aec96c260fc4bc89
+--start 1343
+--sim-load-config finish-tape=1

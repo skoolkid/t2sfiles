@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/Amaze_2.tzx.zip
+amaze-mark-bateman.z80
+--sim-load
+--tape-name "Amaze.tzx"
+--tape-sum 04c813954d44e4fdd3037bee854931ac
+--start 1343
+--sim-load-config finish-tape=1

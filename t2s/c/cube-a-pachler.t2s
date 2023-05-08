@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Cube.tap.zip
+cube-a-pachler.z80
+--sim-load
+--tape-name "CUBE.TAP"
+--tape-sum 8dd1fbe9bbdaf548c99f493c2d7f90ad
+--start 1343
+--sim-load-config finish-tape=1

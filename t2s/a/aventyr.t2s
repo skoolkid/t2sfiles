@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/Aventyr.tap.zip
+aventyr.z80
+--sim-load
+--tape-name "aventyr.tap"
+--tape-sum 6cfc0f70c646a91fe5f0f74f057bc47a
+--start 1343
+--sim-load-config finish-tape=1

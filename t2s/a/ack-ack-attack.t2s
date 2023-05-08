@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AckAckAttack.tap.zip
+ack-ack-attack.z80
+--sim-load
+--tape-name "ACKACK_1.TAP"
+--tape-sum 0ae5b02a969aa0bc8d6412fbf94d97a1
+--start 1343
+--sim-load-config finish-tape=1

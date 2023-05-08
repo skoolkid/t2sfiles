@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Cash-Flow.tap.zip
+cash-flow.z80
+--sim-load
+--tape-name "CASHFLOW.TAP"
+--tape-sum 6b12ae665435d7e0072f4be0f94bb86b
+--start 1343
+--sim-load-config finish-tape=1

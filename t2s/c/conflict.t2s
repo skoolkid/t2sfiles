@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Conflict.tap.zip
+conflict.z80
+--sim-load
+--tape-name "CONFLICT.TAP"
+--tape-sum 5c608186bd574349ec17d9f5c8223dc5
+--start 1343
+--sim-load-config finish-tape=1

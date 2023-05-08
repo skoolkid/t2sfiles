@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Breakout_2.tzx.zip
+breakout-richard-altwasser.z80
+--sim-load
+--tape-name "Breakout.tzx"
+--tape-sum 3d50d465fcc7d4f1c9457f6b76db1b2e
+--start 1343
+--sim-load-config finish-tape=1

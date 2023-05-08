@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/Asteroids(ArjunNair).tap.zip
+asteroids.z80
+--sim-load
+--tape-name "Asteroids.tap"
+--tape-sum d06717036b94a5435a6bff9ef147c2c7
+--start 1343
+--sim-load-config finish-tape=1

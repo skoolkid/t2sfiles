@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Crossnumber2(Employees).tap.zip
+crossnumber-2-employees.z80
+--sim-load
+--tape-name "crossnumber_2_-_employees.tap"
+--tape-sum c7760c625dcf1af93ae6e73136b3f7bf
+--start 1343
+--sim-load-config finish-tape=1

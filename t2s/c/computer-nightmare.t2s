@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/ComputerNightmare.tap.zip
+computer-nightmare.z80
+--sim-load
+--tape-name "ComputerNightmare.tap"
+--tape-sum 55930f2e9bb4b391c7d5e173dce50d5c
+--start 1343
+--sim-load-config finish-tape=1

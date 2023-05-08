@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AlToro.tap.zip
+al-toro.z80
+--sim-load
+--tape-name "Al Toro.tap"
+--tape-sum a39f9b31b6f71c0d1d3130a3324959c4
+--start 1343
+--sim-load-config finish-tape=1

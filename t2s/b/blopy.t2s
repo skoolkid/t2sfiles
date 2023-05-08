@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Blopy.tap.zip
+blopy.z80
+--sim-load
+--tape-name "Blopy.tap"
+--tape-sum 013f0963389e8b8bc99848e151c13f16
+--start 1343
+--sim-load-config finish-tape=1

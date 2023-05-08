@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Codemaker.tap.zip
+codemaker.z80
+--sim-load
+--tape-name "codemaker.tap"
+--tape-sum b4cd484e48f6ca2e8936cb3b4cf83c97
+--start 1343
+--sim-load-config finish-tape=1

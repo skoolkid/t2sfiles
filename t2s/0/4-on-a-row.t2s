@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/123/4OnARowV2.0a.tap.zip
+4-on-a-row.z80
+--sim-load
+--tape-name "4OnARow.tap"
+--tape-sum 1424c9514fb3391ae89bf4d844487baf
+--start 1343
+--sim-load-config finish-tape=1

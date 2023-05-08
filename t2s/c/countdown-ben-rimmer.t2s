@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Countdown_6.tzx.zip
+countdown-ben-rimmer.z80
+--sim-load
+--tape-name "Countdown.tzx"
+--tape-sum 45a4c2d886abf94965714e9947e9c6eb
+--start 1343
+--sim-load-config finish-tape=1

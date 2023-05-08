@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Bomber.tap.zip
+bomber-grisewood-and-dempsey.z80
+--sim-load
+--tape-name "bomber.tap"
+--tape-sum b803ca49159a2e96de85e05f654fe434
+--start 1343
+--sim-load-config finish-tape=1
