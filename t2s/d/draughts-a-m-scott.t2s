@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/Draughts.tap.zip
+draughts-a-m-scott.z80
+--sim-load
+--tape-name "DRAUGH_2.TAP"
+--tape-sum feeb5dedd175a3357916abfd8e569367
+--start 1343
+--sim-load-config finish-tape=1

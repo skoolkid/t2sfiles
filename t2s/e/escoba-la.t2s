@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/e/EscobaLa.tap.zip
+escoba-la.z80
+--sim-load
+--tape-name "ESCOBA.TAP"
+--tape-sum a5c405b528bb1108caeb696f688eeaac
+--start 1343
+--sim-load-config finish-tape=1

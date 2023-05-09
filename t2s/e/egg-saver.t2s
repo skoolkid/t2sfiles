@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/e/EggSaver.tap.zip
+egg-saver.z80
+--sim-load
+--tape-name "Egg Saver.tap"
+--tape-sum 94a6d32c7eb7598657fc2cdad3595133
+--start 1343
+--sim-load-config finish-tape=1

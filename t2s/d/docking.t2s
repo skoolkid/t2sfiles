@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/Docking.tap.zip
+docking.z80
+--sim-load
+--tape-name "DOCKING.TAP"
+--tape-sum 9d0c1c889ad97b68ea311aeed01545b1
+--start 1343
+--sim-load-config finish-tape=1

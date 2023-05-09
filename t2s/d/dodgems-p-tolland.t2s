@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/Dodgems_2.tap.zip
+dodgems-p-tolland.z80
+--sim-load
+--tape-name "DODGEMS.TAP"
+--tape-sum 1d6b678b90f8d9d78ac0b23ac3e49ba8
+--start 1343
+--sim-load-config finish-tape=1

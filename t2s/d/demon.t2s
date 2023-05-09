@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/Demon.tap.zip
+demon.z80
+--sim-load
+--tape-name "Demon.tap"
+--tape-sum 5941f42c38a60958b1d7c2229b20ea2a
+--start 1343
+--sim-load-config finish-tape=1

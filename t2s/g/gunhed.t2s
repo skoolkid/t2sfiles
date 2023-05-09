@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/g/Gunhed(SinclairUser).tzx.zip
+gunhed.z80
+--sim-load
+--tape-name "Gunhead (SinclairUser).TZX"
+--tape-sum b613c551317f2b127484b6b270045880
+--start 16396

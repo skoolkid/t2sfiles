@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/i/Invasion_2.tzx.zip
+invasion-el-ordenador-personal.z80
+--sim-load
+--tape-name "Invasion.tzx"
+--tape-sum 1a53fd9e75cb870747f2152d0f6ffd1c
+--start 1343
+--sim-load-config finish-tape=1

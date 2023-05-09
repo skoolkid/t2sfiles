@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/e/Egbert(GrantBingham).tap.zip
+egbert.z80
+--sim-load
+--tape-name "Egbert.tap"
+--tape-sum 3368aa266030fa1d8d894d483a0642bd
+--start 1343
+--sim-load-config finish-tape=1

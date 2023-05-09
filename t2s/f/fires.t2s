@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/f/Fires(LaszloNyitrai).tap.zip
+fires.z80
+--sim-load
+--tape-name "FIRES.TAP"
+--tape-sum ce719eb5fb2b06d489b374fb64897b1f
+--start 1343
+--sim-load-config finish-tape=1

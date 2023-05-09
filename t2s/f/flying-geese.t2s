@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/f/FlyingGeese.tap.zip
+flying-geese.z80
+--sim-load
+--tape-name "Flying Geese.tap"
+--tape-sum e29dfc139d0e6338406fbf047ec69586
+--start 1343
+--sim-load-config finish-tape=1

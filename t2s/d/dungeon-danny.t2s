@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DungeonDanny.tap.zip
+dungeon-danny.z80
+--sim-load
+--tape-name "DUNDANNY.TAP"
+--tape-sum 1dfb72f944591700632cef6f63d5a980
+--start 1343
+--sim-load-config finish-tape=1

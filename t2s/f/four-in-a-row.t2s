@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/f/FourInARow.tap.zip
+four-in-a-row.z80
+--sim-load
+--tape-name "FourInARow.tap"
+--tape-sum ac7419b570532bf49c37356abdfea50f
+--start 1343
+--sim-load-config finish-tape=1

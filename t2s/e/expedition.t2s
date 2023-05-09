@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/e/Expedition.tap.zip
+expedition.z80
+--sim-load
+--tape-name "EXPEDITE.TAP"
+--tape-sum 307ce0ec69390b73beeef6c61b6127ba
+--start 1343
+--sim-load-config finish-tape=1

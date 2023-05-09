@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/f/Forester.tap.zip
+forester.z80
+--sim-load
+--tape-name "FORESTER.TAP"
+--tape-sum 17821dbf7dbdffb989c068f04c0acb6e
+--start 1343
+--sim-load-config finish-tape=1

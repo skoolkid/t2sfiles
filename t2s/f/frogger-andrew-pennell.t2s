@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/f/Frogger(JimWaterman).tap.zip
+frogger-andrew-pennell.z80
+--sim-load
+--tape-name "Frogger.tap"
+--tape-sum d5a143dc519275261734eafdee2dcba1
+--start 1343
+--sim-load-config finish-tape=1

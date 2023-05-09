@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DemonChase.tap.zip
+demon-chase.z80
+--sim-load
+--tape-name "DEMONCH.TAP"
+--tape-sum d634e5a44c7be270f2f30fbe04ec7c25
+--start 1343
+--sim-load-config finish-tape=1

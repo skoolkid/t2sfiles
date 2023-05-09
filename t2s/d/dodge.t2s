@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/Dodge.tap.zip
+dodge.z80
+--sim-load
+--tape-name "Dodge.tap"
+--tape-sum a786fad7decf97cb340b8fc6da1fe6f7
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AlienInvaders.tap.zip
+alien-invaders.z80
+--sim-load
+--tape-name "Invaders.tap"
+--tape-sum 155a6dc603221807466695f6169d333c
+--start 1343
+--sim-load-config finish-tape=1

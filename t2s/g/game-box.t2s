@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/g/GameBox.tap.zip
+game-box.z80
+--sim-load
+--tape-name "GAME BOX.tap"
+--tape-sum 3191c177a7a2765ff768d9ad36990107
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/g/GnomeLaziesThe.tap.zip
+gnome-lazies-the.z80
+--sim-load
+--tape-name "GNOMLAZY.TAP"
+--tape-sum 4e3fdd92e65ab5794487a0a6e32984dd
+--start 1343
+--sim-load-config finish-tape=1

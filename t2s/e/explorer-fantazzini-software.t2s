@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/e/Explorer_2.tzx.zip
+explorer-fantazzini-software.z80
+--sim-load
+--tape-name "Explorer.tzx"
+--tape-sum b1e67f20319bd2b2b9ee4c5f8c3f489c
+--start 1343
+--sim-load-config finish-tape=1

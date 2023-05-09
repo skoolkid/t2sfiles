@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/Dodger.tap.zip
+dodger.z80
+--sim-load
+--tape-name "DODGER.TAP"
+--tape-sum 8d993c8cbf033c500692f4596382dbf8
+--start 1343
+--sim-load-config finish-tape=1

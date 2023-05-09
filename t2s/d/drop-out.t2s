@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DropOut_2.tap.zip
+drop-out.z80
+--sim-load
+--tape-name "DROP-OUT.TAP"
+--tape-sum 2664b3255c3a14f43fa961590fd8b3b4
+--start 1343
+--sim-load-config finish-tape=1

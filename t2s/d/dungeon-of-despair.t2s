@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DungeonOfDespair.tap.zip
+dungeon-of-despair.z80
+--sim-load
+--tape-name "DESPAIR.TAP"
+--tape-sum 183441941dbcbf74755ed7dfec201a37
+--start 1343
+--sim-load-config finish-tape=1

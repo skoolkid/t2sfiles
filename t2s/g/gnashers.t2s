@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/g/Gnashers.tap.zip
+gnashers.z80
+--sim-load
+--tape-name "GNASHERS.TAP"
+--tape-sum 404b8a62274751a7ba71bc31d278ca74
+--start 1343
+--sim-load-config finish-tape=1

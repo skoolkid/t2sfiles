@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/h/HorrorAtoll(Add-OnElectronicsLtd).tzx.zip
+horror-atoll.z80
+--sim-load
+--tape-name "Horror Atoll (Add-On Electronics).tzx"
+--tape-sum 1a1a3d0d4d713ed8d8e1aa4f642da07c
+--start 1343
+--sim-load-config finish-tape=1

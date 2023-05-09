@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/Destroyer.tap.zip
+destroyer-abacus-programs.z80
+--sim-load
+--tape-name "DESTROYE.TAP"
+--tape-sum ca3d313aafbbb83e7b8ead4170592ff0
+--start 1343
+--sim-load-config finish-tape=1

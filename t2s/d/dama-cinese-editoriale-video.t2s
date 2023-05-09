@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DamaCinese.tap.zip
+dama-cinese-editoriale-video.z80
+--sim-load
+--tape-name "DamaCinese.tap"
+--tape-sum 712742810441d2c4ea66f27eb7d08730
+--start 1343
+--sim-load-config finish-tape=1

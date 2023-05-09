@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/f/Frogger_2.tap.zip
+frogger-c-tech.z80
+--sim-load
+--tape-name "FROGGER.TAP"
+--tape-sum 4402900b8fefc80ee2eea0bf56d685f5
+--start 1343
+--sim-load-config finish-tape=1

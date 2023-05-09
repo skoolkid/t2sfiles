@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/h/Hangman.tap.zip
+hangman-2226.z80
+--sim-load
+--tape-name "HANGMAN2.TAP"
+--tape-sum 6bebc03b073b56bf1f5ec25aaa10be6f
+--start 1343
+--sim-load-config finish-tape=1

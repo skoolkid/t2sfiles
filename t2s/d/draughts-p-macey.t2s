@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/Draughts_4.tap.zip
+draughts-p-macey.z80
+--sim-load
+--tape-name "DRAUGHTP.TAP"
+--tape-sum c9558cc80f8eb6b5bcb2e805239116a5
+--start 1343
+--sim-load-config finish-tape=1

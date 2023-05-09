@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/g/Golf_6.tap.zip
+golf-virgin-games.z80
+--sim-load
+--tape-name "GOLF48_1.TAP"
+--tape-sum 9125858eaf47ab7cbd71e8dfd38c7516
+--start 1343
+--sim-load-config finish-tape=1

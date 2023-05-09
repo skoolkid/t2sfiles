@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/f/Frogger_3.tap.zip
+frogger-juan-jose-epalza-ramos.z80
+--sim-load
+--tape-name "FROGGERS.TAP"
+--tape-sum 804a5408f1b07427a7a3975ba72d63a7
+--start 1343
+--sim-load-config finish-tape=1

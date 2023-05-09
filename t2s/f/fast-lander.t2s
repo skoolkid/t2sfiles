@@ -1,0 +1,9 @@
+https://worldofspectrum.net/pub/sinclair/games/f/FastLander.tap.zip
+fast-lander.z80
+--sim-load
+--tape-name "FastLander.tap"
+--tape-sum 83295a843844062c64368666002d21ea
+--start 1343
+--sim-load-config finish-tape=1
+--ram poke=23618,32 ; Set NEWPPC
+--ram poke=23619,3  ; to 800

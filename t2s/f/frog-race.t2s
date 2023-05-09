@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/f/FrogRace.tap.zip
+frog-race.z80
+--sim-load
+--tape-name "FrogRace.tap"
+--tape-sum 3dddc7d048d15c3217371b01b8b2042e
+--start 1343
+--sim-load-config finish-tape=1

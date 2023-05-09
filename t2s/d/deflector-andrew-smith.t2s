@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/Deflector.tap.zip
+deflector-andrew-smith.z80
+--sim-load
+--tape-name "DEFLECT.TAP"
+--tape-sum 0313e327486d888b4df9686445aa70a3
+--start 1343
+--sim-load-config finish-tape=1

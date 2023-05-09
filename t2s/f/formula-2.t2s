@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/f/Formula2.tap.zip
+formula-2.z80
+--sim-load
+--tape-name "formula2.tap"
+--tape-sum 9f5548562bcf604f14e163eb2f245769
+--start 1343
+--sim-load-config finish-tape=1

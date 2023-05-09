@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/h/HotDogs.tap.zip
+hot-dogs.z80
+--sim-load
+--tape-name "HOTDOGS.TAP"
+--tape-sum bd1f4dca9c2805f4387da1c77ccb67bd
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/h/HauntedHouse.tap.zip
+haunted-house-babar-abidi.z80
+--sim-load
+--tape-name "HAUNTHOU.TAP"
+--tape-sum 195cdc7012e75c4ac841971724aeddaf
+--start 1343
+--sim-load-config finish-tape=1

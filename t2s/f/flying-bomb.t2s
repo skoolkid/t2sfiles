@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/f/FlyingBomb.tap.zip
+flying-bomb.z80
+--sim-load
+--tape-name "Flying Bomb.tap"
+--tape-sum f099f44d5e9a23f1f48b6db07356b641
+--start 1343
+--sim-load-config finish-tape=1

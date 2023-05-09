@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/h/Hangman_5.tap.zip
+hangman-penny-vickers.z80
+--sim-load
+--tape-name "Hangman.tap"
+--tape-sum 6fc0c2b9f8b03dae9d9634487633c21f
+--start 1343
+--sim-load-config finish-tape=1

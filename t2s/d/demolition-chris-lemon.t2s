@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/Demolition_5.tap.zip
+demolition-chris-lemon.z80
+--sim-load
+--tape-name "DEMOLITI.TAP"
+--tape-sum 9fe5607f89ef82d26a1eca67364fef0d
+--start 1343
+--sim-load-config finish-tape=1

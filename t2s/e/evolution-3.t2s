@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/e/Evolution3.tap.zip
+evolution-3.z80
+--sim-load
+--tape-name "Evolution 3.tap"
+--tape-sum c8d7f6c36946a13ba23e8a9241211980
+--start 1343
+--sim-load-config finish-tape=1

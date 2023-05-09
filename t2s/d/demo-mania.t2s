@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DemoMania.tap.zip
+demo-mania.z80
+--sim-load
+--tape-name "DEMOMANIA.TAP"
+--tape-sum 5b5c57ad8d596f234dce21197aaa572c
+--start 24835

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/e/Escape_2.tap.zip
+escape-antony-trenker.z80
+--sim-load
+--tape-name "Escape.TAP"
+--tape-sum 8b9d928c2f227159cf81fd303f350d3f
+--start 16404

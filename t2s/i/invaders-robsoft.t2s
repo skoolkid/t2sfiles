@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/i/Invaders_5.tap.zip
+invaders-robsoft.z80
+--sim-load
+--tape-name "INVADERS.TAP"
+--tape-sum dfc85dcd0490890e6fcfd8e9d04338e0
+--start 28000

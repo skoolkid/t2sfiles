@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/Dodgems.tap.zip
+dodgems-raymond-blake.z80
+--sim-load
+--tape-name "Dodgems.tap"
+--tape-sum 4b9ad0199868407bb23ae80eac9315d5
+--start 1343
+--sim-load-config finish-tape=1

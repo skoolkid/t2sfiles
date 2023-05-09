@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SpaceEgg.tap.zip
+space-egg.z80
+--sim-load
+--tape-name "ei.tap"
+--tape-sum 0b3ab79bb6513d08b01df9581ded689e
+--start 1343
+--sim-load-config finish-tape=1

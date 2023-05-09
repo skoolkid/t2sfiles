@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/f/Frogger_2.tzx.zip
+frogger-deanysoft.z80
+--sim-load
+--tape-name "Frogger (Deanysoft).tzx"
+--tape-sum 7127b282290b737837341f82d8f4efe2
+--start 28026

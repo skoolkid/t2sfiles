@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DangerousGardens.tap.zip
+dangerous-gardens.z80
+--sim-load
+--tape-name "DANGEROU.TAP"
+--tape-sum 640d60189c89cd7f37b4411758c360b2
+--start 1343
+--sim-load-config finish-tape=1
