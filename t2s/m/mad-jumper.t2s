@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MadJumper.tap.zip
+mad-jumper.z80
+--sim-load
+--tape-name "MADJMPR.TAP"
+--tape-sum 1844ce54fb385d90137e922970ef8282
+--start 1343
+--sim-load-config finish-tape=1

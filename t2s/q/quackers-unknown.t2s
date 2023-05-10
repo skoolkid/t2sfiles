@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/q/Quackers.tap.zip
+quackers-unknown.z80
+--sim-load
+--tape-name "Quackers.tap"
+--tape-sum 240f4bbf5082ae2eecdacde098fb5dc1
+--start 1343
+--sim-load-config finish-tape=1

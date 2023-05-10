@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MissionImpossible_2.tzx.zip
+mission-impossible-synacroop.z80
+--sim-load
+--tape-name "Mission Impossible (Synacroop).tzx"
+--tape-sum 2cafd4a3f6d12d17335617d474414010
+--start 1343
+--sim-load-config finish-tape=1

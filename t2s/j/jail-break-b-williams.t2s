@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/j/JailBreak.tap.zip
+jail-break-b-williams.z80
+--sim-load
+--tape-name "JAILBREA.TAP"
+--tape-sum b5e0812971599fd617081a1dd5b03b99
+--start 30128

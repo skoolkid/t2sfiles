@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/l/LunarStorm.tap.zip
+lunar-storm.z80
+--sim-load
+--tape-name "LunarStorm.tap"
+--tape-sum c91fbd9377463f2e020d90ab4e9f2c78
+--start 1343
+--sim-load-config finish-tape=1

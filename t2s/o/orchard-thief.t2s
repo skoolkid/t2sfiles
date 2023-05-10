@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/o/OrchardThief.tap.zip
+orchard-thief.z80
+--sim-load
+--tape-name "OrchardThief.tap"
+--tape-sum 62ef28b9d870df266587c6d4bc6d3b1b
+--start 1343
+--sim-load-config finish-tape=1

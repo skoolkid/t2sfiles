@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MoonPatrol_2.tap.zip
+moon-patrol-jose-maria-gonzalez-ondina.z80
+--sim-load
+--tape-name "Moon Patrol (Jose Maria Gonzalez).tap"
+--tape-sum 3bf2dc4d07e969dd7fdb243a12c9003b
+--start 1343
+--sim-load-config finish-tape=1

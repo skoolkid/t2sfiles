@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MadMax(ArjunNair).tap.zip
+mad-max.z80
+--sim-load
+--tape-name "MadMax.TAP"
+--tape-sum 7513f76ea02f3214b7646b3a5dcb39d4
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Meltdown_2.tzx.zip
+meltdown-zenobi.z80
+--sim-load
+--tape-name "MELTDOWN.TZX"
+--tape-sum f12428efede78f43d3be7ceb44f57e85
+--start 25000

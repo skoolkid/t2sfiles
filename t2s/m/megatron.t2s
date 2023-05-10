@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Megatron.tap.zip
+megatron.z80
+--sim-load
+--tape-name "Megatron.tap"
+--tape-sum 074a76fee964b89c95b9eff1e978804a
+--start 1343
+--sim-load-config finish-tape=1

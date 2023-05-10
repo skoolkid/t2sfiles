@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PfuiSpinne.tap.zip
+pfui-spinne.z80
+--sim-load
+--tape-name "PFUISPIN.TAP"
+--tape-sum 0b9dbe3f9ca3983e0770276007e41b35
+--start 1343
+--sim-load-config finish-tape=1

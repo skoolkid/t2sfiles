@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Pontoon_5.tap.zip
+pontoon-james-hutchby.z80
+--sim-load
+--tape-name "PONTOO_2.TAP"
+--tape-sum e5d3af2d1c17e06cae6834dabc4d3177
+--start 1343
+--sim-load-config finish-tape=1

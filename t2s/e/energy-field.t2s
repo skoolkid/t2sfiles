@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/e/EnergyField(PersonalComputerGames).tzx.zip
+energy-field.z80
+--sim-load
+--tape-name "PCG 03 - Feb 1984 (Energy Fields).tzx"
+--tape-sum d418780afecc20314b102a3997dc602d
+--start 1343
+--sim-load-config finish-tape=1

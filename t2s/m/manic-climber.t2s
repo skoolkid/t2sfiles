@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/ManicClimber.tap.zip
+manic-climber.z80
+--sim-load
+--tape-name "ManicClimb.tap"
+--tape-sum 4d4afe1a2df16b534adce9854c97cbcc
+--start 1343
+--sim-load-config finish-tape=1

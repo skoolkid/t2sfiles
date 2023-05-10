@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/l/LittlePac.tap.zip
+little-pac.z80
+--sim-load
+--tape-name "LITTLE_2.TAP"
+--tape-sum 28b830a2f782ab55a3654fc08d39cc73
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Mesta.tap.zip
+mesta.z80
+--sim-load
+--tape-name "MESTA.TAP"
+--tape-sum 390f8923fb084f1a7674f1ab2240acd7
+--start 1343
+--sim-load-config finish-tape=1

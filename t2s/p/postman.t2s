@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Postman.tap.zip
+postman.z80
+--sim-load
+--tape-name "Postman.tap"
+--tape-sum 94c836cb198959816d549118f3e0275d
+--start 1343
+--sim-load-config finish-tape=1

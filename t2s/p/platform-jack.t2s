@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PlatformJack.tap.zip
+platform-jack.z80
+--sim-load
+--tape-name "PLATJACK.TAP"
+--tape-sum 2ef2a7a5477a3d3f4b7bf70962395cb9
+--start 1343
+--sim-load-config finish-tape=1

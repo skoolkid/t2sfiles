@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MidsummersEve.tap.zip
+midsummers-eve.z80
+--sim-load
+--tape-name "midsummers_eve.tap"
+--tape-sum a33601a958c3957558db199bf454f6ef
+--start 1343
+--sim-load-config finish-tape=1

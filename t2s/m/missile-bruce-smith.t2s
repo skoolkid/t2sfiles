@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Missile_3.tap.zip
+missile-bruce-smith.z80
+--sim-load
+--tape-name "MISSILE1.TAP"
+--tape-sum 69275d2001112bf58403f9f01993f92f
+--start 1343
+--sim-load-config finish-tape=1

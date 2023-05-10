@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PiramideDiIunnuhLa.tap.zip
+piramide-di-iunnuh-la.z80
+--sim-load
+--tape-name "LaPiramideDiIunnuh.tap"
+--tape-sum c45875c48a876bb16f3a0d811bc5e887
+--start 1343
+--sim-load-config finish-tape=1

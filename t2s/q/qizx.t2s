@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/q/QiZX_2.tap.zip
+qizx.z80
+--sim-load
+--tape-name "QiZX.tap"
+--tape-sum 79d9b4fca30a398662e9b1b595fd6665
+--start 1343
+--sim-load-config finish-tape=1

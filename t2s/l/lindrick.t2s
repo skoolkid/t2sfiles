@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/l/Lindrick.tap.zip
+lindrick.z80
+--sim-load
+--tape-name "Lindrick.tap"
+--tape-sum 321f887cda0249cd1d9f0473d5e2b157
+--start 1343
+--sim-load-config finish-tape=1

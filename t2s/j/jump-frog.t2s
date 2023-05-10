@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/j/JumpFrog.tap.zip
+jump-frog.z80
+--sim-load
+--tape-name "Jump Frog.tap"
+--tape-sum 8cd11c4a668080b015adca226c8307a1
+--start 1343
+--sim-load-config finish-tape=1

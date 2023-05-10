@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PadPainter.tap.zip
+pad-painter.z80
+--sim-load
+--tape-name "PADPAINT.TAP"
+--tape-sum d73456a1c68c4bbca1b578635927c0be
+--start 1343
+--sim-load-config finish-tape=1

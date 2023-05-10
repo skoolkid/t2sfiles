@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MazeRunner.tap.zip
+maze-runner.z80
+--sim-load
+--tape-name "MazeRunner.tap"
+--tape-sum e8a487147d7aea8879274ae1d3ce0af0
+--start 1343
+--sim-load-config finish-tape=1

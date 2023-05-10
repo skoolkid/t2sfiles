@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/n/NavyMoves(TheHitSquad).tzx.zip
+navy-moves-p1.z80
+--sim-load
+--tape-name "Navy Moves - Part 1 (The Hit Squad).tzx"
+--tape-sum 3930f37d4c46195dd874e7e135d3e067
+--start 1343
+--sim-load-config finish-tape=1

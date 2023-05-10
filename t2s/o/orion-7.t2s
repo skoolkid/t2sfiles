@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/o/Orion-7.tap.zip
+orion-7.z80
+--sim-load
+--tape-name "Orion-7.tap"
+--tape-sum 1e7d3ad16648278117a497d5264d2612
+--start 1343
+--sim-load-config finish-tape=1

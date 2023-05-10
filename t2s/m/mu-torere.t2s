@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Mu-Torere.tap.zip
+mu-torere.z80
+--sim-load
+--tape-name "Mu-Torere.tap"
+--tape-sum a27ca95b85b1f61bf122d307644bd143
+--start 1343
+--sim-load-config finish-tape=1

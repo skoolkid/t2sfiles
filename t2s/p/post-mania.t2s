@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PostMania.tap.zip
+post-mania.z80
+--sim-load
+--tape-name "POST.TAP"
+--tape-sum e7ae8ba4e051c69981e41043b6d26f8c
+--start 1343
+--sim-load-config finish-tape=1

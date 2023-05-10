@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Patience3-_11-UpPatience.tap.zip
+patience-3-11-up-patience.z80
+--sim-load
+--tape-name "PATIENC3.TAP"
+--tape-sum 9d77764396bd00c7cefd197ef2756c8f
+--start 1343
+--sim-load-config finish-tape=1

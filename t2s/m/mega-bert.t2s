@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Mega-Bert.tap.zip
+mega-bert.z80
+--sim-load
+--tape-name "MEGABERT.TAP"
+--tape-sum 3f4f875f7a6666ef016f31f2d078ebeb
+--start 1343
+--sim-load-config finish-tape=1

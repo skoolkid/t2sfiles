@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/k/Kunibert.tap.zip
+kunibert.z80
+--sim-load
+--tape-name "Kunibert.tap"
+--tape-sum fe2c31eb0f064346215d771bc333208a
+--start 1343
+--sim-load-config finish-tape=1

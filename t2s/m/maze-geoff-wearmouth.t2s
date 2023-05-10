@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Maze(GeoffWearmouth).tap.zip
+maze-geoff-wearmouth.z80
+--sim-load
+--tape-name "Maze.tap"
+--tape-sum 0733fdfd47b00966e1b614f1caf1b632
+--start 1343
+--sim-load-config finish-tape=1

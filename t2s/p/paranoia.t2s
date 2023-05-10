@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Paranoia.tap.zip
+paranoia.z80
+--sim-load
+--tape-name "Paranoia.tap"
+--tape-sum aa3c754fad478bda788df92aff2e329d
+--start 1343
+--sim-load-config finish-tape=1

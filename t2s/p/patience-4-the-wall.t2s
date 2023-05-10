@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Patience4-TheWall.tap.zip
+patience-4-the-wall.z80
+--sim-load
+--tape-name "PATIENC4.TAP"
+--tape-sum 4b98cd59e691e8555999b08e08e136f3
+--start 1343
+--sim-load-config finish-tape=1

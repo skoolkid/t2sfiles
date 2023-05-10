@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/q/Quasimodo.tap.zip
+quasimodo.z80
+--sim-load
+--tape-name "QUASIMDO.TAP"
+--tape-sum 67e67ce9e0fdd1becaddef077d7f20ab
+--start 1343
+--sim-load-config finish-tape=1

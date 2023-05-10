@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/j/JonTheJany(HansEnters).tap.zip
+jon-the-jany.z80
+--sim-load
+--tape-name "JONJANI.TAP"
+--tape-sum 1930f7ce8efa39a34d30f020e48f4f79
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Parachutist.tap.zip
+parachutist.z80
+--sim-load
+--tape-name "Parachutist.tap"
+--tape-sum 5a59a177e13ce72979f0f9577057a1b8
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Maniac(different).tap.zip
+maniac.z80
+--sim-load
+--tape-name "MANIAC2.TAP"
+--tape-sum fd6984e55fa719e4dad048876db0f3cd
+--start 1343
+--sim-load-config finish-tape=1

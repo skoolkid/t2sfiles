@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/q/Quadrun.tap.zip
+quadrun.z80
+--sim-load
+--tape-name "QUADRUN.TAP"
+--tape-sum 13d57dbf9c25a4272426baf22d6cec7f
+--start 1343
+--sim-load-config finish-tape=1
+--state issue2=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Moonlander.tap.zip
+moonlander-fun-for-ever-soft.z80
+--sim-load
+--tape-name "MOONLAND.TAP"
+--tape-sum 63c9599853bfc360867911f9fec8d604
+--start 1343
+--sim-load-config finish-tape=1

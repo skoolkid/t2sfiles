@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BreaksOut.tap.zip
+breaks-out.z80
+--sim-load
+--tape-name "pg24_breaksout.tap"
+--tape-sum b829cf9dbd66f37755666bbf6704628c
+--start 1343
+--sim-load-config finish-tape=1

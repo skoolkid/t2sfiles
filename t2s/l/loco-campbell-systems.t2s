@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/l/Loco_2.tzx.zip
+loco-campbell-systems.z80
+--sim-load
+--tape-name "Loco (Campbell Systems).tzx"
+--tape-sum d4789e888abe3cefe55ca28acc374110
+--start 29702

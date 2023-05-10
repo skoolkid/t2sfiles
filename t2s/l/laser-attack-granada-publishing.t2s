@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/l/LaserAttack.tap.zip
+laser-attack-granada-publishing.z80
+--sim-load
+--tape-name "LaserAttack.tap"
+--tape-sum c6861ee9b7035a9ef8910a7311c9fc2d
+--start 1343
+--sim-load-config finish-tape=1

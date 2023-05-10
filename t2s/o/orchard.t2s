@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/o/Orchard.tap.zip
+orchard.z80
+--sim-load
+--tape-name "Orchard.tap"
+--tape-sum cdd40216ded571e16b1ff7c0baafdef1
+--start 1343
+--sim-load-config finish-tape=1

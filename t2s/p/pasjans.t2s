@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Pasjans.tap.zip
+pasjans.z80
+--sim-load
+--tape-name "Pasjans.tap"
+--tape-sum 75bd65191c1931ca0ec2ae76b207e194
+--start 1343
+--sim-load-config finish-tape=1

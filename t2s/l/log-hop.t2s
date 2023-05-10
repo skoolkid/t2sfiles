@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/l/LogHop.tap.zip
+log-hop.z80
+--sim-load
+--tape-name "LOG-HOP.TAP"
+--tape-sum 72cd4bdf23bbfa24715fad61deb10967
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PaulAndTheLostChalicePart1.tap.zip
+paul-and-the-lost-chalice-p1.z80
+--sim-load
+--tape-name "Part1.tap"
+--tape-sum e16f19b98f60664507b9babc8327a1ba
+--start 1343
+--sim-load-config finish-tape=1

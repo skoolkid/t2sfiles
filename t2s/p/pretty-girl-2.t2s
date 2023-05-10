@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PrettyGirl2.tap.zip
+pretty-girl-2.z80
+--sim-load
+--tape-name "PrettyGirl2.TAP"
+--tape-sum be6c9c4e96c98638914bcf537f19ff52
+--start 1343
+--sim-load-config finish-tape=1

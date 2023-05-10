@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/l/LetterEater.tap.zip
+letter-eater.z80
+--sim-load
+--tape-name "LetterEater.tap"
+--tape-sum 10417754b0d62ae95391568b6f76d622
+--start 16404
+--sim-load-config finish-tape=1

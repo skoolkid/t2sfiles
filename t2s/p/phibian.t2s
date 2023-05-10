@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Phibian.tap.zip
+phibian.z80
+--sim-load
+--tape-name "Phibian.tap"
+--tape-sum 028b676f5638cbfbc7b39d8bb37c54ce
+--start 1343
+--sim-load-config finish-tape=1

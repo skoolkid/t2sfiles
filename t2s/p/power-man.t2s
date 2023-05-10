@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PowerMan.tap.zip
+power-man.z80
+--sim-load
+--tape-name "POWERMAN.TAP"
+--tape-sum 13636d7bfe8f5a9a8637d067f75a2f88
+--start 1343
+--sim-load-config finish-tape=1

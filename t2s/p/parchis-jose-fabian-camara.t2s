@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Parchis_2.tzx.zip
+parchis-jose-fabian-camara.z80
+--sim-load
+--tape-name "Parchis.tzx"
+--tape-sum 91971b88ff5bbe154ac3ab0d6b2e132a
+--start 1343
+--sim-load-config finish-tape=1

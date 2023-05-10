@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MazeChase_2.tap.zip
+maze-chase-p-a-charter.z80
+--sim-load
+--tape-name "MAZE-CHA.TAP"
+--tape-sum d26a884e3459f249051c0c3950d72548
+--start 1343
+--sim-load-config finish-tape=1

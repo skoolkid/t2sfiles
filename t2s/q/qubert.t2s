@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/q/Qubert.tap.zip
+qubert.z80
+--sim-load
+--tape-name "QU_BERT.TAP"
+--tape-sum df5518dfefaa072052ba2bbfd9b4591e
+--start 1343
+--sim-load-config finish-tape=1

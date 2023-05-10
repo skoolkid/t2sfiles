@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/k/Kamel.tap.zip
+kamel.z80
+--sim-load
+--tape-name "KAMEL.TAP"
+--tape-sum 9ed84c34e24028258d4fde393fbeeb66
+--start 1343
+--sim-load-config finish-tape=1

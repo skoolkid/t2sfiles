@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PickupSticks.tap.zip
+pickup-sticks.z80
+--sim-load
+--tape-name "pickup_sticks.tap"
+--tape-sum f5b2a757908296a4e08d531878dda58d
+--start 1343
+--sim-load-config finish-tape=1

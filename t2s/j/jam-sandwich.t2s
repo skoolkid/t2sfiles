@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/j/JamSandwich.tap.zip
+jam-sandwich.z80
+--sim-load
+--tape-name "Jam Sandwich.tap"
+--tape-sum a17de314a2f8df0b4e14e518fe3f60e8
+--start 1343
+--sim-load-config finish-tape=1

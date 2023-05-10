@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/n/Nikosie.tap.zip
+nikosie.z80
+--sim-load
+--tape-name "NIKOSIE.TAP"
+--tape-sum 6ad3c9734d07654be0077ff39712651f
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MysteryBox.tap.zip
+mystery-box.z80
+--sim-load
+--tape-name "MYSTERYB.TAP"
+--tape-sum 1eb13ba6bae0a8aa44f5e305bd0d43e7
+--start 1343
+--sim-load-config finish-tape=1

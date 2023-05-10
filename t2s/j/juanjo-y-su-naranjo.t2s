@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/j/JuanjoYSuNaranjo.tap.zip
+juanjo-y-su-naranjo.z80
+--sim-load
+--tape-name "Juanjo Y Su Naranjo.tap"
+--tape-sum 1c5667d7e6e0eded12676e3d9f823034
+--start 1343
+--sim-load-config finish-tape=1

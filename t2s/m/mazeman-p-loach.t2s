@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Mazeman_2.tap.zip
+mazeman-p-loach.z80
+--sim-load
+--tape-name "Mazeman.tap"
+--tape-sum a45b65a9f8662af8a26bea1d049e3bce
+--start 1343
+--sim-load-config finish-tape=1

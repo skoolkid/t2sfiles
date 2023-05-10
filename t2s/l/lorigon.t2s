@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/l/Lorigon.tap.zip
+lorigon.z80
+--sim-load
+--tape-name "Lorigon.tap"
+--tape-sum b9c51cc208b35d21ddea5f61f74a6821
+--start 1343
+--sim-load-config finish-tape=1

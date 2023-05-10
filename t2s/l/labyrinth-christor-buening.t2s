@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/l/Labyrinth_3.tzx.zip
+labyrinth-christor-buening.z80
+--sim-load
+--tape-name "Labyrinth (Christor Buening).tzx"
+--tape-sum 3e60a21c9c148a5a8c5d6e61f3152cef
+--start 1343
+--sim-load-config finish-tape=1

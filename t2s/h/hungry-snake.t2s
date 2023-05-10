@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/h/HungrySnake.tap.zip
+hungry-snake.z80
+--sim-load
+--tape-name "MontyThePython.tap"
+--tape-sum 79c50c9a7a21f24a36e9c24983e9e848
+--start 1343
+--sim-load-config finish-tape=1

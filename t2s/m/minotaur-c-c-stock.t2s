@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Minotaur_2.tap.zip
+minotaur-c-c-stock.z80
+--sim-load
+--tape-name "Minotaur.TAP"
+--tape-sum 6229f330cf6dce54b733340a88382d80
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/ParcelDrop.tap.zip
+parcel-drop.z80
+--sim-load
+--tape-name "Parcels.tap"
+--tape-sum 2603eaec15b38e97d4ae520bac9fc3c7
+--start 1343
+--sim-load-config finish-tape=1

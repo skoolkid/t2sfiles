@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/h/HiddenPaths.tap.zip
+hidden-paths.z80
+--sim-load
+--tape-name "pg58_hiddenpaths.tap"
+--tape-sum 9af72bfa751f055ad3d3dbc8186872ff
+--start 1343
+--sim-load-config finish-tape=1

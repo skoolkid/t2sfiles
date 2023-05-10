@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Poker(1).tap.zip
+poker-unknown.z80
+--sim-load
+--tape-name "POKER_.TAP"
+--tape-sum 74942680c07fdd0cfd0cf3c92d0dc825
+--start 1343
+--sim-load-config finish-tape=1

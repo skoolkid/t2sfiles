@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Murder_2.tzx.zip
+murder-c-girelli.z80
+--sim-load
+--tape-name "Murder.tzx"
+--tape-sum 50fefcdc932423945cfcc9c9888daf52
+--start 1343
+--sim-load-config finish-tape=1
