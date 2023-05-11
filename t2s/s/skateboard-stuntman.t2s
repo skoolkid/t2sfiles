@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SkateboardStuntman.tap.zip
+skateboard-stuntman.z80
+--sim-load
+--tape-name "Skateboard Stuntman.tap"
+--tape-sum 830752716598be24b566c71bb0b30c64
+--start 1343
+--sim-load-config finish-tape=1

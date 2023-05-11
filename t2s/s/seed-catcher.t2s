@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SeedCatcher.tap.zip
+seed-catcher.z80
+--sim-load
+--tape-name "SEED.TAP"
+--tape-sum a5452a16d909c26e662bbcfba3a0c5dc
+--start 1343
+--sim-load-config finish-tape=1

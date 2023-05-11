@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/r/Reversi_8.tap.zip
+reversi-r-m-francis.z80
+--sim-load
+--tape-name "REVERSI2.TAP"
+--tape-sum 90ed4f081478000217e9bb62e1b5f424
+--start 1343
+--sim-load-config finish-tape=1

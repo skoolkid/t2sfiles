@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Simon.tap.zip
+simon-unknown.z80
+--sim-load
+--tape-name "SIMON.TAP"
+--tape-sum 15291726002a45165c78903a68d698f5
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SpaceTraffic_2.tap.zip
+space-traffic-paul-stanley.z80
+--sim-load
+--tape-name "Space Traffic.tap"
+--tape-sum 6560c0de23598d26fe5139d247be8057
+--start 1343
+--sim-load-config finish-tape=1

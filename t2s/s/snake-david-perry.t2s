@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Snake_4.tap.zip
+snake-david-perry.z80
+--sim-load
+--tape-name "Snake.tap"
+--tape-sum 9789412cd1b76fa841996caa83fab398
+--start 1343
+--sim-load-config finish-tape=1

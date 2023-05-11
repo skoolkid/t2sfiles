@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Sgrizam(SmallCase).tzx.zip
+sgrizam.z80
+--sim-load
+--tape-name "Sgrizam.tzx"
+--tape-sum a9bb6b297135a24386b643b51fe76283
+--start 32512

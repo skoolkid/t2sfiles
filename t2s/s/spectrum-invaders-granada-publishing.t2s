@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SpectrumInvaders.tap.zip
+spectrum-invaders-granada-publishing.z80
+--sim-load
+--tape-name "SpectrumInvaders.tap"
+--tape-sum 20a80a4eff3c56313f1b60e995956182
+--start 1343
+--sim-load-config finish-tape=1

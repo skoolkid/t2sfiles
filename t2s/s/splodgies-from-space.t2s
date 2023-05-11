@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SplodgiesFromSpace.tap.zip
+splodgies-from-space.z80
+--sim-load
+--tape-name "Splodgie.tap"
+--tape-sum b49e5df3f0382948f3970bf712a9b176
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Signalman.tap.zip
+signalman.z80
+--sim-load
+--tape-name "SIGNAL.TAP"
+--tape-sum 94aed798a2c23c4d1a1cf1b8d819610d
+--start 1343
+--sim-load-config finish-tape=1

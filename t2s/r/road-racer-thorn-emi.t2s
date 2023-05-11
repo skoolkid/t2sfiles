@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RoadRacer_2.tzx.zip
+road-racer-thorn-emi.z80
+--sim-load
+--tape-name "Road Racer (Thorn EMI).tzx"
+--tape-sum 7ef048be0afcfaf6853c79395971ac36
+--start 26880

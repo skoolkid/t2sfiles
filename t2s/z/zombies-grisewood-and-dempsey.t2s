@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/z/Zombies_2.tap.zip
+zombies-grisewood-and-dempsey.z80
+--sim-load
+--tape-name "zombies.tap"
+--tape-sum a3a6089b6bcd9603a4e753a43e33b819
+--start 1343
+--sim-load-config finish-tape=1

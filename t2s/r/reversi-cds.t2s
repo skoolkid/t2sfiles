@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/r/Reversi_2.tzx.zip
+reversi-cds.z80
+--sim-load
+--tape-name "Reversi (CDS).tzx"
+--tape-sum 91d32d93b4f413fcef7fac05022695c1
+--start 1343
+--sim-load-config finish-tape=1

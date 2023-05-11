@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SheepdogChampion.tap.zip
+sheepdog-champion.z80
+--sim-load
+--tape-name "SheepdogChampion.TAP"
+--tape-sum 6a1eab90d57d8d64d75d37e0f7815042
+--start 1343
+--sim-load-config finish-tape=1

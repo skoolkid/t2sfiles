@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/ShuttleMaster.tap.zip
+shuttle-master.z80
+--sim-load
+--tape-name "ShuttleMaster.tap"
+--tape-sum 4964279737d3fdc5318ca02d5a6d89c0
+--start 1343
+--sim-load-config finish-tape=1

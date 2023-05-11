@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Searchlight.tap.zip
+searchlight.z80
+--sim-load
+--tape-name "Searchlight.tap"
+--tape-sum b971de5799bfc64f52395ab05475fcfa
+--start 1343
+--sim-load-config finish-tape=1

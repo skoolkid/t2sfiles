@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TreeEaters.tap.zip
+tree-eaters.z80
+--sim-load
+--tape-name "Tree Eaters.tap"
+--tape-sum ea13fa0c4b2d63a1c15e33b2db9cbb07
+--start 1343
+--sim-load-config finish-tape=1

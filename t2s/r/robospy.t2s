@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/r/Robospy.tap.zip
+robospy.z80
+--sim-load
+--tape-name "Robospy.tap"
+--tape-sum f41cb57fdac9de18f7478c0ce94f1a13
+--start 1343
+--sim-load-config finish-tape=1

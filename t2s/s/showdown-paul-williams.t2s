@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Showdown_2.tzx.zip
+showdown-paul-williams.z80
+--sim-load
+--tape-name "Showdown.tzx"
+--tape-sum baed5d86e7a0bb8066316a563a67c2df
+--start 1343
+--sim-load-config finish-tape=1

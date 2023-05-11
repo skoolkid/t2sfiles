@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/Timezone.tap.zip
+timezone.z80
+--sim-load
+--tape-name "Time Zone.tap"
+--tape-sum 5eca1da0ecbf40446a3a560461c57596
+--start 1343
+--sim-load-config finish-tape=1

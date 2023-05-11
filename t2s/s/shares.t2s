@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Shares.tap.zip
+shares.z80
+--sim-load
+--tape-name "Shares.tap"
+--tape-sum 848091276eb8ab174522dd095f28fc73
+--start 1343
+--sim-load-config finish-tape=1

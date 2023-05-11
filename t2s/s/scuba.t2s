@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Scuba.tap.zip
+scuba.z80
+--sim-load
+--tape-name "Scuba.tap"
+--tape-sum 7e4b7bf7a78eb0b1a2c30187eadd9a2e
+--start 1343
+--sim-load-config finish-tape=1

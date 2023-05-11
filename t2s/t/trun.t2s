@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/Trun.tap.zip
+trun.z80
+--sim-load
+--tape-name "Trun.tap"
+--tape-sum ac3cac60383dbe435bb84722ea193b43
+--start 1343
+--sim-load-config finish-tape=1

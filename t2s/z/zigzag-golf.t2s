@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/z/ZigzagGolf.tap.zip
+zigzag-golf.z80
+--sim-load
+--tape-name "zigzag_golf.tap"
+--tape-sum eb3a5f00e4202dc6087462db9d21df11
+--start 1343
+--sim-load-config finish-tape=1

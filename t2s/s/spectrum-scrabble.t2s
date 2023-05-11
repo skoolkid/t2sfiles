@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SpectrumScrabble.tap.zip
+spectrum-scrabble.z80
+--sim-load
+--tape-name "SpectrumScrabble.tap"
+--tape-sum 744148d02f9c12325519af82ae393ab2
+--start 1343
+--sim-load-config finish-tape=1

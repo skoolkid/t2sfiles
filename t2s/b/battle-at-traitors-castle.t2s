@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BattleAtTraitorsCastle.tap.zip
+battle-at-traitors-castle.z80
+--sim-load
+--tape-name "TraitorsCastle.tap"
+--tape-sum fc1c866ccc735de0563a1e4fd9b31486
+--start 1343
+--sim-load-config finish-tape=1

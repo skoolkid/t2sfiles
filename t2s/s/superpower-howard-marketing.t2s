@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Superpower_2.tzx.zip
+superpower-howard-marketing.z80
+--sim-load
+--tape-name "Superpower (Howard Marketing).tzx"
+--tape-sum 4ce982f540aa44d4b73c5fa642934c22
+--start 1343
+--sim-load-config finish-tape=1

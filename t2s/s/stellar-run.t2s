@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/StellarRun.tap.zip
+stellar-run.z80
+--sim-load
+--tape-name "Stellar Run.tap"
+--tape-sum c3d1b44633124e6cb4f11c2a57095f1e
+--start 1343
+--sim-load-config finish-tape=1

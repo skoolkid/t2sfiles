@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/ShootingGallery.tap.zip
+shooting-gallery.z80
+--sim-load
+--tape-name "SHOOTGAL.TAP"
+--tape-sum fd255888b855572fdf1dde16018d7e74
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/ShootTheRapids.tap.zip
+shoot-the-rapids.z80
+--sim-load
+--tape-name "SHOOTTHE.TAP"
+--tape-sum e05994ce37d0e3943f60ea69a0569eba
+--start 1343
+--sim-load-config finish-tape=1

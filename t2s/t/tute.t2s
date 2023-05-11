@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/Tute.tap.zip
+tute.z80
+--sim-load
+--tape-name "Tute (Investronica).tap"
+--tape-sum 9ceb6cc55e02fb8be853f46a9facfa6e
+--start 1343
+--sim-load-config finish-tape=1

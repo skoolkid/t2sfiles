@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/StarFirebirds(FirebirdSoftwareLtd).tzx.zip
+star-firebirds.z80
+--sim-load
+--tape-name "Star Firebirds.tzx"
+--tape-sum 398aea4174c6e6b878e02ddcc69a527d
+--start 64045

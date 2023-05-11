@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/z/ZXPoker(unknown).tap.zip
+zx-poker-david-lamb.z80
+--sim-load
+--tape-name "ZXPoker.tap"
+--tape-sum 23442781a3dec15b0745d383ccedb842
+--start 1343
+--sim-load-config finish-tape=1

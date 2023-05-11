@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Starship.tap.zip
+starship-mikro-gen.z80
+--sim-load
+--tape-name "STARSHIM.TAP"
+--tape-sum 62d0cec384106470f4e962af761929cb
+--start 1343
+--sim-load-config finish-tape=1

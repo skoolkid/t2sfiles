@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/w/Wordking.tap.zip
+wordking.z80
+--sim-load
+--tape-name "wordking.tap"
+--tape-sum 6e420594c86a3f2acc9566eac5ebfafd
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RoboticCapers(Promo).tzx.zip
+robotic-capers.z80
+--sim-load
+--tape-name "Robotic Capers - Promo - Side A.tzx"
+--tape-sum 9f846ce6e0a363744a08c65964e5024a
+--start 1343
+--sim-load-config finish-tape=1

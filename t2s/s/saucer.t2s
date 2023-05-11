@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Saucer.tap.zip
+saucer.z80
+--sim-load
+--tape-name "SAUCER.TAP"
+--tape-sum 48461cc6260d714c60213c122600653c
+--start 1343
+--sim-load-config finish-tape=1

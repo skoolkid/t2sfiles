@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/r/Roborun.tap.zip
+roborun.z80
+--sim-load
+--tape-name "Roborun.tap"
+--tape-sum 56dc74f8a79a39d3cf42486bcfb2467d
+--start 1343
+--sim-load-config finish-tape=1

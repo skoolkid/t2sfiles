@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/w/Wortsuchspiel.tap.zip
+wortsuchspiel.z80
+--sim-load
+--tape-name "Wortsuchspiel.tap"
+--tape-sum 1ea4f9af3df85b0c3ecbfb15cededf51
+--start 1343
+--sim-load-config finish-tape=1

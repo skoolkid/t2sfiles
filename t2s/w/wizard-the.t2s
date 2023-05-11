@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/w/WizardThe.tap.zip
+wizard-the.z80
+--sim-load
+--tape-name "WIZARD.TAP"
+--tape-sum b547175248fb9c1d5e510482e69bcf97
+--start 1343
+--sim-load-config finish-tape=1

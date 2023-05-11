@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/w/Warlock_2.tap.zip
+warlock-hugh-walker.z80
+--sim-load
+--tape-name "WARLOCK.TAP"
+--tape-sum a07594a62d63298ca31cb137b5873253
+--start 1343
+--sim-load-config finish-tape=1

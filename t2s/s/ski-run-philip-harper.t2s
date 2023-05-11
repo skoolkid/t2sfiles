@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SkiRun.tap.zip
+ski-run-philip-harper.z80
+--sim-load
+--tape-name "SKIRUN.TAP"
+--tape-sum e975631dc8b1ab3e749e21bd43984024
+--start 1343
+--sim-load-config finish-tape=1

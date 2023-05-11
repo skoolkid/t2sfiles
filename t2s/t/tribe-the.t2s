@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TribeThe.tap.zip
+tribe-the.z80
+--sim-load
+--tape-name "TheTribe.tap"
+--tape-sum c3b908d701af1a9e251dfe653c362461
+--start 1343
+--sim-load-config finish-tape=1

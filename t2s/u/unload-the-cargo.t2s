@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/u/UnloadTheCargo.tap.zip
+unload-the-cargo.z80
+--sim-load
+--tape-name "UNLOAD.TAP"
+--tape-sum 7fbdd780587ba7256807eca12731e0b3
+--start 1343
+--sim-load-config finish-tape=1

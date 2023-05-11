@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/w/Worm(Polarsoft).tzx.zip
+worm-polarsoft.z80
+--sim-load
+--tape-name "Worm.tzx"
+--tape-sum da2e37db8a95b79d4059cddc16634aa8
+--start 1343
+--sim-load-config finish-tape=1

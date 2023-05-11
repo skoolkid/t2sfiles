@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/r/Radiopower.tap.zip
+radiopower.z80
+--sim-load
+--tape-name "Radiopower.tap"
+--tape-sum e38c0399e43075fe19768a0e31b8ee50
+--start 1343
+--sim-load-config finish-tape=1

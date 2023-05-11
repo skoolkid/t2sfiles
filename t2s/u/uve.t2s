@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/u/Uve.tap.zip
+uve.z80
+--sim-load
+--tape-name "Uve.tap"
+--tape-sum 4b96b8260173c087294aed4a17d74f65
+--start 1343
+--sim-load-config finish-tape=1

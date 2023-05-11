@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SwordsmanOfKraxis7The.tap.zip
+swordsman-of-kraxis-7-the.z80
+--sim-load
+--tape-name "SwordsmanOfKraxis7.TAP"
+--tape-sum bced611798843d599fccfec054bcd254
+--start 1343
+--sim-load-config finish-tape=1

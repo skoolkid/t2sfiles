@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Shanghai2.tap.zip
+shanghai-2.z80
+--sim-load
+--tape-name "Shanghai 2.tap"
+--tape-sum 0544c4744d9eeed9d72f7508f14efac5
+--start 1343
+--sim-load-config finish-tape=1

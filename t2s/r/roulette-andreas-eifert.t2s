@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/r/Roulette_2.tap.zip
+roulette-andreas-eifert.z80
+--sim-load
+--tape-name "Roulette.tap"
+--tape-sum 6dc6f79ab16adbeddc0a7c960b75663e
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Square.tap.zip
+square.z80
+--sim-load
+--tape-name "Square.tap"
+--tape-sum d4d54718e2ab642164c1ac93b4d116ec
+--start 1343
+--sim-load-config finish-tape=1

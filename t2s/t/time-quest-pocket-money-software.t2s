@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TimeQuest(PocketMoneySoftware).tzx.zip
+time-quest-pocket-money-software.z80
+--sim-load
+--tape-name "Time Quest (Pocket Money Software).tzx"
+--tape-sum 0dbb4218fa1c32ca00a3e866170bb439
+--start 25000

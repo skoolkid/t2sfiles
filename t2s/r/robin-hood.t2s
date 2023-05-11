@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RobinHood.tap.zip
+robin-hood.z80
+--sim-load
+--tape-name "ROBNHO_1.TAP"
+--tape-sum 29490675bb86322ddad0336abaab1baa
+--start 1343
+--sim-load-config finish-tape=1

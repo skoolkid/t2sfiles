@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SpaceTrader.tap.zip
+space-trader.z80
+--sim-load
+--tape-name "SPTRADER.TAP"
+--tape-sum af9443f2302e14239a6cca2aacd06877
+--start 1343
+--sim-load-config finish-tape=1

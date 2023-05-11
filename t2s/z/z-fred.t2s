@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/z/Z-Fred.tap.zip
+z-fred.z80
+--sim-load
+--tape-name "Z-FRED.TAP"
+--tape-sum 7a1ae55193f78b41d2b0cc08ed880814
+--start 1343
+--sim-load-config finish-tape=1

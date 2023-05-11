@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/Tiktak.tap.zip
+tiktak.z80
+--sim-load
+--tape-name "Tiktaktyka.tap"
+--tape-sum 3d3347055320d0e0fe0781a968323993
+--start 1343
+--sim-load-config finish-tape=1

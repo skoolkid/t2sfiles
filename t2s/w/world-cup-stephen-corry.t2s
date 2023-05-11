@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/w/WorldCup_2.tzx.zip
+world-cup-stephen-corry.z80
+--sim-load
+--tape-name "World Cup.tzx"
+--tape-sum e93345dd775169d295e7e1d71ff96491
+--start 1343
+--sim-load-config finish-tape=1

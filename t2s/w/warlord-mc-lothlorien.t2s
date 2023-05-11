@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/w/Warlord_3.tzx.zip
+warlord-mc-lothlorien.z80
+--sim-load
+--tape-name "Warlord (Lothlorien).tzx"
+--tape-sum a146f761f8fa33fcf56cbea56e3c4a8f
+--start 1343
+--sim-load-config finish-tape=1

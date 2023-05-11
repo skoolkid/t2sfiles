@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SpaceRocks_2.tap.zip
+space-rocks.z80
+--sim-load
+--tape-name "SPACEROCKS.tap"
+--tape-sum afef3d816d1c54c08aa43c057c6539ff
+--start 1343
+--sim-load-config finish-tape=1

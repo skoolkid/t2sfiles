@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SnookerMasters(1988).tzx.zip
+snooker-masters.z80
+--sim-load
+--tape-name "Snooker Masters - 1988 Version.tzx"
+--tape-sum 7a5ca7a5e0ca18c19b65a1c1754c8666
+--start 1343
+--sim-load-config finish-tape=1
