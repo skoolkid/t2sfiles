@@ -1,7 +1,7 @@
-https://tzxvault.org/Spectrum/TZX/Pac-Mania.zip
+https://worldofspectrum.net/pub/sinclair/games/p/Pacmania.tzx.zip
 pacmania.z80
 --sim-load
---tape-name "Pac-Mania.tzx"
---tape-sum 6571e1c21f4f971c94f51968f6440a78
---start 24400
+--tape-name "pacmania.tzx"
+--tape-sum 3891509d99187f41e48545d1ce5aa2fb
+--start 1343
 --sim-load-config finish-tape=1

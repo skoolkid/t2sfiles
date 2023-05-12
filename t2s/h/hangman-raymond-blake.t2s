@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/h/Hangman_3.tap.zip
+hangman-raymond-blake.z80
+--sim-load
+--tape-name "Hangman.tap"
+--tape-sum 856232a162271000157387e87822a277
+--start 1343
+--sim-load-config finish-tape=1

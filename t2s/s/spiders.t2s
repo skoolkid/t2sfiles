@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Spiders.tap.zip
+spiders.z80
+--sim-load
+--tape-name "SPIDERS.TAP"
+--tape-sum 2ee49765c5357de3b3973ab6e01e2fc6
+--start 1343
+--sim-load-config finish-tape=1

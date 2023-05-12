@@ -1,0 +1,8 @@
+; Enter "RUN" to start game
+https://worldofspectrum.net/pub/sinclair/games/r/ReallyKnight.tap.zip
+really-knight.z80
+--sim-load
+--tape-name "Really Knight.tap"
+--tape-sum b633af38fde86faa1d42f3e3c8796609
+--start 1343
+--sim-load-config finish-tape=1

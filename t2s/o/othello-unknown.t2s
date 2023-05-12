@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/o/Othello.tap.zip
+othello-unknown.z80
+--sim-load
+--tape-name "OTHELLO.TAP"
+--tape-sum f83403489c91f23a5eb26813dfbb9254
+--start 1343
+--sim-load-config finish-tape=1

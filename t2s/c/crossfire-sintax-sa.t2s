@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Crossfire_2.tap.zip
+crossfire-sintax-sa.z80
+--sim-load
+--tape-name "CROSSFIR.TAP"
+--tape-sum e937a32b893ed5c07d92cba29a81e727
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/h/Heli-Bomber.tap.zip
+heli-bomber-editoriale-video.z80
+--sim-load
+--tape-name "Heli-Bomber.tap"
+--tape-sum ddf3605af9726a055d5bc6ae9331ea74
+--start 1343
+--sim-load-config finish-tape=1

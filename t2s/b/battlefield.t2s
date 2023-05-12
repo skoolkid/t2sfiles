@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Battlefield.tap.zip
+battlefield.z80
+--sim-load
+--tape-name "BATTLEFI.TAP"
+--tape-sum 2b059512c0cd324f01c9086b15141276
+--start 1343
+--sim-load-config finish-tape=1

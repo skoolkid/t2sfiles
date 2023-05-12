@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BouncingBall.tap.zip
+bouncing-ball.z80
+--sim-load
+--tape-name "BOUNCING.TAP"
+--tape-sum 410f0ed0f754aa557626237817c56422
+--start 1343
+--sim-load-config finish-tape=1
