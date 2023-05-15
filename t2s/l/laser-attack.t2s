@@ -1,7 +1,0 @@
-https://worldofspectrum.net/pub/sinclair/games/l/LaserAttack.tzx.zip
-laser-attack.z80
---sim-load
---tape-name "Laser Attack.tzx"
---tape-sum a03adef814258df00311bfe726986f75
---start 1343
---sim-load-config finish-tape=1

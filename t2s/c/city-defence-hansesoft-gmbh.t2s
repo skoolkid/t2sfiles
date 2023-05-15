@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CityDefence.tzx.zip
+city-defence-hansesoft-gmbh.z80
+--sim-load
+--tape-name "City Defence (Hansesoft).tzx"
+--tape-sum b5d2d20c1cb794de53dd615ffc5df1c2
+--start 40000

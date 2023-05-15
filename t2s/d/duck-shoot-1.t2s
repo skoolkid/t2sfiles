@@ -1,8 +1,0 @@
-https://worldofspectrum.net/pub/sinclair/games/d/DuckShoot(1).tzx.zip
-duck-shoot-1.z80
---sim-load
---tape-name "Duck Shoot 83.tzx"
---tape-sum 276a66699d16943f7b21a02d2b17452e
---start 1343
---sim-load-config finish-tape=1
---tape-stop 3

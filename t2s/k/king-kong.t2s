@@ -1,8 +1,0 @@
-https://worldofspectrum.net/pub/sinclair/games/k/King-Kong.tzx.zip
-king-kong.z80
---sim-load
---tape-name "King-Kong.tzx"
---tape-sum b42ac1f39bf0164911e2c3033121e5f6
---start 1343
---tape-stop 5
---sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Splat!-Release1.zip
+splat-incentive-software.z80
+--sim-load
+--tape-name "Splat! - Release 1.tzx"
+--tape-sum f494ac6a0f28ad72a9627fdb1633d064
+--start 65060

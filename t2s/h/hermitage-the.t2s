@@ -1,7 +1,0 @@
-https://tzxvault.org/Spectrum/TZX/TheHermitage.zip
-hermitage-the.z80
---sim-load
---tape-name "The Hermitage.tzx"
---tape-sum 61f38cf3b938a48f4e124c268ed0b6c8
---start 36376
---sim-load-config finish-tape=1

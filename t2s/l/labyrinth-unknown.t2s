@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/l/Labyrinth.tzx.zip
+labyrinth-unknown.z80
+--sim-load
+--tape-name "Labyrinth.tzx"
+--tape-sum c50c7fdddeb6bbc0280a4d6a6c1c27e5
+--start 1343
+--sim-load-config finish-tape=1

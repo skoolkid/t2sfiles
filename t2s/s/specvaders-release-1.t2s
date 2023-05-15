@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SpecvadersV1.tzx.zip
+specvaders-release-1.z80
+--sim-load
+--tape-name "Specvaders - Release 1.tzx"
+--tape-sum f740ac47fb715a1aad1a25322bdbe5d9
+--start 28928

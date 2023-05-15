@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/MunchMan.zip
+munchman-dk-tronics.z80
+--sim-load
+--tape-name "Munch Man.tzx"
+--tape-sum 9b35975609b4a35543e15770bed25f16
+--start 27901

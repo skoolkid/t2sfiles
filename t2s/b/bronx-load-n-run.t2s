@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Bronx_2.tzx.zip
+bronx-load-n-run.z80
+--sim-load
+--tape-name "Bronx.tzx"
+--tape-sum f19e0d0056c03a5f38cc82e3b694218f
+--start 23877

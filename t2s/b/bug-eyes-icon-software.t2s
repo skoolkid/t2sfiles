@@ -1,0 +1,7 @@
+https://tzxvault.org/Spectrum/TZX/Bug-Eyes.zip
+bug-eyes-icon-software.z80
+--sim-load
+--tape-name "Bug-Eyes.tzx"
+--tape-sum 94cfb99533c545119e4fc953dded6826
+--start 36033
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/l/Labyrinth3D.tzx.zip
+3d-labyrinth-c-and-vg.z80
+--sim-load
+--tape-name "3-D Labyrinth.tzx"
+--tape-sum 370623cabb7e8d2853cb9450000c2234
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,6 +1,0 @@
-https://tzxvault.org/Spectrum/TZX/Panic.zip
-panic.z80
---sim-load
---tape-name "Panic.tzx"
---tape-sum e9953a9c02b05ddd8ebc81b09b588356
---start 35500

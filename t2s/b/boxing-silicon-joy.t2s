@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Boxing_2.tzx.zip
+boxing-silicon-joy.z80
+--sim-load
+--tape-name "Boxing.tzx"
+--tape-sum 43a0227d4edceadd18e49fabb10e78bf
+--start 42300

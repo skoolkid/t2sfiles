@@ -1,7 +1,0 @@
-https://worldofspectrum.net/pub/sinclair/games/b/Bingo.tzx.zip
-bingo.z80
---sim-load
---tape-name "Bingo.tzx"
---tape-sum 94f9b5242b8d10b2835e3b2f026b2efb
---start 1343
---sim-load-config finish-tape=1

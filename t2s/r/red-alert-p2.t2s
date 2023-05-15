@@ -1,7 +1,0 @@
-https://worldofspectrum.net/pub/sinclair/games/r/RedAlert.tzx.zip
-red-alert-p2.z80
---sim-load
---tape-name "Red Alert - Part 2.tzx"
---tape-sum 557714d76b62201d69fea4ade971aa01
---start 29169
---sim-load-config finish-tape=1

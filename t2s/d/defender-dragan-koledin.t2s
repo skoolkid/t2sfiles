@@ -1,8 +1,0 @@
-https://worldofspectrum.net/pub/sinclair/games/d/Defender_3.tap.zip
-defender-dragan-koledin.z80
---sim-load
---tape-name "DEFENDER.TAP"
---tape-sum 3bf76351bef1df485374b784efbe7c65
---start 1343
---sim-load-config finish-tape=1
---state issue2=1

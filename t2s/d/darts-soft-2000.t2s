@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/d/Darts_2.tzx.zip
+darts-soft-2000.z80
+--sim-load
+--tape-name "Darts.tzx"
+--tape-sum e4864f4d5fa7ce142a1284e8373ad2cf
+--start 65318

@@ -1,7 +1,0 @@
-https://worldofspectrum.net/pub/sinclair/games/p/PlayYourCardsRight.tzx.zip
-play-your-cards-right.z80
---sim-load
---tape-name "Play Your Cards Right.tzx"
---tape-sum c8195a399bf6986b83b229f7a7a70228
---start 1343
---sim-load-config finish-tape=1

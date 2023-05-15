@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/a/Aliens.tzx.zip
+aliens-load-n-run.z80
+--sim-load
+--tape-name "Aliens.tzx"
+--tape-sum 7e925be296a2e687d9ac07c42f6939bb
+--start 39800

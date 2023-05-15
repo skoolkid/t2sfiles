@@ -1,7 +1,0 @@
-https://worldofspectrum.net/pub/sinclair/games/e/Election.tzx.zip
-election.z80
---sim-load
---tape-name "Election.tzx"
---tape-sum 51f20dc0df03f55a42f6529456fee7c2
---start 1343
---sim-load-config finish-tape=1
