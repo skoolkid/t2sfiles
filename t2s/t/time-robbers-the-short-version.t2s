@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TimeRobbersThe.tzx.zip
+time-robbers-the-short-version.z80
+--sim-load
+--tape-name "The Time Robbers - Side 1 (Short Version).tzx"
+--tape-sum 90edf37287e5b79d9514781a7d86683f
+--start 42000

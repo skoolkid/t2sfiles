@@ -1,7 +1,0 @@
-"https://tzxvault.org/Spectrum/TZX/MrT'sMeasuringGames.zip"
-mr-ts-measuring-games.z80
---sim-load
---tape-name "Mr T's Measuring Games - Side 1.tzx"
---tape-sum b99263380dbc5923bdbba03a7333da8a
---start 23416
---sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://worldofspectrum.org/pub/sinclair/games/w/Wordgames.tzx.zip
+word-games-side-1.z80
+--sim-load
+--tape-name "Word Games - Side 1.tzx"
+--tape-sum 8912156fdc251ba53251709557f3363e
+--start 60000

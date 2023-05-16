@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/pub/sinclair/games/c/Cozumel.tzx.zip
+cozumel-side-a.z80
+--sim-load
+--tape-name "Cozumel - Side A.tzx"
+--tape-sum 24e2bfa51d56ff5b046961de28ba1cbf
+--start 25086

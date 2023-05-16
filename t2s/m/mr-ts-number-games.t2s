@@ -1,7 +1,0 @@
-https://worldofspectrum.net/pub/sinclair/games/m/MrTsNumberGames.tzx.zip
-mr-ts-number-games.z80
---sim-load
---tape-name "Mr T's Number Games - Side 1.tzx"
---tape-sum babcb839b8066debd5c51133c0267b53
---start 23416
---sim-load-config finish-tape=1
