@@ -1,7 +1,0 @@
-https://worldofspectrum.net/pub/sinclair/games/d/Dominoes(BlueRibbonSoftware).tzx.zip
-dominoes-blue-ribbon.z80
---sim-load
---tape-name "Dominoes (Blue Ribbon).tzx"
---tape-sum 672754ff044a54575031b9ba0f91e37f
---start 1343
---sim-load-config finish-tape=1

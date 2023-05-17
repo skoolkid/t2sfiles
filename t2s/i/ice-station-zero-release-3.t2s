@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/IceStationZero-Release3.zip
+ice-station-zero-release-3.z80
+--sim-load
+--tape-name "Ice Station Zero - Release 3 - Side 1.tzx"
+--tape-sum cf55c4e75334f4039c1e4808c111ea66
+--start 25000

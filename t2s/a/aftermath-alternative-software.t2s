@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/a/Aftermath.tzx.zip
+aftermath-alternative-software.z80
+--sim-load
+--tape-name "Aftermath (Alternative).tzx"
+--tape-sum 29a34ac3d109c15c66ce5bca7e27291d
+--start 62086

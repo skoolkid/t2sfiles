@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/n/Newmarket.tap.zip
+newmarket-daton-software.z80
+--sim-load
+--tape-name "Newmarket.tap"
+--tape-sum c9bece4f65256407dbdb76bdd6c1e8e9
+--start 52396

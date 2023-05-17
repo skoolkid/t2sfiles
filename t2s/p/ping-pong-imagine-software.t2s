@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PingPong.tzx.zip
+ping-pong-imagine-software.z80
+--sim-load
+--tape-name "Ping Pong.tzx"
+--tape-sum 7f093258165ae626fb38b639aeb9d5f0
+--start 65393

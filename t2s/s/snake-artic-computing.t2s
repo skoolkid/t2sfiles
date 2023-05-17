@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Snake_2.tzx.zip
+snake-artic-computing.z80
+--sim-load
+--tape-name "Snake (Artic).tzx"
+--tape-sum 0dcf920e94735a8b35ca2496ef886a1f
+--start 1343
+--sim-load-config finish-tape=1

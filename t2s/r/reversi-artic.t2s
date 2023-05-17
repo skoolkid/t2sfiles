@@ -1,7 +1,0 @@
-https://worldofspectrum.net/pub/sinclair/games/r/Reversi.tzx.zip
-reversi-artic.z80
---sim-load
---tape-name "Reversi - 48k (Artic).tzx"
---tape-sum d2f3512894f0679ec3b095a4c587a6d8
---start 1343
---sim-load-config finish-tape=1

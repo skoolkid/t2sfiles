@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/h/Hive.tzx.zip
+hive-firebird-software.z80
+--sim-load
+--tape-name "Hive - Side A.tzx"
+--tape-sum d34ab4599ffae974edd7622d75fe800b
+--start 24476
