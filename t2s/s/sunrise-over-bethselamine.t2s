@@ -3,4 +3,5 @@ sunrise-over-bethselamine.z80
 --sim-load
 --tape-name "Sunrise Over Bethselamine.tzx"
 --tape-sum ba78719f704e383fdab581970cbcb44e
---start 7997
+--start 1343
+--sim-load-config finish-tape=1

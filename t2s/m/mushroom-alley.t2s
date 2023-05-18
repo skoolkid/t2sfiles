@@ -3,4 +3,5 @@ mushroom-alley.z80
 --sim-load
 --tape-name "Mushroom Alley.tzx"
 --tape-sum 4aff68c119a0e53e99aa00cd5a0c0150
---start 7997
+--start 1343
+--sim-load-config finish-tape=1

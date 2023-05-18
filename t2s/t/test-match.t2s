@@ -3,5 +3,6 @@ test-match.z80
 --sim-load
 --tape-name "Test Match.tzx"
 --tape-sum d462cb854d0dbcca484cea4de6348d74
---start 7997
+--start 1343
+--sim-load-config finish-tape=1
 --tape-start 4

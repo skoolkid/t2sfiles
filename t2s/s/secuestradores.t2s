@@ -3,4 +3,5 @@ secuestradores.z80
 --sim-load
 --tape-name "Secuestradores.tzx"
 --tape-sum e02ace5a63fc7887806d04b4d85746cd
---start 7997
+--start 1343
+--sim-load-config finish-tape=1

@@ -3,4 +3,5 @@ worm-attack.z80
 --sim-load
 --tape-name "Worm Attack.tzx"
 --tape-sum 740b847b5108c277abb65f5406fa8f85
---start 7997
+--start 1343
+--sim-load-config finish-tape=1

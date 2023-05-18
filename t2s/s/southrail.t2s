@@ -3,4 +3,5 @@ southrail.z80
 --sim-load
 --tape-name "South Rail.tzx"
 --tape-sum 99227f53fec8c7b14fca980b6ac989cd
---start 7997
+--start 1343
+--sim-load-config finish-tape=1

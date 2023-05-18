@@ -3,4 +3,5 @@ treasure-of-meathos-side-1.z80
 --sim-load
 --tape-name "The Treasure Of Meathos - Side 1.tzx"
 --tape-sum 9e3449656bd38b74311cea57a55ab23f
---start 7997
+--start 1343
+--sim-load-config finish-tape=1

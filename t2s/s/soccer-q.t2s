@@ -3,4 +3,6 @@ soccer-q.z80
 --sim-load
 --tape-name "Soccer Q.tzx"
 --tape-sum 5a543ae9387cf11be51262badc2e71b4
---start 7997
+--start 1343
+--sim-load-config finish-tape=1
+--tape-stop 16

@@ -3,5 +3,6 @@ girl-who-was-death-the-p1.z80
 --sim-load
 --tape-name "The Girl Who Was Death - Part 1.tzx"
 --tape-sum d11df77676869cfa4da720d9b23f6871
---start 7997
+--start 1343
+--sim-load-config finish-tape=1
 --tape-stop 6

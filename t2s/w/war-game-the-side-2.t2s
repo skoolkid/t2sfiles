@@ -3,4 +3,5 @@ war-game-the-side-2.z80
 --sim-load
 --tape-name "War Game - Side 2 (Reelax Games).tzx"
 --tape-sum b93425ee6f8cc8a3e612f4a4afb85926
---start 7997
+--start 1343
+--sim-load-config finish-tape=1

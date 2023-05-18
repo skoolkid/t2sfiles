@@ -3,5 +3,6 @@ zx-cruciverber.z80
 --sim-load
 --tape-name "ZxCruciverber.tzx"
 --tape-sum d15acc92a62b5c2559459865048da5aa
---start 7997
+--start 1343
+--sim-load-config finish-tape=1
 --tape-stop 5

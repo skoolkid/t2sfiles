@@ -3,4 +3,5 @@ mines-of-merlin-the.z80
 --sim-load
 --tape-name "Mines of Merlin.tzx"
 --tape-sum ecf3a470e06c65f16aa7bc729cddb27c
---start 7997
+--start 1343
+--sim-load-config finish-tape=1

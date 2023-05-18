@@ -3,4 +3,5 @@ towering-inferno.z80
 --sim-load
 --tape-name "Towering Inferno.tzx"
 --tape-sum cb09d2f6055c54e98158f531f13641d0
---start 7997
+--start 1343
+--sim-load-config finish-tape=1

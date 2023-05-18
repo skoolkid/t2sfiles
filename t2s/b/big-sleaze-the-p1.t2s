@@ -3,4 +3,5 @@ big-sleaze-the-p1.z80
 --sim-load
 --tape-name "The Big Sleaze - Side 1.tzx"
 --tape-sum e7e222ce77884743d52c202058fdcdb0
---start 7997
+--start 1343
+--sim-load-config finish-tape=1

@@ -3,4 +3,5 @@ manic-miner-3-tales-from-a-parallel-universe.z80
 --sim-load
 --tape-name "Manic Miner 3 - Tales From A Parallel Universe.tzx"
 --tape-sum d67ccc4927a21a84cab0ab08e3967ec9
---start 7997
+--start 1343
+--sim-load-config finish-tape=1

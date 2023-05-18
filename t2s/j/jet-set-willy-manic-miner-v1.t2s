@@ -3,4 +3,5 @@ jet-set-willy-manic-miner-v1.z80
 --sim-load
 --tape-name "Jet Set Willy - Manic Miner - Release 1.tzx"
 --tape-sum a04c5568f5a3d9af798c21fd66b2d5c7
---start 7997
+--start 1343
+--sim-load-config finish-tape=1

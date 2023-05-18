@@ -3,4 +3,5 @@ wedding-the.z80
 --sim-load
 --tape-name "The Wedding.tzx"
 --tape-sum 527846d639eb2fca8ac5dd1bc33f6e2d
---start 7997
+--start 1343
+--sim-load-config finish-tape=1

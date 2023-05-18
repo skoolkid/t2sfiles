@@ -3,4 +3,5 @@ crash.z80
 --sim-load
 --tape-name "Crash.tzx"
 --tape-sum 2587c71be142fea381c0bf67e3dd9076
---start 7997
+--start 1343
+--sim-load-config finish-tape=1

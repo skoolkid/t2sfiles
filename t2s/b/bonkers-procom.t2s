@@ -3,4 +3,5 @@ bonkers-procom.z80
 --sim-load
 --tape-name "Bonkers.tzx"
 --tape-sum ff89898ed8da986fb2491764bab1ece2
---start 7997
+--start 1343
+--sim-load-config finish-tape=1

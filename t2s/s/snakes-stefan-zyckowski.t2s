@@ -3,4 +3,5 @@ snakes-stefan-zyckowski.z80
 --sim-load
 --tape-name "Snakes (S.Zyckowski).tzx"
 --tape-sum 6ba41f543265b29920b502cb0c251874
---start 7997
+--start 1343
+--sim-load-config finish-tape=1

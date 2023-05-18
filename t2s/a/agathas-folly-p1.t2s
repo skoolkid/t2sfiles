@@ -3,4 +3,5 @@ agathas-folly-p1.z80
 --sim-load
 --tape-name "Agatha's Folly - Part 1.tzx"
 --tape-sum ebe3c20eca105389a43297d3e8b7c5a7
---start 7997
+--start 1343
+--sim-load-config finish-tape=1

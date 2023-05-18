@@ -3,4 +3,5 @@ throne-of-camelot-the.z80
 --sim-load
 --tape-name "Throne of Camelot.tzx"
 --tape-sum 079336585d181d34cc3ee21026e4b00e
---start 7997
+--start 1343
+--sim-load-config finish-tape=1

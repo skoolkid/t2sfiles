@@ -3,5 +3,6 @@ trader-trilogy-the.z80
 --sim-load
 --tape-name "The Trader Trilogy.tzx"
 --tape-sum abd34039b40e4a71ad89f224d2816d51
---start 7997
+--start 1343
+--sim-load-config finish-tape=1
 --tape-stop 6

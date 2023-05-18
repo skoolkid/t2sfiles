@@ -3,4 +3,5 @@ bow-the.z80
 --sim-load
 --tape-name "The Bow.tzx"
 --tape-sum bf36de2dc3c828b7828fbfa2bc9f50d5
---start 7997
+--start 1343
+--sim-load-config finish-tape=1

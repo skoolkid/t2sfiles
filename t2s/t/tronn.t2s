@@ -3,4 +3,6 @@ tronn.z80
 --sim-load
 --tape-name "tronn.tzx"
 --tape-sum c8d1e154c14618b0e557d232a38802de
---start 7997
+--start 1343
+--sim-load-config finish-tape=1
+--tape-stop 3

@@ -3,4 +3,5 @@ worlds-of-fantasy.z80
 --sim-load
 --tape-name "Worlds Of Fantasy.tzx"
 --tape-sum 19e22aead0a5b36457adbe1e84c62214
---start 7997
+--start 1343
+--sim-load-config finish-tape=1

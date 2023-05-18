@@ -3,4 +3,5 @@ robin-of-sherlock-p3.z80
 --sim-load
 --tape-name "Robin Of Sherlock - Side 2.tzx"
 --tape-sum bdb0f2b25785c666bcfec0647def5259
---start 7997
+--start 1343
+--sim-load-config finish-tape=1

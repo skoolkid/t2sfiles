@@ -3,4 +3,5 @@ tombola-napoletana.z80
 --sim-load
 --tape-name "TombolaNapoletana.tzx"
 --tape-sum e2ec3b43bb15fbeeab1c3de5b70f23bf
---start 7997
+--start 1343
+--sim-load-config finish-tape=1

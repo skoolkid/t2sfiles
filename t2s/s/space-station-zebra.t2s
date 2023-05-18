@@ -3,4 +3,5 @@ space-station-zebra.z80
 --sim-load
 --tape-name "Space Station Zebra.tzx"
 --tape-sum 0a2635ae278fde99769abd6d1ebadce0
---start 7997
+--start 1343
+--sim-load-config finish-tape=1

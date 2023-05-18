@@ -3,4 +3,5 @@ potty-planter.z80
 --sim-load
 --tape-name "Potty Planter.tzx"
 --tape-sum 0353d3e5b3e336a4f150243628507de3
---start 7997
+--start 1343
+--sim-load-config finish-tape=1

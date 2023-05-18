@@ -3,4 +3,5 @@ videostop-cv-software.z80
 --sim-load
 --tape-name "Video Stop.tzx"
 --tape-sum 14548b9d1329dcc95c3854e87de48652
---start 7997
+--start 1343
+--sim-load-config finish-tape=1

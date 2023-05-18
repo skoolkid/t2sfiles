@@ -3,4 +3,5 @@ manic-miner-the-hobbit-easy.z80
 --sim-load
 --tape-name "Manic Miner - The Hobbit - Easy.tzx"
 --tape-sum 01c958388b56136895956190f7ea1f48
---start 7997
+--start 1343
+--sim-load-config finish-tape=1

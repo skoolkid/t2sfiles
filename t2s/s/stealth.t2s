@@ -3,4 +3,5 @@ stealth.z80
 --sim-load
 --tape-name "stealth.tzx"
 --tape-sum e4376779202849e79933e1154dc65541
---start 7997
+--start 1343
+--sim-load-config finish-tape=1

@@ -3,4 +3,5 @@ szellemkastely.z80
 --sim-load
 --tape-name "SZELLEMKASTELY.tzx"
 --tape-sum c4f236ec751e4f48b2ddbe50067f106d
---start 7997
+--start 1343
+--sim-load-config finish-tape=1

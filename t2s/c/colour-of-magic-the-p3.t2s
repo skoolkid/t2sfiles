@@ -3,4 +3,5 @@ colour-of-magic-the-p3.z80
 --sim-load
 --tape-name "The Colour Of Magic - Side 2.tzx"
 --tape-sum 77d106c9316f99973d1bec4eeb4759a7
---start 7997
+--start 1343
+--sim-load-config finish-tape=1

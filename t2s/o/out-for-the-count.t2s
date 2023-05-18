@@ -3,4 +3,5 @@ out-for-the-count.z80
 --sim-load
 --tape-name "Out For The Count.tzx"
 --tape-sum c3f0ebffe21c92685d9a7229812a5d6d
---start 7997
+--start 1343
+--sim-load-config finish-tape=1

@@ -3,4 +3,5 @@ a-fistful-of-blood-capsules-storyboard.z80
 --sim-load
 --tape-name "A Fistful Of Blood Capsules - Storyboard.tzx"
 --tape-sum d3e1ce3596310a9fadbc18fca736a10e
---start 7997
+--start 1343
+--sim-load-config finish-tape=1

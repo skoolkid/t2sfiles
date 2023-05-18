@@ -3,4 +3,5 @@ sex-game.z80
 --sim-load
 --tape-name "SEX_GAME.TZX"
 --tape-sum 22e8399476d0307cc626798d63acf9f5
---start 7997
+--start 1343
+--sim-load-config finish-tape=1

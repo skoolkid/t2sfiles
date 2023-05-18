@@ -3,4 +3,5 @@ tritz.z80
 --sim-load
 --tape-name "Tritz - 48k.tzx"
 --tape-sum 19928453f6bdcc8290da5ce565830289
---start 7997
+--start 1343
+--sim-load-config finish-tape=1

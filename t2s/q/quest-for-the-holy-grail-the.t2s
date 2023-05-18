@@ -3,4 +3,5 @@ quest-for-the-holy-grail-the.z80
 --sim-load
 --tape-name "The Quest For The Holy Grail.tzx"
 --tape-sum 2c62c8ce9150cca8141eaca9cf76e737
---start 7997
+--start 1343
+--sim-load-config finish-tape=1

@@ -3,4 +3,5 @@ pulse-warrior.z80
 --sim-load
 --tape-name "Pulse Warrior.tzx"
 --tape-sum a861172baa83f4b596b4fda1d7f6d94e
---start 7997
+--start 1343
+--sim-load-config finish-tape=1

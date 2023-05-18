@@ -3,4 +3,5 @@ key-the.z80
 --sim-load
 --tape-name "The Key.tzx"
 --tape-sum 84ad708b57d6263ededfd8bf4f217c32
---start 7997
+--start 1343
+--sim-load-config finish-tape=1

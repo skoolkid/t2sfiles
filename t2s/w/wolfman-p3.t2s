@@ -3,4 +3,5 @@ wolfman-p3.z80
 --sim-load
 --tape-name "Wolfman - Side 2.tzx"
 --tape-sum 697aa16fcf1a017eb1bf3e6c70d39f20
---start 7997
+--start 1343
+--sim-load-config finish-tape=1

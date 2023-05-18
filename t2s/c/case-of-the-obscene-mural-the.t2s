@@ -3,4 +3,5 @@ case-of-the-obscene-mural-the.z80
 --sim-load
 --tape-name "The Case Of The Obscene Mural.tzx"
 --tape-sum 101b8ae9ca57570e3ad807cb2831a677
---start 7997
+--start 1343
+--sim-load-config finish-tape=1

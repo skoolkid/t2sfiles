@@ -3,4 +3,5 @@ sprite-spring.z80
 --sim-load
 --tape-name "SpriteSpring.tzx"
 --tape-sum 45b147e6fda9b2043543f08a6bf0bd8d
---start 7997
+--start 1343
+--sim-load-config finish-tape=1

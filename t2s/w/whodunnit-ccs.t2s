@@ -3,4 +3,5 @@ whodunnit-ccs.z80
 --sim-load
 --tape-name "Whodunnit.tzx"
 --tape-sum cdec948c7c008bc809f2c22d6da31a0b
---start 7997
+--start 1343
+--sim-load-config finish-tape=1

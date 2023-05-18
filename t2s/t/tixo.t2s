@@ -3,4 +3,5 @@ tixo.z80
 --sim-load
 --tape-name "Tixo.tzx"
 --tape-sum 97f309a1b35eed193a3c4bb68b190f9e
---start 7997
+--start 1343
+--sim-load-config finish-tape=1

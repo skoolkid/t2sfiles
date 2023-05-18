@@ -3,4 +3,6 @@ settemmezzo.z80
 --sim-load
 --tape-name "Settemmezzo.tzx"
 --tape-sum b7f126e2fefb6c30abbb6065471fad12
---start 7997
+--start 1343
+--sim-load-config finish-tape=1
+--tape-stop 3

@@ -3,5 +3,6 @@ star-crystal.z80
 --sim-load
 --tape-name "The Star Crystal.tzx"
 --tape-sum a363ae43eb698ae162b5eb70395f9d22
---start 7997
+--start 1343
+--sim-load-config finish-tape=1
 --tape-start 4

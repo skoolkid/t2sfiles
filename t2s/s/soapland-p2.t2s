@@ -3,4 +3,5 @@ soapland-p2.z80
 --sim-load
 --tape-name "Soapland - Part 2.tzx"
 --tape-sum e034f35b9f1604bd962f9c7d66b6a422
---start 7997
+--start 1343
+--sim-load-config finish-tape=1

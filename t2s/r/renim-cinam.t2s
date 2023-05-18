@@ -3,4 +3,5 @@ renim-cinam.z80
 --sim-load
 --tape-name "Manic Miner - reniM cinaM.tzx"
 --tape-sum bf37f104b235925f24d8a8bf0ac64a3c
---start 7997
+--start 1343
+--sim-load-config finish-tape=1

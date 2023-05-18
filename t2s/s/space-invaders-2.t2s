@@ -3,4 +3,5 @@ space-invaders-2.z80
 --sim-load
 --tape-name "Space Invaders 2.tzx"
 --tape-sum ddc7ca77bddcd7a8d53e73a213571bb6
---start 7997
+--start 1343
+--sim-load-config finish-tape=1

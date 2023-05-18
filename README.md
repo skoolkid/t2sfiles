@@ -31,13 +31,9 @@ unpredictable and irrelevant properties, such as the exact values of
 In particular, the program counter (PC) must point at the first instruction
 executed after the LOAD has finished that is not part of the game's custom
 loading routine (if there is one). This instruction is typically somewhere in
-RAM, but can be in the ROM if the game comprises some BASIC code. Good
-candidate start addresses for games that run BASIC code before or during
-gameplay are:
-
-* 0x053F (this is [SA/LD-RET](https://skoolkid.github.io/rom/asm/053F.html))
-* 0x1F3D (this is the HALT instruction in the
-  [PAUSE](https://skoolkid.github.io/rom/asm/1F3A.html) command routine)
+RAM, but can be in the ROM if the game comprises some BASIC code. A good
+candidate start address for games that run BASIC code before or during gameplay
+is 0x053F (i.e. [SA/LD-RET](https://skoolkid.github.io/rom/asm/053F.html)).
 
 t2s file naming and format
 --------------------------

@@ -3,4 +3,5 @@ blues-brothers-the-p1.z80
 --sim-load
 --tape-name "The Blues Brothers - Part 1.tzx"
 --tape-sum fbc1f53b11307f48edd929937dca7edc
---start 7997
+--start 1343
+--sim-load-config finish-tape=1

@@ -3,4 +3,5 @@ infiltrator-the.z80
 --sim-load
 --tape-name "The Infiltrator (Zenobi).tzx"
 --tape-sum 6ff03d3d1491172995c524b993013dcb
---start 7997
+--start 1343
+--sim-load-config finish-tape=1

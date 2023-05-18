@@ -3,4 +3,5 @@ wreckage.z80
 --sim-load
 --tape-name "Wreckage.tzx"
 --tape-sum f82c13391ea058a3f5158ad868a30674
---start 7997
+--start 1343
+--sim-load-config finish-tape=1

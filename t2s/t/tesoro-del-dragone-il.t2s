@@ -3,4 +3,6 @@ tesoro-del-dragone-il.z80
 --sim-load
 --tape-name "TesoroDelDraconeIl.tzx"
 --tape-sum e26243d2bb111362fa07096337b6809b
---start 7997
+--start 1343
+--sim-load-config finish-tape=1
+--tape-stop 7

@@ -3,5 +3,6 @@ quazer-p2.z80
 --sim-load
 --tape-name "Quazer - Side 1.tzx"
 --tape-sum 0640ad27d50d7cdf1e7542db1aff06b2
---start 7997
+--start 1343
+--sim-load-config finish-tape=1
 --tape-start 9

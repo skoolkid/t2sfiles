@@ -3,4 +3,5 @@ just-one-of-those-days.z80
 --sim-load
 --tape-name "Just One Of Those Days.tzx"
 --tape-sum 3ead19c27d7a6a0e59e5e67da4419454
---start 7997
+--start 1343
+--sim-load-config finish-tape=1

@@ -3,4 +3,5 @@ sherwood-forest.z80
 --sim-load
 --tape-name "Sherwood Forest.tzx"
 --tape-sum 7fd63f308b0e202fa50b508c3c34df4b
---start 7997
+--start 1343
+--sim-load-config finish-tape=1

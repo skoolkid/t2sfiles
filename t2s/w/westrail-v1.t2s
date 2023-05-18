@@ -3,4 +3,5 @@ westrail-v1.z80
 --sim-load
 --tape-name "West Rail - Release 1.tzx"
 --tape-sum 96d26fe4e53e0c5966e56623a96f1c5d
---start 7997
+--start 1343
+--sim-load-config finish-tape=1

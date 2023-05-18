@@ -3,4 +3,5 @@ tronn-2.z80
 --sim-load
 --tape-name "Tronn 2.tzx"
 --tape-sum 1cd532665c848d8b1e4f43f5657c4aba
---start 7997
+--start 1343
+--sim-load-config finish-tape=1

@@ -3,4 +3,5 @@ selectron-36.z80
 --sim-load
 --tape-name "Selectron 36.tzx"
 --tape-sum 5f1679737dd4453cf553592a77a9baeb
---start 7997
+--start 1343
+--sim-load-config finish-tape=1
