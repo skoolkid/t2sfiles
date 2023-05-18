@@ -1,7 +1,7 @@
-https://spectrumcomputing.co.uk/pub/sinclair/games/d/Dragnet.tzx.zip
+https://worldofspectrum.net/pub/sinclair/games/d/Dragnet.tzx.zip
 dragnet.z80
 --sim-load
 --tape-name "Dragnet.tzx"
---tape-sum 244a1b04238a22a777c39305f7ae08a3
---start 36383
+--tape-sum ae1dc075eec7e0e5cf97dc5530ad32af
+--start 36366
 --sim-load-config finish-tape=1

@@ -1,7 +1,6 @@
-https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0006080/ChrobakTruhlik(Ultrasoft[SK]).tzx.zip
+https://tzxvault.org/Spectrum/TZX/ChrobakTruhlik.zip
 chrobak-truhlik.z80
 --sim-load
---tape-name ChrobakTruhlik(Ultrasoft[SK]).tzx
---tape-sum 28d42749eb3855ab8696c16f5e39c7ca
---start 54713
---tape-stop 9
+--tape-name "Chrobak Truhlik.tzx"
+--tape-sum a6093ffbc297193daf3e361aecaa84fc
+--start 49194
