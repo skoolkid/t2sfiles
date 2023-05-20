@@ -1,0 +1,8 @@
+https://tzxvault.org/Spectrum/TZX/Matematik.zip
+matematik-side-a-p3.z80
+--sim-load
+--tape-name "Matematik - Side A.tzx"
+--tape-sum 54f4d655cadab95037341e40ee40b773
+--start 1343
+--sim-load-config finish-tape=1
+--tape-start 12
