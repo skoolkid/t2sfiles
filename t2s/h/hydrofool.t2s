@@ -1,6 +1,6 @@
 https://tzxvault.org/Spectrum/TZX/Hydrofool.zip
 hydrofool.z80
 --sim-load
---tape-name Hydrofool.tzx
+--tape-name "Hydrofool.tzx"
 --tape-sum d3267bd1facb761c02efe0ddf4438ab4
 --start 63565

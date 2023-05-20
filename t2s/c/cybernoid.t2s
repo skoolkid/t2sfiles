@@ -1,6 +1,6 @@
 https://tzxvault.org/Spectrum/TZX/Cybernoid.zip
 cybernoid.z80
 --sim-load
---tape-name Cybernoid.tzx
+--tape-name "Cybernoid.tzx"
 --tape-sum 50921a76ee625feb31c4195aac63d020
 --start 65105

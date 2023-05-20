@@ -1,6 +1,6 @@
 https://worldofspectrum.net/pub/sinclair/games/u/Uridium.tzx.zip
 uridium.z80
 --sim-load
---tape-name Uridium.tzx
+--tape-name "Uridium.tzx"
 --tape-sum 64ccb88c36305ea68f73570fe7abe61f
 --start 62906
