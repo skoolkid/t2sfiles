@@ -1,0 +1,7 @@
+https://tzxvault.org/Spectrum/TZX/StackSLRTape.zip
+stack-slr-tape-side-2.z80
+--sim-load
+--tape-name "Stack SLR Tape - Side 2.tzx"
+--tape-sum b011b9b87eeb101d308487079f8bdc94
+--start 1343
+--sim-load-config finish-tape=1
