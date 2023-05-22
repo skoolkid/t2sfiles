@@ -1,0 +1,6 @@
+https://skoolkit.ca/tapes/Birdy.tzx.zip
+birdy.z80
+--sim-load
+--tape-name "Birdy.tzx"
+--tape-sum 0b61495b694edb4d6099dfa3f2fddb0c
+--start 50048
