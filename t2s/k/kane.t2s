@@ -1,10 +1,10 @@
-; If the true start address of 25600 is used, the game does not respond to
-; keyboard input (e.g. '0' or 'z' to start).
+; If the default 'tstates' value (34943) is used, the game does not respond to
+; keyboard input (e.g. '0' or 'z' to start) when run in Fuse.
 
 https://worldofspectrum.net/pub/sinclair/games/k/Kane.tzx.zip
 kane.z80
 --sim-load
 --tape-name "Kane.tzx"
 --tape-sum 0bc0c97db1352d05e07f4682afae4d79
---start 1343
---sim-load-config finish-tape=1
+--start 25600
+--state tstates=0
