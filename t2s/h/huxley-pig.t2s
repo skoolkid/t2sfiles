@@ -5,3 +5,4 @@ huxley-pig.z80
 --tape-sum 6e3015e5e58fa8326f574db3d33aa0b8
 --start 64396
 --tape-stop 5
+--sim-load-config accelerator=none

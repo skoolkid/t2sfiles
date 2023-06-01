@@ -4,3 +4,4 @@ ragnablock.z80
 --tape-name "Ragnablock (1500bps).tzx"
 --tape-sum 76ac8cc7965b7208bb01da5cba9deca6
 --start 57604
+--sim-load-config accelerator=none

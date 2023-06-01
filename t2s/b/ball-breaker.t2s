@@ -4,3 +4,4 @@ ball-breaker.z80
 --tape-name "Ballbreaker.tzx"
 --tape-sum e668bb5f0d75ddf87d45f0729a460ca3
 --start 65141
+--sim-load-config accelerator=none

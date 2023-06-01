@@ -4,3 +4,4 @@ western-girl.z80
 --tape-name "WesternGirl.tzx"
 --tape-sum 19d2656557386e4f2267bc415019ab89
 --start 65517
+--sim-load-config accelerator=none

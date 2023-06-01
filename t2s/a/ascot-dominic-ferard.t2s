@@ -4,3 +4,4 @@ ascot-dominic-ferard.z80
 --tape-name "ascot.tzx"
 --tape-sum 6168a6c84d08d11d6689152fc67003a5
 --start 48510
+--sim-load-config accelerator=none

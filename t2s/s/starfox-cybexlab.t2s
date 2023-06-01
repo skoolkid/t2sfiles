@@ -4,3 +4,4 @@ starfox-cybexlab.z80
 --tape-name "STARFOX1.TZX"
 --tape-sum 9189d685fe92a2c3a2121c96ee8ed06b
 --start 64676
+--sim-load-config accelerator=none

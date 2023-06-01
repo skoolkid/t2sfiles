@@ -4,3 +4,4 @@ f-15-strike-eagle.z80
 --tape-name "F15 Strike Eagle.tzx"
 --tape-sum c1283db376aef223855ca945af63686a
 --start 63142
+--sim-load-config accelerator=none

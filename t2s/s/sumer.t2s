@@ -4,3 +4,4 @@ sumer.z80
 --tape-name "sumer.tzx"
 --tape-sum 1f9e078c7a0feff262bd0d3dacf093cb
 --start 48495
+--sim-load-config accelerator=none

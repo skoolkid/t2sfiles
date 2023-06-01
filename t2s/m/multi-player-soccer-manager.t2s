@@ -4,3 +4,4 @@ multi-player-soccer-manager.z80
 --tape-name "Multi-Player Soccer Manager.tzx"
 --tape-sum fb7990e3321646e5e8ec803a085bdd6c
 --start 65038
+--sim-load-config accelerator=none

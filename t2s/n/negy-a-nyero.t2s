@@ -4,3 +4,4 @@ negy-a-nyero.z80
 --tape-name "Negy A Nyero.tzx"
 --tape-sum 4d664b0c40baa8ca39e39da986ace4fe
 --start 48495
+--sim-load-config accelerator=none

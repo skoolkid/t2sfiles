@@ -4,3 +4,4 @@ terrahawks.z80
 --tape-name "Terrahawks.tzx"
 --tape-sum 40a3dc51627dca710eaec1107cbcbca7
 --start 61437
+--sim-load-config accelerator=none

@@ -4,3 +4,4 @@ moon-strike-side-a.z80
 --tape-name "Moon Strike - Side A.tzx"
 --tape-sum e375558437eba261e1ba10a0b0db0083
 --start 63394
+--sim-load-config accelerator=none

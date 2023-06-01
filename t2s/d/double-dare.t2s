@@ -4,3 +4,4 @@ double-dare.z80
 --tape-name "Double Dare.tzx"
 --tape-sum f23fdd08b6e188ee3ce9f677d42dce41
 --start 65226
+--sim-load-config accelerator=none

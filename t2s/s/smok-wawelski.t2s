@@ -4,3 +4,4 @@ smok-wawelski.z80
 --tape-name "SmokWawelski.tzx"
 --tape-sum cdddac412bd54c0532fc23df64d5b4aa
 --start 48205
+--sim-load-config accelerator=none
