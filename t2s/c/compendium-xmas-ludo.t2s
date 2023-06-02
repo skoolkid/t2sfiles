@@ -5,3 +5,4 @@ compendium-xmas-ludo.z80
 --tape-sum 0e45972358336b18cfe98d0777a62e6b
 --start 23296
 --tape-start 8
+--sim-load-config accelerate-dec-a=2

@@ -4,3 +4,4 @@ ranarama.z80
 --tape-name "Rana Rama.tzx"
 --tape-sum a3ba06d843ddf39c928f69475dd1c39e
 --start 26202
+--sim-load-config accelerate-dec-a=2

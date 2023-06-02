@@ -4,3 +4,4 @@ final-matrix-the.z80
 --tape-name "The Final Matrix.tzx"
 --tape-sum 95eda7545701ee8324419ad43ead0d5a
 --start 26202
+--sim-load-config accelerate-dec-a=2

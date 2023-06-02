@@ -5,3 +5,4 @@ super-cars.z80
 --tape-sum df563b00e1e147ef48582025943e974c
 --start 41195
 --sim-load-config accelerator=none
+--sim-load-config accelerate-dec-a=2

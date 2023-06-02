@@ -5,3 +5,4 @@ compendium-tiddly-drinks.z80
 --tape-sum 29da90d3f86993fe3c33c696e824f5fd
 --start 23296
 --tape-start 8
+--sim-load-config accelerate-dec-a=2
