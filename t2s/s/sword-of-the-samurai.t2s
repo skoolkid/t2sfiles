@@ -4,3 +4,4 @@ sword-of-the-samurai.z80
 --tape-name "Sword Of The Samurai.tzx"
 --tape-sum f4af9ad4449d0dab083745cc3ebe7881
 --start 58496
+--sim-load-config accelerator=speedlock

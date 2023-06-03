@@ -4,3 +4,4 @@ gift-from-the-gods-side-1.z80
 --tape-name "Gift From The Gods - Side 1.tzx"
 --tape-sum 0a2e9c85523c1e459c10f5dba6571f92
 --start 63952
+--sim-load-config accelerator=speedlock

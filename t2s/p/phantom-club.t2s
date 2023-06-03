@@ -4,3 +4,4 @@ phantom-club.z80
 --tape-name "Phantom Club.tzx"
 --tape-sum 62c628a755226da9e16f0f6871edc028
 --start 65248
+--sim-load-config accelerator=speedlock

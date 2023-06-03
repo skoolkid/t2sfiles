@@ -5,3 +5,4 @@ pro-mountain-bike-simulator.z80
 --tape-sum 1be8bf34b2bff617a9e95fd298974b64
 --start 64272
 --tape-stop 10
+--sim-load-config accelerator=rom

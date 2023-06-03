@@ -5,3 +5,4 @@ rescate-en-el-golfo-side-1.z80
 --tape-sum 8011927275c865f5892239c21a9351d3
 --start 64535
 --tape-stop 7
+--sim-load-config accelerator=rom

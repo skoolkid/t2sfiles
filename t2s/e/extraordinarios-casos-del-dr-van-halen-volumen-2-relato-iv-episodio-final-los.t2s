@@ -4,3 +4,4 @@ extraordinarios-casos-del-dr-van-halen-volumen-2-relato-iv-episodio-final-los.z8
 --tape-name "DrVanHalenEpisodioFinal.tzx"
 --tape-sum bc03927f677cdbde32247aecfc84fe4f
 --start 34793
+--sim-load-config accelerator=rom

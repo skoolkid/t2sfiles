@@ -4,3 +4,4 @@ gunhed.z80
 --tape-name "Gunhead (SinclairUser).TZX"
 --tape-sum b613c551317f2b127484b6b270045880
 --start 16396
+--sim-load-config accelerator=bleepload

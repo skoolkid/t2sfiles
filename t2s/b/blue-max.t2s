@@ -4,3 +4,4 @@ blue-max.z80
 --tape-name "Blue Max.tzx"
 --tape-sum 409158ce5acde7dd83f67009d925bf8a
 --start 63955
+--sim-load-config accelerator=speedlock

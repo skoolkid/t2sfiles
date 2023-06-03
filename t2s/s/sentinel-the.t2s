@@ -4,3 +4,4 @@ sentinel-the.z80
 --tape-name "The Sentinel.tzx"
 --tape-sum c5173bff3bf36192dd62c47769cde941
 --start 23438
+--sim-load-config accelerator=bleepload

@@ -4,3 +4,4 @@ yenght.z80
 --tape-name "Yenght.tzx"
 --tape-sum c0cd1c97fad54a47f4c7802db12c06b5
 --start 24128
+--sim-load-config accelerator=rom

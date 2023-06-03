@@ -4,3 +4,4 @@ mikie.z80
 --tape-name "Mikie.tzx"
 --tape-sum 849846007c3c5c2a5155f59f0562a339
 --start 64061
+--sim-load-config accelerator=speedlock

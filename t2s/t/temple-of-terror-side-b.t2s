@@ -4,3 +4,4 @@ temple-of-terror-side-b.z80
 --tape-name "Temple Of Terror - Side B.tzx"
 --tape-sum 54a790e19e22d9a062e75a5989e6dc91
 --start 60513
+--sim-load-config accelerator=alkatraz

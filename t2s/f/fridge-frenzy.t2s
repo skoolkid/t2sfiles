@@ -4,3 +4,4 @@ fridge-frenzy.z80
 --tape-name "FRIDGEFR.TZX"
 --tape-sum c435c0c2797c91eb91c0b75b91688778
 --start 64578
+--sim-load-config accelerator=bleepload

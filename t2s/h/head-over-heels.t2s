@@ -4,3 +4,4 @@ head-over-heels.z80
 --tape-name "Head Over Heels.tzx"
 --tape-sum 82bb33587530d337323ef3cd4456d4c4
 --start 65379
+--sim-load-config accelerator=speedlock

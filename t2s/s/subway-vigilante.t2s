@@ -4,3 +4,4 @@ subway-vigilante.z80
 --tape-name "Subway Vigilante.tzx"
 --tape-sum c1bb1040e78beb79922a999637223975
 --start 65220
+--sim-load-config accelerator=speedlock

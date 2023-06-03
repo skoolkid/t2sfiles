@@ -4,3 +4,4 @@ amazing-rocketeer-level-3-the.z80
 --tape-name "R_LEV03.tzx"
 --tape-sum 6abce07062ef139287371d58b8062fee
 --start 63557
+--sim-load-config accelerator=rom

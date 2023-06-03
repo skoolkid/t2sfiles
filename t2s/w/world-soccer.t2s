@@ -4,3 +4,4 @@ world-soccer.z80
 --tape-name "World Soccer.tzx"
 --tape-sum 0aab8a91a92e6cbd35bb5d75949578fe
 --start 42572
+--sim-load-config accelerator=speedlock

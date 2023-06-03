@@ -4,3 +4,4 @@ chimera.z80
 --tape-name "Chimera.tzx"
 --tape-sum 9f239110ac90639ad2dea5a57b351985
 --start 23344
+--sim-load-config accelerator=rom

@@ -4,3 +4,4 @@ infiltrator.z80
 --tape-name "Infiltrator - Side 1.tzx"
 --tape-sum c9b4e86ee41820796b4fae19e4f0731a
 --start 64769
+--sim-load-config accelerator=alkatraz

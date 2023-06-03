@@ -4,3 +4,4 @@ heroes-of-karn.z80
 --tape-name "Heroes Of Karn.tzx"
 --tape-sum abab44fe0ccce2d67d7c6efcef5b7136
 --start 43988
+--sim-load-config accelerator=rom

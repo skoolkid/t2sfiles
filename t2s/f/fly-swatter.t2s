@@ -5,3 +5,4 @@ fly-swatter.z80
 --tape-sum 204b146f2d1a4dbe7916bff970fe3d3f
 --start 23891
 --sim-load-config contended-in=1
+--sim-load-config accelerator=rom

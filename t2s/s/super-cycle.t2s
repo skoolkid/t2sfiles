@@ -4,3 +4,4 @@ super-cycle.z80
 --tape-name "Super Cycle.tzx"
 --tape-sum a0298522ce040a22f13979d7b33d36e1
 --start 59774
+--sim-load-config accelerator=alkatraz

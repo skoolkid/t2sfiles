@@ -4,3 +4,4 @@ boxeo.z80
 --tape-name "Boxeo.tzx"
 --tape-sum ca914cc99a5be62cf942a2654c31b30d
 --start 60080
+--sim-load-config accelerator=bleepload

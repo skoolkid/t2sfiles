@@ -4,3 +4,4 @@ crazy-cars-ii.z80
 --tape-name "Crazy Cars II.tzx"
 --tape-sum 970a59605c3fb0f04d3054d0ae638184
 --start 65188
+--sim-load-config accelerator=speedlock

@@ -4,3 +4,4 @@ into-africa.z80
 --tape-name "Into Africa.tzx"
 --tape-sum 1326d2b82d39ff009e0bd51dd31723ac
 --start 65283
+--sim-load-config accelerator=speedlock

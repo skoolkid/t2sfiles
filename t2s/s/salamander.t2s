@@ -4,3 +4,4 @@ salamander.z80
 --tape-name "Salamander.tzx"
 --tape-sum 4426ac70b317b052f26e3d07713a3c1a
 --start 23337
+--sim-load-config accelerator=alkatraz

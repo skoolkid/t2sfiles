@@ -4,3 +4,4 @@ viking-raiders.z80
 --tape-name "Viking Raiders.tzx"
 --tape-sum 16070ee311fd4d6f0e4e214efc66a133
 --start 57129
+--sim-load-config accelerator=rom

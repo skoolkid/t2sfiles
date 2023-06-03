@@ -5,3 +5,4 @@ deviants.z80
 --tape-sum 241586cbade194814f4901baaeeeb435
 --start 39166
 --tape-stop 7
+--sim-load-config accelerator=rom

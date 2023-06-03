@@ -4,3 +4,4 @@ post-mortem.z80
 --tape-name "Post Mortem.tzx"
 --tape-sum 5a20a13095c098f1fb3677da1ad95478
 --start 50000
+--sim-load-config accelerator=rom

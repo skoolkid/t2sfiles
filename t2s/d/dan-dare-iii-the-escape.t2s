@@ -4,3 +4,4 @@ dan-dare-iii-the-escape.z80
 --tape-name "Dan Dare III - The Escape.tzx"
 --tape-sum e5fc27c3a666f38699fcb2526f3cf89a
 --start 23296
+--sim-load-config accelerator=speedlock

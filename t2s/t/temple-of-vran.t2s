@@ -4,3 +4,4 @@ temple-of-vran.z80
 --tape-name "Temple Of Vran.tzx"
 --tape-sum 2d044021f638ab218ed3fe98312ce7e1
 --start 62720
+--sim-load-config accelerator=rom

@@ -4,3 +4,4 @@ doctor-what-crl-group.z80
 --tape-name "Doctor What.tzx"
 --tape-sum 198e9b1a9e2e0116f138bc586d47634f
 --start 64888
+--sim-load-config accelerator=speedlock

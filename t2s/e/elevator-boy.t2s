@@ -4,3 +4,4 @@ elevator-boy.z80
 --tape-name "ELEVATOB.TZX"
 --tape-sum 9ad8f626cd64793978da9b3bd483bf7d
 --start 60267
+--sim-load-config accelerator=bleepload

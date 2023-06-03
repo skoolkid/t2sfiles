@@ -4,3 +4,4 @@ master-blaster.z80
 --tape-name "MBLASTER.TAP"
 --tape-sum b633328bc100a80de2c928f289db5fc7
 --start 60903
+--sim-load-config accelerator=rom

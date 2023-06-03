@@ -5,3 +5,4 @@ pac-land.z80
 --tape-sum b5d44427b6f4c70d5f34cc2744237b90
 --start 23296
 --sim-load-config accelerate-dec-a=2
+--sim-load-config accelerator=search-loader

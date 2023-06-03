@@ -4,3 +4,4 @@ juggernaut.z80
 --tape-name "Juggernaut.tzx"
 --tape-sum 2e4ee4eb509152481c5808d92737edd2
 --start 59409
+--sim-load-config accelerator=rom

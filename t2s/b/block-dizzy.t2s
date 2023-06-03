@@ -4,3 +4,4 @@ block-dizzy.z80
 --tape-name "DIZZYBLO.TZX"
 --tape-sum 26416a815ba607e492a46b84ad6537cb
 --start 65171
+--sim-load-config accelerator=rom

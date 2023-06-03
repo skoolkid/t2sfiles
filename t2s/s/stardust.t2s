@@ -5,3 +5,4 @@ stardust.z80
 --tape-sum f1a16e0cefd4a23460dcdc778dfa58ab
 --start 23323
 --tape-stop 8
+--sim-load-config accelerator=bleepload

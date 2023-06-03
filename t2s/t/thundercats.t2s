@@ -5,3 +5,4 @@ thundercats.z80
 --tape-sum acfba39090669b2d659b086b6ccbc215
 --start 32878
 --tape-stop 7
+--sim-load-config accelerator=speedlock

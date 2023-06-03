@@ -4,3 +4,4 @@ ace-2088.z80
 --tape-name "ACE 2088 - Side A.tzx"
 --tape-sum 2765b269f648f3b390067cccd210fae0
 --start 65188
+--sim-load-config accelerator=speedlock

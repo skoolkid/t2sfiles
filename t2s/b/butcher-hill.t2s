@@ -4,3 +4,4 @@ butcher-hill.z80
 --tape-name "Butcher Hill.tzx"
 --tape-sum 7651985ea3e891613334e6dfd34cea39
 --start 60509
+--sim-load-config accelerator=alkatraz

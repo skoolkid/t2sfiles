@@ -4,3 +4,4 @@ crusader.z80
 --tape-name "Crusader.tzx"
 --tape-sum 9802f7c6b4acc5cb4899e3480190b290
 --start 65053
+--sim-load-config accelerator=rom

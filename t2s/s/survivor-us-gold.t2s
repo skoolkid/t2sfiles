@@ -4,3 +4,4 @@ survivor-us-gold.z80
 --tape-name "Survivor (US Gold).tzx"
 --tape-sum 268a5de994fac6251335b88a6c8d731c
 --start 64004
+--sim-load-config accelerator=alkatraz

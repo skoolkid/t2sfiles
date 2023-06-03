@@ -4,3 +4,4 @@ air-traffic-control.z80
 --tape-name "Air Traffic Control.tzx"
 --tape-sum ebd59510bd869deb06bcad3d3ab0c3dc
 --start 32966
+--sim-load-config accelerator=speedlock

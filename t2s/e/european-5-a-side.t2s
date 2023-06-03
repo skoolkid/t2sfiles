@@ -4,3 +4,4 @@ european-5-a-side.z80
 --tape-name "European 5-A-Side.tzx"
 --tape-sum 7d031fa7542a1daa04c544b382612f70
 --start 23946
+--sim-load-config accelerator=bleepload

@@ -4,3 +4,4 @@ subsunk.z80
 --tape-name "Subsunk.tzx"
 --tape-sum e23e282975bd03610e33d4e09f9a1787
 --start 24980
+--sim-load-config accelerator=rom

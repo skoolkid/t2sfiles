@@ -4,3 +4,4 @@ growing-pains-of-adrian-mole-the-p3.z80
 --tape-name "The Growing Pains Of Adrian Mole - Side 2.tzx"
 --tape-sum 2e83a7e5a03b87d27d76d723e73cfe78
 --start 61935
+--sim-load-config accelerator=rom

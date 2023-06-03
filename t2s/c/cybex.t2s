@@ -4,3 +4,4 @@ cybex.z80
 --tape-name "CYBEX.TZX"
 --tape-sum 3baaaa2fcf719ed1a561e81166e6687a
 --start 65281
+--sim-load-config accelerator=speedlock

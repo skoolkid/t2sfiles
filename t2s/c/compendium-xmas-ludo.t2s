@@ -6,3 +6,4 @@ compendium-xmas-ludo.z80
 --start 23296
 --tape-start 8
 --sim-load-config accelerate-dec-a=2
+--sim-load-config accelerator=search-loader

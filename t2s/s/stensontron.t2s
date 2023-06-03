@@ -4,3 +4,4 @@ stensontron.z80
 --tape-name "STENSON.TZX"
 --tape-sum 59c0022006a0a5aac1dd62c6cea1a63f
 --start 64075
+--sim-load-config accelerator=bleepload

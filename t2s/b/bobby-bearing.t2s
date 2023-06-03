@@ -4,3 +4,4 @@ bobby-bearing.z80
 --tape-name "Bobby Bearing.tzx"
 --tape-sum bb306b778cf7f9cd2ee5dab4944955b4
 --start 63773
+--sim-load-config accelerator=alkatraz

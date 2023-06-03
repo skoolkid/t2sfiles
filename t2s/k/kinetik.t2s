@@ -4,3 +4,4 @@ kinetik.z80
 --tape-name "Kinetik.tzx"
 --tape-sum 56b7e7e232c9474898b8f65700678df2
 --start 23931
+--sim-load-config accelerator=bleepload

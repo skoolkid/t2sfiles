@@ -4,3 +4,4 @@ silent-service.z80
 --tape-name "Silent Service.tzx"
 --tape-sum 7d56280ef33f341ba5a010c18b1f48c5
 --start 63278
+--sim-load-config accelerator=alkatraz

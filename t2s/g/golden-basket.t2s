@@ -4,3 +4,4 @@ golden-basket.z80
 --tape-name "Golden Basket.tzx"
 --tape-sum d152cd07b5322f3aec0687cb9510c0a4
 --start 64535
+--sim-load-config accelerator=rom

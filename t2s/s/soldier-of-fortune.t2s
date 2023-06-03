@@ -4,3 +4,4 @@ soldier-of-fortune.z80
 --tape-name "Soldier Of Fortune - Release 1.tzx"
 --tape-sum b62b128232a6ee619eba85b0f0d068ea
 --start 23946
+--sim-load-config accelerator=bleepload

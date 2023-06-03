@@ -4,3 +4,4 @@ https://worldofspectrum.net/pub/sinclair/games/123/720Degrees.tzx.zip
 --tape-name "720.TZX"
 --tape-sum 6c928e2c36ebe0acdf09df5c43dd860b
 --start 23312
+--sim-load-config accelerator=alkatraz

@@ -5,3 +5,4 @@ skate-or-die.z80
 --tape-sum fa62a8dad6f1c644378c55ceac1c0056
 --start 24328
 --tape-stop 16
+--sim-load-config accelerator=rom

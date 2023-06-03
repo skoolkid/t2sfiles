@@ -4,3 +4,4 @@ battle-ships-hit-pak.z80
 --tape-name "Battleships.tzx"
 --tape-sum 28ec7bed55b0638f6bf28b4dbc098dff
 --start 65201
+--sim-load-config accelerator=speedlock

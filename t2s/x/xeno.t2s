@@ -4,3 +4,4 @@ xeno.z80
 --tape-name "Xeno.tzx"
 --tape-sum 11e1a69d382a5f3fdff437670cc18fc4
 --start 64969
+--sim-load-config accelerator=rom

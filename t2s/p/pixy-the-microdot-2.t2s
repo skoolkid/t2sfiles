@@ -4,3 +4,4 @@ pixy-the-microdot-2.z80
 --tape-name "PIXY2.TZX"
 --tape-sum 160139779bf86ab5251336745a1297de
 --start 65172
+--sim-load-config accelerator=rom

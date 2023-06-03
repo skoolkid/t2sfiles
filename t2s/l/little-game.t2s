@@ -4,3 +4,4 @@ little-game.z80
 --tape-name "LITTLE_G.TAP"
 --tape-sum e9372ddb5ad29a51ee6c9e40de0ae013
 --start 34870
+--sim-load-config accelerator=speedlock

@@ -4,3 +4,4 @@ monty-on-the-run.z80
 --tape-name "Monty On The Run - Side 1.tzx"
 --tape-sum b790de20d11e6dc1dd78e887cbea0a43
 --start 43363
+--sim-load-config accelerator=rom

@@ -4,3 +4,4 @@ street-hawk.z80
 --tape-name "Street Hawk.tzx"
 --tape-sum 0d131aa2e40da847a9d521ea8c4e37d9
 --start 65319
+--sim-load-config accelerator=speedlock

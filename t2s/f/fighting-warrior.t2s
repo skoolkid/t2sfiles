@@ -4,3 +4,4 @@ fighting-warrior.z80
 --tape-name "Fighting Warrior.tzx"
 --tape-sum 2410ce2f31e1cbb72d7c8d051fadaa82
 --start 65356
+--sim-load-config accelerator=speedlock

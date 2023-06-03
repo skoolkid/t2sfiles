@@ -5,3 +5,4 @@ black-beard.z80
 --tape-sum 3a934e301f45521989db634ca750012c
 --start 65308
 --tape-stop 11
+--sim-load-config accelerator=rom

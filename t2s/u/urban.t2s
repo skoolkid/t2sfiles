@@ -4,3 +4,4 @@ urban.z80
 --tape-name "Urban.tzx"
 --tape-sum 349c740108419800fb27912644ff18da
 --start 25000
+--sim-load-config accelerator=speedlock

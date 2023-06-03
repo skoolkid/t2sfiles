@@ -5,3 +5,4 @@ inspector-flukeit.z80
 --tape-sum c85b15803aaeb486712daa13801c3f81
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config accelerator=rom

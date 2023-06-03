@@ -4,3 +4,4 @@ ivan-ironman-stewarts-super-off-road-racer.z80
 --tape-name "Ivan 'Ironman' Stewart's Super Off Road Racer.tzx"
 --tape-sum 67e1c1be06e417e83fdfb51fb8938b61
 --start 23296
+--sim-load-config accelerator=speedlock

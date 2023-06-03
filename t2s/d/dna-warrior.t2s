@@ -4,3 +4,4 @@ dna-warrior.z80
 --tape-name "DNA Warrior - 48k.tzx"
 --tape-sum a1c24cde23efe2a2e9feffe6f937d9af
 --start 24567
+--sim-load-config accelerator=rom

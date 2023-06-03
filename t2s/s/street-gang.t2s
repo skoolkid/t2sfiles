@@ -5,3 +5,4 @@ street-gang.z80
 --tape-sum 04a0a6b5c286a34b33285134903e9128
 --start 65339
 --tape-stop 8
+--sim-load-config accelerator=speedlock

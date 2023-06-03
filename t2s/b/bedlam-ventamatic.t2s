@@ -4,3 +4,4 @@ bedlam-ventamatic.z80
 --tape-name "BEDLAM.TZX"
 --tape-sum cdfa2c6668290918fadeb4f714e9e2ef
 --start 32880
+--sim-load-config accelerator=rom

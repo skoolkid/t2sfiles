@@ -5,3 +5,4 @@ sapper-boris-sivko.z80
 --tape-sum e8f2e39a382c56c82318e1a92dd69274
 --start 24235
 --sim-load-config contended-in=1
+--sim-load-config accelerator=rom

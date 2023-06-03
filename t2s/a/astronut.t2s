@@ -4,3 +4,4 @@ astronut.z80
 --tape-name "Astronut.tzx"
 --tape-sum 2cf4efa16f6aaaf18679ea9839d5e4ea
 --start 38062
+--sim-load-config accelerator=rom

@@ -5,3 +5,4 @@ zone-trooper.z80
 --tape-sum 66e5c0bb9bcc9b041faa56a432f04c45
 --start 23388
 --tape-stop 6
+--sim-load-config accelerator=rom

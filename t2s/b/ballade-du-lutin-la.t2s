@@ -4,3 +4,4 @@ ballade-du-lutin-la.z80
 --tape-name "La Ballade Du Lutin.tzx"
 --tape-sum 650163ee5c5585662c5e5dcf4299f13c
 --start 32036
+--sim-load-config accelerator=rom

@@ -4,3 +4,4 @@ pyjamarama.z80
 --tape-name "Pyjamarama - v1.tzx"
 --tape-sum 3b02458c8a933d4fb40911979a169d5a
 --start 32819
+--sim-load-config accelerator=speedlock

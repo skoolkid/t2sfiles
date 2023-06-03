@@ -4,3 +4,4 @@ professional-soccer.z80
 --tape-name "Professional Soccer.tzx"
 --tape-sum eade532f6bef7deaf9f29467c25cb248
 --start 23327
+--sim-load-config accelerator=rom

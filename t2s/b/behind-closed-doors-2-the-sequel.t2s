@@ -5,3 +5,4 @@ behind-closed-doors-2-the-sequel.z80
 --tape-sum 8ebcf34f1dab2cc53c9d0db74b94ae04
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config accelerator=rom

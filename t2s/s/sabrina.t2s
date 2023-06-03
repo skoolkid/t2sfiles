@@ -5,3 +5,4 @@ sabrina.z80
 --tape-sum 4b157192662a91187265dde5e55e46cc
 --start 25561
 --tape-stop 12
+--sim-load-config accelerator=rom

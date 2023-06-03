@@ -4,3 +4,4 @@ starfox-reaktor.z80
 --tape-name "Starfox.tzx"
 --tape-sum fa2ba5f2c27fa6a9766cbca889712bfd
 --start 23452
+--sim-load-config accelerator=bleepload

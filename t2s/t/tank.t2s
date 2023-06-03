@@ -4,3 +4,4 @@ tank.z80
 --tape-name "Tank.tzx"
 --tape-sum 0c9a59ac790b6469f45c20110c684d80
 --start 48945
+--sim-load-config accelerator=speedlock

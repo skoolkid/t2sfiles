@@ -4,3 +4,4 @@ tapper.z80
 --tape-name "Tapper.tzx"
 --tape-sum 1fc2b7debe167e58d73420f89c05cc3d
 --start 65483
+--sim-load-config accelerator=speedlock

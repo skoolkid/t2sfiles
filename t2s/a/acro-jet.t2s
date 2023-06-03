@@ -4,3 +4,4 @@ acro-jet.z80
 --tape-name "Acro Jet.tzx"
 --tape-sum ec701515acc3b9ee72ec16bb5698cd67
 --start 64474
+--sim-load-config accelerator=alkatraz

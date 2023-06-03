@@ -4,3 +4,4 @@ periscope-up.z80
 --tape-name "Periscope Up.tzx"
 --tape-sum aaed61c2f347d17797ceaf8c3c056a59
 --start 61479
+--sim-load-config accelerator=rom

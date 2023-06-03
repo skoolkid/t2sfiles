@@ -4,3 +4,4 @@ black-magic-side-b.z80
 --tape-name "Black Magic - Side B.tzx"
 --tape-sum 4f8f1d5e4c04acffb4551c79ac8ba976
 --start 65299
+--sim-load-config accelerator=speedlock

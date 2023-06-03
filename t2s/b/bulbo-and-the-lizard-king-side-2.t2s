@@ -5,3 +5,4 @@ bulbo-and-the-lizard-king-side-2.z80
 --tape-sum 9f55addfb38210453c1db1cbcdc9441f
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config accelerator=rom

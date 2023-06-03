@@ -4,3 +4,4 @@ skateboard-kidz.z80
 --tape-name "Skateboard Kidz.tzx"
 --tape-sum 9f6c96b5cc40b3d31af1b10ad675287b
 --start 23946
+--sim-load-config accelerator=bleepload

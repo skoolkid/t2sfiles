@@ -4,3 +4,4 @@ licence-to-kill.z80
 --tape-name "Licence To Kill - 48k.tzx"
 --tape-sum ea37a787becbdb2c74dada8e668b8f37
 --start 65188
+--sim-load-config accelerator=speedlock

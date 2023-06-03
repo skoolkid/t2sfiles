@@ -5,3 +5,4 @@ hocus-focus.z80
 --tape-sum ec9798cba7bdc979bdba487ca2ef4d4a
 --start 50772
 --tape-stop 8
+--sim-load-config accelerator=rom

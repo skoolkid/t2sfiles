@@ -5,3 +5,4 @@ jednadvacet.z80
 --tape-sum b884ce423c2e67f5f5a9112807a65310
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config accelerator=bleepload

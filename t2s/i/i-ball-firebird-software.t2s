@@ -4,3 +4,4 @@ i-ball-firebird-software.z80
 --tape-name "I, Ball.tzx"
 --tape-sum 5b839065688d448220fc933970562008
 --start 23469
+--sim-load-config accelerator=bleepload

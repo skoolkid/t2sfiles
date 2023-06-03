@@ -4,3 +4,4 @@ double-dragon.z80
 --tape-name "Double Dragon.tzx"
 --tape-sum 951c6542cecfdcde4ce717fa129474fa
 --start 60060
+--sim-load-config accelerator=rom

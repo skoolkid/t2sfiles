@@ -5,3 +5,4 @@ future-games-side-1.z80
 --tape-sum b7e890f90734873330928bb12b961c55
 --start 65143
 --tape-stop 5
+--sim-load-config accelerator=rom

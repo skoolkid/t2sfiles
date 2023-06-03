@@ -5,3 +5,4 @@ ruff-and-reddy-in-the-space-adventure.z80
 --tape-sum c6c985d6cd59f150a56016b2f2b221d3
 --start 65506
 --tape-stop 8
+--sim-load-config accelerator=paul-owens

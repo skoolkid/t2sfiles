@@ -4,3 +4,4 @@ ninja-scooter-simulator.z80
 --tape-name "Ninja Scooter Simulator.tzx"
 --tape-sum 3d06062881f8fdbeea5c162929b76463
 --start 23422
+--sim-load-config accelerator=bleepload

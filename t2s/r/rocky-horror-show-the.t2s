@@ -4,3 +4,4 @@ rocky-horror-show-the.z80
 --tape-name "The Rocky Horror Show - 48k.tzx"
 --tape-sum ecc1934ebc48c98c5fabd36ff0eed5ef
 --start 65310
+--sim-load-config accelerator=speedlock

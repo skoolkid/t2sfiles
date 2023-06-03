@@ -4,3 +4,4 @@ castle-master.z80
 --tape-name "Castle Master.tzx"
 --tape-sum 2f393eacbe631b0efcab491bb1cc6608
 --start 26624
+--sim-load-config accelerator=speedlock

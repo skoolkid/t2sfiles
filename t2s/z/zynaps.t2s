@@ -4,3 +4,4 @@ zynaps.z80
 --tape-name "Zynaps.tzx"
 --tape-sum a7c8e12d565f513c01d29446cee9e54f
 --start 65108
+--sim-load-config accelerator=rom

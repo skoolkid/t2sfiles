@@ -4,3 +4,4 @@ gary-linekers-hot-shot.z80
 --tape-name "Gary Lineker's Hot Shot!.tzx"
 --tape-sum a2281c4bf2ea4c14157ab80572ab828c
 --start 51513
+--sim-load-config accelerator=alkatraz

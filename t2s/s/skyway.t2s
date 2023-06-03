@@ -4,3 +4,4 @@ skyway.z80
 --tape-name "Skyway.tzx"
 --tape-sum 78bc636a3eceff22141a26a720e2c0bb
 --start 64963
+--sim-load-config accelerator=speedlock

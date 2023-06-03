@@ -4,3 +4,4 @@ ano-gaia.z80
 --tape-name "ANOGAIA.TZX"
 --tape-sum 1680304803b0899c4d004a36fff18940
 --start 65314
+--sim-load-config accelerator=rom

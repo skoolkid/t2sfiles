@@ -4,3 +4,4 @@ deactivators.z80
 --tape-name "Deactivators - 48k.tzx"
 --tape-sum aacb28a0700e8a76eb65b9a53774a937
 --start 64015
+--sim-load-config accelerator=rom

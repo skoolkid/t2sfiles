@@ -4,3 +4,4 @@ rock-n-roller.z80
 --tape-name "Rock 'N' Roller.tzx"
 --tape-sum e5657a4b60b75ed21022306ff428d1b1
 --start 64026
+--sim-load-config accelerator=rom

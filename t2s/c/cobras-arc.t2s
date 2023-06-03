@@ -4,3 +4,4 @@ cobras-arc.z80
 --tape-name "Cobra's Arc.tap"
 --tape-sum 0ba92b20ac883ce5d5f50d0e8f49b38c
 --start 65173
+--sim-load-config accelerator=rom

@@ -4,3 +4,4 @@ ikari-warriors.z80
 --tape-name "Ikari Warriors.tzx"
 --tape-sum 611b5b55ee4bb9dede5e3b54b5a4c749
 --start 65224
+--sim-load-config accelerator=speedlock

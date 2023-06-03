@@ -4,3 +4,4 @@ comando-quatro.z80
 --tape-name "Comando Quatro.tzx"
 --tape-sum 7bd6ea6e2c006103178d88f80e0c4e9f
 --start 64823
+--sim-load-config accelerator=rom

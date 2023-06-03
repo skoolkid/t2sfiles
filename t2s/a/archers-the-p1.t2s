@@ -5,3 +5,4 @@ archers-the-p1.z80
 --tape-sum dbd9ae62da6014dc7a783798bfc75cc3
 --start 61933
 --tape-stop 10
+--sim-load-config accelerator=rom

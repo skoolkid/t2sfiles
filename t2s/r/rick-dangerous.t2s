@@ -4,3 +4,4 @@ rick-dangerous.z80
 --tape-name "Rick Dangerous.tzx"
 --tape-sum 685cf58aa8498b8b9c42d062befde83c
 --start 23949
+--sim-load-config accelerator=bleepload

@@ -4,3 +4,4 @@ ole-toro.z80
 --tape-name "Ole Toro.tzx"
 --tape-sum f4a7196990796058b358fba04160a7a7
 --start 65356
+--sim-load-config accelerator=rom

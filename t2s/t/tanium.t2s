@@ -4,3 +4,4 @@ tanium.z80
 --tape-name "Tanium.tzx"
 --tape-sum 7bd45f08bc7fb57f5d93edf67823698b
 --start 65375
+--sim-load-config accelerator=speedlock

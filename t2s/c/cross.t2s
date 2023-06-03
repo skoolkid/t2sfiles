@@ -4,3 +4,4 @@ cross.z80
 --tape-name "Cross.tzx"
 --tape-sum ea973675540fa5df7c18a0831b2727be
 --start 20689
+--sim-load-config accelerator=rom

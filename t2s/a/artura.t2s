@@ -4,3 +4,4 @@ artura.z80
 --tape-name "Artura.tzx"
 --tape-sum 4a5c7ba40807444873ae91e75c4df952
 --start 64509
+--sim-load-config accelerator=alkatraz

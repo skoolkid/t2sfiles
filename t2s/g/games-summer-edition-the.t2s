@@ -5,3 +5,4 @@ games-summer-edition-the.z80
 --tape-sum 1802195f2b9dbe5e51310539b6b1b5b0
 --start 62509
 --tape-stop 6
+--sim-load-config accelerator=alkatraz

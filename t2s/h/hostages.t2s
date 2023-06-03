@@ -4,3 +4,4 @@ hostages.z80
 --tape-name "Hostages - Side A.tzx"
 --tape-sum d5b0960a6f1c2449e4952f8d1f1cc1da
 --start 65083
+--sim-load-config accelerator=speedlock

@@ -5,3 +5,4 @@ switchblade.z80
 --tape-sum 8e752fb706580cee0be855f9d58cafb6
 --start 24912
 --tape-stop 7
+--sim-load-config accelerator=rom

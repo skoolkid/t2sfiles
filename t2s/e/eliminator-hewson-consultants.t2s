@@ -4,3 +4,4 @@ eliminator-hewson-consultants.z80
 --tape-name "Eliminator (Hewson).tzx"
 --tape-sum bd18c9efea3a8648feb4832e427db2a5
 --start 65283
+--sim-load-config accelerator=speedlock

@@ -4,3 +4,4 @@ retroinvaders.z80
 --tape-name "RI48K.tap"
 --tape-sum a1d9fba4b7aee3977ca37af2b03f1d78
 --start 64699
+--sim-load-config accelerator=rom

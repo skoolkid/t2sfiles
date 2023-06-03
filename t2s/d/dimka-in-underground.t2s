@@ -4,3 +4,4 @@ dimka-in-underground.z80
 --tape-name "DimkaInUnderground.tzx"
 --tape-sum c010cdcae4c284982383b01681255400
 --start 64335
+--sim-load-config accelerator=speedlock

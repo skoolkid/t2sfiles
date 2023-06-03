@@ -4,3 +4,4 @@ track-and-field.z80
 --tape-name "Track And Field.tzx"
 --tape-sum aff1d5ea2ae00f2dab802a3ce3fe3cfd
 --start 65283
+--sim-load-config accelerator=speedlock

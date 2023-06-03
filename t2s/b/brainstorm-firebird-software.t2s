@@ -4,3 +4,4 @@ brainstorm-firebird-software.z80
 --tape-name "Brainstorm - Side A (Firebird).tzx"
 --tape-sum e356367097b7dcd8ce3e3fdc68b063d3
 --start 23419
+--sim-load-config accelerator=bleepload

@@ -4,3 +4,4 @@ rollaround.z80
 --tape-name "Rollaround.tzx"
 --tape-sum b66a2e4cb6031dde2d6867da96b807ef
 --start 65030
+--sim-load-config accelerator=rom

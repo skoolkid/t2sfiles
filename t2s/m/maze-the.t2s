@@ -4,3 +4,4 @@ maze-the.z80
 --tape-name "THEMAZE.TZX"
 --tape-sum 192c787508790c24f97df6e2a32d9211
 --start 23815
+--sim-load-config accelerator=speedlock

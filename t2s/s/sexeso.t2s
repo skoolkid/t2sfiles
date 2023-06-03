@@ -5,3 +5,4 @@ sexeso.z80
 --tape-sum 6bf964ad098ed6995b20738e221b06d6
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config accelerator=rom

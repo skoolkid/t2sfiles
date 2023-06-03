@@ -4,3 +4,4 @@ maze-mania.z80
 --tape-name "Mazemania.tzx"
 --tape-sum bdadde66c441a533de16d8195d2a399a
 --start 65283
+--sim-load-config accelerator=speedlock

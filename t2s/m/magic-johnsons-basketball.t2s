@@ -4,3 +4,4 @@ magic-johnsons-basketball.z80
 --tape-name "Magic Johnson's Basketball (Spanish) - Side A.tzx"
 --tape-sum 02193b5a267da253cd3b8106e2cb5116
 --start 25272
+--sim-load-config accelerator=speedlock

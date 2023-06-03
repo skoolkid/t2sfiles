@@ -4,3 +4,4 @@ buck-rogers-planet-of-zoom.z80
 --tape-name "Buck Rogers - Planet Of Zoom.tzx"
 --tape-sum 13567dd219a8833310663c55e468ec44
 --start 65223
+--sim-load-config accelerator=speedlock

@@ -4,3 +4,4 @@ they-stole-a-million.z80
 --tape-name "They Stole A Million.tzx"
 --tape-sum e88088823dc752dfc6f77ef982f18134
 --start 65364
+--sim-load-config accelerator=speedlock

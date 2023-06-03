@@ -4,3 +4,4 @@ globular-troubles.z80
 --tape-name "GLOBULAR.TZX"
 --tape-sum dbe5e77ef4670472ca1157d0b806711f
 --start 61620
+--sim-load-config accelerator=rom

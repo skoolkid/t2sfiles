@@ -4,3 +4,4 @@ knight-rider.z80
 --tape-name "Knight Rider.tzx"
 --tape-sum 5b71f9b79b75ffae0a156b75423277e7
 --start 65423
+--sim-load-config accelerator=speedlock

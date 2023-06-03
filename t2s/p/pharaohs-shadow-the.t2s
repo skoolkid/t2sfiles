@@ -4,3 +4,4 @@ pharaohs-shadow-the.z80
 --tape-name "The Pharaoh's Shadow.tzx"
 --tape-sum 78d8e1b26bffeede60fa7e9c60c1ba5b
 --start 65346
+--sim-load-config accelerator=speedlock

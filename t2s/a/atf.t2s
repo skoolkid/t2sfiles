@@ -4,3 +4,4 @@ atf.z80
 --tape-name "ATF.tzx"
 --tape-sum eed8a47cf884ed910a1a9a1ac4d1ad9c
 --start 57349
+--sim-load-config accelerator=digital-integration

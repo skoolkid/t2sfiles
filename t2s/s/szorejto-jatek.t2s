@@ -4,3 +4,4 @@ szorejto-jatek.z80
 --tape-name "Szorejto Jatek.tzx"
 --tape-sum 0a29716518d730daed019fc940b57928
 --start 22243
+--sim-load-config accelerator=rom

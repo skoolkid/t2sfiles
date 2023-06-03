@@ -4,3 +4,4 @@ devils-island-simon-trigg.z80
 --tape-name "Devils Island.TAP"
 --tape-sum 8c11e4658fe170f44a2bd4dc52b98a00
 --start 16404
+--sim-load-config accelerator=rom

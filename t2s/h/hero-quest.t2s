@@ -4,3 +4,4 @@ hero-quest.z80
 --tape-name "Hero Quest - 48k.tzx"
 --tape-sum a22e75a6a2ef537e266563163227cbe5
 --start 39763
+--sim-load-config accelerator=rom

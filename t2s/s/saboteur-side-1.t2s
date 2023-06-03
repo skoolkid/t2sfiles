@@ -4,3 +4,4 @@ saboteur-side-1.z80
 --tape-name "Saboteur - Side 1.tzx"
 --tape-sum 9ca9163f8b507c7a0c1f06d1550a4577
 --start 63972
+--sim-load-config accelerator=rom

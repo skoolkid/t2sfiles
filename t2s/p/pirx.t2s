@@ -5,3 +5,4 @@ pirx.z80
 --tape-sum e9b7a93e078ed9aa206521a9bae3b77a
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config accelerator=rom

@@ -4,3 +4,4 @@ cdu.z80
 --tape-name "CDU.tzx"
 --tape-sum 4afd5f0235baf73c6479c473f39a07b8
 --start 33237
+--sim-load-config accelerator=rom

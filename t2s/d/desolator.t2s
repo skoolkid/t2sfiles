@@ -4,3 +4,4 @@ desolator.z80
 --tape-name "Desolator - Side 1.tzx"
 --tape-sum 6eae5ab9884e60a450d353583e933024
 --start 40509
+--sim-load-config accelerator=alkatraz

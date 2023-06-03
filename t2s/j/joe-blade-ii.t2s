@@ -5,3 +5,4 @@ joe-blade-ii.z80
 --tape-sum 1aaaab9ddd94526d3d878b5aceec8c9a
 --start 64363
 --tape-stop 5
+--sim-load-config accelerator=speedlock

@@ -4,3 +4,4 @@ nomad.z80
 --tape-name "NOMAD.tzx"
 --tape-sum c71f27c7dbd920a1bad8b2813bccd103
 --start 65430
+--sim-load-config accelerator=speedlock

@@ -4,3 +4,4 @@ wriggler.z80
 --tape-name "Wriggler.tzx"
 --tape-sum 73438914e28a1afc2e3f288d3e971004
 --start 50662
+--sim-load-config accelerator=rom

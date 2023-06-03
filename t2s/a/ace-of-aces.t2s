@@ -5,3 +5,4 @@ ace-of-aces.z80
 --tape-sum c3b246c7d25806bf1f185a8d985b45da
 --start 60474
 --tape-stop 5
+--sim-load-config accelerator=alkatraz

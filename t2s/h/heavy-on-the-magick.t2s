@@ -4,3 +4,4 @@ heavy-on-the-magick.z80
 --tape-name "Heavy On The Magick - Side 1.tzx"
 --tape-sum 203b36a9ffa241089cb2741043c6563a
 --start 47027
+--sim-load-config accelerator=speedlock

@@ -4,3 +4,4 @@ troll.z80
 --tape-name "Troll (Kixx).tzx"
 --tape-sum f89e71b61b74451495baa83a54e64ab4
 --start 64504
+--sim-load-config accelerator=alkatraz

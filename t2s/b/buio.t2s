@@ -4,3 +4,4 @@ buio.z80
 --tape-name "Buio.tzx"
 --tape-sum 74b6770533d5dc56c15742e139f0b8d9
 --start 65225
+--sim-load-config accelerator=rom

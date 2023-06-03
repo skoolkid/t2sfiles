@@ -4,3 +4,4 @@ batty.z80
 --tape-name "BATTY.TZX"
 --tape-sum b5bc4500b7a9c729cd9dea0dedccae07
 --start 65201
+--sim-load-config accelerator=speedlock

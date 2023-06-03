@@ -4,3 +4,4 @@ starquake.z80
 --tape-name "Starquake.tzx"
 --tape-sum c970954df1278e4d47e8208c90656f73
 --start 44297
+--sim-load-config accelerator=rom

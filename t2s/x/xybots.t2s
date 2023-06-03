@@ -5,3 +5,4 @@ xybots.z80
 --tape-sum 17e573d93574a634cea46aacaab0e91b
 --start 32629
 --tape-stop 9
+--sim-load-config accelerator=rom

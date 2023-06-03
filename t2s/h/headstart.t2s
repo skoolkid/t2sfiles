@@ -4,3 +4,4 @@ headstart.z80
 --tape-name "Headstart.tzx"
 --tape-sum 86dc0f8691e7512a27c19f3bbf53bc31
 --start 35116
+--sim-load-config accelerator=rom

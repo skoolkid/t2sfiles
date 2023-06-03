@@ -4,3 +4,4 @@ indiana-jones-4-a-zlata-soska-keltu.z80
 --tape-name "INDY4.TAP"
 --tape-sum e047b3483470f862253f856539ea6547
 --start 59958
+--sim-load-config accelerator=rom

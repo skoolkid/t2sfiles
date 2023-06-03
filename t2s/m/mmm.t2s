@@ -4,3 +4,4 @@ mmm.z80
 --tape-name "MMM.tap"
 --tape-sum 389516b0babf381ec55a1e8849a044f4
 --start 16404
+--sim-load-config accelerator=rom

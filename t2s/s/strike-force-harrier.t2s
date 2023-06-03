@@ -4,3 +4,4 @@ strike-force-harrier.z80
 --tape-name "Strike Force Harrier.tzx"
 --tape-sum d45526ccd7c3cb9579cb19bdd7bd0f0b
 --start 23337
+--sim-load-config accelerator=bleepload

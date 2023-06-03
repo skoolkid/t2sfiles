@@ -4,3 +4,4 @@ arkanoid-revenge-of-doh.z80
 --tape-name "Arkanoid II - 48k.tzx"
 --tape-sum 53abab6a93f799035c14817b225b3639
 --start 65283
+--sim-load-config accelerator=speedlock

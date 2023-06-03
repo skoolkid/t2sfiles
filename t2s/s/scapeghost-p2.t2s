@@ -4,3 +4,4 @@ scapeghost-p2.z80
 --tape-name "Scapeghost - 48k - Part 2.tzx"
 --tape-sum 73b0f6063f30f441692918b1605ab352
 --start 23296
+--sim-load-config accelerator=rom

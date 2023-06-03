@@ -4,3 +4,4 @@ cluedo.z80
 --tape-name "Cluedo - Side A.tzx"
 --tape-sum 7a8bf40769a9111d19c97d53b6e30b39
 --start 65436
+--sim-load-config accelerator=speedlock

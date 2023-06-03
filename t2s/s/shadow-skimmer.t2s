@@ -4,3 +4,4 @@ shadow-skimmer.z80
 --tape-name "Shadow Skimmer.tzx"
 --tape-sum ffa7672e53e22b9a7e25d50d6aeca170
 --start 64510
+--sim-load-config accelerator=alkatraz

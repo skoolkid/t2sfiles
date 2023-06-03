@@ -4,3 +4,4 @@ i-need-speed.z80
 --tape-name "I Need Speed.tzx"
 --tape-sum addf2c5ff1b32ec0b0891e7b62df5908
 --start 34034
+--sim-load-config accelerator=rom

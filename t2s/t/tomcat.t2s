@@ -4,3 +4,4 @@ tomcat.z80
 --tape-name "Tomcat.tzx"
 --tape-sum a2746112241ce0466461f539f5bd93b2
 --start 65188
+--sim-load-config accelerator=speedlock

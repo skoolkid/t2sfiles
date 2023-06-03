@@ -4,3 +4,4 @@ starbyte.z80
 --tape-name "Starbyte.tzx"
 --tape-sum 5ef4e4d51ade90bc6d11b67f741ff053
 --start 65273
+--sim-load-config accelerator=rom

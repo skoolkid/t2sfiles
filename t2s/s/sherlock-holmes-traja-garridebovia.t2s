@@ -5,3 +5,4 @@ sherlock-holmes-traja-garridebovia.z80
 --tape-sum 0277f919f1f424a83bc8220d66873c0a
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config accelerator=speedlock

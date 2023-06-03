@@ -4,3 +4,4 @@ ok-yah.z80
 --tape-name "O.K. Yah.tzx"
 --tape-sum 4a170a03f570bcea558456a4af032cdd
 --start 38713
+--sim-load-config accelerator=speedlock

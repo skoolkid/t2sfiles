@@ -4,3 +4,4 @@ jail-break-konami.z80
 --tape-name "Jail Break.tzx"
 --tape-sum a7b8ab60590cb980f441335d5f6a3d54
 --start 29758
+--sim-load-config accelerator=rom

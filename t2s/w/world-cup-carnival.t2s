@@ -4,3 +4,4 @@ world-cup-carnival.z80
 --tape-name "World Cup Carnival.tzx"
 --tape-sum c57505a97c668c12cb8cca02eb164882
 --start 23309
+--sim-load-config accelerator=speedlock

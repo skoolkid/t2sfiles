@@ -4,3 +4,4 @@ darius-plus.z80
 --tape-name "Darius+ - Side 1.tzx"
 --tape-sum b2e1072b9710f1d6652665957d5f901b
 --start 48132
+--sim-load-config accelerator=speedlock

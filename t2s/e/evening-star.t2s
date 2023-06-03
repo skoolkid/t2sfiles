@@ -4,3 +4,4 @@ evening-star.z80
 --tape-name "Evening Star.tzx"
 --tape-sum 95a479625850dd6e17cbc24c852453be
 --start 65113
+--sim-load-config accelerator=rom

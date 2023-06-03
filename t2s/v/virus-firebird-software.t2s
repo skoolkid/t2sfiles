@@ -4,3 +4,4 @@ virus-firebird-software.z80
 --tape-name "Virus.tzx"
 --tape-sum df66ec5c20b5822b030addee0f209992
 --start 64629
+--sim-load-config accelerator=bleepload

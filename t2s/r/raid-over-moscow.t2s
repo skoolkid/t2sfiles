@@ -4,3 +4,4 @@ raid-over-moscow.z80
 --tape-name "Raid Over Moscow.tzx"
 --tape-sum 3cd90d28606b0c57df2a52e8045c76b9
 --start 65488
+--sim-load-config accelerator=speedlock

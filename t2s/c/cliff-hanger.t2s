@@ -4,3 +4,4 @@ cliff-hanger.z80
 --tape-name "Cliff Hanger.tzx"
 --tape-sum 08b2d3867c9478e446c49217595239be
 --start 65304
+--sim-load-config accelerator=rom

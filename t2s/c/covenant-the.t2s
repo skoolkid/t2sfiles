@@ -4,3 +4,4 @@ covenant-the.z80
 --tape-name "The Covenant.tzx"
 --tape-sum 151a90b4c6c985cfddc3303b4aa68bba
 --start 65071
+--sim-load-config accelerator=speedlock

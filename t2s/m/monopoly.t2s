@@ -4,3 +4,4 @@ monopoly.z80
 --tape-name "Monopoly.tzx"
 --tape-sum 03719686deec5ea24b7ca18e6dbb13ce
 --start 65462
+--sim-load-config accelerator=speedlock

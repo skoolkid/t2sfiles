@@ -5,3 +5,4 @@ ninja-warriors-the.z80
 --tape-sum 9ec38d6e2db9aaf8b6280e0cd1900f20
 --start 23296
 --tape-stop 38
+--sim-load-config accelerator=speedlock

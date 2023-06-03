@@ -4,3 +4,4 @@ stunt-bike-simulator.z80
 --tape-name "Stunt Bike Simulator - Side A.tzx"
 --tape-sum 9faf60d93235ed7ecba089c363bb2d1f
 --start 23946
+--sim-load-config accelerator=bleepload

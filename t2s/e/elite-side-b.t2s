@@ -4,3 +4,4 @@ elite-side-b.z80
 --tape-name "Elite - 48k - Side B.tzx"
 --tape-sum 9dd57ef1bb0c42315951208593719960
 --start 53369
+--sim-load-config accelerator=rom

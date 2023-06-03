@@ -4,3 +4,4 @@ cyclone.z80
 --tape-name "Cyclone - Side 1.tzx"
 --tape-sum d1136e6bb15f53910169af5229beecde
 --start 63894
+--sim-load-config accelerator=speedlock

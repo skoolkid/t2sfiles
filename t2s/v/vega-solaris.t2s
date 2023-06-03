@@ -4,3 +4,4 @@ vega-solaris.z80
 --tape-name "Vega Solaris.tzx"
 --tape-sum 1061645395eabb15c8105e81291065bc
 --start 62729
+--sim-load-config accelerator=rom

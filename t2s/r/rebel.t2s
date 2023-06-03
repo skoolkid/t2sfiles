@@ -4,3 +4,4 @@ rebel.z80
 --tape-name "Rebel.tzx"
 --tape-sum 73ea7db9ce139b77d511c35d3499d90a
 --start 65329
+--sim-load-config accelerator=speedlock

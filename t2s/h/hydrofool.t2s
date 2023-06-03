@@ -4,3 +4,4 @@ hydrofool.z80
 --tape-name "Hydrofool.tzx"
 --tape-sum d3267bd1facb761c02efe0ddf4438ab4
 --start 63565
+--sim-load-config accelerator=speedlock

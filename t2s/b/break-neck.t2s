@@ -4,3 +4,4 @@ break-neck.z80
 --tape-name "BREAKNEC.TZX"
 --tape-sum 86c1e277fe7bf04c1d7536c6db44f240
 --start 16394
+--sim-load-config accelerator=bleepload

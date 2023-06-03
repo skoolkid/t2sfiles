@@ -5,3 +5,4 @@ arquimedes-xxi-side-2.z80
 --tape-sum f50add9f2209d624ef750715cb5a280a
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config accelerator=bleepload

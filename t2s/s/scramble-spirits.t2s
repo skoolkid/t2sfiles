@@ -4,3 +4,4 @@ scramble-spirits.z80
 --tape-name "Scramble Spirits - Side A.tzx"
 --tape-sum 12151cbabf03fc678869c839fc335671
 --start 65052
+--sim-load-config accelerator=rom

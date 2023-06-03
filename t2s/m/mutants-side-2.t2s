@@ -4,3 +4,4 @@ mutants-side-2.z80
 --tape-name "Mutants - Side 2.tzx"
 --tape-sum c14e294c2febb21b60d90946f9ba1683
 --start 47638
+--sim-load-config accelerator=speedlock

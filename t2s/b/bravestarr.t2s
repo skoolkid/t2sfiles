@@ -4,3 +4,4 @@ bravestarr.z80
 --tape-name "Brave Starr.tzx"
 --tape-sum e390b47e8d6ef140b6536baf862deb95
 --start 64600
+--sim-load-config accelerator=alkatraz

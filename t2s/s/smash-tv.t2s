@@ -4,3 +4,4 @@ smash-tv.z80
 --tape-name "Smash TV.tzx"
 --tape-sum 4e7a52cf8863b452dc7d3e5ef06aa530
 --start 23296
+--sim-load-config accelerator=speedlock

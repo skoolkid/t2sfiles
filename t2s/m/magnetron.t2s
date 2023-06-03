@@ -4,3 +4,4 @@ magnetron.z80
 --tape-name "Magnetron.tzx"
 --tape-sum 878c830878661def5c164d09017400a3
 --start 23419
+--sim-load-config accelerator=bleepload

@@ -4,3 +4,4 @@ druid.z80
 --tape-name "Druid.tzx"
 --tape-sum 5c8ecdc327dae0a4a2a4d4e7d3d782d4
 --start 27003
+--sim-load-config accelerator=bleepload

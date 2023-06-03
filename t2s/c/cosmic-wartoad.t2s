@@ -4,3 +4,4 @@ cosmic-wartoad.z80
 --tape-name "Cosmic Wartoad.tzx"
 --tape-sum 53aebf9b7a48fcf67938875ebcd2e0d3
 --start 64942
+--sim-load-config accelerator=speedlock

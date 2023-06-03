@@ -5,3 +5,4 @@ loads-of-midnight-p2.z80
 --tape-sum bf4ec8b6a4fbf6449bbd763003890654
 --start 65492
 --tape-start 9
+--sim-load-config accelerator=bleepload

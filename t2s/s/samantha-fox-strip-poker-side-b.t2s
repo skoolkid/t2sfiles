@@ -4,3 +4,4 @@ samantha-fox-strip-poker-side-b.z80
 --tape-name "Samantha Fox Strip Poker - Side B.tzx"
 --tape-sum 55514eeb3c3a619c5b65a35363098412
 --start 65393
+--sim-load-config accelerator=speedlock

@@ -4,3 +4,4 @@ bomb-jack-ii.z80
 --tape-name "Bomb Jack 2.tzx"
 --tape-sum a481286503c7eb94a7d8e62a73088fb6
 --start 65224
+--sim-load-config accelerator=speedlock

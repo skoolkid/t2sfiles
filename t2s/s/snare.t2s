@@ -4,3 +4,4 @@ snare.z80
 --tape-name "Snare.tzx"
 --tape-sum a98865120679a051ce1031e8c1cfaa24
 --start 32844
+--sim-load-config accelerator=rom

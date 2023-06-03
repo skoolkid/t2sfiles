@@ -5,3 +5,4 @@ renegade.z80
 --tape-sum 6c4145e0c7dc30d18624984fe8dbe41c
 --start 23768
 --tape-stop 43
+--sim-load-config accelerator=speedlock

@@ -4,3 +4,4 @@ super-trux.z80
 --tape-name "Super Trux - Side 1.tzx"
 --tape-sum 210641bbc6d0b206f1ffde6dfb77d047
 --start 37639
+--sim-load-config accelerator=speedlock

@@ -4,3 +4,4 @@ cabal.z80
 --tape-name "Cabal - 48k.tzx"
 --tape-sum 66ac0335bcb23a178cbee80bc86bd6e1
 --start 39510
+--sim-load-config accelerator=rom

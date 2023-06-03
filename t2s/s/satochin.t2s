@@ -4,3 +4,4 @@ satochin.z80
 --tape-name "SATOCHIN.TZX"
 --tape-sum 83229951a021d320625aa6d4ade4b354
 --start 59334
+--sim-load-config accelerator=speedlock

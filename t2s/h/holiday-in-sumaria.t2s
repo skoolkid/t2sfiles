@@ -4,3 +4,4 @@ holiday-in-sumaria.z80
 --tape-name "Holiday In Sumaria.tzx"
 --tape-sum 9d8b6e01a85b3f7295edac25e6177c3b
 --start 50003
+--sim-load-config accelerator=speedlock

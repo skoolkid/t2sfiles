@@ -4,3 +4,4 @@ cityfighter.z80
 --tape-name "City Fighter.tzx"
 --tape-sum 90b95441d9766e177dacda49ddf2636e
 --start 28146
+--sim-load-config accelerator=rom

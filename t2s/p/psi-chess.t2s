@@ -4,3 +4,4 @@ psi-chess.z80
 --tape-name "Psi Chess.tzx"
 --tape-sum 01d705109df300cb448c00bf3d7aacd4
 --start 64574
+--sim-load-config accelerator=alkatraz

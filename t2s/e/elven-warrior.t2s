@@ -4,3 +4,4 @@ elven-warrior.z80
 --tape-name "Elven Warrior.tzx"
 --tape-sum 19e952a0e8006881d83b2aa0aa7e9396
 --start 65210
+--sim-load-config accelerator=speedlock

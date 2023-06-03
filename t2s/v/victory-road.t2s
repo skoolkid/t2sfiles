@@ -4,3 +4,4 @@ victory-road.z80
 --tape-name "Victory Road.tzx"
 --tape-sum 90a862c77d74181775d6aedbe4ea1fc6
 --start 65283
+--sim-load-config accelerator=speedlock

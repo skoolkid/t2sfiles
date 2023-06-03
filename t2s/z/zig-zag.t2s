@@ -4,3 +4,4 @@ zig-zag.z80
 --tape-name "Zig-Zag.tzx"
 --tape-sum 544babdc21ff516381f457337d0f28f9
 --start 61555
+--sim-load-config accelerator=rom

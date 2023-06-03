@@ -4,3 +4,4 @@ destrux.z80
 --tape-name "DESTRUX.TZX"
 --tape-sum 65232484db678aa8026e45c4abe832ae
 --start 55582
+--sim-load-config accelerator=rom

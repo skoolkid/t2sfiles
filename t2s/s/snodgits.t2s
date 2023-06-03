@@ -4,3 +4,4 @@ snodgits.z80
 --tape-name "Snodgits.tzx"
 --tape-sum 508e8a909744201165d2c6840ffa05a7
 --start 24683
+--sim-load-config accelerator=rom

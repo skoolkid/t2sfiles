@@ -4,3 +4,4 @@ samurai.z80
 --tape-name "Samurai.tzx"
 --tape-sum 4b2ce765983854f0fc73d9618d94b414
 --start 65094
+--sim-load-config accelerator=speedlock

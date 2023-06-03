@@ -4,3 +4,4 @@ danger-street.z80
 --tape-name "DANGERST.TZX"
 --tape-sum 2e6063e1ada353ae6dd4e20d26aece3b
 --start 24200
+--sim-load-config accelerator=bleepload

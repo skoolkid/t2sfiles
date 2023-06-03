@@ -4,3 +4,4 @@ poogaboo.z80
 --tape-name "Poogaboo (La Pulga 2).tzx"
 --tape-sum d0d4d4000f5804a3a61618862ad1d246
 --start 64535
+--sim-load-config accelerator=rom

@@ -4,3 +4,4 @@ games-winter-edition-the.z80
 --tape-name "The Games Winter Edition - 48k.tzx"
 --tape-sum daf192f98dab19440b76d6dc47b17e5f
 --start 64500
+--sim-load-config accelerator=alkatraz

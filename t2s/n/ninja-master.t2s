@@ -4,3 +4,4 @@ ninja-master.z80
 --tape-name "The Ninja Master.tzx"
 --tape-sum 7a219506a59a0a89374f468d308126fe
 --start 33821
+--sim-load-config accelerator=bleepload

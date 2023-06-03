@@ -5,3 +5,4 @@ compendium-shove-a-sledge.z80
 --tape-sum 29da90d3f86993fe3c33c696e824f5fd
 --start 23296
 --sim-load-config accelerate-dec-a=2
+--sim-load-config accelerator=search-loader

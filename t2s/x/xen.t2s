@@ -4,3 +4,4 @@ xen.z80
 --tape-name "Xen (Sparklers).tzx"
 --tape-sum 1148fc3bb7f18a35559f4b6a7f2ed5cd
 --start 32768
+--sim-load-config accelerator=speedlock

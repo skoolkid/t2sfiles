@@ -4,3 +4,4 @@ frontline.z80
 --tape-name "Front-Line.tzx"
 --tape-sum 3c5e1d206b95678b8b83312d0df6dcd0
 --start 16418
+--sim-load-config accelerator=rom

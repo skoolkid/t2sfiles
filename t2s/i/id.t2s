@@ -4,3 +4,4 @@ id.z80
 --tape-name "iD.tzx"
 --tape-sum 6972c6bff243c860ebb37c59cd0f694e
 --start 40312
+--sim-load-config accelerator=speedlock

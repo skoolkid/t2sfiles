@@ -4,3 +4,4 @@ dracula-p2.z80
 --tape-name "Dracula - Part 2 - The Arrival.tzx"
 --tape-sum f3dea3032a6c458463ecf963b20d09c9
 --start 65053
+--sim-load-config accelerator=speedlock

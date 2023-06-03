@@ -4,3 +4,4 @@ loads-of-midnight-p3.z80
 --tape-name "Loads Of Midnight - Side 2.tzx"
 --tape-sum f4a265240543f4817abc63bac82fea03
 --start 65492
+--sim-load-config accelerator=bleepload

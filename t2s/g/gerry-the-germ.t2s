@@ -4,3 +4,4 @@ gerry-the-germ.z80
 --tape-name "Gerry The Germ.tzx"
 --tape-sum 07f6f0d1f261579db7a1fd142751f86d
 --start 23344
+--sim-load-config accelerator=rom

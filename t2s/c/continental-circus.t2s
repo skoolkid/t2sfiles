@@ -5,3 +5,4 @@ continental-circus.z80
 --tape-sum 33daa4350a543571b931e18488e9084c
 --start 48168
 --tape-stop 8
+--sim-load-config accelerator=bleepload

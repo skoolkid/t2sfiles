@@ -4,3 +4,4 @@ plexar.z80
 --tape-name "Plexar.tzx"
 --tape-sum bdb178f819831b22f1191d7d8949ae80
 --start 37329
+--sim-load-config accelerator=rom

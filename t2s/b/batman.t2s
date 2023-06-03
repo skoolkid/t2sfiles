@@ -4,3 +4,4 @@ batman.z80
 --tape-name "Batman - Release 1.tzx"
 --tape-sum 037555d931f2c01f1eb1269e8f33b407
 --start 23323
+--sim-load-config accelerator=bleepload

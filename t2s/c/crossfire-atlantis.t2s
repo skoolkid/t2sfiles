@@ -4,3 +4,4 @@ crossfire-atlantis.z80
 --tape-name "Crossfire (Atlantis).tzx"
 --tape-sum f721b8c02b66de13d01398d3b9a3598d
 --start 61735
+--sim-load-config accelerator=rom

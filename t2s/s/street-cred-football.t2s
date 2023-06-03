@@ -4,3 +4,4 @@ street-cred-football.z80
 --tape-name "Street Cred' Football.tzx"
 --tape-sum a9408a2c94a82e43b032328ddd4ae6aa
 --start 65146
+--sim-load-config accelerator=speedlock

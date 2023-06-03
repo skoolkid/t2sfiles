@@ -4,3 +4,4 @@ spaced-out.z80
 --tape-name "Spaced Out.tzx"
 --tape-sum dc09995f85011e85feccc14f1ed1f329
 --start 23419
+--sim-load-config accelerator=bleepload

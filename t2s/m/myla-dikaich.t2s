@@ -4,3 +4,4 @@ myla-dikaich.z80
 --tape-name "Myla Di'Kaich.tzx"
 --tape-sum 64e6a7bfbbcc8e3ba1107ec8b1867498
 --start 65177
+--sim-load-config accelerator=rom

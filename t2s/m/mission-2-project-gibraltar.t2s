@@ -4,3 +4,4 @@ mission-2-project-gibraltar.z80
 --tape-name "Mission 2 - Project Gibraltar.tzx"
 --tape-sum e66ac2cec756c320a12a883a71fccc91
 --start 65232
+--sim-load-config accelerator=speedlock

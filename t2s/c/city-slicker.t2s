@@ -5,3 +5,4 @@ city-slicker.z80
 --tape-sum df2c547398984a2a52931c48c0587563
 --start 64555
 --sim-load-config accelerate-dec-a=2
+--sim-load-config accelerator=search-loader

@@ -5,3 +5,4 @@ vixen-part-b.z80
 --tape-sum 3075d03f63d20acf2ad029265f6f1746
 --start 65248
 --tape-start 53
+--sim-load-config accelerator=speedlock

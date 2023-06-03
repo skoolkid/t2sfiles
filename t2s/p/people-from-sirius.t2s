@@ -4,3 +4,4 @@ people-from-sirius.z80
 --tape-name "El Mundo Perdido.tzx"
 --tape-sum 55f9fbea65674f67ff27fde4ac47f6ad
 --start 23296
+--sim-load-config accelerator=bleepload

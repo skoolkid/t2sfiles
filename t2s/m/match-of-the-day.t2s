@@ -4,3 +4,4 @@ match-of-the-day.z80
 --tape-name "Match Of The Day.tzx"
 --tape-sum 08ce2522e0bfd81a60257aeab4b3fb81
 --start 36893
+--sim-load-config accelerator=bleepload

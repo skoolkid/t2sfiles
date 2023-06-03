@@ -4,3 +4,4 @@ frost-byte.z80
 --tape-name "Frost Byte.tzx"
 --tape-sum 840dc80643181d04b49d9a6ed1b4be16
 --start 65271
+--sim-load-config accelerator=speedlock

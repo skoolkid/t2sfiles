@@ -5,3 +5,4 @@ zany-adventure.z80
 --tape-sum e41812abb526d4c597f910fa41d3ab1c
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config accelerator=rom

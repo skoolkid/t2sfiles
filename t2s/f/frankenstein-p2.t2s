@@ -5,3 +5,4 @@ frankenstein-p2.z80
 --tape-sum b737731076488440a7fdc109a74fbf30
 --start 64362
 --tape-start 10
+--sim-load-config accelerator=speedlock

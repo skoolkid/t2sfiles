@@ -4,3 +4,4 @@ miami-cobra-gt.z80
 --tape-name "Miami Cobra GT.tzx"
 --tape-sum 413949c6194b83d1e088effe6f9395f4
 --start 65202
+--sim-load-config accelerator=speedlock

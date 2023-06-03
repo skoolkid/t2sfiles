@@ -4,3 +4,4 @@ beach-head.z80
 --tape-name "Beach Head.tzx"
 --tape-sum 24c29096cf3882cdd5682bdd661d432b
 --start 51281
+--sim-load-config accelerator=speedlock

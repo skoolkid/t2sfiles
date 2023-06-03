@@ -4,3 +4,4 @@ loco-alligata.z80
 --tape-name "LOCO.TZX"
 --tape-sum 763f0978a5ebefa279ad797945de9830
 --start 64124
+--sim-load-config accelerator=rom

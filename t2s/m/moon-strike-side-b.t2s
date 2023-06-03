@@ -5,3 +5,4 @@ moon-strike-side-b.z80
 --tape-sum 5e7f8a61737ce209865c64df39b524f9
 --start 65413
 --tape-stop 8
+--sim-load-config accelerator=bleepload

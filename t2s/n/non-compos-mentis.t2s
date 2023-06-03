@@ -4,3 +4,4 @@ non-compos-mentis.z80
 --tape-name "MENTIS.TZX"
 --tape-sum f5c7dac71cfcc1ced56aab7ba8fbbeda
 --start 65172
+--sim-load-config accelerator=rom

@@ -4,3 +4,4 @@ hysteria.z80
 --tape-name "Hysteria.tzx"
 --tape-sum 2f4485c0d0e98758f7da09b322ca0a0c
 --start 23305
+--sim-load-config accelerator=speedlock

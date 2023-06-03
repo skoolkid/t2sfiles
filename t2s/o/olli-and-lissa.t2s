@@ -4,3 +4,4 @@ olli-and-lissa.z80
 --tape-name "Olli & Lissa - The Ghost Of Shilmoore.tzx"
 --tape-sum 0bdd2f6ca2237e727e93a90903f9b25b
 --start 59066
+--sim-load-config accelerator=paul-owens

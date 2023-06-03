@@ -5,3 +5,4 @@ blood-brothers.z80
 --tape-sum c4e7e151c4321b29c095abf1e547f9b5
 --start 47847
 --sim-load-config accelerate-dec-a=2
+--sim-load-config accelerator=search-loader

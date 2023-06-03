@@ -4,3 +4,4 @@ movie.z80
 --tape-name "Movie.tzx"
 --tape-sum 6710e3f10166277c9d32d8d41a288749
 --start 65446
+--sim-load-config accelerator=speedlock

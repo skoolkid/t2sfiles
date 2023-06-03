@@ -5,3 +5,4 @@ letter-eater.z80
 --tape-sum 10417754b0d62ae95391568b6f76d622
 --start 16404
 --sim-load-config finish-tape=1
+--sim-load-config accelerator=rom

@@ -4,3 +4,4 @@ laserwarp.z80
 --tape-name "Laserwarp.tzx"
 --tape-sum 2559fee2e052ff8ebe25c7fa34838407
 --start 65529
+--sim-load-config accelerator=speedlock

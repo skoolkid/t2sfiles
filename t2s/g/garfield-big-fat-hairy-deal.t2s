@@ -4,3 +4,4 @@ garfield-big-fat-hairy-deal.z80
 --tape-name "Garfield - Big, Fat, Hairy Deal.tzx"
 --tape-sum 2c9de6453c37b77a51fd9872ce2bd786
 --start 64470
+--sim-load-config accelerator=alkatraz

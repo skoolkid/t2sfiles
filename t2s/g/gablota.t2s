@@ -5,3 +5,4 @@ gablota.z80
 --tape-sum f629409289f1b3cac62731dac237b797
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config accelerator=rom

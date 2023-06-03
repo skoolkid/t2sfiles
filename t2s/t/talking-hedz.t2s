@@ -4,3 +4,4 @@ talking-hedz.z80
 --tape-name "TALKHEDZ.TZX"
 --tape-sum c02b5b5212793e9e1c8806671d919f78
 --start 65231
+--sim-load-config accelerator=speedlock

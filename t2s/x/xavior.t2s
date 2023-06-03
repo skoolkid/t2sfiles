@@ -4,3 +4,4 @@ xavior.z80
 --tape-name "Xavior.tzx"
 --tape-sum 36b1f1b53a424f45faadcf756ea76617
 --start 23503
+--sim-load-config accelerator=rom

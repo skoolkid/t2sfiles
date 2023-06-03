@@ -4,3 +4,4 @@ scuba-attack.z80
 --tape-name "Scuba Attack.tzx"
 --tape-sum f26d3a29fe12408eabd33a127a494813
 --start 32768
+--sim-load-config accelerator=rom

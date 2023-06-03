@@ -5,3 +5,4 @@ fuddo-and-slam.z80
 --tape-sum 06253846131a9b9647694a575cba63e8
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config accelerator=rom

@@ -4,3 +4,4 @@ monty-is-innocent-side-2.z80
 --tape-name "Monty Is Innocent - Side 2.tzx"
 --tape-sum db2118e5aae98df52dcd8d47bb00192e
 --start 62402
+--sim-load-config accelerator=speedlock

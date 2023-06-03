@@ -4,3 +4,4 @@ omega-run.z80
 --tape-name "Omega Run.tzx"
 --tape-sum e9864828c2781c9d693e5d9263f3dd18
 --start 60687
+--sim-load-config accelerator=rom

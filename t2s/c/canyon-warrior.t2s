@@ -5,3 +5,4 @@ canyon-warrior.z80
 --tape-sum 26549273b08477062f3e09b58739910d
 --start 34749
 --tape-stop 5
+--sim-load-config accelerator=paul-owens

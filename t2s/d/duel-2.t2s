@@ -5,3 +5,4 @@ duel-2.z80
 --tape-sum ad7d5ba28e98e0fbee6498f148f6e436
 --start 54220
 --sim-load-config first-edge=0
+--sim-load-config accelerator=rom

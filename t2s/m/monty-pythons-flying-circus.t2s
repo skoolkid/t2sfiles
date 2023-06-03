@@ -4,3 +4,4 @@ monty-pythons-flying-circus.z80
 --tape-name "Monty Python's Flying Circus - Side 1.tzx"
 --tape-sum a08d2aa8085922c5e8a942197d9a05f0
 --start 23296
+--sim-load-config accelerator=speedlock

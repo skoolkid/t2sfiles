@@ -4,3 +4,4 @@ blazing-thunder.z80
 --tape-name "Blazing Thunder.tzx"
 --tape-sum 7ab1990aba0e5f3b3443088e0bfa89dc
 --start 61509
+--sim-load-config accelerator=bleepload

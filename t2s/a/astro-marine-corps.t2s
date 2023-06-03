@@ -4,3 +4,4 @@ astro-marine-corps.z80
 --tape-name "Astro Marine Corps - Side 1.tzx"
 --tape-sum b31fd6232a865fbef93db8700ceeb931
 --start 63530
+--sim-load-config accelerator=dinaload

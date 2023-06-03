@@ -4,3 +4,4 @@ pecinski-heroj.z80
 --tape-name "JamskiHeroj_Hr.tzx"
 --tape-sum 3a065b8ee234b646d4a468cdd750caaf
 --start 32912
+--sim-load-config accelerator=speedlock

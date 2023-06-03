@@ -5,3 +5,4 @@ academy.z80
 --tape-sum e60b26386df9ca17ca9d1f2b6054d405
 --start 65070
 --tape-stop 6
+--sim-load-config accelerator=speedlock

@@ -4,3 +4,4 @@ pac-man-atarisoft.z80
 --tape-name "Pac-Man.tzx"
 --tape-sum 14983a3553c2ae57128391d5ea9e6606
 --start 29588
+--sim-load-config accelerator=rom

@@ -4,3 +4,4 @@ death-star-interceptor.z80
 --tape-name "Death Star Interceptor.tzx"
 --tape-sum ac0fa4543884df79b2c4258445155812
 --start 49978
+--sim-load-config accelerator=speedlock

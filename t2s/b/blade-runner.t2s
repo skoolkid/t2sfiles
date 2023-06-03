@@ -4,3 +4,4 @@ blade-runner.z80
 --tape-name "Blade Runner.tzx"
 --tape-sum 682da7a7472ab04b2a5efc4f518bc395
 --start 50721
+--sim-load-config accelerator=speedlock

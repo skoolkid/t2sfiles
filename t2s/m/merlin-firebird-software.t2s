@@ -4,3 +4,4 @@ merlin-firebird-software.z80
 --tape-name "Merlin.tzx"
 --tape-sum ba576079f03f19d4f31268f0973a0485
 --start 23452
+--sim-load-config accelerator=bleepload

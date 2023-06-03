@@ -4,3 +4,4 @@ pianeta-maledetto-il.z80
 --tape-name "PianetaMaledettoIl.tap"
 --tape-sum 51c3963d4a2413766509acd9996fa72e
 --start 22240
+--sim-load-config accelerator=rom

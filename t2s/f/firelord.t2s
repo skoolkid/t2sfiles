@@ -4,3 +4,4 @@ firelord.z80
 --tape-name "Firelord.tzx"
 --tape-sum a86b9cc73e3b92c06e00f6bb4ba79784
 --start 57246
+--sim-load-config accelerator=rom

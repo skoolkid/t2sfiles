@@ -4,3 +4,4 @@ rocman.z80
 --tape-name "Rocman (Spanish).tzx"
 --tape-sum 5b39d21032af603e27d92410f07cecc5
 --start 46163
+--sim-load-config accelerator=rom

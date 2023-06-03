@@ -4,3 +4,4 @@ michel-super-skills.z80
 --tape-name "MICHELSS.TZX"
 --tape-sum 8cde057b97f7cc7f607f083fe88388b5
 --start 64539
+--sim-load-config accelerator=dinaload

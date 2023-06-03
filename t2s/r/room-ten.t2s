@@ -4,3 +4,4 @@ room-ten.z80
 --tape-name "Room Ten.tzx"
 --tape-sum 51bebe63861078997a4c3b7a023184d1
 --start 64037
+--sim-load-config accelerator=speedlock

@@ -4,3 +4,4 @@ hive-firebird-software.z80
 --tape-name "Hive - Side A.tzx"
 --tape-sum d34ab4599ffae974edd7622d75fe800b
 --start 24476
+--sim-load-config accelerator=bleepload

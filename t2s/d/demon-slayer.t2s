@@ -4,3 +4,4 @@ demon-slayer.z80
 --tape-name "DEMONSLA.TZX"
 --tape-sum df0670208c52e991f310a4993f39bd54
 --start 16396
+--sim-load-config accelerator=bleepload

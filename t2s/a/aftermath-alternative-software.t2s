@@ -4,3 +4,4 @@ aftermath-alternative-software.z80
 --tape-name "Aftermath (Alternative).tzx"
 --tape-sum 29a34ac3d109c15c66ce5bca7e27291d
 --start 62086
+--sim-load-config accelerator=rom

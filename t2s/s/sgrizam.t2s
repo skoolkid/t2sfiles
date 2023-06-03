@@ -4,3 +4,4 @@ sgrizam.z80
 --tape-name "Sgrizam.tzx"
 --tape-sum a9bb6b297135a24386b643b51fe76283
 --start 32512
+--sim-load-config accelerator=rom

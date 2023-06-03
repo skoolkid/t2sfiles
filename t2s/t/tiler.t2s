@@ -4,3 +4,4 @@ tiler.z80
 --tape-name "Tiler.tzx"
 --tape-sum cd528486a5d9d5afb09677b77cd108c4
 --start 30000
+--sim-load-config accelerator=rom

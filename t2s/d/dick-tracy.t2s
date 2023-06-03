@@ -5,3 +5,4 @@ dick-tracy.z80
 --tape-sum 7acc7bbbeba178ae833c6477d57b9440
 --start 31425
 --tape-stop 10
+--sim-load-config accelerator=rom

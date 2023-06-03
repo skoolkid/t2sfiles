@@ -4,3 +4,4 @@ kickboxing.z80
 --tape-name "Kick Boxing.tzx"
 --tape-sum d6e7bc78cdceb5f871d1886e28c5b79d
 --start 63839
+--sim-load-config accelerator=bleepload

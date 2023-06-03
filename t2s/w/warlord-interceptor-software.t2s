@@ -4,3 +4,4 @@ warlord-interceptor-software.z80
 --tape-name "Warlord.tzx"
 --tape-sum 2dd3d041402cdd130d13356f767e31fb
 --start 42289
+--sim-load-config accelerator=rom

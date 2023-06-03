@@ -4,3 +4,4 @@ batman-the-movie.z80
 --tape-name "Batman - The Movie.tzx"
 --tape-sum 9ee68024fd032f83aa49db2de6bb37cc
 --start 24756
+--sim-load-config accelerator=rom

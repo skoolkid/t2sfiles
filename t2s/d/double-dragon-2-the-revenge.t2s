@@ -4,3 +4,4 @@ double-dragon-2-the-revenge.z80
 --tape-name "Double Dragon 2 The Revenge - 48k.tzx"
 --tape-sum 5ad354455dd987deba1ab9a27eeb594d
 --start 23296
+--sim-load-config accelerator=speedlock

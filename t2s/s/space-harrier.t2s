@@ -4,3 +4,4 @@ space-harrier.z80
 --tape-name "Space Harrier.tzx"
 --tape-sum ce9361970e6a05db043656a5baf34022
 --start 65449
+--sim-load-config accelerator=bleepload

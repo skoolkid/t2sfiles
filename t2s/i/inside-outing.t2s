@@ -4,3 +4,4 @@ inside-outing.z80
 --tape-name "Inside Outing.tzx"
 --tape-sum b516d8201340d46050d19a3314c0323e
 --start 64470
+--sim-load-config accelerator=alkatraz

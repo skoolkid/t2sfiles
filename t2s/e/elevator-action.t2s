@@ -4,3 +4,4 @@ elevator-action.z80
 --tape-name "Elevator Action.tzx"
 --tape-sum 89df5d1aee07806c2a29e4f95afbe7dd
 --start 37923
+--sim-load-config accelerator=rom

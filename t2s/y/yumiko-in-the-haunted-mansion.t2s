@@ -4,3 +4,4 @@ yumiko-in-the-haunted-mansion.z80
 --tape-name "Yumiko in the haunted mansion (Standard Edition).tzx"
 --tape-sum d68f26f219eb760a0580b754f3f96342
 --start 65163
+--sim-load-config accelerator=rom

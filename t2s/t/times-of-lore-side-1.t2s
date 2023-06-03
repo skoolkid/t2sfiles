@@ -5,3 +5,4 @@ times-of-lore-side-1.z80
 --tape-sum 743ca06dd61bd6ffcb7b2f6bec1d2a7a
 --start 23371
 --tape-stop 10
+--sim-load-config accelerator=rom

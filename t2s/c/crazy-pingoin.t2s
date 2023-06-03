@@ -4,3 +4,4 @@ crazy-pingoin.z80
 --tape-name "Crazy Pingoin.tzx"
 --tape-sum 7fe86984a716ef724163c8ae0137fee7
 --start 50167
+--sim-load-config accelerator=bleepload

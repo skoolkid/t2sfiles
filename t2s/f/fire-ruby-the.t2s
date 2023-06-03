@@ -4,3 +4,4 @@ fire-ruby-the.z80
 --tape-name "The Fire Ruby.tzx"
 --tape-sum b273c0e69e505281ea5d40ddb9373d8a
 --start 16402
+--sim-load-config accelerator=rom

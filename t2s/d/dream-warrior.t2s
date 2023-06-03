@@ -4,3 +4,4 @@ dream-warrior.z80
 --tape-name "Dream Warrior.tzx"
 --tape-sum bdb43df74cd2dc5dd46b820b63933a19
 --start 64509
+--sim-load-config accelerator=alkatraz

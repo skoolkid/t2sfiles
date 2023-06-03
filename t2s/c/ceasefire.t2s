@@ -4,3 +4,4 @@ ceasefire.z80
 --tape-name "CEASEFIR.TAP"
 --tape-sum 8ac862ce1551668f3250b4860334180e
 --start 16404
+--sim-load-config accelerator=rom

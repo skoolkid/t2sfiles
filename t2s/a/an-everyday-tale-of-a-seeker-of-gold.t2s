@@ -5,3 +5,4 @@ an-everyday-tale-of-a-seeker-of-gold.z80
 --tape-sum 14b050a8c0a4ae1cbb6f778feee71c92
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config accelerator=rom

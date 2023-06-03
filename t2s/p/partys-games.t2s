@@ -4,3 +4,4 @@ partys-games.z80
 --tape-name "PartysGames.tzx"
 --tape-sum 51e32b3a163f2e3211ff8324ab6ad188
 --start 65160
+--sim-load-config accelerator=rom

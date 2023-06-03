@@ -4,3 +4,4 @@ ultima-ratio.z80
 --tape-name "Ultima Ratio.tzx"
 --tape-sum f4fed3ace0ff3ded404513efb92b3486
 --start 23419
+--sim-load-config accelerator=bleepload

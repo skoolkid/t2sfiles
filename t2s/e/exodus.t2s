@@ -4,3 +4,4 @@ exodus.z80
 --tape-name "Exodus.tzx"
 --tape-sum 722bbbdd5acac336bfffcc8a8b2ea794
 --start 29662
+--sim-load-config accelerator=rom

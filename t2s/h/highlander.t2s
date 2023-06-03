@@ -4,3 +4,4 @@ highlander.z80
 --tape-name "Highlander.tzx"
 --tape-sum 4fbe85b56ce9f9e72dc9ae27529868fe
 --start 65393
+--sim-load-config accelerator=speedlock

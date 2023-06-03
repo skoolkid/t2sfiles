@@ -4,3 +4,4 @@ lancelot-mandarin-software.z80
 --tape-name "Lancelot - Side A.tzx"
 --tape-sum 163c884292e108743d18a8aa1526b190
 --start 23296
+--sim-load-config accelerator=rom

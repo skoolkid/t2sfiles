@@ -4,3 +4,4 @@ pipework.z80
 --tape-name "PIPEWORK.TZX"
 --tape-sum 97fc4f4d9afc226535960cbf8db5430b
 --start 65314
+--sim-load-config accelerator=rom

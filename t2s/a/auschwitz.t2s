@@ -5,3 +5,4 @@ auschwitz.z80
 --tape-sum 0e22ffcb16dcab0ea290a062d7b10ffa
 --start 23850
 --sim-load-config finish-tape=1
+--sim-load-config accelerator=rom

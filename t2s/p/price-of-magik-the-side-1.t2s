@@ -4,3 +4,4 @@ price-of-magik-the-side-1.z80
 --tape-name "The Price Of Magik - Side 1.tzx"
 --tape-sum ddb812fe2cabe6a8449601deb309ea73
 --start 25468
+--sim-load-config accelerator=rom

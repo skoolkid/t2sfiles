@@ -4,3 +4,4 @@ international-match-day.z80
 --tape-name "International Match Day.tzx"
 --tape-sum cb959e7265391362742fbda62cee86e8
 --start 33354
+--sim-load-config accelerator=speedlock

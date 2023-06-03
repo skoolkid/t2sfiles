@@ -4,3 +4,4 @@ sophistry.z80
 --tape-name "Sophistry.tzx"
 --tape-sum b91c04f396b287d025c2403fcdeb7747
 --start 36220
+--sim-load-config accelerator=rom

@@ -5,3 +5,4 @@ spi-droid.z80
 --tape-sum 5ebba91bf35e19974c01b9da01776ee6
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config accelerator=rom

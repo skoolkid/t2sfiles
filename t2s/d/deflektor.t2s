@@ -5,3 +5,4 @@ deflektor.z80
 --tape-sum d3ddae68bfbc3c64bc3f142261573fc2
 --start 47929
 --sim-load-config accelerate-dec-a=2
+--sim-load-config accelerator=search-loader

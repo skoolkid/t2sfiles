@@ -4,3 +4,4 @@ saimazoom.z80
 --tape-name "Saimazoom.tzx"
 --tape-sum cbb1199807ff1dff4ce4ea114419e1e5
 --start 24128
+--sim-load-config accelerator=rom

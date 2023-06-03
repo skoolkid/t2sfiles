@@ -4,3 +4,4 @@ megablast.z80
 --tape-name "MEGABLAS.TZX"
 --tape-sum 38ce60d70c8f939487aa141c63353c2b
 --start 65327
+--sim-load-config accelerator=rom

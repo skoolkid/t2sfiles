@@ -5,3 +5,4 @@ infection.z80
 --tape-sum e0490e5e81e26ffb253d44fa3b9b6922
 --start 47381
 --tape-stop 5
+--sim-load-config accelerator=bleepload

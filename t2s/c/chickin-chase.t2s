@@ -4,3 +4,4 @@ chickin-chase.z80
 --tape-name "Chickin Chase.tzx"
 --tape-sum 2d3dd4de5572338e8071bcee367559bc
 --start 23344
+--sim-load-config accelerator=rom

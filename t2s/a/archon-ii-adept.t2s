@@ -4,3 +4,4 @@ archon-ii-adept.z80
 --tape-name "ARCHON2-.TAP"
 --tape-sum 77dd45694a9ebab872c9be381cdaeab8
 --start 39120
+--sim-load-config accelerator=rom

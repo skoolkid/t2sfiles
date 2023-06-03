@@ -4,3 +4,4 @@ mr-freeze.z80
 --tape-name "Mr. Freeze.tzx"
 --tape-sum e77482f7fb29a0fd2621075ffc273d73
 --start 56613
+--sim-load-config accelerator=rom

@@ -4,3 +4,4 @@ game-over.z80
 --tape-name "Game Over - Side 1 (Imagine).tzx"
 --tape-sum 920401c750a22e423206aa6c8606c7fe
 --start 64298
+--sim-load-config accelerator=speedlock

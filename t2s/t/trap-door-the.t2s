@@ -4,3 +4,4 @@ trap-door-the.z80
 --tape-name "The Trapdoor.tzx"
 --tape-sum d828cc98329a34835cad6bbbb599b4f8
 --start 65177
+--sim-load-config accelerator=speedlock

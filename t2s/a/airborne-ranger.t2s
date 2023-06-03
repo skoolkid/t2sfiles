@@ -4,3 +4,4 @@ airborne-ranger.z80
 --tape-name "Airborne Ranger - Tape 1 - Side A.tzx"
 --tape-sum 26eee3d9cf92758ebc78fc5133852035
 --start 33402
+--sim-load-config accelerator=rom

@@ -4,3 +4,4 @@ strangeloop.z80
 --tape-name "Strange Loop.tzx"
 --tape-sum 6652959216a9752c33fc788ef7efc29c
 --start 64904
+--sim-load-config accelerator=rom

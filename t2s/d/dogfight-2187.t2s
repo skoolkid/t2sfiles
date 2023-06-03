@@ -4,3 +4,4 @@ dogfight-2187.z80
 --tape-name "Dogfight 2187.tzx"
 --tape-sum 5d73a347e27e98bb5a235eeac6470d56
 --start 65317
+--sim-load-config accelerator=speedlock

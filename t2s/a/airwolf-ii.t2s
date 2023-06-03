@@ -4,3 +4,4 @@ airwolf-ii.z80
 --tape-name "Airwolf 2.tzx"
 --tape-sum aaa7021242c91c5c654fc16fb70e2329
 --start 65224
+--sim-load-config accelerator=speedlock

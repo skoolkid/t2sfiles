@@ -5,3 +5,4 @@ camel-trophy-86.z80
 --tape-sum 0c322fad77da07d53d20db13586ae013
 --start 11563
 --sim-load-config finish-tape=1
+--sim-load-config accelerator=bleepload

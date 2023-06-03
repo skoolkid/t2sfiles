@@ -4,3 +4,4 @@ match-day.z80
 --tape-name "Match Day.tzx"
 --tape-sum 2974681df0d292ec42588b999332b685
 --start 60477
+--sim-load-config accelerator=speedlock

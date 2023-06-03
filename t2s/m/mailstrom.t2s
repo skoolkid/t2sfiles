@@ -4,3 +4,4 @@ mailstrom.z80
 --tape-name "Mailstrom.tzx"
 --tape-sum a88c2ed12823451e18e87f7709945c5d
 --start 64470
+--sim-load-config accelerator=alkatraz

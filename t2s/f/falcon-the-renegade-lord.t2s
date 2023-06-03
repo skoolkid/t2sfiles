@@ -4,3 +4,4 @@ falcon-the-renegade-lord.z80
 --tape-name "Falcon The Renegade Lord.tzx"
 --tape-sum 8974b6db31390f94049165e75f575d4b
 --start 65323
+--sim-load-config accelerator=speedlock

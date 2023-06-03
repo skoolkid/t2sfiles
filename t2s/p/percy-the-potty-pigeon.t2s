@@ -4,3 +4,4 @@ percy-the-potty-pigeon.z80
 --tape-name "Potty Pigeon.tzx"
 --tape-sum 481477f161026d4a7fe1c62b6a8289e1
 --start 49629
+--sim-load-config accelerator=speedlock

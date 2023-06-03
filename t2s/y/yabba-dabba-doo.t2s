@@ -4,3 +4,4 @@ yabba-dabba-doo.z80
 --tape-name "Yabba Dabba Dooo!.tzx"
 --tape-sum 62011f2ed8fe818f5117c34864ba230a
 --start 36992
+--sim-load-config accelerator=rom

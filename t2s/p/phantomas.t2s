@@ -4,3 +4,4 @@ phantomas.z80
 --tape-name "Phantomas - Medium Case.tzx"
 --tape-sum 3ecd98b5b45ebcffe906dcc8226fd98c
 --start 24537
+--sim-load-config accelerator=rom

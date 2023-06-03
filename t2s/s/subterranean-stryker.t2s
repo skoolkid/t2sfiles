@@ -4,3 +4,4 @@ subterranean-stryker.z80
 --tape-name "Subterranean Stryker.tzx"
 --tape-sum 8b9758404685678735ec57433a0035b1
 --start 55284
+--sim-load-config accelerator=rom

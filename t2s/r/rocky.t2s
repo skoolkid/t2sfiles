@@ -4,3 +4,4 @@ rocky.z80
 --tape-name "Rocky - Small Case.tzx"
 --tape-sum 85378d92e6ba269b60430cc908d4fb05
 --start 27392
+--sim-load-config accelerator=rom

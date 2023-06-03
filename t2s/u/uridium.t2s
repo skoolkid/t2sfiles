@@ -4,3 +4,4 @@ uridium.z80
 --tape-name "Uridium.tzx"
 --tape-sum 64ccb88c36305ea68f73570fe7abe61f
 --start 62906
+--sim-load-config accelerator=rom

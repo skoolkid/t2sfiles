@@ -4,3 +4,4 @@ starglider.z80
 --tape-name "Starglider - Release 1 - Side 1.tzx"
 --tape-sum 2183830c872a6e403a212ae9c17950e1
 --start 23931
+--sim-load-config accelerator=bleepload

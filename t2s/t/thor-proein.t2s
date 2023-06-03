@@ -4,3 +4,4 @@ thor-proein.z80
 --tape-name "Thor.tzx"
 --tape-sum 94a7e1eff2df169f71cb7008c141d40d
 --start 51200
+--sim-load-config accelerator=speedlock

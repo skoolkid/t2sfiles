@@ -5,3 +5,4 @@ from-out-of-a-dark-night-sky.z80
 --tape-sum 43db10b69b47edf99e94d5319c803a51
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config accelerator=rom

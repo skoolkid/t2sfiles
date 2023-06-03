@@ -4,3 +4,4 @@ mindstone.z80
 --tape-name "Mindstone.tzx"
 --tape-sum c7082d41fa0dc1c37cb18c4228d2381f
 --start 64600
+--sim-load-config accelerator=alkatraz

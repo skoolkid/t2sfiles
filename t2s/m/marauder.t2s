@@ -4,3 +4,4 @@ marauder.z80
 --tape-name "Marauder.tzx"
 --tape-sum a4574b657b9ac81f90f67a46f1eb9e9b
 --start 65133
+--sim-load-config accelerator=rom

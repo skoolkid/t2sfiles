@@ -4,3 +4,4 @@ bowling-2000.z80
 --tape-name "bowling2000.tzx"
 --tape-sum 5735334799a39aedb2a543e026f9691c
 --start 24200
+--sim-load-config accelerator=bleepload

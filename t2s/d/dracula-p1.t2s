@@ -4,3 +4,4 @@ dracula-p1.z80
 --tape-name "Dracula - Part 1 - The First Night.tzx"
 --tape-sum d9de63d211b98dd4b12f44527014c20f
 --start 65053
+--sim-load-config accelerator=speedlock

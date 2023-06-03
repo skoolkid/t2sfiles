@@ -4,3 +4,4 @@ tubaruba.z80
 --tape-name "Tubaruba.tzx"
 --tape-sum 9ea88ea4898710415f817c41819a23a7
 --start 23931
+--sim-load-config accelerator=bleepload

@@ -5,3 +5,4 @@ rasputin.z80
 --tape-sum a49e2c4b715394d4a7461de1b224d3fc
 --start 23344
 --state issue2=1
+--sim-load-config accelerator=rom

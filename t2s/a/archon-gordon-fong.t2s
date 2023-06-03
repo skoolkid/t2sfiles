@@ -4,3 +4,4 @@ archon-gordon-fong.z80
 --tape-name "ARCHON.TAP"
 --tape-sum 2e84ec460cd93107061d4fa0b0ef743e
 --start 42794
+--sim-load-config accelerator=rom

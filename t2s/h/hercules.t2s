@@ -4,3 +4,4 @@ hercules.z80
 --tape-name "Hercules (Alpha-Omega Software).tzx"
 --tape-sum 4286adf994fcb8f0dc46bc952cd0b677
 --start 64888
+--sim-load-config accelerator=speedlock

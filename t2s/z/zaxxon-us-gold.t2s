@@ -4,3 +4,4 @@ zaxxon-us-gold.z80
 --tape-name "ZAXXON.TZX"
 --tape-sum 3ede228dc6b362b394eb25aa38c96933
 --start 65488
+--sim-load-config accelerator=speedlock

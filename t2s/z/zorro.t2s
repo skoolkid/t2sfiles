@@ -4,3 +4,4 @@ zorro.z80
 --tape-name "Zorro.tzx"
 --tape-sum 392a4614ecddd43ae775d5dcf22fc203
 --start 64942
+--sim-load-config accelerator=speedlock

@@ -4,3 +4,4 @@ indoor-race.z80
 --tape-name "Indoor Race.tzx"
 --tape-sum 10f2cab3438098bb1bd1becf97393c51
 --start 50000
+--sim-load-config accelerator=rom

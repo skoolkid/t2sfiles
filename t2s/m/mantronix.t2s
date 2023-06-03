@@ -4,3 +4,4 @@ mantronix.z80
 --tape-name "Mantronix.tzx"
 --tape-sum 9ecad986c078d68f51113d211e5784fc
 --start 65389
+--sim-load-config accelerator=speedlock

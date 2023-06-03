@@ -4,3 +4,4 @@ tetris-3z.z80
 --tape-name "Tetris 3Z.tzx"
 --tape-sum 809ab06f167ee03a5282863c290a1627
 --start 64952
+--sim-load-config accelerator=bleepload

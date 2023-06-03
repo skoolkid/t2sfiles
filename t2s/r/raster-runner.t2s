@@ -4,3 +4,4 @@ raster-runner.z80
 --tape-name "Raster Runner.tzx"
 --tape-sum 27de7d4af38517f6f40739849d3fe906
 --start 35069
+--sim-load-config accelerator=rom

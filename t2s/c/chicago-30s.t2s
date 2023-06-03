@@ -4,3 +4,4 @@ chicago-30s.z80
 --tape-name "Chicago 30's (US Gold).tzx"
 --tape-sum 40584cd1fbd5ace78435cdf235097a7f
 --start 41504
+--sim-load-config accelerator=alkatraz

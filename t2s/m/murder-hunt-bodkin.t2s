@@ -4,3 +4,4 @@ murder-hunt-bodkin.z80
 --tape-name "Murder Hunt.tzx"
 --tape-sum 517e81a454c0120979f9a1c7cd17ddb0
 --start 60025
+--sim-load-config accelerator=speedlock

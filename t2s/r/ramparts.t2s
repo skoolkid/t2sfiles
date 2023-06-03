@@ -4,3 +4,4 @@ ramparts.z80
 --tape-name "Ramparts.tzx"
 --tape-sum f26e3a7fff30ad3bc47abcd18be0a737
 --start 64509
+--sim-load-config accelerator=alkatraz

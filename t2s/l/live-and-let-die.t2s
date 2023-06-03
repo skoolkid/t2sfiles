@@ -4,3 +4,4 @@ live-and-let-die.z80
 --tape-name "Live And Let Die - Side 1.tzx"
 --tape-sum ec9f9dea8a45499ad95160acc4832d76
 --start 32879
+--sim-load-config accelerator=rom

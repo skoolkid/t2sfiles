@@ -4,3 +4,4 @@ kung-fu-master.z80
 --tape-name "Kung-Fu Master.tzx"
 --tape-sum 7b4534bff10bf2b1112411f927a5491d
 --start 49859
+--sim-load-config accelerator=speedlock

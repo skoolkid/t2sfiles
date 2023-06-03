@@ -4,3 +4,4 @@ time-flies.z80
 --tape-name "Time Flies.tzx"
 --tape-sum 9775ac7a28241c05455fce13ca471568
 --start 23422
+--sim-load-config accelerator=bleepload

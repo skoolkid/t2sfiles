@@ -4,3 +4,4 @@ podraz-na-indiana-jonese.z80
 --tape-name "PIJ.TZX"
 --tape-sum 0cd6ecc45376d94d37302fe6ba2194d5
 --start 23437
+--sim-load-config accelerator=speedlock

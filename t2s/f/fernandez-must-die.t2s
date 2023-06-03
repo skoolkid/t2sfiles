@@ -4,3 +4,4 @@ fernandez-must-die.z80
 --tape-name "Fernandez Must Die.tzx"
 --tape-sum 8eb6e40422c551a25701606f3cd41c3e
 --start 65316
+--sim-load-config accelerator=speedlock

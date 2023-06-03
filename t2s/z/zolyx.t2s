@@ -4,3 +4,4 @@ zolyx.z80
 --tape-name "Zolyx (Firebird).tzx"
 --tape-sum 1f0a039bd0369b95a603e5d4cc961fef
 --start 23419
+--sim-load-config accelerator=bleepload

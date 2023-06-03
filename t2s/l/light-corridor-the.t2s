@@ -4,3 +4,4 @@ light-corridor-the.z80
 --tape-name "The Light Corridor.tzx"
 --tape-sum 66674ee9c6b696404c5847be32796af4
 --start 32879
+--sim-load-config accelerator=speedlock

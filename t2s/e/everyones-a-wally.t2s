@@ -4,3 +4,4 @@ everyones-a-wally.z80
 --tape-name "Everyone's A Wally.tzx"
 --tape-sum 538ad0852363e32bc75cfbc7debbf702
 --start 65271
+--sim-load-config accelerator=speedlock

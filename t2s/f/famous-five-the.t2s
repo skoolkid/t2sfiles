@@ -6,3 +6,4 @@ famous-five-the.z80
 --start 1343
 --tape-stop 7
 --sim-load-config finish-tape=1
+--sim-load-config accelerator=rom

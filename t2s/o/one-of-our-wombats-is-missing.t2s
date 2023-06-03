@@ -4,3 +4,4 @@ one-of-our-wombats-is-missing.z80
 --tape-name "One Of Our Wombats Is Missing! - Side 1.tzx"
 --tape-sum 2a0d32c073d5348807c4791fa853f3d9
 --start 25000
+--sim-load-config accelerator=rom

@@ -4,3 +4,4 @@ pro-speedboat-simulator.z80
 --tape-name "PSPEEDEM.TZX"
 --tape-sum 50a7f6ac261b2a12c1a7a074784126e1
 --start 65172
+--sim-load-config accelerator=rom

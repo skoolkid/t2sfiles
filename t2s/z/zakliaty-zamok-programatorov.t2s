@@ -5,3 +5,4 @@ zakliaty-zamok-programatorov.z80
 --tape-sum 8b7c48dd62ead0dfbeb7cd8eb5e2314d
 --start 65108
 --sim-load-config first-edge=0
+--sim-load-config accelerator=rom

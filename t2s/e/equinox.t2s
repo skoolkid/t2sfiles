@@ -4,3 +4,4 @@ equinox.z80
 --tape-name "Equinox.tzx"
 --tape-sum 24afc08e6c64e8387ab0c08d8c51abc3
 --start 65271
+--sim-load-config accelerator=speedlock

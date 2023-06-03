@@ -4,3 +4,4 @@ revolution.z80
 --tape-name "Revolution.tzx"
 --tape-sum e7dffdae31d95e026dfaab156860955c
 --start 64723
+--sim-load-config accelerator=speedlock
