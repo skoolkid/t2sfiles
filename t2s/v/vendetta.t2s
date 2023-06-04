@@ -4,3 +4,4 @@ vendetta.z80
 --tape-name "Vendetta.tzx"
 --tape-sum 10272b9c414f52a9fc1c2d0d889e6a39
 --start 32873
+--sim-load-config accelerator=auto

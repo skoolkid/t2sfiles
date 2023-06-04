@@ -4,3 +4,4 @@ boulder-dash-ii-rockfords-riot.z80
 --tape-name "Boulder Dash 2 - Rockford's Riot.tzx"
 --tape-sum 18a8b62da056ba06a7c68f1f4ce225ab
 --start 64376
+--sim-load-config accelerator=auto

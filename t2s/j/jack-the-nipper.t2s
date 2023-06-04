@@ -4,3 +4,4 @@ jack-the-nipper.z80
 --tape-name "Jack The Nipper.tzx"
 --tape-sum f5b1ccc39227a9689fc52845a43ccd8b
 --start 25000
+--sim-load-config accelerator=auto

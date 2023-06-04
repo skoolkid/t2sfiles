@@ -5,3 +5,4 @@ hammurabi.z80
 --tape-sum 63b842c3177e46c47853559480f22e53
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config accelerator=auto

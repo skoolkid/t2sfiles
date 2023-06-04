@@ -5,3 +5,4 @@ wec-le-mans.z80
 --tape-sum 269da6bbb27df5b2e05d49cb36847fdb
 --start 63505
 --tape-stop 40
+--sim-load-config accelerator=auto

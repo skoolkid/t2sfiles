@@ -4,3 +4,4 @@ extreme.z80
 --tape-name "Extreme.tzx"
 --tape-sum 86253e4912dc67abf86462be896a6d71
 --start 23371
+--sim-load-config accelerator=auto

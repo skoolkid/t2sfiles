@@ -4,3 +4,4 @@ terror-of-the-deep.z80
 --tape-name "Terror Of The Deep - 48k.tzx"
 --tape-sum a7dd976ae823536dc2efe37e4200de07
 --start 65062
+--sim-load-config accelerator=auto

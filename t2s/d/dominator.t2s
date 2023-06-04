@@ -4,3 +4,4 @@ dominator.z80
 --tape-name "Dominator.tzx"
 --tape-sum 193b07adda49517f60e68ec32ba2b33c
 --start 44026
+--sim-load-config accelerator=auto

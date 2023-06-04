@@ -4,3 +4,4 @@ super-soccer.z80
 --tape-name "Super Soccer.tzx"
 --tape-sum 9514ae13b1717274082cc1f26a5ede23
 --start 55448
+--sim-load-config accelerator=auto

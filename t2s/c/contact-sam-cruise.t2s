@@ -4,3 +4,4 @@ contact-sam-cruise.z80
 --tape-name "Contact Sam Cruise.tzx"
 --tape-sum 873cb6de4edc2aa75b40b838981c6f72
 --start 33224
+--sim-load-config accelerator=auto

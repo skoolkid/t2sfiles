@@ -4,3 +4,4 @@ shadowfire.z80
 --tape-name "Shadowfire.tzx"
 --tape-sum a27a885077397eb0073afcae70149351
 --start 64376
+--sim-load-config accelerator=auto

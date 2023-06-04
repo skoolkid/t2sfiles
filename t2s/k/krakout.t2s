@@ -4,3 +4,4 @@ krakout.z80
 --tape-name "Krakout.tzx"
 --tape-sum a06c7860afb7c03c6d8e1326acc133b5
 --start 65323
+--sim-load-config accelerator=auto

@@ -5,3 +5,4 @@ lightmare.z80
 --tape-sum 2e8b076ed56a38ed1eb48f9b0591103a
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config accelerator=auto

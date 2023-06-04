@@ -4,3 +4,4 @@ dark-sceptre.z80
 --tape-name "Dark Sceptre.tzx"
 --tape-sum 92f70a8e4bb031a6d603d52147f93a8a
 --start 23487
+--sim-load-config accelerator=auto

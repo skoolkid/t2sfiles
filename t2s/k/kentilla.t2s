@@ -5,3 +5,4 @@ kentilla.z80
 --tape-sum 67f23ff5a8033260c3403543fe28a5a7
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config accelerator=auto

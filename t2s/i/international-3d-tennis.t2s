@@ -4,3 +4,4 @@ international-3d-tennis.z80
 --tape-name "International 3D Tennis - Side A.tzx"
 --tape-sum c0d6ea2bc0ba225766b826a0f95b7515
 --start 23340
+--sim-load-config accelerator=auto

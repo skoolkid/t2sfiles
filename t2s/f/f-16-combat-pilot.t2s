@@ -4,3 +4,4 @@ f-16-combat-pilot.z80
 --tape-name "F-16 Combat Pilot.tzx"
 --tape-sum bc47bfe2ecadfe526b46c4087d21ef81
 --start 23628
+--sim-load-config accelerator=auto

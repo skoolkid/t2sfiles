@@ -5,3 +5,4 @@ shackled.z80
 --tape-sum ef3e2a1abd454e9389171b5df398e965
 --start 30862
 --tape-stop 7
+--sim-load-config accelerator=auto

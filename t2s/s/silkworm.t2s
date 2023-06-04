@@ -4,3 +4,4 @@ silkworm.z80
 --tape-name "Silk Worm.tzx"
 --tape-sum 0c5f050ca9d1bde1e05951d0309089e7
 --start 25049
+--sim-load-config accelerator=auto
