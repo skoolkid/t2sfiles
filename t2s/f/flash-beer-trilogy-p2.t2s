@@ -6,4 +6,4 @@ flash-beer-trilogy-p2.z80
 --start 61450
 --tape-start 5
 --tape-stop 8
---sim-load-config accelerator=none
+--sim-load-config accelerator=weird-science

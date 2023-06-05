@@ -4,4 +4,4 @@ para-cima-ou-para-baixo.z80
 --tape-name "Para Cima ou Para Baixo.tzx"
 --tape-sum 679e385bfaac090402c589c23ca12095
 --start 48495
---sim-load-config accelerator=none
+--sim-load-config accelerator=tiny

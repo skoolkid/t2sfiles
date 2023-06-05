@@ -4,4 +4,4 @@ rommels-revenge.z80
 --tape-name "Rommel's Revenge.tzx"
 --tape-sum 78113a380e8ddb08a5b0aa436286bac8
 --start 23296
---sim-load-config accelerator=none
+--sim-load-config accelerator=design-design

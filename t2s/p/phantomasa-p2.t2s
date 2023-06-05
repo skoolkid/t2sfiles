@@ -4,4 +4,4 @@ phantomasa-p2.z80
 --tape-name "Phantomasa - Part 2.tzx"
 --tape-sum de671f2e6044f9e4932a2790c08fddb8
 --start 45422
---sim-load-config accelerator=none
+--sim-load-config accelerator=tiny

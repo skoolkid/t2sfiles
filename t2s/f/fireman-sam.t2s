@@ -4,4 +4,4 @@ fireman-sam.z80
 --tape-name "Fireman Sam - Side 1.tzx"
 --tape-sum 4f0c905c6cefa573e7705de0f0735d4f
 --start 64723
---sim-load-config accelerator=none
+--sim-load-config accelerator=alternative

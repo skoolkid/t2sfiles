@@ -4,4 +4,4 @@ belegost.z80
 --tape-name "BELEGOST.TZX"
 --tape-sum e6f4400c6cc97779d74981d6b5c557d3
 --start 65331
---sim-load-config accelerator=rom
+--sim-load-config accelerator=auto

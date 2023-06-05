@@ -4,4 +4,4 @@ otodolo-2.z80
 --tape-name "Otodolo 2.tzx"
 --tape-sum 670589dab5afeb05ed7e69d38cbdab79
 --start 48495
---sim-load-config accelerator=none
+--sim-load-config accelerator=tiny

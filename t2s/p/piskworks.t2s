@@ -4,4 +4,4 @@ piskworks.z80
 --tape-name "PISKWORK.TZX"
 --tape-sum 581b9012b153abc6075643e54e843850
 --start 23332
---sim-load-config accelerator=rom
+--sim-load-config accelerator=auto

@@ -4,4 +4,4 @@ cobra-di-cristallo-il.z80
 --tape-name "CobraDiCristalloIl.tap"
 --tape-sum 4040043d584d20668930b3ed7ff6da88
 --start 48720
---sim-load-config accelerator=none
+--sim-load-config accelerator=tiny
