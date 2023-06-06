@@ -4,4 +4,4 @@ starstrike-ii.z80
 --tape-name "Starstrike II.tzx"
 --tape-sum f0f757d9b9879227d729d45c786a09dc
 --start 65472
---sim-load-config accelerator=none
+--sim-load-config accelerator=realtime

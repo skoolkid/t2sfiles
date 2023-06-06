@@ -4,4 +4,4 @@ euro-biznes.z80
 --tape-name "EuroBiznes.tzx"
 --tape-sum 9c2455c074bd1478bd3f6c624344b461
 --start 24056
---sim-load-config accelerator=none
+--sim-load-config accelerator=boguslaw-juza

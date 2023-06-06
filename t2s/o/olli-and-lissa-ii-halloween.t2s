@@ -4,4 +4,4 @@ olli-and-lissa-ii-halloween.z80
 --tape-name "Olli & Lissa 2 - Halloween.tzx"
 --tape-sum 476b60c17a8636eaebf7e3b67915a5e2
 --start 55785
---sim-load-config accelerator=none
+--sim-load-config accelerator=silverbird
