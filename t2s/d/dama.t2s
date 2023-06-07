@@ -4,4 +4,4 @@ dama.z80
 --tape-name "Dama 2005.tzx"
 --tape-sum cd5e0b26a9300616cae085e50ccf324b
 --start 22243
---sim-load-config accelerator=rom
+--sim-load-config accelerator=auto

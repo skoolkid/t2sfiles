@@ -4,4 +4,4 @@ kartyas-jatek.z80
 --tape-name "Kartyas Jatek.tzx"
 --tape-sum 02299fd8b27435c9b98358540d520811
 --start 22243
---sim-load-config accelerator=rom
+--sim-load-config accelerator=auto

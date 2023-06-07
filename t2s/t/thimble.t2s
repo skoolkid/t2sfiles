@@ -4,4 +4,4 @@ thimble.z80
 --tape-name "TH!MBLE.tzx"
 --tape-sum 117258ca0aeca14679e817ca8fb55a6b
 --start 22499
---sim-load-config accelerator=rom
+--sim-load-config accelerator=auto

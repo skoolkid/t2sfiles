@@ -4,4 +4,4 @@ wizard-warz.z80
 --tape-name "Wizard Warz.tzx"
 --tape-sum 82c2c0fc080c322ab227fc1a210683dd
 --start 23393
---sim-load-config accelerator=alkatraz
+--sim-load-config accelerator=auto

@@ -4,4 +4,4 @@ ladatologato-jatek.z80
 --tape-name "Ladatologato Jatek.tzx"
 --tape-sum 0a5c408d9669b2fdcc11e0de7b613541
 --start 22499
---sim-load-config accelerator=rom
+--sim-load-config accelerator=auto

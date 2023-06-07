@@ -4,4 +4,4 @@ tizmatrix.z80
 --tape-name "Tizmatrix.tzx"
 --tape-sum 5d9185673579a157b765369094147ceb
 --start 22243
---sim-load-config accelerator=rom
+--sim-load-config accelerator=auto

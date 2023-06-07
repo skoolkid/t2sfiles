@@ -5,4 +5,4 @@ italy-1990-winners-edition.z80
 --tape-sum 2c1f33949d567d344cc4082510556123
 --start 47024
 --tape-stop 13
---sim-load-config accelerator=us-gold
+--sim-load-config accelerator=auto

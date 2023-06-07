@@ -4,4 +4,4 @@ fast-n-furious.z80
 --tape-name "The Fast And The Furious.tzx"
 --tape-sum c356a2ed04a0fc995251cfbdefe759eb
 --start 65407
---sim-load-config accelerator=alkatraz
+--sim-load-config accelerator=auto

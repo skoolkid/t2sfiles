@@ -4,4 +4,4 @@ petris.z80
 --tape-name "Petris.tzx"
 --tape-sum 8ded1d86b96a845c39cca67d67fa7d42
 --start 22240
---sim-load-config accelerator=rom
+--sim-load-config accelerator=auto
