@@ -4,4 +4,4 @@ ghost-castles.z80
 --tape-name "ghostc.tzx"
 --tape-sum dfdc451331fb22b75c9dc483b3abf895
 --start 64873
---sim-load-config accelerator=none
+--sim-load-config accelerator=weird-science
