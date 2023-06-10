@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DeathOrGlory_2.tzx.zip
+death-or-glory-dream-world-adventures-p2.z80
+--sim-load
+--tape-name "Death Or Glory - Part 2 (Dream World Adventures).tzx"
+--tape-sum 691fc1cde752049450e3cd274105164a
+--start 29169
+--sim-load-config finish-tape=1
