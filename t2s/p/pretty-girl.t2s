@@ -3,4 +3,5 @@ pretty-girl.z80
 --sim-load
 --tape-name "PrettyGirl.TAP"
 --tape-sum 2fc908cd2939d81823f962c487b1aef7
---start 55361
+--start 1343
+--sim-load-config finish-tape=1
