@@ -1,7 +1,0 @@
-https://tzxvault.org/Spectrum/TZX/Matematik.zip
-matematik-side-b.z80
---sim-load
---tape-name "Matematik - Side B.tzx"
---tape-sum b62f490c36572ff147c02037e8efc2de
---start 65416
---sim-load-config finish-tape=1

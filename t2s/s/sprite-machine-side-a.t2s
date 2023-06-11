@@ -1,8 +1,0 @@
-https://tzxvault.org/Spectrum/TZX/SpriteMachine.zip
-sprite-machine-side-a.z80
---sim-load
---tape-name "Sprite Machine - Side A.tzx"
---tape-sum 90033579eb86ab69f4e2bef48cb810e4
---start 1343
---sim-load-config finish-tape=1
---tape-stop 10
