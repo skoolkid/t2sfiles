@@ -1,7 +1,0 @@
-https://worldofspectrum.net/pub/sinclair/games/m/MrTsSimpleSums.tzx.zip
-mr-ts-simple-sums-side-a.z80
---sim-load
---tape-name "Mr T's Simple Sums - Side A.tzx"
---tape-sum b61c4329d2ecd4135957f4cb028f5075
---start 23416
---sim-load-config finish-tape=1

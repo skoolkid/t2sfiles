@@ -1,8 +1,0 @@
-https://tzxvault.org/Spectrum/TZX/IntermediateLevelScience.zip
-intermediate-science-1-plant.z80
---sim-load
---tape-name "Intermediate Science 1 - Side B.tzx"
---tape-sum c022a91c67981940aff585c052fc6c60
---start 1343
---sim-load-config finish-tape=1
---tape-start 11

@@ -1,7 +1,0 @@
-https://tzxvault.org/Spectrum/TZX/BuildingElements.zip
-building-elements.z80
---sim-load
---tape-name "Building Elements.tzx"
---tape-sum 6ee63175a0ed61e3995c75422d15eb14
---start 64700
---sim-load-config finish-tape=1

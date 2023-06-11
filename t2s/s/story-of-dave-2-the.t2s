@@ -1,7 +1,0 @@
-https://tzxvault.org/Spectrum/TZX/TheStoryOfDave-PartII.zip
-story-of-dave-2-the.z80
---sim-load
---tape-name "The Story Of Dave - Part II.tzx"
---tape-sum ab14edf8a63d8103f73d5f6497738d9c
---start 1343
---sim-load-config finish-tape=1

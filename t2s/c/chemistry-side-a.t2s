@@ -1,7 +1,0 @@
-https://tzxvault.org/Spectrum/TZX/Chemistry.zip
-chemistry-side-a.z80
---sim-load
---tape-name "Chemistry - Side A.tzx"
---tape-sum 6ef5ae5c09c646617a35722bea997878
---start 57150
---sim-load-config finish-tape=1

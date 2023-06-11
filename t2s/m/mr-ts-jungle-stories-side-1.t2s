@@ -1,7 +1,0 @@
-"https://tzxvault.org/Spectrum/TZX/MrT'sJungleStories.zip"
-mr-ts-jungle-stories-side-1.z80
---sim-load
---tape-name "Mr T's Jungle Stories - Side 1.tzx"
---tape-sum 9a0776081da5a7f69bfebb1b50dbbbd0
---start 23416
---sim-load-config finish-tape=1
