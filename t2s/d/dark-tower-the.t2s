@@ -4,3 +4,4 @@ dark-tower-the.z80
 --tape-name "The Dark Tower.tzx"
 --tape-sum 74cc7cd6537613a635daf19375a9c9bd
 --start 29169
+--sim-load-config finish-tape=1
