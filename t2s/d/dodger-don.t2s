@@ -4,3 +4,4 @@ dodger-don.z80
 --tape-name "DOGERDON.TAP"
 --tape-sum 39e4c93b241230ad4c92d27c9fca1555
 --start 40000
+--tape-stop 9

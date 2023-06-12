@@ -3,4 +3,6 @@ cybotron.z80
 --sim-load
 --tape-name "Cybotron.tzx"
 --tape-sum 99afc613d2018752cdb278b5f8344e16
---start 26030
+--start 1343
+--sim-load-config finish-tape=1
+--tape-stop 6

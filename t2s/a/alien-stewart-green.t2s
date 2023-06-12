@@ -3,4 +3,6 @@ alien-stewart-green.z80
 --sim-load
 --tape-name "Alien (Stewart Green).tzx"
 --tape-sum 1c3efa2aee5973022190def1e6b9e1f0
---start 37166
+--start 1343
+--sim-load-config finish-tape=1
+--tape-stop 8
