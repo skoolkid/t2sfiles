@@ -4,4 +4,4 @@ johnny-reb-ii.z80
 --tape-name "Johnny Reb 2.tzx"
 --tape-sum 29e40b66c84bc5691388d04fbc9e549a
 --start 60386
---sim-load-config accelerator=auto
+--sim-load-config accelerator=rom,bleepload

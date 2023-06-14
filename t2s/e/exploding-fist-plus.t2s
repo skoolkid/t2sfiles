@@ -4,4 +4,4 @@ exploding-fist-plus.z80
 --tape-name "Fist Plus.tzx"
 --tape-sum 6e6ad53f7f0dc90f394bbd427fcd62fc
 --start 23443
---sim-load-config accelerator=auto
+--sim-load-config accelerator=bleepload,rom

@@ -4,4 +4,4 @@ pettigrew-chronicles-the-p3.z80
 --tape-name "Pettigrew Chronicles - Volume 2 - Pertigew's Diary.tzx"
 --tape-sum 33824cf69ca8a73fa5ef8284b14db697
 --start 58222
---sim-load-config accelerator=auto
+--sim-load-config accelerator=rom,bleepload

@@ -5,4 +5,4 @@ shinobi.z80
 --tape-sum 6f6832e62433c67915ddf9db1bc79d41
 --start 61042
 --tape-stop 41
---sim-load-config accelerator=auto
+--sim-load-config accelerator=speedlock,rom

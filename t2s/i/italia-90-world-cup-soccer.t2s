@@ -4,4 +4,4 @@ italia-90-world-cup-soccer.z80
 --tape-name "Italia '90 - World Cup Soccer.tzx"
 --tape-sum 4bd65f213e136eaee0a5d886f3e2df59
 --start 23375
---sim-load-config accelerator=auto
+--sim-load-config accelerator=speedlock,rom

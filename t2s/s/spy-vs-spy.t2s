@@ -4,4 +4,4 @@ spy-vs-spy.z80
 --tape-name "Spy vs Spy.tzx"
 --tape-sum 8719d586f9ba44d3885ba3a0da04247c
 --start 58488
---sim-load-config accelerator=auto
+--sim-load-config accelerator=rom,bleepload

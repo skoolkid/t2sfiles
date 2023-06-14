@@ -5,4 +5,4 @@ night-shift.z80
 --tape-sum 5141dd4d056db28432dc9f035882ae21
 --start 23388
 --tape-stop 40
---sim-load-config accelerator=auto
+--sim-load-config accelerator=speedlock,rom

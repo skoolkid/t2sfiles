@@ -4,4 +4,4 @@ defender-of-the-crown.z80
 --tape-name "DEFENDCR.TZX"
 --tape-sum 8dcc8344dbd276eab47f461f1738edf5
 --start 52434
---sim-load-config accelerator=auto
+--sim-load-config accelerator=speedlock,rom

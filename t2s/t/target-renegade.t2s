@@ -5,4 +5,4 @@ target-renegade.z80
 --tape-sum 1e5500813d0eab0603b06094b0ff984b
 --start 24294
 --tape-stop 40
---sim-load-config accelerator=auto
+--sim-load-config accelerator=speedlock,rom

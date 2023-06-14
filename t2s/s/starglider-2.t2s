@@ -4,4 +4,4 @@ starglider-2.z80
 --tape-name "Starglider 2 - 48k.tzx"
 --tape-sum 6df5e87070ced7752eb7ee4543efe05e
 --start 23981
---sim-load-config accelerator=auto
+--sim-load-config accelerator=bleepload,rom

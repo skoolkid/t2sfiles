@@ -4,4 +4,4 @@ pasians.z80
 --tape-name "PASIANS.TZX"
 --tape-sum 9b1f76df1e2eec58a71f54eb93a6c47c
 --start 23362
---sim-load-config accelerator=auto
+--sim-load-config accelerator=rom,paul-owens

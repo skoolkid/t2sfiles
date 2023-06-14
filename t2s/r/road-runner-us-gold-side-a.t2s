@@ -4,4 +4,4 @@ road-runner-us-gold-side-a.z80
 --tape-name "Road Runner - Side A (Kixx).tzx"
 --tape-sum 48c48bd448b56aba43df689c618e8bda
 --start 23329
---sim-load-config accelerator=auto
+--sim-load-config accelerator=speedlock,rom

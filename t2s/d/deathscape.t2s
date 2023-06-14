@@ -4,4 +4,4 @@ deathscape.z80
 --tape-name "Deathscape.tzx"
 --tape-sum e6142242c80d39220ecb7566a17d99cb
 --start 64376
---sim-load-config accelerator=auto
+--sim-load-config accelerator=rom,bleepload

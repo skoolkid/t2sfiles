@@ -4,4 +4,4 @@ summer-games.z80
 --tape-name "SGAMES1.TZX"
 --tape-sum a35e702417f506026ece93575da3d574
 --start 28724
---sim-load-config accelerator=auto
+--sim-load-config accelerator=alkatraz,alkatraz-0a

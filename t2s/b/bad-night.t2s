@@ -4,4 +4,4 @@ bad-night.z80
 --tape-name "BADNIGHT.TZX"
 --tape-sum c16a8206c3d86862642a509e451ec97d
 --start 64502
---sim-load-config accelerator=auto
+--sim-load-config accelerator=palas,bleepload

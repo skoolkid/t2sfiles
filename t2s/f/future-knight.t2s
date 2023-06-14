@@ -5,4 +5,4 @@ future-knight.z80
 --tape-sum 36827bde15ad82028cc297234126f4a6
 --start 33017
 --tape-stop 10
---sim-load-config accelerator=auto
+--sim-load-config accelerator=rom,speedlock

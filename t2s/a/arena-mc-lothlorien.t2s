@@ -4,4 +4,4 @@ arena-mc-lothlorien.z80
 --tape-name "Arena.tzx"
 --tape-sum f596bdb83f7e0ce1a749b70c6c44eee6
 --start 64376
---sim-load-config accelerator=auto
+--sim-load-config accelerator=rom,bleepload

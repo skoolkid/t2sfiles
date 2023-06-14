@@ -4,4 +4,4 @@ trailblazer.z80
 --tape-name "Trailblazer.tzx"
 --tape-sum f9b9754905233158bc293170d5c92f6a
 --start 32896
---sim-load-config accelerator=auto
+--sim-load-config accelerator=rom,speedlock

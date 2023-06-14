@@ -4,4 +4,4 @@ great-escape-the.z80
 --tape-name "The Great Escape.tzx"
 --tape-sum 58d273a2c719da21a25b4af3d008c951
 --start 23321
---sim-load-config accelerator=auto
+--sim-load-config accelerator=speedlock,rom

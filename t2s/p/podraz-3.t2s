@@ -4,4 +4,4 @@ podraz-3.z80
 --tape-name "PODRAZ32.TZX"
 --tape-sum 8a8b18968e9a8d5c3a01d94ff2ba56e5
 --start 41054
---sim-load-config accelerator=auto
+--sim-load-config accelerator=speedlock,rom

@@ -6,4 +6,4 @@ removal-deluxe.z80
 --start 33150
 --sim-load-config fast-load=0
 --sim-load-config contended-in=1
---sim-load-config accelerator=auto
+--sim-load-config accelerator=rom,gremlin

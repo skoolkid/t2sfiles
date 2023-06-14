@@ -4,4 +4,4 @@ existenz.z80
 --tape-name "EXISTENZ.tzx"
 --tape-sum 1008ed935152bb2a3d891f42d5a01221
 --start 22499
---sim-load-config accelerator=auto
+--sim-load-config accelerator=tiny,rom

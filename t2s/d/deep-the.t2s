@@ -4,4 +4,4 @@ deep-the.z80
 --tape-name "The Deep.tzx"
 --tape-sum 2dc584ce391771803244101e75d9548e
 --start 33971
---sim-load-config accelerator=auto
+--sim-load-config accelerator=alkatraz,alkatraz-0a

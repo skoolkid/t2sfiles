@@ -4,4 +4,4 @@ zombie-zombie.z80
 --tape-name "Zombie Zombie.tzx"
 --tape-sum f01a00b0652c2ac0883e0158129b98af
 --start 65479
---sim-load-config accelerator=auto
+--sim-load-config accelerator=rom,bleepload

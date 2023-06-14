@@ -4,4 +4,4 @@ schizofrenia.z80
 --tape-name "Schizofrenia.tzx"
 --tape-sum 5be1b6a832d5eed17930c1e0912ec467
 --start 60385
---sim-load-config accelerator=auto
+--sim-load-config accelerator=rom,bleepload

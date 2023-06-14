@@ -4,4 +4,4 @@ bcs-quest-for-tires.z80
 --tape-name "BC's Quest For Tires.tzx"
 --tape-sum 4faae39529f2fb4101e0b2c0496d1cae
 --start 65255
---sim-load-config accelerator=auto
+--sim-load-config accelerator=rom,software-projects

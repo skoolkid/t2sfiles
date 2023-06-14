@@ -5,4 +5,4 @@ nick-faldo-plays-the-open.z80
 --tape-sum 32429ec251f070abc845e2fbf63d88ce
 --start 65135
 --tape-stop 11
---sim-load-config accelerator=auto
+--sim-load-config accelerator=rom,bleepload

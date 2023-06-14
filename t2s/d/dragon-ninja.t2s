@@ -5,4 +5,4 @@ dragon-ninja.z80
 --tape-sum 13456abe43c12344a6e8b1c11c99060b
 --start 52365
 --tape-stop 40
---sim-load-config accelerator=auto
+--sim-load-config accelerator=speedlock,dinaload

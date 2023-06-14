@@ -4,4 +4,4 @@ tantalus.z80
 --tape-name "Tantalus.tzx"
 --tape-sum 4e893fd595401d14723d4499602d544e
 --start 33885
---sim-load-config accelerator=auto
+--sim-load-config accelerator=rom,bleepload

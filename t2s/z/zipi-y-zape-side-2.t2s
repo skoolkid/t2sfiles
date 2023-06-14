@@ -4,4 +4,4 @@ zipi-y-zape-side-2.z80
 --tape-name "Zipi Y Zape - Side 2.tzx"
 --tape-sum 7d94a0bca1b5aaa722047eb947f90bc4
 --start 34104
---sim-load-config accelerator=auto
+--sim-load-config accelerator=rom,bleepload
