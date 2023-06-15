@@ -4,4 +4,4 @@ lode-runner.z80
 --tape-name "Lode Runner.tzx"
 --tape-sum e1b91f45a3cae327617fc1550487d554
 --start 65255
---sim-load-config accelerator=rom
+--sim-load-config accelerator=rom,software-projects
