@@ -3,4 +3,5 @@ mountains-of-ket.z80
 --sim-load
 --tape-name "Mountains Of Ket.tzx"
 --tape-sum ccbbacfdf65a87da149e4ddcfb8f6ce7
---start 62760
+--start 1343
+--sim-load-config finish-tape=1

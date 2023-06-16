@@ -3,4 +3,5 @@ alcatraz-ii-the-doomsday-mission.z80
 --sim-load
 --tape-name "Alcatraz II - The Doomsday Mission.tzx"
 --tape-sum a32a8b2e61e006ddb575f793632d5ac2
---start 62551
+--start 1343
+--sim-load-config finish-tape=1

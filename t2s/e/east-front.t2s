@@ -3,4 +3,5 @@ east-front.z80
 --sim-load
 --tape-name "East Front.tzx"
 --tape-sum 74c2d02ab6c993ae32f94cfe55e74120
---start 65368
+--start 1343
+--sim-load-config finish-tape=1

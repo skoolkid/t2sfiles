@@ -3,4 +3,5 @@ chess-the-turk-french-version.z80
 --sim-load
 --tape-name "Chess - The Turk - French Version.tzx"
 --tape-sum 79298452bdeff4e239f5f6aa1d151cc1
---start 51055
+--start 1343
+--sim-load-config finish-tape=1

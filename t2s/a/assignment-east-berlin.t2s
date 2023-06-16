@@ -3,4 +3,5 @@ assignment-east-berlin.z80
 --sim-load
 --tape-name "Assignment - East Berlin.tzx"
 --tape-sum 82b5ef396445de518d357ef254128269
---start 60100
+--start 1343
+--sim-load-config finish-tape=1

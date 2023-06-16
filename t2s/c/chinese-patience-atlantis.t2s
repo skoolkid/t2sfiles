@@ -3,4 +3,4 @@ chinese-patience-atlantis.z80
 --sim-load
 --tape-name "Chinese Patience.tzx"
 --tape-sum 5d1b94d0e62aa7a4d1bc034dd5a9565f
---start 63020
+--start 7878

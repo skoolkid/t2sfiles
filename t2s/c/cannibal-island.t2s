@@ -3,4 +3,5 @@ cannibal-island.z80
 --sim-load
 --tape-name "Cannibal Island.tzx"
 --tape-sum 2811a80afd15f54107ca20746a841995
---start 65318
+--start 1343
+--sim-load-config finish-tape=1
