@@ -3,4 +3,5 @@ foresta-dimenticata-dal-tempo-la.z80
 --sim-load
 --tape-name "ForestaLa.tzx"
 --tape-sum 539febccf0de08706264618d431d6a97
---start 53250
+--start 1343
+--sim-load-config finish-tape=1

@@ -3,4 +3,5 @@ das-jagdspiel.z80
 --sim-load
 --tape-name "Jagdspiel (German).tzx"
 --tape-sum 820fa5f4cf2f7cab56f81c86b4196385
---start 49912
+--start 1343
+--sim-load-config finish-tape=1

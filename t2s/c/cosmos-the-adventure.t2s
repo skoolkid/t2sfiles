@@ -3,4 +3,5 @@ cosmos-the-adventure.z80
 --sim-load
 --tape-name "CosmosTheAdventure.tzx"
 --tape-sum 48a61b1402e79eb171119e8ee803e519
---start 44951
+--start 1343
+--sim-load-config finish-tape=1

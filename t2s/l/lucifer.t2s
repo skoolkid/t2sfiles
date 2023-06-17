@@ -3,4 +3,5 @@ lucifer.z80
 --sim-load
 --tape-name "Lucifer.tzx"
 --tape-sum ea46e533d84a47556dd811842deac926
---start 46640
+--start 1343
+--sim-load-config finish-tape=1

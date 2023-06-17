@@ -3,4 +3,5 @@ kemshu-daton-software.z80
 --sim-load
 --tape-name "Kemshu(Daton).tap"
 --tape-sum 584cacfd05fb7c430f01c702d81bfe29
---start 30080
+--start 1343
+--sim-load-config finish-tape=1

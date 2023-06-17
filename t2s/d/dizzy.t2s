@@ -3,4 +3,5 @@ dizzy.z80
 --sim-load
 --tape-name "Dizzy.tzx"
 --tape-sum 896f7896953db7d6273a04c6eae17956
---start 63730
+--start 1343
+--sim-load-config finish-tape=1

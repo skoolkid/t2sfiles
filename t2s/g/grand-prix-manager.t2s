@@ -3,4 +3,5 @@ grand-prix-manager.z80
 --sim-load
 --tape-name "Grand Prix Manager.tzx"
 --tape-sum 2183f39adb8a816a0863c60373a52b17
---start 65200
+--start 1343
+--sim-load-config finish-tape=1

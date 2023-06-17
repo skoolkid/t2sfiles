@@ -3,4 +3,4 @@ goolf-returns.z80
 --sim-load
 --tape-name "GOOLF2.TAP"
 --tape-sum f2bfd5fcca9602207e0f57bd5592f52c
---start 49000
+--start 7878

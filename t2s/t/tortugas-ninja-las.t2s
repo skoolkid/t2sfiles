@@ -3,4 +3,5 @@ tortugas-ninja-las.z80
 --sim-load
 --tape-name "Las Tortugas Ninja.tzx"
 --tape-sum ea375fa3d38442aae988ed80708e4e91
---start 62837
+--start 1343
+--sim-load-config finish-tape=1

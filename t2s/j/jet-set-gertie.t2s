@@ -3,4 +3,5 @@ jet-set-gertie.z80
 --sim-load
 --tape-name "JSGERTIE.TAP"
 --tape-sum 85151d48d49f22bf8a0b66b105d52c93
---start 58115
+--start 1343
+--sim-load-config finish-tape=1

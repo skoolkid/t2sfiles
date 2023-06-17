@@ -3,4 +3,5 @@ terror-of-trantoss-the.z80
 --sim-load
 --tape-name "The Terror Of Trantoss.tzx"
 --tape-sum d97f7ee20650eb481805814ae190906a
---start 49726
+--start 1343
+--sim-load-config finish-tape=1

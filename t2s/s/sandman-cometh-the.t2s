@@ -3,4 +3,5 @@ sandman-cometh-the.z80
 --sim-load
 --tape-name "The Sandman Cometh.tzx"
 --tape-sum 00f12f25470518460428d3aa85699437
---start 63653
+--start 1343
+--sim-load-config finish-tape=1

@@ -3,4 +3,5 @@ road-racers.z80
 --sim-load
 --tape-name "Road Racers.tzx"
 --tape-sum 69e687253a17f724cf62aa262ff5c95f
---start 28260
+--start 1343
+--sim-load-config finish-tape=1

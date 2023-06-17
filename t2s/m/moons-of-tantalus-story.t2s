@@ -3,4 +3,5 @@ moons-of-tantalus-story.z80
 --sim-load
 --tape-name "Moons Of Tantalus - Story.tzx"
 --tape-sum 239f79926e38c45b30eacc0fa409d6b1
---start 65111
+--start 1343
+--sim-load-config finish-tape=1

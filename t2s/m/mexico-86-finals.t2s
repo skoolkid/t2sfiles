@@ -3,4 +3,5 @@ mexico-86-finals.z80
 --sim-load
 --tape-name "Mexico '86 - Finals.tzx"
 --tape-sum 0d45e9732f7d03e872caf07d09fd19c4
---start 65250
+--start 1343
+--sim-load-config finish-tape=1

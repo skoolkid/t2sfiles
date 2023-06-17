@@ -3,4 +3,5 @@ master-word.z80
 --sim-load
 --tape-name "Master Word.tzx"
 --tape-sum 9e8d56a352a13f981fa06910978b5460
---start 64812
+--start 1343
+--sim-load-config finish-tape=1

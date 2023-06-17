@@ -3,4 +3,5 @@ strip-black-jack.z80
 --sim-load
 --tape-name "StripBlackJack.tzx"
 --tape-sum f6db6a3bc642f924a3b05c9fb7c1e4d2
---start 62900
+--start 1343
+--sim-load-config finish-tape=1

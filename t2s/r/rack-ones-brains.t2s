@@ -3,4 +3,5 @@ rack-ones-brains.z80
 --sim-load
 --tape-name "rob.tzx"
 --tape-sum ef833819379b1c8ac9e1107c5be98391
---start 47000
+--start 1343
+--sim-load-config finish-tape=1

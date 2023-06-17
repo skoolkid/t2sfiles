@@ -3,4 +3,5 @@ xanagrams.z80
 --sim-load
 --tape-name "Xanagrams.tzx"
 --tape-sum cd9ae30497abf9982f0d5555086faebc
---start 27048
+--start 1343
+--sim-load-config finish-tape=1

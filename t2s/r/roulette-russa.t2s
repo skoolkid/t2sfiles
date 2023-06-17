@@ -3,4 +3,5 @@ roulette-russa.z80
 --sim-load
 --tape-name "RouletteRussa.tzx"
 --tape-sum 99d3b0a66225e9e17ad8a16fcc5ebd52
---start 47537
+--start 1343
+--sim-load-config finish-tape=1

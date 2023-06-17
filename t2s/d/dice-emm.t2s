@@ -3,4 +3,5 @@ dice-emm.z80
 --sim-load
 --tape-name "DICE.TAP"
 --tape-sum d202187a48bc4003d19cf2c150488dbe
---start 65161
+--start 1343
+--sim-load-config finish-tape=1

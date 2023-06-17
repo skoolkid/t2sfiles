@@ -3,4 +3,5 @@ mission-mars.z80
 --sim-load
 --tape-name "Mission Mars.tzx"
 --tape-sum aab55de5453337966c4f613fa1c0a42a
---start 25829
+--start 1343
+--sim-load-config finish-tape=1

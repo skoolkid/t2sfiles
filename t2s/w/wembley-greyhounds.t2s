@@ -3,5 +3,5 @@ wembley-greyhounds.z80
 --sim-load
 --tape-name "Wembley Greyhounds.tzx"
 --tape-sum 17035fd9dc2ec564cdd21f4d564306bc
---start 65110
+--start 1343
 --sim-load-config finish-tape=1

@@ -3,4 +3,5 @@ sword-and-shield.z80
 --sim-load
 --tape-name "Sword And Shield.tzx"
 --tape-sum 56754413739a581f687f94870be03e3c
---start 59310
+--start 1343
+--sim-load-config finish-tape=1

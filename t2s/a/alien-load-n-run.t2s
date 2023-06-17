@@ -3,4 +3,5 @@ alien-load-n-run.z80
 --sim-load
 --tape-name "Alien.tzx"
 --tape-sum 53e8c794800c93eb73ad563c46237b81
---start 23877
+--start 1343
+--sim-load-config finish-tape=1

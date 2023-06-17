@@ -3,4 +3,5 @@ mam-plan.z80
 --sim-load
 --tape-name "MamPlan.tzx"
 --tape-sum 9e4311339a4358db5060c652c5e46ec4
---start 60899
+--start 1343
+--sim-load-config finish-tape=1

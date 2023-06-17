@@ -3,4 +3,5 @@ dragonsbane.z80
 --sim-load
 --tape-name "Dragons Bane.tzx"
 --tape-sum 18ae51265af8ad500d544c0daf25339b
---start 48210
+--start 1343
+--sim-load-config finish-tape=1

@@ -3,4 +3,5 @@ rattler.z80
 --sim-load
 --tape-name "Rattler.tzx"
 --tape-sum 61f30b2849f605e9efc74fd1bad02ebf
---start 38000
+--start 1343
+--sim-load-config finish-tape=1

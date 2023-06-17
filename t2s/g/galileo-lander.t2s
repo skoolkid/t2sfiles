@@ -3,4 +3,5 @@ galileo-lander.z80
 --sim-load
 --tape-name "GalileoLander.tzx"
 --tape-sum 851beea3d6a8da9ef1219082c56041f8
---start 57110
+--start 1343
+--sim-load-config finish-tape=1

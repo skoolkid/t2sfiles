@@ -3,6 +3,6 @@ soccer-rivals.z80
 --sim-load
 --tape-name "Soccer Rivals.tzx"
 --tape-sum 1057c7e963c7dbc5c3f7c5146eb26efa
---start 63204
+--start 1343
 --tape-stop 10
 --sim-load-config finish-tape=1

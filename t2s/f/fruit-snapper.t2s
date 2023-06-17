@@ -3,5 +3,5 @@ fruit-snapper.z80
 --sim-load
 --tape-name "Fruit Snapper.tzx"
 --tape-sum 754fae978b8ef54f374343dd058beb9b
---start 59000
+--start 1343
 --sim-load-config finish-tape=1

@@ -3,4 +3,5 @@ tetra-and-the-chessboard-saga.z80
 --sim-load
 --tape-name "TetraTheChessboardSaga.tzx"
 --tape-sum a94ed3573ccd5b9cbe34bb99f545cbf6
---start 65285
+--start 1343
+--sim-load-config finish-tape=1

@@ -3,4 +3,5 @@ strip-dice.z80
 --sim-load
 --tape-name "Strip-Dice.tzx"
 --tape-sum 334ca26d93ba980dae995ca04d692a30
---start 37320
+--start 1343
+--sim-load-config finish-tape=1

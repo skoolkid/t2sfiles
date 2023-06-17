@@ -3,4 +3,5 @@ super-quiz-2.z80
 --sim-load
 --tape-name "Super Quiz 2.tzx"
 --tape-sum b1a8740ef62922b8ad404831b60f2282
---start 23789
+--start 1343
+--sim-load-config finish-tape=1

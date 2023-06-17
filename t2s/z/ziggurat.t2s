@@ -3,5 +3,5 @@ ziggurat.z80
 --sim-load
 --tape-name "Ziggurat.tzx"
 --tape-sum 46e31809911b779e5f533e21ecd9ec6d
---start 62989
+--start 1343
 --sim-load-config finish-tape=1

@@ -3,4 +3,5 @@ mortadelo-y-filemon-en-el-faro.z80
 --sim-load
 --tape-name "Mortadelo Y Filemon En El Faro.tzx"
 --tape-sum e23bbf2a3bc9809a313e7f9faa5f076e
---start 50000
+--start 1343
+--sim-load-config finish-tape=1

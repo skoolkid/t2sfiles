@@ -3,4 +3,5 @@ st-petersburg-ikon-the.z80
 --sim-load
 --tape-name "The St. Petersburg Ikon.tzx"
 --tape-sum 9a19905e983ca511b521d72635312364
---start 59770
+--start 1343
+--sim-load-config finish-tape=1

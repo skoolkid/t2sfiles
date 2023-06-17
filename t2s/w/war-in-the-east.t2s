@@ -3,4 +3,5 @@ war-in-the-east.z80
 --sim-load
 --tape-name "War In The East.tzx"
 --tape-sum 605d740e7b38007d9a25a0fa8a64d739
---start 23843
+--start 1343
+--sim-load-config finish-tape=1

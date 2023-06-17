@@ -3,4 +3,5 @@ pac-txt.z80
 --sim-load
 --tape-name "pacen.tap"
 --tape-sum ba1b5921b46eb05971d86ebd16eb4ed3
---start 50662
+--start 1343
+--sim-load-config finish-tape=1

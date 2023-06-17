@@ -3,4 +3,5 @@ il-trentuno.z80
 --sim-load
 --tape-name "TrentunoIl.tzx"
 --tape-sum 90383bb62db09bfbe742b91519243410
---start 60372
+--start 1343
+--sim-load-config finish-tape=1

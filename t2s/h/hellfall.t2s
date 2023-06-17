@@ -3,4 +3,5 @@ hellfall.z80
 --sim-load
 --tape-name "HELLFALL.TAP"
 --tape-sum a4d7d58256d8c3377b0db293feb894e2
---start 50000
+--start 1343
+--sim-load-config finish-tape=1

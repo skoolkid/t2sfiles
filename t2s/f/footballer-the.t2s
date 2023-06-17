@@ -3,5 +3,5 @@ footballer-the.z80
 --sim-load
 --tape-name "Footballer.tzx"
 --tape-sum e072670333a0ad704805d09ed9dfee2b
---start 64529
+--start 1343
 --sim-load-config finish-tape=1

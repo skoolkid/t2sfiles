@@ -3,4 +3,5 @@ motor-force.z80
 --sim-load
 --tape-name "Motor Force.tzx"
 --tape-sum d1940ae288ad21b57cf0491e58f77555
---start 60826
+--start 1343
+--sim-load-config finish-tape=1

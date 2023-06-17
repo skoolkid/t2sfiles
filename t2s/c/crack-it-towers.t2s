@@ -3,4 +3,5 @@ crack-it-towers.z80
 --sim-load
 --tape-name "Crack It! Towers.tzx"
 --tape-sum 84f73281a539b72bf3b1ddfb2be6b463
---start 64300
+--start 1343
+--sim-load-config finish-tape=1

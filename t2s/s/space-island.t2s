@@ -3,4 +3,5 @@ space-island.z80
 --sim-load
 --tape-name "Space Island.tzx"
 --tape-sum 8934b366f80493895df076913f8793ca
---start 23781
+--start 1343
+--sim-load-config finish-tape=1

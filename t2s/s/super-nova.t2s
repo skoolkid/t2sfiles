@@ -3,4 +3,5 @@ super-nova.z80
 --sim-load
 --tape-name "Super Nova.tzx"
 --tape-sum bbabdda3601aa5de580528e3a927bbe9
---start 65110
+--start 1343
+--sim-load-config finish-tape=1

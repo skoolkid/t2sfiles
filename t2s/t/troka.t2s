@@ -3,4 +3,5 @@ troka.z80
 --sim-load
 --tape-name "Troka.tzx"
 --tape-sum ec3ab0cd92e24e0526ec695223f6d92d
---start 64869
+--start 1343
+--sim-load-config finish-tape=1

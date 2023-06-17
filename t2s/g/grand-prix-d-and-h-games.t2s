@@ -3,4 +3,5 @@ grand-prix-d-and-h-games.z80
 --sim-load
 --tape-name "Grand Prix.tzx"
 --tape-sum a93bb4980ffc3689d89f6fa8dd3ee28e
---start 65040
+--start 1343
+--sim-load-config finish-tape=1

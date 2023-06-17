@@ -3,4 +3,5 @@ world-flags.z80
 --sim-load
 --tape-name "World Flags.tzx"
 --tape-sum 773b52b01e16e7720c82662696e8bcdb
---start 65110
+--start 1343
+--sim-load-config finish-tape=1

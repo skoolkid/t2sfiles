@@ -3,4 +3,5 @@ sex-poker-janusz-gajewicz.z80
 --sim-load
 --tape-name "POKER-PL.TAP"
 --tape-sum 7c3d3ee1e39d032110d0a13f6abb9ed0
---start 43308
+--start 1343
+--sim-load-config finish-tape=1

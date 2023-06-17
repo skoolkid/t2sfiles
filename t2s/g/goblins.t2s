@@ -3,4 +3,5 @@ goblins.z80
 --sim-load
 --tape-name "Goblins.tzx"
 --tape-sum b80bf09084bc22e90458c3e0b0513a5d
---start 23877
+--start 1343
+--sim-load-config finish-tape=1

@@ -3,5 +3,5 @@ athlete.z80
 --sim-load
 --tape-name "Athlete.tzx"
 --tape-sum c663ada5334c298748011f7d6104b325
---start 32026
+--start 1343
 --sim-load-config finish-tape=1

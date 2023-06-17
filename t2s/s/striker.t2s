@@ -3,4 +3,5 @@ striker.z80
 --sim-load
 --tape-name "Striker.tzx"
 --tape-sum 3333b72108b760dac5809a477aa8b5a1
---start 58008
+--start 1343
+--sim-load-config finish-tape=1

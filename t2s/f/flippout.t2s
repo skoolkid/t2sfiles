@@ -3,4 +3,5 @@ flippout.z80
 --sim-load
 --tape-name "Flippout.tzx"
 --tape-sum 0ee165f56895b2f81c4a254a7d753556
---start 42150
+--start 1343
+--sim-load-config finish-tape=1

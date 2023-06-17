@@ -3,4 +3,5 @@ newmarket-daton-software.z80
 --sim-load
 --tape-name "Newmarket.tap"
 --tape-sum c9bece4f65256407dbdb76bdd6c1e8e9
---start 52396
+--start 1343
+--sim-load-config finish-tape=1

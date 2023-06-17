@@ -3,4 +3,5 @@ monopol.z80
 --sim-load
 --tape-name "Monopol.tap"
 --tape-sum 7dbe5a06af13b7c1f58567672707bd88
---start 57020
+--start 1343
+--sim-load-config finish-tape=1

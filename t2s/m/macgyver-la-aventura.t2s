@@ -3,4 +3,5 @@ macgyver-la-aventura.z80
 --sim-load
 --tape-name "MacGyver - La Aventura.tzx"
 --tape-sum 31687fa6ec2996bb2dbc5ea2171ef1e0
---start 23350
+--start 1343
+--sim-load-config finish-tape=1

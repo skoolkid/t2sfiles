@@ -3,4 +3,5 @@ phantomasa-v1.z80
 --sim-load
 --tape-name "Phantomasa v1.tzx"
 --tape-sum c07e1247d465e87a96ccf415f83d2514
---start 60000
+--start 1343
+--sim-load-config finish-tape=1

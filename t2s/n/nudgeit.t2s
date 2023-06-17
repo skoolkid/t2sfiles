@@ -3,4 +3,5 @@ nudgeit.z80
 --sim-load
 --tape-name "NUDGEIT.TAP"
 --tape-sum 188047d0b703a57801d88a3da3806e9d
---start 59950
+--start 1343
+--sim-load-config finish-tape=1

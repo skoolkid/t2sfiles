@@ -3,4 +3,5 @@ computer-patience.z80
 --sim-load
 --tape-name "Computer Patience.tap"
 --tape-sum a151eab36c8258136b1b637823a7b8a5
---start 53513
+--start 1343
+--sim-load-config finish-tape=1

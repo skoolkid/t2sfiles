@@ -3,4 +3,5 @@ strip-jack-weigner-reimann.z80
 --sim-load
 --tape-name "STRIPJAK.TAP"
 --tape-sum bd60913a7b016087fdc070ffd5a7efdb
---start 40230
+--start 1343
+--sim-load-config finish-tape=1

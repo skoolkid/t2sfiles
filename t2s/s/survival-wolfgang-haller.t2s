@@ -3,4 +3,5 @@ survival-wolfgang-haller.z80
 --sim-load
 --tape-name "Survival.tzx"
 --tape-sum 019e214b13a7ca53868cfb948ba9bd21
---start 64000
+--start 1343
+--sim-load-config finish-tape=1

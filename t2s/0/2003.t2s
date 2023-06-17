@@ -3,4 +3,5 @@ https://tzxvault.org/Spectrum/TZX/2003.zip
 --sim-load
 --tape-name "2003.tzx"
 --tape-sum d70f1d2cb97f9dd5b6114c255bedd6c4
---start 65180
+--start 1343
+--sim-load-config finish-tape=1

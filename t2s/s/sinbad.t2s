@@ -3,4 +3,5 @@ sinbad.z80
 --sim-load
 --tape-name "Sinbad.tzx"
 --tape-sum c3e6468165afb0f73f858c68a77cb15d
---start 51145
+--start 1343
+--sim-load-config finish-tape=1

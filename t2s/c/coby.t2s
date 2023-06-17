@@ -3,4 +3,5 @@ coby.z80
 --sim-load
 --tape-name "Coby.tzx"
 --tape-sum 0bebfff06a41c60e8a808a5d1ddb94c7
---start 56913
+--start 1343
+--sim-load-config finish-tape=1

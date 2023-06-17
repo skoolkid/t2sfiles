@@ -3,4 +3,5 @@ castle-quest-scorpio.z80
 --sim-load
 --tape-name "Castle Quest.tzx"
 --tape-sum ee4a5968dd8350907683931bd03e0f5f
---start 65318
+--start 1343
+--sim-load-config finish-tape=1

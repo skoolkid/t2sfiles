@@ -3,4 +3,5 @@ prisoner-the-flame-software-v2.z80
 --sim-load
 --tape-name "The Prisoner v2 - Side 1.tzx"
 --tape-sum 0191be8a381414fc6d3fc84abf77b07c
---start 50130
+--start 1343
+--sim-load-config finish-tape=1

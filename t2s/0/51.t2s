@@ -3,4 +3,5 @@ https://worldofspectrum.net/pub/sinclair/games/123/51.tap.zip
 --sim-load
 --tape-name "51.TAP"
 --tape-sum 0f30a04ee3dbd2d98284cf684d6dd8d5
---start 32256
+--start 1343
+--sim-load-config finish-tape=1

@@ -3,4 +3,5 @@ adventure-1.z80
 --sim-load
 --tape-name "Adventure 1.tzx"
 --tape-sum b76813516e2177287d804438b9ff8bb2
---start 65117
+--start 1343
+--sim-load-config finish-tape=1

@@ -3,5 +3,5 @@ spin-it.z80
 --sim-load
 --tape-name "spin-it.tzx"
 --tape-sum d2fafecb5e7154ddc1d3dfc8bd905592
---start 31674
+--start 1343
 --sim-load-config finish-tape=1

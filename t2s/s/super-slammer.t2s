@@ -3,4 +3,5 @@ super-slammer.z80
 --sim-load
 --tape-name "Super Slammer & Passage 3D.tzx"
 --tape-sum c8842cece39d2d8b6c54d5899204fbfc
---start 29338
+--start 1343
+--sim-load-config finish-tape=1

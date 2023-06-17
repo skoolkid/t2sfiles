@@ -3,4 +3,4 @@ trail-star-software.z80
 --sim-load
 --tape-name "Trail (Tony Byrne).tzx"
 --tape-sum da0ddca5f26d067ad31630186fd8792f
---start 32256
+--start 7878

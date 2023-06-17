@@ -3,4 +3,5 @@ thinker-the.z80
 --sim-load
 --tape-name "Thinker.tzx"
 --tape-sum 985e4d94808be89748a4e978038f3a44
---start 50000
+--start 1343
+--sim-load-config finish-tape=1

@@ -3,4 +3,5 @@ straznik-banku.z80
 --sim-load
 --tape-name "StraznikBanku.tzx"
 --tape-sum 507f9914be993ed3c37f7e34cd3d9370
---start 38000
+--start 1343
+--sim-load-config finish-tape=1

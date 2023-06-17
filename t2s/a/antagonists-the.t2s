@@ -3,4 +3,5 @@ antagonists-the.z80
 --sim-load
 --tape-name "ANTAGONI.TAP"
 --tape-sum ada2fd9a7afdc866d99853df7a7d8e04
---start 61288
+--start 1343
+--sim-load-config finish-tape=1

@@ -3,4 +3,5 @@ eye.z80
 --sim-load
 --tape-name "Eye.tzx"
 --tape-sum 1dd5d5e1af41b8b1b37aacc6cb41bd0d
---start 58624
+--start 1343
+--sim-load-config finish-tape=1

@@ -3,4 +3,5 @@ necks-please.z80
 --sim-load
 --tape-name "NECKSPLS.TAP"
 --tape-sum c841e925e7ef10ccbef22673bf405461
---start 32849
+--start 1343
+--sim-load-config finish-tape=1

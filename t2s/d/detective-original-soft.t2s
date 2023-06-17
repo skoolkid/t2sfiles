@@ -3,4 +3,5 @@ detective-original-soft.z80
 --sim-load
 --tape-name "DetectiveInLaStatuettaDOro.tap"
 --tape-sum 96637eecbcef6b44c4add90780b5b2fc
---start 48000
+--start 1343
+--sim-load-config finish-tape=1

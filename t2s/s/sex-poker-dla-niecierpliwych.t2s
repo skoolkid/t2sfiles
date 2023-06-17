@@ -3,4 +3,5 @@ sex-poker-dla-niecierpliwych.z80
 --sim-load
 --tape-name "POKER-NC.TAP"
 --tape-sum 7fd55e464075d31a462fbd126a54644d
---start 43308
+--start 1343
+--sim-load-config finish-tape=1

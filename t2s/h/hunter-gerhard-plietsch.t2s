@@ -3,4 +3,5 @@ hunter-gerhard-plietsch.z80
 --sim-load
 --tape-name "Hunter (Gerhard Plietsch).tzx"
 --tape-sum 4319a5c893cb842a444fe905de6ff323
---start 40000
+--start 1343
+--sim-load-config finish-tape=1

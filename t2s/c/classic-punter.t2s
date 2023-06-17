@@ -3,4 +3,5 @@ classic-punter.z80
 --sim-load
 --tape-name "Classic Punter.tzx"
 --tape-sum 9f949f472b66bea5dd9ceb9b11cbb239
---start 63700
+--start 1343
+--sim-load-config finish-tape=1

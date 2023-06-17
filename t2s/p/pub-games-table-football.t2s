@@ -3,4 +3,5 @@ pub-games-table-football.z80
 --sim-load
 --tape-name "Pub Games - Side B.tzx"
 --tape-sum 2526adc9dce8833bdc3aa46ebb9c27b5
---start 32060
+--start 1343
+--sim-load-config finish-tape=1

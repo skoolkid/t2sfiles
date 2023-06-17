@@ -3,4 +3,5 @@ green-door-the.z80
 --sim-load
 --tape-name "GREENDOO.TAP"
 --tape-sum 5768d3336d7b3e1b9fd4c8ffa32e1b08
---start 65058
+--start 1343
+--sim-load-config finish-tape=1

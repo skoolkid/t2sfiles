@@ -3,4 +3,5 @@ adivino.z80
 --sim-load
 --tape-name "Adivino.tap"
 --tape-sum c93674f1b0e37a2ef343e3d8fa941a05
---start 32256
+--start 1343
+--sim-load-config finish-tape=1

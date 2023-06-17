@@ -3,4 +3,5 @@ toolman.z80
 --sim-load
 --tape-name "TOOLMAN.TAP"
 --tape-sum 36d1145377cb2f4af693a0d800f65633
---start 45070
+--start 1343
+--sim-load-config finish-tape=1

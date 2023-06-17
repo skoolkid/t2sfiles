@@ -3,4 +3,5 @@ xiv-2.z80
 --sim-load
 --tape-name "XIV-2.tzx"
 --tape-sum 728e78e57170aa8ad1786745939edd38
---start 40000
+--start 1343
+--sim-load-config finish-tape=1

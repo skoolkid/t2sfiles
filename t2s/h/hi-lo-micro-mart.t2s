@@ -3,6 +3,7 @@ hi-lo-micro-mart.z80
 --sim-load
 --tape-name "The Gambler.tzx"
 --tape-sum 0945c6e1c96a6dc35bd955e63905dad4
---start 32457
+--start 1343
 --tape-start 10
 --tape-stop 20
+--sim-load-config finish-tape=1

@@ -3,5 +3,6 @@ pub-games-pontoon.z80
 --sim-load
 --tape-name "Pub Games - Side B.tzx"
 --tape-sum 2526adc9dce8833bdc3aa46ebb9c27b5
---start 48006
+--start 1343
 --tape-start 9
+--sim-load-config finish-tape=1

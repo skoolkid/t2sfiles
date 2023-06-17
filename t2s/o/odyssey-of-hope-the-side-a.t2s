@@ -3,4 +3,5 @@ odyssey-of-hope-the-side-a.z80
 --sim-load
 --tape-name "The Odyssey Of Hope - Side A.tzx"
 --tape-sum a4cedfebd8e9a73e8979f8195eb0b327
---start 64830
+--start 1343
+--sim-load-config finish-tape=1

@@ -3,4 +3,5 @@ colin-the-cleaner.z80
 --sim-load
 --tape-name "Colin The Cleaner.tzx"
 --tape-sum 9b5ac7b3335e545bb33160ba9b28c2a7
---start 52255
+--start 1343
+--sim-load-config finish-tape=1

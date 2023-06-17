@@ -3,4 +3,5 @@ toady.z80
 --sim-load
 --tape-name "TOADY.TAP"
 --tape-sum 1f6564d65f417d278c3fae3bdc85a280
---start 23760
+--start 1343
+--sim-load-config finish-tape=1

@@ -3,4 +3,5 @@ soccer-director.z80
 --sim-load
 --tape-name "Soccer Director.tzx"
 --tape-sum 4057edc3bdf214a32de87dffbdaab745
---start 64700
+--start 1343
+--sim-load-config finish-tape=1

@@ -3,4 +3,5 @@ azzurra.z80
 --sim-load
 --tape-name "Azzurra.tzx"
 --tape-sum 6be9f360a11c44ca823395fa9b6d37da
---start 65050
+--start 1343
+--sim-load-config finish-tape=1

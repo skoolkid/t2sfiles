@@ -3,5 +3,5 @@ dix-mille.z80
 --sim-load
 --tape-name "Dix Mille.tzx"
 --tape-sum 4a3a87e4d2b6eaf039784b512761da05
---start 61826
+--start 1343
 --sim-load-config finish-tape=1

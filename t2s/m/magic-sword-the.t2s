@@ -3,4 +3,5 @@ magic-sword-the.z80
 --sim-load
 --tape-name "The Magic Sword.tzx"
 --tape-sum e3c022e7963d90115a05f4a6f29464ab
---start 65280
+--start 1343
+--sim-load-config finish-tape=1

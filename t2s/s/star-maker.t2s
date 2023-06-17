@@ -3,4 +3,5 @@ star-maker.z80
 --sim-load
 --tape-name "Star Maker.tzx"
 --tape-sum c9e6a407820a1992da0cef3672ba9f83
---start 60826
+--start 1343
+--sim-load-config finish-tape=1

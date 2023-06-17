@@ -3,4 +3,5 @@ guppi.z80
 --sim-load
 --tape-name "GUPPI.TAP"
 --tape-sum 40544965bf26343ebe179519e06713a7
---start 40050
+--start 1343
+--sim-load-config finish-tape=1

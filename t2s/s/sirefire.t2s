@@ -3,4 +3,5 @@ sirefire.z80
 --sim-load
 --tape-name "SireFire.tzx"
 --tape-sum b49a975d2cb5d319ab1a240bec73b6cc
---start 23877
+--start 1343
+--sim-load-config finish-tape=1

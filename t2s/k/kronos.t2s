@@ -3,4 +3,5 @@ kronos.z80
 --sim-load
 --tape-name "Kronos.tzx"
 --tape-sum 6a9b8f67ff72e9390efea7076bf2322c
---start 46640
+--start 1343
+--sim-load-config finish-tape=1

@@ -3,5 +3,6 @@ supremacy.z80
 --sim-load
 --tape-name "SUPREM.TAP"
 --tape-sum 46481874c9072f1f11afd4d50f63c52a
---start 63016
+--start 1343
 --tape-start 3
+--sim-load-config finish-tape=1

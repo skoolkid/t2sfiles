@@ -3,4 +3,5 @@ cursorspel.z80
 --sim-load
 --tape-name "CURSOR.TAP"
 --tape-sum 87c84677a8e8e183df063e47f43c2d78
---start 60899
+--start 1343
+--sim-load-config finish-tape=1

@@ -3,4 +3,5 @@ bandit-a-flinn.z80
 --sim-load
 --tape-name "BANDIT.TAP"
 --tape-sum 0f2eec7646792543601cc3ed857c8978
---start 23772
+--start 1343
+--sim-load-config finish-tape=1

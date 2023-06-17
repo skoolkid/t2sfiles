@@ -3,5 +3,6 @@ se-kaa-of-assiah-p2.z80
 --sim-load
 --tape-name "Se-Kaa Of Assiah - Part 2.tzx"
 --tape-sum d5c9e2c2a1d983fd1276e0103dda5f75
---start 63966
+--start 1343
 --tape-stop 10
+--sim-load-config finish-tape=1

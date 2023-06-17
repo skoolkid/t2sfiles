@@ -3,4 +3,5 @@ snooker-management.z80
 --sim-load
 --tape-name "Snooker Management.tzx"
 --tape-sum bf6611ed2afa7b53b6a62f41b920e22b
---start 63803
+--start 1343
+--sim-load-config finish-tape=1

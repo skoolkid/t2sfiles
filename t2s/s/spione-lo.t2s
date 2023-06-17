@@ -3,4 +3,5 @@ spione-lo.z80
 --sim-load
 --tape-name "Lo Spione.tzx"
 --tape-sum 9b2668c7950a96c744cb576d1bf9cb92
---start 39801
+--start 1343
+--sim-load-config finish-tape=1

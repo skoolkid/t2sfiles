@@ -3,4 +3,5 @@ ajedrez.z80
 --sim-load
 --tape-name "AJEDREZ2.TAP"
 --tape-sum 268cda3e1f5ebb09d902af41a6319c70
---start 63000
+--start 1343
+--sim-load-config finish-tape=1

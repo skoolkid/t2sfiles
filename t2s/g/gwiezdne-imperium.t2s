@@ -3,4 +3,5 @@ gwiezdne-imperium.z80
 --sim-load
 --tape-name "GwiezdneImperium.tzx"
 --tape-sum 18e19957dd6d80cef9f1bdf7fc0061a5
---start 52915
+--start 1343
+--sim-load-config finish-tape=1

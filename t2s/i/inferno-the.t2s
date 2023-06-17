@@ -3,4 +3,5 @@ inferno-the.z80
 --sim-load
 --tape-name "The Inferno.tzx"
 --tape-sum 25197d927376878ba12c19ac8201e071
---start 65110
+--start 1343
+--sim-load-config finish-tape=1

@@ -3,4 +3,5 @@ rainy-day.z80
 --sim-load
 --tape-name "Rainy Day.tzx"
 --tape-sum efec9227ab1d3b6aee23581809d689e0
---start 54012
+--start 1343
+--sim-load-config finish-tape=1

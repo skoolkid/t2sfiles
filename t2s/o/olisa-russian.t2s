@@ -3,4 +3,5 @@ olisa-russian.z80
 --sim-load
 --tape-name "Olisa-ru.tap"
 --tape-sum 1a1a89afdd874d1c75462230f7b92191
---start 64908
+--start 1343
+--sim-load-config finish-tape=1

@@ -3,4 +3,5 @@ liberator-lyversoft.z80
 --sim-load
 --tape-name "Liberator.tzx"
 --tape-sum b0eafc4d12eea54975bc155ff2e26de7
---start 32312
+--start 1343
+--sim-load-config finish-tape=1

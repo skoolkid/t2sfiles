@@ -3,4 +3,5 @@ annals-of-rome.z80
 --sim-load
 --tape-name "Annals Of Rome.tzx"
 --tape-sum 1bc79dc68224ed2e0de5cb4b2bd17a35
---start 61052
+--start 1343
+--sim-load-config finish-tape=1

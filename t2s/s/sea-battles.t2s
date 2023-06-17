@@ -3,4 +3,5 @@ sea-battles.z80
 --sim-load
 --tape-name "Sea Battles.tzx"
 --tape-sum 6a070c7058ad74ebeb02008d8d531655
---start 60899
+--start 1343
+--sim-load-config finish-tape=1

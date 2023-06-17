@@ -3,6 +3,6 @@ kdo-to-vi-odpovi.z80
 --sim-load
 --tape-name "KDOTOVI.TAP"
 --tape-sum 4b36dff8bd3945b7bd0b7acddc235a27
---start 30600
+--start 1343
 --tape-stop 9
 --sim-load-config finish-tape=1

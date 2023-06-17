@@ -3,4 +3,5 @@ base-invaders-magination-software.z80
 --sim-load
 --tape-name "Base Invaders.tzx"
 --tape-sum 9e0e28e669d576a41d50a09815bc713f
---start 23300
+--start 1343
+--sim-load-config finish-tape=1

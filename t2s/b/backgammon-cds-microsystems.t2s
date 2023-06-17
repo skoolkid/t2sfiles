@@ -3,4 +3,5 @@ backgammon-cds-microsystems.z80
 --sim-load
 --tape-name "Backgammon (CDS).tzx"
 --tape-sum 79ea2ac76c95994c7b32f21db952f72b
---start 63800
+--start 1343
+--sim-load-config finish-tape=1

@@ -3,4 +3,5 @@ casa-la.z80
 --sim-load
 --tape-name "CasaLa.tzx"
 --tape-sum 08d5727588dce304075c824abb5323e3
---start 23877
+--start 1343
+--sim-load-config finish-tape=1

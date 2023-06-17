@@ -3,4 +3,5 @@ grand-national-elite-systems.z80
 --sim-load
 --tape-name "Grand National.tzx"
 --tape-sum dd741a922f2f23f045e32f80340c8e71
---start 60500
+--start 1343
+--sim-load-config finish-tape=1

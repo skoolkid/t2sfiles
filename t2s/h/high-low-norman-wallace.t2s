@@ -3,4 +3,4 @@ high-low-norman-wallace.z80
 --sim-load
 --tape-name "HILOW.TAP"
 --tape-sum 1c49dc02106ce33e736c9017bd57841f
---start 65110
+--start 7881

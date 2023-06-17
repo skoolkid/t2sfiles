@@ -3,4 +3,5 @@ investigator-ii.z80
 --sim-load
 --tape-name "InvestigatorII.tzx"
 --tape-sum b1373bbda76259fd416d627e54e13dc9
---start 23877
+--start 1343
+--sim-load-config finish-tape=1

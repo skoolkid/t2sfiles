@@ -3,5 +3,6 @@ fruit-2000.z80
 --sim-load
 --tape-name "Fruit 2000.tzx"
 --tape-sum 40d4bb0fec405437199625be882578fe
---start 59980
+--start 1343
 --tape-start 5
+--sim-load-config finish-tape=1

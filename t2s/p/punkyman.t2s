@@ -3,4 +3,5 @@ punkyman.z80
 --sim-load
 --tape-name "Punkyman.tzx"
 --tape-sum 4e02e9fa8cb281157ec47e054e14aa79
---start 59500
+--start 1343
+--sim-load-config finish-tape=1

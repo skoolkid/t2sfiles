@@ -3,5 +3,5 @@ micro-mutant-the.z80
 --sim-load
 --tape-name "The Micro Mutant.tzx"
 --tape-sum 70f8806b3ea0866e9a9ffd048c0179a3
---start 36383
+--start 1343
 --sim-load-config finish-tape=1

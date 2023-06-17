@@ -3,4 +3,5 @@ magic-worm.z80
 --sim-load
 --tape-name "Magic Worm.tzx"
 --tape-sum 921fe29bf903457aae6911962eedc858
---start 32256
+--start 1343
+--sim-load-config finish-tape=1

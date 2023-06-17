@@ -3,4 +3,5 @@ dadi.z80
 --sim-load
 --tape-name "Dadi.tzx"
 --tape-sum 81d9fb7cc443b087f85fc907a908b9aa
---start 45055
+--start 1343
+--sim-load-config finish-tape=1

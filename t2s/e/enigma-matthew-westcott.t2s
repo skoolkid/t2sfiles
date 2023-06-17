@@ -3,4 +3,5 @@ enigma-matthew-westcott.z80
 --sim-load
 --tape-name "Enigma.tap"
 --tape-sum 8192d43538e30e945f2e5a02c76c5f09
---start 44260
+--start 1343
+--sim-load-config finish-tape=1

@@ -3,4 +3,5 @@ bomber-richard-m-taylor.z80
 --sim-load
 --tape-name "Bomber - CRL (1983).TAP"
 --tape-sum 52f97160d0090915f0dddb5c0a8a66c1
---start 61030
+--start 1343
+--sim-load-config finish-tape=1

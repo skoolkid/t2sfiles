@@ -3,4 +3,5 @@ space-flight.z80
 --sim-load
 --tape-name "SpaceFlight.tzx"
 --tape-sum ffdaef4098b1f12ffcbe451ed93e28cc
---start 23375
+--start 1343
+--sim-load-config finish-tape=1

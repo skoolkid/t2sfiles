@@ -3,4 +3,5 @@ spacelord.z80
 --sim-load
 --tape-name "Spacelord.tzx"
 --tape-sum 3638fd9c7232d96b19fd901fdb7f68e6
---start 23877
+--start 1343
+--sim-load-config finish-tape=1

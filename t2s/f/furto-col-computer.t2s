@@ -3,4 +3,5 @@ furto-col-computer.z80
 --sim-load
 --tape-name "FurtoColComputer.tzx"
 --tape-sum 1353dbe1b05e0eb20bbe907f4eb69450
---start 60826
+--start 1343
+--sim-load-config finish-tape=1

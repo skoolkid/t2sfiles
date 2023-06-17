@@ -3,4 +3,5 @@ pripad-ii.z80
 --sim-load
 --tape-name "PRIPAD2.TAP"
 --tape-sum 92db6ffa449be9555512ba32e06ffb76
---start 60839
+--start 1343
+--sim-load-config finish-tape=1

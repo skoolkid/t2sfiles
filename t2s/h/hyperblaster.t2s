@@ -3,4 +3,5 @@ hyperblaster.z80
 --sim-load
 --tape-name "Hyperblaster.tzx"
 --tape-sum a8924eab58c627dd4b4fc4117029205a
---start 65418
+--start 1343
+--sim-load-config finish-tape=1

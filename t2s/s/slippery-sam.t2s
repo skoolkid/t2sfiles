@@ -3,4 +3,5 @@ slippery-sam.z80
 --sim-load
 --tape-name "SLIPPSAM.TAP"
 --tape-sum fa785b6e5e6d5e8020e849f898e5c7a2
---start 32104
+--start 1343
+--sim-load-config finish-tape=1

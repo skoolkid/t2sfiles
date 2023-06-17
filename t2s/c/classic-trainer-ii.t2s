@@ -3,4 +3,5 @@ classic-trainer-ii.z80
 --sim-load
 --tape-name "Classic Trainer II.tzx"
 --tape-sum 725af94f4398e3397680b3b49780276c
---start 64929
+--start 1343
+--sim-load-config finish-tape=1

@@ -3,4 +3,5 @@ dark-dimension.z80
 --sim-load
 --tape-name "DarkDimension.tzx"
 --tape-sum 41bb1ab8cdb591b1b2b7e70f0b94c7ea
---start 57500
+--start 1343
+--sim-load-config finish-tape=1

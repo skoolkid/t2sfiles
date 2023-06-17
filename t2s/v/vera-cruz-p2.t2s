@@ -3,4 +3,5 @@ vera-cruz-p2.z80
 --sim-load
 --tape-name "Vera Cruz - Part 2.tzx"
 --tape-sum 52a1b5692d521161006af830046f0487
---start 64512
+--start 1343
+--sim-load-config finish-tape=1

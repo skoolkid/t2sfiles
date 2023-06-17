@@ -3,4 +3,5 @@ lunar-lander-dulu-107.z80
 --sim-load
 --tape-name "Lunar Lander Dulu 107.tzx"
 --tape-sum 17cba038c0e71ebd0e5ba9fa6f25748d
---start 60024
+--start 1343
+--sim-load-config finish-tape=1

@@ -3,5 +3,5 @@ golf-dk-tronics.z80
 --sim-load
 --tape-name "Golf (DK'Tronics).tzx"
 --tape-sum 6c9aca23cefab65b63e10ca65e9d5c34
---start 23842
+--start 1343
 --sim-load-config finish-tape=1

@@ -3,4 +3,5 @@ vagan-attack-side-1.z80
 --sim-load
 --tape-name "Vagan Attack - Side 1.tzx"
 --tape-sum d66218241adea7928193c0da03b4856b
---start 64100
+--start 1343
+--sim-load-config finish-tape=1

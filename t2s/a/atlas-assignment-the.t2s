@@ -3,4 +3,5 @@ atlas-assignment-the.z80
 --sim-load
 --tape-name "The Atlas Assignment.tzx"
 --tape-sum 38df71e529604cd5f018e4a9ebddeb1a
---start 65120
+--start 1343
+--sim-load-config finish-tape=1

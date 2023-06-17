@@ -3,4 +3,5 @@ crunch.z80
 --sim-load
 --tape-name "Crunch.tzx"
 --tape-sum 23f6f615124a78a1871e62aa5c153836
---start 36194
+--start 1343
+--sim-load-config finish-tape=1

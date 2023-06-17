@@ -3,4 +3,5 @@ light-the-conk.z80
 --sim-load
 --tape-name "Light the conk.tzx"
 --tape-sum c532f631fc28b923f386e1fc93c6b76b
---start 39948
+--start 1343
+--sim-load-config finish-tape=1

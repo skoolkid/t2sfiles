@@ -3,4 +3,5 @@ car.z80
 --sim-load
 --tape-name "Car.tzx"
 --tape-sum 11556e24df1ef6ca48d146e489f7f3fe
---start 32111
+--start 1343
+--sim-load-config finish-tape=1

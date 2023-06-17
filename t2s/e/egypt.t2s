@@ -3,5 +3,6 @@ egypt.z80
 --sim-load
 --tape-name "egypt.tzx"
 --tape-sum fc12f0493e0ea6e853e113ef281bc0ab
---start 64900
+--start 1343
 --tape-stop 18
+--sim-load-config finish-tape=1

@@ -3,4 +3,5 @@ logo.z80
 --sim-load
 --tape-name "Logo.tzx"
 --tape-sum 159507c4ec3bd17a3aa0af0d4ea2ca4f
---start 63000
+--start 1343
+--sim-load-config finish-tape=1

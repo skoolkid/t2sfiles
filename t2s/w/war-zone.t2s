@@ -3,4 +3,5 @@ war-zone.z80
 --sim-load
 --tape-name "War Zone.tzx"
 --tape-sum 67eb8d0e5010fac675618a0292f398cf
---start 49135
+--start 1343
+--sim-load-config finish-tape=1

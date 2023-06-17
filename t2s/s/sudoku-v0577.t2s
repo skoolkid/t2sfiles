@@ -3,4 +3,5 @@ sudoku-v0577.z80
 --sim-load
 --tape-name "Sudoku v0.577.tzx"
 --tape-sum 360fda6dc8952a1a6d5167260bc1a8e7
---start 65349
+--start 1343
+--sim-load-config finish-tape=1

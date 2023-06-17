@@ -3,4 +3,5 @@ statuetta-maya-la.z80
 --sim-load
 --tape-name "LaStatuettaMaya.tzx"
 --tape-sum ac246818a8138242046c463a98f3b122
---start 60000
+--start 1343
+--sim-load-config finish-tape=1

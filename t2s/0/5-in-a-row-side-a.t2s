@@ -3,4 +3,5 @@ https://tzxvault.org/Spectrum/TZX/5InARow.zip
 --sim-load
 --tape-name "5 In A Row - Side A.tzx"
 --tape-sum e999748c0a807b63f636b4d76e8ef768
---start 57379
+--start 1343
+--sim-load-config finish-tape=1

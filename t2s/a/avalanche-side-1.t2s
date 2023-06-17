@@ -3,4 +3,5 @@ avalanche-side-1.z80
 --sim-load
 --tape-name "Avalanche - Side 1.tzx"
 --tape-sum ddd32732bf843e5836fcb4b5162b43e1
---start 37888
+--start 1343
+--sim-load-config finish-tape=1

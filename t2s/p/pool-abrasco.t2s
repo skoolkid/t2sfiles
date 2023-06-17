@@ -3,4 +3,5 @@ pool-abrasco.z80
 --sim-load
 --tape-name "Pool (Abrasco).tzx"
 --tape-sum 2d2444408e5779d838dec06ab2340b18
---start 57999
+--start 1343
+--sim-load-config finish-tape=1

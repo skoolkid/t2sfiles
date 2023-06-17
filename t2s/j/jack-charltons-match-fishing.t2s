@@ -3,4 +3,5 @@ jack-charltons-match-fishing.z80
 --sim-load
 --tape-name "Jack Charlton's Match Fishing.tzx"
 --tape-sum b859c20e2abe08480b3942f97dc3c89d
---start 50500
+--start 1343
+--sim-load-config finish-tape=1

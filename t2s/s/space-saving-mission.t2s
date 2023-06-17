@@ -3,4 +3,5 @@ space-saving-mission.z80
 --sim-load
 --tape-name "SSM.TAP"
 --tape-sum 875f6ab33c85baf84f72f01186697a0f
---start 64800
+--start 1343
+--sim-load-config finish-tape=1

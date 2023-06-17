@@ -3,4 +3,5 @@ maziacs.z80
 --sim-load
 --tape-name "Maziacs.tzx"
 --tape-sum 663379f727ef1b049a515406f61616c7
---start 45003
+--start 1343
+--sim-load-config finish-tape=1

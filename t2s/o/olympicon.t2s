@@ -3,4 +3,5 @@ olympicon.z80
 --sim-load
 --tape-name "Olympicon.tzx"
 --tape-sum 7cfdd5dbef62c2782e29ec2210a18c41
---start 23313
+--start 1343
+--sim-load-config finish-tape=1

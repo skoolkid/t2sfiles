@@ -3,4 +3,5 @@ manager-the.z80
 --sim-load
 --tape-name "The Manager.tzx"
 --tape-sum 302b92ec3a1179a721018d19f0c9f672
---start 64700
+--start 1343
+--sim-load-config finish-tape=1

@@ -3,4 +3,5 @@ share-bizz.z80
 --sim-load
 --tape-name "Share Bizz.tzx"
 --tape-sum 1932f9c78061213b44d4f75284d87bc1
---start 64500
+--start 1343
+--sim-load-config finish-tape=1
