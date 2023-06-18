@@ -3,4 +3,5 @@ space-disposal.z80
 --sim-load
 --tape-name "Space Disposal.tzx"
 --tape-sum 7de30144a2c9db47f28a430047851994
---start 33700
+--start 1343
+--sim-load-config finish-tape=1

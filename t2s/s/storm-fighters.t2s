@@ -3,5 +3,5 @@ storm-fighters.z80
 --sim-load
 --tape-name "Storm Fighters.tzx"
 --tape-sum e9d8877885230ba493906371e8764230
---start 28800
+--start 1343
 --sim-load-config finish-tape=1

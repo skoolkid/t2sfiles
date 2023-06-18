@@ -3,4 +3,5 @@ runes-of-zendos-the.z80
 --sim-load
 --tape-name "The Runes Of Zendos.tzx"
 --tape-sum a875abbb8316cd236da1506afa01b2de
---start 33948
+--start 1343
+--sim-load-config finish-tape=1

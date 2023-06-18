@@ -3,4 +3,5 @@ kyd-cadet-ii.z80
 --sim-load
 --tape-name "Kyd Cadet II.tzx"
 --tape-sum 5285b669f3dd37b7372b6a71028d10ae
---start 34178
+--start 1343
+--sim-load-config finish-tape=1

@@ -3,4 +3,5 @@ marine.z80
 --sim-load
 --tape-name "Marine.tzx"
 --tape-sum f4dcd3037bd97fad9727ed2254e05276
---start 38800
+--start 1343
+--sim-load-config finish-tape=1

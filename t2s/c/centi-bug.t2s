@@ -3,4 +3,5 @@ centi-bug.z80
 --sim-load
 --tape-name "Centi-Bug.tzx"
 --tape-sum ac7eee9d29d150736d0029fc26f6833d
---start 23296
+--start 1343
+--sim-load-config finish-tape=1

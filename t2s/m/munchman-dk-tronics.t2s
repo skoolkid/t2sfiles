@@ -3,4 +3,5 @@ munchman-dk-tronics.z80
 --sim-load
 --tape-name "Munch Man.tzx"
 --tape-sum 9b35975609b4a35543e15770bed25f16
---start 27901
+--start 1343
+--sim-load-config finish-tape=1

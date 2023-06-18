@@ -3,4 +3,5 @@ boat-run.z80
 --sim-load
 --tape-name "Boat Run.tzx"
 --tape-sum ebd766b865b5f34e9f3f5a7383b2fca4
---start 51000
+--start 1343
+--sim-load-config finish-tape=1

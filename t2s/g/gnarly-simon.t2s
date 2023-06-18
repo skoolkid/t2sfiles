@@ -3,4 +3,5 @@ gnarly-simon.z80
 --sim-load
 --tape-name "GnarlySimon.tap"
 --tape-sum f01d86197d0d5c6afce55769ea85aba7
---start 40000
+--start 1343
+--sim-load-config finish-tape=1

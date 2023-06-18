@@ -3,4 +3,5 @@ corruption.z80
 --sim-load
 --tape-name "Corruption.tzx"
 --tape-sum e7ca80ec9683f4325f6b3a110bb5560c
---start 40371
+--start 1343
+--sim-load-config finish-tape=1

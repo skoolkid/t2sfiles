@@ -3,4 +3,5 @@ blaster-ian-m-collier.z80
 --sim-load
 --tape-name "BLASTER.TAP"
 --tape-sum 2f31a7dfa249a61d35acf9672097e431
---start 51814
+--start 1343
+--sim-load-config finish-tape=1

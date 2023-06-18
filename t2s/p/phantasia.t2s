@@ -3,4 +3,5 @@ phantasia.z80
 --sim-load
 --tape-name "Fantasia.tzx"
 --tape-sum 4c152017a4985964662621297646fcdd
---start 30013
+--start 1343
+--sim-load-config finish-tape=1

@@ -3,4 +3,5 @@ https://worldofspectrum.net/pub/sinclair/games/d/DesertPatrol3D.tzx.zip
 --sim-load
 --tape-name "3D Desert Patrol.tzx"
 --tape-sum 3cecbfc160d2f0d6d09ea706e5430853
---start 30910
+--start 1343
+--sim-load-config finish-tape=1

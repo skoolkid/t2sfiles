@@ -3,4 +3,5 @@ star-attack.z80
 --sim-load
 --tape-name "starattack.tzx"
 --tape-sum 61adc61844490cfb641c1f83a4013381
---start 60020
+--start 1343
+--sim-load-config finish-tape=1

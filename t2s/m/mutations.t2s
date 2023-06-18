@@ -3,4 +3,5 @@ mutations.z80
 --sim-load
 --tape-name "Mutations.tzx"
 --tape-sum 6087593a28b31696a4a05540bffd3d6c
---start 32736
+--start 1343
+--sim-load-config finish-tape=1

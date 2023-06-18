@@ -3,4 +3,5 @@ attack-of-the-alien-waters.z80
 --sim-load
 --tape-name "ATTACKAW.TAP"
 --tape-sum d5be141fc385f41c7d162ce7898aecb0
---start 55870
+--start 1343
+--sim-load-config finish-tape=1

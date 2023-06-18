@@ -3,4 +3,5 @@ jimmy.z80
 --sim-load
 --tape-name "Jimmy.tzx"
 --tape-sum c224c44f3d4333a003ac7bbe83208f38
---start 28240
+--start 1343
+--sim-load-config finish-tape=1

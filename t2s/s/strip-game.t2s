@@ -3,4 +3,5 @@ strip-game.z80
 --sim-load
 --tape-name "STRIP_GA.TAP"
 --tape-sum f0ac4bb183273891a8d03e5afee225d3
---start 16386
+--start 1343
+--sim-load-config finish-tape=1

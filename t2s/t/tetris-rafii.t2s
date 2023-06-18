@@ -3,4 +3,5 @@ tetris-rafii.z80
 --sim-load
 --tape-name "TETRIS_1.TAP"
 --tape-sum 286114760dc71beced5481a632aa5b1a
---start 50000
+--start 1343
+--sim-load-config finish-tape=1

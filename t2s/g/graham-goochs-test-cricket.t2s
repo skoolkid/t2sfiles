@@ -3,4 +3,5 @@ graham-goochs-test-cricket.z80
 --sim-load
 --tape-name "Graham Gooch's Test Cricket.tzx"
 --tape-sum 852ca3a5c75eed3c0268656ab7cddf32
---start 50800
+--start 1343
+--sim-load-config finish-tape=1

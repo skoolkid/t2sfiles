@@ -3,4 +3,5 @@ super-digger.z80
 --sim-load
 --tape-name "Super Digger & Chase - Side A.tzx"
 --tape-sum 04d2ab226821214d9292a1216ad60216
---start 28315
+--start 1343
+--sim-load-config finish-tape=1

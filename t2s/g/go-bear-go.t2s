@@ -3,4 +3,5 @@ go-bear-go.z80
 --sim-load
 --tape-name "Go Bear Go!.tzx"
 --tape-sum 5eff5c5578be3d07db277c1ec3f26a25
---start 28768
+--start 1343
+--sim-load-config finish-tape=1

@@ -3,4 +3,5 @@ jungle-adventure.z80
 --sim-load
 --tape-name "Jungle Adventure.tzx"
 --tape-sum 15573bf682f6df38223f8f009c36736e
---start 30601
+--start 1343
+--sim-load-config finish-tape=1

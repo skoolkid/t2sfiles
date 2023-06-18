@@ -3,4 +3,5 @@ superball.z80
 --sim-load
 --tape-name "Superball.tzx"
 --tape-sum 09ab27f7fdc0382cc089d2ef2cd49b63
---start 29514
+--start 1343
+--sim-load-config finish-tape=1

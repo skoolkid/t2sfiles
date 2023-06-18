@@ -3,4 +3,5 @@ nightmare-ksoft.z80
 --sim-load
 --tape-name "Nightmare.tzx"
 --tape-sum 4f1881d9b3365465239fb04d06d6da2d
---start 49158
+--start 1343
+--sim-load-config finish-tape=1
