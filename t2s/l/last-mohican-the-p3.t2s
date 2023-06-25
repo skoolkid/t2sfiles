@@ -1,8 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/l/LastMohican.tzx.zip
-last-mohican-the-game-2.z80
+last-mohican-the-p3.z80
 --sim-load
---tape-name "The Last Mohican - Side 1.tzx"
---tape-sum 13fd349168a4561dae88e6280b94eac9
+--tape-name "The Last Mohican - Side 2.tzx"
+--tape-sum 7a8662a5153903b5c9b3d8156048f1ba
 --start 65492
---tape-start 9
 --sim-load-config accelerator=bleepload

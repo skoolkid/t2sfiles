@@ -1,5 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/compilations/m/MonteCarlo.tzx.zip
-monte-carlo-blackjack.z80
+monte-carlo-blackjack-micromega.z80
 --sim-load
 --tape-name "Monte Carlo - Side 1.tzx"
 --tape-sum ec5d5aeda87f1e8a820f7879011be546
