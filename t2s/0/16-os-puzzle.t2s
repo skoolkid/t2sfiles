@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/123/16-OSPuzzle.tzx.zip
+16-os-puzzle.z80
+--sim-load
+--tape-name "16-os Puzzle.tzx"
+--tape-sum 53f0ffdf59b6c2320cb39408096759a3
+--start 22499
+--sim-load-config machine=128
+--sim-load-config accelerator=tiny,rom

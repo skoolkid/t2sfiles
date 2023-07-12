@@ -3,4 +3,6 @@ https://worldofspectrum.net/pub/sinclair/games/123/4KRaceRefueledV2.01.tap.zip
 --sim-load
 --tape-name "4krace-rf.tap"
 --tape-sum 1c372671418bc0e02f5be0f8fe06e0e5
---start 23769
+--start 23316
+--sim-load-config machine=128
+--sim-load-config finish-tape=1
