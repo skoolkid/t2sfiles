@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/a/ArachnoJoe(minigame).tzx.zip
+arachno-joe.z80
+--sim-load
+--tape-name "ARACHNO.TZX"
+--tape-sum 7fe5d810a7cf2dbbbc8d184fe508d3ac
+--start 23316
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

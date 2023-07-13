@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Babylon5.tap.zip
+babylon-5.z80
+--sim-load
+--tape-name "B5-GAME.TAP"
+--tape-sum c3a4a21b9f637852bcf2c943d52cc9a1
+--start 1343
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

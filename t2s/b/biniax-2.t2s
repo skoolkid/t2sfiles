@@ -4,3 +4,4 @@ biniax-2.z80
 --tape-name "Biniax 2.tzx"
 --tape-sum a35f60d19ba2380a9243fa70adc835a1
 --start 32768
+--sim-load-config machine=128

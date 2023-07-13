@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AdidasChampionshipFootball.tap.zip
+adidas-championship-football.z80
+--sim-load
+--tape-name "Adidas Championship Football.tap"
+--tape-sum 49e144060e7860dc9f0e17402fbd4f92
+--start 46974
+--sim-load-config machine=128
+--sim-load-config accelerator=rom
