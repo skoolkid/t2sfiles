@@ -4,3 +4,4 @@ doom-mania.z80
 --tape-name "DOOMMANI.TAP"
 --tape-sum 8114d4bb9f939b043df0c36adf6ac3e6
 --start 25088
+--sim-load-config machine=128

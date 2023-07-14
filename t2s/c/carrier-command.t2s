@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CarrierCommand.tzx.zip
+carrier-command.z80
+--sim-load
+--tape-name "Carrier Command.tzx"
+--tape-sum b05bbc35baf236b6fa159060ee3e6e63
+--start 34000
+--sim-load-config machine=128
+--sim-load-config accelerator=rom

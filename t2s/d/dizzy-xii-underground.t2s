@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DizzyXII-Underground.tzx.zip
+dizzy-xii-underground.z80
+--sim-load
+--tape-name "Dizzy12(correct!).tzx"
+--tape-sum 9a1f6402601161588c1b22400e15a84c
+--start 36160
+--sim-load-config machine=128

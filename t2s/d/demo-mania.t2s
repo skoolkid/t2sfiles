@@ -4,3 +4,4 @@ demo-mania.z80
 --tape-name "DEMOMANIA.TAP"
 --tape-sum 5b5c57ad8d596f234dce21197aaa572c
 --start 24835
+--sim-load-config machine=128

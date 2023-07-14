@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/c/ChallengeOfIythusThe.tzx.zip
+challenge-of-iythus-the-side-b.z80
+--sim-load
+--tape-name "Challenge Of Iythus - Side B.tzx"
+--tape-sum 25b1c14aac077d911fbbfd177d559e01
+--start 1343
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

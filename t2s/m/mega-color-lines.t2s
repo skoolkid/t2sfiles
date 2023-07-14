@@ -4,3 +4,4 @@ mega-color-lines.z80
 --tape-name "ColorLines.tzx"
 --tape-sum 33e350b20218914d88a92666c97898ef
 --start 44684
+--sim-load-config machine=128

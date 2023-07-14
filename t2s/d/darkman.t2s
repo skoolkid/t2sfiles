@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/d/Darkman.tzx.zip
+darkman.z80
+--tape-name "Darkman - Side 1.tzx"
+--tape-sum 68f57ac0032a7efa9827f6e0eae12a53
+--start 47904
+--sim-load-config machine=128
+--sim-load-config accelerator=speedlock,rom
+--sim-load-config finish-tape=1
