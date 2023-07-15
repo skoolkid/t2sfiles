@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/e/Egghead5-EggheadRoundTheMed.tap.zip
+egghead-5-egghead-round-the-med.z80
+--tape-name "Egghead5.tap"
+--tape-sum 7b077a3e4da9a7e67d7cbf46768d8c4b
+--start 24615
+--sim-load-config machine=128

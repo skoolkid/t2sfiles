@@ -1,6 +1,6 @@
 https://worldofspectrum.net/pub/sinclair/games/e/Espejos.tap.zip
 espejos.z80
---sim-load
 --tape-name "Espejos.tap"
 --tape-sum 2921e1df01139d63476922e75a250f55
 --start 25006
+--sim-load-config machine=128

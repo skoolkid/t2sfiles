@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/f/FreezeAliens1.tap.zip
+freeze-aliens-1.z80
+--tape-name "Freeze Aliens 1.tap"
+--tape-sum 9c3c9c42ff0b9eeed6c687be28b82caa
+--start 34905
+--sim-load-config machine=128

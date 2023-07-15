@@ -1,7 +1,6 @@
-https://worldofspectrum.net/pub/sinclair/games/g/Gunhed(SinclairUser).tzx.zip
+https://worldofspectrum.net/pub/sinclair/games/g/Gunhed(Crash).tzx.zip
 gunhed.z80
---sim-load
---tape-name "Gunhead (SinclairUser).TZX"
---tape-sum b613c551317f2b127484b6b270045880
---start 16396
---sim-load-config accelerator=bleepload
+--tape-name "Gunhead(Crash).TZX"
+--tape-sum 458d28aa81380754d9c4933404a7da8a
+--start 30800
+--sim-load-config machine=128

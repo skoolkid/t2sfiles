@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/a/ArteDeLaFugaEl.tap.zip
+arte-de-la-fuga-el.z80
+--tape-name "El Arte De La Fuga.tap"
+--tape-sum 05c6906802fa6dd18886e35c5f5068ea
+--start 34905
+--sim-load-config machine=128

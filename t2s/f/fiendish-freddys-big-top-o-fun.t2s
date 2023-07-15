@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/f/FiendishFreddysBigTopOFun.tzx.zip
+fiendish-freddys-big-top-o-fun.z80
+--tape-name "Fiendish Freddy's Big Top O' Fun - Side 1.tzx"
+--tape-sum 149e9216276aed4c4b1c9bb58e940d88
+--start 32834
+--sim-load-config machine=128
+--sim-load-config accelerator=bleepload
