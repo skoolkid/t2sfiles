@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Strangel.tzx.zip
+strangel.z80
+--tape-name "Jet Set Willy - Strangel.tzx"
+--tape-sum 957963656a1eb7374e3d7bdc41835753
+--start 33792
+--sim-load-config machine=128

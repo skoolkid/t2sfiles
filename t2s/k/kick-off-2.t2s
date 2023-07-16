@@ -1,6 +1,6 @@
 https://worldofspectrum.net/pub/sinclair/games/k/KickOff2.tzx.zip
 kick-off-2.z80
---sim-load
 --tape-name "Kick Off 2.tzx"
 --tape-sum 0c7f78e26904612c56e79941bacc1133
 --start 24082
+--sim-load-config machine=128

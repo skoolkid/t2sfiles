@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/j/JetSetWillyInParis(French).tzx.zip
+jet-set-willy-in-paris-french.z80
+--tape-name "Jet Set Willy In Paris v4.0 - Francais.tzx"
+--tape-sum efaf9d5b5750c1614f003db68e4a6150
+--start 32039
+--sim-load-config machine=128

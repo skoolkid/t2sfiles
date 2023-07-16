@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/i/Isotopia.tzx.zip
+isotopia.z80
+--tape-name "Isotopia - Side 2 (128K, +2).tzx"
+--tape-sum a43ab6fb0deadd6ab65f4aff5b05b189
+--start 1343
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

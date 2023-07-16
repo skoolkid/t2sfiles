@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/h/HeddaStrikesAgain.tzx.zip
+hedda-strikes-again.z80
+--tape-name "Hedda Strikes Again.tzx"
+--tape-sum 6ac7e8ac1c6b60942eaeb3d6a27758b3
+--start 34887
+--sim-load-config machine=128

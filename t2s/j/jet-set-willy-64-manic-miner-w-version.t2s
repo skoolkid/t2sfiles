@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/j/JetSetWilly64-ManicMiner(WVersion).tzx.zip
+jet-set-willy-64-manic-miner-w-version.z80
+--tape-name "Jet Set Willy 64 - Manic Miner - W Version.tzx"
+--tape-sum b77b8cf2c3ea5974b52d7fea1bc2d8c1
+--start 32039
+--sim-load-config machine=128

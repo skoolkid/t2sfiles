@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/k/KingQuestV.tap.zip
+king-quest-v.z80
+--tape-name "King Quest V.tap"
+--tape-sum 201dae48cc0886b8ea719655d2eb49f1
+--start 34905
+--sim-load-config machine=128

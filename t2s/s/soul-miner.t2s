@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SoulMiner.tzx.zip
+soul-miner.z80
+--tape-name "Jet Set Willy - Soul Miner.tzx"
+--tape-sum 6fea405a554acca03bdfe1d9bbe6219c
+--start 33792
+--sim-load-config machine=128

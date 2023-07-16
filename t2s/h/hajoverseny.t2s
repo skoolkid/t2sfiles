@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/h/Hajoverseny.tzx.zip
+hajoverseny.z80
+--tape-name "Hajoverseny.tzx"
+--tape-sum 665b31d0e590d4c3206731eafeb47882
+--start 22499
+--sim-load-config machine=128
+--sim-load-config accelerator=tiny,rom

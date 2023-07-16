@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/h/Horrorscope.tzx.zip
+horrorscope.z80
+--tape-name "Horrorscope.tzx"
+--tape-sum 02ebe26907642f1a670f0963d4fa4089
+--start 34809
+--sim-load-config machine=128

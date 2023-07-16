@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/k/KnightLife.tzx.zip
+knight-life.z80
+--tape-name "Knight Life.tzx"
+--tape-sum fcea9c041e1a815e8cd6effc66a671b8
+--start 34887
+--sim-load-config machine=128
