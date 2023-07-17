@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MegaXonix.tzx.zip
+mega-xonix.z80
+--tape-name "Mega Xonix 128.tzx"
+--tape-sum b74fe1ea350046bfffd2ad9236865bcf
+--start 27000
+--sim-load-config machine=128

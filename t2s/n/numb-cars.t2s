@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/n/NumbCars(SpecialEdition).tzx.zip
+numb-cars.z80
+--tape-name "NUMBCARS.tzx"
+--tape-sum e8aa8a0d8e352912ed126f9de82347e1
+--start 22499
+--sim-load-config machine=128
+--sim-load-config accelerator=tiny,rom

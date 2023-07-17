@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/o/OddJobEddie128(Amstrad).tap.zip
+odd-job-eddie.z80
+--tape-name "ODDJOB2.TAP"
+--tape-sum 35cae2c10e588ba927d496c12cfc0679
+--start 38400
+--sim-load-config machine=128

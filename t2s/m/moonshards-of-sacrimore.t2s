@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MoonshardsOfSacrimore.tzx.zip
+moonshards-of-sacrimore.z80
+--tape-name "Moonshards Of Sacrimore.tzx"
+--tape-sum 0a714fa1d52657ba8236b1f5e4c76794
+--start 34887
+--sim-load-config machine=128
