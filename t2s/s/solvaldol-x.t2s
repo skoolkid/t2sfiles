@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Solvaldol-X.tzx.zip
+solvaldol-x.z80
+--tape-name "Solvaldol-X.tzx"
+--tape-sum ce7abc99f9277a9164c7c69d52be5c8b
+--start 34887
+--sim-load-config machine=128

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/StillStealin.tap.zip
+still-stealin.z80
+--tape-name "Still Stealin' (a.k.a Fahrenheit 2002).tap"
+--tape-sum 7a03d26f6bf2b61745b9db035984d8cb
+--start 33792
+--sim-load-config machine=128

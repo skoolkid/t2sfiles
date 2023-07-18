@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Stalker_2.tzx.zip
+stalker.z80
+--tape-name "Stalker.tzx"
+--tape-sum f977c13e1bb966bd333394a1e92ab0cd
+--start 34821
+--sim-load-config machine=128

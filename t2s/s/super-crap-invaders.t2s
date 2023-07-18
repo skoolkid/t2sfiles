@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SuperCrapInvaders.tzx.zip
+super-crap-invaders.z80
+--tape-name "SuperCrapInvaders.tzx"
+--tape-sum e973119e3d70fdeaae8f57f9f537c47f
+--start 32768
+--sim-load-config machine=128

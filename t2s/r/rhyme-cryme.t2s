@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RhymeCryme.tzx.zip
+rhyme-cryme.z80
+--tape-name "Rhyme Cryme.tzx"
+--tape-sum 8611d39127bec683179a1cfb61260755
+--start 34887
+--sim-load-config machine=128

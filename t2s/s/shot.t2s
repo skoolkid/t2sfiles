@@ -1,6 +1,6 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Shot.tap.zip
 shot.z80
---sim-load
 --tape-name "SHOT.TAP"
 --tape-sum 43ec82060f89d6d767f60eff01ad41e8
 --start 23760
+--sim-load-config machine=128

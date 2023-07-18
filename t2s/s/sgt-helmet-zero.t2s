@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Sgt.HelmetZero.tzx.zip
+sgt-helmet-zero.z80
+--tape-name "Sgt Helmet Zero.tzx"
+--tape-sum 7fdfef2ab78b1c2dc190d2ff1ce6a477
+--start 25000
+--sim-load-config machine=128

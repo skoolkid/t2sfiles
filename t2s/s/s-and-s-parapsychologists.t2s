@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SSParapsychologists.tap.zip
+s-and-s-parapsychologists.z80
+--tape-name "S&S Parapsychologists.tap"
+--tape-sum d2e89b15e2b4f095c18d975f0e4a7434
+--start 34905
+--sim-load-config machine=128

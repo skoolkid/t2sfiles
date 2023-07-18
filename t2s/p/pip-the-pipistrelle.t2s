@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PipThePipistrelle.tap.zip
+pip-the-pipistrelle.z80
+--tape-name "Pip the pip.tap"
+--tape-sum 0de8650aac65d05fc8a1f34ed96206e3
+--start 32039
+--sim-load-config machine=128

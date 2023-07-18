@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RequestInPeace.tzx.zip
+request-in-peace.z80
+--tape-name "RIP_TZX.tzx"
+--tape-sum 40ebd64f7a44804736ad930b88fbbad5
+--start 45154
+--sim-load-config machine=128

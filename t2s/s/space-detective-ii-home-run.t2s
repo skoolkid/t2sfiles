@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SpaceDetectiveII-HomeRunV1.2.tzx.zip
+space-detective-ii-home-run.z80
+--tape-name "Space Detective 2 v1.2.tzx"
+--tape-sum 7ac487bc39f42ddef8ddae72a7aa775e
+--start 34887
+--sim-load-config machine=128

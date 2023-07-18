@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/r/Rod-Land.tap.zip
+rod-land.z80
+--tape-name "Rod-Land.tap"
+--tape-sum fc9d997e87f565b2fb707029d0e1257f
+--start 33056
+--sim-load-config machine=128
+--sim-load-config accelerator=rom
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Parole.tzx.zip
+parole.z80
+--tape-name "Parole.tzx"
+--tape-sum b045f48b718a2b90d23ca4e32e0ae7f4
+--start 34887
+--sim-load-config machine=128

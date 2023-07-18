@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SolarFireDeLuxeVersion.tzx.zip
+solar-fire-deluxe.z80
+--tape-name "Solar Fire - Deluxe - Side 1.tzx"
+--tape-sum c83843ce313c55ece3acbdbd56519f6a
+--start 1343
+--sim-load-config machine=128
+--sim-load-config finish-tape=1
