@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TestThe_2.tzx.zip
+test-the-the-guild-p2.z80
+--tape-name "The Test - Part 2 (The Guild).tzx"
+--tape-sum b5ab775f68035938d1ab91e656811342
+--start 34887
+--sim-load-config machine=128

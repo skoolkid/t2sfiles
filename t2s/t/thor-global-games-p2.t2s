@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/Thor.tzx.zip
+thor-global-games-p2.z80
+--tape-name "Thor - Part 2 (Global Games).tzx"
+--tape-sum 97bf1f13555d83781e8f3d616f8d5a33
+--start 34809
+--sim-load-config machine=128

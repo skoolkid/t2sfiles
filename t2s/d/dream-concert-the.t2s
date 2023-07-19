@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DreamConcertThe.tzx.zip
+dream-concert-the.z80
+--tape-name "The Dream Concert.tzx"
+--tape-sum d7bd6b968412398f37402cc3e3bf5b17
+--start 34887
+--sim-load-config machine=128

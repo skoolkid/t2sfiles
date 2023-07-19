@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TheyCallMeTrooper.tzx.zip
+they-call-me-trooper.z80
+--tape-name "They Call Me Trooper.tzx"
+--tape-sum d0f22593f986f8a54a116eeac1f44315
+--start 23755
+--sim-load-config machine=128
+--sim-load-config accelerator=speedlock

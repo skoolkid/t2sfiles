@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TerryTheTurtle-Vektor.tap.zip
+terry-the-turtle-vektor.z80
+--tape-name "TTT-VEKTOR.tap"
+--tape-sum b4da6f42a750365c7369d3fca30d7faf
+--start 32039
+--sim-load-config machine=128

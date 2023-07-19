@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/l/LongJourneyHomeThe.tzx.zip
+long-journey-home-the.z80
+--tape-name "The Long Journey Home.tzx"
+--tape-sum 133947424b1b7d4518fe645277b64b5d
+--start 34887
+--sim-load-config machine=128

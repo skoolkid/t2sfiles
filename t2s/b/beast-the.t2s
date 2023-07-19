@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BeastThe.tzx.zip
+beast-the.z80
+--tape-name "The Beast.tzx"
+--tape-sum f3acb067fc95602b31094988dd0dd6d3
+--start 34809
+--sim-load-config machine=128

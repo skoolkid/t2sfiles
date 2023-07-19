@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/n/NetherPoppletonTreasureHuntThe.tzx.zip
+nether-poppleton-treasure-hunt-the.z80
+--tape-name "The Nether Poppleton Treasure Hunt.tzx"
+--tape-sum ff9b2c993c0459f68a05bec72faa5a00
+--start 34887
+--sim-load-config machine=128

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/k/KhangrinPlansThe.tzx.zip
+khangrin-plans-the.z80
+--tape-name "The Khangrin Plans.tzx"
+--tape-sum ae03b31b2eda980f34ebb961cdc77651
+--start 34887
+--sim-load-config machine=128

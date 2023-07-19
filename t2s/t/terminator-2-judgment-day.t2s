@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/t/Terminator2-JudgmentDay.tap.zip
+terminator-2-judgment-day.z80
+--tape-name "Terminator 2 - Judgement Day.tap"
+--tape-sum f54dd809fc0ed0aa28b598d137e30f2c
+--start 48320
+--sim-load-config machine=128
+--sim-load-config accelerator=rom
+--sim-load-config finish-tape=1

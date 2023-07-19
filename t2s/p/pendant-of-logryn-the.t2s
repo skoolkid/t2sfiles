@@ -1,7 +1,6 @@
 https://worldofspectrum.net/pub/sinclair/games/p/PendantOfLogrynThe.tzx.zip
 pendant-of-logryn-the.z80
---sim-load
 --tape-name "The Pendant Of Logryn.tzx"
 --tape-sum 744cfa53ffbec1427ea4f0a5cfeeadc5
---start 29046
---sim-load-config finish-tape=1
+--start 34779
+--sim-load-config machine=128

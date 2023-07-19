@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/l/LostChildrenThe(AdventureProbeSoftware).tzx.zip
+lost-children-the.z80
+--tape-name "The Lost Children.tzx"
+--tape-sum 93a646774c8bf4d2ba602633b86124c9
+--start 34887
+--sim-load-config machine=128
