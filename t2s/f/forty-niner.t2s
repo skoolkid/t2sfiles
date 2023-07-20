@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/f/FortyNiner.tap.zip
+forty-niner.z80
+--tape-name "fortyn81.tap"
+--tape-sum 462e6a34f4fbbc06852279faefdee949
+--start 32768
+--sim-load-config machine=128

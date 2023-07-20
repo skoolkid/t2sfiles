@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/w/War-Lord.tzx.zip
+war-lord.z80
+--tape-name "War-Lord.tzx"
+--tape-sum b1fe4ceda9a83adf63ffb18bf3d70aed
+--start 34887
+--sim-load-config machine=128

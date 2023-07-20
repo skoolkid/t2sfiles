@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/x/Xyzolog.tzx.zip
+xyzolog.z80
+--tape-name "Xyzolog.tzx"
+--tape-sum daa85e8298f26cbe4541b9f230618cb6
+--start 32821
+--sim-load-config machine=128
+--sim-load-config accelerator=speedlock

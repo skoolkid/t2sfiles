@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/z/ZblastSD.tap.zip
+zblast-sd.z80
+--tape-name "zblastSD/zblastsd.tap"
+--tape-sum 9f5b9ae097454d22151967b6ce367874
+--start 23316
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CityPatrol.tap.zip
+city-patrol-russell-marks.z80
+--tape-name "cityp81.tap"
+--tape-sum 0af575041b683b1adf60bfa7f264b33b
+--start 32768
+--sim-load-config machine=128

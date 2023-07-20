@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/w/WorldChampionshipSoccer.tzx.zip
+world-championship-soccer.z80
+--tape-name "World Championship Soccer.tzx"
+--tape-sum 9b89d8a41478d3bff4b663a06adf2a14
+--start 28370
+--sim-load-config machine=128

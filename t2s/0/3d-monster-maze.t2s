@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MonsterMaze3D.tap.zip
+3d-monster-maze.z80
+--tape-name "monmaz81.tap"
+--tape-sum 61594c4722eb81b2f7c64f28a75088cc
+--start 32768
+--sim-load-config machine=128

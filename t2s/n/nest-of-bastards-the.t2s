@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/n/NestOfBastardsThe.tzx.zip
+nest-of-bastards-the.z80
+--tape-name "nestbast.tzx"
+--tape-sum 916f49d486e10780be58d381a82698d7
+--start 1343
+--sim-load-config machine=128
+--sim-load-config finish-tape=1
