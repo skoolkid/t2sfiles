@@ -1,8 +1,0 @@
-https://worldofspectrum.net/pub/sinclair/games/b/Belegost.tzx.zip
-belegost-128k.z80
---sim-load
---tape-name "BELEGOST.TZX"
---tape-sum e6f4400c6cc97779d74981d6b5c557d3
---start 65322
---sim-load-config machine=128
---sim-load-config accelerator=cybexlab,rom

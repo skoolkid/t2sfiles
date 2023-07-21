@@ -1,6 +1,6 @@
 https://worldofspectrum.net/pub/sinclair/games/t/Turbulence.tap.zip
 turbulence.z80
---sim-load
 --tape-name "TURBULEN.TAP"
 --tape-sum 58742e00f81e42c1d873986fef8780be
 --start 26200
+--sim-load-config machine=128
