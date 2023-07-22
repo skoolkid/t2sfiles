@@ -4,4 +4,4 @@ city-patrol.z80
 --tape-sum 96038c9575a0d935036a3832fa741c38
 --start 40000
 --tape-stop 4
---sim-load-config 'load=CLEAR 3 9 9 9 9 : LOAD " " CODE : RANDOMIZE USR 4 0 0 0 0'
+--sim-load-config 'load=CLEAR 39999: LOAD "" CODE : RANDOMIZE USR 40000'

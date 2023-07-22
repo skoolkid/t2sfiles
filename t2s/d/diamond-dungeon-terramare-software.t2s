@@ -4,4 +4,4 @@ diamond-dungeon-terramare-software.z80
 --tape-sum b1cf1e8f6196d56cf1bc07fdea24661f
 --start 25000
 --tape-stop 3
---sim-load-config 'load=CLEAR 2 4 9 9 9 : LOAD " " CODE : RANDOMIZE USR 2 5 0 0 0'
+--sim-load-config 'load=CLEAR 24999: LOAD "" CODE : RANDOMIZE USR 25000'

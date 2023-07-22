@@ -5,4 +5,4 @@ spec-man.z80
 --start 1343
 --tape-stop 6
 --sim-load-config finish-tape=1
---sim-load-config 'load=LOAD " " CODE USR " A " : LOAD " "'
+--sim-load-config 'load=LOAD "" CODE USR "A": LOAD ""'

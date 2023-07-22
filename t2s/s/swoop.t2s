@@ -5,4 +5,4 @@ swoop.z80
 --start 1343
 --tape-stop 8
 --sim-load-config finish-tape=1
---sim-load-config 'load=LOAD " " CODE : LOAD " " CODE : LOAD " "'
+--sim-load-config 'load=LOAD "" CODE : LOAD "" CODE : LOAD ""'

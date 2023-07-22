@@ -5,4 +5,4 @@ blizzard-pass.z80
 --tape-sum 5475ad4eff83255fe684d778e8048004
 --start 65513
 --sim-load-config machine=128
---sim-load-config 'load=DOWN ENTER o u t SPACE 3 2 7 6 5 , 2 3 ENTER LOAD " " PC=1541'
+--sim-load-config 'load=DOWN ENTER out 32765,23 ENTER LOAD "" PC=1541'

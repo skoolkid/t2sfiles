@@ -4,4 +4,4 @@ astroblasters.z80
 --tape-sum dc750f2e850d72076b7565bc3c47dcd0
 --start 1343
 --sim-load-config finish-tape=1
---sim-load-config 'load=CLEAR 4 4 9 9 5 : LOAD " "'
+--sim-load-config 'load=CLEAR 44995: LOAD ""'
