@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CyrusII.tzx.zip
+cyrus-ii-128k.z80
+--tape-name "Cyrus II - MK2 128k.tzx"
+--tape-sum 46d363935bd155c64826e8e036d5277a
+--start 30066
+--sim-load-config machine=128
