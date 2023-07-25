@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/h/HardDrivin.tzx.zip
+hard-drivin-128k.z80
+--tape-name "Hard Drivin' - 128k.tzx"
+--tape-sum 61f7d04c538e35029ca909e77f82f682
+--start 1343
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

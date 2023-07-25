@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DragonNinja.tzx.zip
+dragon-ninja-128k.z80
+--tape-name "Dragon Ninja - 128k.tzx"
+--tape-sum 8eaeffeb1d6f438a552c229b86e24cd0
+--start 35717
+--sim-load-config machine=128
+--sim-load-config accelerator=speedlock

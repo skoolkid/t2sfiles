@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MoreTeaVicar.tap.zip
+more-tea-vicar-128k.z80
+--tape-name "MTV128.tap"
+--tape-sum 350aba204731e5ecd0b7fe6fe2b0dfe2
+--start 32488
+--sim-load-config machine=128

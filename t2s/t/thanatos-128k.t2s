@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/Thanatos.tzx.zip
+thanatos-128k.z80
+--tape-name "Thanatos - Side 2.tzx"
+--tape-sum 4e40f3a87f0cde9757c439883e64b8ae
+--start 51143
+--sim-load-config machine=128

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BattleOfTheBulgeThe.tzx.zip
+battle-of-the-bulge-the-128k.z80
+--tape-name "The Battle Of The Bulge - 128k.tzx"
+--tape-sum c179374e9cea099835a927f96eb4addc
+--start 1343
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

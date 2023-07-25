@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/Denizen.tzx.zip
+denizen-128k.z80
+--tape-name "Denizen - 128k.tzx"
+--tape-sum 47095ace0221955e004f01b4d703df95
+--start 46337
+--sim-load-config machine=128
+--sim-load-config accelerator=speedlock

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/j/JetSetWillyII128.tzx.zip
+jet-set-willy-ii-128k.z80
+--tape-name "Jet Set Willy 2 - 128k.tzx"
+--tape-sum 63e169c748ffb81cb12493f7fe8a41ef
+--start 1343
+--sim-load-config machine=128
+--sim-load-config finish-tape=1
