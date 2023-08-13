@@ -1,8 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/d/Duel2.tzx.zip
 duel-2.z80
---sim-load
 --tape-name "Duel2.tzx"
 --tape-sum ad7d5ba28e98e0fbee6498f148f6e436
 --start 54220
---sim-load-config first-edge=0
+--sim-load-config polarity=0
 --sim-load-config accelerator=rom
