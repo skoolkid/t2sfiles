@@ -1,7 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/g/GoblinMountain.tap.zip
 goblin-mountain.z80
---sim-load
 --tape-name "GOBLIN.TAP"
 --tape-sum c3df3b421d01da0543ecbba6bdc66c80
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

@@ -1,7 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SiloRaid.tap.zip
 silo-raid.z80
---sim-load
 --tape-name "Silo_Raid.tap"
 --tape-sum ab59b8e8003483d7f7cc292cf352c5f3
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

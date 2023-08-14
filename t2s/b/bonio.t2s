@@ -1,7 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/b/Bonio.tap.zip
 bonio.z80
---sim-load
 --tape-name "BONIO.TAP"
 --tape-sum a33293d942d8ee4bca06565673751ff5
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

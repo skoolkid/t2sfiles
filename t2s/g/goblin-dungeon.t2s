@@ -1,7 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/g/GoblinDungeon.tap.zip
 goblin-dungeon.z80
---sim-load
 --tape-name "GOBLNDUN.TAP"
 --tape-sum 48edcada6dee309f6f5b8fd20714c434
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

@@ -1,7 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Sparx.tap.zip
 sparx.z80
---sim-load
 --tape-name "SPARX.TAP"
 --tape-sum f973d7f655f92b6016f0b9c8dcac38c3
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

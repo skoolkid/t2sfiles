@@ -1,7 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/m/Minelay.tap.zip
 minelay.z80
---sim-load
 --tape-name "Minelay.tap"
 --tape-sum d210186bdd182edf0663d4664c4322df
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

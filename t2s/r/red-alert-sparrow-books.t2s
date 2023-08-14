@@ -1,7 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/r/RedAlert.tap.zip
 red-alert-sparrow-books.z80
---sim-load
 --tape-name "Red_Alert.tap"
 --tape-sum e9de3957145128ee482799a7328e4bd0
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

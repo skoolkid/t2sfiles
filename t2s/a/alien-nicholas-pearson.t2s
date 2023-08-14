@@ -1,7 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/a/Alien_5.tap.zip
 alien-nicholas-pearson.z80
---sim-load
 --tape-name "ALIEN.TAP"
 --tape-sum d440e82c64a93038e9171520d26fbed8
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

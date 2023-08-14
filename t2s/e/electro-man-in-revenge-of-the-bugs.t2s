@@ -1,7 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/e/Electro-ManInRevengeOfTheBugs.tap.zip
 electro-man-in-revenge-of-the-bugs.z80
---sim-load
 --tape-name "ELECTRO.TAP"
 --tape-sum ddb18e6c82486dba4bce9f7372f355c5
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

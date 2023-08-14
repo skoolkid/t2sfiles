@@ -1,7 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/h/HellsAngels.tap.zip
 hells-angels.z80
---sim-load
 --tape-name "HELANGEL.TAP"
 --tape-sum 185455ab93e8b4f3d8bf83c60f400757
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

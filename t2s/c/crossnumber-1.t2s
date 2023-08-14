@@ -1,7 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/c/Crossnumber1(ChairmansAge).tap.zip
 crossnumber-1.z80
---sim-load
 --tape-name "crossnumber_1_-_chairmans_age.tap"
 --tape-sum 4b47b4e39d82ae0c8ddeb9bd605069d3
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

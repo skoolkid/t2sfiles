@@ -1,7 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/t/TowerOfDoors.tap.zip
 tower-of-doors.z80
---sim-load
 --tape-name "TOWEROFD.TAP"
 --tape-sum 3034bf7d9dc9f4f9cb3e6fa6f41992fb
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

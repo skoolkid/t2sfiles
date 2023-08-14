@@ -1,7 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/e/ElephantsGraveyard.tap.zip
 elephants-graveyard.z80
---sim-load
 --tape-name "ELEPHANT.TAP"
 --tape-sum 1dd74d2ad61da5a8fa1a7befced83028
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

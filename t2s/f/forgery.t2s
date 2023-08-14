@@ -1,7 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/f/Forgery.tap.zip
 forgery.z80
---sim-load
 --tape-name "Forgery.tap"
 --tape-sum c5d8d27843b7104bcd3c7d74a1cdbb05
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

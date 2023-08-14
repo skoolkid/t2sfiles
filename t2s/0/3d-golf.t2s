@@ -1,7 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/g/Golf3D.tap.zip
 3d-golf.z80
---sim-load
 --tape-name "3D-GOLF.TAP"
 --tape-sum e3cb50fb3cc52adfa3d1d9dbd0023fb7
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

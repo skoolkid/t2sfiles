@@ -1,7 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/i/InheritanceV1.tzx.zip
 inheritance-v1.z80
---sim-load
 --tape-name "Inheritance - Release 1.tzx"
 --tape-sum edbb7cad21b6ea77d0e7a1537a333217
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

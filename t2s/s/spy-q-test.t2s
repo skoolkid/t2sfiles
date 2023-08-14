@@ -1,7 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SpyQTest.tap.zip
 spy-q-test.z80
---sim-load
 --tape-name "SpyQTest.tap"
 --tape-sum 45399d87d4216620140cd4f319a0f416
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

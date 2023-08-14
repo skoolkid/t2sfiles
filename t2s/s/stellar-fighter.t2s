@@ -1,7 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/s/StellarFighter.tap.zip
 stellar-fighter.z80
---sim-load
 --tape-name "STELLARF.TAP"
 --tape-sum bd6cd6dc349c7a4cb79e2cb1647fcfab
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

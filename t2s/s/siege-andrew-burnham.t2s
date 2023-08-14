@@ -1,7 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Siege_2.tap.zip
 siege-andrew-burnham.z80
---sim-load
 --tape-name "Siege.tap"
 --tape-sum e45505d448c2fe973767521800ea9d10
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

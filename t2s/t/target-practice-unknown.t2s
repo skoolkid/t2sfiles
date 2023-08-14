@@ -1,7 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/t/TargetPractice.tap.zip
 target-practice-unknown.z80
---sim-load
 --tape-name "TargetPractice.tap"
 --tape-sum 775ce17110a4383d9a8833c5f8dae9db
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

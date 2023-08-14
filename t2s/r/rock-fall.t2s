@@ -1,7 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/r/Rock-Fall.tap.zip
 rock-fall.z80
---sim-load
 --tape-name "ROCKFALL.TAP"
 --tape-sum cfc18488bb81054c1ebc29e512d2ca9c
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

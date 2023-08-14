@@ -1,7 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/r/RacingLeague.tzx.zip
 racing-league.z80
---sim-load
 --tape-name "Racing League.tzx"
 --tape-sum a3c13cd92117c1b51183ceafa544f927
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

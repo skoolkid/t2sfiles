@@ -1,7 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/d/Defusion.tap.zip
 defusion.z80
---sim-load
 --tape-name "DEFUSION.TAP"
 --tape-sum c1ae94cbe2e6aa919391de9238c70afa
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

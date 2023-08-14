@@ -1,7 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/u/UniverseStars.tzx.zip
 universestars.z80
---sim-load
 --tape-name "UniverseStars.tzx"
 --tape-sum af9fa4ec0c46f08ef50a0a57604b2a52
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

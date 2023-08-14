@@ -1,7 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/m/MissileStrike.tap.zip
 missile-strike.z80
---sim-load
 --tape-name "MISTRIKE.TAP"
 --tape-sum 8d59f25ee453f3f6ac4ce4d586b2fb0c
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

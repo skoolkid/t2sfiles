@@ -1,7 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/g/Golf80.tap.zip
 golf-80.z80
---sim-load
 --tape-name "Golf80.tap"
 --tape-sum 6676a78c579ab3eec9954124e1d0a893
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

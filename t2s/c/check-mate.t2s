@@ -1,7 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/c/CheckMate.tap.zip
 check-mate.z80
---sim-load
 --tape-name "CHECKMTE.TAP"
 --tape-sum 8915056b03d0c32dccccb21d1a3467c6
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

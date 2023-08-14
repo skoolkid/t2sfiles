@@ -1,7 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/r/RevengeOfCastleDreadPart1(VenganzaDelCastilloEncantadoLa).tap.zip
 revenge-of-castle-dread-p1.z80
---sim-load
 --tape-name "La_venganza_del_castillo_encantado - Part 1.tap"
 --tape-sum 5df288251e240d7991471a0aec8ecd6d
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

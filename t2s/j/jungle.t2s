@@ -1,7 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/j/Jungle.tap.zip
 jungle.z80
---sim-load
 --tape-name "pg114_jungle.tap"
 --tape-sum 516d855523c789f048801398fb382db9
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

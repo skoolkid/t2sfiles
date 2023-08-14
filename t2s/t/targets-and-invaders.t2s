@@ -1,7 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/t/TargetsInvaders.tap.zip
 targets-and-invaders.z80
---sim-load
 --tape-name "pg36_targets&invaders.tap"
 --tape-sum e93980e2005cf77ed8447c4fac3771b4
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

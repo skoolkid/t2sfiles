@@ -1,7 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/f/FruitMachine_6.tap.zip
 fruit-machine-grisewood-and-dempsey.z80
---sim-load
 --tape-name "fruit.tap"
 --tape-sum dfdd8cabc97a97256564e3d488ac8842
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

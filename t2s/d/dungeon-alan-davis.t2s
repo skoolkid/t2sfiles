@@ -1,7 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/d/Dungeon_2.tap.zip
 dungeon-alan-davis.z80
---sim-load
 --tape-name "DUNGEON.TAP"
 --tape-sum 2af1a8a07689921f88beae7e323fd815
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

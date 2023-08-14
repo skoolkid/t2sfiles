@@ -1,7 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/r/Ring-a-RingORobot.tap.zip
 ring-a-ring-o-robot.z80
---sim-load
 --tape-name "Ring-a-Ring_ORobot.tap"
 --tape-sum a33ffd7e81ac3d9d48539e0c9b2a491c
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

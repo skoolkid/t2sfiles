@@ -1,7 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/c/Cybor.tap.zip
 cybor.z80
---sim-load
 --tape-name "CYBOR.TAP"
 --tape-sum 859ec69e8dd87fb64a5bdbee9c2bbcb9
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

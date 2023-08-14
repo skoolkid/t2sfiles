@@ -1,7 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/r/RifleRange_2.tap.zip
 rifle-range-michael-housley.z80
---sim-load
 --tape-name "RIFLERNG.TAP"
 --tape-sum a709ec7290eee6d529a7388f5244a537
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

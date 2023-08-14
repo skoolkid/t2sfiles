@@ -1,7 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/h/HauntedHouse_2.tap.zip
 haunted-house-daniel-isaaman.z80
---sim-load
 --tape-name "Haunted_House.tap"
 --tape-sum 500f62366859e0a2de11b7a7f2cdf47e
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

@@ -1,7 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/g/GolfTwo.tap.zip
 golf-two.z80
---sim-load
 --tape-name "GOLFTWO.TAP"
 --tape-sum 701bdb454c7c517340e3e6bf80b08f88
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

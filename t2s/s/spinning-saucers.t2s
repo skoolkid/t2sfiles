@@ -1,7 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SpinningSaucers.tap.zip
 spinning-saucers.z80
---sim-load
 --tape-name "pg66_spinningsaucers.tap"
 --tape-sum b9e7929bbf3d2b8ef648e8dddb598f2f
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

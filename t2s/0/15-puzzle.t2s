@@ -1,7 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/123/15Puzzle.tap.zip
 15-puzzle.z80
---sim-load
 --tape-name "15puzzle.tap"
 --tape-sum d3590c8a799d7c350f1a4f195ab1e987
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

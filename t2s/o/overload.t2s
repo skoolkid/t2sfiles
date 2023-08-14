@@ -1,7 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/o/Overload.tap.zip
 overload.z80
---sim-load
 --tape-name "OVERLOAD.TAP"
 --tape-sum 53cb30e70570a2933ae66ed967a4c548
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

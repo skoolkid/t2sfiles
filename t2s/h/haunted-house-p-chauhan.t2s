@@ -1,7 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/h/HauntedHouse_4.tap.zip
 haunted-house-p-chauhan.z80
---sim-load
 --tape-name "HAUNTEDH.TAP"
 --tape-sum c50daddb849419d55f306004aaefe6c1
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

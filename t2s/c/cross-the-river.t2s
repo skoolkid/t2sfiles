@@ -1,7 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/c/CrossTheRiver.tap.zip
 cross-the-river.z80
---sim-load
 --tape-name "CROSSRIV.TAP"
 --tape-sum 63998264efdd544a08391f84a05d7ac3
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

@@ -1,7 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/i/InternationalCricketOnTour-3_4_5Days.tzx.zip
 international-cricket-on-tour-3-4-and-5-days-side-2.z80
---sim-load
 --tape-name "International Cricket On Tour - 3,4 & 5 Days - Side 2.tzx"
 --tape-sum 357e770ccd70b2ad7073559390a67d55
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

@@ -1,7 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Seance.tap.zip
 seance.z80
---sim-load
 --tape-name "Seance.tap"
 --tape-sum 325942e7763be0253a77d95202ccb015
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

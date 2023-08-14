@@ -1,7 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/n/Network.tap.zip
 network.z80
---sim-load
 --tape-name "NETWORK.TAP"
 --tape-sum b14eb8bea230a0f5b9fa1c2b29e364a7
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

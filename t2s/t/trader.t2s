@@ -1,9 +1,9 @@
 https://worldofspectrum.net/pub/sinclair/games/t/Trader.tap.zip
 trader.z80
---sim-load
 --tape-name "RAND8703.TAP"
 --tape-sum 2b16847e8650b6515200d22d03187f61
 --start 1343
 --sim-load-config finish-tape=1
 --tape-start 7
 --tape-stop 9
+--sim-load-config 'load=LOAD "": RUN'

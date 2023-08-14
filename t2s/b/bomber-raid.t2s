@@ -1,7 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/b/BomberRaid.tap.zip
 bomber-raid.z80
---sim-load
 --tape-name "BOMBRAID.TAP"
 --tape-sum 46676aab6471435ee36d6ec50061731b
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

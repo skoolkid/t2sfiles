@@ -1,7 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/r/RagingBull.tap.zip
 raging-bull.z80
---sim-load
 --tape-name "RAGING.TAP"
 --tape-sum a33e78b1568bf7a9a504e6b72f09586b
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

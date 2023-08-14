@@ -1,7 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/d/DevilsDisks.tap.zip
 devils-disks.z80
---sim-load
 --tape-name "DEVILDSK.TAP"
 --tape-sum 19c7e72437846021b108ad42bda4ff18
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

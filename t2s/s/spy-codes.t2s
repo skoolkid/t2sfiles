@@ -1,7 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SpyCodes.tap.zip
 spy-codes.z80
---sim-load
 --tape-name "Spy_Codes.tap"
 --tape-sum c65da7c1414fc4e67e19ee168bba1a28
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

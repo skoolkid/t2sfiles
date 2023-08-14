@@ -1,7 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/b/BattleshipGalastica.tap.zip
 battleship-galastica.z80
---sim-load
 --tape-name "GALASTIC.TAP"
 --tape-sum cc328b41c77a9c08d89e5ef982866e77
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

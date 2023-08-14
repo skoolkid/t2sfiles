@@ -1,7 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/m/Mindread.tap.zip
 mindread.z80
---sim-load
 --tape-name "mindread.tap"
 --tape-sum e9595f89be870a3755e3493093c14efc
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

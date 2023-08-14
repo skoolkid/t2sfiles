@@ -1,7 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/b/BowlingGreen.tap.zip
 bowling-green.z80
---sim-load
 --tape-name "BOWLING.TAP"
 --tape-sum 3717ec8295c4076fbf4aee5c7a1b2006
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

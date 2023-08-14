@@ -1,7 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/b/Break-Out.tap.zip
 break-out-zx-computing.z80
---sim-load
 --tape-name "BREAKOUT.TAP"
 --tape-sum c5975d69e5065437a1b052a8190addf0
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

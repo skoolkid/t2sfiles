@@ -1,7 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/n/NorthWales47FleetManager.tzx.zip
 north-wales-47-fleet-manager.z80
---sim-load
 --tape-name "North Wales 47 Fleet Manager.tzx"
 --tape-sum 236ae8b47dcaa0d4922b44bd2eba7557
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

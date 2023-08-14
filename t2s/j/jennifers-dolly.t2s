@@ -1,7 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/j/JennifersDolly.tap.zip
 jennifers-dolly.z80
---sim-load
 --tape-name "JENNIFER.TAP"
 --tape-sum cb52781d7008c1d92f06047ad4841d76
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

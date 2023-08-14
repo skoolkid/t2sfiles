@@ -1,7 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/b/BlakesSeven.tap.zip
 blakes-seven.z80
---sim-load
 --tape-name "BLAKES-7.TAP"
 --tape-sum ed3f8e4dd2852dac86b5e9ca3bb4cd89
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

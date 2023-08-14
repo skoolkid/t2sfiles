@@ -1,7 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Squares.tap.zip
 squares-grisewood-and-dempsey.z80
---sim-load
 --tape-name "squares.tap"
 --tape-sum a9dd323a930dcb6ead041f1abad00f23
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

@@ -1,7 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/l/LaserLocksmith.tap.zip
 laser-locksmith.z80
---sim-load
 --tape-name "Laser.tap"
 --tape-sum dd0038aaa2b64a0e203833a95c622b07
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

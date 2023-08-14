@@ -1,7 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/t/TreasureFinder.tap.zip
 treasure-finder.z80
---sim-load
 --tape-name "TreasureFinder.tap"
 --tape-sum 236b18dc323d274b2104ee52e7a41bf3
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

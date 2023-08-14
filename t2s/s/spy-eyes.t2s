@@ -1,7 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SpyEyes.tap.zip
 spy-eyes.z80
---sim-load
 --tape-name "SpyEyes.tap"
 --tape-sum 3baf56639dad1eddb663e03d8e3740d8
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

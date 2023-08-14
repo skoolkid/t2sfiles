@@ -1,7 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/d/DishonestGovernorThe.tap.zip
 dishonest-governor-the.z80
---sim-load
 --tape-name "the_dishonest_governor.tap"
 --tape-sum b00bd326beb6a6e33e3ef67c8e3d0bfa
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

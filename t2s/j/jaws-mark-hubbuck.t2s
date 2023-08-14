@@ -1,8 +1,8 @@
 https://worldofspectrum.net/pub/sinclair/games/j/Jaws.tap.zip
 jaws-mark-hubbuck.z80
---sim-load
 --tape-name "JAWS_SUT.TAP"
 --tape-sum 3a7c93cdd7ba85da411164481768f29a
 --start 1343
 --sim-load-config finish-tape=1
 --tape-stop 3
+--sim-load-config 'load=LOAD "": RUN'

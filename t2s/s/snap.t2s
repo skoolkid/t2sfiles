@@ -1,7 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Snap_2.tap.zip
 snap.z80
---sim-load
 --tape-name "SNAP.TAP"
 --tape-sum 7c384db3a0c4f876ba78c97d9574b9bf
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

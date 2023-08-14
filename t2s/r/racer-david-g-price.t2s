@@ -1,7 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/r/Racer_2.tap.zip
 racer-david-g-price.z80
---sim-load
 --tape-name "RACER.TAP"
 --tape-sum 04dc1b9ec4ad797b7efacae121871198
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'
