@@ -1,7 +1,0 @@
-https://tzxvault.org/Spectrum/TZX/Aaargh!.zip
-aaargh.z80
---sim-load
---tape-name "Aaargh! - Side 1.tzx"
---tape-sum cfe091069af70b7ad7eae377665ce284
---start 65283
---sim-load-config accelerator=speedlock

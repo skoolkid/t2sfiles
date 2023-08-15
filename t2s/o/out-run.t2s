@@ -1,7 +1,0 @@
-https://worldofspectrum.net/pub/sinclair/games/o/OutRun.tzx.zip
-out-run.z80
---sim-load
---tape-name "Outrun - Tape 1 - Side 1.tzx"
---tape-sum 78fb2a6b82ca2dc7021a5762ea1491fb
---start 65248
---sim-load-config accelerator=speedlock
