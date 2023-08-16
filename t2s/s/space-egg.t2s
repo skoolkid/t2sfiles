@@ -5,3 +5,4 @@ space-egg.z80
 --tape-sum 0b3ab79bb6513d08b01df9581ded689e
 --start 1343
 --sim-load-config finish-tape=1
+--ram poke=23823,234 ; Replace STOP in line 50 with REM

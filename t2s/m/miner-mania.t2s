@@ -6,3 +6,4 @@ miner-mania.z80
 --start 1343
 --sim-load-config finish-tape=1
 --tape-stop 3
+--sim-load-config 'load=LOAD "": RUN'

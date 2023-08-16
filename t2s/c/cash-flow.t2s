@@ -5,3 +5,4 @@ cash-flow.z80
 --tape-sum 6b12ae665435d7e0072f4be0f94bb86b
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

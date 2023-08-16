@@ -5,3 +5,4 @@ crystal-quest-keith-burnard.z80
 --tape-sum 8535478e79cfd65e85cec9b2080cfe24
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

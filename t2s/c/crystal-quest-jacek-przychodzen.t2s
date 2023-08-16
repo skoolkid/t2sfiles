@@ -5,3 +5,4 @@ crystal-quest-jacek-przychodzen.z80
 --tape-sum 41f41cd1d771b454f6fa4ad401cbeae9
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

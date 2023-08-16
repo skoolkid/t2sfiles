@@ -5,3 +5,4 @@ tennis-master.z80
 --tape-sum 89b6256c84d489f4e907c5435e4f3892
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

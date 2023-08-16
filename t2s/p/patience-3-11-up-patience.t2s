@@ -5,3 +5,4 @@ patience-3-11-up-patience.z80
 --tape-sum 9d77764396bd00c7cefd197ef2756c8f
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN 1760'

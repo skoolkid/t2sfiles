@@ -1,4 +1,3 @@
-; Enter "RUN 3" to start game
 https://worldofspectrum.net/pub/sinclair/games/j/Juggly.tap.zip
 juggly.z80
 --sim-load
@@ -6,3 +5,4 @@ juggly.z80
 --tape-sum 728968d96f47d4b24b2448e73a89e193
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN 3'
