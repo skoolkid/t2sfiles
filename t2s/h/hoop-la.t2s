@@ -1,8 +1,8 @@
 https://worldofspectrum.net/pub/sinclair/games/h/Hoop-La.tap.zip
 hoop-la.z80
---sim-load
 --tape-name "HOOP_LA.TAP"
 --tape-sum 65aa2520d3c6d66ce219b91079989531
 --start 1343
 --sim-load-config finish-tape=1
 --state issue2=1
+--sim-load-config 'load=LOAD "": OUT 254,255: RUN'
