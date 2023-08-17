@@ -1,8 +1,7 @@
-https://worldofspectrum.net/pub/sinclair/games/d/Dominoes_4.tap.zip
+https://worldofspectrum.net/pub/sinclair/games/d/Dominoes_2.tzx.zip
 dominoes-phipps-associates.z80
 --sim-load
---tape-name "DOMINOES.TAP"
---tape-sum 3866ea42cf65f40d95e0985eb597a12c
+--tape-name "Dominoes - 48k (Phipps Associates).tzx"
+--tape-sum 3282e58a5b45c67feaf9cfd9502b0933
 --start 1343
 --sim-load-config finish-tape=1
---tape-stop 5

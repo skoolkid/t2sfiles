@@ -1,7 +1,8 @@
-https://worldofspectrum.net/pub/sinclair/games/g/Genesis-DawnOfANewDay.tap.zip
+https://worldofspectrum.net/pub/sinclair/games/g/Genesis-DawnOfANewDay.tzx.zip
 genesis-dawn-of-a-new-day.z80
---tape-name "genesis.tap"
---tape-sum d531da3e31e55aa579b3a99dfe9eb8fc
---start 1343
+--tape-name "genesis.tzx"
+--tape-sum 6afc878c2ea5bb9483efe9fdafc2e55c
+--start 24214
 --sim-load-config machine=128
+--sim-load-config accelerator=rom
 --sim-load-config finish-tape=1

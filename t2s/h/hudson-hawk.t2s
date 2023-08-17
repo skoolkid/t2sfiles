@@ -1,6 +1,8 @@
-https://worldofspectrum.net/pub/sinclair/games/h/HudsonHawk.tap.zip
+https://worldofspectrum.net/pub/sinclair/games/h/HudsonHawk.tzx.zip
 hudson-hawk.z80
---tape-name "HUDSON_H.TAP"
---tape-sum a09d1ec44d3da1bb3e06ba7ab50fe573
---start 53475
+--tape-name "Hudson Hawk.tzx"
+--tape-sum 2c7d713484935c0a0c5b11477929d6f0
+--start 48733
 --sim-load-config machine=128
+--sim-load-config accelerator=speedlock
+--sim-load-config finish-tape=1

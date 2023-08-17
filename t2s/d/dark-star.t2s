@@ -1,6 +1,7 @@
-https://worldofspectrum.net/pub/sinclair/games/d/DarkStar.tap.zip
+https://worldofspectrum.net/pub/sinclair/games/d/DarkStar.tzx.zip
 dark-star.z80
---sim-load
---tape-name "DARKSTAR.TAP"
---tape-sum e380be4e3170c3ee08e8ebc836c222bd
---start 65038
+--tape-name "Dark Star.tzx"
+--tape-sum 3277752514bc5ef3758e45b88f480335
+--start 64690
+--sim-load-config accelerator=design-design
+--sim-load-config polarity=0

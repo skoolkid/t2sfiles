@@ -1,7 +1,8 @@
-https://worldofspectrum.net/pub/sinclair/games/l/LoneWolf-TheMirrorOfDeath128.tap.zip
+https://worldofspectrum.net/pub/sinclair/games/l/LoneWolf-TheMirrorOfDeath.tzx.zip
 lone-wolf-the-mirror-of-death-128k.z80
---tape-name "Lone Wolf 3 - The Mirror Of Death - 128k.tap"
---tape-sum 89be4f698498a4e517732d3f9e1acb35
---start 64780
+--tape-name "Lone Wolf 3 - The Mirror Of Death.tzx"
+--tape-sum bab8428d8a90956f894dcb63c247f4f0
+--start 65458
 --sim-load-config machine=128
---sim-load-config finish-tape=1
+--sim-load-config accelerator=none
+--sim-load-config polarity=0

@@ -1,7 +1,7 @@
-https://worldofspectrum.net/pub/sinclair/games/c/CobrasArc(MediumCase).tap.zip
+https://worldofspectrum.net/pub/sinclair/games/c/CobrasArc(MediumCase).tzx.zip
 cobras-arc.z80
 --sim-load
---tape-name "Cobra's Arc.tap"
---tape-sum 0ba92b20ac883ce5d5f50d0e8f49b38c
---start 65173
---sim-load-config accelerator=rom
+--tape-name "Cobra's Arc - Medium Case.tzx"
+--tape-sum 794c78bf531bc97fa55c7da11290b0b1
+--start 43034
+--sim-load-config accelerator=speedlock

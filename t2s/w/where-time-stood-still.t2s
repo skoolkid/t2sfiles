@@ -1,6 +1,7 @@
-https://worldofspectrum.net/pub/sinclair/games/w/WhereTimeStoodStill.tap.zip
+https://worldofspectrum.net/pub/sinclair/games/w/WhereTimeStoodStill.tzx.zip
 where-time-stood-still.z80
---tape-name "WTSS.TAP"
---tape-sum 51c02f444d5780434fe6c4cf4b439b11
---start 34081
+--tape-name "Where Time Stood Still.tzx"
+--tape-sum 9e30d67c52c3986968de303c3d22f0c4
+--start 48874
 --sim-load-config machine=128
+--sim-load-config accelerator=speedlock
