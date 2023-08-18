@@ -1,7 +1,0 @@
-https://worldofspectrum.net/pub/sinclair/games/s/SolarInvasion.tap.zip
-solar-invasion.z80
---sim-load
---tape-name "SOLARINV.TAP"
---tape-sum 9a975669861e4defe8c926d9d01befc6
---start 1343
---sim-load-config finish-tape=1
