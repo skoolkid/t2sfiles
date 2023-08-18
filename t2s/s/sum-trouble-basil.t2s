@@ -1,7 +1,0 @@
-https://worldofspectrum.net/pub/sinclair/games/s/SumTrouble(Basil).tap.zip
-sum-trouble-basil.z80
---sim-load
---tape-name "sum_trouble_-_basil.tap"
---tape-sum 90bb057a5d8fc40a4fcf9452c35a4178
---start 1343
---sim-load-config finish-tape=1

@@ -1,7 +1,0 @@
-https://worldofspectrum.net/pub/sinclair/games/s/SumTrouble(Darel).tap.zip
-sum-trouble-darel.z80
---sim-load
---tape-name "sum_trouble_-_darell.tap"
---tape-sum b3b810b3861b8a17b66cca382b46eb74
---start 1343
---sim-load-config finish-tape=1

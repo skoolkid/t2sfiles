@@ -1,7 +1,0 @@
-https://worldofspectrum.net/pub/sinclair/games/s/SumTrouble(Ernest).tap.zip
-sum-trouble-ernest.z80
---sim-load
---tape-name "sum_trouble_-_ernest.tap"
---tape-sum 88d66fbbde8b9876a14523d40e32aff4
---start 1343
---sim-load-config finish-tape=1

@@ -1,7 +1,0 @@
-https://worldofspectrum.net/pub/sinclair/games/s/SumTrouble(Cynthia).tap.zip
-sum-trouble-cynthia.z80
---sim-load
---tape-name "sum_trouble_-_cynthia.tap"
---tape-sum 0c57e8fb26e85b45a7479debaaeaf58e
---start 1343
---sim-load-config finish-tape=1

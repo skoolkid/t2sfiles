@@ -1,7 +1,0 @@
-https://worldofspectrum.net/pub/sinclair/games/m/MadamImAdam(Palin2).tap.zip
-madam-im-adam-palin-2.z80
---sim-load
---tape-name "madam_im_adam_(palin2).tap"
---tape-sum 486158f7d5680397f008b9c7fe52eca7
---start 1343
---sim-load-config finish-tape=1
