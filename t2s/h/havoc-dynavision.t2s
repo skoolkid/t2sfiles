@@ -1,12 +1,5 @@
-; 7805 is the address of the 'OUT (C),A' instruction that performs the
-; 'OUT 254,253' command in line 130 of the BASIC loader. Starting here (instead
-; of the game's true start address at 25580) is required to make the game's
-; keyboard-reading routines work. (The Z80 snapshot format has no slot for the
-; last OUT to port 0xFE.)
-
 https://worldofspectrum.net/pub/sinclair/games/h/Havoc.tzx.zip
-havoc-dynavision.z80
---sim-load
+havoc-dynavision.szx
 --tape-name "Havoc.tzx"
 --tape-sum f20d1c4c4b0344992dffb07760b1a9ed
---start 7805
+--start 25580
