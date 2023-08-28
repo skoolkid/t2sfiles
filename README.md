@@ -104,24 +104,24 @@ Now run SkoolKit's `trace.py` on the resultant snapshot to see where the
 execution path leads now that the LOAD has completed:
 
     $ trace.py -v --max-operations 100 zynaps.z80
-    $FD29 1F       RRA
-    $FD2A D0       RET NC
-    $FD2B A9       XOR C
-    $FD2C E620     AND $20
-    $FD2E 28F3     JR Z,$FD23
+    $FD29 RRA
+    $FD2A RET NC
+    $FD2B XOR C
+    $FD2C AND $20
+    $FD2E JR Z,$FD23
     ...
-    $FD14 7A       LD A,D
-    $FD15 B3       OR E
-    $FD16 20CA     JR NZ,$FCE2
-    $FD18 7C       LD A,H
-    $FD19 FE01     CP $01
-    $FD1B C9       RET
-    $FE9C 30D6     JR NC,$FE74
-    $FE9E C9       RET
-    $FE54 2162FE   LD HL,$FE62
-    $FE57 11005B   LD DE,$5B00
-    $FE5A 011200   LD BC,$0012
-    $FE5D EDB0     LDIR
+    $FD14 LD A,D
+    $FD15 OR E
+    $FD16 JR NZ,$FCE2
+    $FD18 LD A,H
+    $FD19 CP $01
+    $FD1B RET
+    $FE9C JR NC,$FE74
+    $FE9E RET
+    $FE54 LD HL,$FE62
+    $FE57 LD DE,$5B00
+    $FE5A LD BC,$0012
+    $FE5D LDIR
     ...
 
 If you're familiar with how loading routines look, you can make an educated
