@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Spellbound128.tzx.zip
+spellbound-128k.z80
+--tape-name "Spellbound - 128k.tzx"
+--tape-sum ca204f25c8f53c5d70fba708cbabf4d1
+--start 23316
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

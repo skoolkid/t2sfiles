@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/ACE2088.tzx.zip
+ace-2088-128k.z80
+--tape-name "ACE 2088 - Side B.tzx"
+--tape-sum 59e707a3a7d2258a165fa5761241b4ae
+--start 65212
+--sim-load-config machine=128
+--sim-load-config accelerator=speedlock

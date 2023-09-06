@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/g/Gladiator128.tzx.zip
+gladiator-128k.z80
+--tape-name "Gladiator - 128k.tzx"
+--tape-sum e08b6830f6d1fc7b5cd4cd311c7f521f
+--start 36327
+--sim-load-config machine=128

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/k/KnightTyme128.tzx.zip
+knight-tyme-128k.z80
+--tape-name "Knight Tyme - 128k.tzx"
+--tape-sum c4a9b9c5526a52553e3937f3629fffa4
+--start 23316
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

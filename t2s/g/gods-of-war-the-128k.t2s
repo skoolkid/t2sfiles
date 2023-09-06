@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/g/GodsOfWarThe128.tzx.zip
+gods-of-war-the-128k.z80
+--tape-name "The Gods Of War - 128k.tzx"
+--tape-sum 0a3b64ba18fdfc8feee06ded9ccf6df6
+--start 34821
+--sim-load-config machine=128

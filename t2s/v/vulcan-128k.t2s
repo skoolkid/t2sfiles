@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/v/Vulcan.tzx.zip
+vulcan-128k.z80
+--tape-name "Vulcan - 128k.tzx"
+--tape-sum 843fe54fb0e3cce7eba7c7064b4f9f67
+--start 23316
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

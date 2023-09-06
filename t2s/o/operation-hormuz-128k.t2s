@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/o/OperationHormuz.tzx.zip
+operation-hormuz-128k.z80
+--tape-name "Operation Hormuz.tzx"
+--tape-sum 4b458d1c93752929e1bef2509a502ce8
+--start 23316
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

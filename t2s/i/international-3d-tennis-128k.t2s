@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/i/International3DTennis.tzx.zip
+international-3d-tennis-128k.z80
+--tape-name "International 3D Tennis - Side B.tzx"
+--tape-sum fbf9a0d78db1b870dfa1ed117350202a
+--start 48733
+--sim-load-config machine=128
+--sim-load-config accelerator=speedlock
+--sim-load-config finish-tape=1
