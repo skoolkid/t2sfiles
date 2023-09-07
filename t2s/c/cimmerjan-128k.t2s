@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Cimmerjan_4.tap.zip
+cimmerjan-128k.z80
+--tape-name "Cimmerjan - 128K Version.tap"
+--tape-sum 0aeb669d521d8ad74ebfa240fbff4b45
+--start 34905
+--sim-load-config machine=128

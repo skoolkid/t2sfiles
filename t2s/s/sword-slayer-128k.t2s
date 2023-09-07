@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SwordSlayer.tzx.zip
+sword-slayer-128k.z80
+--tape-name "Sword Slayer - Side B.tzx"
+--tape-sum 16259ca229e0f2cfcae7671eb613e037
+--start 65429
+--sim-load-config machine=128
+--sim-load-config accelerator=speedlock

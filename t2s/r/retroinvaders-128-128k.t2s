@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/r/Retroinvaders128.tap.zip
+retroinvaders-128-128k.z80
+--tape-name "RI128k.tap"
+--tape-sum 1a5bb68f2b75a9890570bdbde472e802
+--start 24076
+--sim-load-config machine=128

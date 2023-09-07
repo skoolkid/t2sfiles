@@ -1,6 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/b/BeyondTheIcePalace.tzx.zip
-beyond-the-ice-palace-side-2.z80
---sim-load
+beyond-the-ice-palace-128k.z80
 --tape-name "Beyond The Ice Palace - Side 2.tzx"
 --tape-sum 85d11116146f482b0edbb2d59401b958
---start 24832
+--start 23316
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TurboKartRacer.tzx.zip
+turbo-kart-racer-128k.z80
+--tape-name "Turbo Kart Racer - Side B.tzx"
+--tape-sum 6d259b535e3ff2d79936124e704acc9b
+--start 24654
+--sim-load-config machine=128

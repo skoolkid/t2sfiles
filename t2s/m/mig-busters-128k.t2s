@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MiGBusters.tzx.zip
+mig-busters-128k.z80
+--tape-name "Mig Busters - Side 2.tzx"
+--tape-sum ac9392286d7ce380b25c7b63a2a8d606
+--start 25055
+--sim-load-config machine=128
