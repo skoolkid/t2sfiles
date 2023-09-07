@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/f/FairlightII48.tzx.zip
+fairlight-ii.z80
+--tape-name "Fairlight II - 48k - Side 1.tzx"
+--tape-sum 70682f6506cc4740a57bbc9174be9ae4
+--start 64470
+--sim-load-config accelerator=alkatraz

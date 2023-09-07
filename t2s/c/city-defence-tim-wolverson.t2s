@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CityDefence(1).tap.zip
+city-defence-tim-wolverson.z80
+--tape-name "CITYDEF1.TAP"
+--tape-sum d041e3da67d42af9c69149874d131ece
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": OUT 254,255: RUN'
+--state issue2=1
