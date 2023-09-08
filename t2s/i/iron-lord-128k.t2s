@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/i/IronLord.tzx.zip
+iron-lord-128k.z80
+--tape-name "Iron Lord - Side 2.tzx"
+--tape-sum c67ca707c76497c2c44aecf87c71b7ae
+--start 23981
+--sim-load-config machine=128
+--tape-stop 12

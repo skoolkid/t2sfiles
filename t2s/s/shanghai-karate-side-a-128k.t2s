@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/s/ShanghaiKarate.tzx.zip
+shanghai-karate-side-a-128k.z80
+--tape-name "Shanghai Karate - Side A.tzx"
+--tape-sum 57d99727c88808922497ecdbb680d14f
+--start 24716
+--sim-load-config machine=128
+--tape-stop 11
+--sim-load-config accelerator=speedlock
