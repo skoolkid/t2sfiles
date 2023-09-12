@@ -1,7 +1,0 @@
-https://worldofspectrum.net/pub/sinclair/games/s/Star(1).tap.zip
-star-l-j-wilkinson.z80
---sim-load
---tape-name "Star.tap"
---tape-sum f6be38bd16a9d630a025aad95251cf2c
---start 1343
---sim-load-config finish-tape=1
