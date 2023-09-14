@@ -1,0 +1,7 @@
+; Contributed by Bedazzle
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0000317/ATPTourSimulator.tzx.zip
+atp-tour-simulator.z80
+--sim-load
+--tape-name "ATPTourSimulator.tzx"
+--tape-sum 3ca8bdf6ea565945bf762d84883c8aef
+--start 24200
