@@ -1,7 +1,0 @@
-https://worldofspectrum.net/pub/sinclair/games/m/MiniBankRaid(JimWaterman).tap.zip
-mini-bank-raid.z80
---sim-load
---tape-name "MiniBankRaid.tap"
---tape-sum b339993cf3f32766dd7cc48fbea015b7
---start 1343
---sim-load-config finish-tape=1
