@@ -1,0 +1,7 @@
+; Contributed by Bedazzle
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0000379/BadDream.tzx.zip
+bad-dream.z80
+--sim-load
+--tape-name "BadDream.tzx"
+--tape-sum 5a0f861c8f0da4a83c03fcbf0a4beae2
+--start 24200
