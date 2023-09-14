@@ -1,8 +1,0 @@
-https://worldofspectrum.net/pub/sinclair/games/d/DickyDuck.tzx.zip
-dicky-duck.z80
---sim-load
---tape-name "Dicky Duck.tzx"
---tape-sum 735f3ff04c1bf6162755cbba933de921
---start 1343
---sim-load-config machine=128
---sim-load-config finish-tape=1
