@@ -1,7 +1,7 @@
-https://worldofspectrum.net/pub/sinclair/games/g/GoldDigger(JimWaterman).tap.zip
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0013287/GoldDigger.tap.zip
 gold-digger-stephen-lathrope.z80
 --tape-name "GoldDigger.tap"
---tape-sum f4ed9b1f86217ccf09e2fa6a8e0ec47d
+--tape-sum a1feafb789ab6db58523e84abcba2ef5
 --start 1343
 --sim-load-config finish-tape=1
 --sim-load-config 'load=LOAD "": RUN'

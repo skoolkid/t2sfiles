@@ -1,7 +1,0 @@
-https://worldofspectrum.net/pub/sinclair/games/g/Grumphers(JimWaterman).tap.zip
-grumphers-john-litherland.z80
---sim-load
---tape-name "Grumphers.tap"
---tape-sum ad1ed3cc1cfe975d4615c8c0e65de78c
---start 1343
---sim-load-config finish-tape=1

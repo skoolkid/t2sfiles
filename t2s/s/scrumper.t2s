@@ -1,7 +1,7 @@
-https://worldofspectrum.net/pub/sinclair/games/s/Scrumper(JimWaterman).tap.zip
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0013295/Scrumper.tap.zip
 scrumper.z80
---sim-load
 --tape-name "Scrumper.tap"
---tape-sum 4d2825940c3428ac51fbc5dc99ec1422
+--tape-sum b08b494c571c08483ed3dedc4988ad6f
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

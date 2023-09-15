@@ -1,7 +1,7 @@
-https://worldofspectrum.net/pub/sinclair/games/c/Cricket(JimWaterman).tap.zip
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0013282/Cricket.tap.zip
 cricket-hugh-williams.z80
---sim-load
 --tape-name "Cricket.tap"
---tape-sum e32635df32550ab990f73fdd501c87c0
+--tape-sum a2847a76210fc5c167912d7d521e1020
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'
