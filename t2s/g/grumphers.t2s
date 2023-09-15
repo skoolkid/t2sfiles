@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/g/Grumphers.tap.zip
+grumphers.z80
+--tape-name "GRUMPHER.TAP"
+--tape-sum f11b060a7cad8a4de49579176e64d0e6
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'
