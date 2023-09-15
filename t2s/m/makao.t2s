@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Makao.tap.zip
+makao.z80
+--sim-load
+--tape-name "MAKAO.TAP"
+--tape-sum c8fb71021c5110a8c5744307a2f2e577
+--start 1343
+--sim-load-config finish-tape=1

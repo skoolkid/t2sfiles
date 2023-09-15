@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MundoSubterraneo.tap.zip
+mundo-subterraneo.z80
+--tape-name "Mundo Subterraneo.tap"
+--tape-sum 1a2f6d14a3466a454e94ee5c65a135e0
+--start 34905
+--sim-load-config machine=128

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/h/Hybrid.tzx.zip
+hybrid.z80
+--sim-load
+--tape-name "Hybrid.tzx"
+--tape-sum 1bf355debdc4fca284c889555e6d6c2f
+--start 23455
+--sim-load-config accelerator=bleepload

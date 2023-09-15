@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Pheenix.zip
+pheenix.z80
+--sim-load
+--tape-name "Pheenix.tzx"
+--tape-sum f8308895de5ad5d920641db554007c0e
+--start 30105

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/e/EFMB-EndlessFormsMostBeautiful.tap.zip
+efmb-endless-forms-most-beautiful.z80
+--sim-load
+--tape-name "endlessforms0.tap"
+--tape-sum f25e4159a7a69f7113d856cc8a75265e
+--start 32768

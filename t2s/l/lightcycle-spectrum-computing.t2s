@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/l/Lightcycle48.tap.zip
+lightcycle-spectrum-computing.z80
+--sim-load
+--tape-name "LightCycle.tap"
+--tape-sum 6822243030c6f2ea3f0644ecff8e95f7
+--start 1343
+--sim-load-config finish-tape=1

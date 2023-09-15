@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/k/Kraj.tap.zip
+kraj.z80
+--sim-load
+--tape-name "Kraj.tap"
+--tape-sum 729619d914d8d6f9baac69bd3a4b0ffd
+--start 1343
+--sim-load-config finish-tape=1

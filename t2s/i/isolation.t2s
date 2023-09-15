@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/i/Isolation.tap.zip
+isolation.z80
+--tape-name "ISOLATE.TAP"
+--tape-sum fe68dbcc2c98e73c1e510272415cf62e
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

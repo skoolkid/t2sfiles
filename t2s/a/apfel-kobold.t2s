@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/Apfel-Kobold.tzx.zip
+apfel-kobold.z80
+--sim-load
+--tape-name "Apfelkobold.tzx"
+--tape-sum a4aa16a447702d3ffd8bbb7bcbbc8a11
+--start 1343
+--sim-load-config finish-tape=1

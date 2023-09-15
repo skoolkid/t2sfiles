@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/r/Rollermaze.tap.zip
+rollermaze.z80
+--sim-load
+--tape-name "RollerMaze.tap"
+--tape-sum e24ea134288f5968094168944e558ee7
+--start 1343
+--sim-load-config finish-tape=1

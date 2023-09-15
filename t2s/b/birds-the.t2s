@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BirdsThe_2.tzx.zip
+birds-the.z80
+--sim-load
+--tape-name "The Birds.tzx"
+--tape-sum 557cc60efbb34f529021be62b24187d9
+--start 29901

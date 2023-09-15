@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Cozumel.tzx.zip
+cozumel-side-b.z80
+--sim-load
+--tape-name "Cozumel - Side B.tzx"
+--tape-sum ad554d6625f5e9f4064c041b604593c7
+--start 25086

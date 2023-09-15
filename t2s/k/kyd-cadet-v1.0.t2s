@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/k/KydCadetV1.2.tzx.zip
+kyd-cadet-v1.0.z80
+--sim-load
+--tape-name "KYD12.tzx"
+--tape-sum c61c5949b3f6fabb25be53b42d8f7254
+--start 1343
+--sim-load-config finish-tape=1

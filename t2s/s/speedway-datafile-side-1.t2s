@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Speedway-Datafile.tzx.zip
+speedway-datafile-side-1.z80
+--sim-load
+--tape-name "Speedway - Datafile - Side 1.tzx"
+--tape-sum 616766e9e18c924372ceb9f1df1586f6
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/InternationalTennis.zip
+international-tennis.z80
+--sim-load
+--tape-name "International Tennis.tzx"
+--tape-sum d5318d81d926b776b98ae9b1350550fc
+--start 65069

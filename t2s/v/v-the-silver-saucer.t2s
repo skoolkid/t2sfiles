@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/v/V-TheSilverSaucer.tzx.zip
+v-the-silver-saucer.z80
+--sim-load
+--tape-name "V - The Silver Saucer.tzx"
+--tape-sum 1534fc5952c45662e8e36dccc2aeba01
+--start 25063

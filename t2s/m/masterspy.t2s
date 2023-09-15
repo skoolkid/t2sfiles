@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Masterspy.tzx.zip
+masterspy.z80
+--sim-load
+--tape-name "Masterspy.tzx"
+--tape-sum 6631d7f15517d562a81a5f3939350098
+--start 57819
+--sim-load-config accelerator=dinaload

@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Screwie.tap.zip
+screwie.z80
+--sim-load
+--tape-name "Screwie.tap"
+--tape-sum 82fa9541600b1137a9f70a7022d81f5a
+--start 57165
+--tape-stop 9
+--sim-load-config accelerator=speedlock

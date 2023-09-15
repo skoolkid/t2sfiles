@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/f/Fish.tap.zip
+fish.z80
+--tape-name "FISH.TAP"
+--tape-sum 243e0a24624f6e53a19d44d0e6c9c7cf
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

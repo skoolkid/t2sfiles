@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Boggle.tap.zip
+boggle.z80
+--tape-name "Boggle.tap"
+--tape-sum b3c80b86b98b3ae5ff709cf13a67a60f
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

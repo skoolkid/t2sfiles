@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TimeMachine(SmallCardboardCase)(MCMSoftwareS.A.).tzx.zip
+time-machine.z80
+--sim-load
+--tape-name "Time Machine - Small Cardboard Case (MCM).tzx"
+--tape-sum 017d7872931f2b80a8b705baff4f4131
+--start 24670

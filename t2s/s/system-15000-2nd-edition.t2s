@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/System15000-2ndEdition.tzx.zip
+system-15000-2nd-edition.z80
+--sim-load
+--tape-name "System 15000 - 2nd Edition.tzx"
+--tape-sum 2930d9102f2b70fccf975e9ca64de3fe
+--start 1343
+--sim-load-config finish-tape=1

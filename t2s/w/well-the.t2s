@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/w/WellThe.tap.zip
+well-the.z80
+--sim-load
+--tape-name "The Well.tap"
+--tape-sum dba0393a1e3c05331c713f539b35e230
+--start 1343
+--sim-load-config finish-tape=1

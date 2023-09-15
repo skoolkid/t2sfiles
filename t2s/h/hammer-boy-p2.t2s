@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/h/HammerBoy.tzx.zip
+hammer-boy-p2.z80
+--sim-load
+--tape-name "Hammer Boy.tzx"
+--tape-sum 5b00d34f807e424277c4bf4a33eb0213
+--start 64919
+--tape-start 10
+--sim-load-config finish-tape=1

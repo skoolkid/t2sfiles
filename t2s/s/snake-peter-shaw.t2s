@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Snake(NigelBland).tap.zip
+snake-peter-shaw.z80
+--sim-load
+--tape-name "Snake.tap"
+--tape-sum 2b121b42057d390c3ccd39c67fdf85f4
+--start 1343
+--sim-load-config finish-tape=1

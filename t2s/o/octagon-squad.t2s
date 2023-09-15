@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/o/OctagonSquad.tzx.zip
+octagon-squad.z80
+--sim-load
+--tape-name "Octagon Squad.tzx"
+--tape-sum 0b3b573ca210f0d3be77eb09981c05a3
+--start 32768

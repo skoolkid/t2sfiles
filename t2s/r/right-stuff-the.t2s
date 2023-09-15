@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RightStuffThe.tap.zip
+right-stuff-the.z80
+--sim-load
+--tape-name "RIGHTSTU.TAP"
+--tape-sum 28ea5df7fc1dc9a1366228e6a93ca2f4
+--start 1343
+--sim-load-config finish-tape=1

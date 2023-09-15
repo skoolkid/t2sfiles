@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/h/HeddasRevenge.tzx.zip
+heddas-revenge.z80
+--tape-name "Hedda's Revenge.tzx"
+--tape-sum 483135c76e145c27bb3c97ae02cd72c7
+--start 34887
+--sim-load-config machine=128

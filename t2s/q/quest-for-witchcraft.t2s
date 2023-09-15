@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/q/QuestForWitchcraft.tap.zip
+quest-for-witchcraft.z80
+--sim-load
+--tape-name "QuestForWitchcraft.tap"
+--tape-sum b6fe979b7a43088ccb4423dcc72daa85
+--start 24576

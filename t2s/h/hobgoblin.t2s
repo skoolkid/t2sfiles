@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/h/Hobgoblin.tzx.zip
+hobgoblin.z80
+--sim-load
+--tape-name "Hobgoblin.tzx"
+--tape-sum 03a2a5dc8508b82601f98ac0b7d993a1
+--start 32805
+--sim-load-config accelerator=rom

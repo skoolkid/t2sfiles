@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/l/LunarLanding.tzx.zip
+lunar-landing-richard-altwasser.z80
+--sim-load
+--tape-name "Lunar Landing.tzx"
+--tape-sum 1c9108876b72f202db174cdce4505a3c
+--start 1343
+--sim-load-config finish-tape=1

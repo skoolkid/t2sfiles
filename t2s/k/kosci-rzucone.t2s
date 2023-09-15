@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/k/KosciRzucone.tap.zip
+kosci-rzucone.z80
+--sim-load
+--tape-name "KOSCI.TAP"
+--tape-sum 963aa3cdab25fefffc69b3f6b434f52d
+--start 1343
+--sim-load-config finish-tape=1

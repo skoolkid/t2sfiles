@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Siege.tzx.zip
+siege-mike-singleton.z80
+--sim-load
+--tape-name "Siege.tzx"
+--tape-sum c33bb012247055d02a73771bd9a5b6d8
+--start 1343
+--sim-load-config finish-tape=1

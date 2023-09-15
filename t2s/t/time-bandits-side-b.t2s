@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TimeBandits.tzx.zip
+time-bandits-side-b.z80
+--sim-load
+--tape-name "Time Bandits - Side B.tzx"
+--tape-sum 145ecaaad7a81fc454548ed32d083468
+--start 1343
+--sim-load-config finish-tape=1

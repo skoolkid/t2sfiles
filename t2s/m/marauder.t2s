@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Marauder.tzx.zip
+marauder.z80
+--sim-load
+--tape-name "Marauder.tzx"
+--tape-sum a4574b657b9ac81f90f67a46f1eb9e9b
+--start 65133
+--sim-load-config accelerator=rom

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Syntax.tzx.zip
+syntax.z80
+--sim-load
+--tape-name "Syntax.tzx"
+--tape-sum a5f79961ddd8bd60c039862e153be34b
+--start 29971

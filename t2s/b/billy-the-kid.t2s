@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BillyTheKid.tzx.zip
+billy-the-kid.z80
+--sim-load
+--tape-name "BillyTheKid.tzx"
+--tape-sum d9e43a585224ac2aa9b923fcfca32cd6
+--start 1343
+--sim-load-config finish-tape=1

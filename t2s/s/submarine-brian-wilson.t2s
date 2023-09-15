@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Submarine_2.tap.zip
+submarine-brian-wilson.z80
+--tape-name "depth.tap"
+--tape-sum 39eaf115412237eaa3d7d848f2042de7
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

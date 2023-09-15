@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CastleQuest_2.tzx.zip
+castle-quest-wildest-dreams.z80
+--sim-load
+--tape-name "Castle Quest (Wildest Dreams).tzx"
+--tape-sum e7cea7d5e696a2723cccded75e928c4e
+--start 26500

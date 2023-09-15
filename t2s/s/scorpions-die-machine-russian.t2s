@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Scorpions-DieMachine.tap.zip
+scorpions-die-machine-russian.z80
+--sim-load
+--tape-name "SCORPIOR.TAP"
+--tape-sum bd1b9d453f1c766159edc5f32f53ea88
+--start 27000
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MysteriousFairground.tzx.zip
+mysterious-fairground.z80
+--sim-load
+--tape-name "Mysterious Fairground.tzx"
+--tape-sum 80358c9bed709ff26060e845a7345b67
+--start 25063

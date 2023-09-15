@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/r/Rhun.tap.zip
+rhun.z80
+--sim-load
+--tape-name "Rhun.tap"
+--tape-sum 50c6511c25663d732bb2477deb2ac8e9
+--start 1343
+--sim-load-config finish-tape=1

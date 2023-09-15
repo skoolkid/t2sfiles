@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Moonsweeper.zip
+moonsweeper.z80
+--sim-load
+--tape-name "Moonsweeper.tzx"
+--tape-sum 25e85c537db8e219920dc5ceaa413566
+--start 48864

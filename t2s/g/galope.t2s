@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/g/Galope.tap.zip
+galope.z80
+--sim-load
+--tape-name "Galope.tap"
+--tape-sum 4c91a6ab43553e14bffcc545ec84c62d
+--start 1343
+--sim-load-config finish-tape=1

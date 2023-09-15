@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PepsiCola.tzx.zip
+pepsi-cola.z80
+--sim-load
+--tape-name "PEPSICOL.TZX"
+--tape-sum d857e7ebfb9d9f0c9ffec75b7a1e9c2a
+--start 63850
+--tape-stop 11
+--sim-load-config accelerator=speedlock

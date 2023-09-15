@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/TheExtricator-Release3.zip
+extricator-the-release-3.z80
+--sim-load
+--tape-name "The Extricator - Release 3.tzx"
+--tape-sum 07c86a6ae324553e1b1f8bc22ec7dba6
+--start 24997

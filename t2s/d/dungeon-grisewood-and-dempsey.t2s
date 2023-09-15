@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/Dungeon.tap.zip
+dungeon-grisewood-and-dempsey.z80
+--tape-name "dungeon.tap"
+--tape-sum 4b9d03220f9d08c90fac756007edc1f7
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

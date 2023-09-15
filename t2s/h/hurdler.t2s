@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/h/Hurdler.tap.zip
+hurdler.z80
+--sim-load
+--tape-name "Hurdler.tap"
+--tape-sum e7b31e2616da805d40d9e631491797f4
+--start 1343
+--sim-load-config finish-tape=1

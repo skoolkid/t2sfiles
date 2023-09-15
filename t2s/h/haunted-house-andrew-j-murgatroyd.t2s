@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/h/HauntedHouse.tzx.zip
+haunted-house-andrew-j-murgatroyd.z80
+--sim-load
+--tape-name "Haunted House.tzx"
+--tape-sum b0479b5345bca805f559266a874e3db0
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BattleOfBritain(BatalhaDeInglaterra)(MicrobyteSoftware2).tzx.zip
+batalha-de-ingleterra.z80
+--sim-load
+--tape-name "batalha.tzx"
+--tape-sum e1497d7db4bb6a5a7d98d6b17db5af54
+--start 1343
+--sim-load-config finish-tape=1

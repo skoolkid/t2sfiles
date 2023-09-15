@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/Driver2-Leeds-Settle-Carlisle.tzx.zip
+driver-2-leeds-settle-carlisle.z80
+--sim-load
+--tape-name "Driver 2 - Leeds - Settle - Carlisle.tzx"
+--tape-sum 1f6508714494f83ebb49e3c80c841006
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/e/EstaEnElPantano.tzx.zip
+esta-en-el-pantano.z80
+--sim-load
+--tape-name "RLV905_Esta_en_el_Pantano.TZX"
+--tape-sum 590b0400d6974dd365834fad037e38e2
+--start 24576
+--sim-load-config finish-tape=1

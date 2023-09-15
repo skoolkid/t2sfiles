@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/i/Intensity.tzx.zip
+intensity.z80
+--sim-load
+--tape-name "Intensity.tzx"
+--tape-sum 941e091e31b569ea2dec6c2ffcd52c02
+--start 23946
+--sim-load-config accelerator=bleepload

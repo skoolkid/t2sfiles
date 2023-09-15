@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CreepyCrawler.tzx.zip
+creepy-crawler.z80
+--sim-load
+--tape-name "Creepy Crawler.tzx"
+--tape-sum 283996ce6c78cd30470485f856c655f0
+--start 1343
+--sim-load-config finish-tape=1

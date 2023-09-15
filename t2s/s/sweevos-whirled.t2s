@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SweevosWhirled.tzx.zip
+sweevos-whirled.z80
+--tape-name "Sweevo's Whirled.tzx"
+--tape-sum f9c25fca707c72fbbad3fec8d1bc0449
+--start 29140
+--sim-load-config machine=128

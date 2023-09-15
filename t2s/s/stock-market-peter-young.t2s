@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/StockMarket_2.tap.zip
+stock-market-peter-young.z80
+--sim-load
+--tape-name "STOCKMKT.TAP"
+--tape-sum 1ab83d1e7e8e6055a7fe76c0d73f7da8
+--start 1343
+--sim-load-config finish-tape=1

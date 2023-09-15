@@ -1,0 +1,7 @@
+https://tzxvault.org/Spectrum/TZX/Cloud99.zip
+cloud-99.z80
+--sim-load
+--tape-name "Cloud 99 - 48k.tzx"
+--tape-sum b4a13bf5dbd121072c9b0f2edddd1570
+--start 36376
+--sim-load-config finish-tape=1

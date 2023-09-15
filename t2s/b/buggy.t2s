@@ -3,4 +3,5 @@ buggy.z80
 --sim-load
 --tape-name "Buggy.tzx"
 --tape-sum ebd65b5014aed90cc1b5c314fe001e09
---start 51000
+--start 1343
+--sim-load-config finish-tape=1

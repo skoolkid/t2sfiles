@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/f/FeudalOverlord.tzx.zip
+feudal-overlord.z80
+--sim-load
+--tape-name "Feudal Overlord.tzx"
+--tape-sum ae226afa7fd0ced37d6ad43722de4114
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/StarTrader_2.tap.zip
+star-trader-emm.z80
+--sim-load
+--tape-name "STARTRAD.TAP"
+--tape-sum 06f852f9de10ee062cac2f86d0cdbfd9
+--start 1343
+--sim-load-config finish-tape=1

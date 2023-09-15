@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/g/Gallipoli.tzx.zip
+gallipoli.z80
+--sim-load
+--tape-name "Gallipoli - 48k.tzx"
+--tape-sum 1cdd5f519c467f434e67b910e171052d
+--start 23367
+--sim-load-config finish-tape=1

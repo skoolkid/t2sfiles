@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/Tetris_3.tap.zip
+tetris-rafii.z80
+--sim-load
+--tape-name "TETRIS_1.TAP"
+--tape-sum 286114760dc71beced5481a632aa5b1a
+--start 1343
+--sim-load-config finish-tape=1

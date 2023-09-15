@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/r/Rogue.tzx.zip
+rogue.z80
+--sim-load
+--tape-name "Rogue.tzx"
+--tape-sum 6c99c77b261016537acfcb82d0469d0d
+--start 50766

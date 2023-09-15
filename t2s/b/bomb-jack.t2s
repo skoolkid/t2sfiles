@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BombJack.tzx.zip
+bomb-jack.z80
+--sim-load
+--tape-name "Bomb Jack.tzx"
+--tape-sum e65cff394d7d67c24a34bd878c98816a
+--start 65258
+--sim-load-config accelerator=bleepload

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SQIJ.tzx.zip
+sqij.z80
+--sim-load
+--tape-name "Sqij.tzx"
+--tape-sum 226666d66880b3b737e434eee438655f
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AdventureE-GoldenApple.tzx.zip
+golden-apple-the.z80
+--sim-load
+--tape-name "The Golden Apple.tzx"
+--tape-sum 5478d2792b6003e076991d0468757ab3
+--start 23762

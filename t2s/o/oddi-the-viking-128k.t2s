@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/o/OddiTheViking128.tzx.zip
+oddi-the-viking-128k.z80
+--tape-name "Oddi The Viking [128K].tzx"
+--tape-sum c3c12910f3659fec24030769631b1740
+--start 65031
+--sim-load-config machine=128
+--sim-load-config accelerator=rom

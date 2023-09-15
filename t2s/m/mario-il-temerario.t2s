@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MarioIlTemerario.tzx.zip
+mario-il-temerario.z80
+--sim-load
+--tape-name "MarioIlTemerario.tzx"
+--tape-sum e5ec62b4a5a5c9d65dd678c9262af1e1
+--start 24001

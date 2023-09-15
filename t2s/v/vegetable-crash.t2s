@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/v/VegetableCrash.tap.zip
+vegetable-crash.z80
+--sim-load
+--tape-name "VEGETABL.TAP"
+--tape-sum 3a2a04890219a619f06d8fac46f2d35e
+--start 32768

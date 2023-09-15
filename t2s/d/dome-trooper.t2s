@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DomeTrooper.tzx.zip
+dome-trooper.z80
+--sim-load
+--tape-name "Dome Trooper.tzx"
+--tape-sum fb7776538a29184e2f38eb9135f33b73
+--start 16386

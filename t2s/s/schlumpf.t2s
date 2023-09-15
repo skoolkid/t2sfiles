@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Schlumpf.tap.zip
+schlumpf.z80
+--sim-load
+--tape-name "SCHLUMPF.TAP"
+--tape-sum 5c8e2f7e7f64a9ff6179f7c3b9fc1a79
+--start 1343
+--sim-load-config finish-tape=1

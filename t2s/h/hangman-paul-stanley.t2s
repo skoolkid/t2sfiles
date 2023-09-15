@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/h/Hangman_4.tap.zip
+hangman-paul-stanley.z80
+--sim-load
+--tape-name "Hangman.tap"
+--tape-sum 44c0a344cc8e8202943f2c20681dd886
+--start 1343
+--sim-load-config finish-tape=1

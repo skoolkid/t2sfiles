@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Thunderbirds.zip
+thunderbirds-p4.z80
+--sim-load
+--tape-name "Thunderbirds - Part 4.tzx"
+--tape-sum 0653b332f587defda8fb7c3ff555da58
+--start 24112

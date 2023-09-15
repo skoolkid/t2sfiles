@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BristolTempleMeadsPowerbox.tzx.zip
+bristol-temple-meads-powerbox.z80
+--sim-load
+--tape-name "Rail Traffic Control Powerbox Bristol Temple Meads.tzx"
+--tape-sum 6112d4363bfc882337d89b71ee23ea3a
+--start 1343
+--sim-load-config finish-tape=1

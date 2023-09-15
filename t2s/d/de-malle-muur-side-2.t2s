@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MalleMuurDe.tzx.zip
+de-malle-muur-side-2.z80
+--sim-load
+--tape-name "De Malle Muur - Side 2.tzx"
+--tape-sum 8f7efd5e658a780f0c09086a1a07bbba
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DarkestRoad.tzx.zip
+darkest-road-the.z80
+--sim-load
+--tape-name "The Darkest Road.tzx"
+--tape-sum 96699368a97df1a903407bcafe823129
+--start 29169
+--sim-load-config finish-tape=1

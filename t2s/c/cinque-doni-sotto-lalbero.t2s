@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CinqueDoniSottoLAlbero.tzx.zip
+cinque-doni-sotto-lalbero.z80
+--sim-load
+--tape-name "CinqueDoniSottoLAlbero.tzx"
+--tape-sum 67c9adcdb0b637cf4f30564aacddac8c
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/StadhouderVanFlipflopland.tap.zip
+stadhouder-van-flipflopland.z80
+--sim-load
+--tape-name "STADHOUD.TAP"
+--tape-sum 3c9b9e3e727f73f5e849627b4fb1cacf
+--start 1343
+--sim-load-config finish-tape=1

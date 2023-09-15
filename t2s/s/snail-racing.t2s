@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Snail-Racing.tzx.zip
+snail-racing.z80
+--sim-load
+--tape-name "snails.tzx"
+--tape-sum 96f1c64db12ca64aea637ce47567e385
+--start 1343
+--sim-load-config finish-tape=1

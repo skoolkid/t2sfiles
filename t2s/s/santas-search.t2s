@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SantasSearch.tap.zip
+santas-search.z80
+--sim-load
+--tape-name "SANTASEA.TAP"
+--tape-sum 7d02fe87bbec17a26ee3d34b5c972f9e
+--start 1343
+--sim-load-config finish-tape=1

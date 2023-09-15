@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/i/Implosion.tzx.zip
+implosion-128k.z80
+--tape-name "Implosion - 128k.tzx"
+--tape-sum 921c7964cf949cc2f30d3fc5f4ea74b2
+--start 32768
+--sim-load-config machine=128

@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Sector-90.zip
+sector-90.z80
+--sim-load
+--tape-name "Sector-90.tzx"
+--tape-sum 6d4b59b06546a73b9c1aed2beb192d98
+--start 23791

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MicroPuzzle.tap.zip
+micro-puzzle.z80
+--sim-load
+--tape-name "MicroPuzzle.tap"
+--tape-sum 726e528d8a71e70a57ddf6f8fced4673
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/l/LeakyRoof.tap.zip
+leaky-roof.z80
+--sim-load
+--tape-name "LeakyRoof.tap"
+--tape-sum 896ac4036b3b0d4dde83c468763fda3b
+--start 1343
+--sim-load-config finish-tape=1

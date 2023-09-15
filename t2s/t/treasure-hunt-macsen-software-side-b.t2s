@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TreasureHunt_2.tzx.zip
+treasure-hunt-macsen-software-side-b.z80
+--sim-load
+--tape-name "Treasure Hunt - Side B.tzx"
+--tape-sum 224a5d59e146fb966ab482c77c88d1b1
+--start 32768

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Score3020.tzx.zip
+score-3020.z80
+--sim-load
+--tape-name "Score 3020.tzx"
+--tape-sum a9579de91e5c36a5e01f97e02b9cb89f
+--start 53312
+--sim-load-config accelerator=rom

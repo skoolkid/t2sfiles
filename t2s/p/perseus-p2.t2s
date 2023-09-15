@@ -1,0 +1,7 @@
+https://tzxvault.org/Spectrum/TZX/Perseus.zip
+perseus-p2.z80
+--sim-load
+--tape-name "Perseus - Part 2.tzx"
+--tape-sum 2392edecee94ffcabe06130075028b51
+--start 29201
+--sim-load-config finish-tape=1

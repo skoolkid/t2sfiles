@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/ChuckieEgg.tzx.zip
+chuckie-egg.z80
+--sim-load
+--tape-name "Chuckie Egg.tzx"
+--tape-sum 08804f90e4a45aaa8180cc1338248033
+--start 24504

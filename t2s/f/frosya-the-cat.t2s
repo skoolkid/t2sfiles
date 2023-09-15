@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/f/FrosyaTheCat.tzx.zip
+frosya-the-cat.z80
+--tape-name "Jet Set Willy - Frosya The Cat.tzx"
+--tape-sum 2b87aad8c956bf1cdf0db7c0b4a17e3a
+--start 33792
+--sim-load-config machine=128

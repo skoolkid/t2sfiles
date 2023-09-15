@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/i/Invaders_2.tap.zip
+invaders-design-design.z80
+--sim-load
+--tape-name "INVADER3.TAP"
+--tape-sum 73b9f5318f16136dbcfcaf95a4e981ac
+--start 32768

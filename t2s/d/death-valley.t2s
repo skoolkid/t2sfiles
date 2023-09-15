@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DeathValley.tap.zip
+death-valley.z80
+--sim-load
+--tape-name "DeathValley.tap"
+--tape-sum bd07e1018df4672ef82f8a051417dc6a
+--start 1343
+--sim-load-config finish-tape=1

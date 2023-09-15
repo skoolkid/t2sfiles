@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/y/Yahtzee.tzx.zip
+yahtzee-pilatti.z80
+--sim-load
+--tape-name "Yahtzee.tzx"
+--tape-sum 3468846338cc4de49dea340acda2b53b
+--start 1343
+--sim-load-config finish-tape=1

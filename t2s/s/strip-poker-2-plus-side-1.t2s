@@ -1,0 +1,7 @@
+https://tzxvault.org/Spectrum/TZX/StripPoker2+.zip
+strip-poker-2-plus-side-1.z80
+--sim-load
+--tape-name "Strip Poker 2+ - Side 1.tzx"
+--tape-sum beb2ccb4e82434f9bc977dcd462bea5e
+--start 38257
+--sim-load-config finish-tape=1

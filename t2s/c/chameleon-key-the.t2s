@@ -1,0 +1,7 @@
+https://tzxvault.org/Spectrum/TZX/TheChameleonKey.zip
+chameleon-key-the.z80
+--sim-load
+--tape-name "The Chameleon Key.tzx"
+--tape-sum 99868a896dfec33589236bbb7ac35022
+--start 29169
+--sim-load-config finish-tape=1

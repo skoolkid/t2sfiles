@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/f/Flippit.tzx.zip
+flippit.z80
+--sim-load
+--tape-name "Flippit.tzx"
+--tape-sum 3a2e9728427303635fb5fac6f99e9a5b
+--start 1343
+--sim-load-config finish-tape=1

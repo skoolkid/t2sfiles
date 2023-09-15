@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BlockBuster.tzx.zip
+block-buster-adam-bull.z80
+--sim-load
+--tape-name "Block Buster.tzx"
+--tape-sum ae75606cecf8a321261679c3340e7d06
+--start 1343
+--sim-load-config finish-tape=1

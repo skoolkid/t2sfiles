@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MutantArachnid.tap.zip
+mutant-arachnid.z80
+--sim-load
+--tape-name "MUTARACH.TAP"
+--tape-sum 6eaec51ad3a7cebd6b44970e8b765562
+--start 1343
+--sim-load-config finish-tape=1

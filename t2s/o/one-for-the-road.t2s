@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/OneForTheRoad.zip
+one-for-the-road.z80
+--sim-load
+--tape-name "One For The Road.tzx"
+--tape-sum 135c6352e5c8777df4c2444bd08b2a4e
+--start 26490

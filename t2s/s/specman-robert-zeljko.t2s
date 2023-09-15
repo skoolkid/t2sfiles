@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SpecMan_2.tzx.zip
+specman-robert-zeljko.z80
+--sim-load
+--tape-name "SpecMan.tzx"
+--tape-sum c73fc28d7e21c0576de6eb2e33cc6852
+--start 39146

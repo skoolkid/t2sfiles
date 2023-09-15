@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/l/Lover.tzx.zip
+lover.z80
+--sim-load
+--tape-name "Lover.tzx"
+--tape-sum 9ce33b44e8f2b7ef1746ffad8231b2ce
+--start 1343
+--sim-load-config finish-tape=1

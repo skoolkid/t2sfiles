@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Crimbo.tap.zip
+crimbo.z80
+--sim-load
+--tape-name "CRIMBO.TAP"
+--tape-sum d8793edc9faa3de8e6f69a5c2b1801e3
+--start 24926

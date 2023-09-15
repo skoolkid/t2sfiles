@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MetalArmy.tzx.zip
+metal-army.z80
+--sim-load
+--tape-name "Metal Army.tzx"
+--tape-sum 0424d21b88a44a927e24654b5b640ce2
+--start 65354
+--tape-stop 8
+--sim-load-config accelerator=speedlock

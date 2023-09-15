@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CrystalQuest.tzx.zip
+crystal-quest-keith-burnard.z80
+--sim-load
+--tape-name "Crystal Quest (Keith Burnard).tzx"
+--tape-sum 8535478e79cfd65e85cec9b2080cfe24
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

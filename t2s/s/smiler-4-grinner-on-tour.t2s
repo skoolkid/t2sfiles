@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Smiler4-GrinnerOnTour.tap.zip
+smiler-4-grinner-on-tour.z80
+--sim-load
+--tape-name "smiler4.tap"
+--tape-sum 0a8593fff5153335e6b59180260ea0af
+--start 32768

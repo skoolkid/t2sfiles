@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Microbowl.tap.zip
+microbowl.z80
+--sim-load
+--tape-name "Micro Bowl.tap"
+--tape-sum 103532857a6377d340953ab742f8cd73
+--start 1343
+--sim-load-config finish-tape=1

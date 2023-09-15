@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/Thanos(BUGFIX).tzx.zip
+thanos-bugfix.z80
+--sim-load
+--tape-name "Thanos - Bugfix.tzx"
+--tape-sum 7b8c82e798e57e83f474001b43b6b486
+--start 24000

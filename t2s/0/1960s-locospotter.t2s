@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/123/1960sLocospotter.tzx.zip
+1960s-locospotter.z80
+--sim-load
+--tape-name "1960's Locospotter.tzx"
+--tape-sum f0a4345ea3a523caa71f159cd02f9cea
+--start 1343
+--sim-load-config finish-tape=1

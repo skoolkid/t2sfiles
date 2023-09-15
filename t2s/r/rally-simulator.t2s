@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/RallySimulator.zip
+rally-simulator.z80
+--sim-load
+--tape-name "Rally Simulator.tzx"
+--tape-sum e9e3f4ecea5d646fd4f79e9667b30ecc
+--start 25885

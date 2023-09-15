@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/l/LeedsPowerbox.tzx.zip
+leeds-powerbox.z80
+--sim-load
+--tape-name "Leeds Powerbox.tzx"
+--tape-sum 2b9c010597219e4d2d9a6e88cb5094eb
+--start 1343
+--sim-load-config finish-tape=1

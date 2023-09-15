@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/f/Frankenstein.tzx.zip
+frankenstein-p3.z80
+--sim-load
+--tape-name "Frankenstein - Side B.tzx"
+--tape-sum 9ef93bf01d21a49568a8af76ff1d010b
+--start 64362
+--sim-load-config accelerator=speedlock

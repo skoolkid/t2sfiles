@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/l/LostTapesOfAlbionThe.tap.zip
+lost-tapes-of-albion-the.z80
+--sim-load
+--tape-name "thelosttapesofalbion0.tap"
+--tape-sum dea011a55f3a629c61a88ec6369c88fc
+--start 33000

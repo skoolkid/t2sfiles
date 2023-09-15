@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SpaceEscape.tzx.zip
+space-escape.z80
+--sim-load
+--tape-name "Space Escape.tzx"
+--tape-sum 6424829c9378f49cad0ccb12def6f846
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/CrazyCars.zip
+crazy-cars-titus.z80
+--sim-load
+--tape-name "Crazy Cars.tzx"
+--tape-sum 2f4fe6a576a47e1f4db7eb421ae43bbc
+--start 23847

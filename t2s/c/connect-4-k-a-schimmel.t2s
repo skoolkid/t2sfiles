@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Connect4_4.tap.zip
+connect-4-k-a-schimmel.z80
+--sim-load
+--tape-name "CONNECT4.TAP"
+--tape-sum 7edc13de9ba17ff248d36f0db134e0dd
+--start 1343
+--sim-load-config finish-tape=1

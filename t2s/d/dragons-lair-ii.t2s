@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DragonsLairII-EscapeFromSingesCastle.tzx.zip
+dragons-lair-ii.z80
+--sim-load
+--tape-name "Dragon's Lair 2 - Side 1.tzx"
+--tape-sum ed5dee7c3dd0f61f74dff9e97f3c6252
+--start 64525
+--sim-load-config finish-tape=1

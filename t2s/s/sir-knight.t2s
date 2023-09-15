@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SirKnight.tap.zip
+sir-knight.z80
+--sim-load
+--tape-name "S_KNIGHT.TAP"
+--tape-sum 12f75b10715e016c7c2dbbe550045961
+--start 26100

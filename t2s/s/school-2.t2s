@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/School2.tzx.zip
+school-2.z80
+--sim-load
+--tape-name "school2.tzx"
+--tape-sum 0caef6b080361d1f84ce088450f618de
+--start 25000
+--tape-stop 6

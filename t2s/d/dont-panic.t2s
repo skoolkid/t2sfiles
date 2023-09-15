@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DontPanic.tzx.zip
+dont-panic.z80
+--sim-load
+--tape-name "Don't Panic.tzx"
+--tape-sum be23dcdb35625294a776504859422824
+--start 25466
+--sim-load-config accelerator=rom

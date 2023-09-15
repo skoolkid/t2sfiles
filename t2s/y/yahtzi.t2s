@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/y/Yahtzi.tap.zip
+yahtzi.z80
+--sim-load
+--tape-name "YAHTZI.TAP"
+--tape-sum ab2ddc796a0695706964552678f76b02
+--start 1343
+--sim-load-config finish-tape=1

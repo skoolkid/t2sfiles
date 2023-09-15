@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BangerRacer.tzx.zip
+banger-racer.z80
+--sim-load
+--tape-name "Banger Racer.tzx"
+--tape-sum 7c9180fa2231f1ef71a888cd61722a3f
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Metabolis.tzx.zip
+metabolis.z80
+--sim-load
+--tape-name "Metabolis.tzx"
+--tape-sum 2a24ff7d24d89b086d69e2e5d154a341
+--start 57354
+--sim-load-config accelerator=rom

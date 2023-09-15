@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DemonLord.tzx.zip
+demon-lord-p2.z80
+--sim-load
+--tape-name "Demon Lord - Part 2.tzx"
+--tape-sum 5d50a954fb1fcae1bd8f1cb1ab8f87d3
+--start 1343
+--sim-load-config finish-tape=1

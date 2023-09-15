@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/g/Galilee.tzx.zip
+galilee.z80
+--sim-load
+--tape-name "GALLILEE.TZX"
+--tape-sum d88e1e9c9b87de8db3a62df226770c8d
+--start 1343
+--sim-load-config finish-tape=1

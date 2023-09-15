@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CaputxetasNewTale.tap.zip
+caputxetas-new-tale-p3.z80
+--sim-load
+--tape-name "Caputxeta's New Tale - Part 3 (without character set).tap"
+--tape-sum f1c9244f5c49578eddac5a708d3b26bb
+--start 29073
+--sim-load-config finish-tape=1

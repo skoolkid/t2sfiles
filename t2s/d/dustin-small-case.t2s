@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/d/Dustin(SmallCase).tzx.zip
+dustin-small-case.z80
+--sim-load
+--tape-name "Dustin - Small Case.tzx"
+--tape-sum d006987da4d736d74ccaf56a0bb22676
+--start 64800

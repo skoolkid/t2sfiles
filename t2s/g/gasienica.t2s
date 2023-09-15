@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/g/Gasienica.tzx.zip
+gasienica.z80
+--sim-load
+--tape-name "Gasienica.tzx"
+--tape-sum f1a1f28043869a169501f9ff1c0d3589
+--start 1343
+--sim-load-config finish-tape=1

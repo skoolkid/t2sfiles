@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/n/NuclearBowls.tzx.zip
+nuclear-bowls.z80
+--sim-load
+--tape-name "Nuclear Bowls.tzx"
+--tape-sum 80c9d2b15cdb6c588a1b73d12d75288e
+--start 61696
+--sim-load-config accelerator=rom

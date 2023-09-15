@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SuperBrat.tzx.zip
+super-brat.z80
+--sim-load
+--tape-name "Super Brat.tzx"
+--tape-sum dfb1904e0c4efa2fcdce0e502fa8b8ef
+--start 1343
+--sim-load-config finish-tape=1

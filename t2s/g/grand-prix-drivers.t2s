@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/g/GrandPrixDrivers.tap.zip
+grand-prix-drivers.z80
+--sim-load
+--tape-name "GPDRIVRS.TAP"
+--tape-sum 4d2d1277b69801cd1b26c977f811679f
+--start 43993

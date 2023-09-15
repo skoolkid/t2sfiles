@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Mindstone.tzx.zip
+mindstone.z80
+--sim-load
+--tape-name "Mindstone.tzx"
+--tape-sum c7082d41fa0dc1c37cb18c4228d2381f
+--start 64600
+--sim-load-config accelerator=alkatraz

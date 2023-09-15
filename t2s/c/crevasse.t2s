@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Crevasse&Hotfoot.zip
+crevasse.z80
+--sim-load
+--tape-name "Crevasse & Hotfoot.tzx"
+--tape-sum 051f1ce4d028e4e2a0502101849db374
+--start 23851

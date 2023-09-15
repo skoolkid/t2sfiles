@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Cybernation.tzx.zip
+cybernation.z80
+--sim-load
+--tape-name "Cybernation.tzx"
+--tape-sum f5c200a172eff377276357864e2a202f
+--start 65519
+--sim-load-config accelerator=rom

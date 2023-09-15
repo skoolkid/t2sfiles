@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AlterEarth.tzx.zip
+alter-earth.z80
+--sim-load
+--tape-name "Alter-Earth.tzx"
+--tape-sum a97ca971c2f1a88d005d733fb3371cff
+--start 25000

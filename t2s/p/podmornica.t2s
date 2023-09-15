@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Podmornica.tap.zip
+podmornica.z80
+--sim-load
+--tape-name "PODMORNI.TAP"
+--tape-sum 589725b7d3244de62845295a81cbf811
+--start 33500

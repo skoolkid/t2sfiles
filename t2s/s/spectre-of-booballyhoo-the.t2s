@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/TheSpectreOfBooballyhoo.zip
+spectre-of-booballyhoo-the.z80
+--sim-load
+--tape-name "The Spectre Of Booballyhoo.tzx"
+--tape-sum 345413fd32e5692d960c83ba62530f88
+--start 34104

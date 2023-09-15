@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/i/IAlien.tzx.zip
+i-alien.z80
+--sim-load
+--tape-name "I Alien.tzx"
+--tape-sum 70ed83d44c333da4dd79af505a32170b
+--start 24100

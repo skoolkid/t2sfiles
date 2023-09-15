@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/d/Dendrology.tap.zip
+dendrology.z80
+--sim-load
+--tape-name "Dendrology.tap"
+--tape-sum 94ac567e2190d71eb3f6528fdc4da010
+--start 23766

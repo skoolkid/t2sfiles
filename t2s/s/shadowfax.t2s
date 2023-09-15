@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Shadowfax.tzx.zip
+shadowfax.z80
+--sim-load
+--tape-name "Shadowfax.tzx"
+--tape-sum 5aea4c8f98e703a8ddbaaea328eef288
+--start 1343
+--sim-load-config finish-tape=1

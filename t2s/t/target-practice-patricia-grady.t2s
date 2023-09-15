@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TargetPractice_2.tap.zip
+target-practice-patricia-grady.z80
+--sim-load
+--tape-name "Target.tap"
+--tape-sum 32b2898b83bcc563c5d30bcf52ae6a85
+--start 1343
+--sim-load-config finish-tape=1

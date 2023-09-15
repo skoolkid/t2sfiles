@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/h/Howzat.tzx.zip
+howzat.z80
+--sim-load
+--tape-name "Howzat.tzx"
+--tape-sum d4821205efe3ca0ed05cc59ca21d68bb
+--start 50548

@@ -1,0 +1,7 @@
+https://tzxvault.org/Spectrum/TZX/BLINK.zip
+blink.z80
+--sim-load
+--tape-name "BLINK.tzx"
+--tape-sum b90240169046808f5fd2621bd8f39ed4
+--start 29169
+--sim-load-config finish-tape=1

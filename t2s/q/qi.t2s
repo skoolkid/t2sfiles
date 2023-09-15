@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/q/Q.I..tap.zip
+qi.z80
+--sim-load
+--tape-name "QI.tap"
+--tape-sum fdd4218b9c4d0c3e26c1048f7253e34d
+--start 1343
+--sim-load-config finish-tape=1

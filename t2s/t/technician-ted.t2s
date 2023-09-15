@@ -1,6 +1,7 @@
-https://www.worldofspectrum.org/pub/sinclair/games/t/TechnicianTed.tzx.zip
+https://worldofspectrum.org/pub/sinclair/games/t/TechnicianTed.tzx.zip
 technician-ted.z80
 --sim-load
 --tape-name "Technician Ted.tzx"
 --tape-sum b55a761f7d3733bc6ac958b10fab0c43
 --start 33731
+--sim-load-config accelerator=rom

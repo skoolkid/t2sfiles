@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/SeasOfBlood.zip
+seas-of-blood.z80
+--sim-load
+--tape-name "Seas Of Blood.tzx"
+--tape-sum 81ecdb11dd6e2558153a8613dcd66b26
+--start 24576

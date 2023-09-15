@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Spectrapede.tzx.zip
+spectrapede.z80
+--sim-load
+--tape-name "Spectrapede.tzx"
+--tape-sum b723ca67a761b903f07166a8af3e7c9f
+--start 40000

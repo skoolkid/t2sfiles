@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/l/Lunaris.tap.zip
+lunaris.z80
+--sim-load
+--tape-name "LUNARIS.TAP"
+--tape-sum 874c332c7b503b3245c3891547d4f884
+--start 32768

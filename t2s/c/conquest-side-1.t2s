@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Conquest.tzx.zip
+conquest-side-1.z80
+--sim-load
+--tape-name "Conquest - Side 1.tzx"
+--tape-sum 4df2a3cafbb909e958a5ac231f2581a9
+--start 1343
+--sim-load-config finish-tape=1

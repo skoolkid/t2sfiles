@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CityBomber_3.tap.zip
+city-bomber-barry-mcgaw.z80
+--tape-name "CITYBOMB.TAP"
+--tape-sum a00edfa7578e79a1826e0e56c5eb0bf0
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Shimmerkin.zip
+shimmerkin.z80
+--sim-load
+--tape-name "Shimmerkin.tzx"
+--tape-sum 9c4f8d745ff6950f4efd93fbaf73e416
+--start 25063

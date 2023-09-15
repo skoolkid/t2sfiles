@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BlackPlanet.tzx.zip
+black-planet-the-side-b.z80
+--sim-load
+--tape-name "The Black Planet - Side B.tzx"
+--tape-sum 69c5c62af982240c8b3d17da9b6ee4e5
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/w/WarriorMage.tzx.zip
+warrior-mage.z80
+--sim-load
+--tape-name "Warrior Mage.tzx"
+--tape-sum 65f3a64a547576852a787166c6744778
+--start 1343
+--sim-load-config finish-tape=1

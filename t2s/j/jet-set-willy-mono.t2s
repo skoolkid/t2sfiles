@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/j/JetSetWilly-Mono.tzx.zip
+jet-set-willy-mono.z80
+--sim-load
+--tape-name "Jet Set Willy - Mono.tzx"
+--tape-sum 376ec1a6203551bc9e58092ceaa5ba47
+--start 33792

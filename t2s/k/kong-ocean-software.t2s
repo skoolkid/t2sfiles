@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/k/Kong_2.tzx.zip
+kong-ocean-software.z80
+--sim-load
+--tape-name "Kong.tzx"
+--tape-sum 4836d33c5f07db1a6818762675468957
+--start 1343
+--sim-load-config finish-tape=1

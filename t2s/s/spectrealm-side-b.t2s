@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Spectrealm.tzx.zip
+spectrealm-side-b.z80
+--sim-load
+--tape-name "Spectrealm - Side B.tzx"
+--tape-sum 5eae481b119358d6bb5abcd5e50ba06c
+--start 1343
+--sim-load-config finish-tape=1

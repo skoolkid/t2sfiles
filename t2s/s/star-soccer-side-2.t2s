@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/StarSoccer.tzx.zip
+star-soccer-side-2.z80
+--sim-load
+--tape-name "Star Soccer - Side 2.tzx"
+--tape-sum 2163861d35b930e6869cfb1eaa4f9608
+--start 1343
+--sim-load-config finish-tape=1

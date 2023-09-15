@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/o/OpenDoorThe.tap.zip
+open-door-the.z80
+--sim-load
+--tape-name "OPENDOOR.TAP"
+--tape-sum 6eeb142d76f06a5c86fb9a3896b94f5d
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RockyHorrorShowThe.tzx.zip
+rocky-horror-show-the.z80
+--sim-load
+--tape-name "The Rocky Horror Show - 48k.tzx"
+--tape-sum ecc1934ebc48c98c5fabd36ff0eed5ef
+--start 65310
+--sim-load-config accelerator=speedlock

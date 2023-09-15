@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SheepdogTrials_2.tap.zip
+sheepdog-trials-robert-erskine.z80
+--sim-load
+--tape-name "Sheepdog Trials.tap"
+--tape-sum 118d854db6687186fe713f8cbdb68629
+--start 1343
+--sim-load-config finish-tape=1

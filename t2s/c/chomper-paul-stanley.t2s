@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Chomper.tap.zip
+chomper-paul-stanley.z80
+--sim-load
+--tape-name "Chomper.tap"
+--tape-sum ebb323b1ee5596cdc049362118295114
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/Typhoon.tzx.zip
+typhoon.z80
+--sim-load
+--tape-name "Typhoon - 48k.tzx"
+--tape-sum 4e97c2944d33c9be3013d93d2283a8ab
+--start 32276

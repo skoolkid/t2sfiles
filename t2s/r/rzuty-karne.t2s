@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RzutyKarne.tzx.zip
+rzuty-karne.z80
+--sim-load
+--tape-name "RzutyKarne.tzx"
+--tape-sum a82278c57113351e26328ae994e3a384
+--start 1343
+--sim-load-config finish-tape=1

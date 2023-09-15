@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/r/Ragnablock.tzx.zip
+ragnablock.z80
+--sim-load
+--tape-name "Ragnablock (1500bps).tzx"
+--tape-sum 76ac8cc7965b7208bb01da5cba9deca6
+--start 57604
+--sim-load-config accelerator=tiny

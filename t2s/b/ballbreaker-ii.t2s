@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BallbreakerII.tzx.zip
+ballbreaker-ii.z80
+--sim-load
+--tape-name "Ballbreaker II.tzx"
+--tape-sum c8ea2110721c9e5955e779caaf0dfea2
+--start 65142
+--sim-load-config accelerator=crl

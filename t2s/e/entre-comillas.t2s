@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/e/EntreComillas.tap.zip
+entre-comillas.z80
+--sim-load
+--tape-name "Entre Comillas.tap"
+--tape-sum a47bef7f905726bc732eb9bac608e7ec
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/w/WorldRally.tap.zip
+world-rally.z80
+--sim-load
+--tape-name "WORLDRAL.TAP"
+--tape-sum 47e294ad6fd6c0bd5670b68c2161299e
+--start 60000

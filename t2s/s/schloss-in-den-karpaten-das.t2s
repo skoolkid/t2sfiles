@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SchlossInDenKarpatenDas.tap.zip
+schloss-in-den-karpaten-das.z80
+--sim-load
+--tape-name "KARPATEN.TAP"
+--tape-sum d93956eb860b26e525afdc06d9a0c2e9
+--start 1343
+--sim-load-config finish-tape=1
+--tape-stop 3

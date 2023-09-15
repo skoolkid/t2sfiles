@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BrianJacksSuperstarChallenge.tzx.zip
+brian-jacks-superstar-challenge.z80
+--sim-load
+--tape-name "Brian Jack's Superstar Challenge - Side 1.tzx"
+--tape-sum 2467ff7b96db409bd3eff8f2231a1249
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CheeseThief.tap.zip
+cheese-thief.z80
+--sim-load
+--tape-name "Cheese Thief.tap"
+--tape-sum a2acbdd78ad7a2502e466e71f5c6fb79
+--start 1343
+--sim-load-config finish-tape=1

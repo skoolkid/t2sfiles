@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BallByBall.tzx.zip
+ball-by-ball.z80
+--sim-load
+--tape-name "Ball By Ball.tzx"
+--tape-sum 763baf9fc99ee27d841a03736316fcbf
+--start 1343
+--tape-stop 10
+--sim-load-config finish-tape=1

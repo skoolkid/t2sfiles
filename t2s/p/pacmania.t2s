@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Pacmania.tzx.zip
+pacmania.z80
+--sim-load
+--tape-name "pacmania.tzx"
+--tape-sum 3891509d99187f41e48545d1ce5aa2fb
+--start 1343
+--sim-load-config finish-tape=1

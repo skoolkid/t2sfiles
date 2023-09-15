@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/y/YourAttentionPlease.tap.zip
+your-attention-please.z80
+--sim-load
+--tape-name "yap.tap"
+--tape-sum bb30c40e365041733c1ad686d8a97b4c
+--start 65318

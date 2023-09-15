@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Cracker.tzx.zip
+cracker.z80
+--sim-load
+--tape-name "CRACKER.TZX"
+--tape-sum 2f30adb95f183de34fc73ddd27e17f43
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config accelerator=rom

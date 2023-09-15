@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/k/KaferAnton.tzx.zip
+kafer-anton.z80
+--sim-load
+--tape-name "Kafer Anton.tzx"
+--tape-sum c3b3b55eba20849d60095ae829057ea3
+--start 1343
+--sim-load-config finish-tape=1

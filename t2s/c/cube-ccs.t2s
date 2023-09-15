@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Cube.tzx.zip
+cube-ccs.z80
+--sim-load
+--tape-name "Cube.tzx"
+--tape-sum 38d207eebfe54eddd60ee794b55891c2
+--start 28020

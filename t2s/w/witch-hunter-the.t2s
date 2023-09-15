@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/w/WitchHunterThe(MasterTape).tzx.zip
+witch-hunter-the.z80
+--sim-load
+--tape-name "Witch Hunter Master Tape.tzx"
+--tape-sum 593214c22cc96c2a22db65193cdbcc1a
+--start 55520

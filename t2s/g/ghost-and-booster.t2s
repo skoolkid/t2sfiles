@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/g/GhostBooster.tzx.zip
+ghost-and-booster.z80
+--sim-load
+--tape-name "Ghost&Booster.tzx"
+--tape-sum f530a05a782c8e5c5cdbf8a2d49a556a
+--start 1343
+--sim-load-config finish-tape=1

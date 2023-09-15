@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/g/GoldRush.tap.zip
+gold-rush-neil-pellinacci.z80
+--sim-load
+--tape-name "GoldRush.tap"
+--tape-sum 1437c0e42ba3a995f1a07a7ce452c84e
+--start 1343
+--sim-load-config finish-tape=1

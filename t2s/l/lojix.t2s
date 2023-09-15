@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/l/Lojix.tzx.zip
+lojix.z80
+--sim-load
+--tape-name "Lojix.tzx"
+--tape-sum ee9b25969e3b786fb1f8ca746d430ea1
+--start 1343
+--sim-load-config finish-tape=1

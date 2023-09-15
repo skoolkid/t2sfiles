@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/StarshipTake-Off.tap.zip
+starship-take-off.z80
+--sim-load
+--tape-name "StarshipTakeOff.tap"
+--tape-sum f63b4a80404273b8c87e08d4cb3ad190
+--start 1343
+--sim-load-config finish-tape=1

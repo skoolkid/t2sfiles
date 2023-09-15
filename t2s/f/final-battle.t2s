@@ -1,0 +1,7 @@
+https://tzxvault.org/Spectrum/TZX/FinalBattle.zip
+final-battle.z80
+--sim-load
+--tape-name "Final Battle.tzx"
+--tape-sum dd14e8cb1ee227bccce22ed8c11cd34a
+--start 29169
+--sim-load-config finish-tape=1

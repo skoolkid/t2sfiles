@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AdventureD-EspionageIsland.tzx.zip
+adventure-d-espionage-island.z80
+--sim-load
+--tape-name "Espionage Island.tzx"
+--tape-sum cdcff36c457502720a270b1b60a03c9f
+--start 40513

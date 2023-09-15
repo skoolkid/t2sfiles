@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Circus.tzx.zip
+circus-digital-fantasia.z80
+--sim-load
+--tape-name "Circus.tzx"
+--tape-sum 108d69b5d79e61edd4840aeed6f1b2c0
+--start 24576

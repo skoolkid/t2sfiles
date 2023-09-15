@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/MutantMonty.zip
+mutant-monty.z80
+--sim-load
+--tape-name "Mutant Monty.tzx"
+--tape-sum bada25803f80253896f4cd47160ffcc6
+--start 54370

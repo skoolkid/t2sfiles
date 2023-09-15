@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MozgProcesor.tzx.zip
+mozg-procesor.z80
+--sim-load
+--tape-name "Mozgprocesor.tzx"
+--tape-sum 1365d5b3e8600c005355dd442e994e87
+--start 47780
+--sim-load-config accelerator=rom

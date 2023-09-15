@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Cavernon.tap.zip
+cavernon.z80
+--sim-load
+--tape-name "Cavernon.tap"
+--tape-sum f2714f24bb5730129eb9de6aa62b0849
+--start 1343
+--sim-load-config finish-tape=1

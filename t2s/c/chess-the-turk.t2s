@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Chess-TheTurk.tzx.zip
+chess-the-turk.z80
+--sim-load
+--tape-name "Chess - The Turk.tzx"
+--tape-sum 98bd653b8bf82f67d59fe2f1b7117c42
+--start 1343
+--tape-stop 11
+--sim-load-config finish-tape=1

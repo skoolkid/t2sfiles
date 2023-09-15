@@ -1,0 +1,7 @@
+https://tzxvault.org/Spectrum/TZX/TeacherTrouble.zip
+teacher-trouble.z80
+--sim-load
+--tape-name "Teacher Trouble.tzx"
+--tape-sum b484ccf5cbae43ce7c07b9d31f9597de
+--start 36376
+--sim-load-config finish-tape=1

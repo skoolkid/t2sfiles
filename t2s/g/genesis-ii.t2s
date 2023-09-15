@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/g/GenesisII.tzx.zip
+genesis-ii.z80
+--sim-load
+--tape-name "Genesis II.tzx"
+--tape-sum 4ddc95b68f4ce1b79e198e4cb3cfe90d
+--start 62601

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MadHouse.tap.zip
+mad-house.z80
+--tape-name "MadHouse.tap"
+--tape-sum 9e03896ae6dfc296669bcacf6d7a97b6
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

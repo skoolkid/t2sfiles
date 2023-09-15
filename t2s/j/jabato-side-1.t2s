@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/j/Jabato.tzx.zip
+jabato-side-1.z80
+--sim-load
+--tape-name "Jabato - Side 1.tzx"
+--tape-sum c6b072f47251e2b2ca586ba44467f953
+--start 65009
+--sim-load-config accelerator=dinaload

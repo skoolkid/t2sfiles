@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/ChambersOfHorrors.tzx.zip
+chambers-of-horrors.z80
+--sim-load
+--tape-name "Chambers Of Horrors.tzx"
+--tape-sum 2ea71143987f1455563656b547457ed8
+--start 1343
+--sim-load-config finish-tape=1

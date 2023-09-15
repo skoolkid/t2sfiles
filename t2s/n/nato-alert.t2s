@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/n/NATOAlert.tzx.zip
+nato-alert.z80
+--sim-load
+--tape-name "NATO Alert.tzx"
+--tape-sum b1c392d707f91f85693dbdb9eb4d5a94
+--start 1343
+--sim-load-config finish-tape=1

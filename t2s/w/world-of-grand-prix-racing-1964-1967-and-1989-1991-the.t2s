@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/w/WorldOfGrandPrixRacing-1964-1967_1989-1991The.tzx.zip
+world-of-grand-prix-racing-1964-1967-and-1989-1991-the.z80
+--sim-load
+--tape-name "The World Of Grand Prix Racing - 1989-1991.tzx"
+--tape-sum b3400fc3ecf4741e15fb0867c60b7232
+--start 1343
+--sim-load-config finish-tape=1

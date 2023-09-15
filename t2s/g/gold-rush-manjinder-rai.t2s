@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/g/GoldRush_3.tap.zip
+gold-rush-manjinder-rai.z80
+--tape-name "GOLDRUSH.TAP"
+--tape-sum 282803f9a1d845abe442e476f86e32aa
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

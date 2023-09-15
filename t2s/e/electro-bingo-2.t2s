@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/e/ElectroBingo2.tap.zip
+electro-bingo-2.z80
+--sim-load
+--tape-name "ELECTRO2.TAP"
+--tape-sum 36216a77e1563d8ba94d40a28a913bf8
+--start 1343
+--sim-load-config finish-tape=1

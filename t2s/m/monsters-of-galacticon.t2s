@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MonstersOfGalacticon.tap.zip
+monsters-of-galacticon.z80
+--sim-load
+--tape-name "MonstersOfGalacticon.tap"
+--tape-sum c6c84f7f9a84c9216ddf99ba9875975d
+--start 1343
+--sim-load-config finish-tape=1

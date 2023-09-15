@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/l/LivingDaylights-TheComputerGameThe.tzx.zip
+living-daylights-the-computer-game-the.z80
+--sim-load
+--tape-name "The Living Daylights.tzx"
+--tape-sum a99cd335795ad7dca9ee3c45f1a435ea
+--start 65135
+--sim-load-config accelerator=speedlock

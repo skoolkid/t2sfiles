@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PatheticPabloBrosThe.tzx.zip
+pathetic-pablo-bros-the.z80
+--sim-load
+--tape-name "PABLO.TZX"
+--tape-sum 8b777e2825e7390a30d2339edcb994b3
+--start 60296
+--sim-load-config accelerator=rom

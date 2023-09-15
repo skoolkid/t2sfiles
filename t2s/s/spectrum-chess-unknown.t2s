@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SpectrumChess.tap.zip
+spectrum-chess-unknown.z80
+--sim-load
+--tape-name "Spectrum Chess.tap"
+--tape-sum f84bab14f8531ac2623e9804430ef6d8
+--start 1343
+--sim-load-config finish-tape=1

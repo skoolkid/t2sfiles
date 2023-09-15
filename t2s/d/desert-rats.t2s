@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DesertRats.tzx.zip
+desert-rats.z80
+--sim-load
+--tape-name "Desert Rats - Side 1.tzx"
+--tape-sum 7ea16230fd68690da573c9f483cfd962
+--start 30332

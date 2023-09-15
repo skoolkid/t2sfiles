@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SlapFight.tzx.zip
+slap-fight.z80
+--sim-load
+--tape-name "Slap Fight.tzx"
+--tape-sum 5b650e5b687ead5c87960c9f978c9a32
+--start 64305
+--sim-load-config accelerator=speedlock

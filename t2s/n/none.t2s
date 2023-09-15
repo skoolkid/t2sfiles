@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/n/None.tap.zip
+none.z80
+--sim-load
+--tape-name "None.tap"
+--tape-sum 8f02e235b0753ac81bcdd46004516ad4
+--start 1343
+--sim-load-config finish-tape=1

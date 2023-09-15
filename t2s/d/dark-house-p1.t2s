@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DarkHouse.tap.zip
+dark-house-p1.z80
+--sim-load
+--tape-name "Darkhouse - Part 1.tap"
+--tape-sum e7865447ed74f4e7a1de1f01a8873f2b
+--start 34905
+--sim-load-config machine=128

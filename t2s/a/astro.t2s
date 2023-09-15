@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/Astro.tzx.zip
+astro.z80
+--sim-load
+--tape-name "Astro.tzx"
+--tape-sum e9e07c8f358c195dad69a2453ec337cf
+--start 1343
+--sim-load-config finish-tape=1

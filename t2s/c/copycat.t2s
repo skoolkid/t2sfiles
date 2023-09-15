@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Copycat.tzx.zip
+copycat.z80
+--sim-load
+--tape-name "Copycat.tzx"
+--tape-sum 141fe704a79a7026cb47f0f6698f893f
+--start 1343
+--sim-load-config finish-tape=1

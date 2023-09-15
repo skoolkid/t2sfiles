@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/TheRealm.zip
+realm-the.z80
+--sim-load
+--tape-name "The Realm.tzx"
+--tape-sum b592244c0bfe58854c1301bd5656bd36
+--start 25000

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PinkPanther.tzx.zip
+pink-panther.z80
+--sim-load
+--tape-name "Pink Panther.tzx"
+--tape-sum e729fe606645ea9991f0f58f81c10320
+--start 44064
+--tape-stop 12

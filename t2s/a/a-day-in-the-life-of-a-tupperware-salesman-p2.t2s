@@ -1,6 +1,7 @@
-https://www.worldofspectrum.org/pub/sinclair/games/d/DayInTheLifeOfATupperwareSalesmanA.tzx.zip
+https://worldofspectrum.org/pub/sinclair/games/d/DayInTheLifeOfATupperwareSalesmanA.tzx.zip
 a-day-in-the-life-of-a-tupperware-salesman-p2.z80
 --sim-load
 --tape-name "A Day In The Life Of A Tupperware Salesman - Part 2.tzx"
 --tape-sum 4c8034c55e002b11035872982861b6b0
-; --start 29201
+--start 29201
+--sim-load-config finish-tape=1

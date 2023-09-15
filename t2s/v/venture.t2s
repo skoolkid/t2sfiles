@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/compilations/v/Venture.tzx.zip
+venture.z80
+--sim-load
+--tape-name "Venture - 48k.tzx"
+--tape-sum ae41891f859e44cd1ba0d337c82090b0
+--start 1343
+--sim-load-config finish-tape=1

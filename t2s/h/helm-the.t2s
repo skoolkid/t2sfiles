@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/h/HelmThe.tzx.zip
+helm-the.z80
+--sim-load
+--tape-name "The Helm.tzx"
+--tape-sum 29e6deefb418811c0770704df9f8ee01
+--start 62656
+--sim-load-config accelerator=rom

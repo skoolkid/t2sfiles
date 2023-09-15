@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/g/GrowingPainsOfAdrianMoleThe.tzx.zip
+growing-pains-of-adrian-mole-the-p2.z80
+--sim-load
+--tape-name "The Growing Pains Of Adrian Mole - Side 1.tzx"
+--tape-sum 7370f8b1c7d5070457c217352f09fa52
+--start 61935
+--tape-start 11
+--sim-load-config accelerator=rom

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MazeMaker.tap.zip
+maze-maker.z80
+--sim-load
+--tape-name "MazeMaker.tap"
+--tape-sum 13125206e90e867f831e71156b874600
+--start 1343
+--sim-load-config finish-tape=1

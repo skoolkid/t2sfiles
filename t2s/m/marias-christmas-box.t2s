@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MariasChristmasBox.tzx.zip
+marias-christmas-box.z80
+--sim-load
+--tape-name "Maria's Christmas Box.tzx"
+--tape-sum 222c985a076167bdec2ed5d28c484b47
+--start 38298
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SpaceRescue.tzx.zip
+space-rescue-darryl-lecount.z80
+--sim-load
+--tape-name "Space Rescue/SRESCUE.TZX"
+--tape-sum 0aa40eb727101ec83e8cbf776f6f273c
+--start 1343
+--sim-load-config finish-tape=1

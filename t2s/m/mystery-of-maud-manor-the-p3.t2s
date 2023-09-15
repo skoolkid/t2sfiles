@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MysteryOfMaudManorThe.tzx.zip
+mystery-of-maud-manor-the-p3.z80
+--sim-load
+--tape-name "Maud Manor (Part 3).tzx"
+--tape-sum 62acf60426e8da4ffdf6661273ce51d7
+--start 1343
+--sim-load-config finish-tape=1

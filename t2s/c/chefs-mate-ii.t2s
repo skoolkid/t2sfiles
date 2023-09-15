@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/ChefsMateII.tap.zip
+chefs-mate-ii.z80
+--sim-load
+--tape-name "CHEF2.TAP"
+--tape-sum 0bcace14135c344d17a360c7146ef400
+--start 1343
+--sim-load-config finish-tape=1

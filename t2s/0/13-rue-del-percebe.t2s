@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/123/13RueDelPercebe.tzx.zip
+13-rue-del-percebe.z80
+--sim-load
+--tape-name "13 Rue Del Percebe.tzx"
+--tape-sum f331b077c5206cdb5111b6c29977a565
+--start 1343
+--sim-load-config finish-tape=1

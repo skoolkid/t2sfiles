@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Biff.tzx.zip
+biff.z80
+--sim-load
+--tape-name "Biff.tzx"
+--tape-sum f95b39cfb6029244098508617523c4a1
+--start 64604
+--sim-load-config accelerator=rom

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/f/FindTheRabbit.tap.zip
+find-the-rabbit.z80
+--tape-name "FINDRABB.TAP"
+--tape-sum 5898d262453ff908f168ec86d5177d2a
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

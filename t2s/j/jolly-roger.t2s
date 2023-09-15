@@ -1,0 +1,7 @@
+https://tzxvault.org/Spectrum/TZX/JollyRoger.zip
+jolly-roger.z80
+--sim-load
+--tape-name "Jolly Roger.tzx"
+--tape-sum 48733a13b545f2c80381c9d04d322028
+--start 1343
+--sim-load-config finish-tape=1

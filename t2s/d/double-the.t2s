@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DoubleThe.tzx.zip
+double-the.z80
+--sim-load
+--tape-name "The Double.tzx"
+--tape-sum fc954cd54b91258fac620a5c748bae61
+--start 65068
+--sim-load-config accelerator=rom

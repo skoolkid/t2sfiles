@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RaidersOfTheLostTomb.tzx.zip
+raiders-of-the-lost-tomb-p1.z80
+--tape-name "Raiders Of The Lost Tomb - Part 1.tzx"
+--tape-sum 4a8084efebb73d2c3854845681879faa
+--start 34887
+--sim-load-config machine=128

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/Austerlitz(MCLothlorienLtd).tzx.zip
+austerlitz.z80
+--sim-load
+--tape-name "Battle Of Austerlitz.tzx"
+--tape-sum 79fd56b7fe81ca23d75fd3cb7b43ad24
+--start 1343
+--sim-load-config finish-tape=1

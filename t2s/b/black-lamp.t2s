@@ -1,6 +1,7 @@
-https://spectrumcomputing.co.uk/pub/sinclair/games/b/BlackLamp.tzx.zip
+https://worldofspectrum.net/pub/sinclair/games/b/BlackLamp.tzx.zip
 black-lamp.z80
 --sim-load
 --tape-name "Black Lamp.tzx"
 --tape-sum fc9dd17a32679eeff80504af26e81d9b
 --start 24783
+--sim-load-config accelerator=bleepload

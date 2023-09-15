@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/Anti-MissileDefence.tap.zip
+anti-missile-defence.z80
+--sim-load
+--tape-name "Anti-MissileDefence.tap"
+--tape-sum 4169368b8afe453e7dd0d94df265a54c
+--start 1343
+--sim-load-config finish-tape=1

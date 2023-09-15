@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/LostInTheDesert.zip
+lost-in-the-desert.z80
+--sim-load
+--tape-name "Lost In The Desert.tzx"
+--tape-sum 817540358207d13437bec2e02d015976
+--start 25000

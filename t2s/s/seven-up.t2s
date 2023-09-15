@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SevenUp.tzx.zip
+seven-up.z80
+--sim-load
+--tape-name "Seven Up.tzx"
+--tape-sum a4889f32cb9d34012b873518bb486ae0
+--start 1343
+--sim-load-config finish-tape=1

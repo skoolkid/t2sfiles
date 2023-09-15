@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PremierPromoter.tzx.zip
+premier-promoter.z80
+--sim-load
+--tape-name "Premier Promoter.tzx"
+--tape-sum 17a7c4226583a5435f798836bbd080ff
+--start 1343
+--sim-load-config finish-tape=1

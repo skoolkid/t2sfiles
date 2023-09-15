@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Spherical.tzx.zip
+spherical.z80
+--sim-load
+--tape-name "Spherical.tzx"
+--tape-sum 19b9a9cd40790d53918633ad57fa090c
+--start 1343
+--sim-load-config finish-tape=1

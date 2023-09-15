@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Magus.zip
+magus.z80
+--sim-load
+--tape-name "Magus.tzx"
+--tape-sum 493daee07db312de7c9a0ef8232c9ce6
+--start 25063

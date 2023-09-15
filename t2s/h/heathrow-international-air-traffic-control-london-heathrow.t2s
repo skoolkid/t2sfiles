@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/h/HeathrowInternationalAirTrafficControl.tzx.zip
+heathrow-international-air-traffic-control-london-heathrow.z80
+--sim-load
+--tape-name "Heathrow International Air Traffic Control - London Heathrow.tzx"
+--tape-sum 20f9870da5a1dba09f8446ec16ac07bd
+--start 55800
+--sim-load-config accelerator=rom

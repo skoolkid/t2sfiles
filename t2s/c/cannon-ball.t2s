@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CannonBall.tap.zip
+cannon-ball.z80
+--sim-load
+--tape-name "CANNBALL.TAP"
+--tape-sum be71bca8a1da5e59d113463b5e7d5c4b
+--start 32768

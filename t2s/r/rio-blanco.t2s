@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RioBlanco.tap.zip
+rio-blanco.z80
+--sim-load
+--tape-name "RIOBLANC.TAP"
+--tape-sum 1ca939b8afff74eeddacf71652d6acd8
+--start 54277

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/Tron_4.tap.zip
+tron-werner-spahl.z80
+--sim-load
+--tape-name "TRONB_1.TAP"
+--tape-sum f2ab9c29ac6fb7301351bea3697c78d2
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Confusion_2.tzx.zip
+confusion-disco-vogue.z80
+--sim-load
+--tape-name "Confusion.tzx"
+--tape-sum d00628853bc2a498b607bc868ab35d46
+--start 1343
+--sim-load-config finish-tape=1

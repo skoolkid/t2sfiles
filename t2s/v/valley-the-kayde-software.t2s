@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/v/ValleyThe_2.tzx.zip
+valley-the-kayde-software.z80
+--tape-name "The Valley (Kayde).tzx"
+--tape-sum 56f98ce9668584d60c805eacf04e5785
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

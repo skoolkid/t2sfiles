@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Mindbender.tzx.zip
+mindbender-p2.z80
+--sim-load
+--tape-name "Mindbender - Part 2.tzx"
+--tape-sum 3cfe06af43895caf54da8957038bcb79
+--start 25000
+--tape-stop 8

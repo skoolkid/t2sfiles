@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SettlementXIII.tzx.zip
+settlement-xiii-p2.z80
+--sim-load
+--tape-name "Settlement XIII - Part 2.tzx"
+--tape-sum a9f133b666e64b3b3b81eb678aaf9acd
+--start 29169
+--sim-load-config finish-tape=1

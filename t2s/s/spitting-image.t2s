@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SpittingImage.tzx.zip
+spitting-image.z80
+--sim-load
+--tape-name "Spitting Image - Side 1.tzx"
+--tape-sum 4db924562f38831cc6e78400148bdf3c
+--start 65155
+--sim-load-config accelerator=speedlock

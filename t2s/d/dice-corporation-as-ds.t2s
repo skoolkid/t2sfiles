@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/Dice.tap.zip
+dice-corporation-as-ds.z80
+--sim-load
+--tape-name "BONES.TAP"
+--tape-sum 4a486c96c2eb2a11bddfb9da4b0ee082
+--start 1343
+--sim-load-config finish-tape=1

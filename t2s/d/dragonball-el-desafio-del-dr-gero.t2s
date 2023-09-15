@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DragonBall-ElDesafioDelDoctorGero.tzx.zip
+dragonball-el-desafio-del-dr-gero.z80
+--sim-load
+--tape-name "DragonBall - El desafio del Dr Gero (1994).tzx"
+--tape-sum 4d29f8614309430f3aa6102cd848c83a
+--start 65241
+--sim-load-config fast-load=0
+--sim-load-config accelerator=rom,bleepload

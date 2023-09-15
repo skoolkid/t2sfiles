@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TunelesMarcianos.tzx.zip
+tuneles-marcianos.z80
+--sim-load
+--tape-name "Tuneles Marcianos.tzx"
+--tape-sum 68c5cc6399fcaea5f58a3efdf9c3f75d
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/q/QuannTulla(Federation)(CRLGroupPLC).tzx.zip
+federation.z80
+--sim-load
+--tape-name "Federation.tzx"
+--tape-sum 0a2a9400b9f131f2b5f69e2d2b396924
+--start 23358
+--sim-load-config accelerator=rom,crl4

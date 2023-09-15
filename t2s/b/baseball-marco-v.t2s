@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Baseball.tzx.zip
+baseball-marco-v.z80
+--sim-load
+--tape-name "Baseball.tzx"
+--tape-sum b4b78c406b7796096f7e25e535b4beba
+--start 1343
+--sim-load-config finish-tape=1

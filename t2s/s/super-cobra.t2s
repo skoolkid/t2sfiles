@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SuperCobra.tap.zip
+super-cobra.z80
+--sim-load
+--tape-name "SUPCOBRA.TAP"
+--tape-sum 922e67a1c73bb58c29deab9ab53d6de3
+--start 1343
+--sim-load-config finish-tape=1

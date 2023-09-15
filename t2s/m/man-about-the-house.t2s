@@ -1,0 +1,7 @@
+https://tzxvault.org/Spectrum/TZX/ManAboutTheHouse.zip
+man-about-the-house.z80
+--sim-load
+--tape-name "Man About The House.tzx"
+--tape-sum c4cb1f5daf386ec34df5532d47bbbd18
+--start 29169
+--sim-load-config finish-tape=1

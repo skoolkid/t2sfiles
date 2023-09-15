@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AntarcticDiamonds.tzx.zip
+antarctic-diamonds.z80
+--sim-load
+--tape-name "Antarctic-Diamonds.tzx"
+--tape-sum eb39f5434496789ac231f53b42cb8bbe
+--start 23831
+--tape-stop 6

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/l/LostTwilightThe.tzx.zip
+lost-twilight-the.z80
+--tape-name "The Lost Twilight.tzx"
+--tape-sum 9f15336247f519673344ec7a1c46b0c3
+--start 34887
+--sim-load-config machine=128

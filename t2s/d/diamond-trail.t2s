@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/DiamondTrail.zip
+diamond-trail.z80
+--sim-load
+--tape-name "Diamond Trail.tzx"
+--tape-sum 1dc42684d87dd64f7b6c2f03c21a7320
+--start 41846

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/g/GrimwoldsBigAdventure.tzx.zip
+grimwolds-big-adventure.z80
+--sim-load
+--tape-name "Grimwolds Big Adventure.tzx"
+--tape-sum e3880a0d9c20660dbc89d261b05d556f
+--start 29201
+--sim-load-config finish-tape=1

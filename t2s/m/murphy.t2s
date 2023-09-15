@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Murphy.tzx.zip
+murphy.z80
+--sim-load
+--tape-name "Murphy.tzx"
+--tape-sum cc10c293ed71505e681093691fb5c3c3
+--start 23296
+--sim-load-config accelerator=speedlock

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CardGames.tzx.zip
+card-games-side-1.z80
+--sim-load
+--tape-name "Card Games - Side 1.tzx"
+--tape-sum ba5e51d96b595aa13678f94dddf76e1c
+--start 1343
+--sim-load-config finish-tape=1

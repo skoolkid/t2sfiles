@@ -1,0 +1,7 @@
+https://tzxvault.org/Spectrum/TZX/ChopperDrop-Release1.zip
+chopper-drop-release-1.z80
+--sim-load
+--tape-name "Chopper Drop - Release 1.tzx"
+--tape-sum cc6ea661ed94957b99429d3628023278
+--start 1343
+--sim-load-config finish-tape=1

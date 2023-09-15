@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Parejas.tzx.zip
+parejas.z80
+--sim-load
+--tape-name "Parejas.tzx"
+--tape-sum 23de5f697e6f120a2a556f3fc2a24ba1
+--start 1343
+--sim-load-config finish-tape=1

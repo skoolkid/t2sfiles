@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Robotics.zip
+robotics.z80
+--sim-load
+--tape-name "Robotics.tzx"
+--tape-sum 278969a840c7fe5ad5aa873c9ee16cd4
+--start 24484

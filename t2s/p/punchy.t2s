@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Punchy.zip
+punchy.z80
+--sim-load
+--tape-name "Punchy.tzx"
+--tape-sum ed9846699485ad838a8fa06cdc323f54
+--start 23310

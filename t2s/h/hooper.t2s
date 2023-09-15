@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/h/Hooper.tap.zip
+hooper.z80
+--sim-load
+--tape-name "HOOPER.TAP"
+--tape-sum 75bad3cb584ba69574fb776e9378ee09
+--start 1343
+--sim-load-config finish-tape=1

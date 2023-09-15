@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/compilations/d/DragonstarTrilogyThe.tzx.zip
+dragonstar-trilogy-the-p3.z80
+--sim-load
+--tape-name "The Dragonstar Trilogy - Side 2 (GI Games).tzx"
+--tape-sum 6fa431c55151f6af34324a58e1eae765
+--start 1343
+--sim-load-config finish-tape=1

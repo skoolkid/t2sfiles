@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/v/VoleurLe.tzx.zip
+voleur-le.z80
+--sim-load
+--tape-name "VoleurLe.tzx"
+--tape-sum 04a7f1b3309f9d2dab28569483a1dacc
+--start 1343
+--sim-load-config finish-tape=1

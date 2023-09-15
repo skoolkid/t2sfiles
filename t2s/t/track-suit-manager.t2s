@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/TrackSuitManager.zip
+track-suit-manager.z80
+--sim-load
+--tape-name "Track Suit Manager.tzx"
+--tape-sum c1f253f15c8153c3c872bbe77b37afc4
+--start 55627

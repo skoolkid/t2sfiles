@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/Albatrossity.tap.zip
+albatrossity.z80
+--sim-load
+--tape-name "Albatros.tap"
+--tape-sum a5bd813ad1ab97f1b34ef57597241b03
+--start 24000
+--tape-stop 5

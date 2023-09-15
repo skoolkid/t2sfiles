@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/q/QuestForEternity.tzx.zip
+quest-for-eternity.z80
+--sim-load
+--tape-name "Quest For Eternity.tzx"
+--tape-sum 0ee1ea3b465954aa17625cc2eac99836
+--start 1343
+--sim-load-config finish-tape=1

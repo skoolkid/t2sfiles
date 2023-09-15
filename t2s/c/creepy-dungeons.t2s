@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CreepyDungeons.tap.zip
+creepy-dungeons.z80
+--sim-load
+--tape-name "CREEPYDN.TAP"
+--tape-sum 273e17bddfe11d4bf73e7836cb42e9cb
+--start 43500

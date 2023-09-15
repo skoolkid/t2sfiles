@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/e/EscapeFromThePlanetOfTheRobotMonsters.tzx.zip
+escape-from-the-planet-of-the-robot-monsters.z80
+--sim-load
+--tape-name "Escape From The Planet Of The Robot Monsters - Side 1.tzx"
+--tape-sum 6a2f82e8ca0f42924289004f7a02d17c
+--start 16400
+--tape-stop 7
+--sim-load-config accelerator=rom

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SkiRun_2.tap.zip
+ski-run-mr-davis.z80
+--sim-load
+--tape-name "SkiRun.tap"
+--tape-sum 4e5bb94c7c07a26ece0a42c575bc59a0
+--start 1343
+--sim-load-config finish-tape=1

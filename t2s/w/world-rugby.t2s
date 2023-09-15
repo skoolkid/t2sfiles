@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/w/WorldRugby.tzx.zip
+world-rugby.z80
+--sim-load
+--tape-name "World Rugby.tzx"
+--tape-sum 331bdf212c4d7214cbf57b401051eec9
+--start 24530

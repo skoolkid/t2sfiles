@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BargainBasement.tzx.zip
+bargain-basement.z80
+--sim-load
+--tape-name "Bargain Basement.tzx"
+--tape-sum f9386e944959edc4b732734ab1f0ea6c
+--start 65177
+--sim-load-config accelerator=sparklers

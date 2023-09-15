@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SlidePuzzle.tzx.zip
+slide-puzzle.z80
+--sim-load
+--tape-name "Slide Puzzle.tzx"
+--tape-sum 0b8ad24ecf1795903e2ac376ca8611d2
+--start 1343
+--sim-load-config finish-tape=1

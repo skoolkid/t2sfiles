@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/f/FirstContact.tap.zip
+first-contact.z80
+--tape-name "FirstContact.tap"
+--tape-sum 6f82320ef78ab6e02399b5106f7f53c6
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/z/Zaxxon.tap.zip
+zaxxon-d-boettcher.z80
+--sim-load
+--tape-name "ZAXXON_B.TAP"
+--tape-sum 242803b39325749e918155eda47ccc89
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+"https://tzxvault.org/Spectrum/TZX/EricBristow'sPro-Darts.zip"
+eric-bristows-pro-darts-instructions.z80
+--sim-load
+--tape-name "Eric Bristow's Pro-Darts - Instructions.tzx"
+--tape-sum 7aee7f6cb8f1345c0d6a707d69c914f8
+--start 1343
+--sim-load-config finish-tape=1

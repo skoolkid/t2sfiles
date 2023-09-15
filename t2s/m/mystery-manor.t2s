@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MysteryManor.tzx.zip
+mystery-manor.z80
+--sim-load
+--tape-name "Mystery Manor.tzx"
+--tape-sum 2e86d5adbae64cf51325cdaa1b248924
+--start 1343
+--sim-load-config finish-tape=1

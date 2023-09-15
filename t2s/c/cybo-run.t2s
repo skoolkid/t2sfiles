@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/CyboRun.zip
+cybo-run.z80
+--sim-load
+--tape-name "Cybo Run.tzx"
+--tape-sum a13c3781078c32294656cbd5d83a6f34
+--start 47500

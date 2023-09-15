@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BubbleBobble.tzx.zip
+bubble-bobble.z80
+--sim-load
+--tape-name "Bubble Bobble.tzx"
+--tape-sum 9df4d77862e7372184905954a73aba89
+--start 23455
+--sim-load-config accelerator=bleepload

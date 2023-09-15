@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Marcas.tzx.zip
+marcas.z80
+--sim-load
+--tape-name "Marcas.tzx"
+--tape-sum 3f738f236d579d8a3a68a755234db065
+--start 1343
+--sim-load-config finish-tape=1

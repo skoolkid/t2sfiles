@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/Thermo-NuclearWar.tzx.zip
+thermo-nuclear-war.z80
+--sim-load
+--tape-name "Thermo-Nuclear War.tzx"
+--tape-sum 9b8ad36e19ec2a03a5578afbfe2af808
+--start 1343
+--sim-load-config finish-tape=1

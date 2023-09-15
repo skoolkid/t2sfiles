@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/StarTrek2.tap.zip
+star-trek-2.z80
+--sim-load
+--tape-name "Startrek2.tap"
+--tape-sum 1ccf50cef598a9c3f611eec78b725f18
+--start 1343
+--sim-load-config finish-tape=1

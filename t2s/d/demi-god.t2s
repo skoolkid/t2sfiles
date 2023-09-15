@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Demi-God.zip
+demi-god.z80
+--sim-load
+--tape-name "Demi-God.tzx"
+--tape-sum 6b1d8edfc0befecb631ce5df6f420239
+--start 40970

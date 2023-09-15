@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/StrollInTheBleakForestA.tzx.zip
+a-stroll-in-the-bleak-forest.z80
+--sim-load
+--tape-name "A Stroll In The Bleak Forest.tzx"
+--tape-sum 79c2477543411689ac03a076c207f209
+--start 58000
+--sim-load-config accelerator=rom

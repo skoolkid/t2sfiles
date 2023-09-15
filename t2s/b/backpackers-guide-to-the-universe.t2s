@@ -1,6 +1,6 @@
-https://www.tzxvault.org/Spectrum/TZX/BackpackersGuideToTheUniverse.zip
+https://tzxvault.org/Spectrum/TZX/BackpackersGuideToTheUniverse.zip
 backpackers-guide-to-the-universe.z80
 --sim-load
---tape-name "Backpackers Guide To The Universe - The Guide.tzx"
---tape-sum 59fe5f7f09a65ba10e5ef0e39693865c
---start 29126
+--tape-name "Backpackers Guide To The Universe.tzx"
+--tape-sum 8e85984aa132253dee1044e8ee596a12
+--start 53757

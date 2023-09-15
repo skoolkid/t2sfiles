@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Corsarios.tzx.zip
+corsarios-side-2.z80
+--sim-load
+--tape-name "Corsarios - Side 2.tzx"
+--tape-sum e852e299f1786af19567690edf25d1b7
+--start 65269
+--tape-stop 5

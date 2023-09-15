@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/Tanx.tap.zip
+tanx-neal-cavalier-smith.z80
+--tape-name "Tanx.tap"
+--tape-sum 3e79a93004ffff177b71a9e2b5516cb6
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/f/FireTrap(JimWaterman).tap.zip
+fire-trap.z80
+--sim-load
+--tape-name "FireTrap.tap"
+--tape-sum bee3c17becc7c6a242eda9d6a49b51dc
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://tzxvault.org/Spectrum/TZX/DeepProbe-FullFX.zip
+deep-probe-full-fx.z80
+--sim-load
+--tape-name "Deep Probe - Full FX.tzx"
+--tape-sum 8918ef4481f9a273413bedc1fc40300a
+--start 1343
+--sim-load-config finish-tape=1

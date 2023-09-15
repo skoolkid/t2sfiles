@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/u/UnDelitto.tzx.zip
+un-delitto.z80
+--sim-load
+--tape-name "UnDelitto.tzx"
+--tape-sum c17720d8d429d08c61ccef512851ae81
+--start 1343
+--sim-load-config finish-tape=1

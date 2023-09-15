@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TripIntoTheFuture.tap.zip
+trip-into-the-future.z80
+--sim-load
+--tape-name "TripIntoTheFuture.tap"
+--tape-sum 32ec7cf615df9b10202c1689f871fca6
+--start 1343
+--sim-load-config finish-tape=1

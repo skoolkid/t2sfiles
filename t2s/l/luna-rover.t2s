@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/l/LunaRover.tzx.zip
+luna-rover.z80
+--sim-load
+--tape-name "Luna Rover.tzx"
+--tape-sum ed854af11d0c9b92a0ad930ee55dd398
+--start 1343
+--sim-load-config finish-tape=1

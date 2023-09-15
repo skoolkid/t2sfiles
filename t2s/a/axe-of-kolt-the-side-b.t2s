@@ -1,0 +1,7 @@
+https://tzxvault.org/Spectrum/TZX/TheAxeOfKolt-48k.zip
+axe-of-kolt-the-side-b.z80
+--sim-load
+--tape-name "The Axe Of Kolt - 48k - Side B.tzx"
+--tape-sum 9e2c3a4bae00de1bb881c38669e8e796
+--start 29169
+--sim-load-config finish-tape=1

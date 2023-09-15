@@ -1,0 +1,6 @@
+https://worldofspectrum.org/pub/sinclair/games/c/Carnival.tzx.zip
+carnival-eclipse.z80
+--sim-load
+--tape-name "Carnival.tzx"
+--tape-sum e2f5b0276324e7b80047160ac992e906
+--start 31460

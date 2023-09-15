@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TaskForce.tzx.zip
+task-force-abbex.z80
+--sim-load
+--tape-name "Task Force (Abbex).tzx"
+--tape-sum 886c0cf062b5de3c636188b69bad6b79
+--start 1343
+--sim-load-config finish-tape=1

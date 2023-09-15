@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RedAlert.tzx.zip
+red-alert-zenobi-p1.z80
+--sim-load
+--tape-name "Red Alert - Part 1.tzx"
+--tape-sum 1d8b313d1d6020c9a3d5e23ec9319c1b
+--start 29169
+--sim-load-config finish-tape=1

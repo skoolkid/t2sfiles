@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/Asteroides.tzx.zip
+asteroides.z80
+--sim-load
+--tape-name "Asteroides.tzx"
+--tape-sum 9d5f1b745c73ba6e6f5450dfa33ad4d8
+--start 32301
+--sim-load-config accelerator=rom

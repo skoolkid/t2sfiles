@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Crib.tzx.zip
+crib.z80
+--sim-load
+--tape-name "Crib (D.J. Mutch).tzx"
+--tape-sum 5dc9f9b70021094900b7c9e2abd2bcd1
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MerryChristmas.tzx.zip
+merry-christmas.z80
+--sim-load
+--tape-name "MerryChristmas.tzx"
+--tape-sum 2f7a86de19daac600ca3787cec56cd58
+--start 1343
+--sim-load-config finish-tape=1

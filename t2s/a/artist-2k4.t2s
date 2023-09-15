@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/a/Artist2K4.tap.zip
+artist-2k4.z80
+--sim-load
+--tape-name "Artist 2K4.tap"
+--tape-sum aa304e832cca0973364e8d345453b925
+--start 32768

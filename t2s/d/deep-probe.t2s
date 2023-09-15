@@ -1,0 +1,7 @@
+https://worldofspectrum.org/pub/sinclair/games/d/DeepProbe.tzx.zip
+deep-probe.z80
+--sim-load
+--tape-name "Deep Probe.tzx"
+--tape-sum 2af97103d5238cce87176a9c3795e29a
+--start 29169
+--sim-load-config finish-tape=1

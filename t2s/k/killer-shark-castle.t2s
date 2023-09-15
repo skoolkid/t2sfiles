@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/k/Killer-SharkCastle.tap.zip
+killer-shark-castle.z80
+--tape-name "SHARKCAS.TAP"
+--tape-sum c784fea3df591c02a9b63e365c76e386
+--start 1343
+--sim-load-config finish-tape=1
+--state issue2=1
+--sim-load-config 'load=LOAD "": OUT 254,255: RUN'

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/l/LordsOfTime.tzx.zip
+lords-of-time.z80
+--sim-load
+--tape-name "Lords Of Time.tzx"
+--tape-sum 88db284815725f0ef0b5de33c79832a7
+--start 24576

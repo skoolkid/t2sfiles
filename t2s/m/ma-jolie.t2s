@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MaJolie.tzx.zip
+ma-jolie.z80
+--sim-load
+--tape-name "Manic Miner - Ma Jolie.tzx"
+--tape-sum 9ee0672648300af4cfe89afcbcddce30
+--start 1343
+--sim-load-config finish-tape=1

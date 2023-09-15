@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TripodsThe.tzx.zip
+tripods-the.z80
+--sim-load
+--tape-name "Tripods.tzx"
+--tape-sum 421693a935b600157523466542f89219
+--start 1343
+--sim-load-config finish-tape=1

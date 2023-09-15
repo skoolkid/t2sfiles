@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CottonZX.tzx.zip
+cotton-zx.z80
+--sim-load
+--tape-name "Cotton ZX.tzx"
+--tape-sum 9b6358f6242d28bb602fe067374bf3b9
+--start 1343
+--sim-load-config finish-tape=1

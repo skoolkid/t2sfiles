@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/j/JesterQuest48V3.tzx.zip
+jester-quest-release-3.z80
+--sim-load
+--tape-name "Jester Quest - 48k - Release 3.tzx"
+--tape-sum b90d5f5b3cffc5125324b9e8035e33cd
+--start 36376
+--sim-load-config finish-tape=1

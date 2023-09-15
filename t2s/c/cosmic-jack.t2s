@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CosmicJack.tap.zip
+cosmic-jack.z80
+--sim-load
+--tape-name "CosmicJack.tap"
+--tape-sum 7d7081940789fa7575ae7efd9d3503f5
+--start 39999

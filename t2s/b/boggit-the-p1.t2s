@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BoggitThe.tzx.zip
+boggit-the-p1.z80
+--sim-load
+--tape-name "The Boggit - Side 1.tzx"
+--tape-sum 1a9cea30f06221c7bad9f7649bc65af7
+--start 23310
+--sim-load-config accelerator=speedlock

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/123/123Maze.tap.zip
+123-maze.z80
+--sim-load
+--tape-name "123maze.tap"
+--tape-sum a75850679076e028daee11a60a7ed452
+--start 23755

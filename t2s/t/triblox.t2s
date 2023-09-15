@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/Triblox.tzx.zip
+triblox.z80
+--sim-load
+--tape-name "Triblox.tzx"
+--tape-sum 3ac2fef76cf777568d748a6b2cc7d3a0
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/compilations/g/GreatGurianos.tzx.zip
+great-gurianos.z80
+--sim-load
+--tape-name "Great Gurianos.tzx"
+--tape-sum 83781b3a26dfd8ed653caf7adebfbf4f
+--start 65224
+--sim-load-config accelerator=speedlock

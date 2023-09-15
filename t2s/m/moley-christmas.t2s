@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MoleyChristmas.tap.zip
+moley-christmas.z80
+--sim-load
+--tape-name "Moley Christmas.tap"
+--tape-sum c162e2e1a5df1df8f91127c4f16e1ce2
+--start 33024

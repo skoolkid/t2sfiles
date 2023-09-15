@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Pre-history.zip
+pre-history.z80
+--sim-load
+--tape-name "Pre-history.tzx"
+--tape-sum f45943ff8d78ab46c0bb4246bc0a2672
+--start 25063

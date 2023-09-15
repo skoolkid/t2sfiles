@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/Defender_4.tap.zip
+defender-p-watson.z80
+--tape-name "DEFEND-2.TAP"
+--tape-sum 0362af6c53b862183393ded773f6e4e1
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

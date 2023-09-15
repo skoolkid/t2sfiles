@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/o/OneManAndHisDroidII.tzx.zip
+one-man-and-his-droid-ii.z80
+--tape-name "One Man And His Droid II.tzx"
+--tape-sum f1f7c480d53fd7c4cb8ee69116706439
+--start 32620
+--sim-load-config machine=128

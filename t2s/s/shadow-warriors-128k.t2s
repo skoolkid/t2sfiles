@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/ShadowWarriors.tzx.zip
+shadow-warriors-128k.z80
+--tape-name "Shadow Warriors - Side 1.tzx"
+--tape-sum 46d74c5d00d631aea5c42d87773dfb12
+--start 38103
+--sim-load-config machine=128
+--sim-load-config accelerator=speedlock,rom

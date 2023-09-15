@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/l/LOcchioDelDiavolo.tzx.zip
+locchio-del-diavolo.z80
+--sim-load
+--tape-name "LocchioDelDiavolo.tzx"
+--tape-sum a4b327c0f7a1841d299c5fc480e81460
+--start 1343
+--sim-load-config finish-tape=1

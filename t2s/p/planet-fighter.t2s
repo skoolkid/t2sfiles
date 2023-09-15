@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PlanetFighter.tap.zip
+planet-fighter.z80
+--sim-load
+--tape-name "PLANET_2.TAP"
+--tape-sum 6b4e204833748ec30f760f0a04f66854
+--start 1343
+--sim-load-config finish-tape=1

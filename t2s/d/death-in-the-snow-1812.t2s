@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DeathInTheSnow1812.tzx.zip
+death-in-the-snow-1812.z80
+--sim-load
+--tape-name "Death In The Snow 1812.tzx"
+--tape-sum 50d5991a2cc7ce94ae1f456ae3caa4be
+--start 1343
+--sim-load-config finish-tape=1

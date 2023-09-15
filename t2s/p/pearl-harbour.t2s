@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PearlHarbour.tzx.zip
+pearl-harbour.z80
+--sim-load
+--tape-name "Pearl Harbour.tzx"
+--tape-sum 1da7aecdf04c8e453e22c333d31b3822
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/Anagrams.tap.zip
+anagrams-unknown.z80
+--tape-name "Anagrams.tap"
+--tape-sum 2f769388b01638805832c9d2fb0ccc06
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

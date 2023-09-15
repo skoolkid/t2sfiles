@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TouchdownOnMars.tap.zip
+touchdown-on-mars.z80
+--sim-load
+--tape-name "TouchdownOnMars.tap"
+--tape-sum 4190b4b92f70e7ac285f15a86181616f
+--start 1343
+--sim-load-config finish-tape=1

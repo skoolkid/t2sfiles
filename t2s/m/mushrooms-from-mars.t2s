@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MushroomsFromMars.tzx.zip
+mushrooms-from-mars.z80
+--sim-load
+--tape-name "Mushrooms From Mars.tzx"
+--tape-sum ce48144a5ff303e40bf23a3fdf61ec0f
+--start 1343
+--sim-load-config finish-tape=1

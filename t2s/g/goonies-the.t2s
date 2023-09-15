@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/g/GooniesThe.tzx.zip
+goonies-the.z80
+--sim-load
+--tape-name "The Goonies.tzx"
+--tape-sum b81337d358a682350846b9c6f9ae79d1
+--start 62470
+--sim-load-config accelerator=alkatraz

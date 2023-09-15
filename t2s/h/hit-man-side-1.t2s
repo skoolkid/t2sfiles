@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/h/HitMan.tzx.zip
+hit-man-side-1.z80
+--sim-load
+--tape-name "Hit Man - Side 1.tzx"
+--tape-sum 81bcd879cb00683d36114a8aca822c8a
+--start 1343
+--sim-load-config finish-tape=1

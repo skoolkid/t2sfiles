@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/KungFuKnights.zip
+kung-fu-knights.z80
+--sim-load
+--tape-name "Kung Fu Knights.tzx"
+--tape-sum 8da272b821ad02906d7fd205198ea459
+--start 46625

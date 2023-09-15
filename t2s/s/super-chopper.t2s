@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SuperChopper.tzx.zip
+super-chopper.z80
+--sim-load
+--tape-name "Super Chopper.tzx"
+--tape-sum d84697d182ee6ee61525588c9728b8b6
+--start 23341
+--sim-load-config accelerator=rom

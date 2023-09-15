@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AventuraA-PlanetOfDeath.tap.zip
+aventura-a-planet-of-death-intro.z80
+--sim-load
+--tape-name "Aventura A - Planet Of Death - Introduction - Tips Book.tap"
+--tape-sum a572704c0f1631538646a0651cbe57f1
+--start 29041
+--sim-load-config finish-tape=1

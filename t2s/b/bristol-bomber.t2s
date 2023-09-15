@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BristolBomber.tzx.zip
+bristol-bomber.z80
+--sim-load
+--tape-name "Bristol Bomber.tzx"
+--tape-sum aec4cbf0aa51332d0709176c58e6f6f5
+--start 1343
+--sim-load-config finish-tape=1

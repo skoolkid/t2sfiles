@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/Tempest(G-Force)(Euro-ByteLtd).tzx.zip
+g-force.z80
+--sim-load
+--tape-name "G-Force.tzx"
+--tape-sum 482df9ec88fdae5e2bd06dfe77481825
+--start 59452

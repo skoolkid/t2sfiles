@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Butterfly.tzx.zip
+butterfly.z80
+--sim-load
+--tape-name "Butterfly.tzx"
+--tape-sum 259c6d1f1a5f03bc3e1ee18eff2934fd
+--start 1343
+--sim-load-config finish-tape=1

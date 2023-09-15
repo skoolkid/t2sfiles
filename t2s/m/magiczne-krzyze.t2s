@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MagiczneKrzyze.tzx.zip
+magiczne-krzyze.z80
+--sim-load
+--tape-name "MagiczneKrzyze.tzx"
+--tape-sum cefb650cb28bf65aaf365535a21ad549
+--start 1343
+--sim-load-config finish-tape=1

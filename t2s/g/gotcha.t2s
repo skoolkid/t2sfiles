@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/g/Gotcha.tzx.zip
+gotcha.z80
+--sim-load
+--tape-name "Gotcha.tzx"
+--tape-sum 9357a9acbc0c2ee1d17348a253250909
+--start 40001

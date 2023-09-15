@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/o/OraclesCaveThe.tzx.zip
+oracles-cave-the.z80
+--sim-load
+--tape-name "The Oracle's Cave.tzx"
+--tape-sum c458ae58de0ea1ba35bfae4a604ab0c9
+--start 1343
+--sim-load-config finish-tape=1

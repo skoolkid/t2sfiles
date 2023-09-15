@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CryptThe.tzx.zip
+crypt-the.z80
+--sim-load
+--tape-name "The Crypt.tzx"
+--tape-sum 6f6414a53829d6c71c23534db33ff183
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Coliseum(Colosseum)(Kixx).tzx.zip
+coliseum.z80
+--sim-load
+--tape-name "Colosseum.tzx"
+--tape-sum 2fd241b85df17cea4501b12258ac86c4
+--start 64809
+--sim-load-config accelerator=alkatraz

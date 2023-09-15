@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Slaine.tzx.zip
+slaine.z80
+--sim-load
+--tape-name "Slaine - Side A.tzx"
+--tape-sum aa6755e6c6370ee0cb156a5bfc12b79d
+--start 65248
+--sim-load-config accelerator=speedlock

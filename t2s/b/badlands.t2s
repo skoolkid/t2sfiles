@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Badlands.tzx.zip
+badlands.z80
+--sim-load
+--tape-name "BADLANDS.TZX"
+--tape-sum 4d1293cff3971aa3de4649b23129c43a
+--start 37120
+--tape-stop 6

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/Trapper.tap.zip
+trapper.z80
+--sim-load
+--tape-name "Trapper.TAP"
+--tape-sum f69612d7ee2351acaf008285e6b8a84e
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/ShazmaPlasma.tap.zip
+shazma-plasma.z80
+--sim-load
+--tape-name "ShazmaPlasma.tap"
+--tape-sum 90731934e0522fd2d0018cdac2c5bb9a
+--start 1343
+--sim-load-config finish-tape=1

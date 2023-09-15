@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/StrikerManager.tzx.zip
+striker-manager.z80
+--sim-load
+--tape-name "Striker Manager.tzx"
+--tape-sum 9b57b77c75a5e85d05c9524c888702eb
+--start 1343
+--sim-load-config finish-tape=1

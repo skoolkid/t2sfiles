@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/w/WhatWillyDidNext.tap.zip
+what-willy-did-next.z80
+--tape-name "What Willy Did Next 2010.tap"
+--tape-sum f955ca4293033e7282beb9c474d6007c
+--start 32039
+--sim-load-config machine=128

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/Touchdown_2.tap.zip
+touchdown-tyler-isaaman.z80
+--sim-load
+--tape-name "Touchdown.tap"
+--tape-sum 746e732db7e6144ed5ecbfcfbe45165b
+--start 1343
+--sim-load-config finish-tape=1

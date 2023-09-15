@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/TheWizardsOrb.zip
+wizards-orb-the.z80
+--sim-load
+--tape-name "The Wizards Orb.tzx"
+--tape-sum ac4973a8166ff5420bc74088f6906044
+--start 25000

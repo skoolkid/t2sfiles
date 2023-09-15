@@ -1,0 +1,6 @@
+"https://tzxvault.org/Spectrum/TZX/Hoppin'Mad.zip"
+hoppin-mad.z80
+--sim-load
+--tape-name "Hoppin' Mad.tzx"
+--tape-sum 361ebb14b8cda021a8832861b1d9be28
+--start 37000

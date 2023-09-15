@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SpeedwayReplay-1991.tzx.zip
+speedway-replay-1991-side-2.z80
+--sim-load
+--tape-name "Speedway Replay - 1991 - Side 2.tzx"
+--tape-sum e34af6ffefbf665b1b0c7d97dedf911a
+--start 1343
+--sim-load-config finish-tape=1

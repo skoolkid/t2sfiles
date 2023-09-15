@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/e/EveryonesAWally.tzx.zip
+everyones-a-wally.z80
+--sim-load
+--tape-name "Everyone's A Wally.tzx"
+--tape-sum 538ad0852363e32bc75cfbc7debbf702
+--start 65271
+--sim-load-config accelerator=speedlock

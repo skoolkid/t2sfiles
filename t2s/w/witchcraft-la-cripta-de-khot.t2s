@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/w/Witchcraft.tzx.zip
+witchcraft-la-cripta-de-khot.z80
+--sim-load
+--tape-name "Witchcraft - La Cripta De Khot.tzx"
+--tape-sum d51865b463a70b6eefdb3d25795e7be1
+--start 29041
+--sim-load-config finish-tape=1

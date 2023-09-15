@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CliveAdHollywood.tzx.zip
+clive-ad-hollywood.z80
+--sim-load
+--tape-name "CliveAdHollywood.tzx"
+--tape-sum f3b81fff10c94585a4c3503ffe7a9868
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AventuraBASIC.tap.zip
+aventura-basic.z80
+--sim-load
+--tape-name "Aventura BASIC.tap"
+--tape-sum 18b73029de69234c4d890c27d15f192c
+--start 1343
+--sim-load-config finish-tape=1

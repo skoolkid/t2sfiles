@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/o/OTHELLO(EinarSaukas).tzx.zip
+othello-zx-soft.z80
+--sim-load
+--tape-name "OTHELLO (ZX-SOFT) EN.tzx"
+--tape-sum 57566a7657d3dadc1c38ee304faac631
+--start 1343
+--sim-load-config finish-tape=1

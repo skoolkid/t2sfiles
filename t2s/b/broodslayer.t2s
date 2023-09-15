@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Broodslayer.tzx.zip
+broodslayer.z80
+--sim-load
+--tape-name "Broodslayer.tzx"
+--tape-sum 1aa13ed0df089a9a9c2cd9c5d5b1a4a9
+--start 1343
+--sim-load-config finish-tape=1

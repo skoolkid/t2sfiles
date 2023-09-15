@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Bananas.tap.zip
+bananas-micromania.z80
+--sim-load
+--tape-name "Bananas.tap"
+--tape-sum 6ff89ab73f04cd4b0b168889e09c74fe
+--start 1343
+--sim-load-config finish-tape=1

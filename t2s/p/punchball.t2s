@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Punchball.tzx.zip
+punchball.z80
+--sim-load
+--tape-name "Punchball.tzx"
+--tape-sum 44d718339f16c72f4f3dfb4e32b91adb
+--start 1343
+--sim-load-config finish-tape=1

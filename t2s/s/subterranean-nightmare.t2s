@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/SubterraneanNightmare.zip
+subterranean-nightmare.z80
+--sim-load
+--tape-name "Subterranean Nightmare.tzx"
+--tape-sum 7ee8a0dc63d3309b8081f0f6efeee654
+--start 30000

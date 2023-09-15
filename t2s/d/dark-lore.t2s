@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DarkLore.tzx.zip
+dark-lore.z80
+--sim-load
+--tape-name "Dark Lore.tzx"
+--tape-sum a0b873921b87585e7d8bdfa743d2c7c5
+--start 1343
+--sim-load-config finish-tape=1

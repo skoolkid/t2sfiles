@@ -1,0 +1,6 @@
+https://worldofspectrum.org/pub/sinclair/games/e/EnigmaForce.tzx.zip
+enigma-force.z80
+--sim-load
+--tape-name "Enigma Force.tzx"
+--tape-sum 378cda900ee85211afb31690fc45f6c2
+--start 65169

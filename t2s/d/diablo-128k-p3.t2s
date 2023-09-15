@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/d/Diablo128(different).tzx.zip
+diablo-128k-p3.z80
+--tape-name "Diablo! - 128k - Alternate - Part 3.tzx"
+--tape-sum 3f02f747553fc9d96ad6e56fb60beacc
+--start 34821
+--sim-load-config machine=128

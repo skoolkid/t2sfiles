@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RoadToValhallaThe.tzx.zip
+road-to-valhalla-the.z80
+--sim-load
+--tape-name "Road to Valhalla, The.tzx"
+--tape-sum e2866c6504aad93cb2845dba82713f31
+--start 1343
+--sim-load-config finish-tape=1

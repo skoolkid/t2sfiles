@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/n/Navrat.tzx.zip
+navrat.z80
+--sim-load
+--tape-name "Navrat.tzx"
+--tape-sum 71d826879a0eaa1d5afb542428e18812
+--start 24200
+--sim-load-config accelerator=rom

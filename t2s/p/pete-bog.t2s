@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PeteBog.tzx.zip
+pete-bog.z80
+--sim-load
+--tape-name "Pete Bog.tzx"
+--tape-sum bb52f767106c343316793a9de75d4753
+--start 34104

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Chess(Scacchi)(RebitComputer).tzx.zip
+scacchi.z80
+--sim-load
+--tape-name "scacchi.tzx"
+--tape-sum ccd19df92234e399af9eed220cbcdf10
+--start 34816

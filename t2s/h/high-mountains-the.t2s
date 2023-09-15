@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/h/HighMountainsThe.tzx.zip
+high-mountains-the.z80
+--sim-load
+--tape-name "The High Mountains.tzx"
+--tape-sum 1c5af31a0524528c2da6ed71123398f6
+--start 1343
+--sim-load-config finish-tape=1

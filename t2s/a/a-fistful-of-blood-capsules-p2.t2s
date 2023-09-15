@@ -1,6 +1,7 @@
-https://spectrumcomputing.co.uk/pub/sinclair/games/f/FistfulOfBloodCapsulesA.tzx.zip
+https://worldofspectrum.net/pub/sinclair/games/f/FistfulOfBloodCapsulesA.tzx.zip
 a-fistful-of-blood-capsules-p2.z80
 --sim-load
 --tape-name "A Fistful Of Blood Capsules - Part 2.tzx"
 --tape-sum e876248cf98252fa9ecdbe78b7a7c959
-; --start 36376
+--start 36376
+--sim-load-config finish-tape=1

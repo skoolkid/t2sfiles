@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Minesweeper_4.tap.zip
+minesweeper-softhouse.z80
+--sim-load
+--tape-name "MINESWEP.TAP"
+--tape-sum ad454c0a1dbbec508a31471d36c5ddcf
+--start 23776

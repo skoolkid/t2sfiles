@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/l/LunarRescue_3.tap.zip
+space-rescue-andrew-astrand.z80
+--sim-load
+--tape-name "LunarRescue.tap"
+--tape-sum 20f53b891892141272ca02bc9d3a23de
+--start 1343
+--sim-load-config finish-tape=1

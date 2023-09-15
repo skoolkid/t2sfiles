@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/f/FinalAssault.tzx.zip
+final-assault.z80
+--sim-load
+--tape-name "Final Assault.tzx"
+--tape-sum 5b076c07879c7f6fd832919ed20187b0
+--start 64579
+--sim-load-config accelerator=alkatraz,alkatraz-0a

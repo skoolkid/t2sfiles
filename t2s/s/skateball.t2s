@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Skateball.zip
+skateball.z80
+--sim-load
+--tape-name "Skateball.tzx"
+--tape-sum 9bd1c63d2a84eb42247a2ec7b69f2034
+--start 24576

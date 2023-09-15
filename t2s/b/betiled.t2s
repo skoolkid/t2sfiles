@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BeTiled.tzx.zip
+betiled.z80
+--sim-load
+--tape-name "BeTiled!.tzx"
+--tape-sum 63c1b870b5f611bd5b797ea823d72d3e
+--start 36230

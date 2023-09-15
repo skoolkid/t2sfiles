@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Szellemkastely.tzx.zip
+szellemkastely.z80
+--sim-load
+--tape-name "SZELLEMKASTELY.tzx"
+--tape-sum c4f236ec751e4f48b2ddbe50067f106d
+--start 1343
+--sim-load-config finish-tape=1

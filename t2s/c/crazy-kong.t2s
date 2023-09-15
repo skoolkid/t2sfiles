@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CrazyKong(Kong)(AleksandarRadovanovic).tzx.zip
+crazy-kong.z80
+--sim-load
+--tape-name "Kong.tzx"
+--tape-sum b3f8500cd6b715a9b3d67bc697f70a2a
+--start 1343
+--sim-load-config finish-tape=1

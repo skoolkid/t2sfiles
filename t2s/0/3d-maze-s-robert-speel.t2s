@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Maze3D(Labirint)(DarkoVlado).tap.zip
+3d-maze-s-robert-speel.z80
+--sim-load
+--tape-name "LAVIRINT.TAP"
+--tape-sum bdd0d640f8cce82fd02fcdf41330f7d4
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BunkerSwamp.tap.zip
+bunker-swamp.z80
+--sim-load
+--tape-name "BUNKERSW.TAP"
+--tape-sum 80d16f2d20c06dd175f782b99e7c37fd
+--start 1343
+--sim-load-config finish-tape=1

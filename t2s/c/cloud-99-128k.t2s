@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Cloud99.tzx.zip
+cloud-99-128k.z80
+--tape-name "Cloud 99 - 128k.tzx"
+--tape-sum bfb26cb3940c45d4bc26b593bfb6c879
+--start 34821
+--sim-load-config machine=128

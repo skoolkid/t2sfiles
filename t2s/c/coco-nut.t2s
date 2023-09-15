@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Coco-nut.tzx.zip
+coco-nut.z80
+--sim-load
+--tape-name "Coco-nut.tzx"
+--tape-sum 23ea86a56b62c0b58372ca2f46ac7154
+--start 1343
+--sim-load-config finish-tape=1

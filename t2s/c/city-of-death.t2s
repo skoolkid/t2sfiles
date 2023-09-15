@@ -1,0 +1,7 @@
+https://worldofspectrum.org/pub/sinclair/games/c/CityOfDeath.tzx.zip
+city-of-death.z80
+--sim-load
+--tape-name "City Of Death.tzx"
+--tape-sum 58881a0f5410d4443bd7b61e67a4a65a
+--start 1343
+--sim-load-config finish-tape=1

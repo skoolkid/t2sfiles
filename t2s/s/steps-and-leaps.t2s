@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/StepsAndLeaps.tap.zip
+steps-and-leaps.z80
+--tape-name "steps_and_leaps.tap"
+--tape-sum 3c62026fc934de11d2b2412b0f98661b
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

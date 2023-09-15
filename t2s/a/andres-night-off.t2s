@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AndresNightOff.tzx.zip
+andres-night-off.z80
+--sim-load
+--tape-name "Andre's Night Off.tzx"
+--tape-sum 56947f475b8d666490ab8951f5e60d28
+--start 1343
+--sim-load-config finish-tape=1

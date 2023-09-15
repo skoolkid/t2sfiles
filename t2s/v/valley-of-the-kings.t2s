@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/v/ValleyOfTheKings.tzx.zip
+valley-of-the-kings.z80
+--sim-load
+--tape-name "Valley Of The Kings.tzx"
+--tape-sum b962501c9e3756be498666760a20b96e
+--start 1343
+--sim-load-config finish-tape=1

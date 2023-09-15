@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/h/HauntingThe.tzx.zip
+haunting-the-side-2.z80
+--sim-load
+--tape-name "Haunting - Side 2.tzx"
+--tape-sum a9d2ad68abb4068730826b4559eb1017
+--start 36366
+--sim-load-config finish-tape=1

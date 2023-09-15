@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Code.tap.zip
+code.z80
+--tape-name "code.tap"
+--tape-sum a9cbc30976825aa4931009d24b8907c2
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

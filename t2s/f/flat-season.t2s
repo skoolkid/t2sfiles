@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/f/FlatSeason.tzx.zip
+flat-season.z80
+--sim-load
+--tape-name "Flat Season.tzx"
+--tape-sum df717f7c15ee3da88001693122600060
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/j/JackTheRipper.tzx.zip
+jack-the-ripper-p2.z80
+--sim-load
+--tape-name "Jack The Ripper - Side A.tzx"
+--tape-sum 8c0f084cf49ad91784051812b66bcf76
+--start 65494
+--tape-start 9
+--sim-load-config accelerator=bleepload

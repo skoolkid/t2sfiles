@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/h/HauntedHouse_2.tzx.zip
+haunted-house-editorial-plesa.z80
+--tape-name "Haunted House Adventure.tzx"
+--tape-sum a19ade7d4540fdf8e26a957ebd177ee9
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

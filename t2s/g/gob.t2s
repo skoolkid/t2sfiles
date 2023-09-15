@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/g/Gob.tap.zip
+gob.z80
+--tape-name "./gob/gob.tap"
+--tape-sum c33bc1bd1326da52a32dd0e99c267aeb
+--start 34809
+--sim-load-config machine=128

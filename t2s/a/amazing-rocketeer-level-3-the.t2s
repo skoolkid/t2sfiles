@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AmazingRocketeerTheV1.5.tzx.zip
+amazing-rocketeer-level-3-the.z80
+--sim-load
+--tape-name "R_LEV03.tzx"
+--tape-sum 6abce07062ef139287371d58b8062fee
+--start 63557
+--sim-load-config accelerator=rom

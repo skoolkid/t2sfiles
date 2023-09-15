@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/h/Hubert.tzx.zip
+hubert.z80
+--sim-load
+--tape-name "Hubert.tzx"
+--tape-sum 3802bc571bbafad687e6ce458695cc61
+--start 46751

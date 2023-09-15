@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/j/JacksonCity.tzx.zip
+jackson-city.z80
+--sim-load
+--tape-name "Jackson City.tzx"
+--tape-sum 73fe07c874e1e8481f0509614ae08303
+--start 64653
+--sim-load-config finish-tape=1

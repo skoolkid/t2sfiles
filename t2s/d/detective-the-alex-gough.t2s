@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DetectiveThe_2.tzx.zip
+detective-the-alex-gough.z80
+--sim-load
+--tape-name "The Detective (The Guild).tzx"
+--tape-sum fad6042e2a6ba9ddabd34ebeb2315ca8
+--start 34104

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/ManicBugs.tap.zip
+manic-bugs.z80
+--sim-load
+--tape-name "BUGSA.TAP"
+--tape-sum cc767fa2da7d5fe936f9edc6e24b05a1
+--start 1343
+--sim-load-config finish-tape=1

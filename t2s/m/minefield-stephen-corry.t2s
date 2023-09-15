@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Minefield.tzx.zip
+minefield-stephen-corry.z80
+--sim-load
+--tape-name "Minefield.tzx"
+--tape-sum 4ed85118ea6d217714c2a87714f195cf
+--start 1343
+--sim-load-config finish-tape=1

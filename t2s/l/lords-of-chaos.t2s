@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/l/LordsOfChaos.tzx.zip
+lords-of-chaos.z80
+--sim-load
+--tape-name "Lords Of Chaos - Side 1.tzx"
+--tape-sum 2d9fd0383c6efef48eae65cf13f1cf2c
+--start 57837
+--sim-load-config accelerator=rom

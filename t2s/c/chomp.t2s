@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Chomp.tzx.zip
+chomp.z80
+--sim-load
+--tape-name "Chomp!.tzx"
+--tape-sum b9bae950dd57510f96b3d07ca8094ad1
+--start 40000

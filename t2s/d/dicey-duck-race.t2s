@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DiceyDuckRace.tzx.zip
+dicey-duck-race.z80
+--sim-load
+--tape-name "Dicey Duck Race.tzx"
+--tape-sum 3282910dad64f77c80eaf6fe47b551dd
+--start 1343
+--sim-load-config finish-tape=1

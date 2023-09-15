@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/o/Oldman.tzx.zip
+oldman.z80
+--sim-load
+--tape-name "Oldman.tzx"
+--tape-sum 194e394b86c3ff4b6a2333736abb25e5
+--start 1343
+--sim-load-config finish-tape=1

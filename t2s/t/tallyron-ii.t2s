@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TallyronII.tzx.zip
+tallyron-ii.z80
+--sim-load
+--tape-name "Tallyron II.tzx"
+--tape-sum 1b23dee0ecacd822120d29ccabfa809f
+--start 1343
+--tape-stop 5
+--sim-load-config finish-tape=1

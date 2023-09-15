@@ -1,0 +1,11 @@
+; If the default 'tstates' value (34943) is used, the game does not respond to
+; keyboard input (e.g. 's' to start) when run in Fuse.
+
+https://worldofspectrum.net/pub/sinclair/games/p/Painter3D.tzx.zip
+3d-painter.z80
+--sim-load
+--tape-name "3D Painter.tzx"
+--tape-sum 58dee24b3ad1446a2fd7fce1dda55354
+--start 26673
+--tape-stop 6
+--state tstates=0

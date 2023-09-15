@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/Daemon.tzx.zip
+daemon.z80
+--sim-load
+--tape-name "Daemon.tzx"
+--tape-sum 984424f5bd74b253eadf77903dffd06d
+--start 36376
+--sim-load-config finish-tape=1

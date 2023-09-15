@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TreeStonesThe(Amended).tzx.zip
+tree-stones-the-amended-version.z80
+--sim-load
+--tape-name "The Tree Stones - Amended Version.tzx"
+--tape-sum bb3c9dd19a653f85b8e83c29bf7d1009
+--start 36366
+--sim-load-config finish-tape=1

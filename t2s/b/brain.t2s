@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Brain.tap.zip
+brain.z80
+--sim-load
+--tape-name "Brain.tap"
+--tape-sum 399d4013ebcb47f5619ad84bbb67be93
+--start 24608
+--tape-start 7

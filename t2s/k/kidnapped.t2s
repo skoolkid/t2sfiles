@@ -1,0 +1,7 @@
+https://tzxvault.org/Spectrum/TZX/Kidnapped.zip
+kidnapped.z80
+--sim-load
+--tape-name "Kidnapped.tzx"
+--tape-sum c25b2ba0728d40ad115a365e94e9fbf8
+--start 29201
+--sim-load-config finish-tape=1

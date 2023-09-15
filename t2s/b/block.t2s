@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Block.tap.zip
+block.z80
+--sim-load
+--tape-name "BLOCKT.TAP"
+--tape-sum 2810f13e3318c71724c2861f9009ed60
+--start 1343
+--sim-load-config finish-tape=1

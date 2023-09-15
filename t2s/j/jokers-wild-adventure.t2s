@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/JokersWild.zip
+jokers-wild-adventure.z80
+--sim-load
+--tape-name "Jokers Wild - Adventure.tzx"
+--tape-sum 474d7352df4effb76f16d5eb7dd61c70
+--start 24000

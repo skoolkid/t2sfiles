@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/g/Gyroscope.tzx.zip
+gyroscope.z80
+--sim-load
+--tape-name "Gyroscope.tzx"
+--tape-sum b89138f5b91a2c89ad21c70179eb4ca7
+--start 52930

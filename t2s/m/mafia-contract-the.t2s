@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/TheMafiaContract.zip
+mafia-contract-the.z80
+--sim-load
+--tape-name "The Mafia Contract.tzx"
+--tape-sum f99226abe1b5c7271bfc8ba6248a53c8
+--start 25000

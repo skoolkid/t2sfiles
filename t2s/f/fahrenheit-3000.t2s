@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/f/Fahrenheit3000.tzx.zip
+fahrenheit-3000.z80
+--sim-load
+--tape-name "Fahrenheit 3000.tzx"
+--tape-sum ed75bd4d283120d77c19e174c2cc55f1
+--start 30000

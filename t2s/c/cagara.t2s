@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Cagara.zip
+cagara.z80
+--sim-load
+--tape-name "Cagara.tzx"
+--tape-sum 489206930a7c5b0ae7903b6e8b00bae6
+--start 23324

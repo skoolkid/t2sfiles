@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Missile_2.tap.zip
+missile-psion.z80
+--sim-load
+--tape-name "MISSILE.TAP"
+--tape-sum 634724a638f8ee73fa4d479119eda34a
+--start 26129

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/k/Kraal.tzx.zip
+kraal.z80
+--sim-load
+--tape-name "Kraal.tzx"
+--tape-sum 933022fffe06f5c7108267a17e5cd0cf
+--start 23384
+--sim-load-config accelerator=speedlock,rom

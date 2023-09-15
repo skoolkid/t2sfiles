@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/Demolition.tzx.zip
+demolition-dorling-kindersley.z80
+--sim-load
+--tape-name "Demolition (Dorling Kindersley).tzx"
+--tape-sum 104f74a422c785d0a844eeb24dfc6420
+--start 1343
+--sim-load-config finish-tape=1

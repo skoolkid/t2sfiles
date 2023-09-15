@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/i/IndianPatience.tap.zip
+indian-patience.z80
+--sim-load
+--tape-name "INDIAN.TAP"
+--tape-sum d344bfe73b8bf3bc7d288e80b108f7db
+--start 25000

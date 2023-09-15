@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AntKO.tzx.zip
+ant-ko.z80
+--sim-load
+--tape-name "antko.tzx"
+--tape-sum 083fcd2bcd1770183ed113af6dbd388c
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MidnightResistance.tzx.zip
+midnight-resistance.z80
+--sim-load
+--tape-name "Midnight Resistance - 48k.tzx"
+--tape-sum 0279dbaa26cb8982d0d3271dbfb43006
+--start 23296
+--sim-load-config accelerator=speedlock

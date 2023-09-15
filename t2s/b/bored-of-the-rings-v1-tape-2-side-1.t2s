@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BoredOfTheRingsV1.tzx.zip
+bored-of-the-rings-v1-tape-2-side-1.z80
+--sim-load
+--tape-name "Bored Of The Rings - Release 1 - Tape 2 - Side 1.tzx"
+--tape-sum caef33ab83c01a4e200c002a53f51aa8
+--start 1343
+--sim-load-config finish-tape=1

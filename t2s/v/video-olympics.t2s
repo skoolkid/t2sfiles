@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/v/VideoOlimpic(VideoOlympics)(MastertronicLtd).tzx.zip
+video-olympics.z80
+--sim-load
+--tape-name "Video Olympics.tzx"
+--tape-sum 0d1c0ab85e445acf7b28d665b6af7c4f
+--start 27500

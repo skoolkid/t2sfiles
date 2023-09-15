@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SpaceRace.tap.zip
+space-race.z80
+--tape-name "Space Race (128K).TAP"
+--tape-sum e622f58f29692a3c76cde61e6b428211
+--start 1343
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

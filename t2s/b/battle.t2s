@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Battle_2.tap.zip
+battle.z80
+--tape-name "pg136_battle.tap"
+--tape-sum ea53c7637b602c6c58938622c21528f8
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/King.zip
+king.z80
+--sim-load
+--tape-name "King.tzx"
+--tape-sum 8f526b6bc2f45c9c4c63b660682ad226
+--start 34104

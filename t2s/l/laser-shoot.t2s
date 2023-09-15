@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/j/JustImagine.tzx.zip
+laser-shoot.z80
+--sim-load
+--tape-name "Just Imagine - Side B.tzx"
+--tape-sum 2d65374a550f73c97b0c57f44198427b
+--start 1343
+--sim-load-config finish-tape=1

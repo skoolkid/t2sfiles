@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/g/Goblins.tzx.zip
+goblins.z80
+--sim-load
+--tape-name "Goblins.tzx"
+--tape-sum b80bf09084bc22e90458c3e0b0513a5d
+--start 1343
+--sim-load-config finish-tape=1

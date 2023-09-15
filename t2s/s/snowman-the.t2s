@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SnowmanThe.tzx.zip
+snowman-the.z80
+--sim-load
+--tape-name "The Snowman.tzx"
+--tape-sum 5bcf3029069a2c24034777cdd7c45f15
+--start 23322

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/g/GoldTruck.tap.zip
+gold-truck.z80
+--sim-load
+--tape-name "GoldTruck.TAP"
+--tape-sum b58ecd314d8dfce35f3846146219639c
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/Terramex.tzx.zip
+terramex.z80
+--sim-load
+--tape-name "Terramex.tzx"
+--tape-sum 520af78bf4878c76d3ebdc7b8d63d535
+--start 23902
+--tape-stop 6

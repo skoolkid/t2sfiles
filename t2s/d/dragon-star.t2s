@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DragonStar.tzx.zip
+dragon-star.z80
+--sim-load
+--tape-name "The Dragon Star.tzx"
+--tape-sum 41909b599c280b89bc7f087f110ab321
+--start 1343
+--sim-load-config finish-tape=1

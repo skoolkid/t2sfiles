@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/k/KingAndTheCastleThe.tzx.zip
+king-and-the-castle-the.z80
+--sim-load
+--tape-name "TheKingAndTheCastle.tzx"
+--tape-sum 3ce55e878e0c9afebbc6a21ca31a1cb7
+--start 49860

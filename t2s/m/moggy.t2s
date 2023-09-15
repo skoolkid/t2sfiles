@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Moggy.tzx.zip
+moggy.z80
+--sim-load
+--tape-name "Moggy.tzx"
+--tape-sum 852d789ae2691f2325d87c8438eb9a61
+--start 24000

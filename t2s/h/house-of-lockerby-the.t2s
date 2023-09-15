@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/h/HouseOfLockerbyThe.tzx.zip
+house-of-lockerby-the.z80
+--tape-name "The House Of Lockerby.tzx"
+--tape-sum 496c5999d7c02d2cc1dc2f14eb559dcb
+--start 34887
+--sim-load-config machine=128

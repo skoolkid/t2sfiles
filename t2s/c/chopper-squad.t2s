@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/ChopperSquad.tap.zip
+chopper-squad.z80
+--sim-load
+--tape-name "ChopperSquad.tap"
+--tape-sum 4d8e9d60b1931417104ff91b63571ff3
+--start 1343
+--sim-load-config finish-tape=1

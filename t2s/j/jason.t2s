@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/j/Jason.tap.zip
+jason.z80
+--sim-load
+--tape-name "Jason.tap"
+--tape-sum 0e943d51e59354cc65e8c4383378dda3
+--start 29073
+--sim-load-config finish-tape=1

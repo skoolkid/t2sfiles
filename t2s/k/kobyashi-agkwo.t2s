@@ -1,0 +1,7 @@
+"https://tzxvault.org/Spectrum/TZX/KobyashiAg'Kwo.zip"
+kobyashi-agkwo.z80
+--sim-load
+--tape-name "Kobyashi Ag'Kwo.tzx"
+--tape-sum 9ad50c7436be77b24b82bb28b83c0230
+--start 29169
+--sim-load-config finish-tape=1

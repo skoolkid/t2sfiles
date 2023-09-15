@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/l/LunaPark.tzx.zip
+luna-park.z80
+--sim-load
+--tape-name "LunaPark.tzx"
+--tape-sum 108c229769a0569aa06de4751f164ead
+--start 34104

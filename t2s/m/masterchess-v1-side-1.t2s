@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MasterchessV1.tzx.zip
+masterchess-v1-side-1.z80
+--sim-load
+--tape-name "Master Chess - Release 1 - Side 1 (Mikro-Gen).tzx"
+--tape-sum de330b95a902a29e402680025313c2f8
+--start 1343
+--sim-load-config finish-tape=1

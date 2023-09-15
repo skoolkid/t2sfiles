@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Scrabble.zip
+scrabble.z80
+--sim-load
+--tape-name "Scrabble.tzx"
+--tape-sum 6f8f17b1d424763e51e1e8f0e2841bc0
+--start 24400

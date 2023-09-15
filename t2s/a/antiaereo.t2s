@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/Antiaereo(LucasJorge).tzx.zip
+antiaereo.z80
+--sim-load
+--tape-name "Antiaereo.tzx"
+--tape-sum 2b4acbea389dfcf3af78a2befbaf3398
+--start 1343
+--sim-load-config finish-tape=1

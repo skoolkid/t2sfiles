@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MagicTreasureAdventure.tzx.zip
+magic-treasure-adventure.z80
+--sim-load
+--tape-name "Magic Treasure Adventure.tzx"
+--tape-sum b32d47dc7ecf43e056779a7aab689fb9
+--start 1343
+--sim-load-config finish-tape=1

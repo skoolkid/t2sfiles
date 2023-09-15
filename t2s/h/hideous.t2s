@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/h/Hideous.tzx.zip
+hideous.z80
+--sim-load
+--tape-name "Hideous.tzx"
+--tape-sum af78d18eceb3164865324e9f198f05c2
+--start 28672

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TerrorFromSarnath.tap.zip
+terror-from-sarnath-p1.z80
+--sim-load
+--tape-name "Terror From Sarnath - Part 1.tap"
+--tape-sum 1373c82f50385f391eac801ed216ec87
+--start 29169
+--sim-load-config finish-tape=1

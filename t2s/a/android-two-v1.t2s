@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AndroidTwoV1.tzx.zip
+android-two-v1.z80
+--sim-load
+--tape-name "Android 2 - Release 1.tzx"
+--tape-sum 4682fa758dc61a1714480101b786868f
+--start 1343
+--sim-load-config finish-tape=1

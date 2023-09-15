@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/r/Rakattak.tzx.zip
+rakattak.z80
+--sim-load
+--tape-name "Rakattak.tzx"
+--tape-sum 0a28cb14ae4761a40aed55b3c2320643
+--start 36800

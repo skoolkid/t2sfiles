@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/f/FairlightII128.tzx.zip
+fairlight-ii-128k.z80
+--tape-name "Fairlight II - 128k.tzx"
+--tape-sum 033883a056f420b2cbce61c77dada470
+--start 44535
+--sim-load-config machine=128
+--sim-load-config accelerator=alkatraz

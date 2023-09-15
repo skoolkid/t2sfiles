@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/j/JetSetWilly128KV0.00(HackLevel1).tzx.zip
+jet-set-willy-128k-v0.00-hack-level-1.z80
+--tape-name "Jet Set Willy - 128k v.0.00 Hack Level 1.tzx"
+--tape-sum 61d51b0951b42fee553a0838e424c67d
+--start 33792
+--sim-load-config machine=128

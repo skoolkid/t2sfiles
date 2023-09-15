@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/Defender.tzx.zip
+defender-richard-altwasser.z80
+--sim-load
+--tape-name "Defender.tzx"
+--tape-sum a0fbea8e76e8095539f8006c58a6b471
+--start 1343
+--sim-load-config finish-tape=1

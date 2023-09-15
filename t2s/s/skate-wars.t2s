@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SkateWars.tzx.zip
+skate-wars.z80
+--sim-load
+--tape-name "Skate Wars.tzx"
+--tape-sum 0445b63aeab5c18d7c13b17d216db78d
+--start 24576
+--sim-load-config accelerator=rom

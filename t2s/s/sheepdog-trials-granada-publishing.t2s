@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SheepdogTrials.tap.zip
+sheepdog-trials-granada-publishing.z80
+--sim-load
+--tape-name "SheepdogTrials.tap"
+--tape-sum 9ca44a8a35a7d11b1d7d79e84a9ab28d
+--start 1343
+--sim-load-config finish-tape=1

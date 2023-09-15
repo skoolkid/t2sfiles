@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/f/FiveTreasuresOfRyzarThe.tzx.zip
+five-treasures-of-ryzar-the.z80
+--sim-load
+--tape-name "5 Treasures Of Ryzar.tzx"
+--tape-sum d8ad058de2e3bb46168af88133b40232
+--start 1343
+--sim-load-config finish-tape=1

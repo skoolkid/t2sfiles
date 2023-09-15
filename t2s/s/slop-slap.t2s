@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Slop-Slap.tzx.zip
+slop-slap.z80
+--sim-load
+--tape-name "Slop-slap.tzx"
+--tape-sum 35750dd1081caacf37a3f0ec7d623803
+--start 1343
+--sim-load-config finish-tape=1

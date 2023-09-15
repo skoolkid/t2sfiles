@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/f/FloggingADeadHorse_2.tap.zip
+flogging-a-dead-horse.z80
+--sim-load
+--tape-name "flog.tap"
+--tape-sum 8ad92b3fe89ce716f3e417bef71d63be
+--start 1343
+--sim-load-config finish-tape=1

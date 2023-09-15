@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PlanetLander.tap.zip
+planet-lander.z80
+--tape-name "Planet_Lander.tap"
+--tape-sum 88dd0f6a7a8b62b5743a53c4b4357d83
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

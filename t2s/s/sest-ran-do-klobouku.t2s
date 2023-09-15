@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SestRanDoKlobouku.tap.zip
+sest-ran-do-klobouku.z80
+--sim-load
+--tape-name "KLOBOUK.TAP"
+--tape-sum 95dd5be3404bf23960ee5b464eb2ffc0
+--start 1343
+--sim-load-config finish-tape=1

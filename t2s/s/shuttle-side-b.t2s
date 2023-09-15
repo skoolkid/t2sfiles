@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Shuttle.zip
+shuttle-side-b.z80
+--sim-load
+--tape-name "Shuttle - Side B.tzx"
+--tape-sum 161a6a79ce83276cc95813b4f0ab45ca
+--start 40001

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Snake_6.tap.zip
+snake-john-williamson.z80
+--sim-load
+--tape-name "SNAKE_SP.TAP"
+--tape-sum 1577fac8809ddbc383913bf09ba41cf7
+--start 1343
+--sim-load-config finish-tape=1

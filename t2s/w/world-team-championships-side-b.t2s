@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/w/WorldTeamChampionships.tzx.zip
+world-team-championships-side-b.z80
+--sim-load
+--tape-name "World Team Championships - Side B.tzx"
+--tape-sum 20e97a455d8a198d89b5b8bab3b36054
+--start 1343
+--sim-load-config finish-tape=1

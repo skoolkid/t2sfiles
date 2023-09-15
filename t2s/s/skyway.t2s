@@ -1,6 +1,7 @@
-https://spectrumcomputing.co.uk/pub/sinclair/games/s/Skyway.tzx.zip
+https://worldofspectrum.net/pub/sinclair/games/s/Skyway.tzx.zip
 skyway.z80
 --sim-load
---tape-name Skyway.tzx
+--tape-name "Skyway.tzx"
 --tape-sum 78bc636a3eceff22141a26a720e2c0bb
 --start 64963
+--sim-load-config accelerator=speedlock

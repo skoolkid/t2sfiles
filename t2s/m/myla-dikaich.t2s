@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MylaDiKaich.tzx.zip
+myla-dikaich.z80
+--sim-load
+--tape-name "Myla Di'Kaich.tzx"
+--tape-sum 64e6a7bfbbcc8e3ba1107ec8b1867498
+--start 65177
+--sim-load-config accelerator=rom

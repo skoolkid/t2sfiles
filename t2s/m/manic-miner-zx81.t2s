@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/ManicMinerZX81.tzx.zip
+manic-miner-zx81.z80
+--tape-name "Manic Miner - ZX81.tzx"
+--tape-sum 0329e2b946156f17ef963ac3f5544484
+--start 32768
+--sim-load-config machine=128

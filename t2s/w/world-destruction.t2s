@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/w/WorldDestruction.tap.zip
+world-destruction.z80
+--sim-load
+--tape-name "WORLDDES.TAP"
+--tape-sum 8da9c5f6c2cc657082f11209dd3b8b36
+--start 40317

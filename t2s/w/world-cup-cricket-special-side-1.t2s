@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/w/WorldCupCricket-Special.tzx.zip
+world-cup-cricket-special-side-1.z80
+--sim-load
+--tape-name "World Cup Cricket - Special - Side 1.tzx"
+--tape-sum 60cb52a90acbc8d46e10030a10ff1a19
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/o/Othello2005a.tzx.zip
+othello-2005a.z80
+--sim-load
+--tape-name "Othello 2005a.tzx"
+--tape-sum d1adb16f9324d9ef2ec7bd8df945f758
+--start 22499
+--sim-load-config accelerator=tiny,rom

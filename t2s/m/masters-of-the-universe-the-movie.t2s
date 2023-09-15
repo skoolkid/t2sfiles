@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MastersOfTheUniverse-TheMovie.tzx.zip
+masters-of-the-universe-the-movie.z80
+--sim-load
+--tape-name "Masters Of The Universe.tzx"
+--tape-sum 76e4136ddce8529058ba5e10bb52602f
+--start 61457

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/ConquerorsOfSpace.tzx.zip
+conquerors-of-space.z80
+--sim-load
+--tape-name "Conquerors Of Space.tzx"
+--tape-sum 13c1f7e3569cabf1a925828754b51b2f
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AyforiaKingdom.tap.zip
+ayforia-kingdom.z80
+--sim-load
+--tape-name "kor_eiforiya_rus.tap"
+--tape-sum c31f8af235f2d15a08f16611b2ed3d5a
+--start 16660
+--sim-load-config accelerator=rom

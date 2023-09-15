@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/k/KingsKeep.tzx.zip
+kings-keep.z80
+--sim-load
+--tape-name "The King's Keep.tzx"
+--tape-sum f1538884e74da714709df95c4097da27
+--start 23969
+--sim-load-config accelerator=bleepload

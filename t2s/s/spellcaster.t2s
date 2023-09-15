@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Spellcaster.tzx.zip
+spellcaster.z80
+--sim-load
+--tape-name "Spellcaster.tzx"
+--tape-sum c748cc5590f6113d0b91d2b1a14cba8e
+--start 34104
+--tape-stop 5

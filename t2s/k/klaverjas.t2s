@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/k/Klaverjas.tap.zip
+klaverjas.z80
+--sim-load
+--tape-name "Klaver.tap"
+--tape-sum 31c675b9cbfbde85b8ab6e16625779cc
+--start 1343
+--sim-load-config finish-tape=1

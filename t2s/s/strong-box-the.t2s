@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/StrongBoxThe.tzx.zip
+strong-box-the.z80
+--sim-load
+--tape-name "StrongBoxThe.tzx"
+--tape-sum 5fdc1ea33dcd0c7ae99056383c4ac858
+--start 1343
+--sim-load-config finish-tape=1

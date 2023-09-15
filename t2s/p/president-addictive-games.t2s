@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/President.tzx.zip
+president-addictive-games.z80
+--sim-load
+--tape-name "President.tzx"
+--tape-sum 42a148d985bc669d89262248b2553141
+--start 35277
+--sim-load-config accelerator=rom

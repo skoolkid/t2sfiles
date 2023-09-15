@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Snooker3D.tzx.zip
+3d-snooker.z80
+--sim-load
+--tape-name "3D Snooker.tzx"
+--tape-sum 0c5a4a5a87698af387296a9aa0852797
+--start 39495

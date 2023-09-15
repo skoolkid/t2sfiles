@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TotalRecall.tzx.zip
+total-recall.z80
+--tape-name "Total Recall.tzx"
+--tape-sum 79f8be5268caab2bc97187533f85aa96
+--start 48733
+--sim-load-config machine=128
+--sim-load-config accelerator=speedlock
+--sim-load-config finish-tape=1

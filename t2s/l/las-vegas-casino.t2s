@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/l/LasVegasCasino.tzx.zip
+las-vegas-casino.z80
+--sim-load
+--tape-name "Las Vegas Casino.tzx"
+--tape-sum 6813cf3a7cb451d38a73d2b83031d8f3
+--start 51548
+--sim-load-config accelerator=bleepload

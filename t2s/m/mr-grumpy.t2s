@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Mr.Grumpy.tap.zip
+mr-grumpy.z80
+--sim-load
+--tape-name "MRGRUM_1.TAP"
+--tape-sum cd42ffd4e0289b5eb0feb9029bc9d3b1
+--start 1343
+--sim-load-config finish-tape=1

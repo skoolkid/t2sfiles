@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AlterEgo.tzx.zip
+alter-ego.z80
+--sim-load
+--tape-name "Alter Ego.tzx"
+--tape-sum 7e2986acd5d0c31879e69b25e0d9c62b
+--start 37000

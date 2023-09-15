@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Boatit.tap.zip
+boatit.z80
+--sim-load
+--tape-name "Boatit.tap"
+--tape-sum 449b32d53ae46fee4af0469750fae783
+--start 1343
+--sim-load-config finish-tape=1

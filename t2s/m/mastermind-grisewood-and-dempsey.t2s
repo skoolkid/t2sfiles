@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Mastermind_3.tap.zip
+mastermind-grisewood-and-dempsey.z80
+--tape-name "mastermind.tap"
+--tape-sum f1e24dfe32d578f9a59bcde8876cdf66
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

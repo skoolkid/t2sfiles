@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/w/WillyTheRogue.tap.zip
+willy-the-rogue.z80
+--tape-name "Willy The Rogue.tap"
+--tape-sum 7a33001b043b502e71991096da5bd6f1
+--start 33792
+--sim-load-config machine=128

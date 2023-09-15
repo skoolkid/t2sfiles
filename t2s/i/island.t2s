@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/i/Island.tzx.zip
+island.z80
+--sim-load
+--tape-name "Island.tzx"
+--tape-sum 53b05559fd85f266c4f9a8158e8a4f27
+--start 1343
+--sim-load-config finish-tape=1

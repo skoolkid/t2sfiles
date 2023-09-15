@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/n/NimII.tzx.zip
+nim-ii.z80
+--sim-load
+--tape-name "Nim2.tzx"
+--tape-sum dd6d2f604adc019eec19fb375f7532bd
+--start 1343
+--sim-load-config finish-tape=1

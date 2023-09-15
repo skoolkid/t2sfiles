@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/ClutchesOfTheBalrog.tzx.zip
+clutches-of-the-balrog.z80
+--sim-load
+--tape-name "Clutches Of The Balrog.tzx"
+--tape-sum c8c9ea51a93af1277dc24a8c2a0fb6d9
+--start 25000

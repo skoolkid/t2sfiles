@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MeziVezemi.tzx.zip
+mezi-vezemi.z80
+--tape-name "MeziVezemi.tzx"
+--tape-sum f095a0d57f4cfbf558af0c2dc778f208
+--start 29899
+--sim-load-config machine=128

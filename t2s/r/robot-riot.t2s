@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RobotRiot.tzx.zip
+robot-riot.z80
+--sim-load
+--tape-name "Robot Riot.tzx"
+--tape-sum fe122c5de9395c73508835a887931faf
+--start 1343
+--sim-load-config finish-tape=1

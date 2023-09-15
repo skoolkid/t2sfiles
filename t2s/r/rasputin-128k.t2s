@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/r/Rasputin128.tzx.zip
+rasputin-128k.z80
+--tape-name "Rasputin - 128k.tzx"
+--tape-sum 34f8c140977387ee652719d3201b860e
+--start 1343
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

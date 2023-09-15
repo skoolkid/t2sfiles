@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MazeOfTerror.tap.zip
+maze-of-terror.z80
+--sim-load
+--tape-name "MAZETERR.TAP"
+--tape-sum 0d68208df1f0cc7cd090109d07cf2944
+--start 1343
+--sim-load-config finish-tape=1

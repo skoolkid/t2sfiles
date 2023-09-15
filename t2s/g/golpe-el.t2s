@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/g/GolpeEl.tap.zip
+golpe-el.z80
+--sim-load
+--tape-name "El Golpe.tap"
+--tape-sum 8903dac261d0d7b6d20fc0ce6dd79bb6
+--start 1343
+--sim-load-config finish-tape=1

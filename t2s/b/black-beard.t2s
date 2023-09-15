@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BlackBeard.tzx.zip
+black-beard.z80
+--sim-load
+--tape-name "Black Beard (Spanish).tzx"
+--tape-sum 3a934e301f45521989db634ca750012c
+--start 65308
+--tape-stop 11
+--sim-load-config accelerator=rom

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/h/Heri.tap.zip
+heri.z80
+--sim-load
+--tape-name "Heri.tap"
+--tape-sum a21474fb15f4050408018cbb28b5a505
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MatchDayII.tzx.zip
+match-day-ii.z80
+--sim-load
+--tape-name "Match Day II.tzx"
+--tape-sum 6b1e27ac8543a9ea1e4f574119ed3b4f
+--start 65248
+--sim-load-config accelerator=speedlock

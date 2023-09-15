@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/k/Keycode_2.tzx.zip
+keycode-darryl-lecount.z80
+--sim-load
+--tape-name "Keycode/KEYCODE.TZX"
+--tape-sum 97d8dbf3a25381aa539c41a39009dd0d
+--start 1343
+--sim-load-config finish-tape=1

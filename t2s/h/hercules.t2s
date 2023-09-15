@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/h/Hercules.tzx.zip
+hercules.z80
+--sim-load
+--tape-name "Hercules (Alpha-Omega Software).tzx"
+--tape-sum 4286adf994fcb8f0dc46bc952cd0b677
+--start 64888
+--sim-load-config accelerator=speedlock

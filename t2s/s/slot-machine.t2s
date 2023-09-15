@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Slot-Machine.tzx.zip
+slot-machine.z80
+--sim-load
+--tape-name "Slot-Machine.tzx"
+--tape-sum 2bf8aa5c10a5c3c62838b43712d030a7
+--start 1343
+--sim-load-config finish-tape=1

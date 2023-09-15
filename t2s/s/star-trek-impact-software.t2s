@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/s/StarTrek16.tzx.zip
+star-trek-impact-software.z80
+--sim-load
+--tape-name "StarTrek16k.tzx"
+--tape-sum e1b31bb441c67e13136c9a95e530eb65
+--start 1343
+--tape-stop 4
+--sim-load-config finish-tape=1

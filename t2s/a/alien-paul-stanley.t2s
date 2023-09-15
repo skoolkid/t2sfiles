@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/Alien_4.tap.zip
+alien-paul-stanley.z80
+--sim-load
+--tape-name "Alien.tap"
+--tape-sum 31f25f7458f0084bbeaa1b5a22f8fd3d
+--start 1343
+--sim-load-config finish-tape=1

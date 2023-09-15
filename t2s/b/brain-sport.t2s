@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BrainSport.tzx.zip
+brain-sport.z80
+--sim-load
+--tape-name "BRAINSPO.TZX"
+--tape-sum f42bf3a9899ccc5329e827b663bd7cf0
+--start 65149
+--sim-load-config accelerator=rom

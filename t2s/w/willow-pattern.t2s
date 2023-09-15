@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/w/WillowPattern.tzx.zip
+willow-pattern.z80
+--sim-load
+--tape-name "Willow Pattern.tzx"
+--tape-sum 0e8b5908f0623a72b24e39589ba8a5f0
+--start 23345
+--sim-load-config accelerator=rom

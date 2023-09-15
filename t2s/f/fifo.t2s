@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/f/F.I.F.O..tap.zip
+fifo.z80
+--sim-load
+--tape-name "FIFO.TAP"
+--tape-sum c8e3642303a892fae804f53f011e5ebc
+--start 58266

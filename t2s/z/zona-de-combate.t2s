@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/z/ZonaDeCombate.tzx.zip
+zona-de-combate.z80
+--sim-load
+--tape-name "Zona De Combate.tzx"
+--tape-sum 2430939895cee06ffb8d7779ccc87564
+--start 1343
+--sim-load-config finish-tape=1

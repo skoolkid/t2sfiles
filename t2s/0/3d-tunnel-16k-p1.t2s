@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/Tunnel3D.tzx.zip
+3d-tunnel-16k-p1.z80
+--sim-load
+--tape-name "3D Tunnel - 16k.tzx"
+--tape-sum aaf03700d56d687425c686133afa6ed5
+--start 31212
+--tape-stop 6

@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Patience5-Pairs.tap.zip
+patience-5-pairs.z80
+--sim-load
+--tape-name "PATIENC5.TAP"
+--tape-sum bc2ab37d2664cc40586c6f252701d15e
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN 2200'

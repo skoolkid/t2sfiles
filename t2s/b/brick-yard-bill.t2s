@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Brick-YardBill.tap.zip
+brick-yard-bill.z80
+--sim-load
+--tape-name "BRICKBIL.TAP"
+--tape-sum 6dbb14f1d17d441f56afe91b3568ea3d
+--start 1343
+--sim-load-config finish-tape=1

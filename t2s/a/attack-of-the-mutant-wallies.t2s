@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AttackOfTheMutantWallies.tap.zip
+attack-of-the-mutant-wallies.z80
+--tape-name "WALLIES.TAP"
+--tape-sum 2e6b6564dd5ea9292f14c080810b0884
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

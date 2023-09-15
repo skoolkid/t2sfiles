@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SandScorchers.tzx.zip
+sand-scorchers.z80
+--sim-load
+--tape-name "Sand Scorchers.tzx"
+--tape-sum a0b141d83f0df9d11b3ffa8ed35896e3
+--start 40000

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/g/GolfingWorld.tzx.zip
+golfing-world-side-a.z80
+--sim-load
+--tape-name "Golfing World - Side A.tzx"
+--tape-sum 904b0a60108c307e11c5f6a2f056c321
+--start 1343
+--sim-load-config finish-tape=1

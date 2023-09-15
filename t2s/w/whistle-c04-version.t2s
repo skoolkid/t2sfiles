@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Whistle-C04Version.zip
+whistle-c04-version.z80
+--sim-load
+--tape-name "Whistle - C04 Version.tzx"
+--tape-sum f30c1d83c54910971ce698301f80cd1c
+--start 25063

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/g/Galaxian.tzx.zip
+galaxian.z80
+--sim-load
+--tape-name "Galaxian.tzx"
+--tape-sum 390029963280e01e361e037ea63b8e9a
+--start 32803
+--sim-load-config accelerator=rom

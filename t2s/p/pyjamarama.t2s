@@ -1,6 +1,7 @@
-https://www.worldofspectrum.org/pub/sinclair/games/p/PyjamaramaV1.tzx.zip
+https://worldofspectrum.org/pub/sinclair/games/p/PyjamaramaV1.tzx.zip
 pyjamarama.z80
 --sim-load
 --tape-name "Pyjamarama - v1.tzx"
 --tape-sum 3b02458c8a933d4fb40911979a169d5a
 --start 32819
+--sim-load-config accelerator=speedlock

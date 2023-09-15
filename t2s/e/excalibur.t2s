@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/e/Excalibur.tzx.zip
+excalibur.z80
+--sim-load
+--tape-name "Excalibur.tzx"
+--tape-sum d0277cb9af55b131c2dc9d31252b4f60
+--start 1343
+--sim-load-config finish-tape=1

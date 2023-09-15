@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Reversi.zip
+reversi-sinclair-research.z80
+--sim-load
+--tape-name "Reversi.tzx"
+--tape-sum 145fb11cb38686a983553150e52a4b54
+--start 24064

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/g/GhostGobbler.tap.zip
+ghost-gobbler.z80
+--sim-load
+--tape-name "GhostGobbler.tap"
+--tape-sum 9d6a5b7864bb71cc54d756a59eccf105
+--start 1343
+--sim-load-config finish-tape=1

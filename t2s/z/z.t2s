@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/z/Z.tap.zip
+z.z80
+--sim-load
+--tape-name "Z.TAP"
+--tape-sum 9b8d01347f779fb86da5ebd70bd9acef
+--start 41072

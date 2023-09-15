@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MoleRat.tap.zip
+mole-rat.z80
+--sim-load
+--tape-name "MOLERAT_1.tap"
+--tape-sum 86f5dd8c099054518ea5af59ac62e073
+--start 41344

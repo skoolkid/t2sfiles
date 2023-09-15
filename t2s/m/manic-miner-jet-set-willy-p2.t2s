@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/ManicMiner-JetSetWilly.tzx.zip
+manic-miner-jet-set-willy-p2.z80
+--sim-load
+--tape-name "Manic Miner - Jet Set Willy - Part 2.tzx"
+--tape-sum 3d481e26ae43755ebde5c23fb70a4949
+--start 1343
+--sim-load-config finish-tape=1

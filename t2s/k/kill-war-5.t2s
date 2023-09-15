@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/k/KillWar5.tzx.zip
+kill-war-5.z80
+--sim-load
+--tape-name "killwar5.tzx"
+--tape-sum 426c5c046a528536b85af0cec9d55c55
+--start 1343
+--sim-load-config finish-tape=1

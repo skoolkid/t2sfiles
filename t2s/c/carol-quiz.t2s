@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CarolQuiz.tzx.zip
+carol-quiz.z80
+--sim-load
+--tape-name "Carol Quiz.tzx"
+--tape-sum 26b7ff7c57091a5e85d14c1e6587efbf
+--start 1343
+--sim-load-config finish-tape=1

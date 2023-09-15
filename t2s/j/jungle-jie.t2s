@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/j/JungleJie.tzx.zip
+jungle-jie.z80
+--sim-load
+--tape-name "Jungle Jie.tzx"
+--tape-sum e51d6658f9d9206020aff5a1661205eb
+--start 42500

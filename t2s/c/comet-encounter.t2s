@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CometEncounter.tzx.zip
+comet-encounter.z80
+--sim-load
+--tape-name "Comet Encounter.tzx"
+--tape-sum d113511ca636395999602e7ffc57295c
+--start 1343
+--sim-load-config finish-tape=1

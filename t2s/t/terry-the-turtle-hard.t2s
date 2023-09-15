@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TerryTheTurtle(Hard).tap.zip
+terry-the-turtle-hard.z80
+--tape-name "TTT-RED-Hard.tap"
+--tape-sum 88150b6ff6c54d6eebe8995273044888
+--start 32039
+--sim-load-config machine=128

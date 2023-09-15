@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Mega-Corp.tzx.zip
+megacorp-p1.z80
+--sim-load
+--tape-name "Megacorp - Part 1.tzx"
+--tape-sum c2ff04b82ec7152baeffee8573179026
+--start 34104

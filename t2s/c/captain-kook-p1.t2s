@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CaptainKook.tzx.zip
+captain-kook-p1.z80
+--sim-load
+--tape-name "Captain Kook - Part 1.tzx"
+--tape-sum dbd3199849fe33c562665ce52668328d
+--start 29169
+--sim-load-config finish-tape=1

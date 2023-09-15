@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/h/Hunter-Killer.tzx.zip
+hunter-killer.z80
+--sim-load
+--tape-name "Hunter Killer.tzx"
+--tape-sum e3f216d66cce5f5035dc72297090fe42
+--start 1343
+--sim-load-config finish-tape=1

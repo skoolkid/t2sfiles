@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Sophistry.tzx.zip
+sophistry.z80
+--sim-load
+--tape-name "Sophistry.tzx"
+--tape-sum b91c04f396b287d025c2403fcdeb7747
+--start 36220
+--sim-load-config accelerator=rom

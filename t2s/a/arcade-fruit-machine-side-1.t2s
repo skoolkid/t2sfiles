@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/ArcadeFruitMachine.zip
+arcade-fruit-machine-side-1.z80
+--sim-load
+--tape-name "Arcade Fruit Machine - Side 1.tzx"
+--tape-sum 44e17d76459c9b0738ee3b29394aa9f8
+--start 23371

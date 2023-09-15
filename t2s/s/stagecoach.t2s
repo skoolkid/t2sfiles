@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Stagecoach.tzx.zip
+stagecoach.z80
+--sim-load
+--tape-name "Stagecoach.tzx"
+--tape-sum 882ecbd65a677172e437a2a43a5c9837
+--start 23808

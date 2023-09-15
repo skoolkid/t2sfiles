@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/d/Doomsday.tzx.zip
+doomsday.z80
+--sim-load
+--tape-name "Doomsday.tzx"
+--tape-sum e3c3093b9fcb05bc01280ca45ad367b3
+--start 1343
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

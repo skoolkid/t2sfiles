@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RougeMidget.tzx.zip
+rouge-midget.z80
+--sim-load
+--tape-name "Rouge Midget.tzx"
+--tape-sum 9af5c06f1de8c51e192534ba24c9ecdf
+--start 25000

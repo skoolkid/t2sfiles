@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DarkTowerThe.tzx.zip
+dark-tower-the.z80
+--sim-load
+--tape-name "The Dark Tower.tzx"
+--tape-sum 74cc7cd6537613a635daf19375a9c9bd
+--start 29169
+--sim-load-config finish-tape=1

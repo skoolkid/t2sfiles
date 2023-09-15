@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DarkGladiatorThe.tzx.zip
+dark-gladiator-the.z80
+--tape-name "The Dark Gladiator.tzx"
+--tape-sum 4496136ec41310f50f8f8a6cc5d9a65f
+--start 34887
+--sim-load-config machine=128

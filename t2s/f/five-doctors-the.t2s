@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/f/FiveDoctorsThe.tzx.zip
+five-doctors-the.z80
+--sim-load
+--tape-name "The Five Doctors.tzx"
+--tape-sum 912256b74c791708da3b47acf07ba4f5
+--start 1343
+--sim-load-config finish-tape=1

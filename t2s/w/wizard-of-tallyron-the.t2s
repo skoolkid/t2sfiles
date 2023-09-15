@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/w/WizardOfTallyronThe.tzx.zip
+wizard-of-tallyron-the.z80
+--sim-load
+--tape-name "The Wizard Of Tallyron.tzx"
+--tape-sum d8cae98120127ea119813f492f02d3d1
+--start 1343
+--sim-load-config finish-tape=1

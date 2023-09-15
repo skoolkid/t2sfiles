@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/e/Existenz.tzx.zip
+existenz.z80
+--sim-load
+--tape-name "EXISTENZ.tzx"
+--tape-sum 1008ed935152bb2a3d891f42d5a01221
+--start 22499
+--sim-load-config accelerator=tiny,rom

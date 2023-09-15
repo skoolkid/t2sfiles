@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SouthDevonHydraulics.tzx.zip
+south-devon-hydraulics.z80
+--sim-load
+--tape-name "South Devon Hydraulics.tzx"
+--tape-sum 9125904b3b56899a245755de3d10ab51
+--start 1343
+--sim-load-config finish-tape=1

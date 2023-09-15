@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Schizoids.zip
+schizoids.z80
+--sim-load
+--tape-name "Schizoids.tzx"
+--tape-sum e76a4a8c3dba88df093b4f8e381573be
+--start 24577

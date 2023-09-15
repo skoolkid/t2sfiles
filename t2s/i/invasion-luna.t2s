@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/i/InvasionLuna.tzx.zip
+invasion-luna.z80
+--sim-load
+--tape-name "Invasion Luna.tzx"
+--tape-sum e342d02688965abaf9f9a5bba5911138
+--start 29041
+--sim-load-config finish-tape=1

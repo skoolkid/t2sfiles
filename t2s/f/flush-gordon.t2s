@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/f/FlushGordon.tzx.zip
+flush-gordon.z80
+--sim-load
+--tape-name "Flush Gordon.tzx"
+--tape-sum 7cf119fc75c1cf90f1710c804e4b75bd
+--start 36366
+--sim-load-config finish-tape=1

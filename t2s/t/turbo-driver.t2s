@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TurboDriver.tap.zip
+turbo-driver.z80
+--sim-load
+--tape-name "TURBOD_1.TAP"
+--tape-sum fc4db452bd2999eadf3dd31b43946d56
+--start 29020
+--tape-stop 5

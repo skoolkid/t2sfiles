@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/g/Gunship128.tzx.zip
+gunship-128k.z80
+--tape-name "Gunship - 128k.tzx"
+--tape-sum 1ef38a82ff707d085f5d38b373aaa892
+--start 62248
+--sim-load-config machine=128

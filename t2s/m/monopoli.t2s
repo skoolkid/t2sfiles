@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Monopoli.tzx.zip
+monopoli.z80
+--sim-load
+--tape-name "Monopoli.tzx"
+--tape-sum 1a93a1066591024b7939bd53a056475f
+--start 1343
+--sim-load-config finish-tape=1

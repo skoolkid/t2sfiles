@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Cyrox.tzx.zip
+cyrox.z80
+--sim-load
+--tape-name "Cyrox.tzx"
+--tape-sum f0117c86ad69dfc65ea954b19a7a1bb1
+--start 33001

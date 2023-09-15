@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TempiModerni87.tzx.zip
+tempi-moderni-87.z80
+--sim-load
+--tape-name "TempiModerni87.tzx"
+--tape-sum 60439bec7911e305a9fae673d15ec682
+--start 40000

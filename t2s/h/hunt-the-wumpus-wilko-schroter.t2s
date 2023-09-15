@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/h/HuntTheWumpus.tzx.zip
+hunt-the-wumpus-wilko-schroter.z80
+--sim-load
+--tape-name "Wumpus.tzx"
+--tape-sum 20eaade5d15f5c1c33ca8b208d26a820
+--start 1343
+--sim-load-config finish-tape=1

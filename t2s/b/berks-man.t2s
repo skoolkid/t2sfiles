@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/BerksMan.zip
+berks-man.z80
+--sim-load
+--tape-name "BerksMan.tzx"
+--tape-sum e65a6099e7222938784550ca0cb949f6
+--start 32768

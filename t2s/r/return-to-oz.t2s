@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/r/ReturnToOz.tzx.zip
+return-to-oz.z80
+--sim-load
+--tape-name "Return To Oz.tzx"
+--tape-sum 86ad3fa4035d9adfe943d70adc017420
+--start 64674
+--sim-load-config accelerator=alkatraz

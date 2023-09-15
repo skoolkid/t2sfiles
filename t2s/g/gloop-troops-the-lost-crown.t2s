@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/g/GloopTroops-TheLostCrown.tap.zip
+gloop-troops-the-lost-crown.z80
+--sim-load
+--tape-name "GLOOPTROOPS-LOSTCROWN.TAP"
+--tape-sum 73252ab6fa713798669e3ca6e36e13fe
+--start 24800

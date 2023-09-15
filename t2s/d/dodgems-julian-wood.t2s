@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/d/Dodgems.tzx.zip
+dodgems-julian-wood.z80
+--sim-load
+--tape-name "Dodgems.tzx"
+--tape-sum 1cbc7207eb62a956b934c89ccf83b88b
+--start 23760

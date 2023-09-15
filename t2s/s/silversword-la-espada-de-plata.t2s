@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Silversword-LaEspadaDePlata_2.tap.zip
+silversword-la-espada-de-plata.z80
+--sim-load
+--tape-name "Silversword - La Espada De Plata.tap"
+--tape-sum 40d2ffd3524ff0d21fbdc435f04d85bf
+--start 29073
+--sim-load-config finish-tape=1

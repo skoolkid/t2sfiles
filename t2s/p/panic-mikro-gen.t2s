@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Panic.tzx.zip
+panic-mikro-gen.z80
+--sim-load
+--tape-name "Panic (Mikro-Gen).tzx"
+--tape-sum 3394a3acaff7958667ebcff24bf4c4fa
+--start 31181

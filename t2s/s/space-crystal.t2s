@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SpaceCrystal.tzx.zip
+space-crystal.z80
+--sim-load
+--tape-name "Space Crystal.tzx"
+--tape-sum e64bbff9d28cf6493506860dba5db585
+--start 1343
+--sim-load-config finish-tape=1

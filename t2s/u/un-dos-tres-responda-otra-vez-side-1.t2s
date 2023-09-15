@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/u/UnDosTresRespondaOtraVez.tzx.zip
+un-dos-tres-responda-otra-vez-side-1.z80
+--sim-load
+--tape-name "Un, Dos, Tres Responda Otra Vez - Side 1.tzx"
+--tape-sum c65554e34d40763e1b22b8a2d7d83750
+--start 1343
+--tape-stop 22
+--sim-load-config finish-tape=1

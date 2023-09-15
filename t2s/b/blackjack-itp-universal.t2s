@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Blackjack.tap.zip
+blackjack-itp-universal.z80
+--sim-load
+--tape-name "UNIVERS.TAP"
+--tape-sum 5add19361970f28afd9ca19f7924ef88
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Milliman.tzx.zip
+miliman.z80
+--sim-load
+--tape-name "miliman.tzx"
+--tape-sum 63da6c4ba52f18a0198321442a63cf17
+--start 1343
+--sim-load-config finish-tape=1

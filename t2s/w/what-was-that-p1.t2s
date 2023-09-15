@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/w/WhatWasThat.tap.zip
+what-was-that-p1.z80
+--sim-load
+--tape-name "What Was That - Part 1.tap"
+--tape-sum 655923d13198b53e706a1e4ceb2b8b0e
+--start 36376
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SpectrumShoot.tap.zip
+spectrum-shoot.z80
+--sim-load
+--tape-name "SpectrumShoot.tap"
+--tape-sum e8631edb31029df1d73f5947d228f3fe
+--start 1343
+--sim-load-config finish-tape=1

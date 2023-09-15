@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/h/HobbitEl.tzx.zip
+el-hobbit.z80
+--sim-load
+--tape-name "jbgv_el_hobbit.tzx"
+--tape-sum d98d0f515a6db2b832c0316f4d94a1a7
+--start 31000

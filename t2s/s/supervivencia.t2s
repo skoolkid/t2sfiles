@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Supervivencia.tap.zip
+supervivencia.z80
+--sim-load
+--tape-name "Supervivencia (El Firfurcio) (With PAWS Database).tap"
+--tape-sum d07482110426711e25d08b202d5ec7ce
+--start 29073
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TorreOscuraLa.tap.zip
+torre-oscura-la-p2.z80
+--sim-load
+--tape-name "La Torre Oscura - Part 2.tap"
+--tape-sum f25697e339de740862a32d8f1fe03216
+--start 29041
+--sim-load-config finish-tape=1

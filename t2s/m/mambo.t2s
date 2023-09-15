@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Mambo.tzx.zip
+mambo.z80
+--sim-load
+--tape-name "Mambo.tzx"
+--tape-sum 65e10b18ff20af221232d53d62d95fb4
+--start 23374

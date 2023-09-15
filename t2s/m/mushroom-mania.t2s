@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/MushroomMania.zip
+mushroom-mania.z80
+--sim-load
+--tape-name "Mushroom Mania.tzx"
+--tape-sum d15322d87a75cb6b30aaa75458a0e9ee
+--start 54000

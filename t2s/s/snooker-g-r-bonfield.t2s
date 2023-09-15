@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Snooker_2.tzx.zip
+snooker-g-r-bonfield.z80
+--sim-load
+--tape-name "Snooker (G.R. Bonfield).tzx"
+--tape-sum 226ea9add7b8b2b364093bd9c4a91810
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/g/Grid-Run.tzx.zip
+grid-run.z80
+--sim-load
+--tape-name "Grid-Run.tzx"
+--tape-sum 63b957250477f529f2813312a774842d
+--start 40000

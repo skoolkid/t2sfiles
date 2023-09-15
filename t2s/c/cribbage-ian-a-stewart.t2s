@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Cribbage_2.tzx.zip
+cribbage-ian-a-stewart.z80
+--sim-load
+--tape-name "Cribbage.tzx"
+--tape-sum a5cbdd66edf9a25a506dd90a63bed2df
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/h/H.A.T.E..tzx.zip
+hate.z80
+--sim-load
+--tape-name "HATE.tzx"
+--tape-sum adf2f90b40a803c9bb5eaa9d970830df
+--start 64513
+--sim-load-config accelerator=alkatraz

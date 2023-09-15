@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RetardedCreaturesAndCaverns.tzx.zip
+retarded-creatures-and-caverns.z80
+--sim-load
+--tape-name "Retarded Creatures And Caverns - Side 1.tzx"
+--tape-sum 5810c0e53b9c17e9ae6fecf8bde4d816
+--start 25000
+--sim-load-config accelerator=rom

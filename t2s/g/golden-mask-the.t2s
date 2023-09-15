@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/g/GoldenMaskThe.tzx.zip
+golden-mask-the.z80
+--sim-load
+--tape-name "The Golden Mask.tzx"
+--tape-sum de738d0b5411137ca11768554645744f
+--start 23324
+--tape-stop 8

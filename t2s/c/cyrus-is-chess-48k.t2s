@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CyrusISChess.tzx.zip
+cyrus-is-chess-48k.z80
+--sim-load
+--tape-name "Cyrus Is Chess - 48k.tzx"
+--tape-sum 17f634894ed07bb14f54b8b5c1ede669
+--start 23312
+--tape-stop 9

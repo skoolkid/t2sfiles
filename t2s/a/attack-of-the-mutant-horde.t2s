@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AttackOfTheMutantHorde.tzx.zip
+attack-of-the-mutant-horde.z80
+--sim-load
+--tape-name "Attack of the Mutant Horde.tzx"
+--tape-sum 30b14074cb9e7cb38dac1ce0d0a5a681
+--start 1343
+--sim-load-config finish-tape=1

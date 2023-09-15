@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/o/Oink.tzx.zip
+oink.z80
+--sim-load
+--tape-name "Oink.tzx"
+--tape-sum 504ce9f5cdb173aaa523098842e9814d
+--start 32837
+--tape-stop 8
+--sim-load-config accelerator=crl3

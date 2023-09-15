@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/j/JerseyQuest.tzx.zip
+jersey-quest.z80
+--sim-load
+--tape-name "Jersey Quest.tzx"
+--tape-sum 6f97617aadcf9de566ed81ad353ccb63
+--start 25063

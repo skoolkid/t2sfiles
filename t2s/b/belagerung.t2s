@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Belagerung.tap.zip
+belagerung.z80
+--sim-load
+--tape-name "BELAGERU.TAP"
+--tape-sum 3a6695832f816a95919b848c78dd0362
+--start 1343
+--sim-load-config finish-tape=1

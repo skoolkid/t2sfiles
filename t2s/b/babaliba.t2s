@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Babaliba(MediumCase).tzx.zip
+babaliba.z80
+--sim-load
+--tape-name "Babaliba.tzx"
+--tape-sum f82b98c7e91e28637975d58699d1b13b
+--start 46530
+--tape-stop 9
+--sim-load-config accelerator=rom

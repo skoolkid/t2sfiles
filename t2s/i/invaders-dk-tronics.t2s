@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/i/Invaders_2.tzx.zip
+invaders-dk-tronics.z80
+--sim-load
+--tape-name "Invaders.tzx"
+--tape-sum ba2cdc185ec50b61ff5da670985b87d4
+--start 1343
+--sim-load-config finish-tape=1

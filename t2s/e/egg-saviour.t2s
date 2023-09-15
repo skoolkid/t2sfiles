@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/e/EggSaviour.tap.zip
+egg-saviour.z80
+--sim-load
+--tape-name "EggSaviour.tap"
+--tape-sum 0e5d7caa7e9843ef0c93cc883e0c2ccd
+--start 1343
+--sim-load-config finish-tape=1

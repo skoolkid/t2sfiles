@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/Tridex.tzx.zip
+tridex.z80
+--tape-name "Tridex.tzx"
+--tape-sum 5141d234263b0255e8d4008eb1c2eec8
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=CLEAR 35000: LOAD ""'

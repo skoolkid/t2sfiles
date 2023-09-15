@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/THIMBLE.tzx.zip
+thimble.z80
+--sim-load
+--tape-name "TH!MBLE.tzx"
+--tape-sum 117258ca0aeca14679e817ca8fb55a6b
+--start 22499
+--sim-load-config accelerator=tiny,rom

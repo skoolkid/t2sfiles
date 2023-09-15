@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SendaSalvaje.tzx.zip
+senda-salvaje-side-1.z80
+--sim-load
+--tape-name "Senda Salvaje - Side 1.tzx"
+--tape-sum e0ba2030b04e341dba7adc2abab6b7c0
+--start 23435
+--sim-load-config accelerator=rom

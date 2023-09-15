@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RobinOfSherlock.tzx.zip
+robin-of-sherlock-p1.z80
+--sim-load
+--tape-name "Robin Of Sherlock - Side 1.tzx"
+--tape-sum f9cffbc13ac432d60c30e1454fd15a44
+--start 1343
+--sim-load-config finish-tape=1

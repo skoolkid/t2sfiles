@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Conveyor-BeltCapers.tap.zip
+conveyor-belt-capers.z80
+--sim-load
+--tape-name "CONVEYOR.TAP"
+--tape-sum c5609c1d84c1c170655f62acc5d59b3a
+--start 1343
+--sim-load-config finish-tape=1

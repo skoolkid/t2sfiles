@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/j/JetSetWilly-The2005Megamix.tzx.zip
+jet-set-willy-the-2005-megamix.z80
+--tape-name "Jet Set Willy - The 2005 Megamix.tzx"
+--tape-sum 21bcb7fff6a637e14e482537c7414453
+--start 32039
+--sim-load-config machine=128

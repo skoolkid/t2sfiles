@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BridgeTutorAdvanced.tzx.zip
+bridge-tutor-advanced.z80
+--sim-load
+--tape-name "Bridge Tutor Advanced.tzx"
+--tape-sum 82adbdef9a84fdb65bcb3a4da2e3498f
+--start 1343
+--tape-stop 6
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/r/ReturnOfTheJedi-DeathStarBattle.tzx.zip
+return-of-the-jedi-death-star-battle.z80
+--sim-load
+--tape-name "Return Of The Jedi - Death Star Battle.tzx"
+--tape-sum 6f8be612acff11687c4978ec20d0cfb3
+--start 1343
+--sim-load-config finish-tape=1

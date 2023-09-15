@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BlackSwan.tap.zip
+black-swan.z80
+--sim-load
+--tape-name "BlackSwan.tap"
+--tape-sum f2ed5469aa274cb198cd3c2995f88f6f
+--start 1343
+--sim-load-config finish-tape=1

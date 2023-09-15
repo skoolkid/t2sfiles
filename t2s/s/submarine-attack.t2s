@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SubmarineAttack.tzx.zip
+submarine-attack.z80
+--sim-load
+--tape-name "Sub Attack.tzx"
+--tape-sum cbe5d62f055e8c3a286cefe1b8bde3a0
+--start 1343
+--sim-load-config finish-tape=1

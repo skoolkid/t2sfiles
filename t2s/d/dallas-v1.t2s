@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DallasV1.tzx.zip
+dallas-v1.z80
+--sim-load
+--tape-name "Dallas - Release 1.tzx"
+--tape-sum 2655c6f239a849366d845a8cac1a8c52
+--start 1343
+--sim-load-config finish-tape=1

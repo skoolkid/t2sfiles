@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/v/V-TheFinalBattle.tzx.zip
+v-the-final-battle.z80
+--sim-load
+--tape-name "v.tzx"
+--tape-sum 3fed1ffd8a48cdc56a1e5ed432845ed6
+--start 25000

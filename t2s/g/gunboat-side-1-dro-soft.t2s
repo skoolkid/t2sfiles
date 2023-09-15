@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/g/Gunboat(DroSoft).tzx.zip
+gunboat-side-1-dro-soft.z80
+--tape-name "Gunboat - Side 1 (Dro Soft).tzx"
+--tape-sum 9a6cb373291f345699ccfbd4514783b4
+--start 26111
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

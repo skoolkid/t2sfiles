@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/e/Euphoria2D.tap.zip
+euphoria-2d.z80
+--sim-load
+--tape-name "euphoria_2D_eng.tap"
+--tape-sum 642fdf3ec81e7645e31526946ad323b6
+--start 1343
+--sim-load-config finish-tape=1

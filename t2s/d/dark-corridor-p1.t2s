@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DarkCorridor.tap.zip
+dark-corridor-p1.z80
+--sim-load
+--tape-name "Dark Corridor - Part 1.tap"
+--tape-sum 3e218654389698b64b98240b49e2ef78
+--start 29041
+--sim-load-config finish-tape=1

@@ -1,6 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/g/GreatEscapeThe.tzx.zip
 great-escape-the.z80
---sim-load
 --tape-name "The Great Escape.tzx"
 --tape-sum 58d273a2c719da21a25b4af3d008c951
 --start 23321
+--sim-load-config accelerator=speedlock,rom
+--sim-load-config first-edge=46

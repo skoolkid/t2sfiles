@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SirGawain.tzx.zip
+sir-gawain.z80
+--sim-load
+--tape-name "Sir Gawain.tzx"
+--tape-sum 603074f832229e32db7a8f3a7ae682bd
+--start 1343
+--sim-load-config finish-tape=1

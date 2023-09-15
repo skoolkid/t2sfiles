@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DickieDiver.tzx.zip
+dickie-diver.z80
+--sim-load
+--tape-name "Dickie Diver.tzx"
+--tape-sum aa6284298e67af4e11001735ae0e9cf7
+--start 32607

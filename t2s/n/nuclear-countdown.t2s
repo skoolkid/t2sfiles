@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/NuclearCountdown.zip
+nuclear-countdown.z80
+--sim-load
+--tape-name "Nuclear Countdown.tzx"
+--tape-sum 56dccaee27d143fa5b03f8d6912ebdb2
+--start 64025

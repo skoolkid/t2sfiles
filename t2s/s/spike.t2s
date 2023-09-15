@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Spike.tzx.zip
+spike.z80
+--sim-load
+--tape-name "SPIKE.TZX"
+--tape-sum f39cf4a84684326973e0ad672e36eda5
+--start 23340
+--sim-load-config accelerator=rom

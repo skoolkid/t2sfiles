@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/g/GridWord.tzx.zip
+grid-word.z80
+--sim-load
+--tape-name "gridword.tzx"
+--tape-sum 91a7875180b70d74c0ab57b49b4342b6
+--start 1343
+--sim-load-config finish-tape=1

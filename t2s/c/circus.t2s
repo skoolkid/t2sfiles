@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Circus_2.tzx.zip
+circus.z80
+--sim-load
+--tape-name "Circus.tzx"
+--tape-sum 15da243ac1b0c79ef37f1f5c04c3e16c
+--start 40000

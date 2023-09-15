@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/ShellShock.zip
+shell-shock.z80
+--sim-load
+--tape-name "Shell Shock.tzx"
+--tape-sum 55e510b0c0923c25ebeca11f2846065c
+--start 23515

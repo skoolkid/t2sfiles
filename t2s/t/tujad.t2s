@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/Tujad.tzx.zip
+tujad.z80
+--sim-load
+--tape-name "Tujad.tzx"
+--tape-sum 7d3e3deef1c645ac1b57b3527be84f57
+--start 23309

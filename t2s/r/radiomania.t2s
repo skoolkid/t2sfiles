@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/r/Radiomania.tzx.zip
+radiomania.z80
+--sim-load
+--tape-name "Radiomania.tzx"
+--tape-sum da2556fcc69c061add7ba0f04da1008e
+--start 1343
+--sim-load-config finish-tape=1

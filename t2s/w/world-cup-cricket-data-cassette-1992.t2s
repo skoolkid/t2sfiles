@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/ChampionsOfCricket+WorldCupCricket-DataCassette1992.tzx.zip
+world-cup-cricket-data-cassette-1992.z80
+--sim-load
+--tape-name "Player Data Cassette 1992 - World Cup Cricket.tzx"
+--tape-sum a031dba06f713bb407d46a4684683b5b
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/ChopperChase.tzx.zip
+chopper-chase.z80
+--sim-load
+--tape-name "ChopperChase.tzx"
+--tape-sum 362c16e1d84c092f6d089fa17c5a33e8
+--start 23359

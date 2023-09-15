@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/a/Armageddon_2.tzx.zip
+armageddon-ocean-software.z80
+--sim-load
+--tape-name "Armageddon.tzx"
+--tape-sum 63d6012b366aebdb7d0bf4f707d6bbab
+--start 24484

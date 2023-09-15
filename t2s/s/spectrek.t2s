@@ -1,0 +1,9 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Spectrek.tap.zip
+spectrek.z80
+--sim-load
+--tape-name "SPECTREK.TAP"
+--tape-sum 4b2b07f94da3450d2e9e259d1dee42b4
+--start 1343
+--sim-load-config finish-tape=1
+--tape-start 7
+--tape-stop 9

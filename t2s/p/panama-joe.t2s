@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PanamaJoe.tzx.zip
+panama-joe.z80
+--sim-load
+--tape-name "Panama Joe.tzx"
+--tape-sum 73b5e310e4a446439a28cddfb5e14c58
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/r/Rikosphere.tap.zip
+rikosphere.z80
+--sim-load
+--tape-name "RIKOSPHE.TAP"
+--tape-sum 171ae5dbabdad6cd82244db545279039
+--start 25928

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PaperinoELaPartita.tzx.zip
+paperino-e-la-partita.z80
+--sim-load
+--tape-name "PaperinoELaPartita.tzx"
+--tape-sum 442abf456af4cf8454bc5407fd8eb49d
+--start 1343
+--sim-load-config finish-tape=1

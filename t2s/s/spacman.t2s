@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Spacman.tzx.zip
+spacman.z80
+--sim-load
+--tape-name "Spacman.tzx"
+--tape-sum 5eb777bc09495091473d9826e0b73020
+--start 1343
+--sim-load-config finish-tape=1

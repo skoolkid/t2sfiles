@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MagischeSchwertDas.tzx.zip
+das-magische-schwert.z80
+--sim-load
+--tape-name "Schwert.tzx"
+--tape-sum fd8a8785de3d20487d1843c3ed027fe5
+--start 1343
+--sim-load-config finish-tape=1

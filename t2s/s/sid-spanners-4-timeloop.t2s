@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SidSpanners4-TimeloopV1.1.tap.zip
+sid-spanners-4-timeloop.z80
+--sim-load
+--tape-name "sidspan4-v1.1.tap"
+--tape-sum 654744c9cda5630393fbf928ee72593b
+--start 24578

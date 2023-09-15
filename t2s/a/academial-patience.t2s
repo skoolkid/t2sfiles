@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AcademialPatience.tap.zip
+academial-patience.z80
+--sim-load
+--tape-name "ACADEMIA.TAP"
+--tape-sum a0ab788fa7a730100edd3731bf8423a7
+--start 1343
+--sim-load-config finish-tape=1

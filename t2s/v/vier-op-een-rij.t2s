@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/v/VierOpEenRij.tap.zip
+vier-op-een-rij.z80
+--sim-load
+--tape-name "VIERRIJ.TAP"
+--tape-sum fca107cfe1a95ac32e5e0471cef6c399
+--start 1343
+--sim-load-config finish-tape=1

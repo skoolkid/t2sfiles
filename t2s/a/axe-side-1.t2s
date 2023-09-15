@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/Axe.tzx.zip
+axe-side-1.z80
+--sim-load
+--tape-name "Axe - Side 1.tzx"
+--tape-sum 1bfd4d883a388bc0d123c251702d034d
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/j/JoyaMisteriosaLa.tap.zip
+joya-misteriosa-la.z80
+--sim-load
+--tape-name "La Joya Misteriosa.tap"
+--tape-sum 51c81827e2ffca5c2e7900bdd8d515a4
+--start 1343
+--sim-load-config finish-tape=1
+--tape-stop 3

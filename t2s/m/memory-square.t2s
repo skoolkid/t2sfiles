@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MemorySquare.tzx.zip
+memory-square.z80
+--sim-load
+--tape-name "Memory Square.tzx"
+--tape-sum e53416a31efc3accecaabfbc3879ef93
+--start 1343
+--sim-load-config finish-tape=1

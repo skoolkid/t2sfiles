@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DemonsRevenge.tzx.zip
+demons-revenge.z80
+--sim-load
+--tape-name "Demon's Revenge.tzx"
+--tape-sum b5915fdece57a8b6cad59241e6ef4ac1
+--start 23464
+--sim-load-config accelerator=bleepload,rom

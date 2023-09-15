@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RallyDriver_2.tzx.zip
+rally-driver-micro-mart.z80
+--sim-load
+--tape-name "Rally Driver (Micro Mart).tzx"
+--tape-sum 07893b6fb416c48e0d547a4f7b4c79ee
+--start 52000

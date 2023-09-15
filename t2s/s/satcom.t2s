@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Satcom.tzx.zip
+satcom.z80
+--sim-load
+--tape-name "Satcom.tzx"
+--tape-sum e3575380d141ae7d805c6c4a24924eb7
+--start 40100

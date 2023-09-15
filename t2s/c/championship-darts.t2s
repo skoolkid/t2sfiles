@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/ChampionshipDarts.tzx.zip
+championship-darts.z80
+--sim-load
+--tape-name "Championship Darts.tzx"
+--tape-sum f9c34f7d1eca67f6e53ea4816ff9f35e
+--start 1343
+--sim-load-config finish-tape=1

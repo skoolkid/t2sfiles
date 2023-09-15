@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/k/KrajSkole.tzx.zip
+kraj-skole.z80
+--sim-load
+--tape-name "KrajSkole.tzx"
+--tape-sum cab1d62594b2fd093e8dfcc40cd0a017
+--start 1343
+--sim-load-config finish-tape=1

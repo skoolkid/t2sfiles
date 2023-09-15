@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BitwaOWyspeII.tzx.zip
+bitwa-p-wyspe-ii.z80
+--sim-load
+--tape-name "BITWAOWY.TZX"
+--tape-sum 70531dfbef5e95e5fad3b6993dad02f5
+--start 1343
+--sim-load-config finish-tape=1

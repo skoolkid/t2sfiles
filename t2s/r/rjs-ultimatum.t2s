@@ -1,0 +1,7 @@
+"https://tzxvault.org/Spectrum/TZX/RJ'sUltimatum.zip"
+rjs-ultimatum.z80
+--sim-load
+--tape-name "RJ's Ultimatum.tzx"
+--tape-sum 4b2d6ad26d982078a1a35f687357e820
+--start 29201
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://tzxvault.org/Spectrum/TZX/TheGreatSpaceRace.zip
+great-space-race-the.z80
+--sim-load
+--tape-name "The Great Space Race.tzx"
+--tape-sum d15121153ea673ccccddf559411fd8ec
+--start 1343
+--sim-load-config finish-tape=1

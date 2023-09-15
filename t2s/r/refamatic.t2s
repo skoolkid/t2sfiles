@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/r/Refamatic.tzx.zip
+refamatic.z80
+--sim-load
+--tape-name "Refamatic.tzx"
+--tape-sum 0f83d33b8fbe70241aa81d2934e91f2e
+--start 1343
+--sim-load-config finish-tape=1

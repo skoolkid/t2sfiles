@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Battlezone.tzx.zip
+battlezone.z80
+--sim-load
+--tape-name "Battlezone.tzx"
+--tape-sum 95a24e21b5d5a7a7a095259585200d28
+--start 65319
+--sim-load-config accelerator=bleepload

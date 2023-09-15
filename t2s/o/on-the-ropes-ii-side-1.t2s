@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/o/OnTheRopesII.tzx.zip
+on-the-ropes-ii-side-1.z80
+--sim-load
+--tape-name "On The Ropes II - Side 1.tzx"
+--tape-sum 2219d0d7013c86666c64ef8fcbf48baa
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/g/Gilbert-EscapeFromDrill.tzx.zip
+gilbert-escape-from-drill-128k.z80
+--tape-name "Gilbert - Escape From Drill - 128k.tzx"
+--tape-sum 9e59d34efc98de42944bd36aa9538518
+--start 26082
+--sim-load-config machine=128

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AlienSnipers.tap.zip
+alien-snipers.z80
+--sim-load
+--tape-name "AlienSnipers.tap"
+--tape-sum 28e3edd8ebad6890ef4d516ea05ea6c6
+--start 1343
+--sim-load-config finish-tape=1

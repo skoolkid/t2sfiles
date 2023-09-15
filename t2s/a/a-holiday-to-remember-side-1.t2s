@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/h/HolidayToRememberA.tzx.zip
+a-holiday-to-remember-side-1.z80
+--sim-load
+--tape-name "A Holiday To Remember - Side 1.tzx"
+--tape-sum 0fd42b992ed28dbda96b963d818b17dd
+--start 36376
+--tape-stop 12
+--sim-load-config finish-tape=1

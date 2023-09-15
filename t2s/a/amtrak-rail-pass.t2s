@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AmtrakRailPass.tzx.zip
+amtrak-rail-pass.z80
+--sim-load
+--tape-name "Amtrak Rail Pass.tzx"
+--tape-sum e2f2c4268cebc3577d3544b8a7f328f5
+--start 1343
+--sim-load-config finish-tape=1

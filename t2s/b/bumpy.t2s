@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Bumpy(ProeinSoftLine).tzx.zip
+bumpy.z80
+--sim-load
+--tape-name "Bumpy (Proein).tzx"
+--tape-sum 1dd0f10b761f19f16aac770dc7ce5cdd
+--start 43900

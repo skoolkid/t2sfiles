@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Caveman.tzx.zip
+caveman.z80
+--sim-load
+--tape-name "Caveman.tzx"
+--tape-sum d48abe69a73c47ca28be8361250fe36f
+--start 1343
+--sim-load-config finish-tape=1

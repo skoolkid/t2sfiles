@@ -1,6 +1,7 @@
-https://www.tzxvault.org/Spectrum/TZX/BattleCars.zip
+https://tzxvault.org/Spectrum/TZX/BattleCars.zip
 battlecars-games-workshop.z80
 --sim-load
 --tape-name "Battle Cars - Side A.tzx"
 --tape-sum d20f2b61f27261296aa018187fe19efb
---start 33012
+--start 1343
+--sim-load-config finish-tape=1

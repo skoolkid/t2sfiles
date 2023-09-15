@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/w/Wall.tzx.zip
+wall.z80
+--tape-name "Wall128k.tzx"
+--tape-sum 339e085fe3594f4fa15c18ca0deb0f00
+--start 1343
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

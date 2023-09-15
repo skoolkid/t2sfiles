@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/q/QuestionOfScruplesA48.tzx.zip
+a-question-of-scruples.z80
+--sim-load
+--tape-name "A Question Of Scruples - 48k - Side A.tzx"
+--tape-sum 1e5c578b4b02dc6249da66bb246163b3
+--start 65248
+--sim-load-config accelerator=speedlock

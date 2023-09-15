@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/ShortCircuit.tap.zip
+short-circuit-david-green.z80
+--sim-load
+--tape-name "SHORT-CI.TAP"
+--tape-sum dddde36c9b0211abb454aa8302b1d93d
+--start 1343
+--sim-load-config finish-tape=1

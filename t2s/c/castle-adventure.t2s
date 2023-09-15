@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/CastleAdventure.zip
+castle-adventure.z80
+--sim-load
+--tape-name "Castle Adventure.tzx"
+--tape-sum 14962e5fb925f882c02192a55dd4c097
+--start 25000

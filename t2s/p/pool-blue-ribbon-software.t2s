@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Pool(BlueRibbonSoftware).tap.zip
+pool-blue-ribbon-software.z80
+--sim-load
+--tape-name "Pool (Blue Ribbon).tap"
+--tape-sum b3bcb14a0e1b06148b9825b7778e25f0
+--start 26036
+--tape-start 5

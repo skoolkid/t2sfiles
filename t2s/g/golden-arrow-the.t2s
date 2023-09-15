@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/g/GoldenArrowThe.tzx.zip
+golden-arrow-the.z80
+--sim-load
+--tape-name "The Golden Arrow.tzx"
+--tape-sum 7ab6e95f51cf070c3dc17cef6bcf964b
+--start 25063

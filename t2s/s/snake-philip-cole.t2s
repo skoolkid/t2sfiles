@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Snake(2).tap.zip
+snake-philip-cole.z80
+--sim-load
+--tape-name "SNAKE2.TAP"
+--tape-sum d54beff3cd4950319be266c785bad0d2
+--start 1343
+--sim-load-config finish-tape=1

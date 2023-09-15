@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/h/HanoiKing.tzx.zip
+hanoi-king.z80
+--sim-load
+--tape-name "Hanoi King.tzx"
+--tape-sum 0cb04e6d22c246331d9eb811d39cf099
+--start 1343
+--sim-load-config finish-tape=1

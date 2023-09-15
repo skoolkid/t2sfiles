@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SnakesAndHazards.tap.zip
+snakes-and-hazards.z80
+--sim-load
+--tape-name "SNAKESHA.TAP"
+--tape-sum c4d507b2354381bd6b5b57fd3b389246
+--start 23489

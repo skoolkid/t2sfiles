@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/p/ProofOfDestruction.tzx.zip
+proof-of-destruction.z80
+--sim-load
+--tape-name "Proof Of Destruction.tzx"
+--tape-sum 2cd00bb726c9ceee7103beb57a6d6677
+--start 32768

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AtaqueALaFlota.tzx.zip
+ataque-a-la-flota.z80
+--sim-load
+--tape-name "Ataque A La Flota.tzx"
+--tape-sum 678781bb7f048984dc3741f754bf0ab7
+--start 1343
+--sim-load-config finish-tape=1

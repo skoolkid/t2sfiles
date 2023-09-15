@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Bulls-Cows.tap.zip
+bulls-cows.z80
+--sim-load
+--tape-name "BULLSCOW.TAP"
+--tape-sum bb02c7dfbd1e91f044f53a29d73a3b26
+--start 23760

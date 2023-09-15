@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/w/WerewolfSimulator.tzx.zip
+werewolf-simulator.z80
+--sim-load
+--tape-name "Loogaroo.tzx"
+--tape-sum 08167a07c38ac34d05407b2e75833bf0
+--start 34104

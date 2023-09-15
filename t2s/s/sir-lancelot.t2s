@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/SirLancelot.zip
+sir-lancelot.z80
+--sim-load
+--tape-name "Sir Lancelot.tzx"
+--tape-sum 15d26045095303b9338000e9ffa81666
+--start 23344

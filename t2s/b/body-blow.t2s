@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BodyBlow.tzx.zip
+body-blow.z80
+--tape-name "Body Blow.tzx"
+--tape-sum 9a8577957f70ed6597b20ee89a371ed6
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

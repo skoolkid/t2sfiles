@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/v/Videostop.tap.zip
+videostop-amsoft.z80
+--sim-load
+--tape-name "VIDEOST.TAP"
+--tape-sum 0aeea1729dd1e199a74579228b53e957
+--start 24200

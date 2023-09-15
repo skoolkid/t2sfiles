@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/QuestForThePowerRod.zip
+quest-for-the-power-rod.z80
+--sim-load
+--tape-name "Quest For The Power Rod.tzx"
+--tape-sum 992b9a6e53173c5c1640bbdb3bf90dc2
+--start 23518

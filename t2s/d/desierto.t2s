@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/Desierto.tap.zip
+desierto.z80
+--sim-load
+--tape-name "Desierto.tap"
+--tape-sum ce28d0d2e27e84995f478a68a6d1f02f
+--start 29041
+--sim-load-config finish-tape=1

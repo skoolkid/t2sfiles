@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TankTrax.tzx.zip
+tank-trax.z80
+--sim-load
+--tape-name "Tank Trax.tzx"
+--tape-sum 05188bce23452fdcfde1021a38bf1255
+--start 1343
+--sim-load-config finish-tape=1

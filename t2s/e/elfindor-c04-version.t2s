@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Elfindor-C04Version.zip
+elfindor-c04-version.z80
+--sim-load
+--tape-name "Elfindor - C04 Version.tzx"
+--tape-sum 253609e5051aefa5d60db28456e6d180
+--start 25063

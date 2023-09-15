@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/l/LordOfDarkness.tap.zip
+lord-of-darkness.z80
+--sim-load
+--tape-name "LORDDARK.TAP"
+--tape-sum 7c8151d8c6055d5a70159d7584856a5c
+--start 1343
+--sim-load-config finish-tape=1
+--tape-stop 9

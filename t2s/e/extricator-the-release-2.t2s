@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/e/ExtricatorTheV2.tzx.zip
+extricator-the-release-2.z80
+--sim-load
+--tape-name "The Extricator - Release 2.tzx"
+--tape-sum 55f47be14c13268dc8235e62d7c90445
+--start 32464

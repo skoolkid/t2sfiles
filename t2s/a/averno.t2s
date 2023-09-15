@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/Averno.tap.zip
+averno.z80
+--sim-load
+--tape-name "Averno.tap"
+--tape-sum eac87e90d0bef5508ecb2a011559ae08
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/SunStar.zip
+sun-star.z80
+--sim-load
+--tape-name "Sun Star.tzx"
+--tape-sum f2f06c598ff3901c7908034248eeec94
+--start 25000

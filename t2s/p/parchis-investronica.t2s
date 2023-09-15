@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Parchis.tzx.zip
+parchis-investronica.z80
+--sim-load
+--tape-name "Parchis (Investronica).tzx"
+--tape-sum 24ef0010f13663e904c4223beac1883f
+--start 1343
+--sim-load-config finish-tape=1

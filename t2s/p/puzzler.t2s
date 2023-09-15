@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Puzzler.tap.zip
+puzzler.z80
+--sim-load
+--tape-name "PUZZLER.TAP"
+--tape-sum 19ccadb701c4b8113ee62b49f10c590d
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/StreetCred.tzx.zip
+street-cred.z80
+--sim-load
+--tape-name "Street Cred.tzx"
+--tape-sum 21d7e48eb0fec18eb28f5efe4574b9b7
+--start 30464

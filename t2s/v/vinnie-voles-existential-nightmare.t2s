@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/v/VinnieVolesExistentialNightmare.tap.zip
+vinnie-voles-existential-nightmare.z80
+--sim-load
+--tape-name "VinnVole.tap"
+--tape-sum 24ca4a0687b0ba2b805c6efaaba103d0
+--start 32768

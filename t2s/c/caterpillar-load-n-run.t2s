@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Caterpillar.tzx.zip
+caterpillar-load-n-run.z80
+--sim-load
+--tape-name "Caterpillar.tzx"
+--tape-sum e490f0204536102924e5d43d63f42f50
+--start 1343
+--tape-stop 5
+--sim-load-config finish-tape=1

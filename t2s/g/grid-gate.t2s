@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/g/Gridgate.tzx.zip
+grid-gate.z80
+--sim-load
+--tape-name "Grid Gate.tzx"
+--tape-sum 8259c9d3a9022abc3a014ca698f07aa7
+--start 34024

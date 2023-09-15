@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TorreLaser.tap.zip
+torre-laser.z80
+--sim-load
+--tape-name "TorreLaser.tap"
+--tape-sum e31a97a9098eb2058427cab817fb44ad
+--start 1343
+--sim-load-config finish-tape=1

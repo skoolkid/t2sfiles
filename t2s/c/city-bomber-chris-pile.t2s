@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CityBomber.tap.zip
+city-bomber-chris-pile.z80
+--sim-load
+--tape-name "CITYBOMB.TAP"
+--tape-sum 7e7223115fa4c544c738b10afba0acf6
+--start 1343
+--sim-load-config finish-tape=1

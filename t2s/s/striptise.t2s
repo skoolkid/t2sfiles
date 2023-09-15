@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Striptise.tap.zip
+striptise.z80
+--sim-load
+--tape-name "STRIPT.TAP"
+--tape-sum 450ab06f5862e80da4fe1b88b57abbd3
+--start 1343
+--sim-load-config finish-tape=1

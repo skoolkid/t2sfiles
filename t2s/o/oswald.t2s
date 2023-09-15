@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/o/Oswald.tzx.zip
+oswald.z80
+--sim-load
+--tape-name "Oswald.tzx"
+--tape-sum 29d086b3e896937aa0279febbd756977
+--start 24876

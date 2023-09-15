@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PharaohsTomb.tzx.zip
+pharaohs-tomb-software-for-all.z80
+--sim-load
+--tape-name "Pharaoh's Tomb (Software For All).tzx"
+--tape-sum 5de549b493b451d01075e6f9b1d73110
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,13 @@
+; 7805 is the address of the 'OUT (C),A' instruction that performs the
+; 'OUT (254),255' command in line 120 of the BASIC loader. Starting here
+; (instead of the game's true start address at 53300) is required to make the
+; game's keyboard-reading routines work. (The Z80 snapshot format has no slot
+; for the last OUT to port 0xFE.)
+
+https://skoolkit.ca/tapes/Priest&Vampire.tzx.zip
+priest-and-vampire.z80
+--sim-load
+--tape-name "Priest&Vampire.tzx"
+--tape-sum b8b2c74751016af236e6c3da454d1d63
+--start 7805
+--state issue2=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/f/F-16CombatPilot.tzx.zip
+f-16-combat-pilot.z80
+--sim-load
+--tape-name "F-16 Combat Pilot.tzx"
+--tape-sum bc47bfe2ecadfe526b46c4087d21ef81
+--start 23628
+--sim-load-config accelerator=speedlock,rom

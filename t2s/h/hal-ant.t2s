@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/h/HalAnt.tzx.zip
+hal-ant.z80
+--sim-load
+--tape-name "HalAnt.tzx"
+--tape-sum 06f5d0f05b3e2b17b87261a464f8a2c5
+--start 1343
+--sim-load-config finish-tape=1

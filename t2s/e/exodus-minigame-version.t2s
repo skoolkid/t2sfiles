@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/e/Exodus(MinigameVersion).tap.zip
+exodus-minigame-version.z80
+--sim-load
+--tape-name "EXODUSmg.TAP"
+--tape-sum af80fee5f01e587c0feadc589dd045c4
+--start 23766

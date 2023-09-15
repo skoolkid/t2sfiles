@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/d/Deathrider.tap.zip
+deathrider.z80
+--sim-load
+--tape-name "Deathrider.tap"
+--tape-sum 0d88a47ab0917cdb81ee2281950a3fdf
+--start 23769

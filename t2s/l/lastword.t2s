@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/l/Lastword.tap.zip
+lastword.z80
+--tape-name "lastword.tap"
+--tape-sum e562b735023f5fcebccf6042bdb5bafb
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

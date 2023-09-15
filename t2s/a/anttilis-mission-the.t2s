@@ -1,6 +1,7 @@
-https://spectrumcomputing.co.uk/pub/sinclair/games/a/AnttilisMissionThe.tzx.zip
+https://worldofspectrum.net/pub/sinclair/games/a/AnttilisMissionThe.tzx.zip
 anttilis-mission-the.z80
 --sim-load
 --tape-name "Anttilis Mission.tzx"
 --tape-sum e45ac446be29f6724b9a0db69d11a507
-; --start 29169
+--start 29169
+--sim-load-config finish-tape=1

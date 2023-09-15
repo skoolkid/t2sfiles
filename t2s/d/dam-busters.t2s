@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DamBusters.tzx.zip
+dam-busters.z80
+--sim-load
+--tape-name "Dam Busters (Professional Software) - Side 1.tzx"
+--tape-sum 1a8c536d6fa093612b9405f59fbcab0c
+--start 1343
+--sim-load-config finish-tape=1

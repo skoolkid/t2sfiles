@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SuperScrambleSimulator.tzx.zip
+super-scramble-simulator.z80
+--sim-load
+--tape-name "Super Scramble Simulator - Side A.tzx"
+--tape-sum bb4a6e04bb27127aceed3f00f0d5e6ba
+--start 48359
+--sim-load-config accelerator=alkatraz

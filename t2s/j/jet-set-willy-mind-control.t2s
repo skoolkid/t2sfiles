@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/j/JetSetWilly-MindControl.tzx.zip
+jet-set-willy-mind-control.z80
+--tape-name "Jet Set Willy - Mind Control.tzx"
+--tape-sum df29354437792ea5104bb0230c230527
+--start 32039
+--sim-load-config machine=128

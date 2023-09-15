@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SpectrumBowls.tzx.zip
+spectrum-bowls.z80
+--sim-load
+--tape-name "Bowls.tzx"
+--tape-sum f07b590bffb9ed6f0f6bebde20bab6d9
+--start 1343
+--sim-load-config finish-tape=1

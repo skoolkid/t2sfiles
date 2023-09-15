@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/Triplets.tap.zip
+triplets.z80
+--sim-load
+--tape-name "TRIPLET.TAP"
+--tape-sum a1040c5b8660a051fdb273697f843c79
+--start 39000

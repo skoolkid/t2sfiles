@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Convoy_2.tzx.zip
+convoy-john-a-white.z80
+--sim-load
+--tape-name "Convoy.tzx"
+--tape-sum 7e00f22c1cc31d184ebc0a729a877a23
+--start 1343
+--sim-load-config finish-tape=1

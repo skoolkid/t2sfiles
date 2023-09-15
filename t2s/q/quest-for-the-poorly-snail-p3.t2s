@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/q/QuestForThePoorlySnail.tzx.zip
+quest-for-the-poorly-snail-p3.z80
+--sim-load
+--tape-name "Quest For The Poorly Snail - Side 2.tzx"
+--tape-sum 0f3ea6af859526cfb19b707c55ac78d9
+--start 36376
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Shuttle.tzx.zip
+shuttle-side-a.z80
+--sim-load
+--tape-name "Shuttle - Side A.tzx"
+--tape-sum 17c3c67cd3758489a8de71ff56fa3933
+--start 40001

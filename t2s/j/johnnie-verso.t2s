@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/j/JohnnieVerso.tap.zip
+johnnie-verso.z80
+--tape-name "Johnnie Verso.tap"
+--tape-sum 74f32c685e0fdd5943e4b10f95a9ae31
+--start 34905
+--sim-load-config machine=128

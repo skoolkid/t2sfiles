@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/f/FruitMachine_3.tzx.zip
+fruit-machine-beam-software.z80
+--sim-load
+--tape-name "Fruit-Machine.tzx"
+--tape-sum e217041f528f116057485e0de73c1bd5
+--start 1343
+--sim-load-config finish-tape=1

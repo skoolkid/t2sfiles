@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/k/Komplex.tzx.zip
+komplex.z80
+--sim-load
+--tape-name "Komplex.tzx"
+--tape-sum 18cdcd7dc7757866e5c290c14171b5e1
+--start 22510

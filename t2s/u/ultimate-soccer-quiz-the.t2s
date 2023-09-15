@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/u/UltimateSoccerQuizThe.tzx.zip
+ultimate-soccer-quiz-the.z80
+--sim-load
+--tape-name "The Ultimate Soccer Quiz.tzx"
+--tape-sum d852915e6e3468edb5d1b9592840056d
+--start 1343
+--sim-load-config finish-tape=1

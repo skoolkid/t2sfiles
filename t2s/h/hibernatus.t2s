@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/h/Hibernatus.tzx.zip
+hibernatus.z80
+--sim-load
+--tape-name "Hibernatus.tzx"
+--tape-sum 8f8811faa4eee4f9aedf50e8b08fc2a0
+--start 65119
+--sim-load-config accelerator=rom

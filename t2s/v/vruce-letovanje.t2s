@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/v/VruceLetovanje.tap.zip
+vruce-letovanje.z80
+--sim-load
+--tape-name "VRLETOVA.TAP"
+--tape-sum 9a7ec1402bd47f9b13649ab4f01225b0
+--start 23330

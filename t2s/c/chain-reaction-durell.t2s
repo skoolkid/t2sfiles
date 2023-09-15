@@ -1,0 +1,6 @@
+https://worldofspectrum.org/pub/sinclair/games/c/ChainReaction.tzx.zip
+chain-reaction-durell.z80
+--sim-load
+--tape-name "Chain Reaction - 48k.tzx"
+--tape-sum 198ddfd3506f896934f4a649f1904096
+--start 32768

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Samegame.tap.zip
+samegame.z80
+--sim-load
+--tape-name "samegame/samegame.tap"
+--tape-sum 4149be4c14b4eecb9705eee065effa70
+--start 23775

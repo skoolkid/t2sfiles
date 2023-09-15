@@ -1,0 +1,7 @@
+https://tzxvault.org/Spectrum/TZX/TheCaseOfTheBeheadedSmuggler.zip
+case-of-the-beheaded-smuggler-the.z80
+--sim-load
+--tape-name "The Case Of The Beheaded Smuggler.tzx"
+--tape-sum b4e37aaf4582301d1d216bda7f0bb81c
+--start 1343
+--sim-load-config finish-tape=1

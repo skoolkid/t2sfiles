@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SirFred.tzx.zip
+sir-fred.z80
+--sim-load
+--tape-name "Sir Fred (Spanish).tzx"
+--tape-sum 53a615961a5ab23af8ffa0c9767f0b9b
+--start 46404
+--sim-load-config accelerator=rom

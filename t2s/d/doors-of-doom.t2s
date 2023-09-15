@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DoorsOfDoom.tap.zip
+doors-of-doom.z80
+--sim-load
+--tape-name "DoorsOfDoom.tap"
+--tape-sum 28f9f14b735e6e800132ecbc7eea644b
+--start 1343
+--sim-load-config finish-tape=1

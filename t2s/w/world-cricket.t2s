@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/w/WorldCricket.tzx.zip
+world-cricket.z80
+--sim-load
+--tape-name "World Cricket.tzx"
+--tape-sum ddd45a2e534ddca3beaa2328ff8952ab
+--start 45679

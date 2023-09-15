@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CelticCarnage.tzx.zip
+celtic-carnage.z80
+--sim-load
+--tape-name "Celtic Carnage.tzx"
+--tape-sum d3caa11f387a8fece21fcce187de098f
+--start 29201
+--sim-load-config finish-tape=1

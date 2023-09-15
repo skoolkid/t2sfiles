@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MasterOfMagic.tzx.zip
+master-of-magic.z80
+--sim-load
+--tape-name "Master Of Magic.tzx"
+--tape-sum 0e8a489139b29a33da8f174ee9fa37f7
+--start 65529
+--sim-load-config finish-tape=1

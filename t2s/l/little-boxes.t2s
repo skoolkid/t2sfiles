@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/l/LittleBoxes.tap.zip
+little-boxes.z80
+--sim-load
+--tape-name "LITTLBOX.TAP"
+--tape-sum 8bfcd95c3d70add97c62a53fb673d5f9
+--start 23762

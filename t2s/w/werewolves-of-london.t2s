@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/w/WerewolvesOfLondon.tzx.zip
+werewolves-of-london.z80
+--sim-load
+--tape-name "Werewolves Of London.tzx"
+--tape-sum 846349f1715466138ea4f7bcffebda45
+--start 47616

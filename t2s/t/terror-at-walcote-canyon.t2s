@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TerrorAtWalcoteCanyon.tap.zip
+terror-at-walcote-canyon.z80
+--sim-load
+--tape-name "TerrorAtWalcoteCanyon.tap"
+--tape-sum fbf18f5d1e5b62613e551f4ce4e49110
+--start 1343
+--sim-load-config finish-tape=1

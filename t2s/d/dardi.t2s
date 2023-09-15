@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/Dardi.tzx.zip
+dardi.z80
+--sim-load
+--tape-name "Dardi.tzx"
+--tape-sum 9e984e124684d1e1a715d61d6be20ae7
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/l/LaserSquad-Remix.tap.zip
+laser-squad-remix.z80
+--tape-name "LSQUA128.TAP"
+--tape-sum 9c809cdc2d224137d3e9c1aed5de7bbe
+--start 1343
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

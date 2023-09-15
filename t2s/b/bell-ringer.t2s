@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BellRinger.tap.zip
+bell-ringer.z80
+--sim-load
+--tape-name "BELL-RIN.TAP"
+--tape-sum f5fd210b26bd6a3a6c36aa9df3ad3acb
+--start 1343
+--sim-load-config finish-tape=1

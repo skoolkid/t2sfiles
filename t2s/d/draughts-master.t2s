@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/DraughtsMaster.zip
+draughts-master.z80
+--sim-load
+--tape-name "Draughts Master.tzx"
+--tape-sum c0c39bc4cb78981202a5057c1d111686
+--start 40944

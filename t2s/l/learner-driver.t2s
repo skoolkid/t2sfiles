@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/l/LearnerDriver(JimWaterman).tap.zip
+learner-driver.z80
+--sim-load
+--tape-name "LearnerDriver.tap"
+--tape-sum 1d7e71ad2bd2193997db2f5d26097872
+--start 1343
+--sim-load-config finish-tape=1

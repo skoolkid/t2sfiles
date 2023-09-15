@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/ComputerScrabble(French).tzx.zip
+scrabble-francais.z80
+--sim-load
+--tape-name "Scrabble - Francais.tzx"
+--tape-sum ede28b13bf1954172eb8480eefdba1bb
+--start 39653

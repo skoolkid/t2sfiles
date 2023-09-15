@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DroidWars.tap.zip
+droid-wars.z80
+--sim-load
+--tape-name "DROIDWAR.TAP"
+--tape-sum e42781bcca9795f86eb90e794eb92ddf
+--start 1343
+--sim-load-config finish-tape=1

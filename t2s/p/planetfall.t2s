@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Planetfall.tzx.zip
+planetfall.z80
+--sim-load
+--tape-name "Planetfall.tzx"
+--tape-sum ff330704318dc78aa3c5c008d732eb4c
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TellyTennis.tzx.zip
+telly-tennis.z80
+--sim-load
+--tape-name "Telly Tennis.tzx"
+--tape-sum 9e7735d446e368cd1ed8a0731498e394
+--start 1343
+--tape-start 3
+--sim-load-config finish-tape=1

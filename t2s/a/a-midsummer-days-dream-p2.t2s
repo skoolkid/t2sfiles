@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MidsummerDaysDreamA.tzx.zip
+a-midsummer-days-dream-p2.z80
+--sim-load
+--tape-name "A Midsummer Days Dream - Part 2.tzx"
+--tape-sum 17878ec40c4200b34324751723a977a4
+--start 1343
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

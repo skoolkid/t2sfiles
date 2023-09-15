@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/n/Nimo.tzx.zip
+nimo.z80
+--sim-load
+--tape-name "Nimo.tzx"
+--tape-sum f41c2956f33e6bddebc071aebcb92eed
+--start 1343
+--tape-stop 3
+--sim-load-config finish-tape=1

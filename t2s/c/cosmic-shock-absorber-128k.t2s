@@ -1,0 +1,14 @@
+; The loader for this game contains a RAM-descrambling loop that uses the R
+; register and runs while interrupts are enabled. If an interrupt is accepted
+; while this loop is running, the R register is affected and the RAM is
+; descrambled incorrectly. To prevent this, the time of the first edge on the
+; tape is adjusted.
+
+https://worldofspectrum.net/pub/sinclair/games/c/CosmicShockAbsorber.tzx.zip
+cosmic-shock-absorber-128k.z80
+--tape-name "Cosmic Shock Absorber - 128k.tzx"
+--tape-sum a2d07c13507c7ab027b315c053927f46
+--start 65373
+--sim-load-config machine=128
+--sim-load-config first-edge=678
+--sim-load-config accelerator=speedlock

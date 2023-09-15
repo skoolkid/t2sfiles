@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/k/KungFu.tzx.zip
+kung-fu-michael-sutherland.z80
+--sim-load
+--tape-name "KungFu.tzx"
+--tape-sum d1a3eff49bb6a472b812ad4c8e17de34
+--start 1343
+--sim-load-config finish-tape=1

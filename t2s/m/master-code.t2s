@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MasterCode.tzx.zip
+master-code.z80
+--sim-load
+--tape-name "Master Code.tzx"
+--tape-sum b06191ff5e51518e486afb578a10f697
+--start 1343
+--sim-load-config finish-tape=1

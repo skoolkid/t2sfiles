@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Capman.tap.zip
+capman.z80
+--sim-load
+--tape-name "CAPMAN.TAP"
+--tape-sum 659a57485201cd667da538cce059c7bf
+--start 1343
+--sim-load-config finish-tape=1

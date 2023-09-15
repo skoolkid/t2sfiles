@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DoctorWhat_2.tzx.zip
+doctor-what-mega-soft.z80
+--sim-load
+--tape-name "DoctorWhat.tzx"
+--tape-sum 126f448e124fe3534bc163b2a9b7a4bf
+--start 30464

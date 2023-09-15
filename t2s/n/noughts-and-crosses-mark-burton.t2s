@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/n/NoughtsAndCrosses_5.tap.zip
+noughts-and-crosses-mark-burton.z80
+--sim-load
+--tape-name "NOUGHTXS.TAP"
+--tape-sum 8b861b26a90463bb10336961155c9c79
+--start 1343
+--sim-load-config finish-tape=1

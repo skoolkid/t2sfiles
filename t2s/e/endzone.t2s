@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/e/EndZone.tzx.zip
+endzone.z80
+--sim-load
+--tape-name "Endzone.tzx"
+--tape-sum 0eebf7d57cd2f93dca58e0a9cbae32bd
+--start 32768

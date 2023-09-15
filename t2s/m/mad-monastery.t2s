@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MadMonastery.tap.zip
+mad-monastery.z80
+--sim-load
+--tape-name "MadMonastery.tap"
+--tape-sum df5fca134a04c13b25e7b7a4e741bcd1
+--start 65496
+--sim-load-config accelerator=speedlock,rom

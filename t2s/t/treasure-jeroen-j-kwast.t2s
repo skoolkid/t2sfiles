@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/Treasure.tap.zip
+treasure-jeroen-j-kwast.z80
+--sim-load
+--tape-name "TREASURE.TAP"
+--tape-sum a20639a75ff503b2bc0a578c3acd02d7
+--start 1343
+--sim-load-config finish-tape=1

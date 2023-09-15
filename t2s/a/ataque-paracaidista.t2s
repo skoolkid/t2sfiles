@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AtaqueParacaidista.tap.zip
+ataque-paracaidista.z80
+--sim-load
+--tape-name "AtaqueParacaidista.tap"
+--tape-sum 3db0047e4978c78c9ba4badcafe08e0b
+--start 1343
+--sim-load-config finish-tape=1

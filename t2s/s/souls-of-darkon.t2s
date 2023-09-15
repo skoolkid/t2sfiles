@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SoulsOfDarkon.tzx.zip
+souls-of-darkon.z80
+--sim-load
+--tape-name "Souls Of Darkon.tzx"
+--tape-sum 4101397ee8465f6b592c852e192883ef
+--start 65048
+--sim-load-config accelerator=rom

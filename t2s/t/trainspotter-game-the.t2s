@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TrainspotterGameThe.tap.zip
+trainspotter-game-the.z80
+--sim-load
+--tape-name "SPOTTER.TAP"
+--tape-sum 670122343f1ba980d178cd962e539154
+--start 1343
+--sim-load-config finish-tape=1

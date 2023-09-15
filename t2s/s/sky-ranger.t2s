@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SkyRanger.tzx.zip
+sky-ranger.z80
+--sim-load
+--tape-name "Sky Ranger.tzx"
+--tape-sum d3eba7aa5a28504337d1980ec2647d2e
+--start 24288
+--sim-load-config accelerator=microsphere

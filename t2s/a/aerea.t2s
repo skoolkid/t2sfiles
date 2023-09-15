@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/Aerea.tap.zip
+aerea.z80
+--sim-load
+--tape-name "Aerea.tap"
+--tape-sum 98a171b1a1ff9036b3ee71d0d96c1263
+--start 1343
+--sim-load-config finish-tape=1

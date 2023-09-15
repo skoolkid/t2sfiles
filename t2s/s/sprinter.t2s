@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Sprinter.tzx.zip
+sprinter.z80
+--sim-load
+--tape-name "ZX Sprinter.tzx"
+--tape-sum 4ae87ab240f540b50b2ae8a43a6c65ef
+--start 1343
+--sim-load-config finish-tape=1

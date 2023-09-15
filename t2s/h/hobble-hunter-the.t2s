@@ -1,0 +1,7 @@
+https://tzxvault.org/Spectrum/TZX/TheHobbleHunter.zip
+hobble-hunter-the.z80
+--sim-load
+--tape-name "The Hobble Hunter.tzx"
+--tape-sum 94a1ed7d1f1a87037f087ed924b84f1e
+--start 36383
+--sim-load-config finish-tape=1

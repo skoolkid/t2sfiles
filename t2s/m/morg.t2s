@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Morg.tzx.zip
+morg.z80
+--sim-load
+--tape-name "Morg.tzx"
+--tape-sum 9d52bf5009d3ce193c6fa912a6e20d34
+--start 1343
+--sim-load-config finish-tape=1

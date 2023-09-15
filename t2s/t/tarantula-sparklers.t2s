@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/Tarantula(Sparklers).tzx.zip
+tarantula-sparklers.z80
+--sim-load
+--tape-name "Tarantula (Sparklers).tzx"
+--tape-sum 6f0c463e6bd3be01e795d8db3e6a57d4
+--start 64254
+--sim-load-config accelerator=bleepload

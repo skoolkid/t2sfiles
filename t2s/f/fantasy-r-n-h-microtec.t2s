@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/f/Fantasy.tzx.zip
+fantasy-r-n-h-microtec.z80
+--sim-load
+--tape-name "Fantasy (R'n'H Microtec).tzx"
+--tape-sum 80a8002f24d85580dd5aa0f8c62fe1be
+--start 45000

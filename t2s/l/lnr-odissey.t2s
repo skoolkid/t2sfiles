@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/l/LNROdissey.tzx.zip
+lnr-odissey.z80
+--sim-load
+--tape-name "LnrOdissey.tzx"
+--tape-sum 81cf353570f0e66cd592346631fff111
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/u/UltimateManicMiner.tzx.zip
+ultimate-manic-miner.z80
+--tape-name "Jet Set Willy 64 - Ultimate Manic Miner.tzx"
+--tape-sum 9900b74c58fabf4c552bf46452febe44
+--start 32039
+--sim-load-config machine=128

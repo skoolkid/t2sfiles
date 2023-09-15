@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Sanxion.tzx.zip
+sanxion.z80
+--sim-load
+--tape-name "Sanxion - 48k.tzx"
+--tape-sum 15568a872e2289d51b050b7bc0a6ac48
+--start 64972
+--sim-load-config accelerator=speedlock

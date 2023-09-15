@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Smiler.tap.zip
+smiler.z80
+--tape-name "SMILER.TAP"
+--tape-sum 3ec0d27d68c46889b1a2b427e8091797
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

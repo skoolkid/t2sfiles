@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MimzoidDeathDude.tap.zip
+mimzoid-death-dude.z80
+--sim-load
+--tape-name "MIMZOID.TAP"
+--tape-sum c009a6b037e573ac81b857f75b4a61f4
+--start 1343
+--sim-load-config finish-tape=1
+--tape-stop 9

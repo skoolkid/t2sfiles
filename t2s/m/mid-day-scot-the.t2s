@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Mid-DayScotThe.tzx.zip
+mid-day-scot-the.z80
+--sim-load
+--tape-name "The Mid-Day Scot.tzx"
+--tape-sum c846b089aa0e41ce5fe929f2d484f8a6
+--start 1343
+--sim-load-config finish-tape=1

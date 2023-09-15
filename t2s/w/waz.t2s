@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/w/Waz.tzx.zip
+waz.z80
+--sim-load
+--tape-name "Waz.tzx"
+--tape-sum f13623de6488923bb4c8543d673b10a9
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Bananas_2.tap.zip
+bananas-patricia-grady.z80
+--tape-name "Bananas.tap"
+--tape-sum d20f5f28f71cb1415e59a58626289300
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

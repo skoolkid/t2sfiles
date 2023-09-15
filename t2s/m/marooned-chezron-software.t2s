@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Marooned.tzx.zip
+marooned-chezron-software.z80
+--sim-load
+--tape-name "Marooned!.tzx"
+--tape-sum f1785412931ffed51028febdc9ee5d24
+--start 1343
+--sim-load-config finish-tape=1

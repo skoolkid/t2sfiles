@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/MicroOlympics.zip
+micro-olympics.z80
+--sim-load
+--tape-name "Micro Olympics.tzx"
+--tape-sum 5197c07dc282f52981531bd3b7492f32
+--start 32768

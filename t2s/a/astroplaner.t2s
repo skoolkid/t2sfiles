@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/Astroplaner.tzx.zip
+astroplaner.z80
+--sim-load
+--tape-name "Astroplaner.tzx"
+--tape-sum 2c924821c30431a727c1b8807ca5c239
+--start 1343
+--sim-load-config finish-tape=1

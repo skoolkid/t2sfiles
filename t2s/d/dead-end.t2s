@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DeadEnd.tzx.zip
+dead-end.z80
+--sim-load
+--tape-name "Dead End.tzx"
+--tape-sum 4e35c84305a4b032657eb8e4ff1ace39
+--start 34104

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/ComputerDarts.tap.zip
+computer-darts.z80
+--sim-load
+--tape-name "Computer Darts.tap"
+--tape-sum 5a809a85b71bb58997d1cc1dee4141a5
+--start 1343
+--sim-load-config finish-tape=1

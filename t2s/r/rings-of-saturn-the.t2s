@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/TheRingsOfSaturn.zip
+rings-of-saturn-the.z80
+--sim-load
+--tape-name "The Rings Of Saturn.tzx"
+--tape-sum 20e263612a2ee4bc98af214ae1c6c78e
+--start 24615

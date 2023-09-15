@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DevilsCrown.tzx.zip
+devils-crown.z80
+--sim-load
+--tape-name "Devil's Crown.tzx"
+--tape-sum ad223c4b8986f45c9c2aee4ce5fdd4c4
+--start 23322

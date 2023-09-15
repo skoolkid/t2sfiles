@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Chuckman.zip
+chuckman.z80
+--sim-load
+--tape-name "Chuckman.tzx"
+--tape-sum 59ab27e40c6c2fc35e0a174ba8b62b08
+--start 56275

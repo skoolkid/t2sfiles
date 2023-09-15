@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Cube_2.tap.zip
+cube-yrs.z80
+--sim-load
+--tape-name "cube.tap"
+--tape-sum 2f17604a71c56c913e65fdb2b1b4e781
+--start 23766

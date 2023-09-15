@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SpeccyPairs.tzx.zip
+speccy-pairs.z80
+--sim-load
+--tape-name "Speccy Pairs.tzx"
+--tape-sum fc28876dd8278528ee4c2ce0d216d1ba
+--start 1343
+--sim-load-config finish-tape=1

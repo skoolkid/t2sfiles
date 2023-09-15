@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Sentinels.tzx.zip
+sentinels.z80
+--sim-load
+--tape-name "Sentinels.tzx"
+--tape-sum 89e05920b9ef78660b7ff00cf63c1e62
+--start 1343
+--sim-load-config finish-tape=1

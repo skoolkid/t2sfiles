@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/a/Ali-Bebe.tzx.zip
+ali-bebe.z80
+--sim-load
+--tape-name "Ali-Bebe.tzx"
+--tape-sum 59f29a85cc95bc6469a7057b11726aba
+--start 25487

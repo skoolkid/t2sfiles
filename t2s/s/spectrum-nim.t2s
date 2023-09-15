@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SpectrumNIM(unknown).tap.zip
+spectrum-nim.z80
+--sim-load
+--tape-name "SpectrumNIM.tap"
+--tape-sum e09b798d294503d35b1b2b3324caeab7
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DasBoersenspiel.tzx.zip
+das-boersenspiel.z80
+--sim-load
+--tape-name "Das Boersenspiel.tzx"
+--tape-sum c39ed0189b6379270435e3a89968c2cb
+--start 1343
+--sim-load-config finish-tape=1

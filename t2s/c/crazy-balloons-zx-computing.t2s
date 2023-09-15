@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CrazyBalloons_2.tap.zip
+crazy-balloons-zx-computing.z80
+--tape-name "ASTROBAL.TAP"
+--tape-sum e4ea39bfaac2cfbfb2cc9eefae37d13d
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

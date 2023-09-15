@@ -1,0 +1,7 @@
+https://worldofspectrum.org/pub/sinclair/games/e/EscapeIntoSpace.tzx.zip
+escape-into-space.z80
+--sim-load
+--tape-name "Escape Into Space.tzx"
+--tape-sum 869d57f8111c87aa36a0965ce787fb02
+--start 36372
+--sim-load-config finish-tape=1

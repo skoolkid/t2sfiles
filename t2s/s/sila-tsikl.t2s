@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Sila-Tsikl.tzx.zip
+sila-tsikl.z80
+--sim-load
+--tape-name "Sila-Tsikl.tzx"
+--tape-sum 2ab6870a8c0f9d69e6dfb143c4f5182d
+--start 1343
+--sim-load-config finish-tape=1

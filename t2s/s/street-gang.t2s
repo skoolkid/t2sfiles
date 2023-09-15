@@ -1,7 +1,8 @@
-https://www.tzxvault.org/Spectrum/TZX/StreetGang.zip
+https://tzxvault.org/Spectrum/TZX/StreetGang.zip
 street-gang.z80
 --sim-load
 --tape-name "Street Gang.tzx"
 --tape-sum 04a0a6b5c286a34b33285134903e9128
 --start 65339
 --tape-stop 8
+--sim-load-config accelerator=speedlock

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/i/Inferi.tzx.zip
+inferi.z80
+--sim-load
+--tape-name "Inferi.tzx"
+--tape-sum 54fa2fcde572e975cf889ad665b12fd1
+--start 58792

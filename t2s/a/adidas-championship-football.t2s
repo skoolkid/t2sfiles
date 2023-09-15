@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AdidasChampionshipFootball.tzx.zip
+adidas-championship-football.z80
+--tape-name "Adidas Championship Football.tzx"
+--tape-sum 7634ae75c65319492f56feef4aaf3db6
+--start 35749
+--sim-load-config machine=128
+--sim-load-config accelerator=paul-owens

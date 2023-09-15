@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PuszkaPandory.tap.zip
+puszka-pandory.z80
+--sim-load
+--tape-name "PANDORA.TAP"
+--tape-sum 3427d33705d6d93f72f9238fc4944f5a
+--start 23801

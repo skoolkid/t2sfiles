@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Blitzkrieg.tzx.zip
+blitzkrieg.z80
+--sim-load
+--tape-name "Blitzkrieg.tzx"
+--tape-sum 427187a9633beed21b4440a89c42a9a1
+--start 1343
+--sim-load-config finish-tape=1

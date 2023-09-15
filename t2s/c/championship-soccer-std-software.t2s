@@ -1,0 +1,9 @@
+https://worldofspectrum.net/pub/sinclair/games/c/ChampionshipSoccer.tap.zip
+championship-soccer-std-software.z80
+--sim-load
+--tape-name "C-SOCCER.TAP"
+--tape-sum e4e799499954e0ed554015ee8c809986
+--start 1343
+--sim-load-config machine=128
+--sim-load-config finish-tape=1
+--tape-stop 15

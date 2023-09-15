@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RoyalBirkdale.tzx.zip
+royal-birkdale.z80
+--tape-name "Royal Birkdale (Hornby).tzx"
+--tape-sum d64229a6e0ebfb752f465bacd8528d8c
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

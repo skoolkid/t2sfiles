@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/h/Hawks.tzx.zip
+hawks.z80
+--sim-load
+--tape-name "Hawks.tzx"
+--tape-sum 493726f4b44700aa182a489f19b7568d
+--start 25200

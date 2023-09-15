@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/i/IKillYou.tap.zip
+i-kill-you.z80
+--sim-load
+--tape-name "IKILLYOU.tap"
+--tape-sum 86df7d5fe417521f9b79562e000cd573
+--start 40000

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SuperTrux.tzx.zip
+super-trux.z80
+--sim-load
+--tape-name "Super Trux - Side 1.tzx"
+--tape-sum 210641bbc6d0b206f1ffde6dfb77d047
+--start 37639
+--sim-load-config accelerator=gargoyle2,speedlock

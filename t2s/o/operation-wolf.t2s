@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/o/OperationWolf.tzx.zip
+operation-wolf.z80
+--sim-load
+--tape-name "Operation Wolf - 48k.tzx"
+--tape-sum 9ad8a73b3a8e1e771a0895ad60e33888
+--start 65283
+--sim-load-config accelerator=speedlock

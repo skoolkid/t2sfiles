@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/i/ImpossibleMissionII.tzx.zip
+impossible-mission-ii.z80
+--sim-load
+--tape-name "Impossible Mission II.tzx"
+--tape-sum 6faf6ff0cd6494b2dad361583d1edc06
+--start 64509
+--sim-load-config accelerator=alkatraz

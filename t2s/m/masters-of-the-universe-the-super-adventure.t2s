@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MastersOfTheUniverse-TheSuperAdventure.tzx.zip
+masters-of-the-universe-the-super-adventure.z80
+--sim-load
+--tape-name "Masters Of The Universe - Super Adventure.tzx"
+--tape-sum 869a548509a8f0f3d8e07b05e12166e1
+--start 64570
+--sim-load-config accelerator=alkatraz

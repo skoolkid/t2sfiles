@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SpectrumGolf.tzx.zip
+spectrum-golf.z80
+--sim-load
+--tape-name "Spectrum Golf.tzx"
+--tape-sum f952c172211e4cd3e50d27176a276211
+--start 1343
+--tape-stop 4
+--sim-load-config finish-tape=1

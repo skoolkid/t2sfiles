@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/j/JEDNADVACET.tzx.zip
+jednadvacet.z80
+--sim-load
+--tape-name "JEDNADVACET.tzx"
+--tape-sum b884ce423c2e67f5f5a9112807a65310
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config accelerator=bleepload

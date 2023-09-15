@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RealmOfDarkness.tzx.zip
+realm-of-darkness.z80
+--sim-load
+--tape-name "Realm Of Darkness.tzx"
+--tape-sum 04eca6bc9554ea513c54789c7cbe88ec
+--start 25000

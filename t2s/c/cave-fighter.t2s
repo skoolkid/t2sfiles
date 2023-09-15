@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Cave-Fighter.tzx.zip
+cave-fighter.z80
+--sim-load
+--tape-name "Cave Fight.tzx"
+--tape-sum 08201df31a7d28a67ecf4ce3ec4b2d8c
+--start 1343
+--sim-load-config finish-tape=1

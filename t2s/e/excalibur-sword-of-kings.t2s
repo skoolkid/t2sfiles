@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/e/Excalibur-SwordOfKings.tzx.zip
+excalibur-sword-of-kings.z80
+--sim-load
+--tape-name "Excalibur - Sword Of Kings.tzx"
+--tape-sum 3c57e4ef5bbf4440784020db80cc7a4f
+--start 41720

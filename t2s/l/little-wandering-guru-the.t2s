@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/l/LittleWanderingGuru.tzx.zip
+little-wandering-guru-the.z80
+--sim-load
+--tape-name "The Little Wandering Guru.tzx"
+--tape-sum db2f51298781f1f5da4a60c8cc9c077b
+--start 38003

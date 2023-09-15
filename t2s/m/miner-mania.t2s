@@ -1,0 +1,9 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MinerMania.tap.zip
+miner-mania.z80
+--sim-load
+--tape-name "MINERMAN.TAP"
+--tape-sum 05443c62fa678b6a17f678c64eadbfd9
+--start 1343
+--sim-load-config finish-tape=1
+--tape-stop 3
+--sim-load-config 'load=LOAD "": RUN'

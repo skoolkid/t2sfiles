@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/w/WorldCupGlory.tzx.zip
+world-cup-glory.z80
+--sim-load
+--tape-name "World Cup Glory.tzx"
+--tape-sum a49fe5eb8fa67a4c4a8b39f62f8b7795
+--start 1343
+--sim-load-config finish-tape=1

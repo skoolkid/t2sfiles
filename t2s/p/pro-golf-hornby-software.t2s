@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/p/ProGolf_2.tzx.zip
+pro-golf-hornby-software.z80
+--tape-name "Golf - Side 1 (Hornby Software).tzx"
+--tape-sum 375884de25f4a5ead4b257bf4bf42ed7
+--start 1343
+--sim-load-config finish-tape=1
+--tape-start 4
+--sim-load-config 'load=LOAD "": RUN'

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/y/YlliWTeSTeJ.tzx.zip
+ylliw-tes-tej.z80
+--sim-load
+--tape-name "Jet Set Willy - ylliW teS teJ.tzx"
+--tape-sum d22cb9056462dfd3f97efd89013774b6
+--start 1343
+--sim-load-config finish-tape=1

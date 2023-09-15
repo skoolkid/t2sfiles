@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Saracen.tzx.zip
+saracen.z80
+--sim-load
+--tape-name "Saracen.tzx"
+--tape-sum 8d6ffd223c29a2dfd171a8d775cffcb0
+--start 64789
+--sim-load-config accelerator=alkatraz

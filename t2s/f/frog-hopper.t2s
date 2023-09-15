@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/f/FrogHopper.tzx.zip
+frog-hopper.z80
+--sim-load
+--tape-name "Frog Hopper.tzx"
+--tape-sum 03cac1ccab110d29ada26e53b7a3d931
+--start 49001

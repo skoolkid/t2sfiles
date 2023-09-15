@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/r/Riptoff(plus).tzx.zip
+riptoff.z80
+--sim-load
+--tape-name "RiptoffPlus.tzx"
+--tape-sum 29d586f6753093a199d2f5b413d21d17
+--start 38434
+--sim-load-config accelerator=rom

@@ -1,0 +1,6 @@
+"https://tzxvault.org/Spectrum/TZX/Rock'NWrestle.zip"
+rock-n-wrestle.z80
+--sim-load
+--tape-name "Rock 'N Wrestle.tzx"
+--tape-sum 0f115f146095f9f2bb160790beca74fa
+--start 24576

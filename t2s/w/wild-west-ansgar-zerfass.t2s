@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/w/WildWest_2.tzx.zip
+wild-west-ansgar-zerfass.z80
+--sim-load
+--tape-name "Wild West.tzx"
+--tape-sum 5967e1ed30e196b65a42d260e0cd3895
+--start 1343
+--sim-load-config finish-tape=1

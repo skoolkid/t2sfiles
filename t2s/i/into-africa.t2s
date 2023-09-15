@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/i/IntoAfrica.tzx.zip
+into-africa.z80
+--sim-load
+--tape-name "Into Africa.tzx"
+--tape-sum 1326d2b82d39ff009e0bd51dd31723ac
+--start 65283
+--sim-load-config accelerator=speedlock

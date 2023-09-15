@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TIM.tzx.zip
+tim.z80
+--sim-load
+--tape-name "Tim.tzx"
+--tape-sum 0feefcfee795e17a275229c0967abe82
+--start 1343
+--sim-load-config finish-tape=1

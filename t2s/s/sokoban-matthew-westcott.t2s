@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Sokoban.tap.zip
+sokoban-matthew-westcott.z80
+--sim-load
+--tape-name "sokoban.tap"
+--tape-sum 8bfdb696b09ea39f9c7fa00f25d956c3
+--start 1343
+--sim-load-config finish-tape=1

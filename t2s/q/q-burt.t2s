@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/q/Q-Burt.tzx.zip
+q-burt.z80
+--sim-load
+--tape-name "q-burt.tzx"
+--tape-sum 84075ab551fae6aed8c3d506030360d9
+--start 1343
+--sim-load-config finish-tape=1

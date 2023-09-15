@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/k/KingdomOfGrain.tzx.zip
+kingdom-of-grain.z80
+--sim-load
+--tape-name "KingdomOfGrain.tzx"
+--tape-sum bb3bac3c257bc1038675e4fde830b11b
+--start 1343
+--sim-load-config finish-tape=1

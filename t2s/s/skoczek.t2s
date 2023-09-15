@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Skoczek.tzx.zip
+skoczek.z80
+--sim-load
+--tape-name "Skoczek(DonkeyApe).tzx"
+--tape-sum d17bf37a9910056173b94735b44c22de
+--start 1343
+--sim-load-config finish-tape=1

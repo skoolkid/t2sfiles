@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/g/GoldenLocketThe.tzx.zip
+golden-locket-the.z80
+--sim-load
+--tape-name "The Golden Locket.tzx"
+--tape-sum dd42b84f09371f9a5f8183884518ccad
+--start 1343
+--sim-load-config finish-tape=1

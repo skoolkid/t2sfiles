@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/h/HeavyLiftHelicopter.tzx.zip
+heavy-lift-helicopter.z80
+--sim-load
+--tape-name "hlh.tzx"
+--tape-sum cb0cf27954b48fdb9cbe3a9c59ce80ad
+--start 1343
+--sim-load-config finish-tape=1

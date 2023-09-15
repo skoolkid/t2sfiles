@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AmotosPuf.tzx.zip
+amotos-puf.z80
+--sim-load
+--tape-name "Amoto's Puf.tzx"
+--tape-sum c8c8883c62597c37c948fd33f76eedee
+--start 60013

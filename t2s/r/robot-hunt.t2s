@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RobotHunt.tzx.zip
+robot-hunt.z80
+--sim-load
+--tape-name "Robot Hunt.tzx"
+--tape-sum 9dc75a8b568d2e1bd0fd58554ee35c1a
+--start 1343
+--sim-load-config finish-tape=1

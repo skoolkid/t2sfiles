@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Maze(1).tzx.zip
+maze-colin-carruthers.z80
+--tape-name "The Maze.tzx"
+--tape-sum d36e997c42b74aef89843477a63c4a65
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

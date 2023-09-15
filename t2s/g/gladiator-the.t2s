@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/g/GladiatorThe.tzx.zip
+gladiator-the.z80
+--sim-load
+--tape-name "The Gladiator.tzx"
+--tape-sum 46eea898b55f181f81d0b99c94919ec5
+--start 34104

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/g/Gecko.tap.zip
+gecko.z80
+--tape-name "GECKO.TAP"
+--tape-sum 51d3f2db755ddef5fabc84dc39715243
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

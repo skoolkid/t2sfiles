@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/j/Jellymen.tap.zip
+jellymen.z80
+--sim-load
+--tape-name "JELLYMAN.TAP"
+--tape-sum 1260142a8d586a2efec917a02ce88d2c
+--start 1343
+--sim-load-config finish-tape=1

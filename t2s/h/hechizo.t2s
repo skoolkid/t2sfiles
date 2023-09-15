@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/h/Hechizo(Feitizo)(YearZeroSoftware).tap.zip
+hechizo.z80
+--sim-load
+--tape-name "Feitizo (Galician).tap"
+--tape-sum 749f797a2870777ee54942e20b8e1c55
+--start 1343
+--sim-load-config finish-tape=1

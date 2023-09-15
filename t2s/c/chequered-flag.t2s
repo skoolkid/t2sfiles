@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/ChequeredFlag.zip
+chequered-flag.z80
+--sim-load
+--tape-name "Chequered Flag.tzx"
+--tape-sum d46ba5409e38767f8d9eccc9b980a4ac
+--start 31646

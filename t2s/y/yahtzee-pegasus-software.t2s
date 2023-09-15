@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/y/Yahtzee_2.tzx.zip
+yahtzee-pegasus-software.z80
+--sim-load
+--tape-name "Yahtzee (Pegasus).tzx"
+--tape-sum 59480b3b10ca744504db9215f671bfe9
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/g/Ghoti.tap.zip
+ghoti.z80
+--tape-name "GHOTI.TAP"
+--tape-sum 4ae90c29f5ce2e1e3d204cce3d08e8ad
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

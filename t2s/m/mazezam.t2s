@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MazezaM.tap.zip
+mazezam.z80
+--sim-load
+--tape-name "ZXMazezaM/MazezaM.tap"
+--tape-sum 273dc9bb9b240c7493b2918fac82c098
+--start 1343
+--sim-load-config finish-tape=1

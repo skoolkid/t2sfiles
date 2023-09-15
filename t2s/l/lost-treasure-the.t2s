@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/l/LostTreasureThe.tap.zip
+lost-treasure-the.z80
+--sim-load
+--tape-name "LostTreasure.tap"
+--tape-sum 2f98cd90c6f9f0bb896e17fe7a4239cb
+--start 1343
+--sim-load-config finish-tape=1

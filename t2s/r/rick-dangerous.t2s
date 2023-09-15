@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RickDangerous.tzx.zip
+rick-dangerous.z80
+--sim-load
+--tape-name "Rick Dangerous.tzx"
+--tape-sum 685cf58aa8498b8b9c42d062befde83c
+--start 23949
+--sim-load-config accelerator=bleepload

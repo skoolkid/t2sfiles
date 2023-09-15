@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SagenhafteSchatzDesDrachenMordorDer.tap.zip
+sagenhafte-schatz-des-drachen-mordor-der.z80
+--sim-load
+--tape-name "Mordor.tap"
+--tape-sum 706664b5d88c421ad61853dc1c6ec2d9
+--start 1343
+--sim-load-config finish-tape=1

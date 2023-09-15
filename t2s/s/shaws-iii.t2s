@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/ShawsIII.tap.zip
+shaws-iii.z80
+--sim-load
+--tape-name "SHAWSIII.TAP"
+--tape-sum ef2ddfff99186152b2279773a2ec3e6e
+--start 52000

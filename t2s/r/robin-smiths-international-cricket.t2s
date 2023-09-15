@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RobinSmithsInternationalCricket.tzx.zip
+robin-smiths-international-cricket.z80
+--sim-load
+--tape-name "Robin Smith's International Cricket.tzx"
+--tape-sum 9fec1c026b859f86045416c2ec264958
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,6 +1,7 @@
-https://spectrumcomputing.co.uk/pub/sinclair/games/b/BatAttack3D.tzx.zip
+https://worldofspectrum.net/pub/sinclair/games/b/BatAttack3D.tzx.zip
 3d-bat-attack.z80
 --sim-load
 --tape-name "3D Bat Attack.tzx"
 --tape-sum 6287459d9147614b3527212cfcaa2268
---start 29205
+--start 1343
+--sim-load-config finish-tape=1

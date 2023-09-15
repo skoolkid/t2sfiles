@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/w/W.A.R..tzx.zip
+war-alpha.z80
+--sim-load
+--tape-name "War - Alpha.tzx"
+--tape-sum 62a7ea422d7780052cfa42fbe14760da
+--start 65393
+--sim-load-config accelerator=speedlock

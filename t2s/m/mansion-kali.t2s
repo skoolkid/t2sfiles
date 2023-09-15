@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MansionKali.tzx.zip
+mansion-kali.z80
+--sim-load
+--tape-name "MansionKali.tzx"
+--tape-sum d342be8e6ae7c8ab4079e67dc5e83dca
+--start 29041
+--sim-load-config finish-tape=1

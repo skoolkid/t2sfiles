@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/d/Downtown.tzx.zip
+downtown.z80
+--sim-load
+--tape-name "Down Town.tzx"
+--tape-sum 44f05de9058c0244e993687524d2813f
+--start 38912

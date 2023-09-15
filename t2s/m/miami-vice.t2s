@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MiamiVice.tzx.zip
+miami-vice.z80
+--sim-load
+--tape-name "Miami Vice.tzx"
+--tape-sum bdfa048f643acb19bbf8b47b46643d4b
+--start 65383
+--sim-load-config accelerator=speedlock

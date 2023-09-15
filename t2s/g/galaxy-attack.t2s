@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/GalaxyAttack.zip
+galaxy-attack.z80
+--sim-load
+--tape-name "Galaxy Attack.tzx"
+--tape-sum 30ea4097475ec803a2798983ed5e0c66
+--start 23832

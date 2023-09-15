@@ -1,0 +1,7 @@
+"https://tzxvault.org/Spectrum/TZX/Sam'sUn-ExcellentAdventure.zip"
+sams-unexcellent-adventure.z80
+--sim-load
+--tape-name "Sam's Un-Excellent Adventure.tzx"
+--tape-sum dedabc874522c473f186a3e9c2befcf0
+--start 29201
+--sim-load-config finish-tape=1

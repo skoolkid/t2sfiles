@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/OneDarkNight.zip
+one-dark-night.z80
+--sim-load
+--tape-name "One Dark Night.tzx"
+--tape-sum 642d14ff8b710e4a347c8b62574b5a34
+--start 24055

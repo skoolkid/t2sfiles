@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Starship_2.tap.zip
+starship-nicholas-lock.z80
+--tape-name "STARSHIP.TAP"
+--tape-sum a306415c4131bacbb45feb9459a5d599
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

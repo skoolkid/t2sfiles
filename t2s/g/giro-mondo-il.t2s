@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/g/Giro-MondoIl.tzx.zip
+giro-mondo-il.z80
+--sim-load
+--tape-name "GiromondoIl.tzx"
+--tape-sum edbff06acaa65695478c7ef5506cded3
+--start 1343
+--sim-load-config finish-tape=1

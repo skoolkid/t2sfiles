@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MatchingPairs.tzx.zip
+matching-pairs.z80
+--sim-load
+--tape-name "Matching Pairs.tzx"
+--tape-sum b95bb6ac39893d85aee40085e30ae5df
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/o/OThelo.tzx.zip
+othelo-medium-case.z80
+--sim-load
+--tape-name "O'Thelo - Medium Case.tzx"
+--tape-sum 7d13bf7e063c599b60818af7055602c7
+--start 1343
+--sim-load-config finish-tape=1

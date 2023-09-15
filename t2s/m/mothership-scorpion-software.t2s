@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Mothership_2.tap.zip
+mothership-scorpion-software.z80
+--sim-load
+--tape-name "mship.tap"
+--tape-sum 5b9913727f2d1092611a75b905286b7a
+--start 1343
+--sim-load-config finish-tape=1

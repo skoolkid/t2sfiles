@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/TheBermudaTriangle.zip
+bermuda-triangle-the.z80
+--sim-load
+--tape-name "The Bermuda Triangle.tzx"
+--tape-sum c440ff4ce628af478eae01ee712b4102
+--start 25000

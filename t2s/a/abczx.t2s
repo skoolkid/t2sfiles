@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AbcZX.tzx.zip
+abczx.z80
+--sim-load
+--tape-name "AbcZX.tzx"
+--tape-sum 4829107ecba19d07a3ef3881a3aa6c45
+--start 1343
+--sim-load-config finish-tape=1

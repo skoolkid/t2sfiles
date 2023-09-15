@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PanzerSchlacht.tap.zip
+panzer-schlacht.z80
+--sim-load
+--tape-name "PANZERSC.TAP"
+--tape-sum d5bf4f8a356f5d1f808709bbe77be91c
+--start 1343
+--sim-load-config finish-tape=1

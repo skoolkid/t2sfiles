@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Sokob-One.tap.zip
+sokob-one.z80
+--sim-load
+--tape-name "sokobone.tap"
+--tape-sum 29bfaba47e5b6ab01b22b88feca3cee5
+--start 23768

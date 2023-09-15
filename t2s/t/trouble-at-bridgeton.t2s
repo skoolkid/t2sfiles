@@ -1,0 +1,7 @@
+https://tzxvault.org/Spectrum/TZX/TroubleAtBridgeton.zip
+trouble-at-bridgeton.z80
+--sim-load
+--tape-name "Trouble At Bridgeton.tzx"
+--tape-sum c148ff55aaca77a1bfd5a92d95c492fa
+--start 29169
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/g/Golf.tzx.zip
+golf-goodson-howell-morris.z80
+--sim-load
+--tape-name "Golf (S. Goodson'82).tzx"
+--tape-sum aec941d5aaec33f05be04b0b22e912d8
+--start 1343
+--sim-load-config finish-tape=1

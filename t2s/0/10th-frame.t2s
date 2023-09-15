@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/123/10thFrame.tzx.zip
+10th-frame.z80
+--sim-load
+--tape-name "10th Frame.tzx"
+--tape-sum e3ae28cd416235c1ec3db7540b780636
+--start 64474
+--sim-load-config accelerator=alkatraz

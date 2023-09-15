@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/o/Othello_2.tzx.zip
+othello-ere-informatique.z80
+--sim-load
+--tape-name "Othello (ERE).tzx"
+--tape-sum e15e5e1b7d61e7153407d5af063b3a1e
+--start 1343
+--sim-load-config finish-tape=1

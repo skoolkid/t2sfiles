@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CombatZone.tzx.zip
+combat-zone-alternative-software.z80
+--sim-load
+--tape-name "Combat Zone (Alternative).tzx"
+--tape-sum a29c3d2bd5ea188069e99b3bd9c041d1
+--start 49535

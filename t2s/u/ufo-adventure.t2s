@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/u/UFO-Adventure.tap.zip
+ufo-adventure.z80
+--sim-load
+--tape-name "UFO_AD_1.TAP"
+--tape-sum fade4228a192fe6d3988acd7694e8782
+--start 1343
+--sim-load-config finish-tape=1

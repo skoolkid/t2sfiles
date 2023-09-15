@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/h/HamptonsCaught.tzx.zip
+hamptons-caught.z80
+--sim-load
+--tape-name "Hampton's Caught.tzx"
+--tape-sum 355160d5421e2c0339ad42b29220d80c
+--start 1343
+--sim-load-config finish-tape=1

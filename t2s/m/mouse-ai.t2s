@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MouseAI.tzx.zip
+mouse-ai.z80
+--sim-load
+--tape-name "Mouse AI.tzx"
+--tape-sum c5fe4b5f53866ef2fc3c2758a738641b
+--start 1343
+--sim-load-config finish-tape=1

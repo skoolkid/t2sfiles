@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/n/NitroJoe.tap.zip
+nitro-joe.z80
+--sim-load
+--tape-name "Nitro Joe.tap"
+--tape-sum ed176331372cf3dc0ecc8da83bab68bb
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/k/Krakit.tzx.zip
+krakit-48k.z80
+--sim-load
+--tape-name "Krakit - 48k.tzx"
+--tape-sum a7376873d4bb701f466c9f235727730b
+--start 1343
+--tape-stop 4
+--sim-load-config finish-tape=1

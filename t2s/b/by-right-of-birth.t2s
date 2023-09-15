@@ -1,0 +1,7 @@
+https://tzxvault.org/Spectrum/TZX/ByRightOfBirth.zip
+by-right-of-birth.z80
+--sim-load
+--tape-name "By Right Of Birth.tzx"
+--tape-sum ff759b28edec18b7294754fc80f50d64
+--start 29169
+--sim-load-config finish-tape=1

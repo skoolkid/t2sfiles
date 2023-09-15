@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MiserThe.tzx.zip
+miser-the.z80
+--sim-load
+--tape-name "The Miser.tzx"
+--tape-sum 5a65fafe99d1d2fede402c27663b7925
+--start 36376
+--sim-load-config finish-tape=1

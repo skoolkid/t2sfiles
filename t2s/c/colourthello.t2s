@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Colourthello.tap.zip
+colourthello.z80
+--tape-name "COTHELLO.TAP"
+--tape-sum 8707452f8577eeca09283849fc97ca23
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

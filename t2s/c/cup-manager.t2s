@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CupManager.tzx.zip
+cup-manager.z80
+--sim-load
+--tape-name "Cup Manager.tzx"
+--tape-sum 9ec39d3a72b70a63dcc07cb844e67f07
+--start 1343
+--sim-load-config finish-tape=1

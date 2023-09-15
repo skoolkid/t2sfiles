@@ -1,0 +1,7 @@
+https://tzxvault.org/Spectrum/TZX/CoryaTheWarriorSage.zip
+corya-the-warrior-sage-p2.z80
+--sim-load
+--tape-name "Corya The Warrior Sage - Part 2.tzx"
+--tape-sum 27380910b59ab9798e3fbdfa23c7eceb
+--start 29201
+--sim-load-config finish-tape=1

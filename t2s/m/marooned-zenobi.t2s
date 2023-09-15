@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Marooned_2.tzx.zip
+marooned-zenobi.z80
+--sim-load
+--tape-name "MAROONED.TZX"
+--tape-sum 0f4e5b65cde8462870a3e46605ca0d7c
+--start 25000

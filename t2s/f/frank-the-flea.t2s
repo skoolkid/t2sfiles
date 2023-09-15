@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/f/FrankTheFlea.tzx.zip
+frank-the-flea.z80
+--sim-load
+--tape-name "Frank The Flea.tzx"
+--tape-sum 207e3d4b2a0f5eccc7201232d7e6e45c
+--start 1343
+--sim-load-config finish-tape=1

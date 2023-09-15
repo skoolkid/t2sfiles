@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PremierLeague.tzx.zip
+premier-league.z80
+--sim-load
+--tape-name "Premier League.tzx"
+--tape-sum 27bfa5da90d508e550ac15cd4ff3f12c
+--start 1343
+--sim-load-config finish-tape=1

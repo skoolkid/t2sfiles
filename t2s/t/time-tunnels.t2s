@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TimeTunnels.tzx.zip
+time-tunnels.z80
+--sim-load
+--tape-name "Time Tunnels.tzx"
+--tape-sum 035dc447c96870de10dada2775c2b1c6
+--start 1343
+--sim-load-config finish-tape=1

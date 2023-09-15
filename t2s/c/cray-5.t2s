@@ -1,0 +1,9 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Cray5(Turbo).tzx.zip
+cray-5.z80
+--sim-load
+--tape-name "Cray5_turbo.tzx"
+--tape-sum 30ff3f28a8eded1af7c6b625f79572ca
+--start 65504
+--sim-load-config machine=128
+--sim-load-config accelerator=rom
+--sim-load-config finish-tape=1

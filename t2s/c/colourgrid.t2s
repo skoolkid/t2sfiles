@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Colourgrid.tzx.zip
+colourgrid.z80
+--sim-load
+--tape-name "Colourgrid.tzx"
+--tape-sum 7f46d53a613e0f7c6e8872e63ccc4f81
+--start 1343
+--sim-load-config finish-tape=1

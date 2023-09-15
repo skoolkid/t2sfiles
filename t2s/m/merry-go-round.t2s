@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MerryGoRound.tzx.zip
+merry-go-round.z80
+--sim-load
+--tape-name "Merry Go Round.tzx"
+--tape-sum 6494cca630aa3af3d58785f1072f9f35
+--start 1343
+--sim-load-config finish-tape=1

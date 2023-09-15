@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Space7.tzx.zip
+space-7.z80
+--sim-load
+--tape-name "SPACE7.TZX"
+--tape-sum c398043d7a71d3cd5a10699ae3f4a406
+--start 65211
+--sim-load-config accelerator=rom

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SpectrumCross(Frogger)(ZX-Power1).tzx.zip
+spectrum-cross.z80
+--sim-load
+--tape-name "Frogger (ZX-Power).tzx"
+--tape-sum bb3211dad05b2edfb8ad6a94f585c15d
+--start 1343
+--sim-load-config finish-tape=1

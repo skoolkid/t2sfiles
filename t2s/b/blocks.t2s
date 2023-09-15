@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Blocks.tzx.zip
+blocks.z80
+--sim-load
+--tape-name "Blocks.tzx"
+--tape-sum f5637aa9d22f9a74915f20ecb43b2ce8
+--start 1343
+--sim-load-config finish-tape=1

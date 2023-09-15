@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/h/HighriseHarry.tzx.zip
+highrise-harry.z80
+--sim-load
+--tape-name "Highrise Harry - Keyboard.tzx"
+--tape-sum 3df4425959feb90c8fced1b794922bac
+--start 40001

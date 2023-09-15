@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/Thief.tzx.zip
+thief-corrupt-code.z80
+--sim-load
+--tape-name "Thief.tzx"
+--tape-sum 65e8c4dcff6f5f3c0eddd43b677cbbcd
+--start 34104

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Sugarino.tap.zip
+sugarino.z80
+--sim-load
+--tape-name "Sugarino.tap"
+--tape-sum 78c2b15f8b2521cd1b3e2c7bfe1b3df2
+--start 1343
+--sim-load-config finish-tape=1

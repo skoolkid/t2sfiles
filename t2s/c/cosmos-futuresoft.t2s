@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Cosmos_3.tzx.zip
+cosmos-futuresoft.z80
+--sim-load
+--tape-name "Cosmos (Futuresoft).tzx"
+--tape-sum dd42acd93d87ccd56eec4e16b8de9b75
+--start 36366
+--sim-load-config finish-tape=1

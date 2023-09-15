@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/j/Jerrybuilder.tap.zip
+jerrybuilder.z80
+--sim-load
+--tape-name "JERRYBUI.TAP"
+--tape-sum 3305de3558b9acf324aaaa47787a298d
+--start 1343
+--sim-load-config finish-tape=1

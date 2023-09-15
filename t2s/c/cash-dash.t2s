@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/CashDash.zip
+cash-dash.z80
+--sim-load
+--tape-name "Cash Dash.tzx"
+--tape-sum 59bcc1e8065cd22e70d91177b40749b0
+--start 25294

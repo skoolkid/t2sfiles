@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/l/LadatologatoJatek.tzx.zip
+ladatologato-jatek.z80
+--sim-load
+--tape-name "Ladatologato Jatek.tzx"
+--tape-sum 0a5c408d9669b2fdcc11e0de7b613541
+--start 22499
+--sim-load-config accelerator=tiny,rom

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/j/Jetman.tzx.zip
+jetman.z80
+--sim-load
+--tape-name "Jetman.tzx"
+--tape-sum 4c599a73538db96af9092155004454b1
+--start 1343
+--sim-load-config finish-tape=1

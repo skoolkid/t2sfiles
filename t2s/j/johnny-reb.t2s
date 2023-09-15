@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/j/JohnnyReb.tzx.zip
+johnny-reb.z80
+--sim-load
+--tape-name "Johnny Reb.tzx"
+--tape-sum 7904c4484a2f2d2bad82b21fbb3c5e4d
+--start 1343
+--sim-load-config finish-tape=1

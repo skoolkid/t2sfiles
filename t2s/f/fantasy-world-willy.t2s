@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/f/FantasyWorldWilly.tap.zip
+fantasy-world-willy.z80
+--sim-load
+--tape-name "FWW.tap"
+--tape-sum e18660d81eb53dd5c651fb0d74c56a9c
+--start 33792

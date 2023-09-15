@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/l/Locodriver9.tzx.zip
+locodriver-9.z80
+--sim-load
+--tape-name "Locodriver 9.tzx"
+--tape-sum d386c8fb9ab40556d2587b135b9a9759
+--start 1343
+--sim-load-config finish-tape=1

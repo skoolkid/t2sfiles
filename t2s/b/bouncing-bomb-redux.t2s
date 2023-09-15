@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/BouncingBomb-Redux.zip
+bouncing-bomb-redux.z80
+--sim-load
+--tape-name "Bouncing Bomb - Redux.tzx"
+--tape-sum a617d5eb9217fcc737aeb82bcf466196
+--start 65037

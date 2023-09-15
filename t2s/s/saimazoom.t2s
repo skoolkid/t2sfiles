@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Saimazoom(SmallCase).tzx.zip
+saimazoom.z80
+--sim-load
+--tape-name "Saimazoom.tzx"
+--tape-sum cbb1199807ff1dff4ce4ea114419e1e5
+--start 24128
+--sim-load-config accelerator=rom

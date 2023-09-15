@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/v/VigilantePatrol.tap.zip
+vigilante-patrol.z80
+--sim-load
+--tape-name "VIGIPATR.TAP"
+--tape-sum 3c9645ebf37420afb4ec6b14cf17280f
+--start 30700

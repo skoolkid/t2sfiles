@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Scrambler.tap.zip
+scrambler.z80
+--tape-name "CUTS8608.TAP"
+--tape-sum 0e28c67433c2477c0e044717359f973d
+--start 1343
+--sim-load-config finish-tape=1
+--tape-start 3
+--sim-load-config 'load=LOAD "": RUN'

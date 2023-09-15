@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/g/GreenSonja.tzx.zip
+green-sonja.z80
+--sim-load
+--tape-name "Green Sonja.tzx"
+--tape-sum 38489293e5aa747f26f9fe7439492b49
+--start 34104

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Chechnya95.tzx.zip
+chechnya-95.z80
+--sim-load
+--tape-name "chech95.tzx"
+--tape-sum be217ddc8efb5ed9357ec3db0513ce23
+--start 1343
+--sim-load-config finish-tape=1

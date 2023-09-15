@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Camelot.tzx.zip
+camelot.z80
+--sim-load
+--tape-name "Camelot.tzx"
+--tape-sum 48aea354f4d211eb7e79a7f005fea017
+--start 1343
+--sim-load-config finish-tape=1

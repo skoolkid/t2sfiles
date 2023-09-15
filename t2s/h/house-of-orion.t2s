@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/h/HouseOfOrion.tzx.zip
+house-of-orion.z80
+--sim-load
+--tape-name "House Of Orion.tzx"
+--tape-sum 7d8ae98c5f20ffc7d79afef2b798b804
+--start 1343
+--sim-load-config finish-tape=1

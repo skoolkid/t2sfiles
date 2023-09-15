@@ -1,0 +1,7 @@
+https://skoolkit.ca/tapes/BlockPaint.tzx.zip
+block-paint.z80
+--sim-load
+--tape-name "BlockPaint.tzx"
+--tape-sum 284d154669029f54186db45388f91061
+--start 1343
+--sim-load-config finish-tape=1

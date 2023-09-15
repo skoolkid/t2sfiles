@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/r/ReyesYCastillos_2.tap.zip
+reyes-y-castillos.z80
+--sim-load
+--tape-name "REYESYC.TAP"
+--tape-sum 123e78242c192c53ced99457a5c75b1e
+--start 1343
+--sim-load-config finish-tape=1

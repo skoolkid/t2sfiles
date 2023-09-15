@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AlienCommand(Microware).tzx.zip
+alien-command.z80
+--sim-load
+--tape-name "Alien Command (Microware).tzx"
+--tape-sum b36d42833a4ca9a29382df54cfb9364d
+--start 1343
+--sim-load-config finish-tape=1

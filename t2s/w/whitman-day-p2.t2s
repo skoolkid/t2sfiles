@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/w/WhitmanDay.tap.zip
+whitman-day-p2.z80
+--sim-load
+--tape-name "Whitman day - Part 2.tap"
+--tape-sum 7a57545dcd10b6762044ab52bd5bd9a8
+--start 34793

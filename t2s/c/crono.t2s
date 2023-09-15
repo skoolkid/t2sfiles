@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Crono.tzx.zip
+crono.z80
+--sim-load
+--tape-name "Crono.tzx"
+--tape-sum 124f709380477770086fd692a9aab24f
+--start 34104

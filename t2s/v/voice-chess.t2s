@@ -1,0 +1,7 @@
+https://tzxvault.org/Spectrum/TZX/VoiceChess.zip
+voice-chess.z80
+--sim-load
+--tape-name "Voice Chess.tzx"
+--tape-sum 62ec16dc380aee1ba36473a386d694bc
+--start 63745
+--sim-load-config first-edge=30688

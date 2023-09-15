@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/ManiMosca.tzx.zip
+mani-mosca.z80
+--sim-load
+--tape-name "ManiMosca.tzx"
+--tape-sum ca11c187165e63cba994e7a40b2e8633
+--start 1343
+--sim-load-config finish-tape=1

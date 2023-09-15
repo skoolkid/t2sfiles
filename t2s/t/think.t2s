@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/Think.tzx.zip
+think.z80
+--sim-load
+--tape-name "Think!.tzx"
+--tape-sum 72c37ddf0f53ca37db6b4af1122492e7
+--start 23329

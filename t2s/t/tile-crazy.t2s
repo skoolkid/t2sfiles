@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TileCrazy.tzx.zip
+tile-crazy.z80
+--sim-load
+--tape-name "Tile Crazy.tzx"
+--tape-sum 5cd0e52eb254c1b3efde1a8a47554593
+--start 1343
+--sim-load-config finish-tape=1

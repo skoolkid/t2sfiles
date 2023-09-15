@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/b/B.A.R.F..tzx.zip
+barf.z80
+--sim-load
+--tape-name "BARF.TZX"
+--tape-sum c629a8c2f2f1e33a6276e492b7d03978
+--start 23316
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

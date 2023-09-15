@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DeathBringer.tzx.zip
+death-bringer.z80
+--sim-load
+--tape-name "Death Bringer.tzx"
+--tape-sum 6fe2da681f7b877a35c4cb3d31e68741
+--start 36366
+--sim-load-config finish-tape=1

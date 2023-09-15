@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/LunaAtac.zip
+luna-atac.z80
+--sim-load
+--tape-name "Luna Atac.tzx"
+--tape-sum 8dd0e187091a9a8026624d2eb2ac7446
+--start 49350

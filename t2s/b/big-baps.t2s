@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BigBaps.tap.zip
+big-baps.z80
+--sim-load
+--tape-name "BIGBAPS.TAP"
+--tape-sum b303d4129ef576c1bd42f88d9655fd04
+--start 23769

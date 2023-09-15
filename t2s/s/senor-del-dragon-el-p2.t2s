@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SenorDelDragonEl_2.tap.zip
+senor-del-dragon-el-p2.z80
+--sim-load
+--tape-name "El Senor Del Dragon.tap"
+--tape-sum b28ff9ea5dda5d1ea00bda3e12c8935b
+--start 29041
+--tape-start 11
+--sim-load-config finish-tape=1

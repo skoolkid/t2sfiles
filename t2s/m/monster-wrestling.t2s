@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MonsterWrestling.tap.zip
+monster-wrestling.z80
+--sim-load
+--tape-name "MonsterWrestling.tap"
+--tape-sum b3f3a4dbe572edc1fe095a5ae94022c7
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/ComputerRulette.tzx.zip
+computer-rulette.z80
+--sim-load
+--tape-name "ComputerRulette.tzx"
+--tape-sum 603e5a5589e5187b6366aa701cba8589
+--start 1343
+--sim-load-config finish-tape=1

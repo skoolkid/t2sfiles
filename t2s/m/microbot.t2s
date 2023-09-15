@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Microbot.zip
+microbot.z80
+--sim-load
+--tape-name "Microbot.tzx"
+--tape-sum e9cb5dca02925f9e72729ac39b928308
+--start 44700

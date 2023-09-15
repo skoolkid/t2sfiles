@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DeathsHeadHole.tzx.zip
+deaths-head-hole.z80
+--sim-load
+--tape-name "Death's Head Hole.tzx"
+--tape-sum e0c7034ca738953765b35351729479e3
+--start 1343
+--sim-load-config finish-tape=1

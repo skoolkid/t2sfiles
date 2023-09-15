@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/a/Ankh-Morpork.tzx.zip
+ankh-morpork.z80
+--sim-load
+--tape-name "Anhk Morpork.tzx"
+--tape-sum 13fcf0e055f2219a3196d639266b2297
+--start 25063

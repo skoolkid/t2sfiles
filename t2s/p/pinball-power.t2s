@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Pinball3D.tzx.zip
+pinball-power.z80
+--sim-load
+--tape-name "Pinball Power.tzx"
+--tape-sum 8e0b30b2fa566400a6ae33972a25328d
+--start 40000

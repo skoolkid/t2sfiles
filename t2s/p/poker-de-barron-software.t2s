@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Poker.tzx.zip
+poker-de-barron-software.z80
+--sim-load
+--tape-name "Draw Poker.tzx"
+--tape-sum 57fe33952f5470bdd26e0f7b4f9e8c72
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Sheepdog.tzx.zip
+sheepdog-s-robert-speel.z80
+--tape-name "Sheepdog.tzx"
+--tape-sum 8e1f9d8d878508c33a46bf00b4c79863
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

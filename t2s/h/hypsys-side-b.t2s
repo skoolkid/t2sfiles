@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/h/Hypsys.tzx.zip
+hypsys-side-b.z80
+--sim-load
+--tape-name "Hypsys - Side B.tzx"
+--tape-sum 7ac89457a0a54fcbed00e8ef07f5563b
+--start 24060
+--sim-load-config accelerator=rom

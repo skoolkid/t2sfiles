@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/i/InsideOuting.tzx.zip
+inside-outing.z80
+--sim-load
+--tape-name "Inside Outing.tzx"
+--tape-sum b516d8201340d46050d19a3314c0323e
+--start 64470
+--sim-load-config accelerator=alkatraz

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/ShedmasterFinsburyPark.tzx.zip
+shedmaster-finsbury-park.z80
+--sim-load
+--tape-name "Shedmaster Finsbury Park.tzx"
+--tape-sum 1fe05a3ed63b98a775a7b99fca5dd46b
+--start 1343
+--sim-load-config finish-tape=1

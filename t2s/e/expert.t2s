@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/e/Expert.tap.zip
+expert.z80
+--sim-load
+--tape-name "EXPERT.TAP"
+--tape-sum 7a72cf9b4f4cd8c6e8998c2dfdfdcecb
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config accelerator=rom

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/e/Election_3.tzx.zip
+election-virgin-games.z80
+--sim-load
+--tape-name "Election (Virgin) - Side A.tzx"
+--tape-sum 92aac55235b4c8ba5b2aba7ea981ba3c
+--start 65329
+--sim-load-config accelerator=speedlock

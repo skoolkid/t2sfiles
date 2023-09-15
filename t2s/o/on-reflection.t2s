@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/o/OnReflection.tzx.zip
+on-reflection.z80
+--tape-name "On Reflection.tzx"
+--tape-sum 502fc37def96950b72e14abdd6d4b250
+--start 34887
+--sim-load-config machine=128

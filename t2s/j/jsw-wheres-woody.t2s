@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/w/WheresWoody.tzx.zip
+jsw-wheres-woody.z80
+--tape-name "Jet Set Willy - Where's Woody.tzx"
+--tape-sum 85100ffc61fd90ac9bf0e3929db4d0f0
+--start 33792
+--sim-load-config machine=128

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/Animal.tap.zip
+animal.z80
+--tape-name "Animal.tap"
+--tape-sum 571299a6ad62d8afe36b4f5947ef0780
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MoonBuggy.tzx.zip
+moon-buggy-anirog-software.z80
+--sim-load
+--tape-name "Moonbuggy (Anirog).tzx"
+--tape-sum cdd811bc50af1573f5507827b142975c
+--start 23762

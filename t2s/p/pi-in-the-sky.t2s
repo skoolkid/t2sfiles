@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PiInTheSky.tap.zip
+pi-in-the-sky.z80
+--sim-load
+--tape-name "PIINSKY.TAP"
+--tape-sum bd457c9e443bd8a80d56d079cbec5784
+--start 42000

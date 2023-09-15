@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CountThe.tap.zip
+count-the.z80
+--sim-load
+--tape-name "COUNT.TAP"
+--tape-sum 28e758de4fd137c210f4187cd04f46c6
+--start 24832

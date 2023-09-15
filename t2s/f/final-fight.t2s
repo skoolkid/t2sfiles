@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/f/FinalFight.tap.zip
+final-fight.z80
+--sim-load
+--tape-name "FFight.tap"
+--tape-sum f76a5b5ca791962a6f91c28afa0322c4
+--start 40000

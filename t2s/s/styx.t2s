@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Styx.tzx.zip
+styx.z80
+--sim-load
+--tape-name "Styx.tzx"
+--tape-sum 5ffeb5bfaf20b542789a6f5f6274127a
+--start 29696
+--tape-stop 12

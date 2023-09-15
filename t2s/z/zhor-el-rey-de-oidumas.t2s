@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/z/ZhorElReyDeOidumas.tap.zip
+zhor-el-rey-de-oidumas.z80
+--tape-name "Zhor - El Rey De Oidumas.tap"
+--tape-sum 72b6506aa01314b46c5a5a83fe08b5c1
+--start 34905
+--sim-load-config machine=128

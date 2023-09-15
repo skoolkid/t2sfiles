@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BridgeOnTheRhine.tap.zip
+bridge-on-the-rhine.z80
+--tape-name "BRIDGE.TAP"
+--tape-sum 620488182b4f8e0be9f24aadeed3f2ba
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/w/Wipeout.tap.zip
+wipeout.z80
+--sim-load
+--tape-name "wipeout.tap"
+--tape-sum 13d5ba0169f2c7fbd2c69649fbdababf
+--start 1343
+--sim-load-config finish-tape=1

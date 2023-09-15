@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/z/ZXFootballManager2005_128(Cronosoft2).tzx.zip
+zx-football-manager-2005-128k.z80
+--tape-name "FM2005_128.tzx"
+--tape-sum 7c492dc0cd5df9cbec7772776f389c61
+--start 1343
+--sim-load-config machine=128
+--sim-load-config finish-tape=1
+--tape-stop 13

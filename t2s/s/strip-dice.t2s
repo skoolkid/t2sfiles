@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Strip-Dice.tzx.zip
+strip-dice.z80
+--sim-load
+--tape-name "Strip-Dice.tzx"
+--tape-sum 334ca26d93ba980dae995ca04d692a30
+--start 1343
+--sim-load-config finish-tape=1

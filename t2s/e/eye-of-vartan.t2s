@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/e/EyeOfVartan.tzx.zip
+eye-of-vartan.z80
+--sim-load
+--tape-name "Eye Of Vartan.tzx"
+--tape-sum 90b8340d1930e8c5b7e8d160fccec3a6
+--start 25000

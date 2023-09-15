@@ -1,6 +1,7 @@
-https://www.worldofspectrum.org/pub/sinclair/games/c/CliffHanger.tzx.zip
+https://worldofspectrum.org/pub/sinclair/games/c/CliffHanger.tzx.zip
 cliff-hanger.z80
 --sim-load
 --tape-name "Cliff Hanger.tzx"
 --tape-sum 08b2d3867c9478e446c49217595239be
 --start 65304
+--sim-load-config accelerator=rom

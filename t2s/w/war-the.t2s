@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/w/WarThe.tzx.zip
+war-the.z80
+--sim-load
+--tape-name "WarThe.tzx"
+--tape-sum 3a921b28bf1f89a03b827e725f2d0ba3
+--start 1343
+--sim-load-config finish-tape=1

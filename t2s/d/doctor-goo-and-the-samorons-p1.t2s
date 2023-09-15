@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/compilations/d/DoctorGooAndTheSamorons.tzx.zip
+doctor-goo-and-the-samorons-p1.z80
+--sim-load
+--tape-name "Doctor Goo And The Samorons - Side 1.tzx"
+--tape-sum 64622c14fd5d50b5ea553b11ab95c159
+--start 25000
+--tape-stop 6

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/ChessMaster.tzx.zip
+chess-master-side-b.z80
+--sim-load
+--tape-name "Chess Master - Computer Tape - Side B.tzx"
+--tape-sum b743b39245b818d21cb6a75081585d1d
+--start 1343
+--sim-load-config finish-tape=1

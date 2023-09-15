@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/g/GhostGuzzler.tap.zip
+ghost-guzzler.z80
+--tape-name "GhostGuzzler.tap"
+--tape-sum 38b3cfd7911ec59bef2b3656aad7aab8
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

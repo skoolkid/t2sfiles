@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/StreetsOfDoom.tzx.zip
+streets-of-doom.z80
+--sim-load
+--tape-name "StreetsOfDoom.tzx"
+--tape-sum 13b6bb20e1c11fd5f691291e80c53428
+--start 23990

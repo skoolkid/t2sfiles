@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AdventureIsland.tzx.zip
+adventure-island.z80
+--sim-load
+--tape-name "Adventure Island.tzx"
+--tape-sum ff8f5487ff211d0d449900ea8b90fded
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SkelvullynTwine(8thDaySoftware).tzx.zip
+skelvullyn-twine-book-2.z80
+--sim-load
+--tape-name "Skelvullyn Twine - Side 2.tzx"
+--tape-sum f9f9750937fb044f3bb4d72debfc4223
+--start 1343
+--sim-load-config finish-tape=1

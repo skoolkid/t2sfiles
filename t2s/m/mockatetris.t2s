@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Mockatetris.tzx.zip
+mockatetris.z80
+--sim-load
+--tape-name "Mockatetris.tzx"
+--tape-sum 399e7875fdfffe9eb8bb64518f50ad10
+--start 38000

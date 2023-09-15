@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Meganova.tzx.zip
+meganova.z80
+--sim-load
+--tape-name "Meganova - Side A.tzx"
+--tape-sum d257e5c1ce11aae0c502ac556b46b5a3
+--start 65519

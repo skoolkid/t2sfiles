@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TicTacToe.tzx.zip
+tictactoe.z80
+--sim-load
+--tape-name "TicTacToe.tzx"
+--tape-sum a216120388494fffe38e844832f24516
+--start 1343
+--sim-load-config finish-tape=1

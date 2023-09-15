@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/f/FindTheSmiley.tap.zip
+find-the-smiley.z80
+--sim-load
+--tape-name "findsmiley.tap"
+--tape-sum b3e4039a54d500e78d40efd471212b3d
+--start 32768

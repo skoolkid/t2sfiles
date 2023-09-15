@@ -1,0 +1,6 @@
+https://worldofspectrum.org/pub/sinclair/games/c/CaptainKelly.tzx.zip
+captain-kelly.z80
+--sim-load
+--tape-name "Captain Kelly.tzx"
+--tape-sum 91c7f9a626bd56d2543386db5df86062
+--start 23791

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Columns.tzx.zip
+columns-computer-emuzone.z80
+--sim-load
+--tape-name "Columns.tzx"
+--tape-sum 2ecbe6391e1b2efbbb5edc544546c677
+--start 35315
+--sim-load-config machine=128

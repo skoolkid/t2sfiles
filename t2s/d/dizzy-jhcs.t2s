@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/Dizzy.tzx.zip
+dizzy-jhcs.z80
+--sim-load
+--tape-name "Dizzy.tzx"
+--tape-sum 896f7896953db7d6273a04c6eae17956
+--start 1343
+--sim-load-config finish-tape=1

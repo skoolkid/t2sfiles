@@ -1,0 +1,6 @@
+"https://tzxvault.org/Spectrum/TZX/TheWizard'sWarriors.zip"
+wizards-warriors-the.z80
+--sim-load
+--tape-name "The Wizard's Warriors.tzx"
+--tape-sum 591f71e687a4716cdb270ca4c622bbc0
+--start 24900

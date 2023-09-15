@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/e/EarthraidV1.1.tap.zip
+earthraid-v1.1.z80
+--sim-load
+--tape-name "Earthraid v1.1.tap"
+--tape-sum adebc3e0db73f19fd492d72290df5980
+--start 32768

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/f/FlyingWitches.tap.zip
+flying-witches.z80
+--sim-load
+--tape-name "FlyingWitches.Tap"
+--tape-sum 869b21d34c593515901843bfd09844a6
+--start 1343
+--sim-load-config finish-tape=1

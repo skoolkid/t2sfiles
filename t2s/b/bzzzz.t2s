@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Bzzzz.tzx.zip
+bzzzz.z80
+--sim-load
+--tape-name "Bzzzz.tzx"
+--tape-sum c9de75e3d1a181ac968c02791d046586
+--start 30000

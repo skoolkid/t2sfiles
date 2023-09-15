@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/f/Fighter.tzx.zip
+fighter-richard-altwasser.z80
+--sim-load
+--tape-name "Fighter.tzx"
+--tape-sum fcb226430ed3f382128c57e3d537f807
+--start 1343
+--sim-load-config finish-tape=1

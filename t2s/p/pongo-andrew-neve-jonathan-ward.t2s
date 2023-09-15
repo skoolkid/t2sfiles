@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Pongo.tap.zip
+pongo-andrew-neve-jonathan-ward.z80
+--sim-load
+--tape-name "PONGO.TAP"
+--tape-sum 6bd73a719e81598b7c86dd1453182dbc
+--start 1343
+--sim-load-config finish-tape=1

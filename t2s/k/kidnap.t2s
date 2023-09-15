@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/k/Kidnap.tzx.zip
+kidnap.z80
+--sim-load
+--tape-name "Kidnap.tzx"
+--tape-sum 64bffd73977f859f8b5657f94adeaf35
+--start 33176
+--sim-load-config accelerator=bleepload

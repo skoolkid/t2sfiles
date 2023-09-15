@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Pongo.tzx.zip
+pongo-eduardo-issao-ito-einar-saukas.z80
+--sim-load
+--tape-name "Pongo.tzx"
+--tape-sum aff8e2dc8eb7b62960b2f2562a2fe899
+--start 1343
+--sim-load-config finish-tape=1

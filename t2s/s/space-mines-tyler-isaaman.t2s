@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SpaceMines_2.tap.zip
+space-mines-tyler-isaaman.z80
+--sim-load
+--tape-name "SpaceMines.tap"
+--tape-sum 681fb12b53497c53648b19f1500d00bc
+--start 1343
+--sim-load-config finish-tape=1

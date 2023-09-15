@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MazeChase.tzx.zip
+maze-chase-hewson-consultants.z80
+--sim-load
+--tape-name "Maze Chase - 16k.tzx"
+--tape-sum ee72e1b74541d39f844d9f42e8876e69
+--start 26924

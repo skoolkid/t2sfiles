@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PamelaTheZombieHunter.tzx.zip
+pamela-the-zombie-hunter.z80
+--sim-load
+--tape-name "Pamela.tzx"
+--tape-sum 59f07d24a8502e475271c6c9d76d0f2c
+--start 28600

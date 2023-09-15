@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Pontoon_6.tap.zip
+pontoon-k-hart.z80
+--tape-name "PONTOON2.TAP"
+--tape-sum e082c83009a3d526319231b0a78aa65f
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

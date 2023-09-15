@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/e/EscapeFromDevilsIsland.tzx.zip
+escape-from-devils-island.z80
+--sim-load
+--tape-name "Escape From Devil's Island.tzx"
+--tape-sum 92461219874db5f05a17a86bcb7a75b3
+--start 25000

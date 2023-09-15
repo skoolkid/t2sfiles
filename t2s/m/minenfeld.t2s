@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Minenfeld.tzx.zip
+minenfeld.z80
+--sim-load
+--tape-name "Minenfeld.tzx"
+--tape-sum cdfb9f61a7de8defaa8939dfcf56a044
+--start 1343
+--sim-load-config finish-tape=1

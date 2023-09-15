@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/h/Helicopter1.tzx.zip
+helicopter1.z80
+--tape-name "helicopter1.tzx"
+--tape-sum 5f2875efe574a601813d9440820aa59c
+--start 1343
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

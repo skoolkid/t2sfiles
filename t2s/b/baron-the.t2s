@@ -1,0 +1,7 @@
+https://tzxvault.org/Spectrum/TZX/TheBaron.zip
+baron-the.z80
+--sim-load
+--tape-name "The Baron.tzx"
+--tape-sum 0371123ce00d99720ddd6069dabf35a0
+--start 1343
+--sim-load-config finish-tape=1

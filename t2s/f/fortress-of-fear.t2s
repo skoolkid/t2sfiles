@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/f/FortressOfFear.tzx.zip
+fortress-of-fear.z80
+--sim-load
+--tape-name "Fortress Of Fear.tzx"
+--tape-sum 7d66ad2c7d02f480f0b6bacd272a93d3
+--start 29169
+--sim-load-config finish-tape=1

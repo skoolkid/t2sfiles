@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/JourneyToDeath.zip
+journey-to-death.z80
+--sim-load
+--tape-name "Journey To Death.tzx"
+--tape-sum 7725aa9aebc1f1d8e5068c9b6a27d670
+--start 25000

@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/IceStationZero-Release4.zip
+ice-station-zero-release-4.z80
+--sim-load
+--tape-name "Ice Station Zero - Release 4.tzx"
+--tape-sum ff23899a6ee9e37fbd79afef77b43508
+--start 23324

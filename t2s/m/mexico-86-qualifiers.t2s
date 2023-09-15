@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Mexico86.tzx.zip
+mexico-86-qualifiers.z80
+--sim-load
+--tape-name "Mexico '86 - Qualifiers.tzx"
+--tape-sum f738f09f6fc214cdd33e560f8526aedc
+--start 1343
+--sim-load-config finish-tape=1

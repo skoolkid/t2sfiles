@@ -1,0 +1,6 @@
+https://worldofspectrum.org/pub/sinclair/games/v/VolcanicPlanet.tzx.zip
+volcanic-planet.z80
+--sim-load
+--tape-name "Volcanic Planet.tzx"
+--tape-sum 01a7663d4fd91ce89b5d54196a3d714e
+--start 24464

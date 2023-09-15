@@ -1,0 +1,7 @@
+https://tzxvault.org/Spectrum/TZX/SirCamelot.zip
+sir-camelot.z80
+--sim-load
+--tape-name "Sir Camelot.tzx"
+--tape-sum 7f7221c5cb131c18a440ecd7971e6614
+--start 1343
+--sim-load-config finish-tape=1

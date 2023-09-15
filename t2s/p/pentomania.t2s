@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Pentomania.tap.zip
+pentomania.z80
+--sim-load
+--tape-name "PENTOMAN.TAP"
+--tape-sum 1d26945f6dc4a0f22c95c64ebe91e266
+--start 1343
+--sim-load-config finish-tape=1

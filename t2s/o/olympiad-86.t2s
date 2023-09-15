@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/o/Olympiad86.tzx.zip
+olympiad-86.z80
+--sim-load
+--tape-name "Olympiad '86.tzx"
+--tape-sum 9a63dccbe6470867db58c5c5ff06247e
+--start 1343
+--sim-load-config finish-tape=1

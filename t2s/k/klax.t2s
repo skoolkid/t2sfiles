@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/k/Klax.tzx.zip
+klax.z80
+--sim-load
+--tape-name "Klax.tzx"
+--tape-sum ca3fb071ef69e86c0ff8d1b7125ba8a4
+--start 37092
+--tape-stop 7
+--sim-load-config accelerator=bleepload

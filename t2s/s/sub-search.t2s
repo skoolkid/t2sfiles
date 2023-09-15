@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SubSearch.tap.zip
+sub-search.z80
+--sim-load
+--tape-name "SubSearch.tap"
+--tape-sum 362e3ea9e3b8fb4299842f001b28301b
+--start 1343
+--sim-load-config finish-tape=1

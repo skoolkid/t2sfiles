@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RobotChase.tap.zip
+robot-chase.z80
+--sim-load
+--tape-name "RobotChase.tap"
+--tape-sum 4b318def6d17843e15576ea386890fd2
+--start 1343
+--sim-load-config finish-tape=1

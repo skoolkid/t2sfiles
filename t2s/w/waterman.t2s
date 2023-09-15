@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/w/Waterman.tap.zip
+waterman.z80
+--sim-load
+--tape-name "Waterman.tap"
+--tape-sum 6a09ef7088e5aef58126a5f29d69263c
+--start 1343
+--sim-load-config finish-tape=1

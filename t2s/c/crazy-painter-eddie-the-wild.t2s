@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CrazyPainter.tzx.zip
+crazy-painter-eddie-the-wild.z80
+--sim-load
+--tape-name "Crazy Painter.tzx"
+--tape-sum 41c3acdeca3f489fe4417e4fb275731d
+--start 1343
+--sim-load-config finish-tape=1

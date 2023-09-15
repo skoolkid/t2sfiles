@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/MagicCastle-Release2.zip
+magic-castle-release-2.z80
+--sim-load
+--tape-name "Magic Castle - Release 2.tzx"
+--tape-sum 0b5467cd01063ac8984ba07e1d5dfa82
+--start 27871

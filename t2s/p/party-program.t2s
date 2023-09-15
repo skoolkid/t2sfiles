@@ -1,0 +1,7 @@
+https://tzxvault.org/Spectrum/TZX/PartyProgram.zip
+party-program.z80
+--sim-load
+--tape-name "Party Program.tzx"
+--tape-sum 3bccb0c9d7c925f55ce2909fe27ea168
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/g/GrangeHill.tzx.zip
+grange-hill-128k.z80
+--tape-name "Grange Hill - 128k.tzx"
+--tape-sum f1bb66a777220ba2e646af01d7204571
+--start 24179
+--sim-load-config machine=128

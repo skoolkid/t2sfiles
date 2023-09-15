@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/l/Lure.tap.zip
+lure.z80
+--tape-name "Lure.tap"
+--tape-sum 901d240a50b75715a0d2d4cb7b004a48
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

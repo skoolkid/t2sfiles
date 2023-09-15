@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TicketThe.tap.zip
+ticket-the.z80
+--sim-load
+--tape-name "TICKETT.TAP"
+--tape-sum 9a82698f314385faf8668e01af4a3538
+--start 29800

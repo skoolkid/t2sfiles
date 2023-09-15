@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/f/FireAndForget.tzx.zip
+fire-and-forget.z80
+--sim-load
+--tape-name "Fire And Forget.tzx"
+--tape-sum b0c1c0cc0a3a0a5ee3428bae81c2cfc3
+--start 23847
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Solitaire(1).tap.zip
+solitaire-ken-rylett.z80
+--sim-load
+--tape-name "SOLITAIR.TAP"
+--tape-sum 54e6343607f46f9f45a9dc3e357323a1
+--start 1343
+--sim-load-config finish-tape=1

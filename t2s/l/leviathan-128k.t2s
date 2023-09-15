@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/l/Leviathan.tzx.zip
+leviathan-128k.z80
+--tape-name "Leviathan - 128k.tzx"
+--tape-sum dfce187182faf5817e6d33d82f1d4ed3
+--start 41193
+--sim-load-config machine=128
+--sim-load-config accelerator=speedlock,rom

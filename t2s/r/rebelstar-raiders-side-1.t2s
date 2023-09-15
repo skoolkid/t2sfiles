@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RebelstarRaiders.tzx.zip
+rebelstar-raiders-side-1.z80
+--sim-load
+--tape-name "Rebelstar Raiders - Side 1.tzx"
+--tape-sum 71a7c660e94561f2cb8c7152d846a9f0
+--start 1343
+--sim-load-config finish-tape=1

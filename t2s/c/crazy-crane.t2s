@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CrazyCrane.tzx.zip
+crazy-crane.z80
+--sim-load
+--tape-name "Crazy Crane.tzx"
+--tape-sum b6aecd2a6a6fd079f834673eac9edf4b
+--start 23786

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/k/KingOttosQuest.tzx.zip
+king-ottos-quest.z80
+--sim-load
+--tape-name "King Otto's Quest.tzx"
+--tape-sum c2e46294f1433d8c745ee4709a4f2e35
+--start 25000

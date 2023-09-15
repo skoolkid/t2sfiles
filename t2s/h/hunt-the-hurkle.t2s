@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/h/HuntTheHurkle.tap.zip
+hunt-the-hurkle.z80
+--sim-load
+--tape-name "HUNTHURK.TAP"
+--tape-sum 2e6d6830ddf954f1ff94866302eaf94b
+--start 1343
+--sim-load-config finish-tape=1

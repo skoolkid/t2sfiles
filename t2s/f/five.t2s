@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/f/Five.tap.zip
+five.z80
+--sim-load
+--tape-name "Five.tap"
+--tape-sum 03639fa9bc485aca5fd7ef51c906f600
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/o/OstrovKanibalu.tzx.zip
+ostrov-kanibalu.z80
+--sim-load
+--tape-name "ostrov.tzx"
+--tape-sum dae406f701dcd651659604a4b7b0b329
+--start 1343
+--sim-load-config finish-tape=1

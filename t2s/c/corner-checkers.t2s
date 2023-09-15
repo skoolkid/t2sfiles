@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CornerCheckers.tzx.zip
+corner-checkers.z80
+--sim-load
+--tape-name "Corner Checkers.tzx"
+--tape-sum 1ceae118815be837767f1b743d5866ac
+--start 1343
+--tape-stop 3
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+"https://tzxvault.org/Spectrum/TZX/PopQuiz'85.zip"
+pop-quiz-85.z80
+--sim-load
+--tape-name "Pop Quiz '85.tzx"
+--tape-sum d8040423579ac3c904c681752911ce38
+--start 1343
+--sim-load-config finish-tape=1

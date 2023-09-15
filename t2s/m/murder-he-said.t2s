@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Murder-HeSaid.tzx.zip
+murder-he-said.z80
+--tape-name "Murder He Said.tzx"
+--tape-sum 5c574c92cb82e3a137c15061322827f3
+--start 34887
+--sim-load-config machine=128

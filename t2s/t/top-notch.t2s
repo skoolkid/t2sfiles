@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TopNotch(LaszloNyitrai).tap.zip
+top-notch.z80
+--tape-name "TOPNOTCH.TAP"
+--tape-sum 145116038498546f1515250acdbe8bbf
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

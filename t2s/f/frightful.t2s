@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/f/Frightful.tap.zip
+frightful.z80
+--sim-load
+--tape-name "Frightful.tap"
+--tape-sum 30b3c8100867fac4f5a793b873f5fe58
+--start 52800

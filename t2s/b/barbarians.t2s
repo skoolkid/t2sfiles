@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Barbarians.tap.zip
+barbarians.z80
+--sim-load
+--tape-name "Barbarians.tap"
+--tape-sum ce9b1e6119c2ababc56e857932d2e2aa
+--start 23856

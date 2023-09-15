@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MaquinaDelAmorLa.tzx.zip
+maquina-del-amor-la.z80
+--sim-load
+--tape-name "La Maquina Del Amor.tzx"
+--tape-sum 96d05f01e6f7457b63a845803100135e
+--start 1343
+--tape-stop 6
+--sim-load-config finish-tape=1

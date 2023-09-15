@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/Termination.tap.zip
+termination.z80
+--sim-load
+--tape-name "TERMINAT.TAP"
+--tape-sum 9d925285b5169511a6122c6e5ec7d3c9
+--start 24950

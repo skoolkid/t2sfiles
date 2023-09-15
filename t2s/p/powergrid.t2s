@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Powergrid.tap.zip
+powergrid.z80
+--sim-load
+--tape-name "Powergrid.tap"
+--tape-sum b156a742af6312b736e5286fb2120d0d
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/k/Kirel.tzx.zip
+kirel.z80
+--sim-load
+--tape-name "Kirel.tzx"
+--tape-sum b4c92f8244194d30217d8affa8670e51
+--start 23496

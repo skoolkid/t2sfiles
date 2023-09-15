@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/Dama(Dama2005)(LaszloNyitrai).tzx.zip
+dama.z80
+--sim-load
+--tape-name "Dama 2005.tzx"
+--tape-sum cd5e0b26a9300616cae085e50ccf324b
+--start 22243
+--sim-load-config accelerator=tiny,rom

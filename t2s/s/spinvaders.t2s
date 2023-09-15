@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Spinvaders.tap.zip
+spinvaders.z80
+--sim-load
+--tape-name "Spinvaders.tap"
+--tape-sum 43ba7ffa1c9d5f68066a42dcb7441b20
+--start 1343
+--sim-load-config finish-tape=1

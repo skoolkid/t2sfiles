@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/w/Worm.tap.zip
+worm-sg-software.z80
+--tape-name "Worm.tap"
+--tape-sum aea085903eb7050c48a5770d2fbf0320
+--start 1343
+--tape-stop 13
+--sim-load-config finish-tape=1

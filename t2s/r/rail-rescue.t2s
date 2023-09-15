@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RailRescue.tap.zip
+rail-rescue.z80
+--tape-name "RAILRESC.TAP"
+--tape-sum 601f430395a9144957ad885499ba2ff8
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

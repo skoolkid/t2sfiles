@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TerrorFromTheDeep.tzx.zip
+terror-from-the-deep.z80
+--sim-load
+--tape-name "Terror From The Deep.tzx"
+--tape-sum 9625c4a7475f5c38b9a50a464d352126
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PatThePostman.tzx.zip
+pat-the-postman.z80
+--sim-load
+--tape-name "Pat The Postman.tzx"
+--tape-sum 0645beab8e0aebb88537bf291a2414e7
+--start 43500

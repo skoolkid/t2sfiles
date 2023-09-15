@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SpacemanWilly.tzx.zip
+spaceman-willy.z80
+--sim-load
+--tape-name "Spaceman Willy.tzx"
+--tape-sum 3a41695e5fe2ebb4bd90254d69bf4761
+--start 33792

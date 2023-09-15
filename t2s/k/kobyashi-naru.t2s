@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/k/KobyashiNaru.tzx.zip
+kobyashi-naru.z80
+--sim-load
+--tape-name "Kobyashi Naru.tzx"
+--tape-sum c766e35dbd6655339bf0a47c399ae399
+--start 35853

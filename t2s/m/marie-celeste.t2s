@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/MarieCeleste.zip
+marie-celeste.z80
+--sim-load
+--tape-name "Marie Celeste.tzx"
+--tape-sum e12221fd34f4737e5bbd5d019df92e2a
+--start 25000

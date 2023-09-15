@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DeadEyedDick.tap.zip
+dead-eyed-dick.z80
+--sim-load
+--tape-name "DEADEYED.TAP"
+--tape-sum bdba2715f9c9ebd2255f7e04879ab0fb
+--start 1343
+--sim-load-config finish-tape=1

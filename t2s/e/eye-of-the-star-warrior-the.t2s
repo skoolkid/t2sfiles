@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/e/EyeOfTheStarWarriorThe.tzx.zip
+eye-of-the-star-warrior-the.z80
+--sim-load
+--tape-name "Eye Of The Star Warrior.tzx"
+--tape-sum c3c5af98cce4f07840e8664aa070d756
+--start 1343
+--sim-load-config finish-tape=1

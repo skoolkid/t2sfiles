@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/v/VoyageIntoTheUnknown.tzx.zip
+voyage-into-the-unknown.z80
+--sim-load
+--tape-name "Voyage Into The Unknown.tzx"
+--tape-sum dcbab9e37105096c85aa07d52fda1025
+--start 1343
+--sim-load-config finish-tape=1

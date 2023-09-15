@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/ColossalAdventure.tzx.zip
+colossal-adventure.z80
+--sim-load
+--tape-name "Colossal Adventure.tzx"
+--tape-sum e15197b27b43cea5053e0df00fff88ff
+--start 24576

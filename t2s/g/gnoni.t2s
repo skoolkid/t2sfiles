@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/g/Gnoni.tap.zip
+gnoni.z80
+--sim-load
+--tape-name "GNONI.TAP"
+--tape-sum cef32af1df00495a43a7e736f3ff3685
+--start 46840

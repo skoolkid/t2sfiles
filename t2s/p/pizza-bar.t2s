@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PizzaBar.tzx.zip
+pizza-bar.z80
+--sim-load
+--tape-name "Pizza Bar.tzx"
+--tape-sum dd9155a53557161c8d43f7ad7b6fef0f
+--start 42800

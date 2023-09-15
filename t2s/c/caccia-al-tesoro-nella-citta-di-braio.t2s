@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CacciaAlTesoroNellaCittaDiBraio.tzx.zip
+caccia-al-tesoro-nella-citta-di-braio.z80
+--sim-load
+--tape-name "Braio.tzx"
+--tape-sum d0619dc2f679eda43a1b6e8600e54608
+--start 1343
+--sim-load-config finish-tape=1

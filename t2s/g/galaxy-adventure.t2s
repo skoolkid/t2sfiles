@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/g/GalaxyAdventure.tzx.zip
+galaxy-adventure.z80
+--sim-load
+--tape-name "Galaxy Adventure.tzx"
+--tape-sum 22cf2044a84e29fba69afafb3290a391
+--start 1343
+--sim-load-config finish-tape=1

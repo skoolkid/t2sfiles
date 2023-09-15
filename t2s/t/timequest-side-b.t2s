@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/Timequest(ZXData).tzx.zip
+timequest-side-b.z80
+--sim-load
+--tape-name "Timequest (ZX Data) - Side B.tzx"
+--tape-sum 68b99d95c86822180180e83d2c1b6104
+--start 1343
+--sim-load-config finish-tape=1

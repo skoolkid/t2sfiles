@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/f/ForgottenCity.tzx.zip
+forgotten-city-p2.z80
+--sim-load
+--tape-name "Forgotten City - Part 2.tzx"
+--tape-sum 52c8998a8b8a68b37f001f3856e97731
+--start 1343
+--sim-load-config finish-tape=1

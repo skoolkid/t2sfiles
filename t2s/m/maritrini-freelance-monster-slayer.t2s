@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MaritriniFreelanceMonsterSlayer.tzx.zip
+maritrini-freelance-monster-slayer.z80
+--tape-name "mojon-twins--maritrini-monster-slayer.tzx"
+--tape-sum 79e9122b0d759ac17ca4010e3ea403e6
+--start 32768
+--sim-load-config machine=128

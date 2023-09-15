@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/FutureBikeSimulator.zip
+future-bike-simulator-side-a.z80
+--sim-load
+--tape-name "Future Bike Simulator - Side A.tzx"
+--tape-sum aa9225e0adba926d098ca15a6cb5524c
+--start 53278

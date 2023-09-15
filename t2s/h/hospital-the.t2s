@@ -1,0 +1,7 @@
+https://tzxvault.org/Spectrum/TZX/TheHospital.zip
+hospital-the.z80
+--sim-load
+--tape-name "The Hospital.tzx"
+--tape-sum 0463e7e936bd8926f0be4d31c5a51fae
+--start 29201
+--sim-load-config finish-tape=1

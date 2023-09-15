@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/Dicey.tap.zip
+dicey.z80
+--sim-load
+--tape-name "DICEY.TAP"
+--tape-sum 13b56097dadfe88966efaa0575c4baf0
+--start 1343
+--sim-load-config finish-tape=1

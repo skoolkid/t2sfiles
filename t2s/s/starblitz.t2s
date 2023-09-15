@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Starblitz.tzx.zip
+starblitz.z80
+--sim-load
+--tape-name "Starblitz - Side A.tzx"
+--tape-sum 97f268674c81e8805114260c3a05ec56
+--start 23762
+--sim-load-config accelerator=rom

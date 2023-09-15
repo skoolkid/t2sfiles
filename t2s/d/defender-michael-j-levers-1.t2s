@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/Defender_2.tap.zip
+defender-michael-j-levers-1.z80
+--sim-load
+--tape-name "Defender.tap"
+--tape-sum 83d138481c424b590c9b81b5ff5d7d07
+--start 1343
+--sim-load-config finish-tape=1

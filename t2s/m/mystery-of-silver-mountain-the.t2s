@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MysteryOfSilverMountainThe.tzx.zip
+mystery-of-silver-mountain-the.z80
+--sim-load
+--tape-name "Mystery Of Silver Mountain.tzx"
+--tape-sum 4d2084dcd3006045126a2c5a8efcfda0
+--start 1343
+--sim-load-config finish-tape=1

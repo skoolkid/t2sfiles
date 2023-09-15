@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PAC-TXT_3.tap.zip
+pac-txt-polish.z80
+--sim-load
+--tape-name "pacpl.tap"
+--tape-sum 1b43d1e680be793fa7561ec2ca48140a
+--start 1343
+--sim-load-config finish-tape=1

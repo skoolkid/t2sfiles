@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/v/VelikaAkcijaV1.1.tap.zip
+velika-akcija.z80
+--sim-load
+--tape-name "Velika Akcija.tap"
+--tape-sum 6bd71021071d4a039291b28b56fd9d79
+--start 1343
+--sim-load-config finish-tape=1

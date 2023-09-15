@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/q/Q-Bertus.tap.zip
+q-bertus.z80
+--sim-load
+--tape-name "Q_BERTUS.TAP"
+--tape-sum c420c22f5d68500528b6ef18d53f4874
+--start 1343
+--sim-load-config finish-tape=1

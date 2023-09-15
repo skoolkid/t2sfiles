@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/i/InternationalCricketOnTour-1Day.tzx.zip
+international-cricket-on-tour-1-day-side-2.z80
+--tape-name "International Cricket On Tour - 1 Day - Side 2.tzx"
+--tape-sum afb52593b2bb2056a22782b8f5ba1794
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

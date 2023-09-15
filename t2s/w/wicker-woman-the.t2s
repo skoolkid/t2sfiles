@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/w/WickerWomanThe.tzx.zip
+wicker-woman-the.z80
+--tape-name "The Wicker Woman.tzx"
+--tape-sum afd8d4cb45105d82b8c293e00dfcf518
+--start 34887
+--sim-load-config machine=128

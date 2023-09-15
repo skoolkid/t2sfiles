@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Mission12.tap.zip
+mission-12.z80
+--sim-load
+--tape-name "MISSIO12.TAP"
+--tape-sum d03a1981089aeebbc73a430e14f7e20a
+--start 1343
+--sim-load-config finish-tape=1

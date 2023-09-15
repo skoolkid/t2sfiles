@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TunellerRaider2079.tap.zip
+tuneller-raider-2079.z80
+--sim-load
+--tape-name "TRRAIDER.tap"
+--tape-sum 61161efbf7f4f5d68d1deed8956cc285
+--start 1343
+--sim-load-config finish-tape=1

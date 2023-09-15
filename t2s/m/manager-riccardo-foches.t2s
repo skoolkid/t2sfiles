@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Manager.tzx.zip
+manager-riccardo-foches.z80
+--sim-load
+--tape-name "Manager.tzx"
+--tape-sum fa4e25e33224d38cf6014102f1b43f49
+--start 1343
+--sim-load-config finish-tape=1

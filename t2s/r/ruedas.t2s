@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/r/Ruedas.tzx.zip
+ruedas.z80
+--sim-load
+--tape-name "Ruedas.tzx"
+--tape-sum 0198b68cdd82b4ce845a6135126277c9
+--start 35000

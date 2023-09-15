@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/WildWest.zip
+wild-west-omega-software.z80
+--sim-load
+--tape-name "Wild West.tzx"
+--tape-sum 6c4f804e065d1724fc4a37fac2787368
+--start 24845

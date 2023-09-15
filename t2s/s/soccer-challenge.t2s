@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SoccerChallenge.tzx.zip
+soccer-challenge.z80
+--sim-load
+--tape-name "Soccer Challenge.tzx"
+--tape-sum aaa35493e485acdba355231c7805bfd9
+--start 65533

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/ThroneOfFire.tzx.zip
+throne-of-fire.z80
+--sim-load
+--tape-name "Throne Of Fire.tzx"
+--tape-sum ec88a664ed9bfe5bea7e130acdefd71d
+--start 61000

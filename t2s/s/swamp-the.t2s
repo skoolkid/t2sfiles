@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SwampThe.tzx.zip
+swamp-the.z80
+--sim-load
+--tape-name "The Swamp.tzx"
+--tape-sum 0f64dab2098c13ec5eb8db7a5582373b
+--start 25000

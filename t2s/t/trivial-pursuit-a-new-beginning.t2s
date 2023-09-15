@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/TrivialPursuit-ANewBeginning.zip
+trivial-pursuit-a-new-beginning.z80
+--sim-load
+--tape-name "Trivial Pursuit - A New Beginning.tzx"
+--tape-sum ef61ae9f1bb015d120547d4b4f84395e
+--start 65319

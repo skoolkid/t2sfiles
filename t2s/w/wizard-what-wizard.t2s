@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/w/WizardWhatWizard.tzx.zip
+wizard-what-wizard.z80
+--sim-load
+--tape-name "Wizard, What Wizard.tzx"
+--tape-sum 15d349fe566fa6cae0c28ea184b413f3
+--start 25000

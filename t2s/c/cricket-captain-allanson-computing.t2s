@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CricketCaptain.tzx.zip
+cricket-captain-allanson-computing.z80
+--sim-load
+--tape-name "Cricket Captain (Allanson Computing).tzx"
+--tape-sum 5a794651bb7d37fefeb3f8f9d71504ea
+--start 1343
+--sim-load-config finish-tape=1

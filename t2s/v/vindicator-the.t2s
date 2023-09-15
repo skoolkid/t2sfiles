@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/v/VindicatorThe.tzx.zip
+vindicator-the.z80
+--sim-load
+--tape-name "The Vindicator! - 48k.tzx"
+--tape-sum e7bd901515da549092e471628f44b145
+--start 32464
+--sim-load-config accelerator=speedlock,rom

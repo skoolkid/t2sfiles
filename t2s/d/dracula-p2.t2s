@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/Dracula.tzx.zip
+dracula-p2.z80
+--sim-load
+--tape-name "Dracula - Part 2 - The Arrival.tzx"
+--tape-sum f3dea3032a6c458463ecf963b20d09c9
+--start 65053
+--sim-load-config accelerator=speedlock

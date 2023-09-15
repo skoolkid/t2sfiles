@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Podraz6.tzx.zip
+podraz-6.z80
+--sim-load
+--tape-name "PODRAZ6.TZX"
+--tape-sum 3a824e951647e37941b96ad6252f13f8
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config accelerator=speedlock

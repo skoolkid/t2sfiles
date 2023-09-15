@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AlienAttack_2.tap.zip
+alien-attack-paul-hayward.z80
+--tape-name "ALIENATT.TAP"
+--tape-sum 2d219bef38ded7d52ece643710ee6997
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

@@ -1,6 +1,7 @@
-https://www.tzxvault.org/Spectrum/TZX/ALegacyForAlaric.zip
+https://tzxvault.org/Spectrum/TZX/ALegacyForAlaric.zip
 a-legacy-for-alaric.z80
 --sim-load
 --tape-name "A Legacy For Alaric.tzx"
 --tape-sum 5a01ee0e4126c7511da8ae43f1878974
-; --start 29201
+--start 29201
+--sim-load-config finish-tape=1

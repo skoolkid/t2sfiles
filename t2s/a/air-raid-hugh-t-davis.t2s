@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AirRaid_4.tap.zip
+air-raid-hugh-t-davis.z80
+--tape-name "AIR_RAID.TAP"
+--tape-sum 0a64dcd5d101b2936726b3123ed2e63c
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

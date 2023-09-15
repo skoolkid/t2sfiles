@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/x/Xenon.tzx.zip
+xenon.z80
+--sim-load
+--tape-name "Xenon.tzx"
+--tape-sum 32426e0142b22aea5e95bf5357f3e476
+--start 24000
+--tape-stop 10

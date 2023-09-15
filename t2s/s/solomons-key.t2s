@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SolomonsKey.tzx.zip
+solomons-key.z80
+--sim-load
+--tape-name "Solomon's Key.tzx"
+--tape-sum 808212f090aac40931cd1ecd42e886d6
+--start 62513
+--sim-load-config accelerator=alkatraz

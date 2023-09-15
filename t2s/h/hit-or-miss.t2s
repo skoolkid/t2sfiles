@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/h/HitOrMiss.tap.zip
+hit-or-miss.z80
+--tape-name "hit_or_miss.tap"
+--tape-sum b448c5e700a600cede60768da218eca1
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

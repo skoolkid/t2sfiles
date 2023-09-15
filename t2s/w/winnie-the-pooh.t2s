@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/w/Winnie-the-Pooh.tap.zip
+winnie-the-pooh.z80
+--sim-load
+--tape-name "winnypuh.tap"
+--tape-sum 2c7ea960b68503e968e1726bfc4c796f
+--start 26000

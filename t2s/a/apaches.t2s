@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/a/Apaches.tzx.zip
+apaches.z80
+--sim-load
+--tape-name "Apaches.tzx"
+--tape-sum 5e4eaf1d40bf21aec2bd94a49b3ebdd9
+--start 40000

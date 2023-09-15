@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/f/FootballFever.tzx.zip
+football-fever.z80
+--sim-load
+--tape-name "Football Fever.tzx"
+--tape-sum 81d52f5e04b1bc56552450e4f2b38cdd
+--start 1343
+--sim-load-config finish-tape=1

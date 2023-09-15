@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MurderHuntII.tzx.zip
+murder-hunt-2.z80
+--sim-load
+--tape-name "Murder Hunt 2.tzx"
+--tape-sum a23513375b665f79bb3651959da00bdd
+--start 25000

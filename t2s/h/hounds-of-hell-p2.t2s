@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/h/HoundsOfHell128.tzx.zip
+hounds-of-hell-p2.z80
+--tape-name "Hounds Of Hell - Part 2 - 128k.tzx"
+--tape-sum fc024391659cd238467de787a4481a10
+--start 34887
+--sim-load-config machine=128

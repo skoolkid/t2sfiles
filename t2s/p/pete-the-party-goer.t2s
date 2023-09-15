@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PeteTheParty-Goer.tap.zip
+pete-the-party-goer.z80
+--sim-load
+--tape-name "PETEGOER.TAP"
+--tape-sum 6265187375c173fa27bb54158924444f
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/g/GreatFireOfLondonThe.tzx.zip
+great-fire-of-london-the-rabbit-software.z80
+--sim-load
+--tape-name "The Great Fire Of London - Side 1.tzx"
+--tape-sum 48b29456ce97a6edf4ff0f04bfedadad
+--start 54836
+--sim-load-config accelerator=rom

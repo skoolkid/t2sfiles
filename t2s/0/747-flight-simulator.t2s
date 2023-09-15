@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/123/747FlightSimulator.tzx.zip
+747-flight-simulator.z80
+--sim-load
+--tape-name "747 Flight Simulator.tzx"
+--tape-sum 5c47a9b70057b68196cd45d55175f37f
+--start 42841
+--tape-stop 8

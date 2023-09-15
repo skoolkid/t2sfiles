@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Skladacka.tzx.zip
+skladacka.z80
+--sim-load
+--tape-name "skladacka.tzx"
+--tape-sum 86c1d3cbc048e5d8f806e9fba3dbe434
+--start 1343
+--sim-load-config finish-tape=1

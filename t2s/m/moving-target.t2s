@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MovingTarget.tzx.zip
+moving-target.z80
+--sim-load
+--tape-name "Moving Target.tzx"
+--tape-sum 732fcc4e457188d2b6edda6b4b915d04
+--start 65188
+--sim-load-config accelerator=speedlock

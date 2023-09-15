@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/l/Liberator(AlchemistSoftware).tzx.zip
+liberator-alchemist-software.z80
+--sim-load
+--tape-name "mango.tzx"
+--tape-sum 99200aeed227bc84b8e4281d6aa2c094
+--start 47770

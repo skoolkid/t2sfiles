@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Pickpocket.tzx.zip
+pickpocket.z80
+--sim-load
+--tape-name "Pick Pocket.tzx"
+--tape-sum 18a4715dedbff152775583ac019579b3
+--start 28051

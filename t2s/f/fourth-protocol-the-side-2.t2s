@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/f/FourthProtocolThe.tzx.zip
+fourth-protocol-the-side-2.z80
+--sim-load
+--tape-name "The Fourth Protocol - Side 2.tzx"
+--tape-sum c35ec55175b608188dec7a46db3962c7
+--start 25631
+--sim-load-config accelerator=rom

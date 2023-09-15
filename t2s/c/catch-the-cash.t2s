@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CatchTheCash.tap.zip
+catch-the-cash.z80
+--sim-load
+--tape-name "cash.tap"
+--tape-sum de4b63e46b28f921c0f6759779ab4b3b
+--start 23766

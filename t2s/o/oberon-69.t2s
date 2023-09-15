@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/o/Oberon69.tzx.zip
+oberon-69.z80
+--sim-load
+--tape-name "Oberon 69.tzx"
+--tape-sum fe22c01fc2f436e0013fffab9496a442
+--start 35074

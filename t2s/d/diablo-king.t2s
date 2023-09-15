@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DiabloKing.tzx.zip
+diablo-king.z80
+--sim-load
+--tape-name "Diablo King.tzx"
+--tape-sum 9b473bd70a0f53567996025774827b79
+--start 1343
+--sim-load-config finish-tape=1

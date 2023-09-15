@@ -1,7 +1,7 @@
-https://www.tzxvault.org/Spectrum/TZX/BasilTheGreatMouseDetective.zip
+https://tzxvault.org/Spectrum/TZX/BasilTheGreatMouseDetective.zip
 basil-the-great-mouse-detective.z80
---sim-load
 --tape-name "Basil The Great Mouse Detective.tzx"
 --tape-sum 5e213d8a847168db2a9721f88cb1e280
 --start 55822
---sim-load-config first-edge=0
+--sim-load-config polarity=0
+--sim-load-config accelerator=none

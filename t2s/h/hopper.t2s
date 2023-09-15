@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Hopper.zip
+hopper.z80
+--sim-load
+--tape-name "Hopper.tzx"
+--tape-sum a23beb3e4d04c2d1381c00e8867f40ef
+--start 24576

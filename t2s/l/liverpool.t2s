@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/l/Liverpool.tzx.zip
+liverpool.z80
+--tape-name "Liverpool (D. Corbishley).tzx"
+--tape-sum a021e7bff39925728080af6438a16a68
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

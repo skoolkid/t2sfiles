@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Codice.tap.zip
+codice.z80
+--sim-load
+--tape-name "Codice.tap"
+--tape-sum b118ce2416584af11535efcfd1b6c241
+--start 1343
+--sim-load-config finish-tape=1

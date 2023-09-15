@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/z/ZiggaratOfDread.tzx.zip
+ziggarat-of-dread.z80
+--tape-name "Ziggarat Of Dread.tzx"
+--tape-sum 6236c4c6bac7d1cbd99a6fa8ec3b3e49
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

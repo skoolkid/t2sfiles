@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/w/WorldSeriesBaseball.tzx.zip
+world-series-baseball.z80
+--sim-load
+--tape-name "World Series Baseball.tzx"
+--tape-sum bb3fb634c124662f71d9bf138e3a215e
+--start 65488
+--sim-load-config accelerator=speedlock

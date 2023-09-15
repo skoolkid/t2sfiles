@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/j/Jumbly.tzx.zip
+jumbly.z80
+--sim-load
+--tape-name "JUMBLY.TZX"
+--tape-sum 479f5bb5d21e7b079ba7c7aba9fe58f2
+--start 60013

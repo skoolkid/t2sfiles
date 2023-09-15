@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PrincessInTheDungeon.tap.zip
+princess-in-the-dungeon.z80
+--tape-name "PRINCESS.TAP"
+--tape-sum 8f6aad2ff08801270882eb87b1e6ef86
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/LazerBykes.zip
+lazer-bykes.z80
+--sim-load
+--tape-name "Lazer Bykes.tzx"
+--tape-sum 324f5482797b981b7d664b0d1d4f0e0e
+--start 62050

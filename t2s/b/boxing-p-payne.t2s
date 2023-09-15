@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Boxing.tzx.zip
+boxing-p-payne.z80
+--sim-load
+--tape-name "Boxing.tzx"
+--tape-sum 2f6395bfa544ad4c8b67a8d1cecb8abc
+--start 1343
+--sim-load-config finish-tape=1

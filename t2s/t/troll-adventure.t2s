@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TrollAdventure.tap.zip
+troll-adventure.z80
+--sim-load
+--tape-name "TrollAdventure.tap"
+--tape-sum e31bfaffcae49c86071f7d484569cbfb
+--start 1343
+--sim-load-config finish-tape=1

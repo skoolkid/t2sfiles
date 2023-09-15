@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AssassinsGuildThe.tzx.zip
+assassins-guild-the-p2.z80
+--tape-name "The Assassins' Guild - Part 2.tzx"
+--tape-sum 5b3001fc78fa6970db3b3c80ed89f8e4
+--start 34887
+--sim-load-config machine=128

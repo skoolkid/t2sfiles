@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/g/GatewayToHell.tzx.zip
+gateway-to-hell.z80
+--sim-load
+--tape-name "Gateway To Hell (Summit).tzx"
+--tape-sum e6a6db1d8933359d03618105120a5c7b
+--start 43551

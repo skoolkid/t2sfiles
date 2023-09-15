@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/w/WrathOfMagraThe.tzx.zip
+wrath-of-magra-the-tape-1-side-a.z80
+--sim-load
+--tape-name "The Wrath Of Magra Tape 1 - Side A.tzx"
+--tape-sum 2554d89b601152fa7eba2199153eaad4
+--start 1343
+--sim-load-config finish-tape=1

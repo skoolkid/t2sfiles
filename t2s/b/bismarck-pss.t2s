@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Bismarck_2.tzx.zip
+bismarck-pss.z80
+--sim-load
+--tape-name "Bismarck (PSS).tzx"
+--tape-sum 74086a0a4266da38818f4216981712dd
+--start 23517
+--sim-load-config accelerator=rom

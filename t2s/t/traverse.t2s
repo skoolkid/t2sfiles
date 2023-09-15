@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/Traverse.tap.zip
+traverse.z80
+--sim-load
+--tape-name "Traverse.tap"
+--tape-sum 9885d13d17c5d439fadcfc653d92d076
+--start 29560

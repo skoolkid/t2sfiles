@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TiddlyDrinks.tap.zip
+tiddly-drinks.z80
+--sim-load
+--tape-name "T_DRINKS.TAP"
+--tape-sum 999c9d21c28d99835c1579b1713a2dbd
+--start 23489

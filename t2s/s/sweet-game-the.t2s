@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SweetGameThe.tzx.zip
+sweet-game-the.z80
+--sim-load
+--tape-name "Sweet Game.tzx"
+--tape-sum 7e22f7876842ab0eea417224c8721a76
+--start 1343
+--sim-load-config finish-tape=1

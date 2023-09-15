@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DeepScan.tzx.zip
+deep-scan-beyker-soft.z80
+--sim-load
+--tape-name "Deep Scan (Beyker Soft).tzx"
+--tape-sum d478d6b7d7c16b9fb83202125d292ddb
+--start 40000

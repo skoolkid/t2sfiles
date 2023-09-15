@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RikTheRoadie.tzx.zip
+rik-the-roadie.z80
+--sim-load
+--tape-name "Rik The Roadie.tzx"
+--tape-sum ddc608a8c895d94b02accb3f2f3039c6
+--start 32768

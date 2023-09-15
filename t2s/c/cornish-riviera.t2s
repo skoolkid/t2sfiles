@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CornishRiviera.tzx.zip
+cornish-riviera.z80
+--sim-load
+--tape-name "Cornish Riviera.tzx"
+--tape-sum 85e02456142a7197180b38f170a3b4ed
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/g/GauntletII.tzx.zip
+gauntlet-ii.z80
+--sim-load
+--tape-name "Gauntlet 2 - Side 1.tzx"
+--tape-sum 76635a68c0eae3d55d5509a0399b91bd
+--start 48864
+--sim-load-config accelerator=us-gold

@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/123/17.11.1989.tzx.zip
+17.11.1989.z80
+--sim-load
+--tape-name "17.11.1989.tzx"
+--tape-sum 251a73d47759918ee9223d9042558064
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config accelerator=cybexlab

@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/TimeFlight.zip
+time-flight.z80
+--sim-load
+--tape-name "Time Flight.tzx"
+--tape-sum 940f4b818d65a52a91dec9a2e7bc318a
+--start 31993

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AliquidSimplex.tap.zip
+aliquid-simplex.z80
+--sim-load
+--tape-name "ALIQUID.TAP"
+--tape-sum a4050cab3ee0ea182ba7d3849e43b7c0
+--start 23762

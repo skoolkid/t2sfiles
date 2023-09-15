@@ -1,6 +1,7 @@
-https://www.worldofspectrum.org/pub/sinclair/games/b/BridgePlayer2.tzx.zip
+https://worldofspectrum.org/pub/sinclair/games/b/BridgePlayer2.tzx.zip
 bridge-player-2.z80
 --sim-load
 --tape-name "Bridge Player 2.tzx"
 --tape-sum 6bb43e9738bd578535a9001730a367bf
-; --start 65290
+--start 1343
+--sim-load-config finish-tape=1

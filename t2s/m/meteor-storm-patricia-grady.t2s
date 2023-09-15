@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MeteorStorm_3.tap.zip
+meteor-storm-patricia-grady.z80
+--tape-name "MeteorStorm.tap"
+--tape-sum 9b30f2c2fa56c81e8e69f83cfca56660
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

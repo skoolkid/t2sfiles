@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Minefield_2.tap.zip
+minefield-paul-toland.z80
+--sim-load
+--tape-name "Minefield.TAP"
+--tape-sum 376b82c42ff1f733901ce41185e4e553
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/StripPoker.tap.zip
+strip-oko.z80
+--sim-load
+--tape-name "STRIPOKO.TAP"
+--tape-sum 18c8c862e71ee591f560094949fb66fd
+--start 1343
+--sim-load-config finish-tape=1

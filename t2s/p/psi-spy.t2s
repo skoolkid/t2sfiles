@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Psi-Spy.tzx.zip
+psi-spy.z80
+--sim-load
+--tape-name "Psi-Spy.tzx"
+--tape-sum 6c20c22fd845321210545a1236ee0447
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CattapillerCrunch.tzx.zip
+cattapiller-crunch-side-2.z80
+--sim-load
+--tape-name "Cattapiller Crunch - Side 2.tzx"
+--tape-sum ec11efc38da26276fd726c59bb0a59b7
+--start 1343
+--sim-load-config finish-tape=1

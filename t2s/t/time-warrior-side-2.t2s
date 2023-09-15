@@ -1,0 +1,7 @@
+https://tzxvault.org/Spectrum/TZX/TimeWarrior-48k.zip
+time-warrior-side-2.z80
+--sim-load
+--tape-name "Time Warrior - 48k - Side 2.tzx"
+--tape-sum bd72363a81068c9b5b8797fe2110eb7a
+--start 1343
+--sim-load-config finish-tape=1

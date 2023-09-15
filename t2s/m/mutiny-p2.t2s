@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Mutiny.tzx.zip
+mutiny-p2.z80
+--tape-name "Mutiny - Part 2.tzx"
+--tape-sum 6f89765347d4b7c3a836c5831daa9de3
+--start 34887
+--sim-load-config machine=128

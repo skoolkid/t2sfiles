@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/123/3DC.tap.zip
+3dc.z80
+--sim-load
+--tape-name "3DC.TAP"
+--tape-sum 6fc448e57e39343dcebc197949efa312
+--start 24871

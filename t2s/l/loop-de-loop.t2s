@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/l/LoopDeLoop.tap.zip
+loop-de-loop.z80
+--tape-name "LOOPLOOP.TAP"
+--tape-sum e730b68d44103b028e1c2f63bfc6047d
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/Darts_3.tap.zip
+darts-david-rooney.z80
+--sim-load
+--tape-name "Darts.tap"
+--tape-sum 0792768d60001fbb18fcc3a35ad8de3b
+--start 1343
+--sim-load-config finish-tape=1

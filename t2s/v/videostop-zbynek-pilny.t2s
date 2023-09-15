@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/v/Videostop_3.tap.zip
+videostop-zbynek-pilny.z80
+--sim-load
+--tape-name "Videostop86Pilny.tap"
+--tape-sum 3f64103c9e8ab446b62ce69b70d3ab9a
+--start 24200

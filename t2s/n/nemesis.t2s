@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/n/Nemesis.tzx.zip
+nemesis.z80
+--sim-load
+--tape-name "Nemesis.tzx"
+--tape-sum a9f752db3486ac92c4d318bc45d3505d
+--start 49700

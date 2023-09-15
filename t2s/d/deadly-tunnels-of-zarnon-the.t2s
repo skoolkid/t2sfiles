@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DeadlyTunnelsOfZarnonThe.tap.zip
+deadly-tunnels-of-zarnon-the.z80
+--sim-load
+--tape-name "TheDeadlyTunnelsOfZarnon.tap"
+--tape-sum 3f084423249d6bb26fb6bfd0c2670092
+--start 1343
+--sim-load-config finish-tape=1

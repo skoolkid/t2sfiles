@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Peneless.tzx.zip
+peneless.z80
+--sim-load
+--tape-name "PENELESS.TZX"
+--tape-sum 1f1c56cb7e205f0a8971b30be856c19e
+--start 34984

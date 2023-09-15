@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/h/HarryLHippy.tzx.zip
+harry-l-hippy.z80
+--sim-load
+--tape-name "HarryLHippy.tzx"
+--tape-sum 3de087ad24920fdd912205d52834f106
+--start 25000

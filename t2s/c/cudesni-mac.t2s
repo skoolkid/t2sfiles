@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CudesniMac.tap.zip
+cudesni-mac.z80
+--sim-load
+--tape-name "CUDESNI.TAP"
+--tape-sum 844e5fd7468c9405a7eccd9662877936
+--start 1343
+--sim-load-config finish-tape=1

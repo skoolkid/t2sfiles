@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Platform.tzx.zip
+platform.z80
+--sim-load
+--tape-name "Platform.tzx"
+--tape-sum bcc621cc8295e47b0edfca32abce2905
+--start 1343
+--sim-load-config finish-tape=1

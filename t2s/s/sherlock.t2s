@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Sherlock.tzx.zip
+sherlock.z80
+--sim-load
+--tape-name "Sherlock.tzx"
+--tape-sum b31d8436c5da42d690a9887410ac1742
+--start 23323
+--sim-load-config accelerator=rom

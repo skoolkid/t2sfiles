@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Superman-TheGame.tzx.zip
+superman-the-game.z80
+--sim-load
+--tape-name "Superman - The Game.tzx"
+--tape-sum c5a37cdd4969e3b859486f07fc3bbc4f
+--start 33000

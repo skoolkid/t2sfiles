@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/Tomcat.tzx.zip
+tomcat.z80
+--sim-load
+--tape-name "Tomcat.tzx"
+--tape-sum a2746112241ce0466461f539f5bd93b2
+--start 65188
+--sim-load-config accelerator=speedlock

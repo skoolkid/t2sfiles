@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/v/VegasJackpot.tzx.zip
+vegas-jackpot.z80
+--sim-load
+--tape-name "Vegas Jackpot.tzx"
+--tape-sum 09098730e27ecb7b49a70167b35c5319
+--start 7878

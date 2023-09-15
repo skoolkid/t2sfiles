@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/Dominator.tzx.zip
+dominator.z80
+--sim-load
+--tape-name "Dominator.tzx"
+--tape-sum 193b07adda49517f60e68ec32ba2b33c
+--start 44026
+--sim-load-config accelerator=speedlock,rom

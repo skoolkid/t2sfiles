@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RTCRugby.tzx.zip
+rtc-rugby.z80
+--sim-load
+--tape-name "RTC Rugby.tzx"
+--tape-sum 260184286be6ce4190de15603583302f
+--start 1343
+--sim-load-config finish-tape=1

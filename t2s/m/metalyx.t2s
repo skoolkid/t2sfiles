@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Metalyx.tzx.zip
+metalyx.z80
+--sim-load
+--tape-name "Metalyx (Alternative).tzx"
+--tape-sum b68143cf68836b0d8549f5dfee2714ec
+--start 40000

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/d/Dziurak-GoToHole(PartyVersion).tap.zip
+dziurak-go-to-hole.z80
+--sim-load
+--tape-name "dziurak.tap"
+--tape-sum 993fd8e0512c8d89197bfa05148939d7
+--start 25000

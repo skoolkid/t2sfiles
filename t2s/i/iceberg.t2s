@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/i/Iceberg_2.tap.zip
+iceberg.z80
+--sim-load
+--tape-name "Iceberg.tap"
+--tape-sum 14e2462b0856af111aab0e6054210ce7
+--start 1343
+--sim-load-config finish-tape=1

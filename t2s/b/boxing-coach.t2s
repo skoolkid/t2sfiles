@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BoxingCoach.tzx.zip
+boxing-coach.z80
+--sim-load
+--tape-name "Boxing Coach.tzx"
+--tape-sum 5d6925ed8dcd64c26a426c680efb5cd7
+--start 1343
+--sim-load-config finish-tape=1

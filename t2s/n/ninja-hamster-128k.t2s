@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/n/NinjaHamster.tzx.zip
+ninja-hamster-128k.z80
+--tape-name "Ninja Hamster - Side 2.tzx"
+--tape-sum 0573844a4c9e68558de700faa3498e83
+--start 65498
+--sim-load-config machine=128
+--sim-load-config accelerator=bleepload

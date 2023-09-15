@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/g/GalacticRaiders.tap.zip
+galactic-raiders-p-d-appleby.z80
+--sim-load
+--tape-name "GALACTIC.TAP"
+--tape-sum a3756fc7abee38e64952f57233ff2faf
+--start 1343
+--sim-load-config finish-tape=1

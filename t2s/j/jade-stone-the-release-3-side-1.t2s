@@ -1,0 +1,7 @@
+https://tzxvault.org/Spectrum/TZX/TheJadeStone-Release3.zip
+jade-stone-the-release-3-side-1.z80
+--sim-load
+--tape-name "The Jade Stone - Release 3 - Side 1.tzx"
+--tape-sum 1617c40fbbbecd2c7b15a1ad2b83d60e
+--start 36376
+--sim-load-config finish-tape=1

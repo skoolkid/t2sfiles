@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/ManicMiner6-TheBuddhaOfSuburbia.tzx.zip
+manic-miner-6-the-buddha-of-suburbia.z80
+--sim-load
+--tape-name "Manic Miner 6 - The Buddha Of Suburbia.tzx"
+--tape-sum b37c21fa317c063efed199128da3ea81
+--start 1343
+--sim-load-config finish-tape=1

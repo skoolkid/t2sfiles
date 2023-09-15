@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Barreldrop.tzx.zip
+barreldrop.z80
+--sim-load
+--tape-name "Barreldrop.tzx"
+--tape-sum 639908fc1bd1bf1b89b3dab8bf743003
+--start 1343
+--sim-load-config finish-tape=1

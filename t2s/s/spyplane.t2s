@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Spyplane.tzx.zip
+spyplane.z80
+--sim-load
+--tape-name "Spy-Plane.tzx"
+--tape-sum 9bd4fbdf75800672004b82124fe2e287
+--start 25000
+--tape-stop 9

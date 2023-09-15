@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/j/JINJ.tzx.zip
+jinj.z80
+--sim-load
+--tape-name "JINJ.tzx"
+--tape-sum 958d8a9f0d78c58ebcf4354387b30862
+--start 24260
+--sim-load-config accelerator=rom

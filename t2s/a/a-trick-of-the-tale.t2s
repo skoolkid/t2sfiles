@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TrickOfTheTaleA.tzx.zip
+a-trick-of-the-tale.z80
+--sim-load
+--tape-name "A Trick Of The Tale.tzx"
+--tape-sum 8935ce5c0eca52598fa304209531a294
+--start 64026
+--sim-load-config accelerator=bleepload

@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/g/Gablota.tzx.zip
+gablota.z80
+--sim-load
+--tape-name "GABLOTA.TZX"
+--tape-sum f629409289f1b3cac62731dac237b797
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config accelerator=rom

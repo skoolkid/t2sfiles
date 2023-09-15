@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/h/HouseOfShadowsThe.tzx.zip
+house-of-shadows-the.z80
+--sim-load
+--tape-name "House Of Shadows.tzx"
+--tape-sum b5584894cb436154c8d485213fde32ac
+--start 1343
+--sim-load-config finish-tape=1

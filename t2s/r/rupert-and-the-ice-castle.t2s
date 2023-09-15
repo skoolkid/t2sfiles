@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RupertAndTheIceCastle.tzx.zip
+rupert-and-the-ice-castle.z80
+--sim-load
+--tape-name "Rupert And The Ice Castle.tzx"
+--tape-sum 44893e68f39bc95668f27421538f7b81
+--start 23296
+--sim-load-config accelerator=rom

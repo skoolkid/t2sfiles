@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Brainwaves.tap.zip
+brainwaves.z80
+--sim-load
+--tape-name "BRAINWAV.TAP"
+--tape-sum fb4f5ed4384a4d3bd60b35f0d0b1e4d6
+--start 1343
+--sim-load-config finish-tape=1

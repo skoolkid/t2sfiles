@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Stormbringer128.tzx.zip
+stormbringer-128k.z80
+--tape-name "Stormbringer - 128k.tzx"
+--tape-sum 5695fe1573d23a3a56231493bef8b70f
+--start 23316
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

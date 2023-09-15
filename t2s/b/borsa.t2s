@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Borsa.tzx.zip
+borsa.z80
+--sim-load
+--tape-name "Borsa.tzx"
+--tape-sum 6ed084409fd9fd96e4680d7a9d1ad1fc
+--start 1343
+--sim-load-config finish-tape=1

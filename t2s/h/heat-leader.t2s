@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/h/HeatLeader.tzx.zip
+heat-leader.z80
+--sim-load
+--tape-name "Heat Leader.tzx"
+--tape-sum d6e069721403baafb8a3586b480e8a10
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/Trail_2.tzx.zip
+trail-star-software.z80
+--sim-load
+--tape-name "Trail (Tony Byrne).tzx"
+--tape-sum da0ddca5f26d067ad31630186fd8792f
+--start 7878

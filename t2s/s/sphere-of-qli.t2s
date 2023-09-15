@@ -1,0 +1,7 @@
+"https://tzxvault.org/Spectrum/TZX/SphereOfQ'li.zip"
+sphere-of-qli.z80
+--sim-load
+--tape-name "Sphere Of Q'li.tzx"
+--tape-sum 009cc8b4b215017aa6a6183cd6f56a88
+--start 29201
+--sim-load-config finish-tape=1

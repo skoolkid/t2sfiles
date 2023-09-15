@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Bewarehouse.tzx.zip
+bewarehouse.z80
+--sim-load
+--tape-name "The Bewarehouse.tzx"
+--tape-sum 9b1e1a5aed669adb9daa4673fa2cce4d
+--start 1343
+--sim-load-config finish-tape=1

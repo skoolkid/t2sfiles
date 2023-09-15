@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/v/ValecnyMesic.tap.zip
+valecny-mesic.z80
+--sim-load
+--tape-name "VALMES.TAP"
+--tape-sum 71b9ec647c4912f97d76e0f3edd00f67
+--start 1343
+--sim-load-config finish-tape=1

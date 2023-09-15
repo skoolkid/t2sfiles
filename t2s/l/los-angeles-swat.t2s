@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/LosAngelesSWAT.zip
+los-angeles-swat.z80
+--sim-load
+--tape-name "Los Angeles SWAT.tzx"
+--tape-sum 3981e2f164c63461551a6956f4be02fe
+--start 25000

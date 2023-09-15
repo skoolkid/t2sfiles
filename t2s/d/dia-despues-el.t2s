@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DiaDespuesEl.tap.zip
+dia-despues-el.z80
+--sim-load
+--tape-name "El Dia Despues.tap"
+--tape-sum a56f11a540d5501ad525a4e9cbd11250
+--start 36376
+--sim-load-config finish-tape=1

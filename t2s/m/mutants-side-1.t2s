@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Mutants.tzx.zip
+mutants-side-1.z80
+--sim-load
+--tape-name "Mutants - Side 1.tzx"
+--tape-sum 7947ac0141f9cd3385a697b5abb34432
+--start 47638
+--sim-load-config accelerator=speedlock

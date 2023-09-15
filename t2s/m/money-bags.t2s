@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MoneyBags.tap.zip
+money-bags.z80
+--sim-load
+--tape-name "MoneyBags.tap"
+--tape-sum 9048ee31492e6ef2267b031dc56f79e4
+--start 1343
+--sim-load-config finish-tape=1

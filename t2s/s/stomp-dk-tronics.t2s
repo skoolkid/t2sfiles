@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Stomp.tzx.zip
+stomp-dk-tronics.z80
+--sim-load
+--tape-name "Stomp (DK'Tronics).tzx"
+--tape-sum ca15738509420a25cdc8393dc6838adb
+--start 50000

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/r/Robber.tzx.zip
+robber.z80
+--sim-load
+--tape-name "Robber.tzx"
+--tape-sum e064a9d98f7bbc150ad6f98fbf16ed48
+--start 1343
+--sim-load-config finish-tape=1

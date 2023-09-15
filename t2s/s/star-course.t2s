@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/StarCourse.tap.zip
+star-course.z80
+--tape-name "star_course.tap"
+--tape-sum f65bd4af0c3140679cb2ada1c28efc38
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

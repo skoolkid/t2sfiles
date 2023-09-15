@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/j/JungleKing.tap.zip
+jungle-king.z80
+--sim-load
+--tape-name "JUNGLE KING.TAP"
+--tape-sum 9b96a9f010b2568bf5cc149c2376f978
+--start 1343
+--sim-load-config finish-tape=1

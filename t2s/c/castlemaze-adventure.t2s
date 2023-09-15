@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CastlemazeAdventure.tzx.zip
+castlemaze-adventure.z80
+--sim-load
+--tape-name "Castlemaze Adventure.tzx"
+--tape-sum c89eaec5af55879689f71dd6dcb8a656
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SerEl.tap.zip
+ser-el.z80
+--sim-load
+--tape-name "El Ser.tap"
+--tape-sum 9bdd82c4546c515a525f6501c7b1cb8f
+--start 24317

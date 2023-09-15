@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BuggyRanger.tzx.zip
+buggy-ranger.z80
+--sim-load
+--tape-name "Buggy Ranger.tzx"
+--tape-sum 3e08e6f6eb34f87d12144db6b84cb8cf
+--start 24049

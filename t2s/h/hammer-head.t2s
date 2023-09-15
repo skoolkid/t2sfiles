@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/h/Hammer-Head.tzx.zip
+hammer-head.z80
+--sim-load
+--tape-name "Hammer-Head.tzx"
+--tape-sum fc0489b62ec190f7f3ff51ad195c2e7b
+--start 25043

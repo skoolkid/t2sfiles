@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/o/OjoDelDragonEl.tzx.zip
+ojo-del-dragon-el.z80
+--tape-name "El Ojo Del Dragon.tzx"
+--tape-sum 51ca023b13e77280ea0bd3e78c0cd035
+--start 34905
+--sim-load-config machine=128

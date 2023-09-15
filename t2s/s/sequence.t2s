@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Sequence.tap.zip
+sequence.z80
+--sim-load
+--tape-name "SEQUENCE.TAP"
+--tape-sum 649f9f119ad54f18977b7c3842c99767
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RetrospectsBAR-X.tzx.zip
+retrospects-bar-x.z80
+--tape-name "retrobar.tzx"
+--tape-sum d380bea692c40e70b205f300f737ffa7
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CosmicCruiser.tzx.zip
+cosmic-cruiser.z80
+--sim-load
+--tape-name "Cosmic Cruiser.tzx"
+--tape-sum 23f07afc2f5842eee116b03866e7e2af
+--start 24576

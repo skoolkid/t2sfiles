@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/n/NumberWizard.tap.zip
+number-wizard.z80
+--tape-name "NumberWizard.tap"
+--tape-sum 0b8ca58adc6e728dc9fbab4140420f11
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

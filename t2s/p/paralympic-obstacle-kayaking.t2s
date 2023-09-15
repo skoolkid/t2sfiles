@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/ParalympicObstacleKayaking.tap.zip
+paralympic-obstacle-kayaking.z80
+--sim-load
+--tape-name "Kayak.tap"
+--tape-sum ff965258cbf0aa33a5c1622727fce899
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/z/Zoot.tzx.zip
+zoot.z80
+--sim-load
+--tape-name "Zoot.tzx"
+--tape-sum c23cf9cdd0f08e47470737e72fb2ce97
+--start 45415

@@ -1,0 +1,7 @@
+https://worldofspectrum.org/pub/sinclair/games/y/Yuppie.tzx.zip
+yuppie.z80
+--sim-load
+--tape-name "Yuppie.tzx"
+--tape-sum 2a762fc4574a79fca67f3527c8e3cd16
+--start 36366
+--sim-load-config finish-tape=1

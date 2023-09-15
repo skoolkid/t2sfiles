@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CarlYoungsAdventure.tzx.zip
+carl-youngs-adventure.z80
+--sim-load
+--tape-name "Carl Young's Adventure.tzx"
+--tape-sum ac1507cf06593ef65d5aa86f18b773ed
+--start 25063

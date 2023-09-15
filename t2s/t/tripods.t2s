@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/Tripods.tap.zip
+tripods.z80
+--sim-load
+--tape-name "TRIPODS.TAP"
+--tape-sum 33da0aedf0fa064b27c75bf01d553986
+--start 1343
+--sim-load-config finish-tape=1

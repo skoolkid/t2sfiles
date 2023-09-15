@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CombatSchool.tzx.zip
+combat-school.z80
+--sim-load
+--tape-name "Combat School - Side 1.tzx"
+--tape-sum 14957205dbde5f43c31841b0a48348e6
+--start 64569
+--sim-load-config accelerator=speedlock,rom

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MoleHunter.tap.zip
+mole-hunter.z80
+--sim-load
+--tape-name "Mole Hunter.tap"
+--tape-sum 6ba42ebabcaa50669ac91367e2597189
+--start 26938

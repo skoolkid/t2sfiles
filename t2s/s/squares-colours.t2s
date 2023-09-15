@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SquaresColours.tap.zip
+squares-colours.z80
+--sim-load
+--tape-name "SQARCOL.TAP"
+--tape-sum 668af99fbec45ba464df8c6aa0d51cde
+--start 1343
+--sim-load-config finish-tape=1

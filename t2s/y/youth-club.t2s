@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/y/YouthClub.tzx.zip
+youth-club.z80
+--sim-load
+--tape-name "Youth Club.tzx"
+--tape-sum fd7a11af5190ac4b8a5dfb30c8a7df27
+--start 1343
+--sim-load-config finish-tape=1

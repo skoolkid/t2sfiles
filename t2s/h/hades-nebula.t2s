@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/h/HadesNebula.tzx.zip
+hades-nebula.z80
+--sim-load
+--tape-name "Hades Nebula.tzx"
+--tape-sum 04623e1909a1342a22da1558d472f1e4
+--start 65145
+--sim-load-config accelerator=rom

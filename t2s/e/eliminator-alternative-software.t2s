@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/e/Eliminator.tzx.zip
+eliminator-alternative-software.z80
+--sim-load
+--tape-name "Eliminator.tzx"
+--tape-sum 557a35e379657b334f3369c5b7e17d41
+--start 38817

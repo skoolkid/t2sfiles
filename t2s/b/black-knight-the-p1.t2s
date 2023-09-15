@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BlackKnightThe.tzx.zip
+black-knight-the-p1.z80
+--sim-load
+--tape-name "Black Knight Adventure - Part 1.tzx"
+--tape-sum 925f7baf3a3789e909dc44a7f81b712b
+--start 34104
+--tape-stop 5

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Catastrophes.tzx.zip
+catastrophes.z80
+--sim-load
+--tape-name "Catastrophes.tzx"
+--tape-sum 567485f7a505db73f33f7f4ade8d92ac
+--start 41920

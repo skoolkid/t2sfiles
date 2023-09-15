@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/h/HomeHungaroring.tzx.zip
+home-hungaroring.z80
+--sim-load
+--tape-name "Home_Hungaroring.tzx"
+--tape-sum aad94db87555ef88e983b229d0eba053
+--start 24560
+--sim-load-config accelerator=rom

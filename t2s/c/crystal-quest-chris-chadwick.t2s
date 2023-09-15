@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CrystalQuest.tap.zip
+crystal-quest-chris-chadwick.z80
+--sim-load
+--tape-name "CRYQUEST.TAP"
+--tape-sum 2fb42286866d4e5b21dabecec7941aed
+--start 1343
+--sim-load-config finish-tape=1

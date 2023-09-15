@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TotalWar.tap.zip
+total-war.z80
+--sim-load
+--tape-name "Total War.tap"
+--tape-sum 2afa496fc8a76c0745a532f3d442e415
+--start 24200

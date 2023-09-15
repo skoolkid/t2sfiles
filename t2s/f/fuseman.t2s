@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/f/Fuseman.tzx.zip
+fuseman.z80
+--sim-load
+--tape-name "Fuseman.tzx"
+--tape-sum 453dc1e8eb2d47bee9f0d84ff23bf97b
+--start 25063

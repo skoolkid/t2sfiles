@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/Thief_2.tzx.zip
+thief-stars-software.z80
+--sim-load
+--tape-name "THIEF.TZX"
+--tape-sum 21aa44cd6e30f194f832f4d3f09a12f3
+--start 38600
+--sim-load-config accelerator=rom

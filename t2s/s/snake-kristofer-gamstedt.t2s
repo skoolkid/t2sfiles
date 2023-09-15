@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Snake(1).tzx.zip
+snake-kristofer-gamstedt.z80
+--sim-load
+--tape-name "Snake [1].tzx"
+--tape-sum 644e61eb2a56d7770869a31f8d8c81b2
+--start 1343
+--sim-load-config finish-tape=1

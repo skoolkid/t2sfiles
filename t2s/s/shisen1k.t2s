@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Shisen1k.tap.zip
+shisen1k.z80
+--sim-load
+--tape-name "SHISEN1K.TAP"
+--tape-sum d1a2a3fdb87bf089dae9fe899327d121
+--start 23797

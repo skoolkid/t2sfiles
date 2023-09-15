@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/f/Froggy2.tzx.zip
+froggy-2.z80
+--sim-load
+--tape-name "Froggy 2.tzx"
+--tape-sum b9383a76c4311859c8076f725218754f
+--start 1343
+--sim-load-config finish-tape=1

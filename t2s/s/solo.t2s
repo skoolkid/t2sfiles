@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Solo(lightgun).tzx.zip
+solo.z80
+--sim-load
+--tape-name "Solo (Lightgun).tzx"
+--tape-sum fc3891eaefa94544c01aa2b975df1811
+--start 64532

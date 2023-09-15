@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DeadOrAlive.tzx.zip
+dead-or-alive-side-2.z80
+--sim-load
+--tape-name "Dead Or Alive - Side 2.tzx"
+--tape-sum c1ad62dbb1a46d5027c6fb7f7a087f9c
+--start 1343
+--sim-load-config finish-tape=1

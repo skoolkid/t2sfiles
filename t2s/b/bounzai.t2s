@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Bounzai.tap.zip
+bounzai.z80
+--sim-load
+--tape-name "Bounzai.tap"
+--tape-sum 079e8766f2feb3b301b41e68bad0d2e5
+--start 26008

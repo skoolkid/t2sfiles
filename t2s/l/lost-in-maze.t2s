@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/l/LostInMaze.tap.zip
+lost-in-maze.z80
+--sim-load
+--tape-name "lostinmaze.tap"
+--tape-sum 9de433a3c51623c01ff8951f1cda3b5e
+--start 23766

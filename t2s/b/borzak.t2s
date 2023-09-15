@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Borzak.tzx.zip
+borzak.z80
+--sim-load
+--tape-name "BORZAK.TZX"
+--tape-sum ecf6226f08fb9f1a39a84cb92321a4ae
+--start 36900

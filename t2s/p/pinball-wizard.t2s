@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Pinball(PinballWizard)(CPSoftware).tzx.zip
+pinball-wizard.z80
+--sim-load
+--tape-name "Pinball Wizard.tzx"
+--tape-sum c3336725e4358e0d8559582178a29fa5
+--start 27392

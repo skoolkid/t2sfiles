@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AlienRupture.tap.zip
+alien-rupture.z80
+--sim-load
+--tape-name "ALIENRUP.TAP"
+--tape-sum 67b664bae3af4a90becc2302c686f1c4
+--start 1343
+--sim-load-config finish-tape=1

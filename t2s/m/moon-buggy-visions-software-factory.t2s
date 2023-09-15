@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/MoonBuggy.zip
+moon-buggy-visions-software-factory.z80
+--sim-load
+--tape-name "Moon Buggy.tzx"
+--tape-sum 19bf2b3877fdab56bfa130e77e274f3c
+--start 24576

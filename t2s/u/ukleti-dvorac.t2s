@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/u/UkletiDvorac.tzx.zip
+ukleti-dvorac.z80
+--sim-load
+--tape-name "ZliDvorac.tzx"
+--tape-sum 272e73c192abe98d82e0f57a2e51fd2a
+--start 1343
+--sim-load-config finish-tape=1

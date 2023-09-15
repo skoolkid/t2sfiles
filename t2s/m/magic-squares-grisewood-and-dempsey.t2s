@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MagicSquares.tap.zip
+magic-squares-grisewood-and-dempsey.z80
+--tape-name "magic_squares.tap"
+--tape-sum a697d8b036099de7dd2e002471078a44
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/McWashGoesBathing(Bensoft).tap.zip
+mc-wash-goes-bathing.z80
+--sim-load
+--tape-name "MCWASHC.TAP"
+--tape-sum 8010da03bb6649afb0adb0fa84ae40a3
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PirataKid.tzx.zip
+pirata-kid.z80
+--sim-load
+--tape-name "PirataKid.tzx"
+--tape-sum 260f7eb491ecd7c7877e995b4df7f045
+--start 62995

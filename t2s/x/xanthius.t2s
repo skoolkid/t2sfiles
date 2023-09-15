@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/x/Xanthius.tzx.zip
+xanthius.z80
+--sim-load
+--tape-name "Xanthius.tzx"
+--tape-sum 384ddb5b2697e1ce11e124e9d92f795f
+--start 38165
+--sim-load-config accelerator=rom

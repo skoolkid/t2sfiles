@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/g/GoToJail.tzx.zip
+go-to-jail.z80
+--sim-load
+--tape-name "Go To Jail.tzx"
+--tape-sum abaf9e8e484ad8627f53aa19506e3e87
+--start 1343
+--sim-load-config finish-tape=1

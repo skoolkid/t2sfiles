@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Bristles.zip
+bristles.z80
+--sim-load
+--tape-name "Bristles.tzx"
+--tape-sum 03eeeede568d90180950ed2614548da2
+--start 25000

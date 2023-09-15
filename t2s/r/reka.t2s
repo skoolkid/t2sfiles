@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/r/Reka.tap.zip
+reka.z80
+--sim-load
+--tape-name "REKA.TAP"
+--tape-sum b692cb4547ee764737f4852878ef18eb
+--start 1343
+--sim-load-config finish-tape=1

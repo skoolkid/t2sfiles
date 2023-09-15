@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/h/Heli-Bomber_2.tap.zip
+heli-bomber-robert-erskine.z80
+--sim-load
+--tape-name "Heli-Bomber.tap"
+--tape-sum 128fdd4660d3c74108a01e35b7f65cf7
+--start 1343
+--sim-load-config finish-tape=1

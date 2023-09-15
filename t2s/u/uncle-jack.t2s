@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/u/UncleJack.tap.zip
+uncle-jack.z80
+--sim-load
+--tape-name "UNCLJACK.TAP"
+--tape-sum 22d003f862f6e7987bbddbe399988bc2
+--start 1343
+--sim-load-config finish-tape=1

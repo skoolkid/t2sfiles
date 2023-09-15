@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SportGame.tzx.zip
+sport-game.z80
+--sim-load
+--tape-name "Sport Game.tzx"
+--tape-sum 9f7312e1346f54918d4858f70e070274
+--start 58684

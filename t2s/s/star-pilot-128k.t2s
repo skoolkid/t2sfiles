@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/StarPilot.tzx.zip
+star-pilot-128k.z80
+--tape-name "Star Pilot - 128k.tzx"
+--tape-sum 2c1e729736e35e82c9a1bd451985052c
+--start 23821
+--sim-load-config machine=128

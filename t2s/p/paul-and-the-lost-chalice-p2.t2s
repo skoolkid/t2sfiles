@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PaulAndTheLostChalicePart2-TombOfTittyBum.tap.zip
+paul-and-the-lost-chalice-p2.z80
+--sim-load
+--tape-name "Part2.tap"
+--tape-sum ef03bfb2565b3b475195d8f09f0d5f57
+--start 1343
+--sim-load-config finish-tape=1

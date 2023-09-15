@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SpyHunter.tzx.zip
+spy-hunter.z80
+--sim-load
+--tape-name "Spy Hunter.tzx"
+--tape-sum 68e81f40c64edf9e6dfe0a0fd642a8b1
+--start 61021
+--sim-load-config accelerator=speedlock

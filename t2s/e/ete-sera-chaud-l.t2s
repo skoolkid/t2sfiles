@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/e/EteSeraChaudL.tzx.zip
+ete-sera-chaud-l.z80
+--sim-load
+--tape-name "L'Ete Sera Chaud.tzx"
+--tape-sum 27c7fbc5007a05dd3c16f2b090395a3d
+--start 1343
+--tape-stop 6
+--sim-load-config finish-tape=1

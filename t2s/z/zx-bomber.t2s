@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/z/ZXBomber.tap.zip
+zx-bomber.z80
+--sim-load
+--tape-name "ZX-Bomber.tap"
+--tape-sum 21904aec542dc805262b981f2639459b
+--start 23769

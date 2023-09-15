@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/l/LazerFighter2.tzx.zip
+lazer-fighter-2-128k.z80
+--tape-name "Lazer Fighter 2/LF2_128.TZX"
+--tape-sum c8d073c8ec00e1c8a16869591b2a4257
+--start 1343
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AventuraSinNombreLa.tap.zip
+aventura-sin-nombre-la-p1.z80
+--sim-load
+--tape-name "La Aventura Sin Nombre - Part 1.tap"
+--tape-sum 7046b6525bf197bd3ed3a15f4c6d3940
+--start 29041
+--sim-load-config finish-tape=1

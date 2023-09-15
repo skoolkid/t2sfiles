@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Con-Quest.zip
+con-quest.z80
+--sim-load
+--tape-name "Con-Quest.tzx"
+--tape-sum 2949416226f4c0b92da76c55c394d8b0
+--start 23335

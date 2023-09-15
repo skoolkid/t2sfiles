@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PubCrawl2.tzx.zip
+pub-crawl-2.z80
+--sim-load
+--tape-name "Pub Crawl.tzx"
+--tape-sum 94a4e91b5e17cdd7f0cc98692e6632a7
+--start 60047
+--sim-load-config accelerator=rom

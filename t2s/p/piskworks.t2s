@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Piskworks.tzx.zip
+piskworks.z80
+--sim-load
+--tape-name "PISKWORK.TZX"
+--tape-sum 581b9012b153abc6075643e54e843850
+--start 23332
+--sim-load-config accelerator=rom,raxoft

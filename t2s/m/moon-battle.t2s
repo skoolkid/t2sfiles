@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MoonBattle.tap.zip
+moon-battle.z80
+--sim-load
+--tape-name "MOONBATT.TAP"
+--tape-sum 769f79a1fb48b958bad822fc0b4d03e0
+--start 44400

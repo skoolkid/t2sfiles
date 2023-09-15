@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/h/HouseOnDamnedHillThe.tzx.zip
+house-on-damned-hill-the.z80
+--sim-load
+--tape-name "House On The Damned Hill.tzx"
+--tape-sum 5c976f85e9e57c8b57863c501804a927
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SportOfKings.tzx.zip
+sport-of-kings.z80
+--sim-load
+--tape-name "Sport Of Kings.tzx"
+--tape-sum c33bb400ab3bf117c59db395237ac283
+--start 1343
+--sim-load-config finish-tape=1

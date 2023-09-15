@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PyramidRace.tap.zip
+pyramid-race.z80
+--tape-name "pyramid_race.tap"
+--tape-sum 56eb55fec97ffb2d2921cf12b24ef613
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

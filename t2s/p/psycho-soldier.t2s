@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PsychoSoldier.tzx.zip
+psycho-soldier.z80
+--sim-load
+--tape-name "Psycho Soldier.tzx"
+--tape-sum 1e79696630f501d431e5a6414afa83c2
+--start 65248
+--tape-stop 46
+--sim-load-config accelerator=speedlock

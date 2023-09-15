@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/n/N.E.I.L.Android.tzx.zip
+neil-android.z80
+--sim-load
+--tape-name "Neil Android.tzx"
+--tape-sum d61897eeac661de4e3ed7cf5ad0b9e1d
+--start 59612
+--sim-load-config accelerator=speedlock

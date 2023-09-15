@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/j/Jackal.tzx.zip
+jackal.z80
+--sim-load
+--tape-name "Jackal.tzx"
+--tape-sum a8feda57fa81a398570ce5e6a5a28b0c
+--start 64509
+--sim-load-config accelerator=alkatraz

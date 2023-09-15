@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/i/InvasionOfTheBodySnatchas.tzx.zip
+invasion-of-the-body-snatchas.z80
+--sim-load
+--tape-name "Invasion Of The Body Snatchas!.tzx"
+--tape-sum b4eeeed243ff5cef58cc325a882deea7
+--start 23296
+--sim-load-config accelerator=design-design

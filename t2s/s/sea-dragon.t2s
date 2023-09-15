@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SeaDragon.tzx.zip
+sea-dragon.z80
+--sim-load
+--tape-name "SeaDragon.tzx"
+--tape-sum 466624e858c3c82c97e59f40240438f6
+--start 48576
+--tape-start 54

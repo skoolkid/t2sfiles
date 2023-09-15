@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/w/WordPuzzle.tzx.zip
+word-puzzle.z80
+--sim-load
+--tape-name "Word Puzzle.tzx"
+--tape-sum 9836736ee7bf1fc4b72b22c486c5b49d
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/o/OneDayCricket.tzx.zip
+one-day-cricket-derek-c-baker.z80
+--sim-load
+--tape-name "One Day Cricket.tzx"
+--tape-sum c4916b39ca9abcd1af197dd09f32e753
+--start 1343
+--tape-start 4
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/w/WarGame1812.tap.zip
+war-game-1812.z80
+--sim-load
+--tape-name "WARGAM_2.TAP"
+--tape-sum a009abb9914f0ddaff5d14dc6a7de82b
+--start 1343
+--sim-load-config finish-tape=1

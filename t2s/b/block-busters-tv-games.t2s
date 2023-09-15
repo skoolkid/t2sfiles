@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Blockbusters_2.tzx.zip
+block-busters-tv-games.z80
+--sim-load
+--tape-name "Block Busters (TV Games).tzx"
+--tape-sum cadd45194c7a8b402cd1400b9e47cbf3
+--start 44520
+--sim-load-config accelerator=rom

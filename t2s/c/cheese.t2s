@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Cheese.tzx.zip
+cheese.z80
+--sim-load
+--tape-name "PCG 04 - Mar 1984 (Cheese).tzx"
+--tape-sum c1cbd08a7eeebf9ca6340a1623b14df0
+--start 1343
+--sim-load-config finish-tape=1

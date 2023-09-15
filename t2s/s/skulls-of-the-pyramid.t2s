@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SkullsOfThePyramid.tap.zip
+skulls-of-the-pyramid.z80
+--sim-load
+--tape-name "SkullsOfThePyramids.tap"
+--tape-sum a3904330e8468242450016f1f93a2a2c
+--start 1343
+--sim-load-config finish-tape=1

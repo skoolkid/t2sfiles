@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Snooker.tzx.zip
+snooker-artic-computing.z80
+--sim-load
+--tape-name "Snooker (Artic).tzx"
+--tape-sum b1c5a6c64f364482c31c902cf41cb2a9
+--start 23762

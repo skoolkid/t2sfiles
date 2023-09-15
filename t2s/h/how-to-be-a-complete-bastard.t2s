@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/h/HowToBeACompleteBastard.tzx.zip
+how-to-be-a-complete-bastard.z80
+--sim-load
+--tape-name "How To Be A Complete Bastard.tzx"
+--tape-sum 0d0f9f9e6ef7d410a35345a8c46cfe1a
+--start 65329
+--sim-load-config accelerator=speedlock

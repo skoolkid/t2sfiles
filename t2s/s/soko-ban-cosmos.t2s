@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SOKO-BAN+COSMOS.tzx.zip
+soko-ban-cosmos.z80
+--sim-load
+--tape-name "SOKO-BAN+COSMOS.tzx"
+--tape-sum 963d58d5dc68dfb31c8f11a11a7afbc6
+--start 1343
+--tape-stop 4
+--sim-load-config finish-tape=1

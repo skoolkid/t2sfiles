@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/SpaceRaiders.zip
+space-raiders.z80
+--sim-load
+--tape-name "Space Raiders.tzx"
+--tape-sum ebc734f84a5ef9c7b15c25c523cb718a
+--start 24703

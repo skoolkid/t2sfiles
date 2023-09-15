@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Chiller.zip
+chiller.z80
+--sim-load
+--tape-name "Chiller.tzx"
+--tape-sum 841c6f79d37f85e6b9472ce87f0dd4a0
+--start 42664

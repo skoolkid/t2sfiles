@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SpaceSeeker.tap.zip
+space-seeker.z80
+--sim-load
+--tape-name "SpaceSeeker.tap"
+--tape-sum e9b5954c3d1958f006b350534bdb4b03
+--start 1343
+--sim-load-config finish-tape=1

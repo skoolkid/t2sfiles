@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/l/LunarLander(different).tap.zip
+lunar-lander-c-tech.z80
+--sim-load
+--tape-name "LUNLAND.TAP"
+--tape-sum a6e70b9e9282742f829d7af7220c43c6
+--start 1343
+--sim-load-config finish-tape=1

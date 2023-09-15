@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/e/Ed-On.tzx.zip
+ed-on.z80
+--sim-load
+--tape-name "Ed-On.tzx"
+--tape-sum 889eaf7f7eb1956a5a8e28af15360b3d
+--start 26980

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DoomMania.tap.zip
+doom-mania.z80
+--sim-load
+--tape-name "DOOMMANI.TAP"
+--tape-sum 8114d4bb9f939b043df0c36adf6ac3e6
+--start 25088
+--sim-load-config machine=128

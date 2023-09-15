@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/Fred(Quicksilva).zip
+fred.z80
+--sim-load
+--tape-name "Fred (Quicksilva).tzx"
+--tape-sum f562c2e07fbb4548c1340183b0fb4ed8
+--start 30285

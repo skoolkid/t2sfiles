@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SuperSpaceInvaders.tzx.zip
+super-space-invaders.z80
+--tape-name "Super Space Invaders.tzx"
+--tape-sum fa9536a3e28ac6a1e7b00353261cb228
+--start 34606
+--sim-load-config machine=128
+--sim-load-config accelerator=rom
+--sim-load-config finish-tape=1

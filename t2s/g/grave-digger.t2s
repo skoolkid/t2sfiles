@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/g/GraveDigger.tap.zip
+grave-digger.z80
+--tape-name "GraveDigger.tap"
+--tape-sum 291666e79b8002767843c100dedad088
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

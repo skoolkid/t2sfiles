@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/l/LegendOfTheBurgle.tzx.zip
+legend-of-the-burgle.z80
+--sim-load
+--tape-name "Legend of the Burgle!.TZX"
+--tape-sum e347e7a8215cd2bf709651942ec56a3c
+--start 30000
+--tape-stop 11

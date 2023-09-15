@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/h/HomeBase.tap.zip
+home-base.z80
+--tape-name "HOMEBASE.TAP"
+--tape-sum 3d9d5e5fcd5f6067f6cb828e60497ce5
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

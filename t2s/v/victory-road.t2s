@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/v/VictoryRoad.tzx.zip
+victory-road.z80
+--sim-load
+--tape-name "Victory Road.tzx"
+--tape-sum 90a862c77d74181775d6aedbe4ea1fc6
+--start 65283
+--sim-load-config accelerator=speedlock

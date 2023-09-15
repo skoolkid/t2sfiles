@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/g/GhostMaze.tap.zip
+ghost-maze.z80
+--tape-name "GhostMaze.tap"
+--tape-sum 6f84beb679ca3a4bbdb8141d9164de35
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/w/WizardQuest.tzx.zip
+wizard-quest-guide.z80
+--sim-load
+--tape-name "Wizard Quest - Guide.tzx"
+--tape-sum 51d836bb7795b2ef032d2988fd07eda8
+--start 1343
+--sim-load-config finish-tape=1

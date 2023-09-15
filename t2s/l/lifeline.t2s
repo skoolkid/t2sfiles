@@ -1,0 +1,7 @@
+https://tzxvault.org/Spectrum/TZX/Lifeline.zip
+lifeline.z80
+--sim-load
+--tape-name "Lifeline.tzx"
+--tape-sum b76cafda00e57999e4d2f6e0400ac33e
+--start 1343
+--sim-load-config finish-tape=1

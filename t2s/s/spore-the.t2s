@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SporeThe.tzx.zip
+spore-the.z80
+--sim-load
+--tape-name "The Spore.tzx"
+--tape-sum f2aa762503faa98a57596f7d037cf96f
+--start 25063

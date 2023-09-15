@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/o/OXO.tap.zip
+oxo-michael-bews.z80
+--sim-load
+--tape-name "OXO.tap"
+--tape-sum 619d860527e93a2f6745c3fde45e5987
+--start 1343
+--sim-load-config finish-tape=1

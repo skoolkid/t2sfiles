@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/Drainpipes.tzx.zip
+drainpipes.z80
+--sim-load
+--tape-name "Drainpipes.tzx"
+--tape-sum 9434c4e27be66b1786773a350edb90b7
+--start 1343
+--sim-load-config finish-tape=1

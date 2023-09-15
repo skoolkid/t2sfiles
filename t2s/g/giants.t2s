@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/g/Giants.tzx.zip
+giants.z80
+--sim-load
+--tape-name "Giants.tzx"
+--tape-sum d05b84973467ce833a22f13cd6a56df7
+--start 25000
+--tape-start 4

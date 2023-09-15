@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Parvision.tzx.zip
+parvision.z80
+--sim-load
+--tape-name "Parvision.tzx"
+--tape-sum 4c8cf9603193f5a52481ff18da2d3e83
+--start 1343
+--sim-load-config finish-tape=1

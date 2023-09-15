@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SamanthaFoxStripPoker.tzx.zip
+samantha-fox-strip-poker-side-a.z80
+--sim-load
+--tape-name "Samantha Fox Strip Poker - Side A.tzx"
+--tape-sum 6d51aae83577abb6011a6d8e030087f5
+--start 65393
+--sim-load-config accelerator=speedlock

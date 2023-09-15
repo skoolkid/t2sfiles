@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MoveIt.tap.zip
+move-it.z80
+--tape-name "MOVE_IT.TAP"
+--tape-sum 6a13cfebba6f5aa63de4c0e3fa1f8358
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

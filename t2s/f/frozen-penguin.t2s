@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/FrozenPenguin.zip
+frozen-penguin.z80
+--sim-load
+--tape-name "Frozen Penguin.tzx"
+--tape-sum dd5080df28970780931865d3e1203a98
+--start 36500

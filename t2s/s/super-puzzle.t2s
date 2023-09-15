@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SuperPuzzle.tzx.zip
+super-puzzle.z80
+--sim-load
+--tape-name "SuperPuzzle.tzx"
+--tape-sum f7f84312cafabaf499d0b010bdd44cfa
+--start 50150

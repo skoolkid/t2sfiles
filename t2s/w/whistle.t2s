@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/w/Whistle.tzx.zip
+whistle.z80
+--sim-load
+--tape-name "Whistle.tzx"
+--tape-sum d6c332106deaff44e21673ea506ca651
+--start 25063

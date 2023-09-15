@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/f/Firebirds.tzx.zip
+firebirds.z80
+--sim-load
+--tape-name "Firebirds.tzx"
+--tape-sum e0bbb52088a709d2786c2b49da265325
+--start 24033

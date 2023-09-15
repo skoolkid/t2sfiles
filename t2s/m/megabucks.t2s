@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MegaBucks.tzx.zip
+megabucks.z80
+--sim-load
+--tape-name "Megabucks.tzx"
+--tape-sum 1d9c0405d2deea329c40d0b5c8a771a7
+--start 24000

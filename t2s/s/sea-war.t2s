@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SeaWar.tzx.zip
+sea-war.z80
+--sim-load
+--tape-name "Sea War.tzx"
+--tape-sum 44a83e205b042d206a96001e8785f70b
+--start 27819

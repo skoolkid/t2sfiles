@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/ScreamingDemons.tzx.zip
+screaming-demons.z80
+--sim-load
+--tape-name "Screaming Demons.tzx"
+--tape-sum e253ac0028905be9ef828ae45f20735f
+--start 23760
+--tape-stop 4

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CornishVenturer.tzx.zip
+cornish-venturer.z80
+--sim-load
+--tape-name "Cornish Venturer.tzx"
+--tape-sum 9c14db576a76322927edb59ff58ee051
+--start 1343
+--sim-load-config finish-tape=1

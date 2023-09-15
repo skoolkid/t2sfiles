@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RobotScape(SPE).tzx.zip
+robot-scape.z80
+--sim-load
+--tape-name "Robot Scape (SPE).tzx"
+--tape-sum e5078a49bcd41af95f89a0a46c6159b2
+--start 65097
+--sim-load-config accelerator=bleepload

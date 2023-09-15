@@ -1,0 +1,7 @@
+https://tzxvault.org/Spectrum/TZX/DesertHawk.zip
+desert-hawk.z80
+--sim-load
+--tape-name "Desert Hawk.tzx"
+--tape-sum 2c38a0fa81a30482a2f7cf38d4167e8e
+--start 1343
+--sim-load-config finish-tape=1

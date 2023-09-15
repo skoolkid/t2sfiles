@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/o/OrbQuest.tzx.zip
+orb-quest.z80
+--tape-name "Orb Quest.tzx"
+--tape-sum 94f4d657305b918a08b1a84ff0e8daac
+--start 34887
+--sim-load-config machine=128

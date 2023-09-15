@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MadMixGame.tzx.zip
+mad-mix-game.z80
+--sim-load
+--tape-name "Mad Mix Game.tzx"
+--tape-sum 842193c6b4706b9d2505742e54150390
+--start 61392
+--sim-load-config accelerator=rom

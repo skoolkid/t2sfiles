@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Codebuster.tap.zip
+codebuster.z80
+--sim-load
+--tape-name "CODEBUST.TAP"
+--tape-sum fc83abc0e839d125f811df0c969edf21
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Mr.Freeze.tzx.zip
+mr-freeze.z80
+--sim-load
+--tape-name "Mr. Freeze.tzx"
+--tape-sum e77482f7fb29a0fd2621075ffc273d73
+--start 56613
+--sim-load-config accelerator=rom

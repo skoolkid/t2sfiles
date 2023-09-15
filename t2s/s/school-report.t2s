@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SchoolReport.tzx.zip
+school-report.z80
+--sim-load
+--tape-name "School Report.tzx"
+--tape-sum a9ebe4476cacf31765dc50f20e348351
+--start 1343
+--sim-load-config finish-tape=1

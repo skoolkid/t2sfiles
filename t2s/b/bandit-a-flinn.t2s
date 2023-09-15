@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Bandit_2.tap.zip
+bandit-a-flinn.z80
+--sim-load
+--tape-name "BANDIT.TAP"
+--tape-sum 0f2eec7646792543601cc3ed857c8978
+--start 1343
+--sim-load-config finish-tape=1

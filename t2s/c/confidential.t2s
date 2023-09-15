@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Confidential.tzx.zip
+confidential.z80
+--sim-load
+--tape-name "Confidential.tzx"
+--tape-sum e8facce6f69bad9124ebc1d1bd5c247b
+--start 25063

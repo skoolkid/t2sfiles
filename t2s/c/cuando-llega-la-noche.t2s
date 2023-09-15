@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CuandoLlegaLaNoche.tap.zip
+cuando-llega-la-noche.z80
+--sim-load
+--tape-name "Cuando Llega La Noche.tap"
+--tape-sum ebd302a6adc431a09a1e3d4e0522d356
+--start 34905
+--sim-load-config machine=128

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SideralWar.tzx.zip
+sideral-war.z80
+--sim-load
+--tape-name "Sideral War.tzx"
+--tape-sum 5fd86a9999f8d048da3b8a4ecfaf3156
+--start 16397

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/Autorennen.tap.zip
+autorennen.z80
+--sim-load
+--tape-name "Autorenn.tap"
+--tape-sum 776dba39e499f4057a534d8831049216
+--start 1343
+--sim-load-config finish-tape=1

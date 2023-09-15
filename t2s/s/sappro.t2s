@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Sappro.tap.zip
+sappro.z80
+--tape-name "SAPPRO.TAP"
+--tape-sum a5c1fd1be1d34b846f8fcba2c9ca8e5c
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

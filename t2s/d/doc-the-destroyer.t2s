@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DocTheDestroyer.tzx.zip
+doc-the-destroyer.z80
+--sim-load
+--tape-name "Doc The Destroyer.tzx"
+--tape-sum 5fe0e56d9f9f893bd3d9c21a7932c3e3
+--start 23322

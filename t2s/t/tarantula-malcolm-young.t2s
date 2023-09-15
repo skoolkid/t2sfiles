@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/Tarantula_2.tap.zip
+tarantula-malcolm-young.z80
+--sim-load
+--tape-name "Tarantula.tap"
+--tape-sum 461e404f6614221da30679842bb26314
+--start 1343
+--sim-load-config finish-tape=1

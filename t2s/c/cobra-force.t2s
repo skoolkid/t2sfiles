@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CobraForce.tzx.zip
+cobra-force.z80
+--sim-load
+--tape-name "Cobra Force.tzx"
+--tape-sum 62c33a91263d3b19e613724d1a355105
+--start 65207
+--tape-stop 8
+--sim-load-config accelerator=speedlock

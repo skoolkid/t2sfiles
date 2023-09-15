@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SpacemanBob.tzx.zip
+spaceman-bob.z80
+--sim-load
+--tape-name "Spaceman Bob.tzx"
+--tape-sum 89db03e019fee2842870bfa548d1bd2b
+--start 29169
+--sim-load-config finish-tape=1

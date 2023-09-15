@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/Trailblazer.tzx.zip
+trailblazer.z80
+--sim-load
+--tape-name "Trailblazer.tzx"
+--tape-sum f9b9754905233158bc293170d5c92f6a
+--start 32896
+--sim-load-config accelerator=rom,speedlock

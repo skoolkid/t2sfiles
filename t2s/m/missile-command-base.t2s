@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MissileCommandBase.tzx.zip
+missile-command-base.z80
+--sim-load
+--tape-name "Missile Command Base.tzx"
+--tape-sum ecfa4bd3d24adfa88eef4401fea5483d
+--start 34104

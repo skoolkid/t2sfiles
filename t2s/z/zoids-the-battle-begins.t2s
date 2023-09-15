@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/z/Zoids-TheBattleBegins.tzx.zip
+zoids-the-battle-begins.z80
+--sim-load
+--tape-name "Zoids.tzx"
+--tape-sum d4a50fb8d5a800337cbcf8880b846311
+--start 33832
+--sim-load-config accelerator=speedlock

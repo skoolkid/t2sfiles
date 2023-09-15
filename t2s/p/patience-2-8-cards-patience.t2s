@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Patience2-_8CardsPatience.tap.zip
+patience-2-8-cards-patience.z80
+--sim-load
+--tape-name "PATIENC2.TAP"
+--tape-sum a5f6ce6406d01b0c442715f5a6c59bfa
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN 2700'

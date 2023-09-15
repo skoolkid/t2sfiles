@@ -1,0 +1,6 @@
+https://tzxvault.org/Spectrum/TZX/GoldRush.zip
+gold-rush-thorn-emi-video.z80
+--sim-load
+--tape-name "Gold Rush.tzx"
+--tape-sum e5c7143d61e0fc223dbac7dfeedcd2da
+--start 28484

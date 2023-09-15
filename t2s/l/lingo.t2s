@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/l/Lingo.tap.zip
+lingo.z80
+--sim-load
+--tape-name "lingo.tap"
+--tape-sum 9621826089846f7a403abf37f113ecb4
+--start 23755

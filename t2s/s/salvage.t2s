@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Salvage.tzx.zip
+salvage.z80
+--sim-load
+--tape-name "Salvage.tzx"
+--tape-sum 98b3a761f664cfd9cb65d6c8489a00c4
+--start 1343
+--sim-load-config finish-tape=1

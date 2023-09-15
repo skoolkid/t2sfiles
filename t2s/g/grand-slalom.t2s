@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/g/GrandSlalom.tap.zip
+grand-slalom.z80
+--sim-load
+--tape-name "Slalom.tap"
+--tape-sum 6ba8b328962b31b2d8cbf614776d056a
+--start 1343
+--sim-load-config finish-tape=1

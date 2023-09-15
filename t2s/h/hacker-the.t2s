@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/h/HackerThe.tzx.zip
+hacker-the.z80
+--sim-load
+--tape-name "HackerThe.tzx"
+--tape-sum 0f414d80858124c82952fc4650e17923
+--start 1343
+--sim-load-config finish-tape=1

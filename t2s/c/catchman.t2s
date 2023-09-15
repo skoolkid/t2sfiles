@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Catchman.tap.zip
+catchman.z80
+--sim-load
+--tape-name "CATCHMAN.TAP"
+--tape-sum 4cb11b4176cd98b881bedf79197c7b8d
+--start 27776
+--tape-stop 5

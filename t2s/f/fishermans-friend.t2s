@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/f/FishermansFriend.tap.zip
+fishermans-friend.z80
+--sim-load
+--tape-name "FISHING.TAP"
+--tape-sum d9e8f41fab88be86ae9caf9d8df521a3
+--start 1343
+--sim-load-config finish-tape=1

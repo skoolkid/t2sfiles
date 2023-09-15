@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/j/JibGoesShopping.tap.zip
+jib-goes-shopping.z80
+--sim-load
+--tape-name "jibshop.tap"
+--tape-sum 92c5fcf2c01c47847a13ccde13d5c4ee
+--start 32768
