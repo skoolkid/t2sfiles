@@ -1,0 +1,7 @@
+; Contributed by Bedazzle
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0002469/IncredibleShrinkingSphere(ElectricDreamsSoftware).tzx.zip
+incredible-shrinking-sphere-eds.z80
+--sim-load
+--tape-name "IncredibleShrinkingSphere(ElectricDreamsSoftware).tzx"
+--tape-sum 7766ad123678027168fd6200914f71ba
+--start 64980

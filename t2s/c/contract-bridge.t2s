@@ -1,0 +1,8 @@
+; Contributed by Bedazzle
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0001059/ContractBridge.tzx.zip
+contract-bridge.z80
+--sim-load
+--tape-name "ContractBridge.tzx"
+--tape-sum 362ab6748c0c70f35a3ced00bb2226e1
+--start 1343
+--sim-load-config finish-tape=1
