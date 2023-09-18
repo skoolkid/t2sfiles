@@ -1,0 +1,7 @@
+; Contributed by Bedazzle
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0000401/SilverGun.tzx.zip
+silver-gun.z80
+--sim-load
+--tape-name "SilverGun.tzx"
+--tape-sum 1048093f4f3fa78f01414148f5dc5677
+--start 38948

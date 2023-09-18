@@ -1,0 +1,8 @@
+; Contributed by Bedazzle
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0000400/Bandit.tap.zip
+bandit-kevin-deakes.z80
+--sim-load
+--tape-name "Bandit.tap"
+--tape-sum 6283ac1acdd565a550ac094757f99068
+--start 1343
+--sim-load-config finish-tape=1
