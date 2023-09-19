@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030381/CrystalKingdomDizzy2017(v1.0.5).tzx.zip
+crystal-kingdom-dizzy-2017.z80
+--tape-name "Dizzy VII - Crystal Kindom Dizzy (2017) v1.0.5.tzx"
+--tape-sum a80d198690d2def254a3150f409cd32c
+--start 28655
+--sim-load-config machine=128
+--sim-load-config accelerator=rom

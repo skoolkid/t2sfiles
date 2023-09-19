@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038597/Feuerpoko.tzx.zip
+feuerpokol.z80
+--tape-name "Feuerpoko.tzx"
+--tape-sum a9afe8937eb9877c4784a8c255f7243a
+--start 34905
+--sim-load-config machine=128

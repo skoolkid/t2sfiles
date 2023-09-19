@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034362/DoomPit(EN).tzx.zip
+doom-pit-en.z80
+--tape-name "DoomPit-EN.tzx"
+--tape-sum 8c31fb4f84e94d0bf6c47f4ef7777ac7
+--start 32917
+--sim-load-config machine=128
+--sim-load-config accelerator=bleepload

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030377/Ooze.tap.zip
+ooze.z80
+--tape-name "Ooze.tap"
+--tape-sum 27bcd94ee07d0995ab27f03c4f3aac7c
+--start 29103
+--sim-load-config machine=128

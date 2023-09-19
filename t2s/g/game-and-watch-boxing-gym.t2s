@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035341/GameAndWatchBoxingGym.tap.zip
+game-and-watch-boxing-gym.z80
+--tape-name "GAWBoxingGym.tap"
+--tape-sum f8a8afdc2bc85839a48d3ef23f976219
+--start 23316
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

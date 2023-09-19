@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036516/Marsmare-Alienation.tap.zip
+marsmare-alienation.z80
+--tape-name "Marsmare-Alienation.tap"
+--tape-sum a590b9eec0f1cf4016df9af143f2542a
+--start 32374
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

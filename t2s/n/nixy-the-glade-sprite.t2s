@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034314/NixyTheGladeSprite.tap.zip
+nixy-the-glade-sprite.z80
+--tape-name "NixyTheGladeSprite.tap"
+--tape-sum b24b0f1fe38f88eeae2e99de20c04cd5
+--start 25775
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

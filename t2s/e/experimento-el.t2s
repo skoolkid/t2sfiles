@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042078/ExperimentoEl.tap.zip
+experimento-el.z80
+--tape-name "ExperimentoEl.tap"
+--tape-sum 791e52e1f27340c9e1fd2a1179675975
+--start 34905
+--sim-load-config machine=128

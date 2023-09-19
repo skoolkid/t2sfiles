@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030083/DogmoleTuppowski-LasNuevasAventuras(128K).tap.zip
+dogmole-tuppowski-the-new-adventures.z80
+--tape-name "DogmoleTuppowski-LasNuevasAventuras (128K).tap"
+--tape-sum 8054d7d9d98f9515e7f887fa686ff39c
+--start 23316
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

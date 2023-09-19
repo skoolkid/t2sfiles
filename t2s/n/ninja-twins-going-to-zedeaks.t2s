@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030075/NinjaTwinsGoingToZedeaks(128K).tap.zip
+ninja-twins-going-to-zedeaks.z80
+--tape-name "NTwins128_fix.tap"
+--tape-sum 586da2937801fc31e70f894fe93369db
+--start 24667
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0012890/KingValley.tzx.zip
+king-valley.z80
+--tape-name "King Valley (MZX tape version).tzx"
+--tape-sum 289b2452fecc71f1c0de2c13a672eabe
+--start 24299
+--sim-load-config machine=128

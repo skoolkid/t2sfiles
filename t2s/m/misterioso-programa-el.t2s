@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0015724/MisteriosoPrograma(48K).tzx.zip
+misterioso-programa-el.z80
+--tape-name "MisteriosoPrograma(48K).tzx"
+--tape-sum e2195db468fb33e95d5d904f89dc36f0
+--start 34905
+--sim-load-config machine=128
