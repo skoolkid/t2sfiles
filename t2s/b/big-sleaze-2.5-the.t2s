@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034365/TheBigSleaze2.5(ReleaseA00).tap.zip
+big-sleaze-2.5-the.z80
+--tape-name "The Big Sleaze 2 - A00.tap"
+--tape-sum aa660146d0b0f16cf2963afec64ef596
+--start 34887
+--sim-load-config machine=128

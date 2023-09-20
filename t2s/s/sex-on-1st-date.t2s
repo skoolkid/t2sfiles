@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031452/SexOn1stDate.tap.zip
+sex-on-1st-date.z80
+--tape-name "SexOn1stDate.tap"
+--tape-sum c6f79952771b3f9906556aa227183e73
+--start 23316
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

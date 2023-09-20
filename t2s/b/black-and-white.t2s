@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035121/BlackAndWhite.tzx.zip
+black-and-white.z80
+--tape-name "black_and_white_1.1.tzx"
+--tape-sum 12d450e9728800f57e5a473af833f0d6
+--start 24204
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

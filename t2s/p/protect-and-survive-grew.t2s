@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031445/ProtectAndSurvive.tzx.zip
+protect-and-survive-grew.z80
+--tape-name "ProtectAndSurvive.tzx"
+--tape-sum eef38ddf31df6171fff2b1d3524a7c67
+--start 24154
+--sim-load-config machine=128

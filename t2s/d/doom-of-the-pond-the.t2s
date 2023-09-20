@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037770/TheDoomOfThePond(EN).tap.zip
+doom-of-the-pond-the.z80
+--tape-name "TheDoomOfThePond_FurilloProductions_2021.tap"
+--tape-sum dacc2c8cdc74f8e87c0f6989f7006356
+--start 23908
+--sim-load-config machine=128

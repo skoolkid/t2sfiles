@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030363/WillyGames-TheFirst30YearsQuiz.tzx.zip
+willy-games-the-first-30-years-quiz.z80
+--tape-name "WillyGames-TheFirst30YearsQuiz.tzx"
+--tape-sum d2b9533950331eb6f72dcd9844564363
+--start 23316
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037240/SuperMarioFruitMachine2.tzx.zip
+super-mario-fruit-machine-2.z80
+--tape-name "SuperMarioFruitMachine2.tzx"
+--tape-sum 7b4007210354d61eacbc6f187496923d
+--start 23316
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

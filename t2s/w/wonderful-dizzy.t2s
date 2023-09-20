@@ -1,0 +1,9 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036568/WonderfulDizzy.tap.zip
+wonderful-dizzy.z80
+--tape-name "Dizzy VIII - Wonderful Dizzy (2020) v1.5.tap"
+--tape-sum 1ed6542fba0fe9255503ff2ff8107855
+--start 25011
+--sim-load-config machine=128
+--tape-stop 10
+--sim-load-config accelerator=rom
+--sim-load-config finish-tape=1

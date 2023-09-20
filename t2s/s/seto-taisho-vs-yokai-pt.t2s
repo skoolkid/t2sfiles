@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030269/SetoTaishoVsYokai(PT).tzx.zip
+seto-taisho-vs-yokai-pt.z80
+--tape-name "Seto-PT.tzx"
+--tape-sum 3ba802fdf66f096d319ed276007d67f1
+--start 24380
+--sim-load-config machine=128
+--sim-load-config accelerator=bleepload

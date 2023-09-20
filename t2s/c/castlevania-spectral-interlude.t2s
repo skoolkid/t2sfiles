@@ -1,0 +1,9 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030192/Castlevania-SpectralInterlude(EN).tap.zip
+castlevania-spectral-interlude.z80
+--tape-name "castlevania_si_en.tap"
+--tape-sum d5ccd105bf211870797b6646296b41ff
+--start 16800
+--sim-load-config machine=128
+--sim-load-config accelerator=rom
+--tape-stop 24
+--sim-load-config finish-tape=1

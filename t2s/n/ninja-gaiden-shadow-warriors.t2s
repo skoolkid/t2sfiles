@@ -1,0 +1,9 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0032232/NinjaGaidenShadowWarriors.tap.zip
+ninja-gaiden-shadow-warriors.z80
+--tape-name "ngswFINAL.tap"
+--tape-sum 849e6ce9cb65e154f264471450cdea65
+--start 24643
+--sim-load-config machine=128
+--tape-stop 8
+--sim-load-config accelerator=rom
+--sim-load-config finish-tape=1

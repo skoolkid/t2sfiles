@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037968/TheHumans.tap.zip
+humans-the.z80
+--tape-name "THE HUMANS.tap"
+--tape-sum b970885ba81e2a547108c06e80f6fa49
+--start 23316
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

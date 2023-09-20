@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034447/Unhallowed.tap.zip
+unhallowed.z80
+--tape-name "Unhallowed(v1.01).tap"
+--tape-sum 9eb613a95e731f965090570a9e30faba
+--start 34887
+--sim-load-config machine=128

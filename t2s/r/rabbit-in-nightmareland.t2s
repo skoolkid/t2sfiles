@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030246/RabbitInNightmareland.tap.zip
+rabbit-in-nightmareland.z80
+--tape-name "RabbitinNightmareland.tap"
+--tape-sum 52f786e91a05a0d812aef06dacdb38fc
+--start 23316
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

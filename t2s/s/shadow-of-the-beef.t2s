@@ -1,0 +1,8 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031376/ShadowOfTheBeef.tzx.zip
+shadow-of-the-beef.z80
+--tape-name "ShadowOfTheBeef.tzx"
+--tape-sum aabdc4e4182a7584ab9e51d5410e17fb
+--start 23316
+--sim-load-config machine=128
+--tape-stop 6
+--sim-load-config finish-tape=1

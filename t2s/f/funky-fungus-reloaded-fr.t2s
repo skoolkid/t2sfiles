@@ -1,0 +1,8 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035679/FunkyFungusReloaded(FR).tzx.zip
+funky-fungus-reloaded-fr.z80
+--tape-name "FFR-FR.tzx"
+--tape-sum bce2a53fcea787939fad2c5a91490422
+--start 32925
+--sim-load-config machine=128
+--tape-start 5
+--sim-load-config accelerator=bleepload

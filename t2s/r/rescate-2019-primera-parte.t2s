@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035239/Rescate2019(PrimeraParte).tap.zip
+rescate-2019-primera-parte.z80
+--tape-name "Rescate2019(PrimeraParte).tap"
+--tape-sum 8ff11ce0af3f7cc03c789d688cf9d18e
+--start 34905
+--sim-load-config machine=128

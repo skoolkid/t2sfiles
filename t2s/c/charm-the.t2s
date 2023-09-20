@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030106/TheCharm.tzx.zip
+charm-the.z80
+--tape-name "thecharm.tzx"
+--tape-sum fdfea61d93c26f55e1c7e61bf96da5d7
+--start 24204
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

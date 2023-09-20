@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030443/JaneJelly1-TreasureOfZedin(Cassette).tap.zip
+adventures-of-jane-jelly-the-the-treasure-of-zedin.z80
+--tape-name "The Adventures Of Jane Jelly - The Treasure Of Zedin (K7).tap"
+--tape-sum bdb6c86ce1757a8947215c5476381f4f
+--start 23316
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

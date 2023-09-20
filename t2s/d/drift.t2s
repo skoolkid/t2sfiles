@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035158/Drift.tap.zip
+drift.z80
+--tape-name "drift.tap"
+--tape-sum ba476871aade5e4583a65b588d74bf3c
+--start 24649
+--sim-load-config machine=128
