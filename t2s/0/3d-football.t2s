@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038897/Football3D.tap.zip
+3d-football.z80
+--tape-name "Football3D.tap"
+--tape-sum 465ee64361087d2fb50cfa81ffc590be
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037230/SuiteInfernale.tap.zip
+suite-infernale.z80
+--tape-name "SuiteInfernale.tap"
+--tape-sum 90c3c8175c237a1d55cc1e2119c25c7e
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,8 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037187/Spectropoli.tap.zip
+spectropoli.z80
+--tape-name "Spectropoli.tap"
+--tape-sum 0d2ecd051bbb77213752018da0916b7a
+--start 1343
+--tape-start 3
+--sim-load-config 'load=CLEAR 58368: LOAD ""'
+--sim-load-config finish-tape=1

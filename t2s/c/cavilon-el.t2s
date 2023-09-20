@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042026/CavilonEl.tap.zip
+cavilon-el.z80
+--tape-name "CavilonEl.tap"
+--tape-sum 9a6674776aa7417d199efd391e9e6a95
+--start 1343
+--sim-load-config finish-tape=1

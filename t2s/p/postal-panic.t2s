@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038898/PostalPanic.tap.zip
+postal-panic.z80
+--tape-name "PostalPanic.tap"
+--tape-sum 9bcc12fedddc1288c86458011c4212c5
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

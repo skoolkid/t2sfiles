@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038735/HoracioVaiEsquiar.tzx.zip
+horacio-vai-esquiar.z80
+--tape-name "HoracioVaiEsquiar.tzx"
+--tape-sum 25671aabead8530742c5ad8213e336e4
+--start 28497
+--sim-load-config fast-load=0
+--sim-load-config accelerator=rom

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038909/Striker.tap.zip
+striker-benjamin-gordon.z80
+--tape-name "Striker.tap"
+--tape-sum 0c3e05b0cd705ae4b7cf10c5dd5fe793
+--start 1343
+--sim-load-config finish-tape=1

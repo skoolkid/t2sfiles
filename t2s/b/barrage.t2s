@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037086/Barrage.tap.zip
+barrage.z80
+--tape-name "Barrage.tap"
+--tape-sum fb7274ab8442dc0bb03292b5ccfc1280
+--start 1343
+--sim-load-config finish-tape=1

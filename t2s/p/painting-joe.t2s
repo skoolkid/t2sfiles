@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042073/PaintingJoe(16K).tzx.zip
+painting-joe.z80
+--tape-name "PaintingJoe(16K).tzx"
+--tape-sum 964f97c2834db54378fd03025735b71d
+--start 1343
+--sim-load-config finish-tape=1

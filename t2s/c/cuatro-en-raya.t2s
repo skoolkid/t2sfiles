@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038131/CuatroEnRaya.tap.zip
+cuatro-en-raya.z80
+--tape-name "CuatroEnRaya.tap"
+--tape-sum 2bdff60da6c69e4ebdfadf5c24c4823a
+--start 1343
+--sim-load-config finish-tape=1

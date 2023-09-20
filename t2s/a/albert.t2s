@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037146/AlBert.tap.zip
+albert.z80
+--tape-name "AlBert.tap"
+--tape-sum 6afa38b3533adf576b8475cf55b9523b
+--start 1343
+--sim-load-config finish-tape=1

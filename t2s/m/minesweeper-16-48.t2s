@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0032152/MineSweeper1648(16K).tap.zip
+minesweeper-16-48.z80
+--tape-name "MineSweeper16-v1.0.tap"
+--tape-sum c3a94919f63b2dbbf168b4c5c63cb546
+--start 1343
+--sim-load-config finish-tape=1

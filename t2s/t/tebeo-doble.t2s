@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038146/TebeoDoble.tzx.zip
+tebeo-doble.z80
+--tape-name "TebeoDoble.tzx"
+--tape-sum cf29e9795d11f4d6612f7734dfe467b4
+--start 1343
+--sim-load-config finish-tape=1

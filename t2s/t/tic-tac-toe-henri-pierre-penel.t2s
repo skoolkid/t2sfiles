@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037216/TicTacToe.tzx.zip
+tic-tac-toe-henri-pierre-penel.z80
+--tape-name "TicTacToe.tzx"
+--tape-sum 982b3935abbe68a3165a2fa9342f3488
+--start 1343
+--sim-load-config finish-tape=1
