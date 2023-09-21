@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037189/PocMan.tap.zip
+poc-man.z80
+--tape-name "PocMan.tap"
+--tape-sum 7ffb017cb229ede3a4d046e7278b8b5f
+--start 1343
+--sim-load-config finish-tape=1

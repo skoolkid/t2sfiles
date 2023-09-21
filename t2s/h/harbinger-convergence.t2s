@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030313/HarbingerConvergence_SideA(128K).tap.zip
+harbinger-convergence.z80
+--tape-name "Harbinger-Convergence_SIDEA_f.tap"
+--tape-sum 7c2b8a9d66934a1965c1d925c0d11237
+--start 23316
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

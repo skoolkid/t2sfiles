@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031261/ChromatronsAttack(TurboLoader).tzx.zip
+chromatrons-attack.z80
+--tape-name "Chromatrons Attack (Turbo Loader).tzx"
+--tape-sum 95aacdfcf330b5ea99ef28a39a588a29
+--start 32768
+--sim-load-config machine=128
+--sim-load-config accelerator=tiny

@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0032167/Kung-FuToba.tap.zip
+kung-fu-toba.z80
+--tape-name "Kung-FuToba.tap"
+--tape-sum dfb381fd5e684c0901c82bfc2853bcf2
+--start 23316
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

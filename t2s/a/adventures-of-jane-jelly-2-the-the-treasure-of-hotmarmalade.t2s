@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030449/JaneJelly2-TreasureOfHotmarmalade(Cassette)(with_frames).tap.zip
+adventures-of-jane-jelly-2-the-the-treasure-of-hotmarmalade.z80
+--tape-name "The Adventures Of Jane Jelly - The Treasure Of Hotmarmalade (with frames) (K7).tap"
+--tape-sum 7636a26a88f2e22db4f1bd79ff456c4e
+--start 23316
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030161/WWIFightingHeroesAndSomeCrazyAliens.tzx.zip
+wwi-fighting-heroes-and-some-crazy-aliens.z80
+--tape-name "WWIFightingHeroesAndSomeCrazyAliens.tzx"
+--tape-sum eeb755fa9f8f05fd1bedd65c56eee6f5
+--start 1343
+--sim-load-config finish-tape=1

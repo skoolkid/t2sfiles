@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036581/FranticPengo.tap.zip
+frantic-pengo.z80
+--tape-name "fp128k.tap"
+--tape-sum 042b136ded3a22c51fa4e39dac132c9f
+--start 23316
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

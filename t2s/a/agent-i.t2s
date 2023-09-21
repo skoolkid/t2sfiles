@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037353/AgentI.tap.zip
+agent-i.z80
+--tape-name "AgentI.tap"
+--tape-sum bf9b6967876b6bedec8fa131dbc622e1
+--start 23316
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

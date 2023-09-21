@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0006170/Detector.tap.zip
+detector.z80
+--tape-name "Detector.tap"
+--tape-sum 07fb31e898e4acd704b044f354535225
+--start 23316
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

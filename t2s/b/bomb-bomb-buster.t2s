@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037247/BombBombBuster.tap.zip
+bomb-bomb-buster.z80
+--tape-name "BombBombBuster.tap"
+--tape-sum 4b97a13f1b42e49d803e7818ed57697b
+--start 23316
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

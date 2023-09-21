@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0032225/Harbinger2TheVoid_SideB(128K).tap.zip
+harbinger-2-the-void-side-b.z80
+--tape-name "HARB2_SIDEB.tap"
+--tape-sum 486b9a711b242e32a3a9cf80eb43ef8c
+--start 23316
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

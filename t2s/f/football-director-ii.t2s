@@ -1,0 +1,9 @@
+https://worldofspectrum.net/pub/sinclair/games/f/FootballDirectorII.tap.zip
+football-director-ii.z80
+--tape-name "Football Director 2 - 128k.tap"
+--tape-sum 6df9e512133baa4bf0efaa7734f5a52c
+--start 23316
+--tape-stop 85
+--sim-load-config machine=128
+--sim-load-config finish-tape=1
+--sim-load-config timeout=921

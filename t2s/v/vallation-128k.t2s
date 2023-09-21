@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0032157/Vallation(128K).tzx.zip
+vallation-128k.z80
+--tape-name "Vallation128 (final).tzx"
+--tape-sum acdae8c3972d1c4b0fbf4a51c7cf9243
+--start 23316
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

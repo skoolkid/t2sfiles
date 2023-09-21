@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039293/CityConnection128K.tzx.zip
+city-connection-128k.z80
+--tape-name "CityConnection128K.tzx"
+--tape-sum 1aae71ad887e37344492574c4067c8e4
+--start 23316
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

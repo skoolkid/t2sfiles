@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034645/SurvivalZX(EN).tzx.zip
+survival-zx.z80
+--tape-name "SURVIVALZX(english).tzx"
+--tape-sum 993dd42f2e01ba167adf278ed6e87e0f
+--start 24204
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039099/ZXGFX6Memory.tap.zip
+zxgfx-6-memory.z80
+--tape-name "ZXGFX6Memory.tap"
+--tape-sum d827d10e8241d38f616b71e29b727176
+--start 23948
+--sim-load-config machine=128

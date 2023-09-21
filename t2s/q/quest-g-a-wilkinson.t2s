@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037356/Quest.tap.zip
+quest-g-a-wilkinson.z80
+--tape-name "Quest.tap"
+--tape-sum 32553b9f55ddb97ba8ab0fffd221f8cd
+--start 1343
+--sim-load-config finish-tape=1

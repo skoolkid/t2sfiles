@@ -1,0 +1,8 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0028160/FunkyFungus(PT).tzx.zip
+funky-fungus-pt.z80
+--tape-name "FF_turbo_PT.tzx"
+--tape-sum 15a441597d7138a3e2fc2186b27e928d
+--start 45356
+--sim-load-config machine=128
+--sim-load-config accelerator=rom
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036072/Godkiller-NewTimelineEdition.tap.zip
+godkiller-new-timeline-edition.z80
+--tape-name "Godkiller NTE_v2.tap"
+--tape-sum ec2d0ff1303d855772b6c31b36fe0e9f
+--start 23316
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

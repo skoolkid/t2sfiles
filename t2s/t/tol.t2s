@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0005313/Tol.tap.zip
+tol.z80
+--tape-name "Tol.tap"
+--tape-sum 4c75ef137f6d51831eee9f2979f2e6a0
+--start 23316
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

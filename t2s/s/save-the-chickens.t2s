@@ -1,0 +1,8 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037009/SaveTheChickens.tap.zip
+save-the-chickens.z80
+--tape-name "SaveTheChickens.tap"
+--tape-sum 709c67b22c365dfc542640bc3ed57c02
+--start 1343
+--tape-stop 3
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

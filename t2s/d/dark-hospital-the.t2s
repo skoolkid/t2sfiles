@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0032196/TheDarkHospital(v1.02).tap.zip
+dark-hospital-the.z80
+--tape-name "The Dark Hospital v.1.02.tap"
+--tape-sum 62e7eab1df59f60eaeb46d26286ce6fe
+--start 34905
+--sim-load-config machine=128

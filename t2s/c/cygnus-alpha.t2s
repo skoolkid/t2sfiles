@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036522/Cygnus-Alpha.tzx.zip
+cygnus-alpha.z80
+--tape-name "Cygnus - Alpha.tzx"
+--tape-sum 4b4044e61a9ea48b1ca7d1d956efd609
+--start 22499
+--sim-load-config machine=128
+--sim-load-config accelerator=tiny,rom

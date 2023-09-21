@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031074/RescuePlanetEarth.tap.zip
+rescue-planet-earth.z80
+--tape-name "RescuePlanetEarth.tap"
+--tape-sum 73ba870f6052d837b9a95f5af285f8b8
+--start 23316
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

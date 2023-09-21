@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035232/ElMosqueteroDeLaReina(Capitulo1-ElMensajero).tap.zip
+el-mosquetero-de-la-reina-capitulo-1-el-mensajero.z80
+--tape-name "ElMosqueteroDeLaReina(Capitulo1-ElMensajero).tap"
+--tape-sum d01bf393749a7fb24f84c11c8c87fd54
+--start 34905
+--sim-load-config machine=128

@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0005012/SuperCupFootball.tzx.zip
+super-cup-football.z80
+--tape-name "SuperCupFootball.tzx"
+--tape-sum 26d74c40d18ea58a7fb60c0fea479b1b
+--start 65117
+--sim-load-config accelerator=speedlock
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/compilations/s/SpeccyMinigameCollection.tap.zip
+speccy-minigame-collection.z80
+--tape-name "minicoll.tap"
+--tape-sum 63bf57105e1832df7fd4c2c6a63b53b6
+--start 23316
+--sim-load-config machine=128
+--sim-load-config finish-tape=1
