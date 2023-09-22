@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037188/Labirinto.tzx.zip
+labirinto-stefano-bodrato.z80
+--tape-name "Labirinto.tzx"
+--tape-sum de7d5f40cf7c507fcd207c873d550be6
+--start 1343
+--sim-load-config finish-tape=1

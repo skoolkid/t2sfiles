@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030813/SavingJessicaLynch.tap.zip
+saving-jessica-lynch.z80
+--tape-name "SavingJessicaLynch.tap"
+--tape-sum f61235f3477ff651fff8fd9d58c41038
+--start 1343
+--sim-load-config finish-tape=1

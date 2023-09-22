@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031013/AdvancedLawnmowerSimulator3D.tzx.zip
+advanced-lawnmower-simulator-3d.z80
+--tape-name "AdvancedLawnmowerSimulator3D.tzx"
+--tape-sum 4a5942f71008303e48c90e4288bc9822
+--start 1343
+--sim-load-config finish-tape=1

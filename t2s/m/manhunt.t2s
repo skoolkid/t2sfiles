@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0025834/Manhunt.tzx.zip
+manhunt.z80
+--tape-name "Manhunt.tzx"
+--tape-sum 71fc39b2c73fb4333c1d00bdd76801f4
+--start 1343
+--sim-load-config finish-tape=1

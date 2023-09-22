@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042292/TresEnRaya.tap.zip
+tres-en-raya-42292.z80
+--tape-name "TresEnRaya.tap"
+--tape-sum bd84716ed12b1a0d2151cdb0d3de93f5
+--start 1343
+--sim-load-config finish-tape=1

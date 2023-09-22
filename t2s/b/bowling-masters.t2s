@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030779/BowlingMasters.tap.zip
+bowling-masters.z80
+--tape-name "BowlingMasters.tap"
+--tape-sum 1fde7f6ed64c6d0595d06c84cee12de7
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038942/ZXUniverseConquest2022.tap.zip
+zx-universe-conquest-2022.z80
+--tape-name "ZXUniverseConquest2022.tap"
+--tape-sum 060fd5e64111a8dae6c4de6c3358be1a
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036229/VineClimb.tap.zip
+vine-climb.z80
+--tape-name "SP8501w2760VineClimb.TAP"
+--tape-sum bb4e18453b6af363a19dea166cc5715e
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037430/DeadlyWarriorsTheAdventure.tap.zip
+deadly-warriors-the-adventure.z80
+--tape-name "DeadlyWarriorsTheAdventure.tap"
+--tape-sum 846f1c3d370ef450a58340caeb8bdced
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

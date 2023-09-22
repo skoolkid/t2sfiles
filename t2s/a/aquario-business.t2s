@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037296/AquarioBusiness.tzx.zip
+aquario-business.z80
+--tape-name "AquarioBusiness.tzx"
+--tape-sum 9607a0aef440937c4df7f77b87416fbf
+--start 1343
+--sim-load-config finish-tape=1

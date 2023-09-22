@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0009690/DrBongosSafariPark.tzx.zip
+dr-bongos-safari-park.z80
+--tape-name "Dr. Bongo's Safari Park.tzx"
+--tape-sum 3f97b14c5fa938dac90016c7d785643e
+--start 1343
+--sim-load-config finish-tape=1

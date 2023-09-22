@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0003990/RaceTrack.tap.zip
+race-track-icl.z80
+--tape-name "RaceTrack.tap"
+--tape-sum 802a608d978e68dd4239f1244ed6e40f
+--start 1343
+--sim-load-config finish-tape=1

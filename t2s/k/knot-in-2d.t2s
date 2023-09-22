@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031058/KnotIn2D.tzx.zip
+knot-in-2d.z80
+--tape-name "KnotIn2D.tzx"
+--tape-sum 349a9a017a6ad6ba53e2bb211cca9cb5
+--start 1343
+--sim-load-config finish-tape=1

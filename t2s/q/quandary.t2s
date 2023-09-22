@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030810/Quandary.tap.zip
+quandary.z80
+--tape-name "Quandary.tap"
+--tape-sum bb1be7e864aecf97d79ad05c314ae398
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

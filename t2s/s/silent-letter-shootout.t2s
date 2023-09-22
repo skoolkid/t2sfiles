@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031078/SilentLetterShootout.tzx.zip
+silent-letter-shootout.z80
+--tape-name "SilentLetterShootout.tzx"
+--tape-sum 18ba328d361dc803b2fafe5bcb44bda5
+--start 1343
+--sim-load-config finish-tape=1

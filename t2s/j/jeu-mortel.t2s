@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037015/JeuMortel.tzx.zip
+jeu-mortel.z80
+--tape-name "JeuMortel.tzx"
+--tape-sum 9654270056afb4138514d994ba1b08fb
+--start 1343
+--sim-load-config finish-tape=1

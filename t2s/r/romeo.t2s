@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037198/Romeo.tap.zip
+romeo.z80
+--tape-name "Romeo.tap"
+--tape-sum 16ae9d29373d794eeb8edcd773c09000
+--start 1343
+--sim-load-config finish-tape=1

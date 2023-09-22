@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030821/StripStone-Paper-Scissors.tap.zip
+strip-stone-paper-scissors.z80
+--tape-name "StripStone-Paper-Scissors.tap"
+--tape-sum 1c9782938b1563bc2d6b7552e11b4e0d
+--start 1343
+--sim-load-config finish-tape=1

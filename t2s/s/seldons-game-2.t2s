@@ -1,0 +1,9 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038516/SeldonsGame.tap.zip
+seldons-game-2.z80
+--tape-name "SeldonsGame.tap"
+--tape-sum 7bf526f4399ffa40531ba93fe0c0b70b
+--start 1343
+--tape-start 3
+--tape-stop 5
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

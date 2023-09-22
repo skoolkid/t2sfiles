@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042270/BunnyRabbit.tzx.zip
+bunny-rabbit.z80
+--tape-name "BunnyRabbit.tzx"
+--tape-sum feec89721a31647c04edd1f96662a0ac
+--start 1343
+--sim-load-config finish-tape=1

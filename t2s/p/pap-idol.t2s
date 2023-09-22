@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030809/PapIdol.tap.zip
+pap-idol.z80
+--tape-name "PapIdol.tap"
+--tape-sum f52dc297ffd900bd03b1b7f82b3e0d55
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036218/SmokeStack.tap.zip
+smoke-stack.z80
+--tape-name "SP8402w1624BlockEm.TAP"
+--tape-sum 5cec167cf1de1c7d4a56b6ed51af4eaf
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036212/AppleNosh.tap.zip
+apple-nosh.z80
+--tape-name "SP8402w1654AppleNosh.TAP"
+--tape-sum 40e8896e365cd91146c73e801fb1fd83
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

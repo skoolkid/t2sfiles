@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031045/EscapeFromNiburonPrime.tap.zip
+escape-from-niburon-prime.z80
+--tape-name "EscapeFromNiburonPrime.tap"
+--tape-sum 0dcc33091efa64de370581047c713ea0
+--start 1343
+--sim-load-config finish-tape=1

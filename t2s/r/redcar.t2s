@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0017941/Redcar.tap.zip
+redcar.z80
+--tape-name "Redcar.tap"
+--tape-sum 997a91a1c01b540264ac92c07775c69c
+--start 1343
+--sim-load-config finish-tape=1

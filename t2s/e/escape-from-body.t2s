@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031044/EscapeFromBody.tzx.zip
+escape-from-body.z80
+--tape-name "EscapeFromBody.tzx"
+--tape-sum 4f5914f9c4fce806b8558bc41cc1502d
+--start 1343
+--sim-load-config finish-tape=1

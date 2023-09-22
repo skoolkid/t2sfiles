@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031113/Minemower.tap.zip
+minemower.z80
+--tape-name "Minemower.tap"
+--tape-sum aa2abd5d7f96a8317dc1746bd71b827b
+--start 1343
+--sim-load-config finish-tape=1

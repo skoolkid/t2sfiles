@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038969/Venture16.tap.zip
+venture-16.z80
+--tape-name "Venture16.tap"
+--tape-sum a0b77f6010069a721ea74aafb92a08b4
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037685/HoraceAndTheVikings.tap.zip
+horace-and-the-vikings.z80
+--tape-name "HORACEROBBER.TAP"
+--tape-sum 91ff23fe2537f469a80032d5a9ee6fc1
+--start 1343
+--sim-load-config finish-tape=1

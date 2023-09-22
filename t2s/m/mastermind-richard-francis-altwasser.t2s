@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018709/Mastermind_2.tzx.zip
+mastermind-richard-francis-altwasser.z80
+--tape-name "Mastermind.tzx"
+--tape-sum 3c7a549c50b394a69ea771d4c57fa03b
+--start 1343
+--sim-load-config finish-tape=1

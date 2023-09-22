@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036062/LittleManComputer.tap.zip
+little-man-computer.z80
+--tape-name "LMC.tap"
+--tape-sum 1f7a2d497729abe91937a6bc72630998
+--start 1343
+--sim-load-config finish-tape=1

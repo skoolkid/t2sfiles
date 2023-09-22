@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037641/Cretans.tap.zip
+cretans.z80
+--tape-name "cretans.tap"
+--tape-sum 36195912c1c62f4e78cfd998594982b8
+--start 1343
+--sim-load-config finish-tape=1

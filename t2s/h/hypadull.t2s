@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030794/Hypadull.tap.zip
+hypadull.z80
+--tape-name "Hypadull.tap"
+--tape-sum 309639b6fd2a434a7e7938875c55f84c
+--start 1343
+--sim-load-config finish-tape=1

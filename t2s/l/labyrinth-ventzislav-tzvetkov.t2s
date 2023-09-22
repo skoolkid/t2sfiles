@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030796/Labyrinth.tap.zip
+labyrinth-ventzislav-tzvetkov.z80
+--tape-name "Labyrinth.tap"
+--tape-sum 13ed401753bacc77d4543aaffa031694
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

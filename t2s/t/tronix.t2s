@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037202/Tronix.tap.zip
+tronix.z80
+--tape-name "Tronix.tap"
+--tape-sum 2d175a8301fc0576ac98273e9b759466
+--start 1343
+--sim-load-config finish-tape=1

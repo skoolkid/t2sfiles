@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030804/MicrosoftFlightSimulator-AlQaedaEdition.tzx.zip
+microsoft-flight-simulator-al-qaeda-edition.z80
+--tape-name "MicrosoftFlightSimulator-AlQaedaEdition.tzx"
+--tape-sum 27aec46daef086a67844358be2eec333
+--start 1343
+--sim-load-config finish-tape=1

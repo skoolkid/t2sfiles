@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037043/ShootingParlour.tap.zip
+shooting-parlour.z80
+--tape-name "ShootingParlour.tap"
+--tape-sum 4971ab4b3c9c30e5adfb1b60dd8d3748
+--start 1343
+--sim-load-config finish-tape=1

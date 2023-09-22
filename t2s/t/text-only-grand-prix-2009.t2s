@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031086/Text-OnlyGrandPrix2009.tzx.zip
+text-only-grand-prix-2009.z80
+--tape-name "Text-OnlyGrandPrix2009.tzx"
+--tape-sum 5f4df47e8cf2b7b420bd24545346afc6
+--start 1343
+--sim-load-config finish-tape=1

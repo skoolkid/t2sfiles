@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035093/BreakingTheIce.tap.zip
+breaking-the-ice.z80
+--tape-name "BreakingTheIce.tap"
+--tape-sum aa17d6b5633ba33933edb47ba9060f0f
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

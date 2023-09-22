@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037938/ElTemplo.tzx.zip
+templo-el.z80
+--tape-name "El Templo.tzx"
+--tape-sum 1c104959f8932535a099d1af2e099fad
+--start 1343
+--sim-load-config finish-tape=1

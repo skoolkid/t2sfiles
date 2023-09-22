@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037201/Crashtown.tap.zip
+crashtown.z80
+--tape-name "Crashtown.tap"
+--tape-sum 5ca4b6703d9a5f783112de9ecbb7644b
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037552/TankBattle.tap.zip
+tank-battle-kweepa.z80
+--tape-name "TankBattle.tap"
+--tape-sum 97f6797d2f7353d4803f5caf280a3f4a
+--start 1343
+--sim-load-config finish-tape=1

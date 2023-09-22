@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038864/PaulsSecondMissionaryJourney.tzx.zip
+pauls-second-missionary-journey.z80
+--tape-name "PaulsSecondMissionaryJourney.tzx"
+--tape-sum c30f3f284f0d51e45e4a4770875e7359
+--start 1343
+--sim-load-config finish-tape=1

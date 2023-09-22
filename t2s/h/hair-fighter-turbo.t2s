@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030792/HairFighterTurbo.tap.zip
+hair-fighter-turbo.z80
+--tape-name "HairFighterTurbo.tap"
+--tape-sum b9da0ef81e68e7fddca899b1151c987c
+--start 1343
+--sim-load-config finish-tape=1

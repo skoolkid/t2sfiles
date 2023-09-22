@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042362/Egolf.tap.zip
+egolf.z80
+--tape-name "Egolf.tap"
+--tape-sum 07728bd063cc96fa1a74619676c9e1c8
+--start 1343
+--sim-load-config finish-tape=1

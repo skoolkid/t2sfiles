@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031449/ReturnInkToMoveCatInToABin.tap.zip
+return-ink-to-move-cat-in-to-a-bin.z80
+--tape-name "ReturnInkToMoveCatInToABin.tap"
+--tape-sum 7ac784d42fd2dbb48cd298e265545c0a
+--start 1343
+--sim-load-config finish-tape=1

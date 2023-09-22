@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042139/Palos.tap.zip
+palos.z80
+--tape-name "Palos.tap"
+--tape-sum 6a45c383856c811ba5aacb9b4743ee8d
+--start 1343
+--sim-load-config finish-tape=1

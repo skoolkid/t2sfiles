@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030751/SimplifiedCraps.tap.zip
+simplified-craps.z80
+--tape-name "simplified_craps.tap"
+--tape-sum 314197685fffa5de4b01cc8982288b4a
+--start 1343
+--sim-load-config finish-tape=1

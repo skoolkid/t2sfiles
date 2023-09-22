@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031154/GuessTheNumber.tap.zip
+guess-the-number.z80
+--tape-name "GuessTheNumber.tap"
+--tape-sum a687b84cb02f09e8d35c75f1f629eb5f
+--start 1343
+--sim-load-config finish-tape=1

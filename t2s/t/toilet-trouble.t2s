@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039179/ToiletTrouble.tap.zip
+toilet-trouble.z80
+--tape-name "ToiletTrouble.tap"
+--tape-sum 8881be7a09ad161aab076b8e0f5167bb
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

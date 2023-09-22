@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0019386/Vec-Man.tzx.zip
+vec-man.z80
+--tape-name "Vec-Man.tzx"
+--tape-sum 2a327c9dc6c1cf277b917aa5e70f0aff
+--start 1343
+--sim-load-config finish-tape=1

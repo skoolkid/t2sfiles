@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031163/MeteoriteMan(orWoman).tap.zip
+meteorite-man-or-woman.z80
+--tape-name "MeteoriteMan(orWoman).tap"
+--tape-sum 2901c5159555f6f8ca810066663820ec
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037477/CrapGamesCompetition-TheAdventure2008.tap.zip
+crap-games-competition-the-adventure-2008.z80
+--tape-name "CrapGamesCompetition-TheAdventure2008.tap"
+--tape-sum 772b7f3e08df2b862d129e30643ebe88
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

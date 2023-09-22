@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030746/FerrariDrivingExperience.tzx.zip
+ferrari-driving-experience.z80
+--tape-name "ferrari_driving_experience.tzx"
+--tape-sum cdc12333307dfd8931432dc0ae34c92f
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037109/Bastilude.tap.zip
+bastilude.z80
+--tape-name "Bastilude.tap"
+--tape-sum 397ebe03b2cb476f552723f7a42e4400
+--start 1343
+--sim-load-config finish-tape=1

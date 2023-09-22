@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036226/Piglet.tap.zip
+piglet.z80
+--tape-name "SP8501w2752Piglet.TAP"
+--tape-sum 620c2e31eb0e399790e714e357cfc659
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0027051/Kamikaze.tzx.zip
+kamikaze-pascal-pellier.z80
+--tape-name "Kamikaze.tzx"
+--tape-sum 00cff98af93b1cd75f9d3a8c4c2d74a9
+--start 32278
+--sim-load-config accelerator=rom

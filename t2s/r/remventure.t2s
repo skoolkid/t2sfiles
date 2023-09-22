@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031448/REMventure.tap.zip
+remventure.z80
+--tape-name "REMventure.tap"
+--tape-sum b4552f6c81fa9706c614a7336b28cd02
+--start 1343
+--sim-load-config finish-tape=1

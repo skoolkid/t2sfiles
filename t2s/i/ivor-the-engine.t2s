@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030748/IvorTheEngine.tzx.zip
+ivor-the-engine.z80
+--tape-name "ivor.tzx"
+--tape-sum 421afbfa3cf7a4f8da43219bbfe61934
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

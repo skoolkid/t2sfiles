@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038770/DisplayFileHunter.tzx.zip
+display-file-hunter.z80
+--tape-name "DisplayFileHunter.tzx"
+--tape-sum ad9da7a0ecb1644f3c41b5bc41570f6f
+--start 1343
+--sim-load-config finish-tape=1

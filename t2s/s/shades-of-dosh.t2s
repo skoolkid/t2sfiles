@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031124/ShadesOfDosh.tap.zip
+shades-of-dosh.z80
+--tape-name "ShadesOfDosh.tap"
+--tape-sum bdb90cd11ebd8130e2cdedc0dca0ccc2
+--start 1343
+--sim-load-config finish-tape=1

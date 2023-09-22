@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042118/DamasChinas.tzx.zip
+damas-chinas-gregorio-ferrero.z80
+--tape-name "DamasChinas.tzx"
+--tape-sum 645a6dd8f039086fc2a18ff52372cc15
+--start 1343
+--sim-load-config finish-tape=1

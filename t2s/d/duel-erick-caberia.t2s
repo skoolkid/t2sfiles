@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037199/Duel.tap.zip
+duel-erick-caberia.z80
+--tape-name "Duel.tap"
+--tape-sum 27e661008a96a1ce3819a4372e2025cb
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042031/ColosoEnLlamasEl.tzx.zip
+coloso-en-llamas-el.z80
+--tape-name "ColosoEnLlamasEl.tzx"
+--tape-sum d452d1c57aa7dd28dbbfbd19d88a4068
+--start 1343
+--sim-load-config finish-tape=1

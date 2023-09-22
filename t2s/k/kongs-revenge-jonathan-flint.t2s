@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038674/KongsRevenge.tap.zip
+kongs-revenge-jonathan-flint.z80
+--tape-name "KongsRevenge.tap"
+--tape-sum bcc0871cf0af672637640066db08979f
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

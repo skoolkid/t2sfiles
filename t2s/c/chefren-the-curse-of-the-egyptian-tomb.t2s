@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037343/CHEFREN-TheCurseOfTheEgyptianTomb.tap.zip
+chefren-the-curse-of-the-egyptian-tomb.z80
+--tape-name "CHEFREN-TheCurseOfTheEgyptianTomb.tap"
+--tape-sum 874861d6c26fe969e07629b248bc0177
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031065/MoreTeaVicar.tzx.zip
+more-tea-vicar-gavin-callard.z80
+--tape-name "MoreTeaVicar.tzx"
+--tape-sum be7ae75eb68ff37baf2c73459dfb9c4a
+--start 1343
+--sim-load-config finish-tape=1

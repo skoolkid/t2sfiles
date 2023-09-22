@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031066/MrYellowMeetsMrCyan.tap.zip
+mr-yellow-meets-mr-cyan.z80
+--tape-name "MrYellowMeetsMrCyan.tap"
+--tape-sum d180e1a4558f37160c902d333ebd5181
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038965/Spider.tap.zip
+spider.z80
+--tape-name "Spider.tap"
+--tape-sum ebc3c4098aff24154b0b3158ffc84dd8
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

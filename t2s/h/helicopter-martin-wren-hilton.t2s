@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042421/Helicopter.tap.zip
+helicopter-martin-wren-hilton.z80
+--tape-name "Helicopter.tap"
+--tape-sum 5c30313a96aec4387ccf30be43e88fa3
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037181/AdvancedBridgeBuildingSimulator.tap.zip
+advanced-bridge-building-simulator.z80
+--tape-name "AdvancedBridgeBuildingSimulator.tap"
+--tape-sum 1eda13ef8727de17129afb80757affe7
+--start 1343
+--sim-load-config finish-tape=1

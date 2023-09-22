@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034339/Line.tap.zip
+line.z80
+--tape-name "Line one liner 1.2.tap"
+--tape-sum a6456d5bdceb21ecabdad9e02dc7cd29
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

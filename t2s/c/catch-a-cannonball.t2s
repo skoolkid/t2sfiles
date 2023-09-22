@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036214/CatchACannonBall.tap.zip
+catch-a-cannonball.z80
+--tape-name "SP8402w1652CatchACannonball.TAP"
+--tape-sum 0fa9ebc31594ec0cb3ad4a37f94e45af
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

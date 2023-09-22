@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036220/CollectAKey.tap.zip
+collect-a-key.z80
+--tape-name "SP8501w2760CollectAKey.TAP"
+--tape-sum 9f6639cb8cafbdc7b37697b2c9b06c18
+--start 1343
+--sim-load-config finish-tape=1

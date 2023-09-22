@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030830/VulcanBomber.tap.zip
+vulcan-bomber.z80
+--tape-name "VulcanBomber.tap"
+--tape-sum a7d543963214a2d7d4059ee6069ff360
+--start 1343
+--sim-load-config 'load=LOAD "": RUN'
+--sim-load-config finish-tape=1

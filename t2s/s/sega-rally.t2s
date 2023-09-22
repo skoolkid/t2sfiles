@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030815/SegaRally.tzx.zip
+sega-rally.z80
+--tape-name "SegaRally.tzx"
+--tape-sum a142d44e0b9b6207e3a6d003992acdf2
+--start 1343
+--sim-load-config finish-tape=1

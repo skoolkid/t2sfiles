@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030814/ScissorsPaperStone.tap.zip
+scissors-paper-stone.z80
+--tape-name "ScissorsPaperStone.tap"
+--tape-sum 9874b526aac552ea7488b5cb4398c92a
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

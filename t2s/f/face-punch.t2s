@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039086/FacePunch.tap.zip
+face-punch.z80
+--tape-name "FacePunch.tap"
+--tape-sum d82b3173835462664e02ce84917ab6ec
+--start 1343
+--sim-load-config finish-tape=1

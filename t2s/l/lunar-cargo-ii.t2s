@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036748/LunarCargoII.tap.zip
+lunar-cargo-ii.z80
+--tape-name "LunarCargoII.tap"
+--tape-sum f382e38848cab61764577644c2a01bd1
+--start 1343
+--sim-load-config finish-tape=1
