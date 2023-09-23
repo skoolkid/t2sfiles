@@ -4,7 +4,7 @@
 ; game's keyboard-reading routines work. (The Z80 snapshot format has no slot
 ; for the last OUT to port 0xFE.)
 
-https://skoolkit.ca/tapes/Priest&Vampire.tzx.zip
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0005536/Priest&Vampire.tzx.zip
 priest-and-vampire.z80
 --sim-load
 --tape-name "Priest&Vampire.tzx"
