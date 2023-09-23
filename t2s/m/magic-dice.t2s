@@ -1,0 +1,7 @@
+; Contributed by Bedazzle
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0002980/MagicDice.tzx.zip
+magic-dice.z80
+--sim-load
+--tape-name "MagicDice.tzx"
+--tape-sum 8e3a6fcccecb42173faa206f7a0bc651
+--start 24200

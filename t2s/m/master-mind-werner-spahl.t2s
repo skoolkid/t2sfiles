@@ -1,0 +1,8 @@
+; Contributed by Bedazzle
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0003053/MasterMind.tap.zip
+master-mind-werner-spahl.z80
+--sim-load
+--tape-name "MMIND.TAP"
+--tape-sum e143288c8ad7f68e0eb09b4a0469b314
+--start 1343
+--sim-load-config finish-tape=1
