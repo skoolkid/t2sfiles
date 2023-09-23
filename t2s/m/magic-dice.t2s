@@ -5,4 +5,3 @@ magic-dice.z80
 --tape-name "MagicDice.tzx"
 --tape-sum 8e3a6fcccecb42173faa206f7a0bc651
 --start 24200
---sim-load-config finish-tape=1
