@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038153/BuntersLastStand.tap.zip
+bunters-last-stand.z80
+--tape-name "Bunter’sLastStand.tap"
+--tape-sum e2f7ca249e847d3a19af7891ed42ac15
+--start 1343
+--sim-load-config finish-tape=1

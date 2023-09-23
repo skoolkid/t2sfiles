@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038844/FoxAtDusk.tzx.zip
+fox-at-dusk.z80
+--tape-name "FoxAtDusk.tzx"
+--tape-sum 01a055d3376d4640c009ef4ec80bd026
+--start 1343
+--sim-load-config finish-tape=1

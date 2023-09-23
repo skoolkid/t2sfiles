@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031025/Bounce(PreviewEdition).tap.zip
+bounce-preview-edition.z80
+--tape-name "Bounce(PreviewEdition).tap"
+--tape-sum f54993c4a16b70c71ecccebbfa6e85ae
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037636/MentalRally.tap.zip
+mental-rally.z80
+--tape-name "MENTALRALLY.TAP"
+--tape-sum e2d38c86074b03f27f2e71c488e04271
+--start 1343
+--sim-load-config finish-tape=1

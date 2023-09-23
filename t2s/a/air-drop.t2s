@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038967/AirDrop.tap.zip
+air-drop.z80
+--tape-name "AirDrop.tap"
+--tape-sum 3eb400540a4c82b8e875e4e991ed302e
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

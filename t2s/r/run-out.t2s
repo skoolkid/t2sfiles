@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039126/RunOut.tzx.zip
+run-out.z80
+--tape-name "RunOut.tzx"
+--tape-sum 5a0082facd48a5bcbb6eb99088da3847
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

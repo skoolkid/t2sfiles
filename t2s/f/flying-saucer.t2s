@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037021/FlyingSaucer.tzx.zip
+flying-saucer.z80
+--tape-name "FlyingSaucer.tzx"
+--tape-sum 43bd6499ccff4bdc90b3522d9477d6a3
+--start 1343
+--sim-load-config finish-tape=1

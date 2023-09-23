@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0020118/Moortown.tzx.zip
+moortown.z80
+--tape-name "Moortown.tzx"
+--tape-sum ba5c75b331bff6a8ef10f6513391e229
+--start 1343
+--sim-load-config finish-tape=1

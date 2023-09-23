@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036708/CargoVessel.tap.zip
+cargo-vessel.z80
+--tape-name "CargoVessel.tap"
+--tape-sum a02071a85fd260bc4f3bf1a8d4fda7cc
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036700/LupicKuba.tap.zip
+lupic-kuba.z80
+--tape-name "LupicKuba.tap"
+--tape-sum fff2c0111cdb7ca645e44c451d2962b2
+--start 1343
+--sim-load-config finish-tape=1

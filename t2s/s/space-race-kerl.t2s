@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042062/SpaceRace.tap.zip
+space-race-kerl.z80
+--tape-name "SpaceRace.tap"
+--tape-sum cabfd0dfe2564e89432cd0bb5456c16a
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039133/ChatGPT.tap.zip
+chat-gpt.z80
+--tape-name "ChatGPT.tap"
+--tape-sum 8c28da616e16fbc150fabbcdc40e494d
+--start 1343
+--sim-load-config finish-tape=1

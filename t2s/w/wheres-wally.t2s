@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031465/WheresWally.tap.zip
+wheres-wally.z80
+--tape-name "WheresWally.tap"
+--tape-sum a34e230f26b590918dc2392470915eea
+--start 1343
+--sim-load-config finish-tape=1

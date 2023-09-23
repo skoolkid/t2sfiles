@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038795/TestMatch.tap.zip
+test-match-mark-white.z80
+--tape-name "TestMatch.tap"
+--tape-sum b1d6f3bc04f0f2e47ec8d03251798e91
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

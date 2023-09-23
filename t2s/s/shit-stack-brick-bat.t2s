@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031077/ShitStackBrickBat.tap.zip
+shit-stack-brick-bat.z80
+--tape-name "ShitStackBrickBat.tap"
+--tape-sum f8fcd98b73edbcb9cdf3518b62f000c8
+--start 1343
+--sim-load-config finish-tape=1

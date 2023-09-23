@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038968/ManhattanInvasion.tap.zip
+manhattan-invasion.z80
+--tape-name "ManhattanInvasion.tap"
+--tape-sum 19279070628daa96d72a09f4d06cc8d8
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037019/Force.tzx.zip
+force.z80
+--tape-name "Force.tzx"
+--tape-sum 8c5c107e3c01b2593facc0d08218daa8
+--start 1343
+--sim-load-config finish-tape=1

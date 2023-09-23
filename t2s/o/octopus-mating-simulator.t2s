@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037634/OctopusMatingSimulator.tap.zip
+octopus-mating-simulator.z80
+--tape-name "PULPA.TAP"
+--tape-sum 181d01ca4627381d919a7f6030d6cb09
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

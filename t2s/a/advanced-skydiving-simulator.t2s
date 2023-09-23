@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030768/AdvancedSkydivingSimulator.tap.zip
+advanced-skydiving-simulator.z80
+--tape-name "AdvancedSkydivingSimulator.tap"
+--tape-sum ec1847e7bcd9d0f63d48ceeae943f482
+--start 1343
+--sim-load-config 'load=LOAD "": RUN'
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038863/PaulsFirstMissionaryJourney.tzx.zip
+pauls-first-missionary-journey.z80
+--tape-name "PaulsFirstMissionaryJourney.tzx"
+--tape-sum 6d7ac8f05de510cb31daaaaeb74c178c
+--start 1343
+--sim-load-config finish-tape=1

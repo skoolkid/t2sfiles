@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036743/ESPECTRON(beta).tap.zip
+espectron.z80
+--tape-name "ESPECTRON.tap"
+--tape-sum 47ee6db64713aba79eb46ab97b53baf9
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036462/ZXSuperSpelunkyUltimate.tap.zip
+zx-super-spelunky-ultimate.z80
+--tape-name "ssszx.tap"
+--tape-sum d15976cd48c0fd80cca1a758bbb23389
+--start 1343
+--sim-load-config finish-tape=1

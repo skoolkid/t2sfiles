@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037186/Saturno.tap.zip
+saturno.z80
+--tape-name "Saturno.tap"
+--tape-sum 98278f632a3bfc6478f5729b54685e5a
+--start 1343
+--sim-load-config finish-tape=1

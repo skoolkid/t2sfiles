@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036234/Golfer.tap.zip
+golfer.z80
+--tape-name "Golfer.tap"
+--tape-sum ea72fc519b57306f80d4ade5aa62b48a
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

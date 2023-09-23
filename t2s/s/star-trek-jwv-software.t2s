@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018995/StarTrek.tzx.zip
+star-trek-jwv-software.z80
+--tape-name "StarTrek.tzx"
+--tape-sum 76a5a2ee476a6a9b2e232c183adfe6e1
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

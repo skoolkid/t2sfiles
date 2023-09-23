@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034883/Zombie.tzx.zip
+zombie.z80
+--tape-name "Zombie - ZX Power.TZX"
+--tape-sum 2b71d883226745001864c16465c324b8
+--start 1343
+--sim-load-config finish-tape=1

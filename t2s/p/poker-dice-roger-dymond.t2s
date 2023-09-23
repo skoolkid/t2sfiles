@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0015889/PokerDice.tzx.zip
+poker-dice-roger-dymond.z80
+--tape-name "Poker Dice.TZX"
+--tape-sum 5ea4bf74945d1caa9cb6ce7184727815
+--start 1343
+--sim-load-config finish-tape=1

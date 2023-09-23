@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036752/DoughnutHeist.tap.zip
+doughnut-heist.z80
+--tape-name "DoughnutHeist.tap"
+--tape-sum 947af1649857c881fdcb6ea1bbee3e2b
+--start 1343
+--sim-load-config finish-tape=1

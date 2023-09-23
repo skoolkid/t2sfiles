@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038199/AirUp.tap.zip
+air-up.z80
+--tape-name "AirUp.tap"
+--tape-sum 9025ece8d8c5de90b1fd53cba18ec5a1
+--start 1343
+--sim-load-config finish-tape=1

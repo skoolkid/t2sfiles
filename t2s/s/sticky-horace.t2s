@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037139/StickyHorace.tap.zip
+sticky-horace.z80
+--tape-name "StickyHorace.tap"
+--tape-sum 39129d7a7df0b9b8c2d73121cbe6bc18
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037012/Reversi-Dame.tzx.zip
+reversi-dame.z80
+--tape-name "Reversi-Dame.tzx"
+--tape-sum 45a1a3eb3ef2498bf888521b0c6fb1ef
+--start 1343
+--sim-load-config finish-tape=1

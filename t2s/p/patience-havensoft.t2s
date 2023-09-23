@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0010036/Patience.tzx.zip
+patience-havensoft.z80
+--tape-name "Patience.tzx"
+--tape-sum 60cf8c388654fc01347839eb522865e0
+--start 1343
+--sim-load-config finish-tape=1

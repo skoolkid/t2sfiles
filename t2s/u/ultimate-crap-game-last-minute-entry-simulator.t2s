@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031095/UltimateCrapGameLastMinuteEntrySimulator.tap.zip
+ultimate-crap-game-last-minute-entry-simulator.z80
+--tape-name "UltimateCrapGameLastMinuteEntrySimulator.tap"
+--tape-sum 3861d031a35b44acbc08f233b49742cc
+--start 1343
+--sim-load-config finish-tape=1

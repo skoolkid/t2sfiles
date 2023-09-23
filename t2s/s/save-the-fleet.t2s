@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038200/SaveTheFleet.tap.zip
+save-the-fleet.z80
+--tape-name "SaveTheFleet.tap"
+--tape-sum fa68fd1f062a42616489e3c5f38359b9
+--start 1343
+--sim-load-config finish-tape=1

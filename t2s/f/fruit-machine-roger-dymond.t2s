@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0015888/FruitMachine.tzx.zip
+fruit-machine-roger-dymond.z80
+--tape-name "Fruit Machine.TZX"
+--tape-sum faaecd513faf8bed52dbc80e08ef9371
+--start 1343
+--sim-load-config finish-tape=1

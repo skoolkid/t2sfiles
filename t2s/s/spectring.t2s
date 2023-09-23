@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036663/Spectring.tzx.zip
+spectring.z80
+--tape-name "Spectring.tzx"
+--tape-sum 3b07ea8b72d20aa13a3626c644587d47
+--start 1343
+--sim-load-config finish-tape=1

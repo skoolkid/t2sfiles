@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036223/Dragonfly.tap.zip
+dragonfly.z80
+--tape-name "SP8501w2754Dragonflies.TAP"
+--tape-sum 988c5fb64d3d417e3c97cb55264bfb50
+--start 1343
+--sim-load-config finish-tape=1

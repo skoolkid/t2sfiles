@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037494/CIA.tzx.zip
+cia.z80
+--tape-name "CIA.tzx"
+--tape-sum 7082e2d00965e62774b617b60d9aa860
+--start 1343
+--sim-load-config finish-tape=1

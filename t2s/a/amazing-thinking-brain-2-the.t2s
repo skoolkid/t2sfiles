@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031458/ThinkingBrain2The.tap.zip
+amazing-thinking-brain-2-the.z80
+--tape-name "ThinkingBrain2The.tap"
+--tape-sum 507befa134d3b4852a41990eebc11526
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

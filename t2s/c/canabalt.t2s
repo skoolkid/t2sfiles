@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030182/Canabalt.tap.zip
+canabalt.z80
+--tape-name "CANABALT.TAP"
+--tape-sum ca8d5c0eac25fedae82d5563150d43a7
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039093/Asteroids.tap.zip
+asteroids-jorge-brinas.z80
+--tape-name "Asteroids.tap"
+--tape-sum 3d7822c835220baac87c5d4772d4fdfb
+--start 1343
+--sim-load-config finish-tape=1

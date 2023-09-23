@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038778/Grattacielo.tzx.zip
+grattacielo.z80
+--tape-name "Grattacielo.tzx"
+--tape-sum 3a6d795e0138c840ffd797fe45899823
+--start 1343
+--sim-load-config finish-tape=1

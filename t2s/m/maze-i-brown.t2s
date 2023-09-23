@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0026911/Maze(Game).tap.zip
+maze-i-brown.z80
+--tape-name "YC 1983-11 - 208 - Maze (Game).tap"
+--tape-sum 18f3cf0670c5c226cfa660aca333cc6b
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037437/RedefineKeysTheAdventure2008.tap.zip
+redefine-keys-the-adventure-2008.z80
+--tape-name "RedefineKeysTheAdventure2008.tap"
+--tape-sum 03b99b9bdc8e979cb048b980bc344aea
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

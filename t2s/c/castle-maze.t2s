@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042365/CastleMaze.tap.zip
+castle-maze.z80
+--tape-name "CastleMaze.tap"
+--tape-sum f436170f373b701609203db43a37500f
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030752/SirClivesDragonMission.tap.zip
+sir-clives-dragon-mission.z80
+--tape-name "dragon.tap"
+--tape-sum 34c091713a4d224b068ce52747e7e2ff
+--start 1343
+--sim-load-config finish-tape=1

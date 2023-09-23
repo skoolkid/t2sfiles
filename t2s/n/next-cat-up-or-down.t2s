@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031437/NextCatUpOrDown.tap.zip
+next-cat-up-or-down.z80
+--tape-name "NextCatUpOrDown.tap"
+--tape-sum f26f45c1cf7e30c193b2e738f9d2fa0d
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031034/DharmaInitiativeSwanStationComputerSimulator.tzx.zip
+dharma-initiative-swan-station-computer-simulator.z80
+--tape-name "DharmaInitiativeSwanStationComputerSimulator.tzx"
+--tape-sum 8f01cc8e70d134a8686512f66617267a
+--start 1343
+--sim-load-config finish-tape=1

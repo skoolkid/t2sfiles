@@ -1,0 +1,8 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034701/OneKick.tap.zip
+one-kick.z80
+--tape-name "Onekick.tap"
+--tape-sum 924b28e4028073ff372bcfea0854e7d2
+--start 1343
+--tape-stop 3
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031439/PainTheLineRed.tap.zip
+paint-the-line-red.z80
+--tape-name "PainTheLineRed.tap"
+--tape-sum 7f7aa81d7a336a7f46b8ec41da72e62a
+--start 1343
+--sim-load-config finish-tape=1

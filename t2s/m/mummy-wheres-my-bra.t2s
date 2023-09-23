@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031436/MummyWheresMyBra.tap.zip
+mummy-wheres-my-bra.z80
+--tape-name "MummyWheresMyBra.tap"
+--tape-sum 1091f43c650531c3d11a14e9591debb5
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036219/CavemanGus.tap.zip
+caveman-gus.z80
+--tape-name "SP8501w2756CavemanGus.TAP"
+--tape-sum eeb053a7e7e6c914141ce561ed88335e
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

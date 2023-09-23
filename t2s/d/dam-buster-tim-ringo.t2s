@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0013283/DamBuster.tap.zip
+dam-buster-tim-ringo.z80
+--tape-name "DamBuster.tap"
+--tape-sum 536d5f8688a297e5be5baf4a870838a2
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031070/OhMyGod.tap.zip
+oh-my-god.z80
+--tape-name "OhMyGod.tap"
+--tape-sum 84c85d6ce1d737abac9c813024deba89
+--start 1343
+--sim-load-config finish-tape=1

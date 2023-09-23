@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031396/1D1DTetris.tap.zip
+1d-1d-tetris.z80
+--tape-name "1D1DTetris.tap"
+--tape-sum 92e8a6c473b1e81362c826f19dc4cc7b
+--start 1343
+--sim-load-config finish-tape=1

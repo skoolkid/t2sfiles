@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031051/GoatFall.tzx.zip
+goat-fall.z80
+--tape-name "GoatFall.tzx"
+--tape-sum c09c1628ef249c83eb2076a1af888254
+--start 1343
+--sim-load-config finish-tape=1
