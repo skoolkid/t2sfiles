@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042443/PamFerrissFerrousFerries.tap.zip
+pam-ferriss-ferrous-ferries.z80
+--tape-name "PamFerrissFerrousFerries.tap"
+--tape-sum bfa651e8ce4b6ad1aea302aee6ecee0b
+--start 1343
+--sim-load-config finish-tape=1

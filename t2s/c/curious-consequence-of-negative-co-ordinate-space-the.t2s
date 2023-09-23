@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042247/CuriousConsequenceOfNegativeCo-ordinateSpaceThe.tap.zip
+curious-consequence-of-negative-co-ordinate-space-the.z80
+--tape-name "CuriousConsequenceOfNegativeCo-ordinateSpaceThe.tap"
+--tape-sum aefd7bdc63b186d1695932c218502788
+--start 1343
+--sim-load-config finish-tape=1

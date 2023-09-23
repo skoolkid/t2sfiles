@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042416/BATS921.tap.zip
+bats92-1.z80
+--tape-name "BATS921.tap"
+--tape-sum 2eb06b54a457160efd990e479fa9a6bf
+--start 1343
+--sim-load-config accelerator=rom
+--sim-load-config finish-tape=1

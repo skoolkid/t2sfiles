@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042233/Compem.tzx.zip
+compem.z80
+--tape-name "Compem.tzx"
+--tape-sum 2d3f2ec68c78a8dd69d02ad6ca180a1d
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

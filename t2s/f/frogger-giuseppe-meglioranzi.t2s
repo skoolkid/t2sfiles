@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042475/Frogger.tzx.zip
+frogger-giuseppe-meglioranzi.z80
+--tape-name "Frogger.tzx"
+--tape-sum 9e56c2bdab3f8c75ffa8125df9196e69
+--start 1343
+--sim-load-config finish-tape=1

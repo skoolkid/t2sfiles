@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042455/StatueThe.tzx.zip
+statue-the.z80
+--tape-name "StatueThe.tzx"
+--tape-sum aba3611a9e3d01f7ad2b18fdc2edf116
+--start 1343
+--sim-load-config finish-tape=1

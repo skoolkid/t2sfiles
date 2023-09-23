@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042420/JackpotMachine2.tap.zip
+jackpot-machine-2.z80
+--tape-name "JackpotMachine2.tap"
+--tape-sum b3b5e5a4c22a3b37c2aa168a8394dc11
+--start 1343
+--sim-load-config finish-tape=1

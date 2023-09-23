@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042198/DandyCowboy.tap.zip
+dandy-cowboy.z80
+--tape-name "Dandy-cowboy.tap"
+--tape-sum 7336e8842fdf85ba79b792c93b43b797
+--start 1343
+--sim-load-config finish-tape=1
