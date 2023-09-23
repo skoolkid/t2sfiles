@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/compilations/123/1LineArcade.tzx.zip
+1-line-arcade-batmaster.z80
+--tape-name "1LineArcade.tzx"
+--tape-sum e7f6e50632769c80e4146d4b7ea7bbce
+--start 1343
+--tape-start 4
+--tape-stop 6
+--sim-load-config finish-tape=1

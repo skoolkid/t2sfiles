@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/compilations/123/1LineBoard.tzx.zip
+1-line-board-connect-4-pvp.z80
+--tape-name "1LineBoard.tzx"
+--tape-sum 65291ad06d4cd1bf58bbd0fec41abf2f
+--start 1343
+--tape-start 4
+--tape-stop 6
+--sim-load-config finish-tape=1
