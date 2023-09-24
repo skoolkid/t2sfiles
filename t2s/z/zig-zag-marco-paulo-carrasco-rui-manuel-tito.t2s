@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042033/ZigZag.tzx.zip
+zig-zag-marco-paulo-carrasco-rui-manuel-tito.z80
+--tape-name "ZigZag.tzx"
+--tape-sum f61b051d81cb2f37c3c037ebd7153289
+--start 1343
+--sim-load-config finish-tape=1

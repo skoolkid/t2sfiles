@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042142/Monopoly.tap.zip
+monopoly-0042142.z80
+--tape-name "Monopoly.tap"
+--tape-sum 5601a760cccee0faf585b54a23a364cd
+--start 1343
+--sim-load-config finish-tape=1

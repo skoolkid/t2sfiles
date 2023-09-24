@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042093/LaberintoDeAriadnaEl.tzx.zip
+laberinto-de-ariadna-el.z80
+--tape-name "LaberintoDeAriadnaEl.tzx"
+--tape-sum 929d29b7da950e5213c3f3a169ecf97d
+--start 1343
+--sim-load-config finish-tape=1

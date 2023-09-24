@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042016/Turbo.tzx.zip
+turbo-marco-paulo-carrasco-rui-manuel-tito.z80
+--tape-name "Turbo.tzx"
+--tape-sum 8b30c5bb7bac53ef26174a453f2932d7
+--start 1343
+--sim-load-config finish-tape=1

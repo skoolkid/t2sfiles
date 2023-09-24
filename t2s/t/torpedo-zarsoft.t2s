@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039529/Torpedo(Zarsoft).tap.zip
+torpedo-zarsoft.z80
+--tape-name "Torpedo(Zarsoft).tap"
+--tape-sum 9e95acab0354ab2a85f36db359013da4
+--start 1343
+--sim-load-config finish-tape=1

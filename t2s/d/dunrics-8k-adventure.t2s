@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042009/Dunrics8KAdventure.tzx.zip
+dunrics-8k-adventure.z80
+--tape-name "Dunrics8KAdventure.tzx"
+--tape-sum 6c247e0d5c66d0ba496ec7e2848a4d75
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

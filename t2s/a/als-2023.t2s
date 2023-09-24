@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039448/ALS2023.tap.zip
+als-2023.z80
+--tape-name "ALS2023.tap"
+--tape-sum 2e4bbddff58f847feb13a2d033452ff6
+--start 1343
+--sim-load-config finish-tape=1

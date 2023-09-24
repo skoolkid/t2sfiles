@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042029/Worm.tap.zip
+worm-david-magalhaes.z80
+--tape-name "Worm.tap"
+--tape-sum 69caf4f40131a368634b094146ebfe7f
+--start 1343
+--sim-load-config finish-tape=1

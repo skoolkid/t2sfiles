@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039515/QuestForTheCrown.tzx.zip
+quest-for-the-crown.z80
+--tape-name "QuestForTheCrown.tzx"
+--tape-sum 1e993a213c8b3519096d5b630c7dc532
+--start 34104
+--sim-load-config finish-tape=1

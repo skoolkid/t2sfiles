@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042024/InternationalRemo.tzx.zip
+international-remo.z80
+--tape-name "InternationalRemo.tzx"
+--tape-sum 960b6a996243c9f76c9bb2df96c661da
+--start 1343
+--sim-load-config finish-tape=1

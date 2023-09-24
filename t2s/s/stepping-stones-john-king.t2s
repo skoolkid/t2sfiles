@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039418/SteppingStones.tzx.zip
+stepping-stones-john-king.z80
+--tape-name "SteppingStones.tzx"
+--tape-sum 8194e22ff259ec2ea98574a3e702efd7
+--start 1343
+--sim-load-config finish-tape=1

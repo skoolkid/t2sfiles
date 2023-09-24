@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042082/NewSports.tzx.zip
+new-sports.z80
+--tape-name "NewSports.tzx"
+--tape-sum 776265b90dd75735f5d424e52c0d4bac
+--start 1343
+--sim-load-config finish-tape=1

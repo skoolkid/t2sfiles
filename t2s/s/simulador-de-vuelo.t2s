@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042117/SimuladorDeVuelo.tzx.zip
+simulador-de-vuelo.z80
+--tape-name "SimuladorDeVuelo.tzx"
+--tape-sum 3b163a9e12fdf6232acdecad36354aaa
+--start 1343
+--sim-load-config finish-tape=1
