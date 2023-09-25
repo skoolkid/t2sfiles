@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038293/BeaconStarWars.tap.zip
+beacon-star-wars.z80
+--tape-name "BeaconStarWars.tap"
+--tape-sum 1eea13324f2106e24b2255a523d4d2ca
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

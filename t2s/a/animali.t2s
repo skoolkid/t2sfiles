@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038858/Animali.tzx.zip
+animali.z80
+--tape-name "Animali.tzx"
+--tape-sum e3683737055325890f1378968d6a31f1
+--start 1343
+--sim-load-config finish-tape=1

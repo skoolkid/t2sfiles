@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035690/ZXMastermind.tap.zip
+zx-mastermind.z80
+--tape-name "MMEMU62.TAP"
+--tape-sum bb8992898701e42e35e42b66a0921f3d
+--start 1343
+--sim-load-config finish-tape=1

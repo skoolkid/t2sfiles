@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035442/SuperBlast.tap.zip
+super-blast.z80
+--tape-name "SuperBlast.tap"
+--tape-sum d3a1ebf6a66bfab12b492faa3daca8ab
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035517/KingsOrder.tzx.zip
+kings-order.z80
+--tape-name "KingsOrder.tzx"
+--tape-sum 717eca281834ba71f8d46eee3d9e9457
+--start 1343
+--sim-load-config accelerator=rom
+--sim-load-config finish-tape=1

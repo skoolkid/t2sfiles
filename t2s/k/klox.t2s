@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036976/Klox.tap.zip
+klox.z80
+--tape-name "Klox.tap"
+--tape-sum d0aff8016ca9ba6cf3725348120d8938
+--start 1343
+--tape-stop 11
+--sim-load-config finish-tape=1

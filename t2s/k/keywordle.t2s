@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037125/KEYWORDLE.tap.zip
+keywordle.z80
+--tape-name "KEYWORDLE.tap"
+--tape-sum 7fe61d1f6bdf60230b2f752ff9d3488d
+--start 1343
+--sim-load-config finish-tape=1

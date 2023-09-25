@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035438/SpaceFight.tzx.zip
+space-fight.z80
+--tape-name "SpaceFight.tzx"
+--tape-sum 16e528a7ebd9786de4ffb16804c321bf
+--start 1343
+--sim-load-config finish-tape=1

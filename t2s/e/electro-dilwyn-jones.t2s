@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038165/Electro.tap.zip
+electro-dilwyn-jones.z80
+--tape-name "Electro.tap"
+--tape-sum 955c8516db4f3f1891d4481623f526a6
+--start 1343
+--sim-load-config finish-tape=1

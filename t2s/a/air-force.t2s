@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037285/AirForce.tzx.zip
+air-force.z80
+--tape-name "AirForce.tzx"
+--tape-sum a25651273f3d28aa890fd098f2e96301
+--start 1343
+--sim-load-config finish-tape=1

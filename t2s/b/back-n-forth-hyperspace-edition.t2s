@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037961/BackNForth(HyperspaceEdition).tap.zip
+back-n-forth-hyperspace-edition.z80
+--tape-name "backnforth-hyperspace edition.tap"
+--tape-sum 293209db3f73c97b335889695205fe24
+--start 1343
+--sim-load-config finish-tape=1

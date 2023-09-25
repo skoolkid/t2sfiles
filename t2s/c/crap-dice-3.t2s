@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036419/CrapDice3.tap.zip
+crap-dice-3.z80
+--tape-name "CrapDice3_JurassicJungle_Druida8_&_AsteroideZX.tap"
+--tape-sum 1d2dced275c2b474e17e18ab3582571f
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036760/ProthipourgosTisElladas.tzx.zip
+prothipourgos-tis-elladas.z80
+--tape-name "ProthipourgosTisElladas.tzx"
+--tape-sum 97fca8b3be8c00a522a7e6505db45949
+--start 1343
+--sim-load-config finish-tape=1

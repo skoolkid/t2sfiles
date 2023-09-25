@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035527/Kekyzarny1-Pruzkum.tzx.zip
+kekyzarny-1-pruzkum.z80
+--tape-name "Kekyzarny1-Pruzkum.tzx"
+--tape-sum 27ea93854ac1961ae7fe9babbc1f6c87
+--start 1343
+--sim-load-config finish-tape=1

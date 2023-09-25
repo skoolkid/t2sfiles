@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036809/Beetle.tzx.zip
+beetle-roger-dymond.z80
+--tape-name "Beetle.TZX"
+--tape-sum b4cd34ef3a9ee7d70207efc3661801f9
+--start 1343
+--sim-load-config finish-tape=1

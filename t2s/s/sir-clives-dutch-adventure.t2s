@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036943/SirClivesDutchAdventure.tzx.zip
+sir-clives-dutch-adventure.z80
+--tape-name "SirClivesDutchAdventure.tzx"
+--tape-sum 80e4e390263ce12944e15b77a8de8f21
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038212/FightGameThe.tap.zip
+fight-game-the.z80
+--tape-name "FightGameThe.tap"
+--tape-sum eff84d336a8f984247e1dab209e15799
+--start 1343
+--sim-load-config finish-tape=1

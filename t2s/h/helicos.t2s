@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037114/Helicos.tap.zip
+helicos.z80
+--tape-name "Helicos.tap"
+--tape-sum 792e2e018d5030db1681be7827846f2e
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038911/EveryOneAGem.tap.zip
+every-one-a-gem.z80
+--tape-name "EveryOneAGem.tap"
+--tape-sum a6d34dd02fe7bf8575c5e2c174c4c0bb
+--start 1343
+--sim-load-config finish-tape=1

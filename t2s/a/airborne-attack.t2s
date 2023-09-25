@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037044/AirborneAttack.tap.zip
+airborne-attack.z80
+--tape-name "AirborneAttack.tap"
+--tape-sum 5528639b26dba06cdf415c40e786abc2
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035918/ShoddyInFunland.tap.zip
+shoddy-in-funland.z80
+--tape-name "Shoddy in Funland (Stuart McCrae).tap"
+--tape-sum 34188a662ae9bd0c8c4e6b8ae1842fc2
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

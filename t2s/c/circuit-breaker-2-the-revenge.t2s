@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038538/CircuitBreaker2-TheRevenge.tzx.zip
+circuit-breaker-2-the-revenge.z80
+--tape-name "CircuitBreaker2-TheRevenge.tzx"
+--tape-sum 23642cef791b5f1047faf0ea965119b2
+--start 1343
+--sim-load-config finish-tape=1

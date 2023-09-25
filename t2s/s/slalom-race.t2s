@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037844/SlalomRace.tap.zip
+slalom-race.z80
+--tape-name "GC 1984-03 - 49 - Slalom Race.tap"
+--tape-sum 23bf862b089c35b186f9bfd02fc4592c
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

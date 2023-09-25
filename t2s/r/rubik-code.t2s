@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037910/RubikCode.tap.zip
+rubik-code.z80
+--tape-name "RubikCode.tap"
+--tape-sum 86e13b17bf4f5cf11abc5cf21ef46f40
+--start 1343
+--sim-load-config finish-tape=1

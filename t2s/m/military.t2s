@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035406/Military.tap.zip
+military.z80
+--tape-name "Military.tap"
+--tape-sum 0614ef7f47820f8dab93bfaffee0076e
+--start 1343
+--sim-load-config finish-tape=1

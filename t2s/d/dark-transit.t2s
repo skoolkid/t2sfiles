@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037619/DarkTransit.tap.zip
+dark-transit.z80
+--tape-name "Dark Transit.TAP"
+--tape-sum 3e87c8e93feab6b6ab85b1e05ca37ba0
+--start 16404
+--sim-load-config accelerator=rom
+--sim-load-config finish-tape=1

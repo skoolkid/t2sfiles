@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038653/Puzzle(SideA).tzx.zip
+puzzle-investronica.z80
+--tape-name "Puzzle(SideA).tzx"
+--tape-sum 7e48a11bd1734bcc56796727c145ffd7
+--start 1343
+--sim-load-config finish-tape=1

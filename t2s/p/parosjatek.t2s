@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036887/Parosjatek.tap.zip
+parosjatek.z80
+--tape-name "Parosjatek.tap"
+--tape-sum 26c9281d84810d8bfb3220a841a17df5
+--start 1343
+--sim-load-config finish-tape=1

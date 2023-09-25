@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036602/ThisGameWillPitManAgainstMachine.tap.zip
+game-will-pit-man-against-machine-this.z80
+--tape-name "This Game Will Pit Man Against Machine.tap"
+--tape-sum f67d77946fcdfa2a7f918782f862e6d8
+--start 1343
+--sim-load-config finish-tape=1

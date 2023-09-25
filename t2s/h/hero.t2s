@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037705/Hero.tzx.zip
+hero.z80
+--tape-name "HERO v3.TZX"
+--tape-sum 83d07790ea01119623fe27f27bfe640b
+--start 1343
+--sim-load-config finish-tape=1

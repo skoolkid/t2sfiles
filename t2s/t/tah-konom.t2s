@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038299/TahKonom.tap.zip
+tah-konom.z80
+--tape-name "TahKonom.tap"
+--tape-sum af813b6dfbea877edaa09cf3396b0be4
+--start 1343
+--sim-load-config finish-tape=1

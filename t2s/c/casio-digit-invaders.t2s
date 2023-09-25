@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036538/CASIODigitInvaders.tzx.zip
+casio-digit-invaders.z80
+--tape-name "CASIO-DIGIT-INVADERS-v3.tzx"
+--tape-sum e1345e31a40896394a139a5828b20905
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037076/Footy.tap.zip
+footy.z80
+--tape-name "Footy.tap"
+--tape-sum 54133c8646caaa25c56a762c01970619
+--start 1343
+--sim-load-config finish-tape=1

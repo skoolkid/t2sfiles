@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035202/Crash!.tzx.zip
+crash-david-edwards.z80
+--tape-name "Crash.tzx"
+--tape-sum 9968be363a053b8f5afc64741eb80cbd
+--start 1343
+--sim-load-config finish-tape=1

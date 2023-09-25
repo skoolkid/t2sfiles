@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037292/Cazzus.tzx.zip
+cazzus.z80
+--tape-name "Cazzus.tzx"
+--tape-sum de08fcd3fb6015e107e6952d03868b6b
+--start 1343
+--tape-stop 12
+--sim-load-config finish-tape=1

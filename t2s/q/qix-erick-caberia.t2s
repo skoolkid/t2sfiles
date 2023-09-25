@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037171/Qix.tap.zip
+qix-erick-caberia.z80
+--tape-name "Qix.tap"
+--tape-sum ca2d04cf627e9fcbf26f0154b6f477a7
+--start 1343
+--sim-load-config finish-tape=1

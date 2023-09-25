@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037846/Spuckman.tap.zip
+spuckman.z80
+--tape-name "GC 1984-02 - 94 - Spuckman.TAP"
+--tape-sum 26d1ccf277ef8b384c56bb9ab5950e17
+--start 1343
+--sim-load-config finish-tape=1

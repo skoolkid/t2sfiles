@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035145/JetSetWilly12RoomMiniGame.tap.zip
+jet-set-willy-12-room-minigame.z80
+--tape-name "JSW_12RM.tap"
+--tape-sum a70dff79e131a20b461794fa73b953e9
+--start 32768
+--sim-load-config finish-tape=1

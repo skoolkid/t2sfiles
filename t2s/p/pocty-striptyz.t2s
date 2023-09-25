@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036798/PoctyStriptyz.tap.zip
+pocty-striptyz.z80
+--tape-name "PoctyStriptyz.tap"
+--tape-sum e6c4cd6b5633a52090aab76274950c43
+--start 1343
+--sim-load-config finish-tape=1

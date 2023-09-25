@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038915/Mixer.tap.zip
+mixer.z80
+--tape-name "Mixer.tap"
+--tape-sum 42d24485aadbb8c7c882ebafbdf1acf5
+--start 1343
+--tape-stop 5
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035454/Tetris.tzx.zip
+tetris-milan-vosika.z80
+--tape-name "Tetris.tzx"
+--tape-sum bdcf3bc8d52fa1c16fb915f94c157ac1
+--start 32768
+--sim-load-config accelerator=speedlock,rom

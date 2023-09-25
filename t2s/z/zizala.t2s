@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035804/Zizala.tap.zip
+zizala.z80
+--tape-name "zizala.tap"
+--tape-sum 8e0772082c597beeaa665b6428ad8c5b
+--start 1343
+--sim-load-config finish-tape=1

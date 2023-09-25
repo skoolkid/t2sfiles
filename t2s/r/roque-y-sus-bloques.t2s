@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035784/RoqueYSusBloques.tap.zip
+roque-y-sus-bloques.z80
+--tape-name "Roque y sus Bloques.tap"
+--tape-sum 9398a1016eb35d8a3c53a06b2ee8b05b
+--start 1343
+--sim-load-config finish-tape=1

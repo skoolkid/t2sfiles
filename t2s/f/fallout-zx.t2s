@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039156/FalloutZX.tap.zip
+fallout-zx.z80
+--tape-name "FalloutZX.tap"
+--tape-sum 7c7b74e47aa0f9df8bd842c7b20f2b1a
+--start 1343
+--sim-load-config finish-tape=1

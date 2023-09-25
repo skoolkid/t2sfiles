@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038209/BellOfWitch.tap.zip
+bell-of-witch.z80
+--tape-name "BellOfWitch.tap"
+--tape-sum a1559a8e6426139dbeb7a47f8d73b358
+--start 1343
+--sim-load-config finish-tape=1

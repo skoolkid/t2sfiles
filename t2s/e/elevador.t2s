@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038945/Elevador.tzx.zip
+elevador.z80
+--tape-name "Elevador.tzx"
+--tape-sum 07632bcdd7d7bde9b8d269d34baa3dd1
+--start 1343
+--sim-load-config finish-tape=1

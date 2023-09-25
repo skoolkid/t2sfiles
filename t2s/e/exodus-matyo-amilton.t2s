@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037130/Exodus.tzx.zip
+exodus-matyo-amilton.z80
+--tape-name "Exodus.tzx"
+--tape-sum 86438b725b043e664d94307056e71eea
+--start 1343
+--tape-stop 6
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039360/N2-EstradaNacional.tap.zip
+n2-estrada-nacional.z80
+--tape-name "N2-EstradaNacional.tap"
+--tape-sum df792ac3287a6ec46bd7a9f607156029
+--start 1343
+--sim-load-config finish-tape=1

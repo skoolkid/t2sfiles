@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035552/10MalychPrasatek.tap.zip
+10-malych-prasatek.z80
+--tape-name "10MalychPrasatek.tap"
+--tape-sum 632d49744bab8cc0651b2fc322ea1a85
+--start 1343
+--sim-load-config finish-tape=1

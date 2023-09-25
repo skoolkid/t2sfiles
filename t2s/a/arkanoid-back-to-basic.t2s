@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036839/ArkanoidBackToBasic.tap.zip
+arkanoid-back-to-basic.z80
+--tape-name "ArkanoidBackToBasic.tap"
+--tape-sum e3347842a09d3d4f91eef07b072a0523
+--start 1343
+--tape-stop 21
+--sim-load-config finish-tape=1

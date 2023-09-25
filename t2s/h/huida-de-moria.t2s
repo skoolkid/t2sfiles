@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036578/HuidaDeMoria.tap.zip
+huida-de-moria.z80
+--tape-name "HUIDA_MORIA.tap"
+--tape-sum 41bff5b08037f42506f9d735e272e878
+--start 1343
+--sim-load-config finish-tape=1

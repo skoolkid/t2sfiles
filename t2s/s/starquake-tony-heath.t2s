@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037849/Starquake.tap.zip
+starquake-tony-heath.z80
+--tape-name "GC 1984-05 - 30 - Starquake.tap"
+--tape-sum 4a8bd652b0cf7818273b2c0610af8634
+--start 1343
+--sim-load-config finish-tape=1

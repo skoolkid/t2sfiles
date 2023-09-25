@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036387/HERO(WithIntro).tap.zip
+hero-returns.z80
+--tape-name "hero_with_intro.tap"
+--tape-sum 37b62c57f5d5e536087ff6b789ac53c1
+--start 54016
+--tape-start 7
+--sim-load-config accelerator=rom

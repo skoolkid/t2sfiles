@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037002/Galagor(Utility).tzx.zip
+galagor.z80
+--tape-name "Galagor(Utility).tzx"
+--tape-sum f29b1f0c9c938b0dab5360864ca4270e
+--start 1343
+--sim-load-config finish-tape=1

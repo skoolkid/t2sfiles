@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036261/D.N.A.Dilemma.tzx.zip
+dna-dilemma.z80
+--tape-name "D.N.A.Dilemma.tzx"
+--tape-sum 1140945a3c4c6a431c819af0251d551e
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

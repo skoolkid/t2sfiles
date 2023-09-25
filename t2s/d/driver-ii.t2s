@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038540/DriverII.tzx.zip
+driver-ii.z80
+--tape-name "DriverII.tzx"
+--tape-sum 41f90734c10a2b4beecf01092cee4f5c
+--start 1343
+--sim-load-config finish-tape=1

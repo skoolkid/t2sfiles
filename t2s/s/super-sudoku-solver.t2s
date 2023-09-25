@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035687/SuperSudokuSolver.tap.zip
+super-sudoku-solver.z80
+--tape-name "SuperSodukuSolverV1.1 48k only.tap"
+--tape-sum 94e6e2318afaf154a3fa8d0baa787093
+--start 35000
+--sim-load-config finish-tape=1

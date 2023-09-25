@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037837/Boxing.tap.zip
+boxing-s-goodley.z80
+--tape-name "GC 1985-03 - 18 - Boxing.TAP"
+--tape-sum c1105738052f99d4d27bfbf78b753f6a
+--start 1343
+--sim-load-config finish-tape=1

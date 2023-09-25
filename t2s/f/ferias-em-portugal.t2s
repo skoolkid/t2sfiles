@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038487/FeriasEmPortugal.tzx.zip
+ferias-em-portugal.z80
+--tape-name "FeriasEmPortugal.tzx"
+--tape-sum 6058cbe714fe689cceebe085d86aa351
+--start 1343
+--sim-load-config finish-tape=1

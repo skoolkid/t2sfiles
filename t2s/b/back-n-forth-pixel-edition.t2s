@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037962/BackNForth(PixelEdition).tap.zip
+back-n-forth-pixel-edition.z80
+--tape-name "backnforth - pixel edition.tap"
+--tape-sum 9654fc3bfd71840230f3919ee77aa778
+--start 1343
+--sim-load-config finish-tape=1

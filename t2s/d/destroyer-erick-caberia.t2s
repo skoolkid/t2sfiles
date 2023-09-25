@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037170/Destroyer.tap.zip
+destroyer-erick-caberia.z80
+--tape-name "Destroyer.tap"
+--tape-sum fe66d8d9a8db0b8e279b28b46ff5da5a
+--start 1343
+--sim-load-config finish-tape=1

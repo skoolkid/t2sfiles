@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037113/U-Boat.tap.zip
+u-boat-erick-caberia.z80
+--tape-name "U-Boat.tap"
+--tape-sum 08f876a08ff631295a3a288f169f0280
+--start 1343
+--sim-load-config finish-tape=1

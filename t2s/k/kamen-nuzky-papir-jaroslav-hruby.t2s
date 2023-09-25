@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035516/KamenNuzkyPapir.tzx.zip
+kamen-nuzky-papir-jaroslav-hruby.z80
+--tape-name "KamenNuzkyPapir.tzx"
+--tape-sum a974b85af5deeaa6de6ff6f8a4d0d1de
+--start 1343
+--sim-load-config finish-tape=1

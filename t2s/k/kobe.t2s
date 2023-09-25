@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037105/Kobe.tap.zip
+kobe.z80
+--tape-name "Kobe.tap"
+--tape-sum 1b7c26c845731c1161ff705b7c176280
+--start 1343
+--sim-load-config finish-tape=1

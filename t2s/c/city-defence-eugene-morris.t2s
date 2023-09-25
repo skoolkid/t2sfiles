@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038913/CityDefence.tap.zip
+city-defence-eugene-morris.z80
+--tape-name "CityDefence.tap"
+--tape-sum e17b79020bf4c92da9a899d6d8b67325
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038544/HeroicHubert.tap.zip
+heroic-hubert.z80
+--tape-name "HeroicHubert.tap"
+--tape-sum c181e6d887f1fbb617750bdea83cc8f3
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036799/KostkyStrip.tap.zip
+kostky-strip.z80
+--tape-name "KostkyStrip.tap"
+--tape-sum 03b75591ccea17e0a8aaa42aa14d8c05
+--start 1343
+--sim-load-config finish-tape=1

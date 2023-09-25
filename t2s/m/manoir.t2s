@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037427/Manoir.tzx.zip
+manoir.z80
+--tape-name "Manoir.tzx"
+--tape-sum b6edc5fe894534c557c4735b6b9f8b29
+--start 1343
+--sim-load-config finish-tape=1

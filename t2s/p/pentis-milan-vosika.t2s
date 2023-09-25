@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035415/Pentis.tzx.zip
+pentis-milan-vosika.z80
+--tape-name "Pentis.tzx"
+--tape-sum c1fc4217b36bfb00fd133983a79c5c05
+--start 32768
+--sim-load-config accelerator=speedlock,rom

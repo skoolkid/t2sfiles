@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035331/Peplum.tap.zip
+peplum.z80
+--tape-name "Peplum.tap"
+--tape-sum 5cf78dee80a6bcd2e07b940757d2bd94
+--start 1343
+--sim-load-config finish-tape=1

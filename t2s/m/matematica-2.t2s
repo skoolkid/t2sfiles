@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039262/Matematica2.tzx.zip
+matematica-2.z80
+--tape-name "Matematica2.tzx"
+--tape-sum 528f7472f12cc4ea21c38d9894d87703
+--start 1343
+--sim-load-config finish-tape=1

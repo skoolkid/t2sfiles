@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038552/Silkworm.tzx.zip
+silkworm-fernando-pereira.z80
+--tape-name "Silkworm.tzx"
+--tape-sum c02d43bafdc7ff6a7768efbe8d994f5a
+--start 1343
+--sim-load-config finish-tape=1

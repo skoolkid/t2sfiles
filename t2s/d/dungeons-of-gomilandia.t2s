@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035677/DungeonsOfGomilandia.tzx.zip
+dungeons-of-gomilandia.z80
+--tape-name "gomilandia_v01_1360.tzx"
+--tape-sum 05793a869487ff1fc9759b2339c010b6
+--start 24900
+--sim-load-config accelerator=tiny

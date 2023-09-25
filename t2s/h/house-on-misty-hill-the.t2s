@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037841/TheHouseOnMistyHill.tap.zip
+house-on-misty-hill-the.z80
+--tape-name "GC 1984-07 - 49 - House On Misty Hill.TAP"
+--tape-sum 0f8d838a6200118d8a86a06e0db89924
+--start 1343
+--sim-load-config finish-tape=1

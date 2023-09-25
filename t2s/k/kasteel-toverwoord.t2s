@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038691/KasteelToverwoord.tzx.zip
+kasteel-toverwoord.z80
+--tape-name "KasteelToverwoord.tzx"
+--tape-sum 3764e4b7ecdbf33e744136ea41c51799
+--start 1343
+--sim-load-config finish-tape=1

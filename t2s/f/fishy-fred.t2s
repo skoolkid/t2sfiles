@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037839/FishyFred.tap.zip
+fishy-fred.z80
+--tape-name "GC 1985-02 - 54 - Fishy Fred.TAP"
+--tape-sum 08c812d9df682839df038a87f1043bf8
+--start 1343
+--sim-load-config finish-tape=1

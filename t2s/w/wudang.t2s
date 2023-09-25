@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035345/Wudang(TurboLoad).tzx.zip
+wudang.z80
+--tape-name "Wudang (Turbo Load).tzx"
+--tape-sum c484c7b546dfcfdb27e1c6677dea2ed3
+--start 32812
+--sim-load-config accelerator=bleepload

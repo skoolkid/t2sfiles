@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038213/ParkThe.tzx.zip
+park-the.z80
+--tape-name "ParkThe.tzx"
+--tape-sum bdf868593fcc40d941cc85b4851925c9
+--start 1343
+--sim-load-config finish-tape=1

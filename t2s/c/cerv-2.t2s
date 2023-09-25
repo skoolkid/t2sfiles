@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035553/Cerv2.tap.zip
+cerv-2.z80
+--tape-name "Cerv2.tap"
+--tape-sum d9b00017ab57680b3476f3899c96bc71
+--start 1343
+--sim-load-config finish-tape=1

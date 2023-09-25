@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039167/Karting2000.tzx.zip
+karting-2000.z80
+--tape-name "Karting2000.tzx"
+--tape-sum 3a25e1e169e4ad36e61554c44d7b2c9b
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035404/MerryMan.tap.zip
+merry-man.z80
+--tape-name "MerryMan.tap"
+--tape-sum e9b09f7646511495e0b4ace8c264f343
+--start 24200
+--sim-load-config accelerator=bleepload

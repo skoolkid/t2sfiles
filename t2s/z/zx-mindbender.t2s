@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038119/ZXMindbender(48K).tap.zip
+zx-mindbender.z80
+--tape-name "ZXMindbender(48K).tap"
+--tape-sum b2ce03556066b8a3ec1bb43787c6f468
+--start 1343
+--sim-load-config finish-tape=1

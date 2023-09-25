@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038875/CampoMinado.tzx.zip
+campo-minado.z80
+--tape-name "CampoMinado.tzx"
+--tape-sum 802fb8a68b9dab86c524e5b81a850df5
+--start 1343
+--sim-load-config finish-tape=1

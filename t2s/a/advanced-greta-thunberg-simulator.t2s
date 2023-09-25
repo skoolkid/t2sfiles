@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036461/AdvancedGretaThunbergSimulator.tap.zip
+advanced-greta-thunberg-simulator.z80
+--tape-name "agts.tap"
+--tape-sum 15f42c65798562e91bbe81a97ae001e6
+--start 1343
+--sim-load-config finish-tape=1

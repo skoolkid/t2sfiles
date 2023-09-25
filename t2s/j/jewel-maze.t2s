@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038908/JewelMaze.tap.zip
+jewel-maze.z80
+--tape-name "JewelMaze.tap"
+--tape-sum 3d0a48fef83fdfe7decda1072ea030cf
+--start 1343
+--sim-load-config finish-tape=1

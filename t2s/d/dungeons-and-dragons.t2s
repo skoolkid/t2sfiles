@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038049/DungeonsAndDragons.tzx.zip
+dungeons-and-dragons.z80
+--tape-name "DungeonsAndDragons.tzx"
+--tape-sum bc342d535bbe3ed25372e54954500b7e
+--start 1343
+--sim-load-config finish-tape=1

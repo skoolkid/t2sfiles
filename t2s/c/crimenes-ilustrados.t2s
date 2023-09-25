@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038745/CrimenesIlustrados(sideA).tap.zip
+crimenes-ilustrados.z80
+--tape-name "CrimenesIlustrados(sideA).tap"
+--tape-sum e984c1970c0ebac9d455934ad3817090
+--start 1343
+--sim-load-config finish-tape=1

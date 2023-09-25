@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037834/AlienShowdown.tap.zip
+alien-showdown.z80
+--tape-name "AlienShowdown.tap"
+--tape-sum 7d634d53e54b982fd75827d9b7308c4b
+--start 1343
+--tape-stop 7
+--sim-load-config finish-tape=1

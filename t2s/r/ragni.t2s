@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039014/Ragni.tzx.zip
+ragni.z80
+--tape-name "Ragni.tzx"
+--tape-sum ddc7da0e9fc8d60f4f0a3d8a86545556
+--start 1343
+--sim-load-config finish-tape=1

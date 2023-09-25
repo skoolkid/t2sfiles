@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035339/Cuadragon.tap.zip
+cuadragon.z80
+--tape-name "Cuadragon v1.0.tap"
+--tape-sum bd9d3b49aee2033e4f1ab80c8c104ef1
+--start 1343
+--sim-load-config finish-tape=1

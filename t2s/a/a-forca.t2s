@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036332/Forca.tzx.zip
+a-forca.z80
+--tape-name "A Forca.tzx"
+--tape-sum fdea405cf135ca544fc9cbb8635a7f16
+--start 1343
+--sim-load-config finish-tape=1

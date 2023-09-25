@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038191/Regulus.tap.zip
+regulus.z80
+--tape-name "Regulus.tap"
+--tape-sum 49fc0c019780d0f81fefc13ffe179c62
+--start 1343
+--sim-load-config finish-tape=1

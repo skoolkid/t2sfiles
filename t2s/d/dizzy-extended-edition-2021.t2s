@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037716/DizzyExtendedVersion2021.tap.zip
+dizzy-extended-edition-2021.z80
+--tape-name "Dizzy-1 Extended 48K ENG v1.0.tap"
+--tape-sum 53c226da4fa06f42197572fee7f33463
+--start 23869
+--sim-load-config accelerator=rom

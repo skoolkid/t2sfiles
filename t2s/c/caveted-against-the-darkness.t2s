@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038549/CavetedAgainstTheDarkness.tzx.zip
+caveted-against-the-darkness.z80
+--tape-name "CavetedAgainstTheDarkness.tzx"
+--tape-sum f72fd16af54df8e6608128c18944f4ca
+--start 1343
+--sim-load-config finish-tape=1

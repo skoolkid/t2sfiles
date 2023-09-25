@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039365/TargetMaths.tzx.zip
+target-maths.z80
+--tape-name "TargetMaths.tzx"
+--tape-sum c14a93c69f2a170590042b2fbc993e3e
+--start 1343
+--sim-load-config finish-tape=1

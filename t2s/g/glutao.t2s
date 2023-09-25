@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038986/Glutao.tzx.zip
+glutao.z80
+--tape-name "Glutao.tzx"
+--tape-sum 4f510b83ddb5c8cf2eaf1f550be543e2
+--start 1343
+--sim-load-config finish-tape=1

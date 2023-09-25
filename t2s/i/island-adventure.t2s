@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037253/IslandAdventure.tzx.zip
+island-adventure.z80
+--tape-name "IslandAdventure.tzx"
+--tape-sum 03e722569588d98a862010cd931ddea8
+--start 1343
+--sim-load-config finish-tape=1

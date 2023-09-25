@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037121/PepiteStory.tzx.zip
+pepite-story.z80
+--tape-name "PepiteStory.tzx"
+--tape-sum 183d43ba8271d211f4287d7f8543800e
+--start 1343
+--sim-load-config finish-tape=1

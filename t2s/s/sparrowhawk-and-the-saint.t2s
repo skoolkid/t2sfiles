@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039079/SparrowhawkAndTheSaint.tzx.zip
+sparrowhawk-and-the-saint.z80
+--tape-name "SparrowhawkAndTheSaint.tzx"
+--tape-sum 1c757177d9e2d49d8c077baff93e1f87
+--start 1343
+--sim-load-config finish-tape=1

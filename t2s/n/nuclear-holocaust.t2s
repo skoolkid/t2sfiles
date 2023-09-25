@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035577/NuclearHolocaust.tap.zip
+nuclear-holocaust.z80
+--tape-name "NuclearHolocaust.tap"
+--tape-sum 5c949db8b9dce949a0bf6cb6b63a0a14
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

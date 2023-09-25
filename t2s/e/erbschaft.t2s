@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038088/Erbschaft.tzx.zip
+erbschaft.z80
+--tape-name "Erbschaft.tzx"
+--tape-sum 3923d63b40bcdd19f213b387f86cde85
+--start 1343
+--sim-load-config finish-tape=1

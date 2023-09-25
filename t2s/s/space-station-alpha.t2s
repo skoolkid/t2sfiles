@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038899/SpaceStationAlpha.tap.zip
+space-station-alpha.z80
+--tape-name "SpaceStationAlpha.tap"
+--tape-sum 3156e6d435a7ed7d851da122d2748a0c
+--start 1343
+--sim-load-config finish-tape=1

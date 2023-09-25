@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035818/PuzzlePool.tap.zip
+puzzle-pool.z80
+--tape-name "PUZZLEPOOL.tap"
+--tape-sum b64d29665df4759111fe33ba63040ee5
+--start 1343
+--sim-load-config finish-tape=1

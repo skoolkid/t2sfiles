@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038866/Shooter.tap.zip
+shooter.z80
+--tape-name "Shooter.tap"
+--tape-sum 7fbff096be1fcdbdc65119960b4bb096
+--start 32768
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035775/ManicMiner2020-SpecialEdition.tzx.zip
+manic-miner-2020-special-edition.z80
+--tape-name "ManicMiner2020-SpecialEdition.tzx"
+--tape-sum 4ef0b081b585bef86fdb78d771e8a149
+--start 32768
+--sim-load-config finish-tape=1

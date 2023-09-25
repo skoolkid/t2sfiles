@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036420/Por1000Dolaress.tap.zip
+por-1000-dolares.z80
+--tape-name "Por1000Dolaress-V2_AsteroideZX_TAPE.tap"
+--tape-sum c8281636800ebbc6fc85846cae6f5a7c
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035250/AlienGun.tap.zip
+aliengun.z80
+--tape-name "aliengun.tap"
+--tape-sum 3a37b7a18c640255163196325f89fccc
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

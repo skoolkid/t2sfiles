@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036614/Loupez.tap.zip
+loupez.z80
+--tape-name "Loupez.tap"
+--tape-sum 58e17cd0ff10fa38707883816947a803
+--start 1343
+--sim-load-config finish-tape=1

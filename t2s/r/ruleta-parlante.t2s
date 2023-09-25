@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038803/RuletaParlante.tzx.zip
+ruleta-parlante.z80
+--tape-name "RuletaParlante.tzx"
+--tape-sum 8f9f7ba9543aee0d93c5d2fbecae2f9d
+--start 1343
+--sim-load-config finish-tape=1

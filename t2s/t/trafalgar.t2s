@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037208/Trafalgar.tzx.zip
+trafalgar.z80
+--tape-name "Trafalgar.tzx"
+--tape-sum 133de9cf136f8482c267a0bbd3fe4fcd
+--start 1343
+--sim-load-config finish-tape=1

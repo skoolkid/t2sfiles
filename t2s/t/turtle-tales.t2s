@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037763/TurtleTales.tap.zip
+turtle-tales.z80
+--tape-name "TurtleTales(LoadScreen).tap"
+--tape-sum 6466295925492a9217bbf62b01304dff
+--start 1343
+--sim-load-config finish-tape=1

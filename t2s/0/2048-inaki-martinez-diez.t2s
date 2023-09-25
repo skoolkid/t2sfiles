@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035120/2048.tap.zip
+2048-inaki-martinez-diez.z80
+--tape-name "2048_v1.0.tap"
+--tape-sum 5ac00046d00f4065a18f13f535501b40
+--start 1343
+--sim-load-config finish-tape=1

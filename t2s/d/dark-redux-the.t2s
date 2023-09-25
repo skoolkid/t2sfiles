@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037608/Dark-ReduxThe(EN).tap.zip
+dark-redux-the.z80
+--tape-name "Dark-ReduxThe(EN).tap"
+--tape-sum 78d0ab74ad5f7062e29f31ac1c9dba1b
+--start 24576
+--sim-load-config finish-tape=1

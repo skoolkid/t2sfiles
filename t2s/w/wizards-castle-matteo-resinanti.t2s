@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037500/WizardsCastle.tzx.zip
+wizards-castle-matteo-resinanti.z80
+--tape-name "WizardsCastle.tzx"
+--tape-sum eee9a19cc81f89443484550a8b94fe97
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035430/Prevoznik.tap.zip
+prevoznik.z80
+--tape-name "Prevoznik.tap"
+--tape-sum 09c309ea1fd9e5fd95d5851afcbbc4d7
+--start 1343
+--tape-stop 17
+--sim-load-config finish-tape=1

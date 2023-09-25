@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037351/FullPoker.tzx.zip
+full-poker.z80
+--tape-name "FullPoker.tzx"
+--tape-sum 188f974fb656c9ba9203867f96018169
+--start 1343
+--sim-load-config finish-tape=1

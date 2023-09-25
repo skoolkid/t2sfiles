@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036343/Graal.tzx.zip
+graal.z80
+--tape-name "Graal.tzx"
+--tape-sum c03b4ec19c80280885fb83cea8542a23
+--start 33792
+--tape-stop 4
+--sim-load-config accelerator=rom

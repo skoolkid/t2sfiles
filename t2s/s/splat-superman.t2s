@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037845/SplatSuperman.tap.zip
+splat-superman.z80
+--tape-name "GC 1984-09 - 65 - Splat Superman.TAP"
+--tape-sum aaa554a37c0703490ea2fe0a891bca39
+--start 1343
+--sim-load-config finish-tape=1

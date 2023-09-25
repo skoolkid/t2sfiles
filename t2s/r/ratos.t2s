@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036579/Ratos.tap.zip
+ratos.z80
+--tape-name "Ratos!.tap"
+--tape-sum 1fd134b126aa57c9204873f57f5ac944
+--start 1343
+--sim-load-config finish-tape=1

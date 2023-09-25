@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036958/Tiburon.tap.zip
+tiburon-memsoftware.z80
+--tape-name "Tiburon.tap"
+--tape-sum 24584e66700080c1aadca6559afe3989
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035326/Springbot.tap.zip
+springbot-mars-attack.z80
+--tape-name "SBOT1.3.tap"
+--tape-sum 9c9e05eca99b9a455cdd9780c2c9902c
+--start 1343
+--sim-load-config finish-tape=1

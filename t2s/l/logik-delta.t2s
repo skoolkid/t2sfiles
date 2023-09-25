@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035400/LogikDelta.tzx.zip
+logik-delta.z80
+--tape-name "LogikDelta.tzx"
+--tape-sum a6073f394fd8261bc36af89a3d06ab9b
+--start 1343
+--sim-load-config finish-tape=1

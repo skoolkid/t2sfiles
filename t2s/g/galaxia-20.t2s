@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035234/Galaxia20(BASIC).tap.zip
+galaxia-20.z80
+--tape-name "Game_GALAXIA20_AsteroideZX_normal.tap"
+--tape-sum 6dd73f55d6c5433a576c269c359849ce
+--start 1343
+--sim-load-config finish-tape=1

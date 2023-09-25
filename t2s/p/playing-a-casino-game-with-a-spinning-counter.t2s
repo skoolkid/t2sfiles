@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036265/PlayingACasinoGameWithASpinningCounter.tzx.zip
+playing-a-casino-game-with-a-spinning-counter.z80
+--tape-name "PlayingACasinoGameWithASpinningCounter.tzx"
+--tape-sum 0a63fec644bf1e7ddcce7104918b3843
+--start 1343
+--sim-load-config finish-tape=1

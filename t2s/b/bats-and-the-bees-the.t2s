@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038164/BatsAndTheBeesThe.tap.zip
+bats-and-the-bees-the.z80
+--tape-name "BatsAndTheBeesThe.tap"
+--tape-sum c1cbdcc48146fc28ffba522b03cb1b82
+--start 1343
+--sim-load-config finish-tape=1

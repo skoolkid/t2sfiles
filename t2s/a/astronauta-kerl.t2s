@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037273/AstronautaKerl.tap.zip
+astronauta-kerl.z80
+--tape-name "AstronautaKerl.tap"
+--tape-sum 6e04e0e9be3987c2a69bb7a09838a9aa
+--start 1343
+--tape-stop 9
+--sim-load-config finish-tape=1

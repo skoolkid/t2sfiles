@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038019/Fechas.tap.zip
+fechas.z80
+--tape-name "Fechas.tap"
+--tape-sum 289a3c33e17150872ba3f257a57844c8
+--start 1343
+--sim-load-config finish-tape=1

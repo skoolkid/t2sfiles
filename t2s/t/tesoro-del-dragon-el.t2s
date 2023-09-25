@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036576/EltesoroDelDragon.tap.zip
+tesoro-del-dragon-el.z80
+--tape-name "EltesorodelDragon.tap"
+--tape-sum 48233dcb96e689654b21a785c83946ae
+--start 1343
+--sim-load-config finish-tape=1

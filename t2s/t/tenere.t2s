@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037426/Tenere.tzx.zip
+tenere.z80
+--tape-name "Tenere.tzx"
+--tape-sum 68eb9eb46ba95c34aa126756c7403ba9
+--start 1343
+--tape-start 4
+--sim-load-config finish-tape=1

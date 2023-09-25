@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038537/CarSmash.tzx.zip
+car-smash.z80
+--tape-name "CarSmash.tzx"
+--tape-sum e168725238c9db56e40169327b9f9a27
+--start 1343
+--sim-load-config finish-tape=1

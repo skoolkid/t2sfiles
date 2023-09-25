@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038506/Saghibu.tzx.zip
+saghibu.z80
+--tape-name "Saghibu.tzx"
+--tape-sum dff3c08f502028f87423e8bc75d1c116
+--start 1343
+--sim-load-config finish-tape=1

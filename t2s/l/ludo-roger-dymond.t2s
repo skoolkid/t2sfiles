@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036811/Ludo.tzx.zip
+ludo-roger-dymond.z80
+--tape-name "Ludo.TZX"
+--tape-sum 0cc31117420d67fa937d5cac5e8a2a36
+--start 1343
+--sim-load-config finish-tape=1

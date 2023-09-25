@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035369/Dama.tap.zip
+dama-0035369.z80
+--tape-name "Dama.tap"
+--tape-sum 8483a025bcd609b67ee8a740ca8b833c
+--start 1343
+--sim-load-config finish-tape=1

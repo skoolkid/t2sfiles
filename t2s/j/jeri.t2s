@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037347/Jeri.tzx.zip
+jeri.z80
+--tape-name "Jeri.tzx"
+--tape-sum 6309c49d38dde13dfb116ba0772cdc84
+--start 1343
+--sim-load-config finish-tape=1

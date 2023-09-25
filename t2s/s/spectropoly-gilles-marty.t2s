@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037101/Spectropoly.tzx.zip
+spectropoly-gilles-marty.z80
+--tape-name "Spectropoly.tzx"
+--tape-sum 6295b2080bb14ad22ef3bbedbff48cf7
+--start 1343
+--sim-load-config finish-tape=1
