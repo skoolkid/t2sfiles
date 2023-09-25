@@ -1,0 +1,9 @@
+; Contributed by Bedazzle
+; processed with ZX Miracle emulator
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0003289/Motojet.tap.zip
+motojet.z80
+--sim-load
+--tape-name "Motojet.tap"
+--tape-sum 6b32e88223b0459cf8bff6f567c23339
+--start 1343
+--sim-load-config finish-tape=1

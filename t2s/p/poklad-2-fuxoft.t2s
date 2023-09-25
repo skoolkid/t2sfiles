@@ -1,0 +1,9 @@
+; Contributed by Bedazzle
+; processed with ZX Miracle emulator
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0003804/Poklad2.tap.zip
+poklad-2-fuxoft.z80
+--sim-load
+--tape-name "Poklad2.tap"
+--tape-sum f5c726f3d88c8e33c32b3f4f7b57deca
+--start 1343
+--sim-load-config finish-tape=1
