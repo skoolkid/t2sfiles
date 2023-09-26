@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036982/Corintia.tzx.zip
+corintia.z80
+--tape-name "Corintia.tzx"
+--tape-sum 186f2e1a7f9dfa44f84c6dad20d4a0b8
+--start 1343
+--sim-load-config finish-tape=1

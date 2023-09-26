@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037851/Duel.tap.zip
+duel-andy-sanders.z80
+--tape-name "GC 1984-06 - 46 - Duel.tap"
+--tape-sum 5a6eca06876f359a00ab6c1122b5c265
+--start 1343
+--sim-load-config finish-tape=1

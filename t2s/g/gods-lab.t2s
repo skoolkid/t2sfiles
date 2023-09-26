@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038807/GodsLab.tzx.zip
+gods-lab.z80
+--tape-name "GodsLab.tzx"
+--tape-sum 2d701e4e08c0153bb2e3b57234d3522a
+--start 1343
+--sim-load-config finish-tape=1

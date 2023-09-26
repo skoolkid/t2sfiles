@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035482/Hares.tap.zip
+hares.z80
+--tape-name "Hares.tap"
+--tape-sum e9d7228ae307492d93bd7e7f864c8259
+--start 60092
+--sim-load-config accelerator=bleepload

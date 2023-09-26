@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036575/Herocults.tap.zip
+herocults.z80
+--tape-name "Herocults_1.0.tap"
+--tape-sum 9a5b7204344d829de9aeb457c298ea2f
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039241/LaserDefensor.tap.zip
+laser-defensor.z80
+--tape-name "LaserDefensor.tap"
+--tape-sum fa1c7ce0edb2b7cf88c024d157e0bdea
+--start 1343
+--sim-load-config finish-tape=1

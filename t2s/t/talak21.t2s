@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036903/Talak21.tap.zip
+talak21.z80
+--tape-name "Talak21.tap"
+--tape-sum 94039d0d27ee8b8eba67131ef5a91907
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039308/MotoLaser.tzx.zip
+moto-laser.z80
+--tape-name "MotoLaser.tzx"
+--tape-sum e72698e5a4a069702fd081720bc7b58c
+--start 1343
+--sim-load-config finish-tape=1

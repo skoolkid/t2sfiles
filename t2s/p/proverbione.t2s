@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038775/Proverbione.tzx.zip
+proverbione.z80
+--tape-name "Proverbione.tzx"
+--tape-sum 1e2c5343d55a7b2f003f61ed17783a46
+--start 1343
+--sim-load-config finish-tape=1

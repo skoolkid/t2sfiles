@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037182/LesCigaresDuPharaon.tap.zip
+les-cigares-du-pharaon.z80
+--tape-name "LesCigaresDuPharaon.tap"
+--tape-sum 724d6cbcc368c0a97b078ff73a3b6eb3
+--start 1343
+--sim-load-config finish-tape=1

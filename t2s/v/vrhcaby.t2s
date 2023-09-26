@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035464/Vrhcaby.tap.zip
+vrhcaby.z80
+--tape-name "Vrhcaby.tap"
+--tape-sum 0300fd8faf51991dc99b2d62f7e3e232
+--start 1343
+--sim-load-config finish-tape=1

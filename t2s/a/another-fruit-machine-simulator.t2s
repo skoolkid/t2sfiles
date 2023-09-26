@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035252/AnotherFruitMachineSimulator.tap.zip
+another-fruit-machine-simulator.z80
+--tape-name "AFM.tap"
+--tape-sum bf386f8455e5a4c2087b5a5db06fca5a
+--start 1343
+--sim-load-config finish-tape=1

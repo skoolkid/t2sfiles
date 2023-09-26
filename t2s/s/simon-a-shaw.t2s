@@ -1,0 +1,8 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037068/Simon.tap.zip
+simon-a-shaw.z80
+--tape-name "Simon.tap"
+--tape-sum 87ca70959b68bf88cfc8be42118cf622
+--start 1343
+--tape-stop 3
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

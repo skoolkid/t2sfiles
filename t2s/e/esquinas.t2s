@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035230/Esquinas.tap.zip
+esquinas.z80
+--tape-name "esquinas.tap"
+--tape-sum b12e381b806fe73a19415b60bfe2b52a
+--start 1343
+--sim-load-config finish-tape=1

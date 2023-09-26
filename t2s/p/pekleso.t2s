@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035495/Pekleso.tap.zip
+pekleso.z80
+--tape-name "Pekleso.tap"
+--tape-sum 3697606cce67cf4597f1a9f2ed1a6c9c
+--start 23760
+--sim-load-config finish-tape=1

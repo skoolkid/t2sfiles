@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038919/CosmicJailbreak.tap.zip
+cosmic-jailbreak.z80
+--tape-name "CosmicJailbreak.tap"
+--tape-sum dc0f8fea72c1f202326968ee6c285a78
+--start 1343
+--sim-load-config finish-tape=1

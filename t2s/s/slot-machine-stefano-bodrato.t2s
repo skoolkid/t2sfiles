@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037185/SlotMachine.tap.zip
+slot-machine-stefano-bodrato.z80
+--tape-name "SlotMachine.tap"
+--tape-sum 46dc1b9ed8adaac7fdc4d70f3a85f46e
+--start 1343
+--sim-load-config finish-tape=1

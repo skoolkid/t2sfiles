@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035518/Mandanga.tzx.zip
+mandanga.z80
+--tape-name "Mandanga.tzx"
+--tape-sum c6056fd8acc1d580da9a54ec9f903728
+--start 1343
+--sim-load-config finish-tape=1

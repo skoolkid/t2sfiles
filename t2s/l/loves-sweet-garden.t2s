@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035917/LovesSweetGarden.tap.zip
+loves-sweet-garden.z80
+--tape-name "Loves Sweet Garden (Peter Shaw).tap"
+--tape-sum 9a821eb710a9d3cee3bbf18e9c50f3ab
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036801/Erotika2.tap.zip
+erotika-2.z80
+--tape-name "Erotika2.tap"
+--tape-sum b0e27d2654d57218ef3130d359904b0b
+--start 1343
+--sim-load-config finish-tape=1

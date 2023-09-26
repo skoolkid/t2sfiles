@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039183/Kunga.tzx.zip
+kunga.z80
+--tape-name "Kunga.tzx"
+--tape-sum 683278fd64ec7a3acd510e9d0230a3f1
+--start 1343
+--sim-load-config finish-tape=1

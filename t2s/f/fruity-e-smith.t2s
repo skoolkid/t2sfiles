@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036995/Fruity.tzx.zip
+fruity-e-smith.z80
+--tape-name "Fruity.tzx"
+--tape-sum 0b7b15a17d5bd75824eeaa6153e97547
+--start 1343
+--sim-load-config finish-tape=1

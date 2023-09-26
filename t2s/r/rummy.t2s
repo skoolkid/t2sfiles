@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037051/Rummy.tzx.zip
+rummy.z80
+--tape-name "Rummy.tzx"
+--tape-sum e710fa114940fdb1a78db459f6c0b612
+--start 1343
+--sim-load-config finish-tape=1

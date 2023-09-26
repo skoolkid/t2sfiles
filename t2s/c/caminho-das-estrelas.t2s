@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038679/CaminhoDasEstrelas.tzx.zip
+caminho-das-estrelas.z80
+--tape-name "CaminhoDasEstrelas.tzx"
+--tape-sum d37b0b265dd56c0d8c6eb2afd13f9912
+--start 1343
+--tape-stop 10
+--sim-load-config finish-tape=1

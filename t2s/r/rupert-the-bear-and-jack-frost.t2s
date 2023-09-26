@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037234/RupertTheBearAndJackFrost.tzx.zip
+rupert-the-bear-and-jack-frost.z80
+--tape-name "RupertTheBearAndJackFrost.tzx"
+--tape-sum af4287b3d0eb1c46313cccff57523d77
+--start 1343
+--tape-start 6
+--sim-load-config finish-tape=1

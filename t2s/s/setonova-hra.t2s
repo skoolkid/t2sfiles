@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035435/SetonovaHra.tzx.zip
+setonova-hra.z80
+--tape-name "SetonovaHra.tzx"
+--tape-sum cc111e56aee97cba12b2fd07893f45ed
+--start 1343
+--sim-load-config finish-tape=1

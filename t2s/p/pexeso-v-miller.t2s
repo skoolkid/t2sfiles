@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038081/Pexeso.tap.zip
+pexeso-v-miller.z80
+--tape-name "Pexeso.tap"
+--tape-sum f1094ff2128aee779efc4828bd625338
+--start 1343
+--sim-load-config finish-tape=1

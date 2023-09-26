@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038162/Coily.tap.zip
+coily.z80
+--tape-name "Coily.tap"
+--tape-sum 7378ced0934466349a1f43b8b3e16555
+--start 1343
+--sim-load-config finish-tape=1

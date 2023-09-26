@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035466/Wurm.tap.zip
+wurm.z80
+--tape-name "Wurm.tap"
+--tape-sum b16f0fb5d777bd6c9361e5b9ff7ac8d4
+--start 1343
+--sim-load-config finish-tape=1

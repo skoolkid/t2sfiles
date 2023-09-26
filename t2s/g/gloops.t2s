@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037355/Gloops.tzx.zip
+gloops.z80
+--tape-name "Gloops.tzx"
+--tape-sum edd8d81dcc12a6a9c4c166db291ae743
+--start 1343
+--sim-load-config finish-tape=1

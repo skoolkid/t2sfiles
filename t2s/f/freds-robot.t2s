@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037288/FredsRobot.tzx.zip
+freds-robot.z80
+--tape-name "FredsRobot.tzx"
+--tape-sum e2f69ea12ee9c88d92fccf649670fc58
+--start 1343
+--sim-load-config finish-tape=1

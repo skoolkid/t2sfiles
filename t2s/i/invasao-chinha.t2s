@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039161/InvasaoCinha.tzx.zip
+invasao-chinha.z80
+--tape-name "InvasaoCinha.tzx"
+--tape-sum ea4a6c9809e96a173be956dcecdcc444
+--start 1343
+--sim-load-config finish-tape=1

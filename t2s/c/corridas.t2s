@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038905/Corridas.tzx.zip
+corridas.z80
+--tape-name "Corridas.tzx"
+--tape-sum 0dcc3e9c8079328c45c592de274c27ca
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

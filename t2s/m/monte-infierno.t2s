@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036759/MonteInfierno.tap.zip
+monte-infierno.z80
+--tape-name "MonteInfierno.tap"
+--tape-sum a46a9dfaa3683184fd529f25f821fe79
+--start 1343
+--sim-load-config finish-tape=1

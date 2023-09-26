@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038917/H-BombHarry.tap.zip
+h-bomb-harry.z80
+--tape-name "H-BombHarry.tap"
+--tape-sum cbb310970a10caed5eb9331664484b72
+--start 1343
+--sim-load-config finish-tape=1

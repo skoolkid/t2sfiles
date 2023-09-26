@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039118/OstrovKanibalu2(CannibalIsland2)(PaveroSoftware).tap.zip
+ostrov-kanibalu-2.z80
+--tape-name "OstrovKanibalu2(CannibalIsland2)(PaveroSoftware).tap"
+--tape-sum 87eabd70afecb2b7d01830d3c60da302
+--start 1343
+--sim-load-config finish-tape=1

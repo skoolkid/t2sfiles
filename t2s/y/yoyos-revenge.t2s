@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039004/YOYOsRevenge.tap.zip
+yoyos-revenge.z80
+--tape-name "YOYOsRevenge.tap"
+--tape-sum 1e88e9ec395ea303b143d82a174fc873
+--start 1343
+--sim-load-config finish-tape=1

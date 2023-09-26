@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039222/Lixo.tzx.zip
+lixo.z80
+--tape-name "Lixo.tzx"
+--tape-sum e647fea8a20195323a17843c2396b765
+--start 1343
+--sim-load-config finish-tape=1

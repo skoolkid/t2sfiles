@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037150/PappagalloIl.tzx.zip
+pappagallo-il.z80
+--tape-name "PappagalloIl.tzx"
+--tape-sum 73516411778e4d7a4dcd9415d3754008
+--start 1343
+--sim-load-config finish-tape=1

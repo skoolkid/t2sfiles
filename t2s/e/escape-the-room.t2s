@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035249/EscapeTheRoom.tap.zip
+escape-the-room.z80
+--tape-name "escapetheroom_tape.tap"
+--tape-sum 870f01fd4251908eb949b1beeea4d97b
+--start 1343
+--sim-load-config finish-tape=1

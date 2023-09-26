@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037848/SubHunt.tap.zip
+sub-hunt-i-billups-b-billups.z80
+--tape-name "GC 1984-10 - 82 - Sub-Hunt (Issue 2 compatible).tap"
+--tape-sum 50b0a6a09299ad0731258185a3232d33
+--start 1343
+--tape-stop 3
+--sim-load-config finish-tape=1

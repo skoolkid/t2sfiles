@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037169/DolardsDolards.tap.zip
+dolards-dolards.z80
+--tape-name "DolardsDolards.tap"
+--tape-sum 14e0ee9524442b62871ed11e7e75b162
+--start 1343
+--sim-load-config finish-tape=1

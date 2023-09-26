@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035778/DriveMeCrazy.tap.zip
+drive-me-crazy.z80
+--tape-name "DrvMCrzy.tap"
+--tape-sum ca1df8d05c418b949f2d7dbabd46b21b
+--start 1343
+--sim-load-config finish-tape=1

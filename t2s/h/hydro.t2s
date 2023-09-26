@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035390/Hydro.tap.zip
+hydro.z80
+--tape-name "Hydro.tap"
+--tape-sum f4d1ffc15e25c8e93f5159a41a9a8ef7
+--start 1343
+--sim-load-config finish-tape=1

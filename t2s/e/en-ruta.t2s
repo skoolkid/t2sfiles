@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037466/EnRuta.tap.zip
+en-ruta.z80
+--tape-name "EnRuta.tap"
+--tape-sum 3e3e56138212bc1a433de95a70122445
+--start 1343
+--sim-load-config finish-tape=1

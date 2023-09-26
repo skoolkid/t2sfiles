@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038522/CircuitBreaker.tzx.zip
+circuit-breaker.z80
+--tape-name "CircuitBreaker.tzx"
+--tape-sum 89d23fc76fb1c5a04f4ca0cb9cbc6b8a
+--start 1343
+--sim-load-config finish-tape=1

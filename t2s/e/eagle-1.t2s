@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038944/Eagle1.tap.zip
+eagle-1.z80
+--tape-name "Eagle1.tap"
+--tape-sum a232f030011654c26a032a04f91b08db
+--start 1343
+--sim-load-config finish-tape=1

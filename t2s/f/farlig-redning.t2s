@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036710/FarligRedning.tzx.zip
+farlig-redning.z80
+--tape-name "FarligRedning.tzx"
+--tape-sum df40ef619b5e9a9419b39aed18708bcf
+--start 1343
+--tape-stop 8
+--sim-load-config finish-tape=1

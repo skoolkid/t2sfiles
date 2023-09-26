@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037653/TheCave.tap.zip
+cave-the.z80
+--tape-name "THECAVE2.tap"
+--tape-sum 8bc10e12aed54e740c2140b48dc4180c
+--start 1343
+--sim-load-config finish-tape=1

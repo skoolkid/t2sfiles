@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037342/Commode64BASIC.tzx.zip
+commode-64-basic.z80
+--tape-name "Commode64BASIC.tzx"
+--tape-sum c1937026954bb5891432e4ddfcb706ca
+--start 1343
+--sim-load-config finish-tape=1

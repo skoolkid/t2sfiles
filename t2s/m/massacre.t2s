@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037106/Massacre.tap.zip
+massacre.z80
+--tape-name "Massacre.tap"
+--tape-sum 8e125a20c5a4f45f000b92d550da6241
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038454/AstorGamao.tzx.zip
+astor-gamao.z80
+--tape-name "AstorGamao.tzx"
+--tape-sum 17864b6d04a6e2bf099e63387eec8506
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038901/SevenJewels.tap.zip
+seven-jewels.z80
+--tape-name "SevenJewels.tap"
+--tape-sum 8a5db06216d624656bb251f7edb6936a
+--start 1343
+--sim-load-config finish-tape=1

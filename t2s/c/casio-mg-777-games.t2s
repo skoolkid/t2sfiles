@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036267/CasioMG-777Games.tzx.zip
+casio-mg-777-games.z80
+--tape-name "Casio MG-777 Games.tzx"
+--tape-sum 78cddf2e444aef3a1765d9e03126ffac
+--start 1343
+--sim-load-config finish-tape=1

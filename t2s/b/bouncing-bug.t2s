@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036383/BouncingBug(UDGs).tzx.zip
+bouncing-bug.z80
+--tape-name "BouncingBugHighQuality.tzx"
+--tape-sum ffe13a22487140f6c43c06ab93e4cd88
+--start 1343
+--sim-load-config finish-tape=1

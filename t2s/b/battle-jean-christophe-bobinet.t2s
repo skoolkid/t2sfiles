@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037310/Battle.tzx.zip
+battle-jean-christophe-bobinet.z80
+--tape-name "Battle.tzx"
+--tape-sum 3ab271348420ac4e5dfc0e0a7b3e9266
+--start 1343
+--sim-load-config finish-tape=1

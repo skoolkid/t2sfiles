@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038826/Abismo.tzx.zip
+abismo.z80
+--tape-name "Abismo.tzx"
+--tape-sum d57255d378ac7c32903c1a9a48474b65
+--start 1343
+--sim-load-config finish-tape=1

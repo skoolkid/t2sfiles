@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037137/Robinet.tap.zip
+robinet.z80
+--tape-name "Robinet.tap"
+--tape-sum 873298734c58c86f6c44219120b9f79a
+--start 1343
+--sim-load-config finish-tape=1

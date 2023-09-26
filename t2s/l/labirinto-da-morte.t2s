@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038744/LabirintoDaMorte.tzx.zip
+labirinto-da-morte.z80
+--tape-name "LabirintoDaMorte.tzx"
+--tape-sum 4266b0dedfbd23142b152306694a984d
+--start 1343
+--sim-load-config finish-tape=1

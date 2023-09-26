@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035408/NaRozkazKrale.tzx.zip
+na-rozkaz-krale-jz-ponych.z80
+--tape-name "NaRozkazKrale.tzx"
+--tape-sum af1966f78a48c437e16e8df4cac70010
+--start 1343
+--sim-load-config finish-tape=1

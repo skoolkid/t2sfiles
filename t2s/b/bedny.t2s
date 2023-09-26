@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035354/Bedny.tzx.zip
+bedny.z80
+--tape-name "Bedny.tzx"
+--tape-sum 5c0ee237f103a2a252742ba1f709ff3e
+--start 1343
+--sim-load-config finish-tape=1

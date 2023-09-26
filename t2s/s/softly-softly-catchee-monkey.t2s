@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039270/SoftlySoftlyCatcheeMonkey.tzx.zip
+softly-softly-catchee-monkey.z80
+--tape-name "SoftlySoftlyCatcheeMonkey.tzx"
+--tape-sum de29cc9484c411676eaf3f7db4768a55
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036810/FoxGeese.tzx.zip
+fox-and-geese.z80
+--tape-name "Fox & Geese.TZX"
+--tape-sum c2cf9496954eec67021c2076749aabc0
+--start 1343
+--sim-load-config finish-tape=1

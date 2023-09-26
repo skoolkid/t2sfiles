@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039301/MissaoEspacial.tzx.zip
+missao-espacial.z80
+--tape-name "MissaoEspacial.tzx"
+--tape-sum 40e7b45bec961fe1e927cb83dfc41dd4
+--start 1343
+--sim-load-config finish-tape=1

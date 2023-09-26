@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037183/Poker.tap.zip
+poker-marc-szaleniec.z80
+--tape-name "Poker.tap"
+--tape-sum 1763d233d42bf2a58880c3476f5aaf3c
+--start 1343
+--sim-load-config finish-tape=1

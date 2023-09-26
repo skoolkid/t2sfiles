@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037235/Natation.tap.zip
+natation.z80
+--tape-name "Natation.tap"
+--tape-sum 46e20a0bc8fd7d7e5d046373fea775a6
+--start 1343
+--sim-load-config finish-tape=1

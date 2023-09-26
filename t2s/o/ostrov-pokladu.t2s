@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035488/OstrovPokladu.tap.zip
+ostrov-pokladu.z80
+--tape-name "OstrovPokladu.tap"
+--tape-sum c30a9d94a408aafc848f0429b0cb0e17
+--start 24200
+--tape-start 3
+--sim-load-config accelerator=rom

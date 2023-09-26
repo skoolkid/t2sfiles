@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039315/ToweringInferno.tzx.zip
+towering-inferno-chris-matthewson.z80
+--tape-name "ToweringInferno.tzx"
+--tape-sum 1b0f7dd9675a63d9c818256b5fc4df2f
+--start 1343
+--sim-load-config finish-tape=1

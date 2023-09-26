@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038141/TorreDeBrahmaLa.tap.zip
+torre-de-brahma-la.z80
+--tape-name "TorreDeBrahmaLa.tap"
+--tape-sum 26fd91ffe0e48837c60338683c6b56e9
+--start 1343
+--sim-load-config finish-tape=1

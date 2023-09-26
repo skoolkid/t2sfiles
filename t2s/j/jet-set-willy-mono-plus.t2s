@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037704/JetSetWillyMonoPlus.tap.zip
+jet-set-willy-mono-plus.z80
+--tape-name "JSW Mono Plus.tap"
+--tape-sum 3dfae2d76efbcc10fe114d04b84f0750
+--start 1343
+--sim-load-config finish-tape=1

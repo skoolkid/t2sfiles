@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036273/DevilsCauseway.tap.zip
+devils-causeway.z80
+--tape-name "causeway.tap"
+--tape-sum 36cf770cd2adc144370b01cc4634da4d
+--start 1343
+--sim-load-config finish-tape=1

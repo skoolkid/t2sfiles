@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036338/Tabuada.tzx.zip
+tabuada.z80
+--tape-name "Tabuada.tzx"
+--tape-sum 4afb13558f6bfb2b4830ba7996202004
+--start 1343
+--sim-load-config finish-tape=1

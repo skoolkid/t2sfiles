@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036392/BlindSweeper(Deluxe).tap.zip
+blind-sweeper.z80
+--tape-name "BlindSweeperDeluxe.tap"
+--tape-sum 583697a36a0bf49c8079be924b30e815
+--start 1343
+--sim-load-config finish-tape=1

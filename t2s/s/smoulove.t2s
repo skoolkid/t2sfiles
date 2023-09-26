@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035491/Smoulove.tap.zip
+smoulove.z80
+--tape-name "Smoulove.tap"
+--tape-sum dd99f827e527f315b0d1d8ad95c97245
+--start 24200
+--sim-load-config accelerator=rom

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038629/Capicua.tzx.zip
+capicua.z80
+--tape-name "Capicua.tzx"
+--tape-sum 80531853c217363d699b07f4352f82a8
+--start 1343
+--sim-load-config finish-tape=1

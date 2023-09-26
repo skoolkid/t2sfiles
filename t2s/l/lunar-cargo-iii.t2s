@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036749/LunarCargoIII.tap.zip
+lunar-cargo-iii.z80
+--tape-name "LunarCargoIII.tap"
+--tape-sum bc8c5693cc8a27252252e9c8dee3e04c
+--start 1343
+--sim-load-config finish-tape=1

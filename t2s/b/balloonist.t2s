@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037836/Balloonist.tap.zip
+balloonist.z80
+--tape-name "GC 1984-11 - 94 - Balloonist.TAP"
+--tape-sum 8a955b2139dfee1d225702adbe83f3fe
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035528/Kekyzarny2-Pomsta.tzx.zip
+kekyzarny-2-pomsta.z80
+--tape-name "Kekyzarny2-Pomsta.tzx"
+--tape-sum 4b963ff15da8656a9cc5cd7cfd931adf
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038728/Bingo.tap.zip
+bingo-j-m-mayoral-serrano.z80
+--tape-name "Bingo.tap"
+--tape-sum b32e75eb11988e3896c261929b046edd
+--start 1343
+--sim-load-config finish-tape=1

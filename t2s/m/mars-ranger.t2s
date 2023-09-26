@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037014/MarsRanger.tzx.zip
+mars-ranger.z80
+--tape-name "MarsRanger.tzx"
+--tape-sum 2832649ead85f2ca1bf1de67cc4e6199
+--start 1343
+--sim-load-config finish-tape=1

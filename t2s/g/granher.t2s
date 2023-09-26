@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035348/Granher.tap.zip
+granher.z80
+--tape-name "GRANHER.tap"
+--tape-sum 93cc2b0fa863f4c659a06864b2e3e862
+--start 1343
+--sim-load-config finish-tape=1

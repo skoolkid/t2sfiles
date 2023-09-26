@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038548/ToweringInfernoThe.tap.zip
+towering-inferno-the.z80
+--tape-name "ToweringInfernoThe.tap"
+--tape-sum 068b3f8f4b8c0616f51cdb4fcabd50f0
+--start 1343
+--sim-load-config finish-tape=1

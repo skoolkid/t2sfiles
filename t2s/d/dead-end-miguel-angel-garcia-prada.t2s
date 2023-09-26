@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034904/DeadEnd(ES).tap.zip
+dead-end-miguel-angel-garcia-prada.z80
+--tape-name "DeadEnd.tap"
+--tape-sum 91ef7c5ac662848f057862410cc8757e
+--start 1343
+--sim-load-config finish-tape=1

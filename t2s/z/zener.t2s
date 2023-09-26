@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038016/Zener.tap.zip
+zener.z80
+--tape-name "Zener.tap"
+--tape-sum 61bf8c55ea88e85607b7b22f780ddc14
+--start 1343
+--sim-load-config finish-tape=1

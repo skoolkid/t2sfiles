@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037667/MicroGauntlet.tap.zip
+micro-gauntlet.z80
+--tape-name "Micro Gauntlet.tap"
+--tape-sum 3d5eb3937f5db270c228e2b98409af78
+--start 1343
+--sim-load-config finish-tape=1

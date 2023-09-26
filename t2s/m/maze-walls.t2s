@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038216/MazeWalls.tap.zip
+maze-walls.z80
+--tape-name "MazeWalls.tap"
+--tape-sum 32492b919f895bb07a7837ac651fa22f
+--start 1343
+--sim-load-config finish-tape=1

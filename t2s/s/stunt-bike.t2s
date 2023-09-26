@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036500/StuntBike.tap.zip
+stunt-bike.z80
+--tape-name "12. Stunt Bike.tap"
+--tape-sum 69fbacf65cd085baf704a56dcae171bc
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

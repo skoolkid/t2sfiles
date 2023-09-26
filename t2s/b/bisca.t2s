@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038854/Bisca.tzx.zip
+bisca.z80
+--tape-name "Bisca.tzx"
+--tape-sum 6ba78879367f2aee4746eda26888d187
+--start 1343
+--sim-load-config finish-tape=1

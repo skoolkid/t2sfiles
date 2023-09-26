@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037458/Kleingeld.tzx.zip
+kleingeld.z80
+--tape-name "Kleingeld.tzx"
+--tape-sum c6880abf994a192016b8cac90bf1fa18
+--start 1343
+--sim-load-config finish-tape=1

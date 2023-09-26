@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037131/GameOfGamesThe.tzx.zip
+game-of-games-the.z80
+--tape-name "GameOfGamesThe.tzx"
+--tape-sum cae0d949452013e1c11d294d2627d90b
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036916/NeurobicFootballCup.tap.zip
+neurobic-footy-cup.z80
+--tape-name "NeurobicFootballCup.tap"
+--tape-sum 4762af4d1cc510a09e3062f225a2e87b
+--start 1343
+--sim-load-config finish-tape=1

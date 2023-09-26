@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036832/LaFuga.tzx.zip
+fuga-la.z80
+--tape-name "La Fuga.tzx"
+--tape-sum 1173e3c5788c3f4a3d48eb005e787c3e
+--start 1343
+--sim-load-config finish-tape=1

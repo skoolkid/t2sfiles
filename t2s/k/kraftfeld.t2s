@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039108/Kraftfeld.tzx.zip
+kraftfeld.z80
+--tape-name "Kraftfeld.tzx"
+--tape-sum 813026d6b1ffdbe35ccd996bd7df78fe
+--start 1343
+--tape-stop 3
+--sim-load-config finish-tape=1

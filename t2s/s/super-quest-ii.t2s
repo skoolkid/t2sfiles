@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035445/SuperQuestII.tap.zip
+super-quest-ii.z80
+--tape-name "SuperQuestII.tap"
+--tape-sum 1204427efdd09abb279484a9527550a5
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035440/SQRZ01.tap.zip
+sqrz01.z80
+--tape-name "SQRZ01.tap"
+--tape-sum b491af9d919559eced5fcdc666b55f89
+--start 1343
+--tape-start 5
+--sim-load-config finish-tape=1

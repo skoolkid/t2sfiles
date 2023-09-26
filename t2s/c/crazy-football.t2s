@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036949/CrazyFootball.tap.zip
+crazy-football.z80
+--tape-name "CrazyFootball.tap"
+--tape-sum 8a7a55200f86863a38e7e723c3cfa75f
+--start 1343
+--sim-load-config finish-tape=1

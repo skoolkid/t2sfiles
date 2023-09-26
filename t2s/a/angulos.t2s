@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038051/Angulos.tap.zip
+angulos.z80
+--tape-name "Angulos.tap"
+--tape-sum c564ff87be0b3cca1af9341c094b0f26
+--start 1343
+--sim-load-config finish-tape=1

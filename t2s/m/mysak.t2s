@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035556/Mysak.tap.zip
+mysak.z80
+--tape-name "Mysak.tap"
+--tape-sum 6710cc4084ef7edc04218e5b7192f4cb
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038523/AnnualSpaceshipContestThe.tzx.zip
+annual-spaceship-contest-the.z80
+--tape-name "AnnualSpaceshipContestThe.tzx"
+--tape-sum 6c4ddb5397e45af823be736675933263
+--start 1343
+--sim-load-config finish-tape=1

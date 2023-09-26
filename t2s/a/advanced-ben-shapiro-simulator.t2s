@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039027/AdvancedBenShapiroSimulator.tzx.zip
+advanced-ben-shapiro-simulator.z80
+--tape-name "AdvancedBenShapiroSimulator.tzx"
+--tape-sum d2cd459bb7d00e517c6d89ad2a699158
+--start 1343
+--sim-load-config finish-tape=1

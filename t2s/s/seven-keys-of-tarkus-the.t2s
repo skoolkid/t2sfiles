@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035207/TheSevenKeysOfTarkus.tzx.zip
+seven-keys-of-tarkus-the.z80
+--tape-name "SevenKeysOfTarkus.tzx"
+--tape-sum 01fbdca9ffccfe2639791454022de2bc
+--start 1343
+--sim-load-config finish-tape=1

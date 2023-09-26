@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037842/MoonRescue.tap.zip
+moon-rescue-david-harwood.z80
+--tape-name "GC 1984-01 - 53 - Moon Rescue.TAP"
+--tape-sum 69af856a505e881b8a57c03c2c00c300
+--start 1343
+--sim-load-config finish-tape=1

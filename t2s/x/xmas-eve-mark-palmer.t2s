@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038918/XmasEve.tap.zip
+xmas-eve-mark-palmer.z80
+--tape-name "XmasEve.tap"
+--tape-sum 09d16b3ab3f8a902273232f007918db2
+--start 1343
+--tape-stop 9
+--sim-load-config finish-tape=1

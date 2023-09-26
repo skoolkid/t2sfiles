@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039238/SpeccySpell.tap.zip
+speccy-and-spell.z80
+--tape-name "Speccy&Spell.tap"
+--tape-sum b18cfe9000fe78e4013e14ecfeacae73
+--start 1343
+--sim-load-config finish-tape=1

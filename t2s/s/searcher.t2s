@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038635/Searcher.tap.zip
+searcher.z80
+--tape-name "Searcher.tap"
+--tape-sum 6eecdace8e1ff280091192b65089b547
+--start 1343
+--sim-load-config finish-tape=1

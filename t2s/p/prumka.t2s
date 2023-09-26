@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035428/Prumka.tap.zip
+prumka.z80
+--tape-name "Prumka.tap"
+--tape-sum a337b69f73eebb41a1b1331bdd5ca2e7
+--start 1343
+--sim-load-config finish-tape=1

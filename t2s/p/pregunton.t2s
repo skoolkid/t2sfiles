@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038098/Pregunton.tap.zip
+pregunton.z80
+--tape-name "Pregunton.tap"
+--tape-sum b0686a5183f9a044dec262c976671d91
+--start 1343
+--sim-load-config finish-tape=1

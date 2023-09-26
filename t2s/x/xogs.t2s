@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037112/Xogs.tap.zip
+xogs.z80
+--tape-name "Xogs.tap"
+--tape-sum 701d5ebea987ba022c241c4bfc143700
+--start 1343
+--sim-load-config finish-tape=1

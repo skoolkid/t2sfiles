@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037363/VlaLesSchtroumpfs.tzx.zip
+vla-les-schtroumpfs.z80
+--tape-name "VlaLesSchtroumpfs.tzx"
+--tape-sum eb4d576e1349f4a77b6dd1dbedeabbf2
+--start 1343
+--sim-load-config finish-tape=1

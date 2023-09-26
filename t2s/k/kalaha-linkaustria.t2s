@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039107/Kalaha.tzx.zip
+kalaha-linkaustria.z80
+--tape-name "Kalaha.tzx"
+--tape-sum 5ef85632843a2c042f7fec0bbde2344f
+--start 1343
+--sim-load-config finish-tape=1

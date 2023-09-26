@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035533/ZednikMaZizen.tap.zip
+zednik-ma-zizen.z80
+--tape-name "ZednikMaZizen.tap"
+--tape-sum 5c2b8e31a2e006555b9d54974b35bec3
+--start 1343
+--sim-load-config finish-tape=1

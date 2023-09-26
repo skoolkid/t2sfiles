@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036291/CsavargasAGombakBirodalmaban.tzx.zip
+csavargas-a-gombak-birodalmaban.z80
+--tape-name "csavargas.tzx"
+--tape-sum 14e68a6c25cb8031adec663fb1b2c0d4
+--start 64516
+--tape-stop 8
+--sim-load-config accelerator=rom

@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039251/BattleStations.tap.zip
+battle-stations-robert-higgins.z80
+--tape-name "BattleStations.tap"
+--tape-sum 610e6fa3a5be6a2143916525182c3798
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

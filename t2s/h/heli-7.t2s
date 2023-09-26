@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037412/Heli7.tzx.zip
+heli-7.z80
+--tape-name "Heli7.tzx"
+--tape-sum 5fb62c61d2a249771f5cbb1bbdb48a38
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037082/Jackpot.tap.zip
+jackpot-stephane-derisbourg.z80
+--tape-name "Jackpot.tap"
+--tape-sum 9800af96e6e782f8c33d87d15dec280e
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035489/Podraz5.tap.zip
+podraz-5-amsoft.z80
+--tape-name "Podraz5.tap"
+--tape-sum 9a168f27002b324a76ee0a7ab036f847
+--start 24200
+--sim-load-config accelerator=rom

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037485/ZXGuordel(EN).tap.zip
+zx-guordel.z80
+--tape-name "ZXGuordel(EN).tap"
+--tape-sum ed6a92aa7db6088e24be38ba01eff61e
+--start 1343
+--sim-load-config finish-tape=1

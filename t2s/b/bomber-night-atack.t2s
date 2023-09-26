@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035357/BomberNightAtack.tap.zip
+bomber-night-atack.z80
+--tape-name "BomberNightAtack.tap"
+--tape-sum 2ad5bef261da5dfb9eaef68696b9a002
+--start 1343
+--sim-load-config finish-tape=1

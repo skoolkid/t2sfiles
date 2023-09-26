@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037304/Pomsta.tap.zip
+pomsta.z80
+--tape-name "Pomsta.tap"
+--tape-sum f4e43f2f14090a24e03b327fc0662595
+--start 32768
+--sim-load-config finish-tape=1
