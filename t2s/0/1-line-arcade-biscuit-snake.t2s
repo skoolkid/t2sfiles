@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/compilations/123/1LineArcade.tzx.zip
+1-line-arcade-biscuit-snake.z80
+--tape-name "1LineArcade.tzx"
+--tape-sum e7f6e50632769c80e4146d4b7ea7bbce
+--start 1343
+--tape-start 10
+--tape-stop 12
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039466/RallyEspacial.tzx.zip
+rally-espacial.z80
+--tape-name "RallyEspacial.tzx"
+--tape-sum 38fca4663d1343b5435ce83c22cf434d
+--start 1343
+--sim-load-config finish-tape=1

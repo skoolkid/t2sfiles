@@ -1,0 +1,8 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040040/LaserChase.tap.zip
+laser-chase.z80
+--tape-name "LaserChase.tap"
+--tape-sum 0edbb82b9c1fc4d5135c0cacd07cf1f7
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": OUT 254,255: RUN'
+--state issue2=1

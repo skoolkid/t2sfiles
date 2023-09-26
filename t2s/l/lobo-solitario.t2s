@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042172/LoboSolitario.tzx.zip
+lobo-solitario.z80
+--tape-name "LoboSolitario.tzx"
+--tape-sum cfa2b3582e25fa01dd5744c3055c7ed2
+--start 1343
+--sim-load-config finish-tape=1

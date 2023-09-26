@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042115/JuegoDeLaVidaEl.tzx.zip
+juego-de-la-vida-el-todospectrum.z80
+--tape-name "JuegoDeLaVidaEl.tzx"
+--tape-sum 6d603f3e676169e405dce2cfdf19ac74
+--start 1343
+--sim-load-config finish-tape=1

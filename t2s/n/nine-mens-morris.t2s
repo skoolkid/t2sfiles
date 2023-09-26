@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042453/NineMensMorris.tzx.zip
+nine-mens-morris.z80
+--tape-name "NineMensMorris.tzx"
+--tape-sum af6d5b696a2312f57fcf25123d7deee5
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039440/ProjectoFuturismo.tzx.zip
+projecto-futurismo.z80
+--tape-name "ProjectoFuturismo.tzx"
+--tape-sum 4807ba7cb508ec053efaa297cde3ce19
+--start 1343
+--sim-load-config finish-tape=1

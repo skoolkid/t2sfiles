@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0041004/Troter.tap.zip
+trotter.z80
+--tape-name "Troter.tap"
+--tape-sum b7d9ed91a7a9025e4b152b81821ba1c6
+--start 1343
+--sim-load-config finish-tape=1

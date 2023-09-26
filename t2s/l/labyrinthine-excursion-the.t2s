@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042407/LabyrinthineExcursionThe.tzx.zip
+labyrinthine-excursion-the.z80
+--tape-name "LabyrinthineExcursionThe.tzx"
+--tape-sum 8aea9a7625102966e2fa7321ed1e2131
+--start 1343
+--sim-load-config finish-tape=1

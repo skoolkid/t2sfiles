@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0041008/AtrapaElCorrecaminos(BipYZap).tap.zip
+atrapa-al-correcaminos-bip-y-zap.z80
+--tape-name "AtrapaElCorrecaminos(BipYZap).tap"
+--tape-sum a5b708c851ba97a896432c358666fae3
+--start 1343
+--sim-load-config finish-tape=1

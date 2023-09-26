@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/compilations/123/1LineAction.tzx.zip
+1-line-action-sheepdog-trials.z80
+--tape-name "1LineAction.tzx"
+--tape-sum 64555c3ac40ad75406d4ab8a82e1ea0b
+--start 1343
+--tape-start 8
+--tape-stop 10
+--sim-load-config finish-tape=1

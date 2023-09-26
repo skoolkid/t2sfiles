@@ -5,3 +5,4 @@ bad-dream.z80
 --tape-name "BadDream.tzx"
 --tape-sum 5a0f861c8f0da4a83c03fcbf0a4beae2
 --start 24200
+--sim-load-config accelerator=bleepload

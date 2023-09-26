@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0041009/Tankerl(Keyboard).tap.zip
+tankerl.z80
+--tape-name "Tankerl(Keyboard).tap"
+--tape-sum 26cbd5c9f0357b5b8a8812825992797f
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

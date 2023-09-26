@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042302/Testante.tzx.zip
+testante.z80
+--tape-name "Testante.tzx"
+--tape-sum 53a3f512f5e578b5c9c61bdd90195dd5
+--start 1343
+--sim-load-config finish-tape=1

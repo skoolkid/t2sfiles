@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039403/Pesquisador.tzx.zip
+pesquisador.z80
+--tape-name "Pesquisador.tzx"
+--tape-sum ec0d2bcbaf01d35c20f9856e8d7e5786
+--start 1343
+--sim-load-config finish-tape=1

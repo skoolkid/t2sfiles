@@ -5,3 +5,4 @@ archeo.z80
 --tape-name "Archeo.tzx"
 --tape-sum 2efcf956aece0ac6b78f5e9618e519b3
 --start 24200
+--sim-load-config accelerator=bleepload

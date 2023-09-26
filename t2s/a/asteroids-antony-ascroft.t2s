@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040043/Asteroids.tap.zip
+asteroids-antony-ascroft.z80
+--tape-name "Asteroids.tap"
+--tape-sum faf6de358767f8247f5b3bae28e6d938
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

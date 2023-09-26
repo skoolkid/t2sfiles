@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042225/ReunionZ.tap.zip
+reunion-z.z80
+--tape-name "ReunionZ.tap"
+--tape-sum fdf96ae4e9a5fb4c085eceec304f73c1
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039518/TimsCastle.tap.zip
+tims-castle.z80
+--tape-name "TimsCastle.tap"
+--tape-sum 537329241d425ddfe58eb6d31366b96b
+--start 1343
+--sim-load-config finish-tape=1

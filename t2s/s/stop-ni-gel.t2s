@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042208/StopNi-gel.tzx.zip
+stop-ni-gel.z80
+--tape-name "StopNi-gel.tzx"
+--tape-sum 8c1b9fa900efa5938dde1e28f4827a7b
+--start 1343
+--tape-stop 9
+--sim-load-config finish-tape=1

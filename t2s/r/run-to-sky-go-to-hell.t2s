@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042272/RunToSkyGoToHell.tzx.zip
+run-to-sky-go-to-hell.z80
+--tape-name "RunToSkyGoToHell.tzx"
+--tape-sum f680b9f711da2591a11bf4a743e58906
+--start 1343
+--sim-load-config finish-tape=1

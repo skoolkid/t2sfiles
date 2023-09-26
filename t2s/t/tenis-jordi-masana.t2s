@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042095/Tenis.tzx.zip
+tenis-jordi-masana.z80
+--tape-name "Tenis.tzx"
+--tape-sum 76410e9082f8df49431b362a00946d2f
+--start 1343
+--sim-load-config finish-tape=1

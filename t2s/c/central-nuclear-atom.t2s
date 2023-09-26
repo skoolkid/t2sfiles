@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039534/CentralNuclearAtom.tap.zip
+central-nuclear-atom.z80
+--tape-name "CentralNuclearAtom.tap"
+--tape-sum cbf48927c2b0a75ffc0b3a2ac684e584
+--start 1343
+--sim-load-config finish-tape=1

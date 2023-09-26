@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042001/IkarieXB1.tap.zip
+ikarie-xb-1.z80
+--tape-name "IkarieXB1.tap"
+--tape-sum 1f087be189ac14a70b2a411d10733199
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039377/MultiplayerPremierLeague.tzx.zip
+multiplayer-premier-league.z80
+--tape-name "MultiplayerPremierLeague.tzx"
+--tape-sum 2f6e9cd6b8b9cd04343ca841dd1b045a
+--start 1343
+--sim-load-config finish-tape=1

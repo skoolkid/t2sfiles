@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DamnedForestThe.tzx.zip
+damned-forest-the.z80
+--tape-name "The Damned Forest.tzx"
+--tape-sum 2e8c743d0c709c619b178b5b6512319d
+--start 1343
+--sim-load-config finish-tape=1

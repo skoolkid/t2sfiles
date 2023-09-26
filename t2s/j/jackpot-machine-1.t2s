@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042419/JackpotMachine1.tap.zip
+jackpot-machine-1.z80
+--tape-name "JackpotMachine1.tap"
+--tape-sum 278a985a97aa7b1138977eb778d43df1
+--start 1343
+--sim-load-config accelerator=rom
+--sim-load-config finish-tape=1

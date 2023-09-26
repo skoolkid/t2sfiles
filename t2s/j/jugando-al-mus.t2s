@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042211/JugandoAlMus.tap.zip
+jugando-al-mus.z80
+--tape-name "JugandoAlMus.tap"
+--tape-sum 1c75da401f7c244b0f429768e7e507cd
+--start 1343
+--sim-load-config finish-tape=1
