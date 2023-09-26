@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0032278/SuperIon.tzx.zip
+super-ion.z80
+--tape-name "SUPERION.tzx"
+--tape-sum 353a8b63cc3b3a797d10b960f90172e4
+--start 1343
+--sim-load-config finish-tape=1

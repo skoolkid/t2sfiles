@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031481/NEW.tzx.zip
+new.z80
+--tape-name "NEW.tzx"
+--tape-sum fcc84f82c016e6625e64af3f5feaab15
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031358/FlappyBirdTheTextAdventure.tap.zip
+flappy-bird-the-text-adventure.z80
+--tape-name "flappybirdadv.tap"
+--tape-sum 41f692cdaec94bbb156cb8b67a4e01a7
+--start 1343
+--sim-load-config finish-tape=1

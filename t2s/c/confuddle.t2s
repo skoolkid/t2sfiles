@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0033385/Confuddle.tap.zip
+confuddle.z80
+--tape-name "Confuddle.tap"
+--tape-sum 5b2aa809d9b661aa05378c7951a910fc
+--start 1343
+--sim-load-config finish-tape=1

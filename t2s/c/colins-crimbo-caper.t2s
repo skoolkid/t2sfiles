@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030355/ColinCrimboCaper.tap.zip
+colins-crimbo-caper.z80
+--tape-name "ColinCrimboCaper.tap"
+--tape-sum d802ad5f78376215bc0e4b34ab563135
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031473/CanalBoatAdventure.tap.zip
+canal-boat-adventure.z80
+--tape-name "Canalboat_00.tap"
+--tape-sum 94e377363fdb49a5d592ad82daa23b4c
+--start 1343
+--sim-load-config finish-tape=1

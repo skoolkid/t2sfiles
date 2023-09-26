@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031368/JumpOffACliffSimulator.tzx.zip
+jump-off-a-cliff-simulator.z80
+--tape-name "cliff.tzx"
+--tape-sum 6f863591b3446edada9d06af50360cc3
+--start 1343
+--sim-load-config finish-tape=1

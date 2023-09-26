@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Backgammon(SoftEasy).tzx.zip
+backgammon-oasis-software.z80
+--tape-name "Backgammon (Soft & Easy).tzx"
+--tape-sum 76432ac9b60b7da409c71442eff0b768
+--start 1343
+--sim-load-config finish-tape=1

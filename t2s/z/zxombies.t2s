@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0033372/ZXombies!.tap.zip
+zxombies.z80
+--tape-name "ZXombies!.tap"
+--tape-sum 88d7124cb5273e16702ba6b9e12030df
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0005530/UtokBileMysky.tzx.zip
+utok-bile-mysky.z80
+--tape-name "UtokBileMysky.tzx"
+--tape-sum 1a9419293a50f3bcfe025a6dbe20d090
+--start 24200
+--sim-load-config accelerator=bleepload

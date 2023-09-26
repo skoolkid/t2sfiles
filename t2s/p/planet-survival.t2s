@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034704/PlanetSurvival.tap.zip
+planet-survival.z80
+--tape-name "PlanetSurvival.tap"
+--tape-sum b5e990bd1a8fa8bd6533f013c78fb995
+--start 1343
+--sim-load-config finish-tape=1

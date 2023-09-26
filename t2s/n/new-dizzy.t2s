@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0012811/NewDizzy(DmytroGryshcenko).tzx.zip
+new-dizzy.z80
+--tape-name "NewDizzy(DmytroGryshcenko).tzx"
+--tape-sum 7c75de08b3d0d612ea9914b7bf22f866
+--start 33024
+--sim-load-config accelerator=rom

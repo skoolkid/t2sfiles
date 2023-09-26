@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030807/NightmarePark.tzx.zip
+nightmare-park-badbeard.z80
+--tape-name "NightmarePark.tzx"
+--tape-sum e9d5e0530b0eb20b2063985efa9b5aac
+--start 1343
+--sim-load-config finish-tape=1

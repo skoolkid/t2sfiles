@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0032241/CzarnySport.tap.zip
+czarny-sport.z80
+--tape-name "CzarnySport.tap"
+--tape-sum 1eea7322184c3b51d461effa921c5de7
+--start 1343
+--sim-load-config finish-tape=1

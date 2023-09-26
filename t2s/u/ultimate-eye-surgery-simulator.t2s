@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031096/UltimateEyeSurgerySimulator.tap.zip
+ultimate-eye-surgery-simulator.z80
+--tape-name "UltimateEyeSurgerySimulator.tap"
+--tape-sum c132093b06c15f541ed577a7c94f3341
+--start 1343
+--sim-load-config finish-tape=1

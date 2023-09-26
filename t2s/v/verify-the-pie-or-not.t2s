@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031463/VerifyThePieOrNot.tap.zip
+verify-the-pie-or-not.z80
+--tape-name "VerifyThePieOrNot.tap"
+--tape-sum 957328b422921c63daa51fe198972178
+--start 1343
+--sim-load-config finish-tape=1

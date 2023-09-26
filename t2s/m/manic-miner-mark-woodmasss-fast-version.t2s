@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034885/ManicMiner-MarkWoodmasssFastVersion.tap.zip
+manic-miner-mark-woodmasss-fast-version.z80
+--tape-name "ManicMiner-MarkWoodmasssFastVersion.tap"
+--tape-sum c390a141cd770f30564635a11419eec6
+--start 1343
+--sim-load-config finish-tape=1

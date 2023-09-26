@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0032122/GussEnLaIslaMisteriosa.tzx.zip
+guss-en-la-isla-misteriosa.z80
+--tape-name "GussEnLaIslaMisteriosa.tzx"
+--tape-sum 0eab6127353e50093521447c747624cb
+--start 1343
+--tape-stop 8
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0006979/Skabet.tzx.zip
+skabet.z80
+--tape-name "Skabet.tzx"
+--tape-sum 86958d45b9ef561bb430f1bd0cbd4a89
+--start 1343
+--sim-load-config finish-tape=1

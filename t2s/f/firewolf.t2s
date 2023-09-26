@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016666/Firewolf.tap.zip
+firewolf.z80
+--tape-name "Firewolf.tap"
+--tape-sum 85dfa719f2fac5226785dd0bc8af14f9
+--start 1343
+--sim-load-config finish-tape=1

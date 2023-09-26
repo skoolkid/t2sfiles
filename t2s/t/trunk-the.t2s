@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031462/TheTrunk.tap.zip
+trunk-the.z80
+--tape-name "Trunk.tap"
+--tape-sum 891a3eea5b3bf356def5b19927a3d625
+--start 30075
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0004274/RunawayRobot.tzx.zip
+runaway-robot.z80
+--tape-name "RunawayRobot.tzx"
+--tape-sum bd91cf0c1860a94a615a9f972728c62c
+--start 1343
+--sim-load-config finish-tape=1

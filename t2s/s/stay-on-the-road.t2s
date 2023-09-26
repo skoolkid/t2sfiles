@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031082/StayOnTheRoad.tap.zip
+stay-on-the-road.z80
+--tape-name "StayOnTheRoad.tap"
+--tape-sum d33c56d6bd639f39e11e2388fddee8d8
+--start 1343
+--sim-load-config finish-tape=1

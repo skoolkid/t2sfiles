@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0011662/DoubleDealer(SideA).tzx.zip
+double-dealer.z80
+--tape-name "Double Dealer - Black Jack - Tape A.tzx"
+--tape-sum 81bc566ec15b5940863b3d22feeb6aee
+--start 1343
+--sim-load-config finish-tape=1

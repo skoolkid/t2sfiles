@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0009715/EteorTorn.tzx.zip
+eteor-torn.z80
+--tape-name "EteorTorn.tzx"
+--tape-sum 52c1dc02d5e6327aca9c5b7049329f00
+--start 1343
+--sim-load-config finish-tape=1

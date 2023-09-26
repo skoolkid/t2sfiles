@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0013276/DwarfsOfLewsh(A.Remics4Pack).tzx.zip
+dwarfs-of-lewsh.z80
+--tape-name "DwarfsOfLewsh(A.Remics4Pack).tzx"
+--tape-sum 3e80d1ec91c33b2858407c8d4e4be351
+--start 1343
+--sim-load-config finish-tape=1

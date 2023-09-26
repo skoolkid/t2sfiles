@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0003430/Nihilist.tzx.zip
+nihilist.z80
+--tape-name "Nihilist.tzx"
+--tape-sum fa3840e40649c32d24f9cfae21991dc7
+--start 65248
+--sim-load-config accelerator=speedlock

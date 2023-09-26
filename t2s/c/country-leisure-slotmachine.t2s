@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031474/CLS.tap.zip
+country-leisure-slotmachine.z80
+--tape-name "cls.tap"
+--tape-sum 4eb601f097bd286dee26c8162875860b
+--start 1343
+--sim-load-config finish-tape=1

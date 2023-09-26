@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031482/PokeStop.tap.zip
+poke-stop.z80
+--tape-name "pokestop.tap"
+--tape-sum 14d91091658a203e20661cd469bae914
+--start 1343
+--sim-load-config finish-tape=1

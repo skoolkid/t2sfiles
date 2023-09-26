@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0006471/IndianaJones1-AChramZkazy(ProximaSoftware).tzx.zip
+indiana-jones-1-a-chram-zkazy.z80
+--tape-name "IndianaJones1-AChramZkazy(ProximaSoftware).tzx"
+--tape-sum 5266453bfa447316c10bcc03810b4917
+--start 24200
+--sim-load-config accelerator=bleepload

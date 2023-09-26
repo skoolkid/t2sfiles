@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0014768/TimeZone.tzx.zip
+time-zone.z80
+--tape-name "Time Zone (R D Foord Software).tzx"
+--tape-sum dab389f9213e2716492ce18f4572bbe8
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0032187/SantosXA.tap.zip
+santos-christmas-adventure.z80
+--tape-name "santosXA.tap"
+--tape-sum b1e39f74bfa44d3d8bbac6ebdf5ecbd3
+--start 1343
+--sim-load-config finish-tape=1

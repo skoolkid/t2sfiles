@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031071/Randomaze.tzx.zip
+randomaze.z80
+--tape-name "Randomaze.tzx"
+--tape-sum e977a2a22e2ebbc4956e520757637e33
+--start 1343
+--sim-load-config finish-tape=1

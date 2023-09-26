@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016261/InvasoresLos.tap.zip
+invasores-los.z80
+--tape-name "InvasoresLos.tap"
+--tape-sum ca4693f0faf3bcf1650ebd355cb5f373
+--start 1343
+--sim-load-config finish-tape=1

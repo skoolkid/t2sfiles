@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030374/TakeoutFreakout.tap.zip
+takeout-freakout.z80
+--tape-name "TakeOutFreakOut.tap"
+--tape-sum 3c874ed498c61e305c355dbe9db24698
+--start 1343
+--sim-load-config finish-tape=1

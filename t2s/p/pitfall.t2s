@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034776/Pitfall.tzx.zip
+pitfall.z80
+--tape-name "Pitfall.tzx"
+--tape-sum 066c13f63ff449cb9d88180e331b36b5
+--start 1343
+--tape-stop 4
+--sim-load-config finish-tape=1

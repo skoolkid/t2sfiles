@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0032149/TheVespozianAffair.tap.zip
+vespozian-affair-the.z80
+--tape-name "VespozianAffair.tap"
+--tape-sum 08a7d055113dc643bc2ba651e7aac306
+--start 1343
+--sim-load-config finish-tape=1

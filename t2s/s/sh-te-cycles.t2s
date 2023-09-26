@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031377/Sh_teCycles.tzx.zip
+sh-te-cycles.z80
+--tape-name "SC_optimized.tzx"
+--tape-sum f2d8250d5e33f509e47ce9cc72febae7
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031443/PointAtAPirate.tap.zip
+point-at-a-pirate.z80
+--tape-name "PointAtAPirate.tap"
+--tape-sum 3e8434621e4d320be2b3325eef0f0d94
+--start 1343
+--sim-load-config finish-tape=1

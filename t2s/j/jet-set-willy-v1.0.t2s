@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031367/JetSetWillyv1.0.tap.zip
+jet-set-willy-v1.0.z80
+--tape-name "jsw.tap"
+--tape-sum 87f53906d814a89c1355dd271f31f635
+--start 1343
+--sim-load-config finish-tape=1

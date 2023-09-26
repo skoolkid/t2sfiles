@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0010190/SilvestrovskaPecka.tzx.zip
+silvestrovska-pecka.z80
+--tape-name "SilvestrovskaPecka.tzx"
+--tape-sum 4a3f51e1a191f1062a766278394719ae
+--start 24200
+--sim-load-config accelerator=bleepload

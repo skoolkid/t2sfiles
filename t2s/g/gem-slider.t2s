@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034300/GemSlider.tap.zip
+gem-slider.z80
+--tape-name "GDC_Gem-Slider.tap"
+--tape-sum 92208cbffa12771dc540d014cac7131e
+--start 1343
+--sim-load-config finish-tape=1

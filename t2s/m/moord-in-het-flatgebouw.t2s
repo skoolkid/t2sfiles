@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0032136/MoordInHetFlatgebouw.tap.zip
+moord-in-het-flatgebouw.z80
+--tape-name "MoordInHetFlatgebouw.tap"
+--tape-sum 7b249bb90635f26ce9deceb5e7baafe5
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

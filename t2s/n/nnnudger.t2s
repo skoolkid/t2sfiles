@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0010004/Nnnudger.tzx.zip
+nnnudger.z80
+--tape-name "Nnnudger.tzx"
+--tape-sum 4fd76e7bfce1d5f8f247e74db0998d6f
+--start 60530
+--sim-load-config accelerator=rom

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0021676/FindTheLink-CallTheMisfit.tzx.zip
+find-the-link-call-the-misfit.z80
+--tape-name "Find the Link - Call the Misfit.tzx"
+--tape-sum 9ee0e17f47ed76d93a0786130fda72bd
+--start 1343
+--sim-load-config finish-tape=1

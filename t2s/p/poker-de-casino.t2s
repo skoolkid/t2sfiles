@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034780/PokerDeCasino.tzx.zip
+poker-de-casino.z80
+--tape-name "Poker de Casino.TZX"
+--tape-sum a6274dc5a6229aae6c9aaca42c1f19af
+--start 1343
+--sim-load-config finish-tape=1

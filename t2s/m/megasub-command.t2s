@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0011888/MegasubCommand.tzx.zip
+megasub-command.z80
+--tape-name "MegasubCommand.tzx"
+--tape-sum 4b21ccdbca2d4d179cb3308c2a742c00
+--start 1343
+--sim-load-config finish-tape=1

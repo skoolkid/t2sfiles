@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034448/ManicMixup.tap.zip
+manic-mixup.z80
+--tape-name "Manic Mixup.tap"
+--tape-sum 0c73a04b690f83be7df468021d0c44f0
+--start 1343
+--sim-load-config finish-tape=1

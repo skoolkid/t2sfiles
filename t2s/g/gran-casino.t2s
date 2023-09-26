@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0020726/GranCasino(sideA).tzx.zip
+gran-casino.z80
+--tape-name "GranCasino(sideA).tzx"
+--tape-sum db3f8f328854eef15677676459fd34b0
+--start 1343
+--sim-load-config finish-tape=1

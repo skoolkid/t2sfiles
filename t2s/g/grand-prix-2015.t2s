@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031423/GrandPrix2015.tzx.zip
+grand-prix-2015.z80
+--tape-name "GrandPrix2015.tzx"
+--tape-sum 6d428952a84915905e56bbe718e16919
+--start 1343
+--sim-load-config finish-tape=1

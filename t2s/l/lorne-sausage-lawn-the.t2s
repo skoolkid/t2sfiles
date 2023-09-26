@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0032223/LorneSausageLawn.tap.zip
+lorne-sausage-lawn-the.z80
+--tape-name "LorneSausageLawn.tap"
+--tape-sum 88e135f618afb1066c730df1f99997ba
+--start 1343
+--sim-load-config finish-tape=1

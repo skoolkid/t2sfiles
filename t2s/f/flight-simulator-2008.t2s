@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031046/FlightSimulator2008.tzx.zip
+flight-simulator-2008.z80
+--tape-name "FlightSimulator2008.tzx"
+--tape-sum 5880c179b18b356ede4bee6bd5080332
+--start 1343
+--sim-load-config finish-tape=1

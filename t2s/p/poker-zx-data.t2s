@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030437/Poker(ZXData).tzx.zip
+poker-zx-data.z80
+--tape-name "Poker(ZXData).tzx"
+--tape-sum 25045b27af7accad277d0977f560005f
+--start 1343
+--sim-load-config finish-tape=1

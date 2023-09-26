@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034845/CosmitoEnImperioCobra.tzx.zip
+cosmito-en-imperio-cobra.z80
+--tape-name "CIC_V1.2_FINAL.tzx"
+--tape-sum 516a649ef57ca199dd19c8ab01ce265b
+--start 1343
+--sim-load-config finish-tape=1

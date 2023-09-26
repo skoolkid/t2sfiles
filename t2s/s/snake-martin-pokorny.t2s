@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0033375/Snake.tap.zip
+snake-martin-pokorny.z80
+--tape-name "mp_snake.tap"
+--tape-sum b316062843494d0ea24d03088ed05fbe
+--start 1343
+--sim-load-config finish-tape=1

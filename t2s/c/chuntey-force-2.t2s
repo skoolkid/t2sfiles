@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0032222/ChunteyForce2.tap.zip
+chuntey-force-2.z80
+--tape-name "CHUNTEYFORCE2_00.tap"
+--tape-sum 02a822c861b038e06258a252294b2690
+--start 1343
+--sim-load-config finish-tape=1

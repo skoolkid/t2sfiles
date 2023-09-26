@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0032285/BoxHaios.tzx.zip
+box-haios.z80
+--tape-name "BOXHAIOS.tzx"
+--tape-sum 93095653f16e143ed4280ac4c0537c6c
+--start 1343
+--sim-load-config finish-tape=1

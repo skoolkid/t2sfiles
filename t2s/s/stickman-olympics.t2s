@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0010263/StickmanOlympics.tzx.zip
+stickman-olympics.z80
+--tape-name "StickmanOlympics.tzx"
+--tape-sum 74184cf00bef622d629ef20dfc37aa96
+--start 1343
+--sim-load-config finish-tape=1

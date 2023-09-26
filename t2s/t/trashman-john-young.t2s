@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031133/Trashman.tap.zip
+trashman-john-young.z80
+--tape-name "Trashman.tap"
+--tape-sum 043904313c9e3cc0ea0418ea680da861
+--start 1343
+--sim-load-config finish-tape=1

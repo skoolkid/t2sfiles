@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031472/ButWhichCHR.tap.zip
+but-which-chr.z80
+--tape-name "ButWhichCHR$.tap"
+--tape-sum 96797a07ef7869cbf79bac6bb22c5d1e
+--start 1343
+--sim-load-config finish-tape=1

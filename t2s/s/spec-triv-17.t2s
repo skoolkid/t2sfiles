@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031380/SpecTriv17.tap.zip
+spec-triv-17.z80
+--tape-name "spectriv.tap"
+--tape-sum edeec47d43ca09d4089c59181e77c06b
+--start 1343
+--sim-load-config finish-tape=1

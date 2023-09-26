@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0007237/AkcionarII.tzx.zip
+akcionar-ii.z80
+--tape-name "AkcionarII.tzx"
+--tape-sum faea7c67baabdc42b0613c6bfe19f7be
+--start 1343
+--sim-load-config finish-tape=1

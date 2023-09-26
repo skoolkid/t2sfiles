@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031384/TheForestOfDoom.tap.zip
+forest-of-doom-the-r-tape.z80
+--tape-name "FORESTOFDOOM.tap"
+--tape-sum eaf0183942591d5610b65a454b9fbd6d
+--start 1343
+--sim-load-config finish-tape=1

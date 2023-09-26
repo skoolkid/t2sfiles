@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034319/Helespont.tzx.zip
+helespont.z80
+--tape-name "Helespont.tzx"
+--tape-sum 306d71a161c0a0977de8cf733c6fbd90
+--start 1343
+--sim-load-config finish-tape=1

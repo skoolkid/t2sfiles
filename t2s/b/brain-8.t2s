@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034781/Brain8.tap.zip
+brain-8.z80
+--tape-name "Brain 8.tap"
+--tape-sum 81cf24b8808257b3d2872ff1b54358aa
+--start 1343
+--sim-load-config finish-tape=1

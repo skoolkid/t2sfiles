@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034866/ManicMiner-ATen-CavernChallenge.tzx.zip
+manic-miner-a-ten-cavern-challenge.z80
+--tape-name "ManicMiner-ATen-CavernChallenge.tzx"
+--tape-sum 88b64528f2d2b2f6378460841221e079
+--start 1343
+--sim-load-config finish-tape=1

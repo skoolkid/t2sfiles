@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031418/FlickingClintSnotOnMyCat.tap.zip
+flickin-clint-snot-on-my-cat.z80
+--tape-name "FlickingClintSnotOnMyCat.tap"
+--tape-sum 7280b79fb52f4bd796aa3322f6b33e20
+--start 1343
+--sim-load-config finish-tape=1

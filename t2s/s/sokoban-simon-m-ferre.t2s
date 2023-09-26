@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0033379/Sokoban.tap.zip
+sokoban-simon-m-ferre.z80
+--tape-name "Simon's Sokoban Game.tap"
+--tape-sum 9c0b33fce4564615c83f16cb4d50fd7f
+--start 1343
+--sim-load-config finish-tape=1

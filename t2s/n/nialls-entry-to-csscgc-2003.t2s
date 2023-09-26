@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030811/RCSSCGC2003Entry.tzx.zip
+nialls-entry-to-csscgc-2003.z80
+--tape-name "RCSSCGC2003Entry.tzx"
+--tape-sum 4639c3723fd3846c7e7194d8100f12e3
+--start 22243
+--sim-load-config accelerator=tiny,rom

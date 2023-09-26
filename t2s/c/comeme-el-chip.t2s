@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034717/ComemeElChip.tzx.zip
+comeme-el-chip.z80
+--tape-name "Comeme el Chip v1.1.tzx"
+--tape-sum e47597049ab4b4d9fe08255f75a6bfd1
+--start 1343
+--sim-load-config finish-tape=1

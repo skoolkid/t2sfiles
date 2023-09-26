@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030806/MitSenf.tzx.zip
+mit-senf.z80
+--tape-name "MitSenf.tzx"
+--tape-sum e9a1b9da3a125ea7f725a1313751b7fc
+--start 1343
+--sim-load-config finish-tape=1

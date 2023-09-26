@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0020460/Racehorse.tzx.zip
+racehorse.z80
+--tape-name "Racehorse.tzx"
+--tape-sum 48c9cbc8272e17f235179a0a8f6594b5
+--start 1343
+--sim-load-config finish-tape=1

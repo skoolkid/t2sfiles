@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034867/ReverseManicMiner.tzx.zip
+reverse-manic-miner.z80
+--tape-name "ReverseManicMiner.tzx"
+--tape-sum 898a3b2f46b8e5f2ec7e2011146d5912
+--start 1343
+--sim-load-config finish-tape=1

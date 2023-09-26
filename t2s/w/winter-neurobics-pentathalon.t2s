@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034713/WinterNeurobicsPentathalon.tap.zip
+winter-neurobics-pentathalon.z80
+--tape-name "winterneurobicsV1.1.tap"
+--tape-sum f26ab255c64861ef5761c61983fc2a04
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

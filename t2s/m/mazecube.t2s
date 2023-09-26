@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0009944/Mazecube.tzx.zip
+mazecube.z80
+--tape-name "Mazecube.tzx"
+--tape-sum 478559cbff4ef5ecea2aecd106fa0185
+--start 1343
+--sim-load-config finish-tape=1

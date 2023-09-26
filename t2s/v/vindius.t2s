@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0032236/Vindius(EN).tzx.zip
+vindius.z80
+--tape-name "VINDIUS_SideA(EN).tzx"
+--tape-sum 085237da3625d3d6419e011b9204d8ef
+--start 1343
+--sim-load-config finish-tape=1

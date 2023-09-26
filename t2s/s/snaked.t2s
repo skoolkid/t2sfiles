@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0033388/Snaked.tzx.zip
+snaked.z80
+--tape-name "Snaked3.tzx"
+--tape-sum 18a649558c40a5bf8dbe1fd27a587daa
+--start 1343
+--sim-load-config finish-tape=1

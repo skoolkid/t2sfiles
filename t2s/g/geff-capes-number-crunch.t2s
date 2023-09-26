@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031422/GeffCapesNumberCrunch.tap.zip
+geff-capes-number-crunch.z80
+--tape-name "GeffCapesNumberCrunch.tap"
+--tape-sum e9af881473dff921a7c5349280e7c6e8
+--start 1343
+--sim-load-config finish-tape=1

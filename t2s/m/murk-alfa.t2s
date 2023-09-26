@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031301/MurkAlfa.tap.zip
+murk-alfa.z80
+--tape-name "MurkAlfa.TAP"
+--tape-sum 51bf42d849f0481b2a4f9b2f403ade90
+--start 1343
+--sim-load-config finish-tape=1

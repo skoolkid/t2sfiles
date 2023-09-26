@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031420/Fracas.tap.zip
+fracas.z80
+--tape-name "Fracas.tap"
+--tape-sum 7c3b6a0cb291ea0fbaf658b08442c550
+--start 1343
+--sim-load-config finish-tape=1

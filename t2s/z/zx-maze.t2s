@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030832/ZXMaze.tap.zip
+zx-maze.z80
+--tape-name "ZXMaze.tap"
+--tape-sum 2408bdf2b6451f2d1898daa5759272f2
+--start 1343
+--sim-load-config finish-tape=1

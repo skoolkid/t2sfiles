@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0003130/MerkurDisc.tap.zip
+merkur-disc.z80
+--tape-name "MerkurDisc.tap"
+--tape-sum f8cdddba414faff9aa1fead4eefb1334
+--start 1343
+--tape-stop 5
+--sim-load-config finish-tape=1

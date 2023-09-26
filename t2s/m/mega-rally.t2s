@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030803/MegaRally.tzx.zip
+mega-rally.z80
+--tape-name "MegaRally.tzx"
+--tape-sum 310bbdc88467939b1143c0f2ff74255b
+--start 1343
+--sim-load-config finish-tape=1

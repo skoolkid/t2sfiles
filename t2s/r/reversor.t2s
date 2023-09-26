@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0004124/Reversor.tap.zip
+reversor.z80
+--tape-name "Reversor.tap"
+--tape-sum 9fe7f08c027eca24902c1a08934d85cf
+--start 1343
+--sim-load-config finish-tape=1

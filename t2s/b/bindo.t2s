@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0032279/Bindo.tzx.zip
+bindo.z80
+--tape-name "BINDO.tzx"
+--tape-sum e1a2c9e12649378b9c45ad2679dee5cb
+--start 1343
+--sim-load-config finish-tape=1

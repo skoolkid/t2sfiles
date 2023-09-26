@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0002858/KingLeonard.tzx.zip
+king-leonard.z80
+--tape-name "KingLeonard.tzx"
+--tape-sum cd3332ef0972764396b737a9ae092b49
+--start 47123
+--sim-load-config accelerator=rom
+--sim-load-config finish-tape=1
