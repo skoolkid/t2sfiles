@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030186/MH17(EN).tap.zip
+mh17.z80
+--tape-name "MH17_ENG.tap"
+--tape-sum 932f6fa5031d556fb8d43b23ad5a2f1f
+--start 1343
+--sim-load-config finish-tape=1

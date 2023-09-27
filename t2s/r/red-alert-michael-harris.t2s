@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0026030/RedAlert.tap.zip
+red-alert-michael-harris.z80
+--tape-name "ZXW - 027 - Red Alert.tap"
+--tape-sum d4a32072f634a9be5f8002239261b76a
+--start 1343
+--sim-load-config finish-tape=1

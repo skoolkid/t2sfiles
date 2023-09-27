@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0025384/Stalker.tzx.zip
+stalker-jhcs.z80
+--tape-name "Stalker.tzx"
+--tape-sum 505a58a1cb97eaae2b8c257913d64ee0
+--start 1343
+--sim-load-config finish-tape=1

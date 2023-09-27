@@ -1,0 +1,8 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030019/GalaxyWars.tap.zip
+galaxy-wars.z80
+--tape-name "GalaxyWars.tap"
+--tape-sum 0460e08f01faf80d99140d514deab2c6
+--start 1343
+--tape-stop 3
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

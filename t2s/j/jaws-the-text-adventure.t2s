@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030203/JAWS_TheTextAdventure.tap.zip
+jaws-the-text-adventure.z80
+--tape-name "JAWS.tap"
+--tape-sum 2cbd513e7ef976f208ac1cbd558fd14c
+--start 1343
+--sim-load-config finish-tape=1

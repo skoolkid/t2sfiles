@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030213/WordBlaster.tap.zip
+word-blaster.z80
+--tape-name "WordBlaster.tap"
+--tape-sum 1be45fa4c793dee1fe5ed07afcad7fe6
+--start 1343
+--sim-load-config finish-tape=1

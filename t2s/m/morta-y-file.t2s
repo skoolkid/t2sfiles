@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0027316/MortaYFile.tap.zip
+morta-y-file.z80
+--tape-name "MortaYFile.tap"
+--tape-sum 812cc0cf1986352157cd6e1aab068840
+--start 1343
+--sim-load-config finish-tape=1

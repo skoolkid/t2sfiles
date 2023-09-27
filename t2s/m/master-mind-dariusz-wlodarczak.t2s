@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0025466/MasterMind.tzx.zip
+master-mind-dariusz-wlodarczak.z80
+--tape-name "Master Mind (1987 Dariusz Wlodarczak).tzx"
+--tape-sum a3e9a47149369ac4f65ce0ce8fd850f2
+--start 23944
+--sim-load-config accelerator=bleepload

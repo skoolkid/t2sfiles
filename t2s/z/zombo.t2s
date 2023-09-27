@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030223/Zombo.tap.zip
+zombo.z80
+--tape-name "Zombo.tap"
+--tape-sum 0fba56e2bbf4a19697f9c5b9a6932b41
+--start 1343
+--sim-load-config finish-tape=1

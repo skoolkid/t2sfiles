@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037045/ChinesePatience.tzx.zip
+chinese-patience-m-r-charman.z80
+--tape-name "ChinesePatience.tzx"
+--tape-sum 1e6329a39f8bd2c574cc97e36c08a2a0
+--start 1343
+--sim-load-config finish-tape=1

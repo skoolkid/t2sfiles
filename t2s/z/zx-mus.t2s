@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0026122/ZX-Mus.tzx.zip
+zx-mus.z80
+--tape-name "ZX-Mus.tzx"
+--tape-sum 82f1f4e16a2b8884142acb148d741643
+--start 1343
+--sim-load-config finish-tape=1

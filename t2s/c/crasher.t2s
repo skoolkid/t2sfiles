@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0026018/Crasher.tap.zip
+crasher.z80
+--tape-name "ZXW - 130 - Crasher.tap"
+--tape-sum 8e759d33770e2b3c5b8ad834fb669fca
+--start 1343
+--sim-load-config finish-tape=1

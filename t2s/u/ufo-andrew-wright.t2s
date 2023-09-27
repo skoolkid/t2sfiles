@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024244/UFO.tap.zip
+ufo-andrew-wright.z80
+--tape-name "UFO.TAP"
+--tape-sum 642895983548945b43b6dc1744f0c8c4
+--start 1343
+--sim-load-config finish-tape=1

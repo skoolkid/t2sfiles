@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0026010/StarChess(EmpireSoftware).tzx.zip
+star-chess.z80
+--tape-name "StarChess(EmpireSoftware).tzx"
+--tape-sum 3d161074af52d2ef4ebeb454e5919620
+--start 1343
+--sim-load-config finish-tape=1

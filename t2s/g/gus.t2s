@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0027960/Gus.tap.zip
+gus.z80
+--tape-name "Gus.tap"
+--tape-sum e01231d36b47848586b3cda18a79cb18
+--start 1343
+--sim-load-config finish-tape=1

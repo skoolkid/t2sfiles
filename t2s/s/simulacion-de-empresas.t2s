@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0027193/SimulacionDeEmpresas.tzx.zip
+simulacion-de-empresas.z80
+--tape-name "SimulacionDeEmpresas.tzx"
+--tape-sum e8ac671f395bebba65fb9230606cb677
+--start 1343
+--sim-load-config finish-tape=1

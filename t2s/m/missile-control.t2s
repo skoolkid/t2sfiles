@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0026028/MissileControl.tap.zip
+missile-control.z80
+--tape-name "ZXW - 100 - Missile Control.tap"
+--tape-sum 6ed0ac88fda023d7ec23dc8d167ca1af
+--start 1343
+--sim-load-config finish-tape=1

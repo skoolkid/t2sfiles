@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0025900/Rehenes.tzx.zip
+rehenes.z80
+--tape-name "Rehenes.tzx"
+--tape-sum 2b05870e10f03bfd156c55d32b78d78e
+--start 1343
+--sim-load-config finish-tape=1

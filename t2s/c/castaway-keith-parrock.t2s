@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0029704/Castaway.tap.zip
+castaway-keith-parrock.z80
+--tape-name "Castaway.tap"
+--tape-sum 4375a106527880b56b2cd550b8d0227f
+--start 1343
+--sim-load-config finish-tape=1

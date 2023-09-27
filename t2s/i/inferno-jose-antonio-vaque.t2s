@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030016/Inferno.tzx.zip
+inferno-jose-antonio-vaque.z80
+--tape-name "inferno.tzx"
+--tape-sum 18c3617590c99aaaeb9bee90ec9b5c75
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'
