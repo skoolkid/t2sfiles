@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034698/DogWalk.tzx.zip
+dog-walk.z80
+--tape-name "DogWalk.tzx"
+--tape-sum a2381704f37d06fdaa83e67a708b7338
+--start 32768
+--sim-load-config accelerator=design-design

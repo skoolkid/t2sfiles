@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0004456/Sherwood.tzx.zip
+sherwood.z80
+--tape-name "Sherwood.tzx"
+--tape-sum aa6fc5661333e55af4472d4635cf1337
+--start 33761
+--sim-load-config accelerator=rom,dinaload
