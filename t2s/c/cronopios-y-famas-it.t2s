@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030031/CronopiosYFamas(IT).tap.zip
+cronopios-y-famas-it.z80
+--tape-name "CronopiosYFamas(IT).tap"
+--tape-sum d9f45787ace07af77bf18ec77c351ac8
+--start 65343
+--sim-load-config finish-tape=1

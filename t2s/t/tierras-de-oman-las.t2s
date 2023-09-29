@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TierrasDeOmanLas.tap.zip
+tierras-de-oman-las.z80
+--tape-name "Las Tierras De Oman.tap"
+--tape-sum 2841170cee20e97700e8b8eeb24a27e4
+--start 34905
+--sim-load-config machine=128

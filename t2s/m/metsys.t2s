@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0015719/Metsys.tzx.zip
+metsys.z80
+--tape-name "Metsys.tzx"
+--tape-sum 8b4a250046999eee2f9948e026a8b54d
+--start 34905
+--sim-load-config machine=128

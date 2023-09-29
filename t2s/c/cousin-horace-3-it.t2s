@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030155/CousinHorace-IT.tap.zip
+cousin-horace-3-it.z80
+--tape-name "CousinHorace-3-IT.tap"
+--tape-sum 354adbc1ac64c35de1be727bcbc985b8
+--start 26074
+--sim-load-config finish-tape=1

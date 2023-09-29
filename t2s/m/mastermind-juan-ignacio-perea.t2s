@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042229/Mastermind.tap.zip
+mastermind-juan-ignacio-perea.z80
+--tape-name "Mastermind.tap"
+--tape-sum 7a1eafab3717e63c5a58c067b9fc0e4c
+--start 1343
+--sim-load-config finish-tape=1

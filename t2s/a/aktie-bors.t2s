@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034744/AktieBors.tzx.zip
+aktie-bors.z80
+--tape-name "Aktie-B¢rs.tzx"
+--tape-sum e5cc1fcc1cc2048e8937af2adaeb7e77
+--start 1343
+--sim-load-config finish-tape=1

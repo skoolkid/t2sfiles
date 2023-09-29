@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0009884/Knockout.tzx.zip
+knockout-vinsoft.z80
+--tape-name "Knockout - Vinsoft - Side A.tzx"
+--tape-sum 0c791499e9c40bdf4e375982cf07ab99
+--start 1343
+--tape-start 14
+--sim-load-config finish-tape=1
