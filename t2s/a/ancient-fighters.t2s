@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036704/AncientFighters(SK).tzx.zip
+ancient-fighters.z80
+--tape-name "AncientFighters(SK).tzx"
+--tape-sum 643402db479c60c974214b291d6186ba
+--start 64142
+--sim-load-config accelerator=rom

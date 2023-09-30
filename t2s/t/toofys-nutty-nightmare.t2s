@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035771/ToofysNuttyNightmare.tzx.zip
+toofys-nutty-nightmare.z80
+--tape-name "Toofy3.tzx"
+--tape-sum 1c3e29034f97ac97670b6c1e916b07ac
+--start 1343
+--sim-load-config finish-tape=1

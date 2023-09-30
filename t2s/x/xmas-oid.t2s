@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036549/XMAS-oid.tap.zip
+xmas-oid.z80
+--tape-name "XMASoid.tap"
+--tape-sum d5b7f40e0d794f0a672cbfefcf31aed8
+--start 1343
+--sim-load-config finish-tape=1

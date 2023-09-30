@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039540/TreasureIslandDizzy(TreasureIslandDizzy-ClassicEdition2023)(DrTitus).tap.zip
+treasure-island-dizzy-classic-edition-2023.z80
+--tape-name "TreasureIslandDizzy(TreasureIslandDizzy-ClassicEdition2023)(DrTitus).tap"
+--tape-sum d2dab58e75425950f952dd32a32d7aa1
+--start 24012
+--sim-load-config accelerator=rom
+--tape-stop 5

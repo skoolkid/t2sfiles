@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039092/Kuatris.tzx.zip
+kuatris.z80
+--tape-name "Kuatris.tzx"
+--tape-sum 7b1360dedf411a2ef5da7948242a8cb2
+--start 1343
+--sim-load-config finish-tape=1

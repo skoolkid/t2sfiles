@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039146/TreasureIslandDizzy-ExtendedEdition2023(EN).tap.zip
+treasure-island-dizzy-extended-edition-2023.z80
+--tape-name "TreasureIslandDizzy-ExtendedEdition2023(EN).tap"
+--tape-sum b82a9a87d08dc12f93e2c1019480a2bc
+--start 24012
+--sim-load-config accelerator=rom
+--tape-stop 5
