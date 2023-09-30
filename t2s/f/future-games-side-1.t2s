@@ -6,3 +6,4 @@ future-games-side-1.z80
 --start 65143
 --tape-stop 5
 --sim-load-config accelerator=rom
+--sim-load-config accelerate-dec-a=2

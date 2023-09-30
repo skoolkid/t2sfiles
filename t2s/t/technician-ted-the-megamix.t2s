@@ -5,3 +5,4 @@ technician-ted-the-megamix.z80
 --start 26630
 --sim-load-config machine=128
 --sim-load-config accelerator=search-loader
+--sim-load-config accelerate-dec-a=2

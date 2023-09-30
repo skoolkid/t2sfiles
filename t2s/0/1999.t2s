@@ -5,3 +5,4 @@ https://skoolkit.ca/tapes/1999.zip
 --tape-sum a9545436cdf6a8291db1c539fcb37bfa
 --start 63054
 --sim-load-config accelerator=bleepload
+--sim-load-config accelerate-dec-a=2
