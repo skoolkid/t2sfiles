@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036479/SphericalRemastered(48K).tap.zip
+spherical-remastered.z80
+--tape-name "Spherical_mod48.tap"
+--tape-sum 7d7699473b143009eced8f2e01d76afa
+--start 1343
+--tape-stop 9
+--sim-load-config finish-tape=1

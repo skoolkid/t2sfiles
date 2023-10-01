@@ -1,6 +1,5 @@
-https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034730/MisifuLaGatita(128K).tap.zip
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034730/MisifuLaGatita(48K).tap.zip
 misifu-la-gatita.z80
---tape-name "misifu.tap"
---tape-sum 4e74d6340ea6b47eb52f1c3ba9efeddf
+--tape-name "misifu48k.tap"
+--tape-sum 4bc53ce05441553e0404021f9f67662d
 --start 24500
---sim-load-config machine=128
