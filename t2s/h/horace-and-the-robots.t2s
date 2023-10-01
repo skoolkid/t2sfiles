@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0032202/HoraceAndTheRobots.tap.zip
+horace-and-the-robots.z80
+--tape-name "HATRXMAS.TAP"
+--tape-sum d8585e72296c8c4c7b749ac85710dd30
+--start 23785
+--sim-load-config accelerator=rom

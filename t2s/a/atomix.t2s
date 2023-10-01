@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0000314/Atomix(Sintech).tzx.zip
+atomix.z80
+--tape-name "Atomix(Sintech).tzx"
+--tape-sum 2789a3db0b3cec039868c4bdb56f0e3d
+--start 64952
+--tape-stop 6
+--sim-load-config accelerator=bleepload

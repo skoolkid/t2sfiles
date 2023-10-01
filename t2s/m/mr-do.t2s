@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034817/MrDo.tzx.zip
+mr-do.z80
+--tape-name "MrDo.tzx"
+--tape-sum 245ca2f1d219ab66493e32c1017b9e93
+--start 1343
+--sim-load-config finish-tape=1

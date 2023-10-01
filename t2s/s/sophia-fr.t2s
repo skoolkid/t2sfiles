@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031499/Sophia-FR.tap.zip
+sophia-fr.z80
+--tape-name "Sophia-FR.tap"
+--tape-sum b7c5cebd5eae5d444e2a7c598db7c7df
+--start 32927
+--sim-load-config finish-tape=1
+--sim-load-config machine=128

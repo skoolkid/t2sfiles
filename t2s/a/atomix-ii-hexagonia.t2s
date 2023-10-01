@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0000316/AtomixII-Hexagonia(ProximaSoftware).tzx.zip
+atomix-ii-hexagonia.z80
+--tape-name "AtomixII-Hexagonia(ProximaSoftware).tzx"
+--tape-sum e88a76106803e2640682bcda09dc43de
+--start 64952
+--sim-load-config accelerator=bleepload

@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0000356/Axons.tzx.zip
+axons.z80
+--tape-name "Axons.tzx"
+--tape-sum fb18edd34550b7dc9be62a7f6ad6337b
+--start 60237
+--tape-stop 8
+--sim-load-config accelerator=rom

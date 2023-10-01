@@ -1,0 +1,8 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0002031/Ghostbusters2.tzx.zip
+ghostbusters-ii.z80
+--tape-name "Ghostbusters2.tzx"
+--tape-sum ab0be6e92310af7bc5fd77386653f37c
+--start 65243
+--tape-stop 22
+--sim-load-config accelerator=rom
+--sim-load-config finish-tape=1

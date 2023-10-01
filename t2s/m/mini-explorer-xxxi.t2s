@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034666/MiniExplorer.tzx.zip
+mini-explorer-xxxi.z80
+--tape-name "MiniExplorer31_v1.0.tzx"
+--tape-sum a086cd3c58fd7e9d3402a7a863ca295c
+--start 1343
+--sim-load-config finish-tape=1
