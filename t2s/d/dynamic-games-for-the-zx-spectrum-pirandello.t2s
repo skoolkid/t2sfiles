@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/compilations/d/DynamicGamesForTheZXSpectrum(JuegosDinamicosParaElZXSpectrum)(EditorialGustavoGiliS.A.).tzx.zip
+dynamic-games-for-the-zx-spectrum-pirandello.z80
+--tape-name "Juegos Dinamicos Para El ZX Spectrum - Side 2 (Editorial Gustavo Gili).tzx"
+--tape-sum 083ff3c16095819c83b3eb5b8c5d770e
+--start 1343
+--tape-start 2
+--tape-stop 4
+--sim-load-config finish-tape=1
