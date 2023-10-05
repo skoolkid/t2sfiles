@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DeltaCharge.tzx.zip
+delta-charge-128k.z80
+--tape-name "Delta Charge.tzx"
+--tape-sum 71cdf655997d6d802a9669139d7b3821
+--start 24147
+--sim-load-config machine=128
+--sim-load-config accelerator=paul-owens

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Coloris.tap.zip
+coloris-128k.z80
+--tape-name "COLORIS.TAP"
+--tape-sum be204f28bf4c8ba060d5966f89edeaf8
+--start 23316
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

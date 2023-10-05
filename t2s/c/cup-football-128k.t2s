@@ -1,0 +1,9 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CupFootball.tzx.zip
+cup-football-128k.z80
+--tape-name "Cup Football.tzx"
+--tape-sum b97fe880899cbfd25d6e77823d656309
+--start 23316
+--sim-load-config machine=128
+--tape-start 5
+--tape-stop 13
+--sim-load-config finish-tape=1

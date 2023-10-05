@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/123/180_2.tzx.zip
+180-mad-128k.z80
+--tape-name "180 (MAD).tzx"
+--tape-sum b4e21c88e1c336edd464cb4ca5db8aa7
+--start 36210
+--sim-load-config machine=128
