@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030014/TheLostIsland.tap.zip
+lost-island-the-128k.z80
+--tape-name "The Lost Island.tap"
+--tape-sum 45d6c4b8f07f64344eb22be9b21351e5
+--start 23895
+--sim-load-config machine=128

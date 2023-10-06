@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030030/DeadlyLabyrinthOfLordXYRX.tap.zip
+deadly-labyrinth-of-lord-xyrx-128k.z80
+--tape-name "XYRX.TAP"
+--tape-sum 44795c06ffe0b7f83fae3dfd66069bd0
+--start 23316
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030201/VadeRetro.tzx.zip
+vade-retro-retroworks-128k.z80
+--tape-name "vaderetro.tzx"
+--tape-sum 8815d450bc0720cffb161dd94913cba6
+--start 24204
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

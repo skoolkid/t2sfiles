@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PitfallIII-WrathOfKingcrock.tap.zip
+pitfall-iii-wrath-of-kingcrock-128k.z80
+--tape-name "pitfall3_0.TAP"
+--tape-sum 4d2706c0cb037177483ea94a39f5c78f
+--start 30600
+--sim-load-config machine=128

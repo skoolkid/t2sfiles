@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030279/LupoAlberto.tap.zip
+lupo-alberto-128k.z80
+--tape-name "LUPOALBERTOZX.tap"
+--tape-sum 5ac21a9028968d34ed289b8ca74930b3
+--start 32000
+--sim-load-config machine=128

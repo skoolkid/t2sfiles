@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/StampQuest.tzx.zip
+stamp-quest-128k.z80
+--tape-name "stampquest0.tzx"
+--tape-sum 6513b39fb7414ed428feb3bdc22598b4
+--start 33000
+--sim-load-config machine=128

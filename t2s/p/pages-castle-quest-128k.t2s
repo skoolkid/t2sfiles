@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030153/PagesCastleQuest_Final1.tzx.zip
+pages-castle-quest-128k.z80
+--tape-name "PagesCastleQuest_Final1.tzx"
+--tape-sum a1098078b6d52c2f3fcea2f1aa55eab4
+--start 32000
+--sim-load-config machine=128

@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030178/Popeye.tzx.zip
+popeye-gabriele-amore-128k.z80
+--tape-name "Popgab.tzx"
+--tape-sum 754a433c6c0f0d3a90afc94f450c0062
+--start 28092
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

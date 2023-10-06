@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030200/Bumber.tap.zip
+bumber-128k.z80
+--tape-name "bumber.tap"
+--tape-sum d3ca764b9447943524505082659355d4
+--start 32000
+--sim-load-config machine=128

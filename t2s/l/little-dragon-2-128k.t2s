@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030194/LittleDragon2(48K).tap.zip
+little-dragon-2-128k.z80
+--tape-name "LILDRAGON2.tap"
+--tape-sum af30ab47a387300cb8aebb1e1d9cd2b6
+--start 23316
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030100/FlappyBird.tzx.zip
+flappy-bird-zx-128k.z80
+--tape-name "FlappyBird.tzx"
+--tape-sum 36cc7914ffe30f28358b02417881d22b
+--start 30200
+--sim-load-config machine=128

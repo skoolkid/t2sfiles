@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030116/AlbertTheWolf.tzx.zip
+albert-the-wolf-128k.z80
+--tape-name "AlbertTheWolf.tzx"
+--tape-sum c08ec5408c965245fffd88c106c52f13
+--start 32000
+--sim-load-config machine=128

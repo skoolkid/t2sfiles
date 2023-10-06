@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030163/DarkTricks.tap.zip
+dark-tricks-128k.z80
+--tape-name "DarkTricks.tap"
+--tape-sum 24c85c90c2e9870263665c5554c2ff88
+--start 32000
+--sim-load-config machine=128
