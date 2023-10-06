@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/Astroball.tap.zip
+astroball-128k.z80
+--tape-name "ASTROBAL.TAP"
+--tape-sum af99602c21cc56758ae28649c4c7624e
+--start 23316
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0009314/BMXSimulator2(DirtBiking).tzx.zip
+bmx-simulator-2-128k.z80
+--tape-name "BMXSimulator2(DirtBiking).tzx"
+--tape-sum f3507d94323284353d4776f536af24ad
+--start 24419
+--sim-load-config machine=128

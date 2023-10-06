@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/k/KliatbaNoci(CurseOfTheNight)(PavelPliva).tap.zip
+kliatba-noci-128k.z80
+--tape-name "Kliatba_en.tap"
+--tape-sum 86070cff91ce870807be64688c8cbe11
+--start 25550
+--sim-load-config machine=128

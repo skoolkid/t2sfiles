@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PeopleFromSirius(MundoPerdidoEl)(TopoSoft).tzx.zip
+people-from-sirius-128k.z80
+--tape-name "El Mundo Perdido.tzx"
+--tape-sum 55f9fbea65674f67ff27fde4ac47f6ad
+--start 65207
+--sim-load-config machine=128
+--sim-load-config accelerator=bleepload

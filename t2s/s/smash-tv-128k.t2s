@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SmashTV.tzx.zip
+smash-tv-128k.z80
+--tape-name "Smash TV.tzx"
+--tape-sum 4e7a52cf8863b452dc7d3e5ef06aa530
+--start 65117
+--sim-load-config machine=128
+--sim-load-config accelerator=speedlock
+--sim-load-config finish-tape=1

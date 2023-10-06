@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MazeThe.tzx.zip
+maze-the-128k.z80
+--tape-name "THEMAZE.TZX"
+--tape-sum 192c787508790c24f97df6e2a32d9211
+--start 23815
+--sim-load-config machine=128
+--sim-load-config accelerator=speedlock

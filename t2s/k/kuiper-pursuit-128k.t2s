@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/k/KuiperPursuit.tap.zip
+kuiper-pursuit-128k.z80
+--tape-name "Kuiper.tap"
+--tape-sum 5860c01556fade0665450c943fe3efb5
+--start 28384
+--sim-load-config machine=128

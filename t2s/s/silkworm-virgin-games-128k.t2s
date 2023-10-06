@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Silkworm.tzx.zip
+silkworm-virgin-games-128k.z80
+--tape-name "Silk Worm.tzx"
+--tape-sum 0c5f050ca9d1bde1e05951d0309089e7
+--start 25052
+--sim-load-config machine=128
+--sim-load-config accelerator=speedlock,rom

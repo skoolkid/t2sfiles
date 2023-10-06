@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Piggy_2.tap.zip
+piggy-esa-productions-128k.z80
+--tape-name "Piggy.tap"
+--tape-sum 4e369bc622a8ef05467d49df27adf767
+--start 23316
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

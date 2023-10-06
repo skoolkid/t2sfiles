@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/f/Fizzy.tzx.zip
+fizzy-128k.z80
+--tape-name "FIZZY.TZX"
+--tape-sum d562325a46a3dd6a1d43cc26772ef9d5
+--start 31500
+--sim-load-config machine=128

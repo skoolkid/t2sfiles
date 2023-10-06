@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0013300/RoughJustice.tap.zip
+rough-justice-128k.z80
+--tape-name "RoughJustice.tap"
+--tape-sum 48ee6485372602bb397d0e7a78beab0e
+--start 59750
+--sim-load-config machine=128

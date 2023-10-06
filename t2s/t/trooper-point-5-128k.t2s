@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/Trooper-Point5V1.2.tap.zip
+trooper-point-5-128k.z80
+--tape-name "Trooper Point 5 v1_2.tap"
+--tape-sum cad72b830d8deba54a4cc710ff2ee25e
+--start 27000
+--sim-load-config machine=128

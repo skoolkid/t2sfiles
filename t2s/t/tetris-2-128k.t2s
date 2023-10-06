@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0005213/Tetris2(Ultrasoft[SK]).tzx.zip
+tetris-2-128k.z80
+--tape-name "Tetris2(Ultrasoft[SK]).tzx"
+--tape-sum bb2b7992c1271f0959d8b542eaca1bce
+--start 48500
+--sim-load-config machine=128
+--sim-load-config accelerator=rom,dinaload

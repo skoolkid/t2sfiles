@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TheresAHoleInYourBucket.tzx.zip
+theres-a-hole-in-your-bucket-128k.z80
+--tape-name "There's A Hole In Your Bucket.tzx"
+--tape-sum f60be1091319301bf8b058928762317d
+--start 34887
+--sim-load-config machine=128

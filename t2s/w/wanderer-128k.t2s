@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/w/Wanderer.tzx.zip
+wanderer-128k.z80
+--tape-name "Wanderer.tzx"
+--tape-sum 08152ef270d480f74dce25c5486cf088
+--start 59904
+--sim-load-config machine=128
+--sim-load-config accelerator=speedlock

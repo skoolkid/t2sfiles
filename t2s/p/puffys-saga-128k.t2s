@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PuffysSaga.tzx.zip
+puffys-saga-128k.z80
+--tape-name "Puffy's Saga.tzx"
+--tape-sum 26b7b682b3d8122c2009ab4691d6bba5
+--start 24441
+--sim-load-config machine=128

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/r/Randex.tzx.zip
+randex-128k.z80
+--tape-name "randex.tzx"
+--tape-sum d20db358131e74209c7b220f038cbf3e
+--start 57200
+--sim-load-config machine=128

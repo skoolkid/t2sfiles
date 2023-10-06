@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SquareHead.tzx.zip
+square-head-128k.z80
+--tape-name "SQR_HEAD.TZX"
+--tape-sum 04b1b63a321dd817a67bafe4b85ce41b
+--start 24528
+--sim-load-config machine=128

@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0009396/ProfessionalBMXSimulator.tzx.zip
+professional-bmx-simulator-128k.z80
+--tape-name "ProfessionalBMXSimulator.tzx"
+--tape-sum 28ce8acfb60186c22c46a87e414a67df
+--start 24419
+--sim-load-config machine=128
+--tape-stop 8

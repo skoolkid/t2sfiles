@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Smiler5-TheScatteredRunes.tap.zip
+smiler-5-the-scattered-runes-128k.z80
+--tape-name "smiler5.tap"
+--tape-sum f3911e09406df76895dfc8206d336f42
+--start 32768
+--sim-load-config machine=128

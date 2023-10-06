@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/Toobin.tzx.zip
+toobin-128k.z80
+--tape-name "Toobin'.tzx"
+--tape-sum 1066e78109fa2552910e11fbe4dc390a
+--start 24106
+--sim-load-config machine=128

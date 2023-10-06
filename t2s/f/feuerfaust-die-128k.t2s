@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/f/FeuerfaustDie.tzx.zip
+feuerfaust-die-128k.z80
+--tape-name "Die Feuerfaust.tzx"
+--tape-sum 575db55deb1f402ad3c08a4fc9e9ab3e
+--start 34887
+--sim-load-config machine=128

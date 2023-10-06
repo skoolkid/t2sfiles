@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PiggyPunks.tzx.zip
+piggy-punks-128k.z80
+--tape-name "PUNKYPIG.TZX"
+--tape-sum 8e1e26417f3663c8776a648743ce9260
+--start 65209
+--sim-load-config machine=128
+--sim-load-config accelerator=rom

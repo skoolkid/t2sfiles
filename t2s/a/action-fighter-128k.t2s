@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/a/ActionFighter.tzx.zip
+action-fighter-128k.z80
+--tape-name "Action Fighter.tzx"
+--tape-sum f569e63353aa5c13b3840e2065e1e4c1
+--start 23472
+--sim-load-config machine=128

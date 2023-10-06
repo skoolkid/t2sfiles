@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TubeMix.tzx.zip
+tube-mix-128k.z80
+--tape-name "TubeMix.tzx"
+--tape-sum e75a068de58a1ec5565f0d9906571649
+--start 49000
+--sim-load-config machine=128

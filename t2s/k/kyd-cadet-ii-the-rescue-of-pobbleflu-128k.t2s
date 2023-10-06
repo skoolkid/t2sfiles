@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/k/KydCadetII-TheRescueOfPobbleflu.tzx.zip
+kyd-cadet-ii-the-rescue-of-pobbleflu-128k.z80
+--tape-name "Kyd Cadet II.tzx"
+--tape-sum 5285b669f3dd37b7372b6a71028d10ae
+--start 23316
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

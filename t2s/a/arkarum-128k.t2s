@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/Arkarum.tzx.zip
+arkarum-128k.z80
+--tape-name "Arkarum.tzx"
+--tape-sum 187ba7d8baa02e0cbd8c7e5273627f24
+--start 23316
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

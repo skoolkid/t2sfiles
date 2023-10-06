@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/i/InsectorHectiInTheInterchange.tzx.zip
+insector-hecti-in-the-interchange-128k.z80
+--tape-name "Insector Hecti In The Interchange.tzx"
+--tape-sum 817a7dbfd9ebc4d4d512e4f4f2ace489
+--start 31736
+--sim-load-config machine=128
+--sim-load-config accelerator=rom

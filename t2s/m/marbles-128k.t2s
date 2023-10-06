@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Marbles.tzx.zip
+marbles-128k.z80
+--tape-name "MARBLES.TZX"
+--tape-sum c887831c0514eb8c4b223b9abad4c2f1
+--start 43000
+--sim-load-config machine=128
