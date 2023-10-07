@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042501/DiscosVoadores.tap.zip
+discos-voadores.z80
+--tape-name "DiscosVoadores.tap"
+--tape-sum d2f503a9478387d99c2a136f91af9f5e
+--start 1343
+--sim-load-config finish-tape=1

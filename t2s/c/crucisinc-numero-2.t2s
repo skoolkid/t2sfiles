@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039059/CrucisincNumero2.tzx.zip
+crucisinc-numero-2.z80
+--tape-name "CrucisincNumero2.tzx"
+--tape-sum 3e64c1adc12ac595376f53b4ba9707b2
+--start 1343
+--sim-load-config finish-tape=1
