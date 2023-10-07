@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035334/Coloristic.tap.zip
+coloristic-128k.z80
+--tape-name "coloristic.tap"
+--tape-sum 2106545d0cf53ad960cc5757f4a8516a
+--start 24576
+--sim-load-config machine=128

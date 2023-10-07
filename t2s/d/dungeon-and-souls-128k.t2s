@@ -1,0 +1,8 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039462/DungeonAndSouls.tap.zip
+dungeon-and-souls-128k.z80
+--tape-name "DungeonAndSouls.tap"
+--tape-sum 2b6a4d09fcfb6cddb2a085408525bdf5
+--start 23316
+--sim-load-config machine=128
+--tape-stop 31
+--sim-load-config finish-tape=1

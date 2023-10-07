@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039073/CocaineBear.tap.zip
+cocaine-bear-128k.z80
+--tape-name "CocaineBear.tap"
+--tape-sum a24513208a395ba8f85f9c5e4e48ce6a
+--start 25512
+--sim-load-config machine=128

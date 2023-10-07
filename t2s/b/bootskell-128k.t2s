@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037971/Bootskell.tzx.zip
+bootskell-128k.z80
+--tape-name "bootskell.tzx"
+--tape-sum 86b3e636b477177622fcc77f1681ee76
+--start 24576
+--sim-load-config machine=128

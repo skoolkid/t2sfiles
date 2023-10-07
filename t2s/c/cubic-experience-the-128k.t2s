@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037491/CubicExperienceThe.tap.zip
+cubic-experience-the-128k.z80
+--tape-name "CubicExperienceThe.tap"
+--tape-sum b519966d57ad3e41546cff419bcba2b5
+--start 24803
+--sim-load-config machine=128

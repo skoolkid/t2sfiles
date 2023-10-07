@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035124/DirtyDozer.tzx.zip
+dirty-dozer-128k.z80
+--tape-name "Dirty_Dozer_2019_Miguetelo.tzx"
+--tape-sum 8d5c7b72c263d64d614f8a94d302a90c
+--start 61000
+--sim-load-config machine=128

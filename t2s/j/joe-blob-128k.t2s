@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035146/JoeBlob(Woot2019Version).tap.zip
+joe-blob-128k.z80
+--tape-name "JoeBlob2019_v2.tap"
+--tape-sum 3a9898ff5b5cc50f53a16913f732a14a
+--start 24100
+--sim-load-config machine=128

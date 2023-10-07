@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035113/NixyAndTheSeedsOfDoom.tap.zip
+nixy-and-the-seeds-of-doom-128k.z80
+--tape-name "NixyAndTheSeedsOfDoom.tap"
+--tape-sum 5166f1eec6fd44f5c2e8ef5b9232482f
+--start 24693
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

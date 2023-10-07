@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037674/Danterrifik3.tap.zip
+danterrifik-iii-128k.z80
+--tape-name "dante3.tap"
+--tape-sum 40a21b4fd3d9164f4bc8e62eb0a8e03d
+--start 25509
+--sim-load-config machine=128

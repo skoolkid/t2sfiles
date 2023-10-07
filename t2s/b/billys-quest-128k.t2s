@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034820/BillysQuest.tap.zip
+billys-quest-128k.z80
+--tape-name "Billys Quest.tap"
+--tape-sum b07ed2a9d14c4b6421915d00f09f025a
+--start 32000
+--sim-load-config machine=128

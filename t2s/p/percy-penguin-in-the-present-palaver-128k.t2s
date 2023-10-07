@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034813/PercyPenguinInThePresentPalaver.tap.zip
+percy-penguin-in-the-present-palaver-128k.z80
+--tape-name "Percy Penguin Vs3.tap"
+--tape-sum b02055d08cab4aa9dfe01374f88f6e7e
+--start 25509
+--sim-load-config machine=128

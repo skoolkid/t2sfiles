@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036944/SumItUp.tap.zip
+sum-it-up-128k.z80
+--tape-name "SumItUp.tap"
+--tape-sum a35244c6261129ff203f0e16805098b5
+--start 33000
+--sim-load-config machine=128

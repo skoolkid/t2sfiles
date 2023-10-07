@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038764/Guntus.tzx.zip
+guntus-128k.z80
+--tape-name "Guntus.tzx"
+--tape-sum a81ab5b66d35e9032fa0b7bfd05145a3
+--start 24576
+--sim-load-config machine=128

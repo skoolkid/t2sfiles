@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035148/Sprouty(CZ).tap.zip
+sprouty-cz-128k.z80
+--tape-name "Sprouty(CZ).tap"
+--tape-sum 9dd3e91e5328e73af7373bb1413c5c5e
+--start 23316
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

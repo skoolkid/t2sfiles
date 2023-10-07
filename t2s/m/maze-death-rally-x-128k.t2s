@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034459/MazeDeathRally-X.tap.zip
+maze-death-rally-x-128k.z80
+--tape-name "mdr-x.tap"
+--tape-sum 9632ed4e3abf027fe1cb4a20755df8e8
+--start 32768
+--sim-load-config machine=128

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036890/Cavit.tzx.zip
+cavit-128k.z80
+--tape-name "Cavit.tzx"
+--tape-sum 284ab31190bd2312c93e9d01383c1b78
+--start 24576
+--sim-load-config machine=128

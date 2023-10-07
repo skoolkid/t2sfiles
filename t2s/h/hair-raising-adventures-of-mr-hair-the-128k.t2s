@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035153/TheHairRaisingAdventuresOfMrHair.tap.zip
+hair-raising-adventures-of-mr-hair-the-128k.z80
+--tape-name "The Hair-Raising Adventures of Mr Hair.tap"
+--tape-sum 402badbfc1c3e29851f6ed2284ccb7d0
+--start 23316
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036518/CosmicPayback.tap.zip
+cosmic-payback-128k.z80
+--tape-name "CosmicPayback.tap"
+--tape-sum 8170450aada98dbacd31df06c2d62720
+--start 33700
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

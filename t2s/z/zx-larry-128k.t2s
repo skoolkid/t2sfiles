@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034721/ZX-Larry.tzx.zip
+zx-larry-128k.z80
+--tape-name "ZxLarry.tzx"
+--tape-sum e2a748243e17cce27e83bdc0fd47a146
+--start 24030
+--sim-load-config machine=128

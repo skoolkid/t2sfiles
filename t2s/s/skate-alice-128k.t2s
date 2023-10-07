@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036952/SkateAlice.tap.zip
+skate-alice-128k.z80
+--tape-name "SkateAlice.tap"
+--tape-sum 5ffcd2cc6d128422cb47802bfeebc60f
+--start 23900
+--sim-load-config machine=128

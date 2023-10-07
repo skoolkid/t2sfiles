@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039005/SummerSanta2022Update.tzx.zip
+summer-santa-2022-update-128k.z80
+--tape-name "SummerSanta2022Update.tzx"
+--tape-sum 4491e99ff15aaf32249b9d10c1c53b94
+--start 25511
+--sim-load-config machine=128

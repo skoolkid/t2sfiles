@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036966/GetOutOfMars.tap.zip
+get-out-of-mars-128k.z80
+--tape-name "GetOutOfMars.tap"
+--tape-sum b6e29af869b33aa2faf195583f7184d2
+--start 23524
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

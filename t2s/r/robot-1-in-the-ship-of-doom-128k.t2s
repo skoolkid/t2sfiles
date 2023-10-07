@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030408/Robot1InTheShipOfDoom.tzx.zip
+robot-1-in-the-ship-of-doom-128k.z80
+--tape-name "Robot1InTheShipOfDoom.tzx"
+--tape-sum 4c7cf290cc88e2ce28459c680fe5e998
+--start 32000
+--sim-load-config machine=128

@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035155/ValleyOfRains.tap.zip
+valley-of-rains-128k.z80
+--tape-name "valleyofrainsen.tap"
+--tape-sum 5572f80e24105e36eedae4aff7e80deb
+--start 24576
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

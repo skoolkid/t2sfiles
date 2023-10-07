@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034834/SaveTheWorldThemePark.tap.zip
+save-the-world-theme-park-128k.z80
+--tape-name "STWTP.tap"
+--tape-sum 3834880a3b75cdf338c492f6114d51a8
+--start 32000
+--sim-load-config machine=128

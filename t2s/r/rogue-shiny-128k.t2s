@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034335/Rogue(v2).tap.zip
+rogue-shiny-128k.z80
+--tape-name "rogue2.tap"
+--tape-sum ca826e0972da8715a5bcb05fc29458fb
+--start 24576
+--sim-load-config machine=128

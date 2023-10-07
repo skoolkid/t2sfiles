@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039120/ChemiChaos.tap.zip
+chemi-chaos-128k.z80
+--tape-name "ChemiChaos.tap"
+--tape-sum 1de74ed5c371b65867b36c57a5ac27a3
+--start 36864
+--sim-load-config machine=128

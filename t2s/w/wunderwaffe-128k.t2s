@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0032203/Wunderwaffe.tzx.zip
+wunderwaffe-128k.z80
+--tape-name "Wunderwaffe.tzx"
+--tape-sum 71b06aa7363a59fec6d2c34f91cc3924
+--start 40579
+--sim-load-config machine=128

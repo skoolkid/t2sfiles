@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036394/RestlessAndre(EN).tap.zip
+restless-andre-128k.z80
+--tape-name "Restless Andre (english).tap"
+--tape-sum a455a27c0b995533e1f4bc80e839df3b
+--start 25509
+--sim-load-config machine=128

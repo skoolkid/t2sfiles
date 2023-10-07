@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037621/AgentBlue(DayMissions)_FirstCodeMMM.tap.zip
+agent-blue-128k.z80
+--tape-name "Agent Blue - Daytime Missions.tap"
+--tape-sum 5620b814eea882bf9e9e33e02bf5042c
+--start 25509
+--sim-load-config machine=128

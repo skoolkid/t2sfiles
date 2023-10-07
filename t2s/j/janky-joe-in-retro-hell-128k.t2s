@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039474/JankyJoeInRetroHell.tap.zip
+janky-joe-in-retro-hell-128k.z80
+--tape-name "JankyJoeInRetroHell.tap"
+--tape-sum da291b379f9734eded11ab6b3bfa0358
+--start 24803
+--sim-load-config machine=128

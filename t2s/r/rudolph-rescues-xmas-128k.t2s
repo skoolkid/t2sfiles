@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034828/RudolfRescuesXmas.tap.zip
+rudolph-rescues-xmas-128k.z80
+--tape-name "Rudolph Rescues Xmas.tap"
+--tape-sum f69a45031e492b5a841d556d6483017c
+--start 32000
+--sim-load-config machine=128

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042182/Fitris.tap.zip
+fitris-128k.z80
+--tape-name "Fitris.tap"
+--tape-sum 595f7caab2cd125f419041cb6a6006c5
+--start 32768
+--sim-load-config machine=128

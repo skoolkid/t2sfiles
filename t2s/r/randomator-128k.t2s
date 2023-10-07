@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034826/Randomator.tap.zip
+randomator-128k.z80
+--tape-name "Randomator.tap"
+--tape-sum 56fb62c6eb78e0dfb2fd80413e18f202
+--start 32000
+--sim-load-config machine=128

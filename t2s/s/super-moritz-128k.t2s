@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034616/SuperMoritz.tap.zip
+super-moritz-128k.z80
+--tape-name "SuperMoritz-final1.tap"
+--tape-sum cb271d43e265495b9677d8e37d9fc5a3
+--start 23316
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

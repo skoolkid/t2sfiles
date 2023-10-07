@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034715/PTM.tap.zip
+ptm-128k.z80
+--tape-name "PTM.tap"
+--tape-sum 108e569fab1b2d149ca46ce084313720
+--start 25511
+--sim-load-config machine=128

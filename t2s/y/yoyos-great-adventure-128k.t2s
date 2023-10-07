@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036519/Yoyo.tzx.zip
+yoyos-great-adventure-128k.z80
+--tape-name "Yoyo.tzx"
+--tape-sum dd83c8c96e4ab5a0ba958ad26a083b0d
+--start 37492
+--sim-load-config machine=128

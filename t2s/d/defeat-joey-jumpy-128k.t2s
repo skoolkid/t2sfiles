@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034838/DefeatJoeyJumpy.tap.zip
+defeat-joey-jumpy-128k.z80
+--tape-name "JOEY JUMPY.tap"
+--tape-sum d170532aaa8f7df99a25a79798116f37
+--start 32000
+--sim-load-config machine=128

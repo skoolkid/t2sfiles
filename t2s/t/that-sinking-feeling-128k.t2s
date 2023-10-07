@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030415/ThatSinkingFeeling.tzx.zip
+that-sinking-feeling-128k.z80
+--tape-name "ThatSinkingFeeling.tzx"
+--tape-sum 540f15876fcd7ed85cd334a0f5197b07
+--start 25511
+--sim-load-config machine=128

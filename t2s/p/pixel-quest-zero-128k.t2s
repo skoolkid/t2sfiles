@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034291/PixelQuestZero.tap.zip
+pixel-quest-zero-128k.z80
+--tape-name "PixQuest0.tap"
+--tape-sum 1b17d06b0b4a9d4b699e3a9260071048
+--start 24200
+--sim-load-config machine=128

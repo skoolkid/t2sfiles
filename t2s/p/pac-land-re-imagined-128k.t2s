@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036469/PaclandRecoloured.tap.zip
+pac-land-re-imagined-128k.z80
+--tape-name "Pacland.tap"
+--tape-sum 05d80b24ec3c685b6546e55725372dee
+--start 25000
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

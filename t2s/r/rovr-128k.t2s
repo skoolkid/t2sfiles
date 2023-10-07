@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034297/ROVR.tzx.zip
+rovr-128k.z80
+--tape-name "ROVR.tzx"
+--tape-sum e36c3b880b0f2f6926bf7a039ed94723
+--start 25743
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

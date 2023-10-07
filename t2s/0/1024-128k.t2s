@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036526/1024.tap.zip
+1024-128k.z80
+--tape-name "1024.tap"
+--tape-sum 5b15c04ab095c0aa2076bc290dfd5f18
+--start 25000
+--sim-load-config machine=128

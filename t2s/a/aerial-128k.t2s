@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036896/Aerial.tzx.zip
+aerial-128k.z80
+--tape-name "Aerial.tzx"
+--tape-sum f827e5f9ed8139570599a63232949167
+--start 24576
+--sim-load-config machine=128

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036893/Neuras.tap.zip
+neuras-128k.z80
+--tape-name "Neuras.tap"
+--tape-sum e5928835b2791c887e79c1760eddb7ba
+--start 24576
+--sim-load-config machine=128

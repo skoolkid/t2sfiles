@@ -1,0 +1,8 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036470/TargetRenegadeRecoloured.tap.zip
+target-renegade-re-imagined-128k.z80
+--tape-name "Renegade2.tap"
+--tape-sum b0fab7642a9b3e8730aa4811e4589909
+--start 24313
+--sim-load-config machine=128
+--sim-load-config accelerator=rom
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034825/MissionOnMars.tap.zip
+mission-on-mars-128k.z80
+--tape-name "Mission on Mars.tap"
+--tape-sum 03e452db50952f5d510f64ab7c7922d2
+--start 32000
+--sim-load-config machine=128

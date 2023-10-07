@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037098/Por2000Dolares.tap.zip
+por-2000-dolares-128k.z80
+--tape-name "Por2000Dolares.tap"
+--tape-sum 4f1c55376efd442e0c9793ecb19354fd
+--start 23316
+--sim-load-config machine=128
+--sim-load-config finish-tape=1
