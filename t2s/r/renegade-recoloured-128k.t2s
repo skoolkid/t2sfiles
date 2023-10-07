@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036477/RenegadeRecoloured(128K).tap.zip
+renegade-recoloured-128k.z80
+--tape-name "Renegade128_mod.tap"
+--tape-sum f2dd374da1d74e58dfc45e52f2a95a0a
+--start 31744
+--sim-load-config machine=128

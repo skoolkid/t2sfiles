@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030297/CapnRescue3Reprisal(128K).tap.zip
+capn-rescue-3-reprisal-128k.z80
+--tape-name "CapnRescue3Reprisal(128K).tap"
+--tape-sum 2ac955a2d558de7a4cab850162f2329e
+--start 32000
+--sim-load-config machine=128

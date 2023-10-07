@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/i/IceBreaker.tzx.zip
+ice-breaker-side-1-128k.z80
+--tape-name "Ice Breaker - Side 1.tzx"
+--tape-sum 0b0948e173bcd3cf874555fccbd9b5d4
+--start 23512
+--sim-load-config machine=128
+--sim-load-config accelerator=rom
+--sim-load-config finish-tape=1

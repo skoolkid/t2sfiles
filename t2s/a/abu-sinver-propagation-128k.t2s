@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030441/AbuSinverPropagation(128K).tap.zip
+abu-sinver-propagation-128k.z80
+--tape-name "AbuSinverPropagation(128K).tap"
+--tape-sum 226638235df2b0d996c19bab7152b3e6
+--start 40960
+--sim-load-config machine=128

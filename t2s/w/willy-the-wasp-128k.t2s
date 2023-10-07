@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030117/WillyTheWasp48K(QAOP).tap.zip
+willy-the-wasp-128k.z80
+--tape-name "WillyTheWasp(48K)(QAOP).tap"
+--tape-sum 75ca6ad83ceceb87bc494397c59feebc
+--start 59000
+--sim-load-config machine=128

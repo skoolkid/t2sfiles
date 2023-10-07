@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0032184/BoxeS(128K).tap.zip
+boxes-128k.z80
+--tape-name "BoxeS(128K).tap"
+--tape-sum 814f985e14aa40f95d6ed71e73a2136a
+--start 25511
+--sim-load-config machine=128

@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/i/IngridsBack.tzx.zip
+ingrids-back-p2-128k.z80
+--tape-name "Ingrid's Back! Tape 2 - Side 2.tzx"
+--tape-sum f13b0dbc87cd8442d3246128f4db4d7c
+--start 23296
+--sim-load-config machine=128
+--sim-load-config accelerator=rom
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036716/DarkTransit2(128K).tap.zip
+dark-transit-ii-kappa-strikes-back-128k.z80
+--tape-name "DarkTr2_128Kb.tap"
+--tape-sum c29d4ccf2700e93242b8fc026ef86797
+--start 23316
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

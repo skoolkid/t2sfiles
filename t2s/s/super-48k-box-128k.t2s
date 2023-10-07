@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030204/Super48kBox.tzx.zip
+super-48k-box-128k.z80
+--tape-name "Super48kBox.tzx"
+--tape-sum 4ba72355f06805cc685c3983408b80ae
+--start 32000
+--sim-load-config machine=128

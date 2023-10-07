@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MutanZone.tzx.zip
+mutan-zone-p2-128k.z80
+--tape-name "Mutan Zone - Side 2.tzx"
+--tape-sum 2d197ba96d5a638a6684a645a29fd883
+--start 64532
+--sim-load-config machine=128

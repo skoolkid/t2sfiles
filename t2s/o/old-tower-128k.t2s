@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034458/OldTower(128K).tap.zip
+old-tower-128k.z80
+--tape-name "OldTower128.tap"
+--tape-sum 3d029a612970067510ddd6e3b2b96b02
+--start 24500
+--sim-load-config machine=128

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036535/Chiquito(Fistro)(128K).tap.zip
+chiquito-pecador-de-la-pradera-fistro-128k.z80
+--tape-name "FISTRO 128K.tap"
+--tape-sum 06f4f1e16d80f4572659df23b5d58655
+--start 32000
+--sim-load-config machine=128

@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0027997/Apulija-13-ES-128.tap.zip
+apulija-13-es-128k.z80
+--tape-name "Apulija-13-ES-128.tap"
+--tape-sum afebdef422a574ba2388332c361cbf0c
+--start 39066
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

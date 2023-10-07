@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BardicRiteThe.tzx.zip
+bardic-rite-the-128k.z80
+--tape-name "The Bardic Rites.tzx"
+--tape-sum d8166ee0177b311107b373d87d2a26d7
+--start 34887
+--sim-load-config machine=128

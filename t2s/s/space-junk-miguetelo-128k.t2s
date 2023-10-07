@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030398/SpaceJunk(128K).tzx.zip
+space-junk-miguetelo-128k.z80
+--tape-name "SpaceJunk_128k_Miguetelo_2017.tzx"
+--tape-sum 69ea3cca8c1455da9f7c8c6eb363f65f
+--start 25500
+--sim-load-config machine=128

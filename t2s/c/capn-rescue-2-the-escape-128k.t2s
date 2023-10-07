@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030233/CapnRescue2TheEscape-v3.5(128K).tap.zip
+capn-rescue-2-the-escape-128k.z80
+--tape-name "CR2TheEscape128kV3-5.tap"
+--tape-sum d0eef538024e48ef9d8453d1384428d8
+--start 32000
+--sim-load-config machine=128

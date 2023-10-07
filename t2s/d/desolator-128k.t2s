@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/Desolator.tzx.zip
+desolator-128k.z80
+--tape-name "Desolator - Side 1.tzx"
+--tape-sum 6eae5ab9884e60a450d353583e933024
+--start 40500
+--sim-load-config machine=128
+--sim-load-config accelerator=alkatraz

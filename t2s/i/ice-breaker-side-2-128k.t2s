@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/i/IceBreaker.tzx.zip
+ice-breaker-side-2-128k.z80
+--tape-name "Ice Breaker - Side 2.tzx"
+--tape-sum 2f6684445ccd8122c9512027a3df55e8
+--start 64000
+--sim-load-config machine=128
+--tape-stop 8

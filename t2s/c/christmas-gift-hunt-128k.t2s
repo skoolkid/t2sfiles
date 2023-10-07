@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030256/ChristmasGiftHunt-v2.0(128K).tap.zip
+christmas-gift-hunt-128k.z80
+--tape-name "GiftHunt(128K)V2-0.tap"
+--tape-sum f136855eb7517c46ff557663fd3a5dea
+--start 32000
+--sim-load-config machine=128

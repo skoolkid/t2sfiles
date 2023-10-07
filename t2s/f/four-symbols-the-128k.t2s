@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/f/FourSymbolsThe.tzx.zip
+four-symbols-the-128k.z80
+--tape-name "The Four Symbols.tzx"
+--tape-sum 92f5564b44c4cd423d94e81d8d976ea1
+--start 34887
+--sim-load-config machine=128

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/Avalanche.tzx.zip
+avalanche-side-2-128k.z80
+--tape-name "Avalanche - Side 2.tzx"
+--tape-sum 996e96320e229ef91740cea6db9fd380
+--start 23316
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

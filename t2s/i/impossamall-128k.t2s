@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039531/Impossamall(128K).tap.zip
+impossamall-128k.z80
+--tape-name "Impossamall(128K).tap"
+--tape-sum c00bf72ed1eccf067d0f9eceeb201273
+--start 23845
+--sim-load-config machine=128

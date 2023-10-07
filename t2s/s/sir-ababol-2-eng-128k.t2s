@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030170/SirAbabol2(128K)(EN).tap.zip
+sir-ababol-2-eng-128k.z80
+--tape-name "mojon-twins--sir-ababol-2-128k--eng.tap"
+--tape-sum 6c652e6b51ebce481119e26e0500763f
+--start 30000
+--sim-load-config machine=128

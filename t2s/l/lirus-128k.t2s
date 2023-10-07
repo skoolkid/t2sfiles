@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030228/Lirus(128K).tap.zip
+lirus-128k.z80
+--tape-name "Lirus128.tap"
+--tape-sum 1ed6c8205df88fe204ff9d1f8a7e7254
+--start 32768
+--sim-load-config machine=128

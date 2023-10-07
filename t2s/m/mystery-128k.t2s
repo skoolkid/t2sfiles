@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030166/Mystery(128K).tap.zip
+mystery-128k.z80
+--tape-name "Mystery128.tap"
+--tape-sum b4cabce0f30639f3fa2d12756b64021f
+--start 23965
+--sim-load-config machine=128

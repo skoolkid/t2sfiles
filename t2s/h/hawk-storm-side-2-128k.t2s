@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/h/HawkStorm.tzx.zip
+hawk-storm-side-2-128k.z80
+--tape-name "Hawk Storm - Side 2.tzx"
+--tape-sum 9d2a0635b9d63fa593d3dccb0c9c2737
+--start 24091
+--sim-load-config machine=128

@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/g/Genus.tzx.zip
+genus-128k.z80
+--tape-name "Genus - Side A.tzx"
+--tape-sum d177ac7803d88230cb59561428e6dc88
+--start 44400
+--sim-load-config machine=128
+--tape-stop 9
+--sim-load-config accelerator=rom

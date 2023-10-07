@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/t/Target-Renegade.tzx.zip
+target-renegade-128k.z80
+--tape-name "Renegade 2 - Target Renegade - Side 1.tzx"
+--tape-sum 1e5500813d0eab0603b06094b0ff984b
+--start 24196
+--sim-load-config machine=128
+--sim-load-config accelerator=speedlock,rom
+--sim-load-config finish-tape=1

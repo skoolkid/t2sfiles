@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/g/Gauntlet.tzx.zip
+gauntlet-us-gold-128k.z80
+--tape-name "Gauntlet - Side 1.tzx"
+--tape-sum c4f6b69a5e24e6ac1e210f1d4f8a1cc5
+--start 65295
+--sim-load-config machine=128
+--sim-load-config accelerator=rom,speedlock

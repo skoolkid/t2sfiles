@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BloodyPaws.tzx.zip
+bloody-paws-side-2-128k.z80
+--tape-name "Bloody Paws - Side 2.tzx"
+--tape-sum 974952f8983e46497a0ce5cda76c8556
+--start 16397
+--sim-load-config machine=128

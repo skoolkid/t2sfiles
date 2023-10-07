@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/w/Witchfiend(Tynesoft).tzx.zip
+witchfiend-128k.z80
+--tape-name "Witchfiend.tzx"
+--tape-sum f953d32571f3230bbe8202babf654c3e
+--start 35001
+--sim-load-config machine=128

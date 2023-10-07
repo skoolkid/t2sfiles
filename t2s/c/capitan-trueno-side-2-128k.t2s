@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CapitanTrueno.tzx.zip
+capitan-trueno-side-2-128k.z80
+--tape-name "Capitan Trueno - Side 2.tzx"
+--tape-sum 9293f4fcc7b59804a91c3b2569b3fbcf
+--start 64057
+--sim-load-config machine=128
+--sim-load-config accelerator=dinaload
+--sim-load-config finish-tape=1

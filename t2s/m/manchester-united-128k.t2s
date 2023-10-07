@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/m/ManchesterUnited.tzx.zip
+manchester-united-128k.z80
+--tape-name "Manchester United - Side 1.tzx"
+--tape-sum c9dd1252f587aa897298052921e9096c
+--start 23567
+--sim-load-config machine=128
+--sim-load-config accelerator=rom
+--sim-load-config finish-tape=1

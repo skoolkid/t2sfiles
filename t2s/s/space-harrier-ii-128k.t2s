@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SpaceHarrierII.tzx.zip
+space-harrier-ii-128k.z80
+--tape-name "Space Harrier 2 - Side 1.tzx"
+--tape-sum fc2e3f6eb1a1cfdd4215ee0979c915ff
+--start 27495
+--sim-load-config machine=128
+--sim-load-config accelerator=rom

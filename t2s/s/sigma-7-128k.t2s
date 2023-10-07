@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Sigma7.tzx.zip
+sigma-7-128k.z80
+--tape-name "Sigma 7 - Side 2.tzx"
+--tape-sum 909abec3a0a03b1dbc347417d793c521
+--start 61382
+--sim-load-config machine=128
