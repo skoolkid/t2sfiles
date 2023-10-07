@@ -1,0 +1,8 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034386/ColegioErevest.tap.zip
+colegio-erevest-2.z80
+--tape-name "colegio_erevest.tap"
+--tape-sum d217bfd3309ba095d58962545a36c988
+--start 1343
+--tape-start 7
+--tape-stop 13
+--sim-load-config finish-tape=1

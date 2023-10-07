@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0010356/Gewitter.tzx.zip
+gewitter.z80
+--tape-name "Gewitter.tzx"
+--tape-sum 4dad9584488f59faca7260ed484fa6d9
+--start 1343
+--sim-load-config finish-tape=1

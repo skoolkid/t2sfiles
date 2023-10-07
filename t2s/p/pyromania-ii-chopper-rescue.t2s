@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030086/Pyromania2-ChopperRescue.tap.zip
+pyromania-ii-chopper-rescue.z80
+--tape-name "PYRO2_00.tap"
+--tape-sum 6764112e0bd999600f29f9cec4174c93
+--start 1343
+--sim-load-config finish-tape=1

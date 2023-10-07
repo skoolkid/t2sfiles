@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018361/SokobanPerfect.tap.zip
+sokoban-perfect-128k.z80
+--tape-name "Sokobanperfect.tap"
+--tape-sum 962f74f6404362fba91f4720133dc3a2
+--start 25360
+--sim-load-config machine=128

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PeriscopeUp.tzx.zip
+periscope-up-128k.z80
+--tape-name "Periscope Up.tzx"
+--tape-sum aaed61c2f347d17797ceaf8c3c056a59
+--start 40634
+--sim-load-config machine=128
+--sim-load-config accelerator=rom

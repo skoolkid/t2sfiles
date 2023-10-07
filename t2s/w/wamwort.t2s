@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0007172/Wamwort(1988)(AventurasDinamic)(Side-1).tap.zip
+wamwort.z80
+--tape-name "3 wamwort 1 1988 dinamic software.tap"
+--tape-sum d103bab96b7654250dc766ea7bb0eb20
+--start 1343
+--sim-load-config finish-tape=1

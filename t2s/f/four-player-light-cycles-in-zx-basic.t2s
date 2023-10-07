@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0033391/FourPlayerLightCyclesInZXBASIC.tap.zip
+four-player-light-cycles-in-zx-basic.z80
+--tape-name "lightcycle2.tap"
+--tape-sum d2532b0877fca0aa1c4339205beb896f
+--start 1343
+--sim-load-config finish-tape=1

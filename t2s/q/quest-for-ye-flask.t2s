@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031372/QuestForYeFlask.tzx.zip
+quest-for-ye-flask.z80
+--tape-name "Quest for ye flask.tzx"
+--tape-sum c1f24d808443077022b090c49f9308af
+--start 1343
+--sim-load-config finish-tape=1

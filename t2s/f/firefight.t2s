@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024042/Firefight.tap.zip
+firefight.z80
+--tape-name "pg73_firefight.tap"
+--tape-sum df8d51b61e728c51f4c5241cf95ed993
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0012810/LastWillDizzy.tzx.zip
+last-will-dizzy.z80
+--tape-name "LastWillDizzy.tzx"
+--tape-sum c88c88b8e0dcac00680b48fda6b15797
+--start 28366
+--sim-load-config accelerator=rom
+--sim-load-config polarity=1

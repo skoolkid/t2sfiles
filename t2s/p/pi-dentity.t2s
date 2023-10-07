@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035772/Pi-Dentity(48K).tap.zip
+pi-dentity.z80
+--tape-name "PI48K_Finished.tap"
+--tape-sum 2905b6e5d66991f9e3841c78410aa0c4
+--start 1343
+--sim-load-config finish-tape=1

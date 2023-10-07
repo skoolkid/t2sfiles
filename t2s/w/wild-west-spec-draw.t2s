@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031390/WildWestSpecDraw.tap.zip
+wild-west-spec-draw.z80
+--tape-name "SpecDRAW _0.TAP"
+--tape-sum c4f69e59963ec76c95f4f5fe8c328be0
+--start 1343
+--sim-load-config finish-tape=1

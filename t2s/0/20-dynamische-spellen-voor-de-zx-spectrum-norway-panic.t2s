@@ -1,0 +1,9 @@
+https://worldofspectrum.net/pub/sinclair/compilations/123/20DynamischeSpellenVoorDeZXSpectrum.tzx.zip
+20-dynamische-spellen-voor-de-zx-spectrum-norway-panic.z80
+--tape-name "20-Spellen-SideA.tzx"
+--tape-sum 873722d2cee5f2eec4d219ac222609f3
+--start 1343
+--tape-start 22
+--tape-stop 24
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

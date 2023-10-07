@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/l/LaserWar.tzx.zip
+laser-war-128k.z80
+--tape-name "LASERWAR.TZX"
+--tape-sum e6f1ea049d57aefdb7f9368e94102de4
+--start 40000
+--sim-load-config machine=128
+--sim-load-config 'load=DOWN DOWN DOWN ENTER LOAD "" PC=1541'
+--sim-load-config accelerator=rom

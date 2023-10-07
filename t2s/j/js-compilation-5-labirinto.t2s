@@ -1,0 +1,8 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038724/JSCompilation5.tap.zip
+js-compilation-5-labirinto.z80
+--tape-name "JSCompilation5.tap"
+--tape-sum 5cd53a0207343b8297aa60e4b0e48986
+--start 1343
+--tape-start 17
+--tape-stop 19
+--sim-load-config finish-tape=1

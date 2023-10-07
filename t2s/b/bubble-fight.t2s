@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031027/BubbleFight.tzx.zip
+bubble-fight.z80
+--tape-name "BubbleFight.tzx"
+--tape-sum ecca89cf92661121fc6599a0e165cc09
+--start 1343
+--sim-load-config finish-tape=1

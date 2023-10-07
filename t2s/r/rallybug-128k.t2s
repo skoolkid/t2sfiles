@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/r/Rallybug.tap.zip
+rallybug-128k.z80
+--tape-name "Rallybug.tap"
+--tape-sum 969362b0a0b6e906ec5bc4586386f258
+--start 24000
+--sim-load-config machine=128

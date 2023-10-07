@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0033387/baSnake.tap.zip
+ba-snake.z80
+--tape-name "baSnake.tap"
+--tape-sum 20cc905ce1139ff9b84ef4cb1956334f
+--start 1343
+--sim-load-config finish-tape=1

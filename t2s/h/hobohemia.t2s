@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031364/Hobohemia.tap.zip
+hobohemia.z80
+--tape-name "hobohemiav2.tap"
+--tape-sum 81c5b431b419fbbe70984d48628f938f
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031499/Sophia(BitmapSoft)(Bonus).tap.zip
+sophia-bonus.z80
+--tape-name "Sophia(BitmapSoft)(Bonus).tap"
+--tape-sum 74c18e6f02b18c1a5284aab55e1e8b7b
+--start 65049
+--sim-load-config finish-tape=1

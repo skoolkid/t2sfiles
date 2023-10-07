@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0015164/DropOut.tap.zip
+drop-out-peter-shaw.z80
+--tape-name "DropOut.tap"
+--tape-sum 21094217ef74f31058405a9537b6be86
+--start 1343
+--sim-load-config finish-tape=1

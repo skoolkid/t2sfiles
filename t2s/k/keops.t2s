@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0021802/Keops(EN).tzx.zip
+keops.z80
+--tape-name "Keops English.tzx"
+--tape-sum e43cd7d2301015cdfbc2cfc0f88dd0ce
+--start 1343
+--sim-load-config finish-tape=1

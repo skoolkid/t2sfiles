@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/l/LightCorridorThe.tzx.zip
+light-corridor-the-128k.z80
+--tape-name "The Light Corridor.tzx"
+--tape-sum 66674ee9c6b696404c5847be32796af4
+--start 32932
+--sim-load-config machine=128
+--sim-load-config accelerator=speedlock

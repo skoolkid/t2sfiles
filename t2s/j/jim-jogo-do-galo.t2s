@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0023108/JIM(JogoDoGalo).tzx.zip
+jim-jogo-do-galo.z80
+--tape-name "JIM (Jogo do Galo).tzx"
+--tape-sum 3522c0222bd9eaa1d4b1841c4d2b26ea
+--start 1343
+--sim-load-config finish-tape=1

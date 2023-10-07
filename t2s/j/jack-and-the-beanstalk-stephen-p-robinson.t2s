@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0029705/JackAndTheBeanstalk.tap.zip
+jack-and-the-beanstalk-stephen-p-robinson.z80
+--tape-name "JackAndTheBeanstalk.tap"
+--tape-sum 9fb970c6974ef2296816dc4673f17be2
+--start 1343
+--sim-load-config finish-tape=1

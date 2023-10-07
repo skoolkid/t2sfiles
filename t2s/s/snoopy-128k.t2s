@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Snoopy.tzx.zip
+snoopy-128k.z80
+--tape-name "Snoopy.tzx"
+--tape-sum ebd5c03083c4b6a2a3e9d16ec1e5e774
+--start 33042
+--sim-load-config machine=128
+--sim-load-config accelerator=gremlin
+--sim-load-config finish-tape=1

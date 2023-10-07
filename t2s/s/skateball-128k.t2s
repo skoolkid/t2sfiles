@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Skateball.tzx.zip
+skateball-128k.z80
+--tape-name "Skateball.tzx"
+--tape-sum 9bd1c63d2a84eb42247a2ec7b69f2034
+--start 24576
+--sim-load-config machine=128

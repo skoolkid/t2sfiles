@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0033386/Physiced.tzx.zip
+physiced.z80
+--tape-name "Physiced.tzx"
+--tape-sum 16e0ab1be1b12d64268b0f7742067197
+--start 1343
+--sim-load-config finish-tape=1

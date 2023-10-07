@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039184/Lagarta.tzx.zip
+lagarta-marco-paulo-carrasco-rui-manuel-tito.z80
+--tape-name "Lagarta.tzx"
+--tape-sum c16dc404ac422cbe5f06a8633f9ea05b
+--start 1343
+--sim-load-config finish-tape=1

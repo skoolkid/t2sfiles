@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BlinkysScarySchool.tzx.zip
+blinkys-scary-school-128k.z80
+--tape-name "Blinky's Scary School.tzx"
+--tape-sum 0eed55103210d89ed4a5aab21cb7bfe8
+--start 33106
+--sim-load-config machine=128
+--sim-load-config accelerator=speedlock
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PassingShot.tzx.zip
+passing-shot-128k.z80
+--tape-name "Passing Shot.tzx"
+--tape-sum d72229fd53241a73b128350066320899
+--start 35208
+--sim-load-config machine=128
+--sim-load-config accelerator=rom

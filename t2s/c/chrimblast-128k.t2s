@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030255/Chrimblast.tap.zip
+chrimblast-128k.z80
+--tape-name "Chrimblast.tap"
+--tape-sum 0f21f8a0ade3e310cbea8e103e90c273
+--start 37120
+--sim-load-config machine=128

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031392/ZeroAsteroids.tap.zip
+zero-asteroids.z80
+--tape-name "zeroasteroids.tap"
+--tape-sum 15f9130aae8a8ae48b76901369f93773
+--start 1343
+--sim-load-config finish-tape=1

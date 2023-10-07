@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/k/KillerRing.tzx.zip
+killer-ring-128k.z80
+--tape-name "Killer Ring.tzx"
+--tape-sum 9e0646eb5ce2522d06335724f7bfbc33
+--start 32768
+--sim-load-config machine=128

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0032137/PearlDiver.tzx.zip
+pearl-diver.z80
+--tape-name "PEARLDIVER.tzx"
+--tape-sum 67c7d9ce629862d0c1fb33181c1be414
+--start 1343
+--sim-load-config finish-tape=1

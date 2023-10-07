@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/z/Zub.tzx.zip
+zub-128k.z80
+--tape-name "Zub.tzx"
+--tape-sum b75e626c9f26068303d9e6717e925e16
+--start 56576
+--sim-load-config machine=128

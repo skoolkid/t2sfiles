@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030120/HauntedHouse.tap.zip
+haunted-house-john-elliott.z80
+--tape-name "HauntedHouse.tap"
+--tape-sum db7a247d7c7278ddd506641da2016885
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

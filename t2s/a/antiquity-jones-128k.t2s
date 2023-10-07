@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AntiquityJones.tzx.zip
+antiquity-jones-128k.z80
+--tape-name "AntiquityJones.tzx"
+--tape-sum cb397d6115924fc76ec83d3dd709a658
+--start 23316
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

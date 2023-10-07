@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/f/FarmerJackAndTheHedgeMonkeys.tzx.zip
+farmer-jack-and-the-hedge-monkeys-128k.z80
+--tape-name "Farmer Jack And The Hedge Monkeys!.tzx"
+--tape-sum f440690f5550b45e5d3d831b04a52710
+--start 33066
+--sim-load-config machine=128

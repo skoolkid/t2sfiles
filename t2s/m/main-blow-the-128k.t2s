@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MainBlowThe.tap.zip
+main-blow-the-128k.z80
+--tape-name "MAINBL_1.TAP"
+--tape-sum 65695e00894ff91392d6946f7489e32a
+--start 47010
+--sim-load-config machine=128

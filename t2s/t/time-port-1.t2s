@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0010312/TimePort1.tzx.zip
+time-port-1.z80
+--tape-name "TimePort1.tzx"
+--tape-sum 7079e9d427e574c85c59e3035d2ede01
+--start 1343
+--sim-load-config finish-tape=1

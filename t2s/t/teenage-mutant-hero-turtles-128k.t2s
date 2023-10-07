@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TeenageMutantHeroTurtles.tzx.zip
+teenage-mutant-hero-turtles-128k.z80
+--tape-name "Teenage Mutant Hero Turtles.tzx"
+--tape-sum 85ce0181f447a7028b2fa5c13a314b6f
+--start 60928
+--sim-load-config machine=128

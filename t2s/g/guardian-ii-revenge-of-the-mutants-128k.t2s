@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/g/GuardianII-RevengeOfTheMutants.tzx.zip
+guardian-ii-revenge-of-the-mutants-128k.z80
+--tape-name "Guardian 2.tzx"
+--tape-sum 7b6d7c7577ba324ff63ee961e8cbe9c8
+--start 45592
+--sim-load-config machine=128

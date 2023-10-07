@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030290/Tourmaline.tzx.zip
+tourmaline-128k.z80
+--tape-name "trmline.tzx"
+--tape-sum aa83a0907cc4420a48e1b01ad8f4847a
+--start 32768
+--sim-load-config machine=128

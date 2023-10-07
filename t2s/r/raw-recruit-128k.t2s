@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RawRecruit.tzx.zip
+raw-recruit-128k.z80
+--tape-name "Raw Recruit.tzx"
+--tape-sum de47e67945a6df7c58913bd7d4128be5
+--start 60928
+--sim-load-config machine=128

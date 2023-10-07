@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0010029/Paddy.tzx.zip
+paddy.z80
+--tape-name "Paddy.tzx"
+--tape-sum af592dc19b8e0ddbe157f9f3750ef9b2
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031403/AustralianTypingTutor.tap.zip
+australian-typing-tutor.z80
+--tape-name "AustralianTypingTutor.tap"
+--tape-sum b4d65f352cbe3b1945dd61c5655f6a5d
+--start 1343
+--sim-load-config finish-tape=1

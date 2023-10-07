@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030189/Uroboros.tap.zip
+uroboros-128k.z80
+--tape-name "Uroboros.tap"
+--tape-sum b68691819c62288eebbb46d30cb7cf48
+--start 31500
+--sim-load-config machine=128

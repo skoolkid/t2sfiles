@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ; Contributed by Bedazzle
 ; processed with ZX Miracle emulator
 https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0004274/RunawayRobot.tzx.zip
@@ -7,3 +8,11 @@ runaway-robot.z80
 --tape-sum bd91cf0c1860a94a615a9f972728c62c
 --start 1343
 --sim-load-config finish-tape=1
+=======
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0004274/RunawayRobot.tzx.zip
+runaway-robot.z80
+--tape-name "RunawayRobot.tzx"
+--tape-sum bd91cf0c1860a94a615a9f972728c62c
+--start 1343
+--sim-load-config finish-tape=1
+>>>>>>> 2f4564be5a14311f3585afca5c248e581db1d930

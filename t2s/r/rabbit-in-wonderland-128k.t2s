@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030238/RabbitInWonderland(128K)(EN).tap.zip
+rabbit-in-wonderland-128k.z80
+--tape-name "rabbitinwonderland.tap"
+--tape-sum dc5266f9e1bc1c5ec7ea25b84afe7049
+--start 23316
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

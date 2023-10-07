@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Stranded2.5.tzx.zip
+stranded-2.5-128k.z80
+--tape-name "S25_Black.tzx"
+--tape-sum d90d5962737671f116feb9f3ec466e54
+--start 46734
+--sim-load-config machine=128

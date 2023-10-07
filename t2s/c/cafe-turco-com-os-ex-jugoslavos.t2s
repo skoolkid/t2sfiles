@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030395/CafeTurcoComOsEx-Jugoslavos.tzx.zip
+cafe-turco-com-os-ex-jugoslavos.z80
+--tape-name "CafeTurco.tzx"
+--tape-sum 718da8a4935c9897ceaf081120aca403
+--start 1343
+--sim-load-config finish-tape=1

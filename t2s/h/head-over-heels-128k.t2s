@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/h/HeadOverHeels.tzx.zip
+head-over-heels-128k.z80
+--tape-name "Head Over Heels.tzx"
+--tape-sum 82bb33587530d337323ef3cd4456d4c4
+--start 65386
+--sim-load-config machine=128
+--sim-load-config accelerator=speedlock

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030316/DonkeyKongJr.tap.zip
+donkey-kong-jr-128k.z80
+--tape-name "DonkeyKongJr1.tap"
+--tape-sum 099026be23f2fd5f14c64541141e159f
+--start 32000
+--sim-load-config machine=128

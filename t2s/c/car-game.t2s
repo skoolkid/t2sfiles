@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031028/CARGAME.tzx.zip
+car-game.z80
+--tape-name "CARGAME.tzx"
+--tape-sum bef7d9b7310d0a8260f67ffd30b3cca4
+--start 16544
+--sim-load-config accelerator=rom

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0002612/Jet-Story(Ultrasoft[SK]).tzx.zip
+jet-story.z80
+--tape-name "Jet-Story(Ultrasoft[SK]).tzx"
+--tape-sum c72e0fd1c64d6aa8fce387e44a2ab1a0
+--start 32906
+--sim-load-config accelerator=rom,dinaload

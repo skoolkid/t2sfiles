@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030131/Terrahawks(48K).tap.zip
+terrahawks-gary-james.z80
+--tape-name "Terrahawks(48K).tap"
+--tape-sum 99bd7a81711a0e0fd95606324392a574
+--start 1343
+--sim-load-config finish-tape=1

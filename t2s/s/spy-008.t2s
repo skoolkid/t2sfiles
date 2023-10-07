@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0004783/Spy008.tap.zip
+spy-008.z80
+--tape-name "Spy008.tap"
+--tape-sum 392f316c6b14f896f52651a9702767e8
+--start 1343
+--tape-stop 5
+--sim-load-config finish-tape=1

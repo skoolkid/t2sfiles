@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030070/Glauzone.tzx.zip
+glauzone.z80
+--tape-name "GLAUZONE.tzx"
+--tape-sum e969ff2c5f079bb9a9f3c2620f16ca15
+--start 65034
+--sim-load-config accelerator=speedlock

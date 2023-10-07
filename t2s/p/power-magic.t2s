@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ; Contributed by Bedazzle
 ; processed with ZX Miracle emulator
 https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0003853/PowerMagic.tzx.zip
@@ -6,3 +7,11 @@ power-magic.z80
 --tape-name "PowerMagic.tzx"
 --tape-sum 022c6e4b6f24960b0c05091a74769022
 --start 23296
+=======
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0003853/PowerMagic.tzx.zip
+power-magic.z80
+--tape-name "PowerMagic.tzx"
+--tape-sum 022c6e4b6f24960b0c05091a74769022
+--start 46972
+--sim-load-config accelerator=rom
+>>>>>>> 2f4564be5a14311f3585afca5c248e581db1d930

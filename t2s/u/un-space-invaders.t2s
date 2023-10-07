@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031100/Un-SpaceInvaders.tzx.zip
+un-space-invaders.z80
+--tape-name "Un-SpaceInvaders.tzx"
+--tape-sum 0340b17ba082183b5abfde86432f8ccb
+--start 1343
+--sim-load-config finish-tape=1

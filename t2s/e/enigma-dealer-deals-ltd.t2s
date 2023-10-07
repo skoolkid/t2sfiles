@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0009708/Enigma.tzx.zip
+enigma-dealer-deals-ltd.z80
+--tape-name "Enigma[Brainbox1984].tzx"
+--tape-sum 0ad0086cd7317833ef42e56f916db344
+--start 1343
+--sim-load-config finish-tape=1

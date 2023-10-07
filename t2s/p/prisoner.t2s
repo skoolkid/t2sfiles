@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0020444/Prisoner.tzx.zip
+prisoner.z80
+--tape-name "Prisoner.tzx"
+--tape-sum f00fb0cb27ec9c78763fe3a9dafaf368
+--start 1343
+--tape-start 4
+--sim-load-config finish-tape=1

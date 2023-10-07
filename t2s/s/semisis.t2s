@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0013932/SEMISIS.tap.zip
+semisis.z80
+--tape-name "SEMISIS.tap"
+--tape-sum b448a5095f904a167648f3e0ce8b8fa5
+--start 1343
+--sim-load-config finish-tape=1

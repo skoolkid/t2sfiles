@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030238/RabbitInWonderland(48K)(EN).tap.zip
+rabbit-in-wonderland.z80
+--tape-name "rabbitinwonderlan_48k_eng.tap"
+--tape-sum 698296d2e436d1ef32c67000e9744c8d
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031084/SudokuChallengeThe.tzx.zip
+sudoku-challenge-the.z80
+--tape-name "SudokuChallengeThe.tzx"
+--tape-sum f1ae49ca3fcd26650195cdc02088aace
+--start 1343
+--sim-load-config finish-tape=1

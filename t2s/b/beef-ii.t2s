@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031404/BeefII.tzx.zip
+beef-ii.z80
+--tape-name "BeefII.tzx"
+--tape-sum 3cdf787896cf3ff23f68e782a82c7dfc
+--start 1343
+--sim-load-config finish-tape=1

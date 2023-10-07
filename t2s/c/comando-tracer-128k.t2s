@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/ComandoTracer.tzx.zip
+comando-tracer-128k.z80
+--tape-name "Comando Tracer.tzx"
+--tape-sum f7c9e3ec3bcdc9ba7e322e3df2a8c73a
+--start 43883
+--sim-load-config machine=128
+--sim-load-config accelerator=speedlock

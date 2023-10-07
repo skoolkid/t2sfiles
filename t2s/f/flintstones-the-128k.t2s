@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/f/FlintstonesThe.tzx.zip
+flintstones-the-128k.z80
+--tape-name "The Flintstones.tzx"
+--tape-sum 53f42eb510414abcd960395f17c76401
+--start 23514
+--sim-load-config machine=128
+--sim-load-config accelerator=rom

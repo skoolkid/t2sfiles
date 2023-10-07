@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031413/Driver.tap.zip
+driver-dave-hughes.z80
+--tape-name "Driver.tap"
+--tape-sum f3df087ead76ffd9d2dc1a3e5784ae2b
+--start 1343
+--sim-load-config finish-tape=1

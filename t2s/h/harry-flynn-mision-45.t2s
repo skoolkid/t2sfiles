@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034868/HarryFlynnMision45.tap.zip
+harry-flynn-mision-45.z80
+--tape-name "Mision 45.tap"
+--tape-sum b46a92a0fca551f1ba8cd009fd3389c1
+--start 1343
+--sim-load-config finish-tape=1

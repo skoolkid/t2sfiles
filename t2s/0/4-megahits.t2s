@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/compilations/123/4Megahits.tzx.zip
+4-megahits.z80
+--tape-name "4Megahits.tzx"
+--tape-sum 5e763cad946cd30d7117bedc9f582851
+--start 1343
+--sim-load-config finish-tape=1

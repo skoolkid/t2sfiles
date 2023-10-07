@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030045/Pyromania-TrialByFire.tap.zip
+pyromania-trial-by-fire.z80
+--tape-name "PYROMANIA_00.tap"
+--tape-sum 7c25d113adaad8563afd919ea5b5b01e
+--start 1343
+--sim-load-config finish-tape=1

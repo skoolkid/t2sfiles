@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030076/MetalManReloaded(ES).tap.zip
+metal-man-reloaded-es-128k.z80
+--tape-name "MetalManReloaded(ES).tap"
+--tape-sum 8b745b3f87679e34afab35774952f37f
+--start 38286
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

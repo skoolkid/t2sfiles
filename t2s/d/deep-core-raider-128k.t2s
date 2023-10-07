@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030282/DeepCoreRaider.tzx.zip
+deep-core-raider-128k.z80
+--tape-name "DCR11.tzx"
+--tape-sum 0a514ca3c9b1cb09951756170121196a
+--start 23316
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

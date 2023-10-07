@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031361/Haiku.tap.zip
+haiku.z80
+--tape-name "haiku.tap"
+--tape-sum 504667c7dbf888f8f8e2c1bc90b4fbd8
+--start 1343
+--sim-load-config finish-tape=1

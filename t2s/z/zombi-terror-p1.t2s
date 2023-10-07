@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030137/ZombiTerrorPart1(Spectrum)(EN).tzx.zip
+zombi-terror-p1.z80
+--tape-name "ZombiTerrorPart1(Spectrum)(EN).tzx"
+--tape-sum 00c843c2f16da1a9cac3c483ec19066d
+--start 1343
+--sim-load-config finish-tape=1

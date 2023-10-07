@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034442/Subs.tap.zip
+subs.z80
+--tape-name "Subs.tap"
+--tape-sum 875282926bbc874a67d40ec9b998635a
+--start 1343
+--sim-load-config finish-tape=1

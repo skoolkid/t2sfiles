@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030338/ZombosXmasCapers.tap.zip
+unofficial-zombos-christmas-capers-the.z80
+--tape-name "Zombo's Christmas Capers.tap"
+--tape-sum cf74cc89242578bf42fd03af9a74d13f
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0004908/Stockmarket.tzx.zip
+stockmarket.z80
+--tape-name "Stockmarket.tzx"
+--tape-sum f2b46bebda7b8a7db50255bd99c0a58b
+--start 1343
+--sim-load-config finish-tape=1

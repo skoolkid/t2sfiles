@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/o/Obchodnik.tap.zip
+obchodnik-128k.z80
+--tape-name "obchodnik.tap"
+--tape-sum f56343ed58c508524710a79ead54ecbd
+--start 23316
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

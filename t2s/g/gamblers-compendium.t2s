@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0019524/GamblersCompendium(Bandit).tzx.zip
+gamblers-compendium.z80
+--tape-name "Gamblers Compendium - Bandit - Master.tzx"
+--tape-sum b5c030a6d436c95f15d18449556c07c0
+--start 1343
+--sim-load-config finish-tape=1

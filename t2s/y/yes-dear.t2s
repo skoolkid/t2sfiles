@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031391/YesDear.tzx.zip
+yes-dear.z80
+--tape-name "YesDear.tzx"
+--tape-sum dc78732ab76259c58974225855e5f4a8
+--start 1343
+--sim-load-config finish-tape=1

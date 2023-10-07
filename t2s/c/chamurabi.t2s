@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035361/Chamurabi.tap.zip
+chamurabi.z80
+--tape-name "Chamurabi.tap"
+--tape-sum 27dadcef025401f2bb6dce36d2c54579
+--start 1343
+--sim-load-config finish-tape=1

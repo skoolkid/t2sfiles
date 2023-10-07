@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ; Contributed by Bedazzle
 ; processed with ZX Miracle emulator
 https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0003661/Perestrojka.tzx.zip
@@ -6,3 +7,11 @@ perestrojka.z80
 --tape-name "Perestrojka.tzx"
 --tape-sum 11168e81c72d3e8ab158a40e5ea2ab37
 --start 24200
+=======
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0003661/Perestrojka.tzx.zip
+perestrojka.z80
+--tape-name "Perestrojka.tzx"
+--tape-sum 11168e81c72d3e8ab158a40e5ea2ab37
+--start 24200
+--sim-load-config accelerator=bleepload
+>>>>>>> 2f4564be5a14311f3585afca5c248e581db1d930

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/g/GommyDefensorMedieval_2.tap.zip
+gommy-defensor-medieval-english-128k.z80
+--tape-name "Gommy Defensor Medieval (English).tap"
+--tape-sum 60bba992a88862a0838e3fc0ed0c2e2a
+--start 25000
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

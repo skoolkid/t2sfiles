@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0022603/BirminghamNewStreetPowerbox.tzx.zip
+birmingham-new-street-powerbox.z80
+--tape-name "BirminghamNewStreetPowerbox.tzx"
+--tape-sum 9ea2fc98af8e9604493dffae8bd5ab56
+--start 1343
+--sim-load-config finish-tape=1

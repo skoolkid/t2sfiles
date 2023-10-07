@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0013277/HarryTheHippy(Adventure10Pack).tzx.zip
+harry-the-hippy.z80
+--tape-name "HarryTheHippy(ARemics10Pack).tzx"
+--tape-sum e066f49d813518feaf65f8d298690417
+--start 1343
+--sim-load-config finish-tape=1

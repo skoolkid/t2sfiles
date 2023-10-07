@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0027662/BatalhaNaval.tzx.zip
+batalha-naval-astor-software.z80
+--tape-name "BatalhaNaval.tzx"
+--tape-sum e046f921c00a5f4448d3556d7697ca12
+--start 7070
+--sim-load-config accelerator=rom
+--sim-load-config finish-tape=1

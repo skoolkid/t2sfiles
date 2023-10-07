@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0009403/Quadrax.tzx.zip
+quadrax.z80
+--tape-name "Quadrax.tzx"
+--tape-sum 5809b9e40be90f10a4bce6c359ff0a73
+--start 32286
+--sim-load-config accelerator=rom,dinaload

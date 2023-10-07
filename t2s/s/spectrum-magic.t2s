@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030819/SpectrumMagic.tap.zip
+spectrum-magic.z80
+--tape-name "SpectrumMagic.tap"
+--tape-sum 00bb078d773728e74f53fba5d43681b6
+--start 1343
+--sim-load-config finish-tape=1

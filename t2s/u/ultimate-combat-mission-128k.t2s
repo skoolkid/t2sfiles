@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/u/UltimateCombatMission.tzx.zip
+ultimate-combat-mission-128k.z80
+--tape-name "Ultimate Combat Mission.tzx"
+--tape-sum bd0481aa54367c1b180a2bcb540e5507
+--start 44744
+--sim-load-config machine=128

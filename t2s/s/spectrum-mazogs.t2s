@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030403/Spectrum_Mazogs.tzx.zip
+spectrum-mazogs.z80
+--tape-name "Spectrum_Mazogs.tzx"
+--tape-sum 1c71c453d6805d307f9ed99b68111502
+--start 1343
+--sim-load-config finish-tape=1

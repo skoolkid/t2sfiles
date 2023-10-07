@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0017299/Moonraker(AssassinsSoftware).tzx.zip
+moonraker.z80
+--tape-name "Moonraker - Assassins Software.TZX"
+--tape-sum 8e165985c32a1564cd24944210e827da
+--start 1343
+--tape-stop 13
+--sim-load-config finish-tape=1

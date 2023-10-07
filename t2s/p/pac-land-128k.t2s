@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Pac-Land.tzx.zip
+pac-land-128k.z80
+--tape-name "Pac-Land.tzx"
+--tape-sum b5d44427b6f4c70d5f34cc2744237b90
+--start 47855
+--sim-load-config machine=128
+--sim-load-config accelerator=search-loader
+--sim-load-config accelerate-dec-a=2

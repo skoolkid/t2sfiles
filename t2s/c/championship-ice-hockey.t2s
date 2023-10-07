@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0025044/ChampionshipIceHockey(Release1).tzx.zip
+championship-ice-hockey.z80
+--tape-name "ChampionshipIceHockey(Release 1).tzx"
+--tape-sum dc3d46ae5675d8568fc387eb5797267e
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CenturionsThe.tzx.zip
+centurions-the-128k.z80
+--tape-name "Centurions.tzx"
+--tape-sum ce0f3cecb3af8eb7f68ff2465242ad61
+--start 65285
+--sim-load-config machine=128
+--sim-load-config accelerator=bleepload
+--tape-stop 157

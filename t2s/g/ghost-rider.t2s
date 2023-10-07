@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0009776/GhostRider.tzx.zip
+ghost-rider.z80
+--tape-name "GhostRider.tzx"
+--tape-sum 297ebe9541df7a9596647dc458cc7db0
+--start 1343
+--sim-load-config finish-tape=1

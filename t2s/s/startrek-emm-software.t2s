@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0004886/Startrek.tap.zip
+startrek-emm-software.z80
+--tape-name "STARTR_1.TAP"
+--tape-sum 3477f910d98a3c66e613eb9f9ad05bd7
+--start 1343
+--sim-load-config finish-tape=1

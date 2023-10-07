@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/l/LivingstoneSupongo(SmallCase).tzx.zip
+livingstone-supongo-128k.z80
+--tape-name "Livingstone Supongo.tzx"
+--tape-sum 3bb51e577a49f0069f75ffa75be9e1c4
+--start 62235
+--sim-load-config machine=128

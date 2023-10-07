@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0017824/NomenRosae.tap.zip
+nomen-rosae.z80
+--tape-name "NomenRosae.tap"
+--tape-sum a0ecccf296fdf01f7f02aae97f140344
+--start 1343
+--sim-load-config finish-tape=1

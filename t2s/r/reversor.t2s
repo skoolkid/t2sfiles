@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ; Contributed by Bedazzle
 ; processed with ZX Miracle emulator
 https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0004124/Reversor.tap.zip
@@ -7,3 +8,11 @@ reversor.z80
 --tape-sum 9fe7f08c027eca24902c1a08934d85cf
 --start 1343
 --sim-load-config finish-tape=1
+=======
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0004124/Reversor.tap.zip
+reversor.z80
+--tape-name "Reversor.tap"
+--tape-sum 9fe7f08c027eca24902c1a08934d85cf
+--start 1343
+--sim-load-config finish-tape=1
+>>>>>>> 2f4564be5a14311f3585afca5c248e581db1d930

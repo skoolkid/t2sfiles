@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0032268/SaurianLO.tzx.zip
+saurian-lo.z80
+--tape-name "SAURIAN-LO.tzx"
+--tape-sum 142396df61cc5e6523ed5a49bfc3d177
+--start 1343
+--sim-load-config finish-tape=1

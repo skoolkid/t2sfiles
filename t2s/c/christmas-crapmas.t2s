@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0032191/Crapmas.tzx.zip
+christmas-crapmas.z80
+--tape-name "crapmas.tzx"
+--tape-sum f0621b1a05ce43e700b2fc5bdf4e7d29
+--start 33903
+--sim-load-config accelerator=none

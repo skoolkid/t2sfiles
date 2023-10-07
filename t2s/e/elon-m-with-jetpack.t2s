@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034665/ElonMWithJetpack.tzx.zip
+elon-m-with-jetpack.z80
+--tape-name "ElonMwithJetpack_v1.0.tzx"
+--tape-sum 218e45a0ab03114f6ddaeb6ef7990a13
+--start 1343
+--sim-load-config finish-tape=1

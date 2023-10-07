@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/h/HermitageThe.tzx.zip
+hermitage-the-v1-128k.z80
+--tape-name "The Hermitage.tzx"
+--tape-sum 61f38cf3b938a48f4e124c268ed0b6c8
+--start 36376
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

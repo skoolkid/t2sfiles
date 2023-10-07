@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030322/Rompetechos(EN).tap.zip
+rompetechos.z80
+--tape-name "rompetechos-en.tap"
+--tape-sum 3ee73974c02278ebe5ec71a3f3da6de5
+--start 1343
+--sim-load-config finish-tape=1

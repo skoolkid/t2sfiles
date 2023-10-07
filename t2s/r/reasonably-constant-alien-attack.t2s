@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031120/ReasonablyConstantAlienAttack.tzx.zip
+reasonably-constant-alien-attack.z80
+--tape-name "ReasonablyConstantAlienAttack.tzx"
+--tape-sum 36a92a9b3db2e2ad8487044a381d77e7
+--start 1343
+--sim-load-config finish-tape=1

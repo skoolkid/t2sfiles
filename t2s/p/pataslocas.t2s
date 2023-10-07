@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035344/Pataslocas.tzx.zip
+pataslocas.z80
+--tape-name "Pataslocas.tzx"
+--tape-sum efa28867dcced56834cc1661103945ba
+--start 1343
+--sim-load-config finish-tape=1

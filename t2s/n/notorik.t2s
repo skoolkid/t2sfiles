@@ -1,8 +1,16 @@
 ; Contributed by Bedazzle
+<<<<<<< HEAD
 ; processed with ZX Miracle emulator
+=======
+>>>>>>> 2f4564be5a14311f3585afca5c248e581db1d930
 https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0003464/Notorik.tzx.zip
 notorik.z80
 --sim-load
 --tape-name "Notorik.tzx"
 --tape-sum 8138394538b4a49eb1e4033a2b01d57d
+<<<<<<< HEAD
 --start 32934
+=======
+--start 32903
+--sim-load-config accelerator=rom,dinaload
+>>>>>>> 2f4564be5a14311f3585afca5c248e581db1d930

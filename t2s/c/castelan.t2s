@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0032269/Castelan.tzx.zip
+castelan.z80
+--tape-name "CASTELAN.tzx"
+--tape-sum 0c61f8342cd9584499fd5a43c063a717
+--start 1343
+--sim-load-config finish-tape=1

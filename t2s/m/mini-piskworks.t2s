@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0017909/MiniPiskworks.tap.zip
+mini-piskworks.z80
+--tape-name "MiniPiskworks.tap"
+--tape-sum 4a23350c61eaa7fa798ed6da55037d7b
+--start 1343
+--sim-load-config finish-tape=1

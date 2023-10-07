@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0010381/WarriorsRevenge.tzx.zip
+warriors-revenge.z80
+--tape-name "Warrior's Revenge.tzx"
+--tape-sum 7303df7d079dfce471c509f73c73aa97
+--start 1343
+--sim-load-config finish-tape=1

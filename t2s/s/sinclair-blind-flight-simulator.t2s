@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0033355/SinclairBlindFlightSimulator.tap.zip
+sinclair-blind-flight-simulator.z80
+--tape-name "SinclairBlindFlightSimulator.tap"
+--tape-sum 5b92a19cccc0ec5583286c25234817a4
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

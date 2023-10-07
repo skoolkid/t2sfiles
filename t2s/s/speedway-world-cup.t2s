@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0020549/Speedway-WorldCup.tzx.zip
+speedway-world-cup.z80
+--tape-name "Speedway-WorldCup.tzx"
+--tape-sum e39384eea5fa23e1667cd538538def81
+--start 1343
+--sim-load-config finish-tape=1

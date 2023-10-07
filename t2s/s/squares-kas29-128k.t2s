@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030367/Squares.tap.zip
+squares-kas29-128k.z80
+--tape-name "SQUARES.tap"
+--tape-sum f5db9b71f635fe7e32cacf577b01f5e5
+--start 23906
+--sim-load-config machine=128

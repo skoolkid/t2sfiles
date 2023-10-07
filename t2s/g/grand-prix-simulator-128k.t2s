@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0009353/GrandPrixSimulator.tzx.zip
+grand-prix-simulator-128k.z80
+--tape-name "GrandPrixSimulator.tzx"
+--tape-sum ef62f252b96dc4f85819281a15503607
+--start 51760
+--sim-load-config machine=128

@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DuelThe-TestDriveII.tzx.zip
+duel-the-test-drive-ii-128k.z80
+--tape-name "Test Drive 2 - The Duel.tzx"
+--tape-sum 383560f30e5a0f314e8014867ffcd368
+--start 65142
+--sim-load-config machine=128
+--sim-load-config accelerator=speedlock
+--sim-load-config finish-tape=1

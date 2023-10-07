@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0005328/TootieFruity.tzx.zip
+tootie-fruity.z80
+--tape-name "TootieFruity.tzx"
+--tape-sum 3ebb8f3f17231a20415d44f534446518
+--start 1343
+--tape-stop 8
+--sim-load-config finish-tape=1

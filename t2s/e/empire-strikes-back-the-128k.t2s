@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/e/EmpireStrikesBackThe.tzx.zip
+empire-strikes-back-the-128k.z80
+--tape-name "The Empire Strikes Back.tzx"
+--tape-sum f45c7c0c442afa94645c088093eb2054
+--start 42395
+--sim-load-config machine=128
+--sim-load-config accelerator=rom

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031004/AchtungMinen.tzx.zip
+achtung-minen.z80
+--tape-name "AchtungMinen.tzx"
+--tape-sum fd35fa98b632bb666044924edd5a4c72
+--start 1343
+--sim-load-config finish-tape=1

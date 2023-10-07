@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037047/GermanWhist.tzx.zip
+german-whist.z80
+--tape-name "GermanWhist.tzx"
+--tape-sum b010a0609d6471fa6b858deca53064b7
+--start 1343
+--sim-load-config finish-tape=1

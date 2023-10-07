@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031488/TextGolfPro.tap.zip
+text-golf-pro.z80
+--tape-name "TextGolfPro.tap"
+--tape-sum db290b7a78dab50615468abd15a0ea82
+--start 1343
+--tape-stop 9
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031425/HoneyIShrankTheScreen.tap.zip
+honey-i-shrank-the-screen.z80
+--tape-name "HoneyIShrankTheScreen.tap"
+--tape-sum 8a3bb917c76285a1e9ce26f3ff91218f
+--start 1343
+--sim-load-config finish-tape=1

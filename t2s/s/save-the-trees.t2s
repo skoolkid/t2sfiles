@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030252/SaveTheTrees.tzx.zip
+save-the-trees.z80
+--tape-name "Save the Trees! (mzx, 2015, 48K).tzx"
+--tape-sum 1aa45b91b001fd304b73ca1ba0d35219
+--start 24200
+--sim-load-config finish-tape=1

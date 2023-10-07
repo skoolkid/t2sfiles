@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ; Contributed by Bedazzle
 ; processed with ZX Miracle emulator
 https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0003334/MusicLogic.tzx.zip
@@ -6,3 +7,11 @@ music-logic.z80
 --tape-name "MusicLogic.tzx"
 --tape-sum 0b8f7faa00aa89f885e4d0976d836315
 --start 24200
+=======
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0003334/MusicLogic.tzx.zip
+music-logic.z80
+--tape-name "MusicLogic.tzx"
+--tape-sum 0b8f7faa00aa89f885e4d0976d836315
+--start 24200
+--sim-load-config accelerator=bleepload
+>>>>>>> 2f4564be5a14311f3585afca5c248e581db1d930

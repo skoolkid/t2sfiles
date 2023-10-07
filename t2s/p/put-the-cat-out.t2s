@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031446/Putthecatout.tap.zip
+put-the-cat-out.z80
+--tape-name "Putthecatout.tap"
+--tape-sum 28aafc9f144c362215297f8ae46db705
+--start 1343
+--sim-load-config finish-tape=1

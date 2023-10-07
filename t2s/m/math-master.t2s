@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031479/MathsMaster.tap.zip
+math-master.z80
+--tape-name "MathsMaster.tap"
+--tape-sum 6c41f78e66e7f15a72a102fc05bdd440
+--start 1343
+--sim-load-config finish-tape=1

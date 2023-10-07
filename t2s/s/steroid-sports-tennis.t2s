@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031129/SteroidSports-Tennis.tzx.zip
+steroid-sports-tennis.z80
+--tape-name "SteroidSports-Tennis.tzx"
+--tape-sum e0fd34006d14c1de6ac5fa1c3ad6b8fd
+--start 1343
+--sim-load-config finish-tape=1

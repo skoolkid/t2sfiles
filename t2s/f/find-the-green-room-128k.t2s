@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030141/FindTheGreenRoom.tzx.zip
+find-the-green-room-128k.z80
+--tape-name "FindTheGreenRoom.tzx"
+--tape-sum 4c09e6813d51d1b67ff6eb8938f6645f
+--start 32000
+--sim-load-config machine=128

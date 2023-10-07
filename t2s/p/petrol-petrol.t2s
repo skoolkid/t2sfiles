@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0027699/PetrolPetrol.tap.zip
+petrol-petrol.z80
+--tape-name "PetrolPetrol.tap"
+--tape-sum 3df66f0d00f79be6e4040dacad8df94e
+--start 1343
+--sim-load-config finish-tape=1

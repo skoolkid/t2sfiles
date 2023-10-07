@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/utils/e/Expert4Bank.tzx.zip
+expert-for-bank.z80
+--tape-name "expert4bank.tzx"
+--tape-sum 32a69d5df74edcdff5de6980e2c8a759
+--start 1343
+--tape-stop 8
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0003907/PrvaAkcia.tzx.zip
+prva-akcia.z80
+--tape-name "PrvaAkcia.tzx"
+--tape-sum bc0a39e455f8e5199b72b1a62864f32c
+--start 32903
+--sim-load-config accelerator=rom,dinaload

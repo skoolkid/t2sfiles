@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TaiChiTortoise.tzx.zip
+tai-chi-tortoise-128k.z80
+--tape-name "Tai-Chi Tortoise.tzx"
+--tape-sum 465d0066982b7d65f53a7d21c96ba4f4
+--start 24988
+--sim-load-config machine=128

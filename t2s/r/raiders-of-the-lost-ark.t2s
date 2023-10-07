@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0032206/RaidersOfTheLostArk(Cursor).tap.zip
+raiders-of-the-lost-ark.z80
+--tape-name "Raiders of the Lost Ark - side A (cursor keys).tap"
+--tape-sum 9e46cf84e48b793e0f52cc5dd9920092
+--start 1343
+--sim-load-config finish-tape=1

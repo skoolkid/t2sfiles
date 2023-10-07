@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0027317/HundimientoDelTitanicEl.tap.zip
+hundimiento-del-titanic-el.z80
+--tape-name "HundimientoDelTitanicEl.tap"
+--tape-sum 734c41126cb31f6abb522a47f107fde6
+--start 1343
+--sim-load-config finish-tape=1

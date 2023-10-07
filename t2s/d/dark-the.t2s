@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024888/TheDark_2016(EN).tap.zip
+dark-the.z80
+--tape-name "TheDark_en.tap"
+--tape-sum 7c7c579a43e80572313579cd6b96b682
+--start 24576
+--sim-load-config finish-tape=1

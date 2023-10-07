@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/Twinz.tap.zip
+twinz-128k.z80
+--tape-name "TWINZ.TAP"
+--tape-sum 818935dbb0e31ad310616d357ded9ed8
+--start 44000
+--sim-load-config machine=128

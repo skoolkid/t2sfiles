@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030270/DarkCastle.tap.zip
+dark-castle-128k.z80
+--tape-name "DARK CASTLE.tap"
+--tape-sum 05db07b5197afef32623d79d94fbe590
+--start 23906
+--sim-load-config machine=128

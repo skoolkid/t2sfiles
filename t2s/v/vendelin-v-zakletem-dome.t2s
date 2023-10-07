@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0015221/VendelinVZakletemDome.tzx.zip
+vendelin-v-zakletem-dome.z80
+--tape-name "VendelinVZakletemDome.tzx"
+--tape-sum bf95e9795413df1c616059be1f385ee9
+--start 24200
+--sim-load-config accelerator=rom

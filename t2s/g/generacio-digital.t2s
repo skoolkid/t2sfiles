@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034877/GeneracioDigital.tap.zip
+generacio-digital.z80
+--tape-name "gd128.tap"
+--tape-sum 815a24f264d80996f0ceacba28f4ae95
+--start 1343
+--sim-load-config finish-tape=1

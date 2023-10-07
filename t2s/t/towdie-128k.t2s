@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/Towdie(SofthouseLtd).tzx.zip
+towdie-128k.z80
+--tape-name "Towdie_english.tzx"
+--tape-sum 4a3a106fee96c6656ae64f1578a61b56
+--start 24226
+--sim-load-config machine=128

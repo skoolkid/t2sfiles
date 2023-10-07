@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/i/InvasionOfTheZombieMonsters.tzx.zip
+invasion-of-the-zombie-monsters-128k.z80
+--tape-name "RLV904_Invasion_of_the_Zombie_Monsters.tzx"
+--tape-sum 03ff13facd5011641d9d06af88cc22a0
+--start 24576
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030805/Millionaire(CheatingBastEdition).tap.zip
+millionaire-cheating-bast-edition.z80
+--tape-name "Millionaire(CheatingBastEdition).tap"
+--tape-sum 60f62c9de6e9d9c0097863de4df5c66e
+--start 1343
+--sim-load-config finish-tape=1

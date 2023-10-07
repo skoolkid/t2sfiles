@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/r/ReturnOfTheJedi.tzx.zip
+return-of-the-jedi-128k.z80
+--tape-name "Return Of The Jedi.tzx"
+--tape-sum 4668b490dbb23230205ff7f6ec887b4d
+--start 23296
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

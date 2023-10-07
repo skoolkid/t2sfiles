@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035148/Sprouty(EN).tap.zip
+sprouty-en.z80
+--tape-name "Sprouty(EN).tap"
+--tape-sum 4a772b67e51b283a138e19f0b609727d
+--start 1343
+--sim-load-config finish-tape=1

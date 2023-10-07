@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0009610/CLUESO.tzx.zip
+clues-o.z80
+--tape-name "Clueso.tzx"
+--tape-sum 5ba9ae598d33d1e9e4f108a6cd94136f
+--start 1343
+--sim-load-config finish-tape=1

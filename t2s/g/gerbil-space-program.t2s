@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031359/GerbilSpaceProgram.tzx.zip
+gerbil-space-program.z80
+--tape-name "GSP Final.tzx"
+--tape-sum fdc464b98e24c93c7c69455bce34ddd7
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Minesweeper.tzx.zip
+minesweeper-dr-li-tiger-core-128k.z80
+--tape-name "Minesweeper.tzx"
+--tape-sum c76b453aaaa5398c3a3f37354823ee1f
+--start 32768
+--sim-load-config machine=128

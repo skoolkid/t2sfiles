@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030265/10OTHELLO.tap.zip
+10-othello.z80
+--tape-name "10OTHELLO.tap"
+--tape-sum dc4c6c702a5de477b9189c68128f32a3
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

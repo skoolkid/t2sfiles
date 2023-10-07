@@ -1,0 +1,8 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0009387/PanicDizzy.tzx.zip
+panic-dizzy.z80
+--tape-name "PanicDizzy.tzx"
+--tape-sum 02645d0f3c92d76d82ba0c91ed548149
+--start 24146
+--tape-stop 8
+--sim-load-config accelerator=rom
+--sim-load-config finish-tape=1

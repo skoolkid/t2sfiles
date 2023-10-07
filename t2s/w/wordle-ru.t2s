@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037316/Wordle(RU).tap.zip
+wordle-ru.z80
+--tape-name "Wordle(RU).tap"
+--tape-sum 469c022aa1e74f29d9241c381c5d3258
+--start 24441
+--sim-load-config accelerator=speedlock

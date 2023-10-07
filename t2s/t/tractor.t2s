@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0032267/Tractor.tzx.zip
+tractor.z80
+--tape-name "TRACTOR.tzx"
+--tape-sum f918a9f91defe2801e4ab70ff4602913
+--start 1343
+--sim-load-config finish-tape=1

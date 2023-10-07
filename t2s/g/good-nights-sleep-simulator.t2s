@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031360/GoodNightsSleepSimulator(MykePCrack).tap.zip
+good-nights-sleep-simulator.z80
+--tape-name "Sleep(cracked).TAP"
+--tape-sum 912f128c8ba95b01885f4a73b45d121f
+--start 1343
+--sim-load-config finish-tape=1

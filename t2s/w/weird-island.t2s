@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030209/WeirdIsland.tap.zip
+weird-island.z80
+--tape-name "WeirdIsland.tap"
+--tape-sum 48c8db0ddbd4a720580332c3b5b0fcb6
+--start 1343
+--sim-load-config finish-tape=1

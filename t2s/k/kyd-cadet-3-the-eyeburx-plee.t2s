@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030128/KydCadet3.tzx.zip
+kyd-cadet-3-the-eyeburx-plee.z80
+--tape-name "KYD3_0.tzx"
+--tape-sum 9d299ded39ef21e098b9ea49229b1c0d
+--start 1343
+--sim-load-config finish-tape=1

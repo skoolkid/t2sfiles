@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030301/AngryBirds-Opposition.tap.zip
+angry-birds-opposition-128k.z80
+--tape-name "AngryBirds-Opposition.tap"
+--tape-sum 285b4f17e9bcc700e29eaf15b036d140
+--start 23316
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

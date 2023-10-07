@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/w/WizardWarz.tzx.zip
+wizard-warz-128k.z80
+--tape-name "Wizard Warz.tzx"
+--tape-sum 82c2c0fc080c322ab227fc1a210683dd
+--start 45248
+--sim-load-config machine=128
+--sim-load-config accelerator=alkatraz,alkatraz-0a
+--sim-load-config finish-tape=1

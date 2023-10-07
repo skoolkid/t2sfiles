@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037611/UFOInvaders.tap.zip
+ufo-invaders.z80
+--tape-name "UFOInvader.tap"
+--tape-sum d5ad6aebbc3ee5f5e527c1b18948428b
+--start 23760
+--sim-load-config finish-tape=1

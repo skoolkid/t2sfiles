@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030197/PetsVsAliensPrologue.tap.zip
+pets-vs-aliens-prologue-128k.z80
+--tape-name "PetsVsAliens.tap"
+--tape-sum a67f570517837aef72a2a4206cb268a1
+--start 56000
+--sim-load-config machine=128

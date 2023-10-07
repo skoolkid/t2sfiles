@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0032270/AlaBalaMutari.tzx.zip
+ala-bala-mutari.z80
+--tape-name "ALA-BALA-MUTARI.tzx"
+--tape-sum 477c8fb5d114cb1f6d4b122b41bc389b
+--start 1343
+--sim-load-config finish-tape=1

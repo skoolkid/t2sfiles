@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RoadRunnerAndWileE.Coyote.tzx.zip
+road-runner-and-wile-e-coyote-128k.z80
+--tape-name "Road Runner And Wile E. Coyote.tzx"
+--tape-sum 06239d172b509dce5c78598a7c63ccd6
+--start 63545
+--sim-load-config machine=128
+--sim-load-config accelerator=bleepload

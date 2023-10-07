@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0009612/CoinIt.tzx.zip
+coin-it.z80
+--tape-name "CoinIt.tzx"
+--tape-sum c26498ea8d72de2601bb52323acab0c4
+--start 1343
+--sim-load-config finish-tape=1

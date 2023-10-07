@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PackhousePete.tzx.zip
+packhouse-pete.z80
+--tape-name "Packhouse Pete.tzx"
+--tape-sum f6c9a3d79cd3e6eb310c13adead8ecd3
+--start 1343
+--sim-load-config finish-tape=1

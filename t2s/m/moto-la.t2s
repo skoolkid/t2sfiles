@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034871/LaMoto.tzx.zip
+moto-la.z80
+--tape-name "La_Moto.tzx"
+--tape-sum 96ae0694808a43539c8607373944d929
+--start 45930
+--sim-load-config accelerator=speedlock

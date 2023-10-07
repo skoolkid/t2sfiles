@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ; Contributed by Bedazzle
 ; processed with ZX Miracle emulator
 https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0003647/PeloponnesianWar.tzx.zip
@@ -7,3 +8,11 @@ peloponnesian-war.z80
 --tape-sum 91dea1300fa76059083939b2dd1f66bc
 --start 1343
 --sim-load-config finish-tape=1
+=======
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0003647/PeloponnesianWar.tzx.zip
+peloponnesian-war.z80
+--tape-name "Peloponnesian War.tzx"
+--tape-sum 91dea1300fa76059083939b2dd1f66bc
+--start 1343
+--sim-load-config finish-tape=1
+>>>>>>> 2f4564be5a14311f3585afca5c248e581db1d930

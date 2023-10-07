@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0032308/Knights(BASIC).tap.zip
+knights.z80
+--tape-name "Knights (BASIC version).tap"
+--tape-sum ad027daac4bd48a2d93cb48d5ecd8b10
+--start 1343
+--sim-load-config finish-tape=1

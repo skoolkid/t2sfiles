@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/n/NeloQuqoAndTheLastButifarreisson.tzx.zip
+nelo-and-quqo-and-the-last-butifarreisson-128k.z80
+--tape-name "neloquqo.tzx"
+--tape-sum 970076badd7a844985e557cdc93c86b1
+--start 32768
+--sim-load-config machine=128

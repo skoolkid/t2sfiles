@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/p/ProMountainBikeSimulator.tzx.zip
+pro-mountain-bike-simulator-128k.z80
+--tape-name "Pro Mountain Bike Simulator.tzx"
+--tape-sum 1be8bf34b2bff617a9e95fd298974b64
+--start 64272
+--sim-load-config machine=128
+--tape-stop 10
+--sim-load-config accelerator=rom

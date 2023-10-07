@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031475/ERASE.tap.zip
+erase.z80
+--tape-name "ERASE (Eradicate Rapidly All Symbols Entirely).tap"
+--tape-sum bd518d2767fc8fae5e5beed3a35cee47
+--start 1343
+--sim-load-config finish-tape=1

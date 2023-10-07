@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RunTheGauntlet.tzx.zip
+run-the-gauntlet-128k.z80
+--tape-name "Run The Gauntlet.tzx"
+--tape-sum 95b888e0122690479641f8e464f2c335
+--start 23824
+--sim-load-config machine=128

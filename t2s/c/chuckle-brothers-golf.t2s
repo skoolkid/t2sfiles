@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030783/ChuckleBrothersGolf.tap.zip
+chuckle-brothers-golf.z80
+--tape-name "ChuckleBrothersGolf.tap"
+--tape-sum 923e27ee8358336cf1f823948ed74146
+--start 1343
+--sim-load-config finish-tape=1

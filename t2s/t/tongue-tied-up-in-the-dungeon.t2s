@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031459/TongueTied-upInTheDungeon.tzx.zip
+tongue-tied-up-in-the-dungeon.z80
+--tape-name "TongueTied-upInTheDungeon.tzx"
+--tape-sum 6f489a35e9ae237e051ec38fbcded69f
+--start 1343
+--sim-load-config finish-tape=1

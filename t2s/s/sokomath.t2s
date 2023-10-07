@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031378/Sokomath.tap.zip
+sokomath.z80
+--tape-name "sokomath.tap"
+--tape-sum 10b84b9518a2a2f096ad0b9a812a91d1
+--start 1343
+--sim-load-config finish-tape=1

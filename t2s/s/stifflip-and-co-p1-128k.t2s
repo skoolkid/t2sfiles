@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/StifflipCo..tzx.zip
+stifflip-and-co-p1-128k.z80
+--tape-name "Stifflip & Co. - Part 1.tzx"
+--tape-sum 991fe91bb3dfc3c0a1f44f33e2dfd367
+--start 32460
+--sim-load-config machine=128
