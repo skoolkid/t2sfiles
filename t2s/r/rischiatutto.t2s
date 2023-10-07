@@ -1,0 +1,8 @@
+; Contributed by Bedazzle
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039011/Rischiatutto.tzx.zip
+rischiatutto.z80
+--sim-load
+--tape-name "Rischiatutto.tzx"
+--tape-sum c634440870b29722a2ab1fa6b50f9cdc
+--start 1343
+--sim-load-config finish-tape=1
