@@ -1,0 +1,8 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039299/SuperSinc8(Anno2).tzx.zip
+super-sinc-8-anno-2-reversi.z80
+--tape-name "SuperSinc8(Anno2).tzx"
+--tape-sum 6951998dc58484f40e87fd9a4f702c1f
+--start 1343
+--tape-start 3
+--tape-stop 7
+--sim-load-config finish-tape=1
