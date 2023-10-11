@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/compilations/123/51GamesCompilation.tzx.zip
+51-games-compilation-hanoi.z80
+--tape-name "HANOI.TZX"
+--tape-sum 7157378ec890c9080a4fd8cb9491c9ea
+--start 1343
+--sim-load-config finish-tape=1

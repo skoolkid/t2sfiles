@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/compilations/123/51GamesCompilation.tzx.zip
+hordo.z80
+--tape-name "HORDO.TZX"
+--tape-sum e8ae2350a2730895a220e35207e24e08
+--start 1343
+--sim-load-config finish-tape=1

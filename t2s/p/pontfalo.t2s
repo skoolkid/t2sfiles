@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/compilations/123/51GamesCompilation.tzx.zip
+pontfalo.z80
+--tape-name "PONTFALO.TZX"
+--tape-sum 4af3fc2bb78d34a6fac7d4623eb0ce33
+--start 1343
+--sim-load-config finish-tape=1

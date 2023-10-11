@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/compilations/123/51GamesCompilation.tzx.zip
+kombinet.z80
+--tape-name "KOMBINET.TZX"
+--tape-sum b69f882c0acf2fed9c873f160ad3b049
+--start 1343
+--sim-load-config finish-tape=1

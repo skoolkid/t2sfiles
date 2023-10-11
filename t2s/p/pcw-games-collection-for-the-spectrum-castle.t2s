@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/compilations/p/PCWGamesCollectionForTheSpectrum.tzx.zip
+pcw-games-collection-for-the-spectrum-castle.z80
+--tape-name "PCW Games Collection For The Spectrum - Side B.tzx"
+--tape-sum d94d43be668c59c23f4899fe021e1945
+--start 1343
+--sim-load-config finish-tape=1

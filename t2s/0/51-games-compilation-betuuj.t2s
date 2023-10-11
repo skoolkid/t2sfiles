@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/compilations/123/51GamesCompilation.tzx.zip
+51-games-compilation-betuuj.z80
+--tape-name "BETUUJ.TZX"
+--tape-sum d48acf5d449ad05238e48bc8f9e993a6
+--start 21987
+--sim-load-config accelerator=rom

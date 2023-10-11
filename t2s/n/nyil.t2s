@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/compilations/123/51GamesCompilation.tzx.zip
+nyil.z80
+--tape-name "NYIL.TZX"
+--tape-sum 4b687d7c153047e91995ba91f205f8fd
+--start 1343
+--sim-load-config finish-tape=1

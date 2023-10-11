@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/compilations/123/51GamesCompilation.tzx.zip
+51-games-compilation-zxtorped.z80
+--tape-name "ZXTORPED.TZX"
+--tape-sum 81b124a0c853d9a712adf9973a2bdc88
+--start 1343
+--sim-load-config finish-tape=1

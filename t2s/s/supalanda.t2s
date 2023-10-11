@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/compilations/p/PCWGamesCollectionForTheSpectrum.tzx.zip
+supalanda.z80
+--tape-name "PCW Games Collection For The Spectrum - Side A.tzx"
+--tape-sum 74e6f4605f6fad615c4b7353490c3054
+--start 1343
+--tape-start 20
+--sim-load-config finish-tape=1

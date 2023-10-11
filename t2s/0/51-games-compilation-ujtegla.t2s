@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/compilations/123/51GamesCompilation.tzx.zip
+51-games-compilation-ujtegla.z80
+--tape-name "UJTEGLA.TZX"
+--tape-sum 972553fa208934d511ac12344def8f60
+--start 21987
+--sim-load-config accelerator=rom
+--sim-load-config machine=128
