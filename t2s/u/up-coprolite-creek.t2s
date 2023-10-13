@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031335/UpCoproliteCreek.tap.zip
+up-coprolite-creek.z80
+--tape-name "coprolite.tap"
+--tape-sum 62cd56005a8374df76c3263bee98f790
+--start 1343
+--sim-load-config finish-tape=1

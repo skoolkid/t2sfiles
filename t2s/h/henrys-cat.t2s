@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031289/HenrysCat.tzx.zip
+henrys-cat.z80
+--tape-name "Henry's Cat.tzx"
+--tape-sum 465c094a7074d9169a85797cff6900b5
+--start 1343
+--sim-load-config accelerator=cybexlab
+--sim-load-config finish-tape=1

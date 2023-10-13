@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031333/UDGStripSnap.tzx.zip
+udg-strip-snap.z80
+--tape-name "Stripsnap_MykeP.tzx"
+--tape-sum f6270643721331fa1145c0e878cd56ec
+--start 1343
+--sim-load-config finish-tape=1

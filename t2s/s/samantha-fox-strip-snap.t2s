@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031317/SamanthaFoxStripSnap.tap.zip
+samantha-fox-strip-snap.z80
+--tape-name "Sam Fox Strip Snap.TAP"
+--tape-sum 7def653fcd621b059ee34b60bec0bccc
+--start 16404
+--sim-load-config accelerator=rom

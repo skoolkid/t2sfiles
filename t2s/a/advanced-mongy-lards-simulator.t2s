@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031247/AdvancedMongyLardSimulator.tap.zip
+advanced-mongy-lards-simulator.z80
+--tape-name "MongyLard_Wookiee.tap"
+--tape-sum f13986744cafedf51fe7c4b28a36123f
+--start 1343
+--sim-load-config finish-tape=1

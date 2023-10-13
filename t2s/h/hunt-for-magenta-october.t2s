@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031290/HuntForMagentaOctober.tap.zip
+hunt-for-magenta-october.z80
+--tape-name "HuntMagentaOCtober_rebelstar.tap"
+--tape-sum 85cae0ebf2c7694bbdd79c7d66928b3d
+--start 1343
+--sim-load-config finish-tape=1

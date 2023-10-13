@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034322/Supernudge2000.tap.zip
+supernudge-2000.z80
+--tape-name "SUPER NUDGE 2000 [Improved graph].TAP"
+--tape-sum a252993599519b78bf337e76f530a4ad
+--start 31000
+--sim-load-config accelerator=rom
+--sim-load-config finish-tape=1

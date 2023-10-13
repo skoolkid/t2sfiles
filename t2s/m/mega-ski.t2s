@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031299/MegaSki.tap.zip
+mega-ski.z80
+--tape-name "MegaSki++_TAPfile.tap"
+--tape-sum 5c63063b0b1260c59e3640f2764da451
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

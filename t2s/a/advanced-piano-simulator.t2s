@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031250/AdvancedPianoSimulator.tzx.zip
+advanced-piano-simulator.z80
+--tape-name "Advanced Piano Simulator.tzx"
+--tape-sum 922eb00fc202d3124eaa3173c94561f9
+--start 1343
+--sim-load-config finish-tape=1

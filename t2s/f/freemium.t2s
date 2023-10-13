@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031282/Freemium.tap.zip
+freemium.z80
+--tape-name "Freemium_Rebelstar.tap"
+--tape-sum 4fe7fda04919e40f91dccb98f8882b0c
+--start 1343
+--sim-load-config finish-tape=1

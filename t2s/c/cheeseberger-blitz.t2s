@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031260/CheesebergerBlitz.tap.zip
+cheeseberger-blitz.z80
+--tape-name "cheeseberg.tap"
+--tape-sum a2c245fa760b24e2cc6c4212cc1e150e
+--start 1343
+--sim-load-config finish-tape=1

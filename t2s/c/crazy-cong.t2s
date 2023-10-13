@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0019835/CrazyCongPackman_2.tzx.zip
+crazy-cong.z80
+--tape-name "CrazyCongPackman_2.tzx"
+--tape-sum 09ac218aadb94aacc07159efe81e0084
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031304/OnTheGloomySideOfLuna.tap.zip
+on-the-gloomy-side-of-luna.z80
+--tape-name "gloomy.tap"
+--tape-sum 8bf3004da4d65969e39555cc8698136a
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

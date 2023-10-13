@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031278/FactorTractor.tap.zip
+factor-tractor.z80
+--tape-name "factortractor.tap"
+--tape-sum ce5d3fd99e4898a3d950cb85be27f974
+--start 1343
+--sim-load-config finish-tape=1

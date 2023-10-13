@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031312/PopeSpringsEternal.tap.zip
+pope-springs-eternal.z80
+--tape-name "popespring.tap"
+--tape-sum ea3bb56f016a327cabb8540fc70aaf88
+--start 1343
+--sim-load-config finish-tape=1

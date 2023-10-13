@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031315/RoscoTheCatBurglarInCyprusExtraction.tap.zip
+rosco-the-cat-burglar-in-cyprus-extraction.z80
+--tape-name "Rosco the cat goes to Cyprus.tap"
+--tape-sum b5660e0c2315a10495c7062bbd6643a4
+--start 1343
+--sim-load-config finish-tape=1

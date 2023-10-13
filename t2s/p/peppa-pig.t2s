@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031310/PeppaPig.tzx.zip
+peppa-pig.z80
+--tape-name "PeppaPig_MYKEP.tzx"
+--tape-sum f5a5d9ea825c763e5fa5341f08a6501a
+--start 1343
+--sim-load-config finish-tape=1

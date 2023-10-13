@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031265/Daniel.tzx.zip
+daniel.z80
+--tape-name "Daniel.tzx"
+--tape-sum 2a26cbf3dde400bb3f816ec51dda15b4
+--start 1343
+--sim-load-config finish-tape=1

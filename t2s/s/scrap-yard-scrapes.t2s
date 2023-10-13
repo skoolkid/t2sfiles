@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031318/ScrapYardScrapes.tap.zip
+scrap-yard-scrapes.z80
+--tape-name "scrapyard.tap"
+--tape-sum a49194e9511afa755865868ede87716c
+--start 1343
+--sim-load-config finish-tape=1

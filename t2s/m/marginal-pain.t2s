@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031434/MarginalPain.tap.zip
+marginal-pain.z80
+--tape-name "MARGINALPAIN_00.tap"
+--tape-sum 2546dd0fd8b1727672fbb2582cf6630c
+--start 1343
+--sim-load-config finish-tape=1

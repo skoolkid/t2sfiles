@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030747/GroundForce.tzx.zip
+groundforce.z80
+--tape-name "groundforce.tzx"
+--tape-sum 34f90ec99b9e2365b0d4188e4692a37c
+--start 23316
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

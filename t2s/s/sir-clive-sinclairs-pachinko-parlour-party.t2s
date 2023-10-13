@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031307/SirCliveSinclairsPachinkoParlourParty.tap.zip
+sir-clive-sinclairs-pachinko-parlour-party.z80
+--tape-name "pachinko.tap"
+--tape-sum 3b6d4dc6ef42036dedc968c9e4101822
+--start 1343
+--sim-load-config finish-tape=1

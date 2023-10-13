@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031258/BurndownZXTakeout.tzx.zip
+burndown-zx-takeout.z80
+--tape-name "BDZXTO_MykeP.tzx"
+--tape-sum 92a88a382504c73be112c3efd5e648b5
+--start 1343
+--sim-load-config finish-tape=1

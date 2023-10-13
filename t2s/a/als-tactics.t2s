@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031255/ALSTactics.tap.zip
+als-tactics.z80
+--tape-name "ALSTactics.tap"
+--tape-sum 0ac2ebeedb6d054247d171766079d1e5
+--start 1343
+--sim-load-config finish-tape=1

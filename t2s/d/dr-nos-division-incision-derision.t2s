@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031271/DrNosDivisionIncisionDerision.tap.zip
+dr-nos-division-incision-derision.z80
+--tape-name "drno.tap"
+--tape-sum 6fdde160f6e8b5e2a11c91274b5eef21
+--start 1343
+--sim-load-config finish-tape=1

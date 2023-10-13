@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0029717/Hostage.tap.zip
+hostage.z80
+--tape-name "Hostage.tap"
+--tape-sum c0fd31955936053cd7ba08beb3190699
+--start 1343
+--sim-load-config finish-tape=1

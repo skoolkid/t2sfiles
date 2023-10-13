@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031038/Drugsy.tap.zip
+drugsy.z80
+--tape-name "Drugsy.tap"
+--tape-sum 213f947280bfd231a8b0b04e4ec1dc95
+--start 1343
+--sim-load-config finish-tape=1

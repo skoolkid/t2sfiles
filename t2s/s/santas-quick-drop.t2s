@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030348/SantasQuickDrop.tap.zip
+santas-quick-drop.z80
+--tape-name "SantasQuickDrop.tap"
+--tape-sum 0cd85d9c3adbfbd8a5368bf732268100
+--start 1343
+--sim-load-config finish-tape=1
