@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0028471/CSSCrapGamesCompetition2013.zip
+jacky-watsons-darts.z80
+--tape-name "CSSCGC2013_all/darts.tap"
+--tape-sum 83e595e7844ead23a4374e596c8db2fb
+--start 1343
+--sim-load-config finish-tape=1

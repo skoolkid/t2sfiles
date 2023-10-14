@@ -1,0 +1,9 @@
+https://worldofspectrum.net/pub/sinclair/compilations/123/15GiochiGraficiPerZXSpectrum.tzx.zip
+mad-max-0023336.z80
+--tape-name "15 Giochi Grafici (J. Soft).tzx"
+--tape-sum efb64b10747e2dccb5a219e0ccc75456
+--start 1343
+--tape-start 12
+--tape-stop 14
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

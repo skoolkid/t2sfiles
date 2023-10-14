@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/compilations/b/BigJoy.tap.zip
+nine-hole-golf-0018663.z80
+--tape-name "NAFFSOFT.TAP"
+--tape-sum 446d3ada3666850acdbf2926cf399a9d
+--start 1343
+--tape-start 32
+--tape-stop 36
+--sim-load-config finish-tape=1

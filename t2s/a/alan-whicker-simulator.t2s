@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0028471/CSSCrapGamesCompetition2013.zip
+alan-whicker-simulator.z80
+--tape-name "CSSCGC2013_all/Alan Whicker Simulator.TAP"
+--tape-sum 25bf32c03f424344bab6ac7993e37c0d
+--start 16404
+--sim-load-config accelerator=rom
