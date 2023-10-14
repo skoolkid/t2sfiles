@@ -1,0 +1,9 @@
+https://worldofspectrum.net/pub/sinclair/compilations/c/Cassette50.tzx.zip
+ski-jump.z80
+--tape-name "Cassette 50 - Side A.tzx"
+--tape-sum 83b9e41d2ad8b8b37b646e8e58bdafb5
+--start 1343
+--tape-start 3
+--tape-stop 5
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

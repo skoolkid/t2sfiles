@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/compilations/s/Spectrum50Games.tzx.zip
+ghosts-0018429.z80
+--tape-name "Spectrum 50 Games - Side 2.tzx"
+--tape-sum 4d2133d3cd364667b8f088b02242f0c6
+--start 1343
+--tape-start 35
+--sim-load-config finish-tape=1

@@ -1,0 +1,9 @@
+https://worldofspectrum.net/pub/sinclair/compilations/c/Cassette50.tzx.zip
+bowls-0018390.z80
+--tape-name "Cassette 50 - Side B.tzx"
+--tape-sum 4b9fb65108f34580d49cef9b38f723b1
+--start 1343
+--tape-start 11
+--tape-stop 13
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

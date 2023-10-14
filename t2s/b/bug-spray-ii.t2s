@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/compilations/123/60SpectrumGames.tzx.zip
+bug-spray-ii.z80
+--tape-name "60 Games - Tape 2 - Side B.tzx"
+--tape-sum 046da85bb7c8205784180cc1cf6d3b2b
+--start 1343
+--tape-start 51
+--sim-load-config finish-tape=1
