@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/compilations/g/Games3.tzx.zip
+battleships-icl.z80
+--tape-name "Games 3.tzx"
+--tape-sum 1f45b179754dc393cecc40aa3f271770
+--start 1343
+--tape-start 8
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

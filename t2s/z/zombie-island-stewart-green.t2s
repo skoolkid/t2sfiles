@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/compilations/a/Astrocade.tzx.zip
+zombie-island-stewart-green.z80
+--tape-name "Astrocade.tzx"
+--tape-sum 5834281a01fa51856d6f13f303109dd1
+--start 1343
+--tape-start 16
+--sim-load-config finish-tape=1

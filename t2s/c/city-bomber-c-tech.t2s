@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/compilations/s/SpectrumArcadePack.tzx.zip
+city-bomber-c-tech.z80
+--tape-name "Spectrum Arcade Pack.tzx"
+--tape-sum 6b38dd9cfd4cc27104f5035a82061c7e
+--start 1343
+--tape-start 42
+--sim-load-config finish-tape=1

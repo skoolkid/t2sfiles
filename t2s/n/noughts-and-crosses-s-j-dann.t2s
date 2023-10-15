@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/compilations/t/TinyTotsSeven.tzx.zip
+noughts-and-crosses-s-j-dann.z80
+--tape-name "Tiny Tots Seven.tzx"
+--tape-sum bcd814566b17b2cfa40c50feebd172ad
+--start 1343
+--tape-start 11
+--sim-load-config finish-tape=1

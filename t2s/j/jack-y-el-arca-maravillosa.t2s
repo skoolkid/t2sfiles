@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/compilations/p/PackAngelGarciaDelgado.tzx.zip
+jack-y-el-arca-maravillosa.z80
+--tape-name "Pack Angel Garcia Delgado.tzx"
+--tape-sum 047b93bb43eff929e589ec3949138408
+--start 1343
+--tape-start 21
+--tape-stop 31
+--sim-load-config finish-tape=1

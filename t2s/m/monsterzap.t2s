@@ -1,0 +1,9 @@
+https://worldofspectrum.net/pub/sinclair/compilations/m/MeMyMicro.tzx.zip
+monsterzap.z80
+--tape-name "Me & My Micro.tzx"
+--tape-sum 0a138fd41daae003d3f6d95c509322f7
+--start 1343
+--tape-start 8
+--tape-stop 10
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/compilations/m/MicroAtWorkSoftwareCassette2The.tzx.zip
+trains-1.z80
+--tape-name "The Micro At Work Software Cassette 2 - Tape 1 - Side A.tzx"
+--tape-sum 4f1648564977f1a8a0fad59d459ba62a
+--start 1343
+--tape-stop 5
+--sim-load-config finish-tape=1

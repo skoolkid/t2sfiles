@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/compilations/p/Pastimes1.tzx.zip
+find-the-mate.z80
+--tape-name "Pastimes 1.tzx"
+--tape-sum 51b744c0addfd5d302a579c8a3cca9e1
+--start 1343
+--tape-start 6
+--tape-stop 8
+--sim-load-config finish-tape=1

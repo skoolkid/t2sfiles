@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/compilations/p/Pastimes2.tzx.zip
+kim.z80
+--tape-name "Pastimes 2.tzx"
+--tape-sum 0d32a05e33e13d304dba5b04cbe7b5cd
+--start 1343
+--tape-start 6
+--tape-stop 8
+--sim-load-config finish-tape=1
