@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/compilations/t/Trio_2.tzx.zip
+chaotic-caverns.z80
+--tape-name "Trio.tzx"
+--tape-sum 1958d8c5b298768e218ff29dfcf9f24e
+--start 1343
+--tape-start 22
+--sim-load-config finish-tape=1

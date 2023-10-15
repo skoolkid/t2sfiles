@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/compilations/t/ThreeInOne.tzx.zip
+race-track-andrew-quilley.z80
+--tape-name "Three In One.tzx"
+--tape-sum 5ac21cc2e08ad78548132ac431820471
+--start 1343
+--sim-load-config finish-tape=1

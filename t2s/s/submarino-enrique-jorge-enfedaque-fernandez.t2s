@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/compilations/g/GuerraDeBarcos+Submarino.tzx.zip
+submarino-enrique-jorge-enfedaque-fernandez.z80
+--tape-name "Guerra De Barcos + Submarino.tzx"
+--tape-sum ce567720a356f6ccd2514ef852c67925
+--start 1343
+--tape-start 10
+--sim-load-config finish-tape=1

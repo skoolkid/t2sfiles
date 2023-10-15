@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/compilations/o/OverTheSpectrumCassette2.tzx.zip
+eliminator-beam-software.z80
+--tape-name "Over The Spectrum Cassette 2 - Side 2.tzx"
+--tape-sum 7d7763396dd7449ff11d1ea6483b573c
+--start 1343
+--tape-start 5
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/compilations/s/Subbuteo+Subgame.tzx.zip
+subgame.z80
+--tape-name "Subbuteo & Subgame - Side B.tzx"
+--tape-sum ac2d119f1b51e4886caab857cc407133
+--start 1343
+--sim-load-config finish-tape=1

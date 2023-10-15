@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/compilations/g/GamesTape2.tzx.zip
+poker-dice-tim-gilberts.z80
+--tape-name "Games Tape 2 (Gilsoft) - Side 2.tzx"
+--tape-sum 37f83c60dff23dbe8b4d4d0462bcd07c
+--start 1343
+--sim-load-config finish-tape=1

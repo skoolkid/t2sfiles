@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/compilations/s/SimonGames2.tzx.zip
+surround-hugh-swann.z80
+--tape-name "Simon Games 2.tzx"
+--tape-sum 41903c26697216947c19c6ae75bc7964
+--start 1343
+--tape-start 10
+--sim-load-config finish-tape=1

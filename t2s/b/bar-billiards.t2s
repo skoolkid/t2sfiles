@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/compilations/g/Golf+BarBilliards.tzx.zip
+bar-billiards.z80
+--tape-name "Golf & Bar Billiards - Side B.tzx"
+--tape-sum 954db733ee0a28d12e0ef51af19779a9
+--start 1343
+--sim-load-config finish-tape=1

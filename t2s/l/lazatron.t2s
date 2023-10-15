@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/compilations/l/Lazatron+Mazechase.tzx.zip
+lazatron.z80
+--tape-name "Lazatron Plus Mazechase - Lazatron.tzx"
+--tape-sum e635e9fa75c4ef7f8aaedf487d29835e
+--start 1343
+--sim-load-config finish-tape=1

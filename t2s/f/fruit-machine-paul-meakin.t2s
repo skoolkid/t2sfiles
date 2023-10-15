@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/compilations/f/FruitMachine+Pontoon.tzx.zip
+fruit-machine-paul-meakin.z80
+--tape-name "Fruit Machine & Pontoon - Side 1 (Astro Software).tzx"
+--tape-sum 74f14c43761a6819e3bbc07b11a24b92
+--start 1343
+--sim-load-config finish-tape=1

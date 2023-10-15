@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/compilations/b/Brisca+Cinquillo.tzx.zip
+brisca-garzasoft.z80
+--tape-name "Brisca + Cinquillo - Side 1 (Investronica).tzx"
+--tape-sum 23b643f517b813c764287c3335d1628a
+--start 1343
+--sim-load-config finish-tape=1

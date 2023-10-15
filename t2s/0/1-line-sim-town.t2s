@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/compilations/123/1LineStrategy.tzx.zip
+1-line-sim-town.z80
+--tape-name "1LineStrategy.tzx"
+--tape-sum 1af35b532ab01058b038e7a25acdc49c
+--start 1343
+--tape-start 10
+--sim-load-config finish-tape=1
+--sim-load-config 'load=MERGE "": RUN'

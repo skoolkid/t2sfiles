@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/compilations/s/ScottAdamsScoops.tzx.zip
+strange-odyssey.z80
+--tape-name "Scott Adams Scoops.tzx"
+--tape-sum 081d5eeb49ef9cac705863b68667ed01
+--start 50470
+--tape-start 10
+--tape-stop 14
+--sim-load-config accelerator=alkatraz

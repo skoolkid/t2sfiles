@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/compilations/g/GamesTape2.tzx.zip
+reversi-tim-gilberts.z80
+--tape-name "Games Tape 2 (Gilsoft) - Side 1.tzx"
+--tape-sum 4e4b3667a829b1a84fb10db4b90378b9
+--start 1343
+--sim-load-config finish-tape=1
