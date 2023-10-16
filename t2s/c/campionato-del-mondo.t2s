@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038205/CampionatoDiCalcio(sideB).tzx.zip
+campionato-del-mondo.z80
+--tape-name "CampionatoDiCalcio(sideB).tzx"
+--tape-sum 71b53b80006fb0f640b73c4451e25460
+--start 1343
+--tape-start 11
+--sim-load-config finish-tape=1

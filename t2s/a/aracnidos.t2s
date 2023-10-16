@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/compilations/t/TusJuegosSingle2D.tzx.zip
+aracnidos.z80
+--tape-name "Tus Juegos Single 2D - Aracnidos.tzx"
+--tape-sum c7e929654f2469c2e3dbdc6bd83e8ce4
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

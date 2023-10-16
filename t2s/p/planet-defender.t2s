@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/compilations/s/SimonMicro-Soft-CollectionTwo.tzx.zip
+planet-defender.z80
+--tape-name "Simon Micro-Soft - Collection Two.tzx"
+--tape-sum 5534a3ba5b6a776c4a8f394addee14ea
+--start 1343
+--tape-start 5
+--tape-stop 9
+--sim-load-config finish-tape=1

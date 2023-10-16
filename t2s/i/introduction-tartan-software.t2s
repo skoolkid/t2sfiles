@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/compilations/123/6In1.tzx.zip
+introduction-tartan-software.z80
+--tape-name "Six-In-One - Side A.tzx"
+--tape-sum dcde5eda07a05488f147c46576321087
+--start 1343
+--tape-stop 10
+--sim-load-config finish-tape=1

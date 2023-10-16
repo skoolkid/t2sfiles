@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0013475/AdventureIslandMunchmanOutline_2.tzx.zip
+outline.z80
+--tape-name "AdventureIslandMunchmanOutline.tzx"
+--tape-sum 8375a306a5ee63df17238ceea2c984fd
+--start 1343
+--sim-load-config finish-tape=1

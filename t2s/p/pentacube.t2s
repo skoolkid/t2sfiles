@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/compilations/t/TubeCube+Pentacube.tzx.zip
+pentacube.z80
+--tape-name "Tube Cube.tzx"
+--tape-sum 942541e452d1dfdcb5ec14f636b6984d
+--start 1343
+--tape-start 7
+--sim-load-config finish-tape=1

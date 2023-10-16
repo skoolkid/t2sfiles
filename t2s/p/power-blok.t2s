@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/compilations/n/NightmarePark+Blok.tzx.zip
+power-blok.z80
+--tape-name "Nightmare Park & Blok - Side 2.tzx"
+--tape-sum 8479679cce3a296d207a50b6777bb265
+--start 1343
+--sim-load-config finish-tape=1

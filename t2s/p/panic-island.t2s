@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/compilations/k/KrazyKong+PanicIsland.tzx.zip
+panic-island.z80
+--tape-name "Krazy Kong & Panic Island.tzx"
+--tape-sum 06327ce1b40cb5742f3d085a6093b0f6
+--start 1343
+--tape-start 35
+--sim-load-config finish-tape=1

@@ -1,0 +1,8 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0012258/ZXSpectrumGames1.tzx.zip
+crabs-paul-osborn.z80
+--tape-name "Spectrum Games (Compilation).tzx"
+--tape-sum 049029c7d17828c50de158b22a984cd2
+--start 1343
+--tape-start 6
+--tape-stop 8
+--sim-load-config finish-tape=1

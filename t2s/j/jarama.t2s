@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/compilations/t/TusJuegosSingle5D.tzx.zip
+jarama.z80
+--tape-name "Tus Juegos Single 5D - Jarama.tzx"
+--tape-sum ef31aac8d4d290eef227ac5a7b58b184
+--start 1343
+--sim-load-config finish-tape=1
