@@ -6,3 +6,4 @@ https://worldofspectrum.net/pub/sinclair/compilations/123/1LineMind.tzx.zip
 --tape-start 6
 --tape-stop 8
 --sim-load-config finish-tape=1
+--sim-load-config 'load=MERGE "": RUN'

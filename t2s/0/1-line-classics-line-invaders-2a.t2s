@@ -6,3 +6,4 @@ https://worldofspectrum.net/pub/sinclair/compilations/123/1LineClassics.tzx.zip
 --tape-start 14
 --tape-stop 16
 --sim-load-config finish-tape=1
+--sim-load-config 'load=MERGE "": RUN'

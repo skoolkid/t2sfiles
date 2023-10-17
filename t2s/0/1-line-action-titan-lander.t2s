@@ -6,3 +6,4 @@ https://worldofspectrum.net/pub/sinclair/compilations/123/1LineAction.tzx.zip
 --tape-start 10
 --tape-stop 12
 --sim-load-config finish-tape=1
+--sim-load-config 'load=MERGE "": RUN'
