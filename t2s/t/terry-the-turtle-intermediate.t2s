@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TerryTheTurtle(Intermediate).tap.zip
+terry-the-turtle-intermediate.z80
+--tape-name "TTT-CYAN-Intermediate.tap"
+--tape-sum aea44609e9ba97f7d5ee48ae20c62b6a
+--start 32039
+--sim-load-config machine=128

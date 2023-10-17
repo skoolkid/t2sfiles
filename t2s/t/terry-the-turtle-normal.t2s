@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TerryTheTurtle(Normal).tap.zip
+terry-the-turtle-normal.z80
+--tape-name "TTT-YELLOW-Normal.tap"
+--tape-sum 37aa25594a4e2d13e4a2daa471671020
+--start 32039
+--sim-load-config machine=128
