@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030829/TouchMySpectrum.tzx.zip
+touch-my-spectrum.z80
+--tape-name "TouchMySpectrum.tzx"
+--tape-sum 9a12a87c0a7f5e075f5bd6f366ebe3b5
+--start 1343
+--tape-start 3
+--sim-load-config finish-tape=1
