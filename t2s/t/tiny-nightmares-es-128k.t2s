@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042412/TinyNightmares(ES).tap.zip
+tiny-nightmares-es-128k.z80
+--tape-name "TinyNightmares(ES).tap"
+--tape-sum a759ae48ef44e76702f2bd9341070293
+--start 24803
+--sim-load-config machine=128
