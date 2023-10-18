@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034610/BeanBrothers(RU).tap.zip
+bean-brothers-ru.z80
+--tape-name "BeanBros(FinalVersion)(RU).tap"
+--tape-sum 5d45c0ed0f30c538a582b1939b82c078
+--start 1343
+--sim-load-config finish-tape=1
