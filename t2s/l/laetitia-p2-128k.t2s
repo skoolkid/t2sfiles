@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034673/Laetitia(Part2).tap.zip
+laetitia-p2-128k.z80
+--tape-name "Laetitia-Part2-30Jan2019.tap"
+--tape-sum 99352b20fdd4ce69bced3b70ae9d3e4e
+--start 25509
+--sim-load-config machine=128
