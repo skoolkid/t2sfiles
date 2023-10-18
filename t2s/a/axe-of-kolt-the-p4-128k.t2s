@@ -1,6 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/a/AxeOfKoltThe128.tzx.zip
-axe-of-kolt-the-128k-side-b.z80
+axe-of-kolt-the-p4-128k.z80
 --tape-name "The Axe Of Kolt - 128k - Side B.tzx"
 --tape-sum 3381956359dfc08b12c0642f025e5290
 --start 34887
 --sim-load-config machine=128
+--tape-start 23
