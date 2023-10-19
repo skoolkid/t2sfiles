@@ -1,7 +1,0 @@
-https://worldofspectrum.net/pub/sinclair/games/s/Scapeghost.tzx.zip
-scapeghost-128k-p3.z80
---tape-name "Scapeghost - 128k - Part 3.tzx"
---tape-sum fa665611bafcce49a8d5115128853367
---start 28632
---sim-load-config machine=128
---sim-load-config accelerator=rom

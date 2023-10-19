@@ -1,6 +1,0 @@
-https://worldofspectrum.net/pub/sinclair/games/m/MicrofairMadness128V1.tzx.zip
-microfair-madness-128k-release-1-side-1.z80
---tape-name "Microfair Madness - 128k - Release 1 - Side 1.tzx"
---tape-sum f0c07ef784cdb51fe9434d6a40522154
---start 34887
---sim-load-config machine=128

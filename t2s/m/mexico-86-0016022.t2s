@@ -1,7 +1,0 @@
-https://worldofspectrum.net/pub/sinclair/compilations/s/SpecSoccer.tzx.zip
-mexico-86-0016022.z80
---tape-name "Spec Soccer - Side A.tzx"
---tape-sum a832399d7e4b516673e4fcc19cec8168
---start 1343
---sim-load-config finish-tape=1
---sim-load-config 'load=LOAD "": RUN'

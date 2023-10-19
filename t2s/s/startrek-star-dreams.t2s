@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/compilations/s/Startrek+TowersOfBrahma.tzx.zip
+startrek-star-dreams.z80
+--tape-name "Startrek & Towers Of Brahma - Side 1.tzx"
+--tape-sum 77938c6f00289092de71ac5f61f05d4f
+--start 1343
+--sim-load-config finish-tape=1

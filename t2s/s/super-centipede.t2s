@@ -1,6 +1,6 @@
-https://worldofspectrum.net/pub/sinclair/games/s/SuperCentipede.tap.zip
+https://worldofspectrum.net/pub/sinclair/compilations/c/Centipede+Painter.tzx.zip
 super-centipede.z80
 --sim-load
---tape-name "CENTIPEC.TAP"
---tape-sum 1c5c7016a8dc2fc4d0f7a27d7ebc18e2
+--tape-name "Centipede & Painter - Side A.tzx"
+--tape-sum 68948f54eb824b57209973bac1e243c4
 --start 24608

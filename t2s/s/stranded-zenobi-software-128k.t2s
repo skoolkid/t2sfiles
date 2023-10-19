@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Stranded128.tzx.zip
+stranded-zenobi-software-128k.z80
+--tape-name "Stranded - 128k.tzx"
+--tape-sum b06efb12a354916ac711292d75ebeced
+--start 34887
+--sim-load-config machine=128

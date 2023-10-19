@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/compilations/123/10JuegosII.tzx.zip
+bombardero-microparadise-software.z80
+--tape-name "10 Juegos II - Side 2.tzx"
+--tape-sum b96df4ec27b5a776bd89fa9ecc803920
+--start 1343
+--tape-start 8
+--tape-stop 10
+--sim-load-config finish-tape=1

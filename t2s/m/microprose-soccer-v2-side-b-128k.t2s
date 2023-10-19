@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MicroProseSoccerV2.tzx.zip
+microprose-soccer-v2-side-b-128k.z80
+--tape-name "Microprose Soccer - Release 2 - 128k - Side B.tzx"
+--tape-sum 8a9c03e722a7b3fe680434f8ecf0a160
+--start 48877
+--sim-load-config machine=128
+--sim-load-config accelerator=rom

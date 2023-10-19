@@ -1,0 +1,9 @@
+https://worldofspectrum.net/pub/sinclair/games/j/Jaws.tzx.zip
+jaws-screen-7-128k.z80
+--tape-name "Jaws - Side B.tzx"
+--tape-sum 22a58e5da4a233f27b2693c0786e9ab6
+--start 64063
+--tape-stop 287
+--sim-load-config machine=128
+--sim-load-config accelerator=bleepload
+--sim-load-config finish-tape=1

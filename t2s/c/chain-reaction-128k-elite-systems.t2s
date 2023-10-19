@@ -1,6 +1,0 @@
-https://worldofspectrum.net/pub/sinclair/games/c/ChainReaction.tzx.zip
-chain-reaction-128k-elite-systems.z80
---tape-name "Chain Reaction - 128k.tzx"
---tape-sum 215a40f7ffdb05f16e09bd6b8ce5f48c
---start 32768
---sim-load-config machine=128

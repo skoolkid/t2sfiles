@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/compilations/b/BestOfPCW-SoftwareForTheSpectrum.tzx.zip
+virus-century-software.z80
+--tape-name "Best Of PCW - Software For The Spectrum - Side A.tzx"
+--tape-sum 98abd555321a8cbf5e6ff0f13bdcf32f
+--start 1343
+--tape-start 11
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'
