@@ -1,9 +1,11 @@
 https://worldofspectrum.net/pub/sinclair/games/c/ChallengeOfTheGobots.tzx.zip
-challenge-of-the-gobots-side-2.z80
+challenge-of-the-gobots-side-2-128k.z80
 --sim-load
 --tape-name "Challenge Of The Gobots - Side 2.tzx"
 --tape-sum b9996a3cb6966cd3ffae25a35846324e
 --start 64095
 --tape-stop 202
+--sim-load-config machine=128
 --sim-load-config finish-tape=1
+--sim-load-config first-edge=1258
 --sim-load-config accelerator=bleepload
