@@ -1,0 +1,9 @@
+https://worldofspectrum.net/pub/sinclair/games/l/Lancelot_2.tzx.zip
+lancelot-mandarin-software-128k.z80
+--tape-name "Lancelot - Side B.tzx"
+--tape-sum 4309b1a6d94268bf24870e50582a490a
+--start 23296
+--sim-load-config machine=128
+--sim-load-config first-edge=8554
+--sim-load-config finish-tape=1
+--sim-load-config accelerator=rom
