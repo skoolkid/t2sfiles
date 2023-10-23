@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/m/ModelRailwayTimetableSoftwareV1.6.12.0524.tap.zip
+model-railway-timetable-software.z80
+--tape-name "TTABLEWOS.TAP"
+--tape-sum 7590a057e31a926f11f435bb982c8cc3
+--start 23316
+--sim-load-config machine=128
+--sim-load-config 'load=DOWN ENTER load "": run'
+--sim-load-config finish-tape=1
