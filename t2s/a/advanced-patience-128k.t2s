@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AdvancedPatience.tap.zip
+advanced-patience-128k.z80
+--tape-name "ADVANCEP.TAP"
+--tape-sum 5b18035b80354750c80cdb78136e0a23
+--start 24500
+--sim-load-config machine=128
