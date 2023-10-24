@@ -1,0 +1,8 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0033384/BrexitTheFinalCountdown.tzx.zip
+brexit-the-final-countdown.z80
+--tape-name "brexit-game.tzx"
+--tape-sum 103e4f9d967174ef374e47f31e541749
+--start 48465
+--sim-load-config machine=128
+--sim-load-config accelerator=tiny
+--sim-load-config finish-tape=1
