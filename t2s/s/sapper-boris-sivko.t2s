@@ -1,8 +1,7 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Sapper.tzx.zip
 sapper-boris-sivko.z80
---sim-load
 --tape-name "sapper.tzx"
 --tape-sum e8f2e39a382c56c82318e1a92dd69274
 --start 24235
---sim-load-config contended-in=1
+--sim-load-config in-flags=1
 --sim-load-config accelerator=rom

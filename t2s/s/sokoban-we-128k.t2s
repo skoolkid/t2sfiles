@@ -4,5 +4,5 @@ sokoban-we-128k.z80
 --tape-sum e1ca546008696c2f53699683874b0717
 --start 23316
 --sim-load-config machine=128
---sim-load-config read-in-r-c=1
+--sim-load-config in-flags=4
 --sim-load-config finish-tape=1
