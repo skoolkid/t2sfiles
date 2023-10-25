@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/g/GazzasSuperSoccer.tzx.zip
+gazzas-super-soccer-128k.z80
+--tape-name "Gazza's Super Soccer.tzx"
+--tape-sum 03c0475727eff5a9701b326ba81b9e66
+--start 27904
+--sim-load-config machine=128
