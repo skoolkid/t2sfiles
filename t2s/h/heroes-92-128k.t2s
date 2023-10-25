@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0002305/Heroes92.tap.zip
+heroes-92-128k.z80
+--tape-name "Heroes92.tap"
+--tape-sum 58af6d35ee8afee01366663a96c5ae1a
+--start 60700
+--sim-load-config machine=128
