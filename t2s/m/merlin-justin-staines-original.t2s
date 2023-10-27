@@ -1,0 +1,13 @@
+; This game is started via 'RANDOMIZE USR 30950' after loading, but the command
+; line 'LOAD "": RANDOMIZE USR 30950' doesn't work because it's overwritten by
+; the main code block. Therefore we cheat and use '--reg pc=30950' instead.
+
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037236/Merlin.tap.zip
+merlin-justin-staines-original.z80
+--tape-name "Merlin.tap"
+--tape-sum 0ecf967efad2b875ecafe505b279d53e
+--start 7156
+--tape-start 9
+--tape-stop 13
+--sim-load-config finish-tape=1
+--reg pc=30950
