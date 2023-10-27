@@ -1,0 +1,13 @@
+; On the machine for which this was originally written, a title screen
+; is displayed after LOADing until a key is pressed to start the game.
+; On a 48K Spectrum, there is no title screen, and the 'POKE 25287,33'
+; in this t2s file removes that pointless initial keypress check.
+
+https://worldofspectrum.net/pub/sinclair/games/s/SeaFight.tap.zip
+sea-fight.z80
+--tape-name "SeaFight.tap"
+--tape-sum a95ddc4b6aeb146a04deb79171286b99
+--start 25249
+--tape-start 3
+--sim-load-config 'load=CLEAR 25248: LOAD "" CODE : RANDOMIZE USR 25249'
+--ram poke=25287,33
