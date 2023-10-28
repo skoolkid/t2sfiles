@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/ConstructorEl.tzx.zip
+constructor-el.z80
+--tape-name "El Constructor.tzx"
+--tape-sum bb61db76787ee44a665dd8e59d58bcd5
+--start 51900
+--tape-start 6
+--sim-load-config 'load=CLEAR 26500: LOAD "" CODE : LOAD "" CODE : RANDOMIZE USR 51900'
