@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0005802/XOR.tap.zip
+xor-pavel-pospisil-128k.z80
+--tape-name "XOR.tap"
+--tape-sum 908ca3a168728ff4b378bbf8b357992a
+--start 25000
+--sim-load-config machine=128
