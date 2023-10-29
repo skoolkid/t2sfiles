@@ -1,0 +1,6 @@
+https://skoolkit.ca/tapes/Quadrados.tap.zip
+quadrados.z80
+--tape-name "Quadrados.tap"
+--tape-sum e5de348a15a04d1369dbef4476fac685
+--start 1343
+--sim-load-config finish-tape=1
