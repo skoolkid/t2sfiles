@@ -4,3 +4,4 @@ scorched-earth-the-english.z80
 --tape-name "scorched_earth-english.tap"
 --tape-sum 650a43232f910feb475e2b9100489027
 --start 25000
+--sim-load-config machine=128
