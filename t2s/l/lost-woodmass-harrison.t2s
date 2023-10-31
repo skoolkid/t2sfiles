@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/l/Lost.tzx.zip
 lost-woodmass-harrison.z80
---sim-load
 --tape-name "lost!.tzx"
 --tape-sum 9ff68cb67c0d6060159eab113c7c09d0
 --start 23762

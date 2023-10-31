@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/l/LaserZone.tzx.zip
 laser-zone.z80
---sim-load
 --tape-name "Laser Zone.tzx"
 --tape-sum 45c389e1a96a92fc669449eed1e45d2f
 --start 30269

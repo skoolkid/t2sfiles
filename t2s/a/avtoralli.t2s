@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/Avtoralli.tzx.zip
 avtoralli.z80
---sim-load
 --tape-name "avroralli.tzx"
 --tape-sum c92d899a8da81ff8b30713f11459668b
 --start 1343

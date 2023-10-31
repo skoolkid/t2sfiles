@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/TheTimeOfTheEnd.zip
 time-of-the-end-the.z80
---sim-load
 --tape-name "The Time Of The End.tzx"
 --tape-sum 07aa3967f67dcd95a427b5b8635e5b66
 --start 24202

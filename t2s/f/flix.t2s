@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/f/Flix.tzx.zip
 flix.z80
---sim-load
 --tape-name "Flix.tzx"
 --tape-sum 1eb6668a934f52f75e5bf85a1852f0d9
 --start 24500

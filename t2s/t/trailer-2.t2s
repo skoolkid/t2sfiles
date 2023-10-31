@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/Trailer2.tzx.zip
 trailer-2.z80
---sim-load
 --tape-name "TRAILER2.TZX"
 --tape-sum 25fe5dc9c6bb4d5de24933748bcf9ba8
 --start 65297

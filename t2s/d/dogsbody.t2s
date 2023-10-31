@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Dogsbody.zip
 dogsbody.z80
---sim-load
 --tape-name "Dogsbody.tzx"
 --tape-sum 08f99bfd49d90883ef154e35cd82dae0
 --start 30720

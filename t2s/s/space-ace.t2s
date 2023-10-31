@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/SpaceAce.zip
 space-ace.z80
---sim-load
 --tape-name "Space Ace.tzx"
 --tape-sum 37ac0664b6ac42beca90e129f6138c94
 --start 51200

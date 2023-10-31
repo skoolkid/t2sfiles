@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/DimkaInUnderground.tzx.zip
 dimka-in-underground.z80
---sim-load
 --tape-name "DimkaInUnderground.tzx"
 --tape-sum c010cdcae4c284982383b01681255400
 --start 64335

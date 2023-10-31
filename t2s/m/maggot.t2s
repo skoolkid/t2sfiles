@@ -1,6 +1,5 @@
 https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0002977/Maggot.tzx.zip
 maggot.z80
---sim-load
 --tape-name "Maggot.tzx"
 --tape-sum 1075b5911c97fb4a7c2f127667cbfb7c
 --start 1343

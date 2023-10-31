@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Pi-Eyed.zip
 pi-eyed.z80
---sim-load
 --tape-name "Pi-Eyed.tzx"
 --tape-sum 338b1ce5b9d53f17f383c053701033be
 --start 53388

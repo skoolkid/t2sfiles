@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/PianetaMaledettoIl.tap.zip
 pianeta-maledetto-il.z80
---sim-load
 --tape-name "PianetaMaledettoIl.tap"
 --tape-sum 51c3963d4a2413766509acd9996fa72e
 --start 22240

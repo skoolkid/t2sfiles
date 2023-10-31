@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/n/NorthStar.tzx.zip
 northstar.z80
---sim-load
 --tape-name "Northstar.tzx"
 --tape-sum 5a7cd83c8ae946a08325e546ce8d284d
 --start 65445

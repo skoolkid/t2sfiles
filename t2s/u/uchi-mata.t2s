@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/u/UchiMata.tzx.zip
 uchi-mata.z80
---sim-load
 --tape-name "Uchi-Mata.tzx"
 --tape-sum 1c8055f6ccc99f1f99eecc6c26c29ff2
 --start 23323

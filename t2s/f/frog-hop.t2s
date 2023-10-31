@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/f/FrogHop.tzx.zip
 frog-hop.z80
---sim-load
 --tape-name "Frosch.tzx"
 --tape-sum 29b00d854e27aa01a0c451fe4356c22e
 --start 1343

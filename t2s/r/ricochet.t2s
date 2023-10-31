@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/r/Ricochet.tzx.zip
 ricochet.z80
---sim-load
 --tape-name "RICOCHET.TZX"
 --tape-sum 76f17489a3f4b4f3955f509a1e58550b
 --start 32768

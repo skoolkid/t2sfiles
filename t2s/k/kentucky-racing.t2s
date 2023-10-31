@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/k/KentuckyRacing.tzx.zip
 kentucky-racing.z80
---sim-load
 --tape-name "Kentucky Racing.tzx"
 --tape-sum ff94b9f96368ad69e684c6f478d5dc6f
 --start 64396

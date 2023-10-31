@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/DoradoEl.tzx.zip
 el-dorado.z80
---sim-load
 --tape-name "El Dorado.tzx"
 --tape-sum 2c353f134a4d9e87409de2c8fcb2aa78
 --start 25000

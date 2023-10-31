@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Squiggle.tzx.zip
 squiggle.z80
---sim-load
 --tape-name "Squiggle.tzx"
 --tape-sum 79c16cf1be889b924919601629fa743b
 --start 1343

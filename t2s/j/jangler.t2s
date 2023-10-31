@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/j/Jangler.tzx.zip
 jangler.z80
---sim-load
 --tape-name "Jangler.tzx"
 --tape-sum 13d1d73f07018efca6b27f12b4967874
 --start 1343

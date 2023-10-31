@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/u/UltraReflect.tap.zip
 ultra-reflect.z80
---sim-load
 --tape-name "ULTRA.TAP"
 --tape-sum 70089226c0327caf8bede1fc9b39a09c
 --start 41829

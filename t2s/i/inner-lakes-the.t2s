@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/i/InnerLakesThe.tzx.zip
 inner-lakes-the.z80
---sim-load
 --tape-name "The Inner Lakes.tzx"
 --tape-sum 0fd36134aa8762164c6f1db9e104882b
 --start 34104

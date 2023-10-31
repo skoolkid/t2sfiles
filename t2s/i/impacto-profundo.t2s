@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/i/ImpactoProfundo.tzx.zip
 impacto-profundo.z80
---sim-load
 --tape-name "Impacto Profundo.tzx"
 --tape-sum 56081717e8142c6c01355608bbfceb95
 --start 1343

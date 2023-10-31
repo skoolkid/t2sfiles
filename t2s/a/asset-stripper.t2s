@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/AssetStripper.tap.zip
 asset-stripper.z80
---sim-load
 --tape-name "Asset Stripper.tap"
 --tape-sum c3c4e62555fb5d2271a7ded2cfde299f
 --start 1343

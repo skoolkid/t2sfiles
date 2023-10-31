@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/TimeFlies.tzx.zip
 time-flies.z80
---sim-load
 --tape-name "Time Flies.tzx"
 --tape-sum 9775ac7a28241c05455fce13ca471568
 --start 23422

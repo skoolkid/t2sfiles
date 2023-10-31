@@ -1,6 +1,5 @@
 "https://tzxvault.org/Spectrum/TZX/Smuggler'sCove.zip"
 smugglers-cove.z80
---sim-load
 --tape-name "Smuggler's Cove.tzx"
 --tape-sum 785b81e339672c43fec1b56a7ec4dc72
 --start 1343

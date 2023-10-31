@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/StarPaws.tzx.zip
 star-paws.z80
---sim-load
 --tape-name "Star Paws.tzx"
 --tape-sum f6e1c9d248422461123e269fa21217c7
 --start 65283

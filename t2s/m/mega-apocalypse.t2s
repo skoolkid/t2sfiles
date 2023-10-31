@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/Mega-Apocalypse.tzx.zip
 mega-apocalypse.z80
---sim-load
 --tape-name "Mega Apocalypse - 48k.tzx"
 --tape-sum 900b22e95047a7ffdc22025699c6777d
 --start 65248

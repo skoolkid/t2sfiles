@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/CaveFlyer.tap.zip
 cave-flyer.z80
---sim-load
 --tape-name "CAVEFLYE.TAP"
 --tape-sum 2b5fd660f362f52810779faeeea4f3a2
 --start 1343

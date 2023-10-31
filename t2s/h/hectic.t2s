@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/h/Hectic(MindGamesEspanaS.A.).tap.zip
 hectic.z80
---sim-load
 --tape-name "Hectic (Spanish).tap"
 --tape-sum bbe09b0ac4089780bcf7243602902db3
 --start 33188

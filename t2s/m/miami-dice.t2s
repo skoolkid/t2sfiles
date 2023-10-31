@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/MiamiDice.zip
 miami-dice.z80
---sim-load
 --tape-name "Miami Dice.tzx"
 --tape-sum bc043b8d4bcce7f5381d6460cc831690
 --start 43704

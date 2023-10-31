@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/n/NuclearCrisis.tzx.zip
 nuclear-crisis.z80
---sim-load
 --tape-name "Nuclear Crisis.tzx"
 --tape-sum 3af64e97b893fb3bde4cbc1f74d00fed
 --start 1343

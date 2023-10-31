@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/g/GyroscopeII.tzx.zip
 gyroscope-ii.z80
---sim-load
 --tape-name "GYROSCP2.TZX"
 --tape-sum 1f2daa387ca9a6637f36745102b34ff1
 --start 23342

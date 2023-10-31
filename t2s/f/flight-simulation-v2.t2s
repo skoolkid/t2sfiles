@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/FlightSimulation-Release2.zip
 flight-simulation-v2.z80
---sim-load
 --tape-name "Flight Simulation - Release 2.tzx"
 --tape-sum b570804def97fcc192eccd8a281beb5e
 --start 51094

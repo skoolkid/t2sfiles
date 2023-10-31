@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/NukeLear.zip
 nuke-lear.z80
---sim-load
 --tape-name "Nuke Lear.tzx"
 --tape-sum bcaf035737b6b1967f80021786aa7994
 --start 42501

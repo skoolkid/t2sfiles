@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/g/Guppi.tap.zip
 guppi.z80
---sim-load
 --tape-name "GUPPI.TAP"
 --tape-sum 40544965bf26343ebe179519e06713a7
 --start 1343

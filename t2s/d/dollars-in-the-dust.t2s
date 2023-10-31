@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/DollarsInTheDust.tzx.zip
 dollars-in-the-dust.z80
---sim-load
 --tape-name "Dollars In The Dust.tzx"
 --tape-sum 128e757f02c9dbc46fd68c37b443c6b3
 --start 1343

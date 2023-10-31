@@ -1,6 +1,5 @@
 https://worldofspectrum.org//pub/sinclair/games/h/HungryHorace.tzx.zip
 hungry-horace.z80
---sim-load
 --tape-name "Hungry Horace.tzx"
 --tape-sum 19a7d9a43a25775511bd8be2762d8ba6
 --start 24576

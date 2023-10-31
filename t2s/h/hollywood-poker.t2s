@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/HollywoodPoker(Players).zip
 hollywood-poker.z80
---sim-load
 --tape-name "Hollywood Poker (Players).tzx"
 --tape-sum fcd8ca8e044ba9d5cb91687138dbb13e
 --start 23867

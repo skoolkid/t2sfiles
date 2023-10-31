@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/BogOfBrit.zip
 bog-of-brit.z80
---sim-load
 --tape-name "Bog Of Brit.tzx"
 --tape-sum c674e103c3f49a39cf70a826ba613978
 --start 36372

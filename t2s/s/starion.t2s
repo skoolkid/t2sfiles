@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Starion.tzx.zip
 starion.z80
---sim-load
 --tape-name "Starion.tzx"
 --tape-sum 15a2e8977c0a4c470fc397ca38540049
 --start 32835

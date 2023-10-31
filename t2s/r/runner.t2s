@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/r/Runner.tap.zip
 runner.z80
---sim-load
 --tape-name "Runner.tap"
 --tape-sum 8738a7be98d7eb38debdf8b2fea411f1
 --start 1343

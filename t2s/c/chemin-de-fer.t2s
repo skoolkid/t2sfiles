@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/CheminDeFer.tzx.zip
 chemin-de-fer.z80
---sim-load
 --tape-name "CheminDeFer.tzx"
 --tape-sum 94553c0f6e1a3080d132586a7249cf79
 --start 1343

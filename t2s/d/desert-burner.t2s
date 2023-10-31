@@ -1,6 +1,5 @@
 https://worldofspectrum.org/pub/sinclair/games/d/DesertBurner.tzx.zip
 desert-burner.z80
---sim-load
 --tape-name "Desert Burner.tzx"
 --tape-sum fed723a335c1a16dce449ebe90df75a6
 --start 1343

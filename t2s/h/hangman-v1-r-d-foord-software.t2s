@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/h/HangmanV1.tzx.zip
 hangman-v1-r-d-foord-software.z80
---sim-load
 --tape-name "Hangman - v1 (R D Foord Software).tzx"
 --tape-sum d961989fd1cca5046ad14b53faf6b2e1
 --start 25500

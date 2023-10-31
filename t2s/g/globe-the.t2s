@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/TheGlobe.zip
 globe-the.z80
---sim-load
 --tape-name "The Globe.tzx"
 --tape-sum 04d3a45d445f5233f5825e3bd347fb0e
 --start 25000

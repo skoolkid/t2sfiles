@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/B.C.Bill.tzx.zip
 bc-bill.z80
---sim-load
 --tape-name "BC Bill.tzx"
 --tape-sum 037d09b693e91217c3722807b523abfb
 --start 25856

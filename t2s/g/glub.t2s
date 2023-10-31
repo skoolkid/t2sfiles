@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/g/Glub.tap.zip
 glub.z80
---sim-load
 --tape-name "Glub (Angel Ortega).tap"
 --tape-sum 6e162c877ee826f34036f8bbde4b0ddb
 --start 1343

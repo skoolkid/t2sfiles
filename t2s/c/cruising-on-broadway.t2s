@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/CruisingOnBroadway.zip
 cruising-on-broadway.z80
---sim-load
 --tape-name "Cruising On Broadway.tzx"
 --tape-sum 595fd07ef29248ac7a4d7156e25f9f5c
 --start 28352

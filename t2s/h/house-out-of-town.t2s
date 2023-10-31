@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/HouseOutOfTown.zip
 house-out-of-town.z80
---sim-load
 --tape-name "House Out Of Town.tzx"
 --tape-sum a7d890541bb47f253cf52a2863f0dd70
 --start 25063

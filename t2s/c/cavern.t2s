@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/Cavern(AmstradSinclairOcio).tzx.zip
 cavern.z80
---sim-load
 --tape-name "cavern.tzx"
 --tape-sum d8f9515428fa01d6adbf03d55cc633b8
 --start 1343

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/h/Hexcellent.tzx.zip
 hexcellent.z80
---sim-load
 --tape-name "HEXCELLE.TZX"
 --tape-sum fd83cad8a1ee9edc909b01fb4dd939fe
 --start 60471

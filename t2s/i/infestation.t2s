@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/i/Infestation.tap.zip
 infestation.z80
---sim-load
 --tape-name "Infestation.tap"
 --tape-sum 4939410e141550c72e64ea4f2341a451
 --start 23766

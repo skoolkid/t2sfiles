@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Slap-Slop.tap.zip
 slap-slop.z80
---sim-load
 --tape-name "SLAPSLOP.TAP"
 --tape-sum e1f3c8b3953ac77b289189e0b73faa77
 --start 1343

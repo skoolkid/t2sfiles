@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/l/Lost_2.tzx.zip
 lost-virgin-games.z80
---sim-load
 --tape-name "Lost.tzx"
 --tape-sum 162651106610069545e2c2de2b8800f2
 --start 1343

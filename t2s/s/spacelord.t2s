@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Spacelord.tzx.zip
 spacelord.z80
---sim-load
 --tape-name "Spacelord.tzx"
 --tape-sum 3638fd9c7232d96b19fd901fdb7f68e6
 --start 1343

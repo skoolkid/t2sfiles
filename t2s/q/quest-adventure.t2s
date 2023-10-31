@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/q/QuestAdventure.tzx.zip
 quest-adventure.z80
---sim-load
 --tape-name "Quest Adventure.tzx"
 --tape-sum c0de7b4404a753b5bfbec13b502f6203
 --start 65417

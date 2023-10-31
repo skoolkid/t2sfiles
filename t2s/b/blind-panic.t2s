@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/BlindPanic.tap.zip
 blind-panic.z80
---sim-load
 --tape-name "BLINDPAN.TAP"
 --tape-sum 6f0f6bceab9fa3b839e4fcf453350b03
 --start 30066

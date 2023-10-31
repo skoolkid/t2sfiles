@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/AranyPince.tzx.zip
 arany-pince.z80
---sim-load
 --tape-name "Arany Pince.tzx"
 --tape-sum b2d6c139499dc13af2a2eb8cd721c945
 --start 22499

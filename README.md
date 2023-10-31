@@ -16,8 +16,7 @@ pristine snapshot of Pyjamarama:
     Simulation stopped (PC at start address): PC=32819
     Writing pyjamarama.z80
 
-Most of the files in this repository work with SkoolKit 8.10, but some require
-SkoolKit 9.0.
+SkoolKit 9.0+ is required.
 
 Pristine snapshots
 ------------------
@@ -42,20 +41,20 @@ Each `t2s` file in this repository is named after the game for which it
 produces a pristine snapshot. The filename is restricted to digits, lower case
 letters, dots and hyphens. If the game name starts with 'The' (in any
 language), that word goes at the end of the filename, e.g.
-`great-escape-the.t2s`. If there are two or more games with the same name, the
-publisher's name is appended to distinguish them, e.g.
-`battle-of-britain-pss.t2s`. If a game consists of multiple parts (as with many
-adventure games), `-p1`, `-p2` etc. is appended to the name to indicate the
-part number. If a game tape consists of multiple sides that may be different,
-`-side-1`, `-side-a` etc. is appended to the name to indicate the side number
-or letter.
+`great-escape-the.t2s`. If there are two or more files for a single game, or
+two or more games with the same name, then one or more of the following
+suffixes may be appended to the filenames to distinguish them:
+
+* `-publisher` / `-author` (publisher or author)
+* `-release-*` / `-v*` (release/version number)
+* `-side-*`/ `-p*` (side number/letter or part number)
+* `-128k` (the 128K version of a 48K/128K game)
 
 The contents of each `t2s` file have the following format:
 
     <url>
-    <z80 filename>
-    --sim-load
-    --tape-name <name>
+    <snapshot>
+    --tape-name "<name>"
     --tape-sum <md5sum>
     --start <address>
     <other options>
@@ -64,22 +63,21 @@ The contents of each `t2s` file have the following format:
 where:
 
 * `<url>` is the URL of the zip archive that contains the TAP/TZX file
-* `<z80 filename>` is the name of the Z80 snapshot file to generate; this is
-  always the same as the name of the `t2s` file (with `t2s` replaced by `z80`)
-* `--sim-load` instructs `tap2sna.py` to perform a simulated LOAD on a freshly
-  booted 48K ZX Spectrum
-* `--tape-name <name>` specifies the name of the TAP/TZX file in the zip
-  archive; this is usually optional, but ensures that the correct file is
-  chosen in case there is more than one
+* `<snapshot>` is the name of the output snapshot file to generate; this is
+  always the same as the name of the `t2s` file (with `t2s` replaced by `z80`
+  or `szx`)
+* `--tape-name "<name>"` specifies the name of the TAP/TZX file in the zip
+  archive; this ensures that the correct file is chosen in case there is more
+  than one
 * `--tape-sum <md5sum>` specifies the MD5 checksum of the TAP/TZX file, in case
   the contents of the remote zip archive have changed or been updated (this
   does happen occasionally)
 * `--start <address>` specifies the all-important start address (the value of
-  the program counter in the Z80 snapshot that's produced)
+  the program counter in the snapshot that's produced)
 * `<other options>` are any other `tap2sna.py` options required to make the
   simulated LOAD work (e.g. `--tape-start`, `--tape-stop`, `--sim-load-config`)
 
-If both a TZX file and a TAP file exists for a game, the TZX file is preferred,
+If both a TZX file and a TAP file exist for a game, the TZX file is preferred,
 as it is probably a more accurate representation of the original tape.
 
 Good places to obtain zip archives of Spectrum tape files are:
@@ -98,12 +96,12 @@ In general, it's not too difficult. The first step is to run `tap2sna.py` on
 the TAP/TZX file without the `--start` option, which typically makes the
 simulated LOAD stop when the final edge on the tape is detected. For example:
 
-    $ tap2sna.py --sim-load Zynaps.tzx zynaps.z80
+    $ tap2sna.py Zynaps.tzx
 
 Now run SkoolKit's `trace.py` on the resultant snapshot to see where the
 execution path leads now that the LOAD has completed:
 
-    $ trace.py -v --max-operations 100 zynaps.z80
+    $ trace.py -vm 100 Zynaps.z80
     $FD29 RRA
     $FD2A RET NC
     $FD2B XOR C
@@ -134,7 +132,7 @@ described above will not work. In that case, you can use `tap2sna.py` to
 produce a log of every instruction executed during the simulated LOAD. For
 example:
 
-    $ tap2sna.py --sim-load -c trace=load.log game.tzx game.z80
+    $ tap2sna.py -c trace=load.log game.tzx
 
 Now look at the last few hundred lines or so (or more, if needed) of `load.log`
 to see where the loading routine ended.

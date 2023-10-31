@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/k/KrackThrough.tzx.zip
 krack-through.z80
---sim-load
 --tape-name "KrackThrough(Incomplete, 2 levels only, Fiedrich Zohmann).tzx"
 --tape-sum d6b2027552cc08ec1fabfc75c515a4c6
 --start 1343

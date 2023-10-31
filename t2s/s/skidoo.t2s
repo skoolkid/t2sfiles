@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Skidoo.tap.zip
 skidoo.z80
---sim-load
 --tape-name "SKIDOO.TAP"
 --tape-sum af8b2ff286d759bcac7ef2ff0c655aff
 --start 50000

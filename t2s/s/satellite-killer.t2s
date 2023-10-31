@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SatelliteKiller.tzx.zip
 satellite-killer.z80
---sim-load
 --tape-name "SatelliteKiller.tzx"
 --tape-sum d17c3d94267dc81fcf455481a7608c9b
 --start 7878

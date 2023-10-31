@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/HardCheese.zip
 hard-cheese.z80
---sim-load
 --tape-name "Hard Cheese - Side 1.tzx"
 --tape-sum fe70b18ca76c8a951dadc598d5729126
 --start 25075

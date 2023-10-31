@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Chess.zip
 chess-psion.z80
---sim-load
 --tape-name "Chess.tzx"
 --tape-sum 4620013f727ca3479195675f8ef94f4c
 --start 30720

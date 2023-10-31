@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/i/ItsOnlyRockNRoll.tzx.zip
 its-only-rock-n-roll.z80
---sim-load
 --tape-name "ItsOnlyRockNRoll.tzx"
 --tape-sum 00b1d7d9bd187520f21b7ef3c9110682
 --start 1343

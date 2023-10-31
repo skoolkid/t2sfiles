@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/r/Repulsar.tzx.zip
 repulsar-keyboard.z80
---sim-load
 --tape-name "Repulsar - Keyboard.tzx"
 --tape-sum c654f51f330fa522d43c40d4405f2165
 --start 25394

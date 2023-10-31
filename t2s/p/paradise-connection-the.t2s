@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/TheParadiseConnection.zip
 paradise-connection-the.z80
---sim-load
 --tape-name "The Paradise Connection.tzx"
 --tape-sum c510114e159a9a82a4b8de7bb760394e
 --start 25063

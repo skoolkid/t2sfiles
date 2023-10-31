@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/MarieCelesteAdventure.tzx.zip
 marie-celeste-adventure.z80
---sim-load
 --tape-name "Marie Celeste Adventure.tzx"
 --tape-sum 4fcbf351292f117ba197265ec6b01737
 --start 25000

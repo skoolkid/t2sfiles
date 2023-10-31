@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/Arkos.tzx.zip
 arkos-side-a.z80
---sim-load
 --tape-name "Arkos - Side A.tzx"
 --tape-sum 4280b65742c1302b0937003d62b28387
 --start 23880

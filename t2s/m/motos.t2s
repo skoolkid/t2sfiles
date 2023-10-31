@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/Motos.tzx.zip
 motos.z80
---sim-load
 --tape-name "Motos.tzx"
 --tape-sum 74e4818396d613013778fc7558aeed2f
 --start 32768

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/AventuraEnLaPiramide.tap.zip
 aventura-en-la-piramide.z80
---sim-load
 --tape-name "Aventura En La Piramide.tap"
 --tape-sum 17edc7178a443ce9476c7f3c6dc3400e
 --start 1343

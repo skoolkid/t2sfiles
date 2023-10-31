@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/e/Exion.tzx.zip
 exion.z80
---sim-load
 --tape-name "exion.tzx"
 --tape-sum 5d761c51b58879143e81676a17132c64
 --start 1343

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/MucroidRun.tap.zip
 mucroid-run.z80
---sim-load
 --tape-name "MUCROID.TAP"
 --tape-sum 4929080194ce7dd2712a2754629b8bd7
 --start 1343

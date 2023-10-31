@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/Mousehunt.tzx.zip
 mousehunt.z80
---sim-load
 --tape-name "Mousehunt.tzx"
 --tape-sum 5ffa1c82716d4b95e1780184ed683e29
 --start 1343

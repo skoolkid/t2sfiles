@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SuperPipelineII.tzx.zip
 super-pipeline-ii.z80
---sim-load
 --tape-name "Super Pipeline II.tzx"
 --tape-sum e50d7740e1c987d3fa50f7a4d2c9291a
 --start 65423

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/Backgammon_2.tzx.zip
 backgammon-hewson-consultants.z80
---sim-load
 --tape-name "Backgammon (Hewson).tzx"
 --tape-sum 70c5d2fbfda0d15541aa72d931ed53ce
 --start 1343

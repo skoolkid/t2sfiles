@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/Tristar.tzx.zip
 tristar.z80
---sim-load
 --tape-name "Tristar.tzx"
 --tape-sum 47b8d81058426f6a826bbbed0bd9e41e
 --start 24833

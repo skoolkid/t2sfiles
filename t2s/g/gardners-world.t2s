@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/g/GardnersWorld.tap.zip
 gardners-world.z80
---sim-load
 --tape-name "GardnersWorld.tap"
 --tape-sum 9627b8a474e518ba74ad40d509a56be5
 --start 1343

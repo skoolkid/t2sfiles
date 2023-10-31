@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/h/Help.tap.zip
 help.z80
---sim-load
 --tape-name "Help!!!.tap"
 --tape-sum 906f9dc1e890dae640fab7c75b889ece
 --start 1343

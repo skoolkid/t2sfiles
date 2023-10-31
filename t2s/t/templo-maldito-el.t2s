@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/TemploMalditoEl.tap.zip
 templo-maldito-el.z80
---sim-load
 --tape-name "TemploMaldito.tap"
 --tape-sum 17dcbd48861872f3b00ed20bc4f0f285
 --start 1343

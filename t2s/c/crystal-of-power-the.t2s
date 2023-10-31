@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/TheCrystalOfPower.zip
 crystal-of-power-the.z80
---sim-load
 --tape-name "The Crystal Of Power.tzx"
 --tape-sum 6652ed3359ebaabe8756e4ffddc28d34
 --start 24615

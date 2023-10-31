@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SpookyCastle.tzx.zip
 spooky-castle.z80
---sim-load
 --tape-name "Spooky Castle.tzx"
 --tape-sum 6d0ccaf76984615aaadb72a3a808f6be
 --start 61479

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/D-37(3PSOFT).tap.zip
 d-37.z80
---sim-load
 --tape-name "D-37 (3PSOFT).tap"
 --tape-sum 5532b7715a78333a04d86c52359552c9
 --start 29073

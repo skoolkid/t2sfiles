@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/OperationBerlin.zip
 operation-berlin-p1.z80
---sim-load
 --tape-name "Operation Berlin - Part 1.tzx"
 --tape-sum 18654683f7f9bd65b9e66e6922dff3f8
 --start 23324

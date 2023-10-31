@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/h/HenrysHoard(1985).tzx.zip
 henrys-hoard.z80
---sim-load
 --tape-name "Henry's Hoard - 1985.tzx"
 --tape-sum f0644fc9b6d51276ff483fb55b1603fe
 --start 23779

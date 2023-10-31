@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/Terrapin.tap.zip
 terrapin.z80
---sim-load
 --tape-name "TERRAPIN.TAP"
 --tape-sum 2cb9cf548313980ce2baacf8bb4168d3
 --start 1343

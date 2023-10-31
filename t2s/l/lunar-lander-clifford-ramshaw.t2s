@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/l/LunarLander.tzx.zip
 lunar-lander-clifford-ramshaw.z80
---sim-load
 --tape-name "Lunar Lander.tzx"
 --tape-sum bdd3e14572a6ff3b69dcff2693972a37
 --start 1343

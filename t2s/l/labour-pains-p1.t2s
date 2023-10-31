@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/l/LabourPains.tzx.zip
 labour-pains-p1.z80
---sim-load
 --tape-name "Labour Pains - Part 1.tzx"
 --tape-sum 813b9776212489975bd69bbc14feb763
 --start 34777

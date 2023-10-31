@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/Thunderbirds_2.tzx.zip
 thunderbirds-p1.z80
---sim-load
 --tape-name "Thunderbirds - Part 1.tzx"
 --tape-sum 9f691242a83e47e9158fa218cfda7137
 --start 24112

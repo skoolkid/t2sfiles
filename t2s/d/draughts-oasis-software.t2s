@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/Draughts_2.tzx.zip
 draughts-oasis-software.z80
---sim-load
 --tape-name "Draughts (Oasis).tzx"
 --tape-sum dad37561a54a098a3b23baf8dc512e5c
 --start 32768

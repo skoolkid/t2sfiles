@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/e/EvilDeadThe.tzx.zip
 evil-dead-the.z80
---sim-load
 --tape-name "The Evil Dead.tzx"
 --tape-sum 494bec6f485897d5f7b891d370edfbe3
 --start 23849

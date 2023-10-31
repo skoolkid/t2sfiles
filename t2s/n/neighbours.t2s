@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Neighbours.zip
 neighbours.z80
---sim-load
 --tape-name "Neighbours.tzx"
 --tape-sum 30d68cd4a959a7a394c80794839ff66c
 --start 65355

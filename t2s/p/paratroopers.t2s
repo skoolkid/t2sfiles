@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/Paratroopers.tzx.zip
 paratroopers.z80
---sim-load
 --tape-name "Paratroopers.tzx"
 --tape-sum be4bd0b38d79185267d5d03790c5eefb
 --start 23800

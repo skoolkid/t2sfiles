@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/Tupoua.tap.zip
 tupoua.z80
---sim-load
 --tape-name "TUPOUA.TAP"
 --tape-sum 60b2b0a288c7fe359700c4f65087b8cb
 --start 1343

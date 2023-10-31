@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Timebomb.zip
 timebomb.z80
---sim-load
 --tape-name "Timebomb.tzx"
 --tape-sum 3a9814e09b852da113a2fdbcfcc590e2
 --start 31911

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/g/GazzaII.tzx.zip
 gazza-ii.z80
---sim-load
 --tape-name "Gazza 2.tzx"
 --tape-sum 8c5e93f8414717c15d64d38c27ac7689
 --start 49664

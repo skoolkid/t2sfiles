@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/h/HarryOHara-SpectralHouse.tap.zip
 harry-ohara-spectral-house.z80
---sim-load
 --tape-name "SpectralHouse.tap"
 --tape-sum 7aaecc775c643d2f31795a09a96a9da2
 --start 25000

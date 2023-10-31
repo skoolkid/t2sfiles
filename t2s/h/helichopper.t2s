@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/h/Helichopper.tzx.zip
 helichopper.z80
---sim-load
 --tape-name "Heli Chopper.tzx"
 --tape-sum 10ddca76b921e25718537ddc7f39dca5
 --start 26786

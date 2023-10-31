@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Lombrix.zip
 lombrix-side-a.z80
---sim-load
 --tape-name "Lombrix - Side A.tzx"
 --tape-sum 2e08de6641ff1a72913badcb6ca5cc08
 --start 25500

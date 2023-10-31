@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/MightyMissile.tap.zip
 mighty-missile.z80
---sim-load
 --tape-name "MightyMissile.tap"
 --tape-sum 669cafa8e464173f1c90200a38a42b9e
 --start 1343

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/TransylvanianTower.tzx.zip
 transylvanian-tower.z80
---sim-load
 --tape-name "Transylvanian Tower.tzx"
 --tape-sum 7f76a52205b3209f92bc49673f492101
 --start 1343

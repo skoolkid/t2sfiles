@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SuperDraughts.tzx.zip
 super-draughts.z80
---sim-load
 --tape-name "Super Draughts.tzx"
 --tape-sum 970c8a036c2106ca9b94ce524430ef67
 --start 28928

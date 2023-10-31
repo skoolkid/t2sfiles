@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/SolarEmpire.zip
 solar-empire-side-2.z80
---sim-load
 --tape-name "Solar Empire - Side 2.tzx"
 --tape-sum 38f9f2b1246721aef434a86396bc03c2
 --start 65026

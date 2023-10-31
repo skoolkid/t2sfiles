@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/ChessMaster.tzx.zip
 chess-master-side-a.z80
---sim-load
 --tape-name "Chess Master - Computer Tape - Side A.tzx"
 --tape-sum 62cb9f25b9c4eeb1632b7d94d3fdf92a
 --start 1343

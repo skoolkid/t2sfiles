@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/e/ExplodingFist+.tzx.zip
 exploding-fist-plus.z80
---sim-load
 --tape-name "Fist Plus.tzx"
 --tape-sum 6e6ad53f7f0dc90f394bbd427fcd62fc
 --start 23443

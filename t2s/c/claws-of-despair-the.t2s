@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/TheClawsOfDespair.zip
 claws-of-despair-the.z80
---sim-load
 --tape-name "The Claws Of Despair.tzx"
 --tape-sum b2a1d6934205250529aa5bc76488a3e6
 --start 23444

@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/SteveDavisSnooker.zip
 steve-davis-snooker.z80
---sim-load
 --tape-name "Steve Davis Snooker.tzx"
 --tape-sum fdd478c8ad8fe24ade74319ba002bab0
 --start 1343

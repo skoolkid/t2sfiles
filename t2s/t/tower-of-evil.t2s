@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/TowerOfEvil.tzx.zip
 tower-of-evil.z80
---sim-load
 --tape-name "Tower Of Evil.tzx"
 --tape-sum 7d2729f77b344122cdb9b605f3cb8597
 --start 49152

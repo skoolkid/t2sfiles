@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Gobbleman-Release2.zip
 gobbleman-release-2.z80
---sim-load
 --tape-name "Gobbleman - Release 2.tzx"
 --tape-sum df1c0457421e2bdadfa41b6e502ee202
 --start 28416

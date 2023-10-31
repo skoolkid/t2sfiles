@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/Astroclone.tzx.zip
 astroclone.z80
---sim-load
 --tape-name "Astroclone.tzx"
 --tape-sum f8dc919697ce14edc157cc0c6a169ef1
 --start 46950

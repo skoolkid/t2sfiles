@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/DragonNinja.tzx.zip
 dragon-ninja.z80
---sim-load
 --tape-name "Dragon Ninja - 48k.tzx"
 --tape-sum 13456abe43c12344a6e8b1c11c99060b
 --start 52365

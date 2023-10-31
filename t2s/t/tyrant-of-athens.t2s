@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/TyrantOfAthens.tzx.zip
 tyrant-of-athens.z80
---sim-load
 --tape-name "Tyrant Of Athens.tzx"
 --tape-sum 30c06f16eb61483bb728b1e28e97b38f
 --start 1343

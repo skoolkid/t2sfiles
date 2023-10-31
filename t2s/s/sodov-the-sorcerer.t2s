@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/SodovTheSorcerer.zip
 sodov-the-sorcerer.z80
---sim-load
 --tape-name "Sodov The Sorcerer.tzx"
 --tape-sum b9bd4733b53f7252025394e82865fd26
 --start 24774

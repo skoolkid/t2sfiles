@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/PremierII.tzx.zip
 premier-ii.z80
---sim-load
 --tape-name "Premier II - Superleague.tzx"
 --tape-sum 5f1bb02b552efdec761849535b09c580
 --start 1343

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/h/Highlander.tzx.zip
 highlander.z80
---sim-load
 --tape-name "Highlander.tzx"
 --tape-sum 4fbe85b56ce9f9e72dc9ae27529868fe
 --start 65393

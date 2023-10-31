@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Sapper_2.tap.zip
 sapper-computer-work-company.z80
---sim-load
 --tape-name "SAPPER.TAP"
 --tape-sum 39ccf4884853f85e2f13032dbd2ea483
 --start 44425

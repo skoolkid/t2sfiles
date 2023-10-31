@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/i/InvasionForce_3.tzx.zip
 invasion-force-micromania.z80
---sim-load
 --tape-name "Invasion Force (Micromania).tzx"
 --tape-sum 082dd5b2f1fdfa927bbdc90a9ee952e4
 --start 30100

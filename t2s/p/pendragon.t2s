@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/Pendragon.tzx.zip
 pendragon.z80
---sim-load
 --tape-name "Pendragon.tzx"
 --tape-sum 86387b2161876890cac441a8dc05718f
 --start 42580

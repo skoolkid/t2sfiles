@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/j/JackTheNipper.tzx.zip
 jack-the-nipper.z80
---sim-load
 --tape-name "Jack The Nipper.tzx"
 --tape-sum f5b1ccc39227a9689fc52845a43ccd8b
 --start 25000

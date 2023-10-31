@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/f/FantasmaDelCastilloEl.tap.zip
 fantasma-del-castillo-el.z80
---sim-load
 --tape-name "ElFantasmaDelCastillo.tap"
 --tape-sum 94788e68fdf8c6dd07d02c834004ea38
 --start 1343

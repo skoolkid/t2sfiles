@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/MoonCresta.tzx.zip
 moon-cresta.z80
---sim-load
 --tape-name "Moon Cresta.tzx"
 --tape-sum 60721276c297ee69b001da670bc7fbce
 --start 59879

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/i/IceTempleThe.tzx.zip
 ice-temple-the.z80
---sim-load
 --tape-name "The Ice Temple.tzx"
 --tape-sum b9ab49c2b7dff336d27bbeed4ad3e247
 --start 65418

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/Driver.tap.zip
 driver.z80
---sim-load
 --tape-name "Driver.tap"
 --tape-sum ef44955bc539f7d7f6f7612e4ef9f1ba
 --start 1343

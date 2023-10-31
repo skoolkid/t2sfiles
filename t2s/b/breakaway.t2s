@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/Breakaway.tzx.zip
 breakaway.z80
---sim-load
 --tape-name "Break Away.tzx"
 --tape-sum ff2ae82cda976d8ed10323b2350d4f59
 --start 26068

@@ -1,6 +1,5 @@
 https://worldofspectrum.org/pub/sinclair/games/b/BillyBluebottle.tzx.zip
 billy-bluebottle.z80
---sim-load
 --tape-name "Billy BlueBottle.tzx"
 --tape-sum f2626f1c76b4d6eea2f47440739bc85e
 --start 24825

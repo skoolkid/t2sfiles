@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/EscapeFromDevilsIsle.zip
 escape-from-devils-isle.z80
---sim-load
 --tape-name "Escape From Devils Isle.tzx"
 --tape-sum 6e11f1e02b61219906534c3d477a1b44
 --start 25063

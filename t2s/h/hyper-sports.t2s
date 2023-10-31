@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/h/HyperSports.tzx.zip
 hyper-sports.z80
---sim-load
 --tape-name "Hyper Sports.tzx"
 --tape-sum 2c3049f6412b787fdc31d897b2cc9de0
 --start 65222

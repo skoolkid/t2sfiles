@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SmilerInArroweLandV1.1.tap.zip
 smiler-in-arrowe-land.z80
---sim-load
 --tape-name "smiler.tap"
 --tape-sum c7d75acdc3600bf96bf68fe3c7365cbd
 --start 32768

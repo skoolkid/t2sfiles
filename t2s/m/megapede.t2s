@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Megapede.zip
 megapede.z80
---sim-load
 --tape-name "Megapede.tzx"
 --tape-sum 6cc5d51cf70f11965e65245fecab32ec
 --start 25394

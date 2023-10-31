@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Flipper.zip
 flipper.z80
---sim-load
 --tape-name "Flipper.tzx"
 --tape-sum a94a0470c8143e438ed4fb49bda6da4e
 --start 48500

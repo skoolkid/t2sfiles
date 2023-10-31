@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/TerryJones-Montezuma.tap.zip
 terry-jones-montezuma.z80
---sim-load
 --tape-name "Montezuma.tap"
 --tape-sum 49c1fe7b88f62cbb9cad806eded253ee
 --start 25000

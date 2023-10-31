@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/r/Rome90.tzx.zip
 rome-90-qualifiers.z80
---sim-load
 --tape-name "Rome 90 - Qualifiers.tzx"
 --tape-sum 8169b703487644b26d883e566cc12a87
 --start 1343

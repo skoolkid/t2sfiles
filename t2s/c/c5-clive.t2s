@@ -1,6 +1,5 @@
 https://worldofspectrum.org/pub/sinclair/games/c/C5Clive.tzx.zip
 c5-clive.z80
---sim-load
 --tape-name "C5 Clive.tzx"
 --tape-sum eb78d7d7fcf224c9418af55055b49ea3
 --start 1343

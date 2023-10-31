@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/Transnitron.tzx.zip
 transnitron.z80
---sim-load
 --tape-name "Transnitron.tzx"
 --tape-sum fc0ba0b25413ee41b655d046e2a9514e
 --start 40168

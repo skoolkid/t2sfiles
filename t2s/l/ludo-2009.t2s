@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/l/LUDO_2009.tzx.zip
 ludo-2009.z80
---sim-load
 --tape-name "LUDO_2009.TZX"
 --tape-sum a171e8fa1214d8ed09b3828ac3af8ec8
 --start 34328

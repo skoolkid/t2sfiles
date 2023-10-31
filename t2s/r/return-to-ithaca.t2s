@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/r/ReturnToIthaca.tzx.zip
 return-to-ithaca.z80
---sim-load
 --tape-name "Return To Ithaca.tzx"
 --tape-sum d88f482e909b8d3c436766457cddbdc7
 --start 25063

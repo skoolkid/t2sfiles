@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Starfox_2.tzx.zip
 starfox-reaktor.z80
---sim-load
 --tape-name "Starfox.tzx"
 --tape-sum fa2ba5f2c27fa6a9766cbca889712bfd
 --start 23452

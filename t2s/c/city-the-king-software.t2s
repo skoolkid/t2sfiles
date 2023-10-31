@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/TheCity.zip
 city-the-king-software.z80
---sim-load
 --tape-name "The City.tzx"
 --tape-sum 0a7f1e21064048f6892dc484cf97ef34
 --start 60000

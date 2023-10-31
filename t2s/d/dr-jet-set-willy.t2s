@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/Dr.JetSetWilly.tzx.zip
 dr-jet-set-willy.z80
---sim-load
 --tape-name "Dr. Jet Set Willy.tzx"
 --tape-sum 5e8ee094a0058bf25a8097ee47b155f7
 --start 33792

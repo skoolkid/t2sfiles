@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/Copter.tzx.zip
 copta.z80
---sim-load
 --tape-name "Copta.tzx"
 --tape-sum 11aac0c9ad6182ce2465af4c02355503
 --start 42000

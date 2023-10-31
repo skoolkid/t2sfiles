@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/Baths.tzx.zip
 baths.z80
---sim-load
 --tape-name "Baths.tzx"
 --tape-sum b8b6d562e0b707da5aab9b0c23a262a0
 --start 1343

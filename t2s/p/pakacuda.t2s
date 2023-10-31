@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/Pakacuda.tzx.zip
 pakacuda.z80
---sim-load
 --tape-name "PAKACUDA.TZX"
 --tape-sum fc87932e9f6880a7ed460bcbacef132c
 --start 1343

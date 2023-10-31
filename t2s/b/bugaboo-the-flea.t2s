@@ -1,6 +1,5 @@
 https://worldofspectrum.org/pub/sinclair/games/b/BugabooTheFlea.tzx.zip
 bugaboo-the-flea.z80
---sim-load
 --tape-name "Bugaboo The Flea.tzx"
 --tape-sum 3835fc66cb39fb1a8bc8d9fc1ca88eb9
 --start 24228

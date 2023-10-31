@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/Anagrams_3.tzx.zip
 anagrams-paul-boocock.z80
---sim-load
 --tape-name "Anagram.tzx"
 --tape-sum 7600e2d3bbea28047fd73d474b4cbbeb
 --start 1343

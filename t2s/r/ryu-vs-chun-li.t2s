@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/r/RyuVs.Chun-Li.tzx.zip
 ryu-vs-chun-li.z80
---sim-load
 --tape-name "Ryu Vs. Chun Li.tzx"
 --tape-sum be14ad86255e6a353e6247215334b4ea
 --start 26256

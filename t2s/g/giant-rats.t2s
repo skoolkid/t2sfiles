@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/g/GiantRats.tap.zip
 giant-rats.z80
---sim-load
 --tape-name "Giant Rats.tap"
 --tape-sum 4827a9ba5d758a3052917e4245c32e41
 --start 1343

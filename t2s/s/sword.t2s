@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Sword.tap.zip
 sword.z80
---sim-load
 --tape-name "Sword.tap"
 --tape-sum d7507bb8e6bfb96c616181897c936f6e
 --start 1343

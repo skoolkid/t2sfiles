@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/Meteor.tzx.zip
 meteor-roland-g-hulsmann.z80
---sim-load
 --tape-name "Meteor.tzx"
 --tape-sum db08f628c23fe0e5bd309fe5def86a6b
 --start 1343

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/r/Redcoats.tzx.zip
 redcoats.z80
---sim-load
 --tape-name "Redcoats.tzx"
 --tape-sum 90e70651f411b4c25ebdc0110514af50
 --start 1343

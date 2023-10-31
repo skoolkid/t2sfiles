@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/l/LawnMower.tap.zip
 lawn-mower.z80
---sim-load
 --tape-name "LawnMower.tap"
 --tape-sum 5647d5cedc9cbcf06aea4a7699125ab3
 --start 1343

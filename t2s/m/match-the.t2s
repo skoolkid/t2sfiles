@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/TheMatch.zip
 match-the.z80
---sim-load
 --tape-name "The Match.tzx"
 --tape-sum c40b35930e0ffec1f126f9d2dc52397a
 --start 24320

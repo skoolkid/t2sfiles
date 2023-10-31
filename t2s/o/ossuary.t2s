@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/o/Ossuary.tap.zip
 ossuary.z80
---sim-load
 --tape-name "Ossuary.tap"
 --tape-sum ac35de6df82b99b7289dfcde19a019c3
 --start 23856

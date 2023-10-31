@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/Doctor.tap.zip
 doctor.z80
---sim-load
 --tape-name "Doctor.tap"
 --tape-sum 2044fb3a2bb34597a28ca299df2cc8a0
 --start 49200

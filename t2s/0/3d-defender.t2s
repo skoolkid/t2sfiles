@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/Defender3D.tap.zip
 3d-defender.z80
---sim-load
 --tape-name "3ddef81.tap"
 --tape-sum 8508b59173245d44c88f26b487dba8bb
 --start 1343

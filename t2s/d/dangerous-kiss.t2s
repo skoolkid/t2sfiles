@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/DangerousKiss.tap.zip
 dangerous-kiss.z80
---sim-load
 --tape-name "Dangerous Kiss.tap"
 --tape-sum c5d628b8bc2bf3e2b223f48ddba01ec7
 --start 23938

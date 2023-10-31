@@ -1,6 +1,5 @@
 https://worldofspectrum.org/pub/sinclair/games/a/AttackOfTheEmpire.tzx.zip
 attack-of-the-empire.z80
---sim-load
 --tape-name "Attack Of The Empire.tzx"
 --tape-sum 5165193f4101bc6cd256a6f42df6a806
 --start 32000

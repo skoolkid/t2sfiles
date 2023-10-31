@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/i/IndoorRace.tzx.zip
 indoor-race.z80
---sim-load
 --tape-name "Indoor Race.tzx"
 --tape-sum 10f2cab3438098bb1bd1becf97393c51
 --start 50000

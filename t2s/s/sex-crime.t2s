@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SexCrime.tap.zip
 sex-crime.z80
---sim-load
 --tape-name "SEXCRI_1.TAP"
 --tape-sum cd79ddd9521d5a68d887607089c19c8d
 --start 1343

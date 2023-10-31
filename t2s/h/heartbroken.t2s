@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/h/Heartbroken.tzx.zip
 heartbroken.z80
---sim-load
 --tape-name "Heartbroken.tzx"
 --tape-sum dc9efc4df1be24cfd5f9253cf30440ad
 --start 38144

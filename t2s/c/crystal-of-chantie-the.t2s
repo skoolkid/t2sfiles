@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/CrystalOfChantieThe.tzx.zip
 crystal-of-chantie-the.z80
---sim-load
 --tape-name "The Crystal Of Chantie.tzx"
 --tape-sum d5a4f42646f89dab4073d8fa19c458bf
 --start 25000

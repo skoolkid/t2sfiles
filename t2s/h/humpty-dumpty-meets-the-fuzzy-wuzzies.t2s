@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/HumptyDumptyMeetsTheFuzzyWuzzies.zip
 humpty-dumpty-meets-the-fuzzy-wuzzies.z80
---sim-load
 --tape-name "Humpty Dumpty Meets The Fuzzy Wuzzies.tzx"
 --tape-sum 4c29de62479babf797ff8481590a049e
 --start 31501

@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Gunfighter.zip
 gunfighter.z80
---sim-load
 --tape-name "Gunfighter.tzx"
 --tape-sum ebf190b3fb4c7c275d4436f9b2561d5e
 --start 40770

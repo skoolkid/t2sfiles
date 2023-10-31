@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/w/WrathOfTheKillerPigs.tzx.zip
 wrath-of-the-killer-pigs.z80
---sim-load
 --tape-name "Wrath Of The Killer Pigs.tzx"
 --tape-sum be5db6cfa27225b7922bb031cc14e8eb
 --start 25000

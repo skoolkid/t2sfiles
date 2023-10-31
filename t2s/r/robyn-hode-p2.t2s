@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/r/RobynHode.tzx.zip
 robyn-hode-p2.z80
---sim-load
 --tape-name "Robyn Hode - Part 2.tzx"
 --tape-sum 29cf24f4764d93ed8cab8d04c14134b3
 --start 25000

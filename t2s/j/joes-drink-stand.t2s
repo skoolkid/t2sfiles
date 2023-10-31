@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/j/JoesDrinkStand.tap.zip
 joes-drink-stand.z80
---sim-load
 --tape-name "JOEDRINK.TAP"
 --tape-sum aad309a9a1031a10cbd8527fe470eb66
 --start 1343

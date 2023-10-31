@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Select.tap.zip
 select.z80
---sim-load
 --tape-name "SELECT.TAP"
 --tape-sum dcd135bce64367c04ecb3b0e13c0f762
 --start 1343

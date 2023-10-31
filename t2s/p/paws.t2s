@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/Paws.tzx.zip
 paws.z80
---sim-load
 --tape-name "Paws.tzx"
 --tape-sum 620b03f7cf02b668a759fa821bd181db
 --start 65379

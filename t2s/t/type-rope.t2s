@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/Type-Rope.tzx.zip
 type-rope.z80
---sim-load
 --tape-name "Type Rope.tzx"
 --tape-sum 633d3ebab249bc88ce7753c4270bbdbf
 --start 28672

@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/ProGoKartSimulator.zip
 pro-go-kart-simulator.z80
---sim-load
 --tape-name "Pro Go Kart Simulator.tzx"
 --tape-sum c033802980e8f59969dc565b1a79dce4
 --start 57344

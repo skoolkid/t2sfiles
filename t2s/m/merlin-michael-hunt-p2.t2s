@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/Merlin_2.tzx.zip
 merlin-michael-hunt-p2.z80
---sim-load
 --tape-name "Merlin - Part 2 (Michael Hunt).tzx"
 --tape-sum c6ea39f408188cf6e204768dcc254b64
 --start 25063

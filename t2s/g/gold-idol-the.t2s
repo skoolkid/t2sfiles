@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/TheGoldIdol.zip
 gold-idol-the.z80
---sim-load
 --tape-name "The Gold Idol.tzx"
 --tape-sum 612caff82d5179d19d87960338da879e
 --start 34104

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/AlienSwarm.tzx.zip
 alien-swarm.z80
---sim-load
 --tape-name "Alien Swarm.tzx"
 --tape-sum eff6dbbca7b0375a2ad8f636c3d1f9f7
 --start 24208

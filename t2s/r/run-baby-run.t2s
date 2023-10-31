@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/RunBabyRun.zip
 run-baby-run.z80
---sim-load
 --tape-name "Run Baby Run.tzx"
 --tape-sum 2e1b2f2a4b4d4a5c4d9f8eb7575911ec
 --start 1343

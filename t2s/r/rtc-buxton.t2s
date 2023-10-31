@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/r/RTCBuxton.tzx.zip
 rtc-buxton.z80
---sim-load
 --tape-name "RTC Buxton.tzx"
 --tape-sum fb65ef02176b597690facda7d24f87bc
 --start 1343

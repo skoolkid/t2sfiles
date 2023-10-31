@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/Tiless.tzx.zip
 tiless.z80
---sim-load
 --tape-name "Tiless.tzx"
 --tape-sum c18a93ddfe8c300feaae203180f53c59
 --start 1343

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/j/Jet-SetWillyInSpace.tzx.zip
 jet-set-willy-in-space.z80
---sim-load
 --tape-name "Jet Set Willy In Space.tzx"
 --tape-sum 3fd9addda5cf433ca8fa5c78c3461423
 --start 1343

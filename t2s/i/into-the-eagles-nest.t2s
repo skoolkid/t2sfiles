@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/i/IntoTheEaglesNest.tzx.zip
 into-the-eagles-nest.z80
---sim-load
 --tape-name "Into The Eagle's Nest.tzx"
 --tape-sum 8e053e3c967d2dcb889c63e3e835c282
 --start 32768

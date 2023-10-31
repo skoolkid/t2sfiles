@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Simon.tzx.zip
 simon-bh-soft.z80
---sim-load
 --tape-name "Simon (BH'Soft).tzx"
 --tape-sum 5d3eb4c6ccad08dcc977739db14b02b6
 --start 1343

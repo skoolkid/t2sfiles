@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/g/GilligansGold.tzx.zip
 gilligans-gold.z80
---sim-load
 --tape-name "Gilligan's Gold.tzx"
 --tape-sum 6d1069b1cabf6f7d554a69aeade617a3
 --start 65408

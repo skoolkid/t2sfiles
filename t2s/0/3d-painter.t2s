@@ -3,7 +3,6 @@
 
 https://worldofspectrum.net/pub/sinclair/games/p/Painter3D.tzx.zip
 3d-painter.z80
---sim-load
 --tape-name "3D Painter.tzx"
 --tape-sum 58dee24b3ad1446a2fd7fce1dda55354
 --start 26673

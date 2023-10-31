@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/PrinceThe.tzx.zip
 prince-the.z80
---sim-load
 --tape-name "The Prince.tzx"
 --tape-sum f650ebabaf48a97b78c99699ee77638a
 --start 1343

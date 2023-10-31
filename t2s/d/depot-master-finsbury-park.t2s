@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/DepotMasterFinsburyPark.tzx.zip
 depot-master-finsbury-park.z80
---sim-load
 --tape-name "Depot Master Finsbury Park.tzx"
 --tape-sum 16fbd66536b0416e2c519760f3510d20
 --start 1343

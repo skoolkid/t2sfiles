@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/r/ReadySteadyGo.tzx.zip
 ready-steady-go.z80
---sim-load
 --tape-name "Ready Steady Go.tzx"
 --tape-sum 00863be55ec42140a689a1a00dd2ae81
 --start 24150

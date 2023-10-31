@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/Detective_3.tap.zip
 detective-gary-gates.z80
---sim-load
 --tape-name "DETECT_1.TAP"
 --tape-sum 952f6ba144e4817a21f7c1e04734371e
 --start 1343

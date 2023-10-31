@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/Magic.tap.zip
 magic.z80
---sim-load
 --tape-name "AVVENNIM.TAP"
 --tape-sum 1937b6efa038d92e7957a33f387dd9d7
 --start 1343

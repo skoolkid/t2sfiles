@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Superscacchi.tzx.zip
 superscacchi.z80
---sim-load
 --tape-name "Superscacchi.tzx"
 --tape-sum 5a70e46ee40eb55ae71c1526393797a2
 --start 32577

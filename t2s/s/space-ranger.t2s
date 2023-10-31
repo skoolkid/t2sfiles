@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SpaceRanger(CraftCruiser)(LoadnRunES).tap.zip
 space-ranger.z80
---sim-load
 --tape-name "CRAFTCRU.TAP"
 --tape-sum 063f746dafe89f05e0cf67859d1c85e1
 --start 1343

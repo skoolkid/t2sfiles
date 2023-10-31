@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/r/RetiCombinatorieADueLivelli.tzx.zip
 reti-combinatore-a-due-livelli.z80
---sim-load
 --tape-name "RetiCombinatore.tzx"
 --tape-sum 5d6c98184fbe6eeb4ca314c75e27c18e
 --start 1343

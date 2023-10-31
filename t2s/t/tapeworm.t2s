@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/Tapeworm.tap.zip
 tapeworm.z80
---sim-load
 --tape-name "TAPEWORM.TAP"
 --tape-sum 7cbfa0b15311f20fe163fdb3ea81a2b0
 --start 60000

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/r/RaceAce.tzx.zip
 race-ace.z80
---sim-load
 --tape-name "Race Ace.tzx"
 --tape-sum ea5011ec36a07356ff5a96211e72b3a6
 --start 1343

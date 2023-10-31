@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/SpectrumChess.zip
 spectrum-chess.z80
---sim-load
 --tape-name "Spectrum Chess.tzx"
 --tape-sum 4f7df61475c9341b2baaec7ad0553e3c
 --start 36864

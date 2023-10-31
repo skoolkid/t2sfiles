@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/f/Fischen.tap.zip
 fischen.z80
---sim-load
 --tape-name "FISCHEN.TAP"
 --tape-sum d4a6202afbb057e17c912bcc90bc0fbf
 --start 1343

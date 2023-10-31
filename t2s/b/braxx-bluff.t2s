@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/BraxxBluff.tzx.zip
 braxx-bluff.z80
---sim-load
 --tape-name "Braxx Bluff.tzx"
 --tape-sum 3f7b4a6f62a4becdf545df317dae45fc
 --start 63470

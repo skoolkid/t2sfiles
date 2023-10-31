@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/FighterPilot-Release2.zip
 fighter-pilot-release-2.z80
---sim-load
 --tape-name "Fighter Pilot - Release 2.tzx"
 --tape-sum 1fe382d56c4ec9a74456ad6b58b39842
 --start 24000

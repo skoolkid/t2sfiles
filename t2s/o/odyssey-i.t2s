@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/o/Odyssey1.tzx.zip
 odyssey-i.z80
---sim-load
 --tape-name "Odyssey 1.tzx"
 --tape-sum 8032513e285fd7069ec3495e62332691
 --start 24500

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/ParadiseCafe.tzx.zip
 paradise-cafe.z80
---sim-load
 --tape-name "Paradise-Cafe.tzx"
 --tape-sum 8ee8a2c7c2be73d61d2c7e203d1d94a1
 --start 30698

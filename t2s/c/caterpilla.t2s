@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/Caterpilla.tzx.zip
 caterpilla.z80
---sim-load
 --tape-name "Caterpilla.tzx"
 --tape-sum 7660f1314f43f8de3c16157193f9d015
 --start 24484

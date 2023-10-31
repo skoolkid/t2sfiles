@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/TouristTrouble.tzx.zip
 tourist-trouble.z80
---sim-load
 --tape-name "Tourist Trouble.tzx"
 --tape-sum 570df9b3832ecfb422ce29d0243a148f
 --start 25063

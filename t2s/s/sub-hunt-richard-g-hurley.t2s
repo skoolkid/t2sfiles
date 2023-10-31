@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SubHunt(U-Boot-Jagd)(unknown).tzx.zip
 sub-hunt-richard-g-hurley.z80
---sim-load
 --tape-name "U-BOOT.TZX"
 --tape-sum c3d57faa47251284549eb5d1565e9e92
 --start 1343

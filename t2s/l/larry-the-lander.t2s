@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/l/LarryTheLander.tap.zip
 larry-the-lander.z80
---sim-load
 --tape-name "LARRY-THE-LANDER.tap"
 --tape-sum 56354739935555f3e6fa5dbe3961c2ae
 --start 38025

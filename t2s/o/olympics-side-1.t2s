@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/o/Olympics.tzx.zip
 olympics-side-1.z80
---sim-load
 --tape-name "Olympics - Side 1.tzx"
 --tape-sum a90ab70c5350603d53e09ef94a6f449f
 --start 1343

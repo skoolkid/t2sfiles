@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/Defenda3D.tzx.zip
 3d-defenda.z80
---sim-load
 --tape-name "3D Defenda (Contrast Software).tzx"
 --tape-sum dd0890665dcb89baff29aa4a54c54960
 --start 1343

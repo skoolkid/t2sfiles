@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/TellyWise.tzx.zip
 telly-wise.z80
---sim-load
 --tape-name "Telly Wise.tzx"
 --tape-sum e7311cb14a1864ca75d3120a279bcf64
 --start 1343

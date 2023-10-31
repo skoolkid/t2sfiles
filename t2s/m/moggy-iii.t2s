@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/MoggyIII.tzx.zip
 moggy-iii.z80
---sim-load
 --tape-name "Moggy III.tzx"
 --tape-sum 5c8330307014c64c19c0a6a8aec65bec
 --start 26256

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/CrystalCavernThe.tzx.zip
 crystal-cavern-the.z80
---sim-load
 --tape-name "The Crystal Cavern (Handasoft).tzx"
 --tape-sum 104888389fc95befe905dd765bde3a7a
 --start 25000

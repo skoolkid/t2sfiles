@@ -1,6 +1,5 @@
 https://worldofspectrum.org/pub/sinclair/games/d/DarkFusion.tzx.zip
 dark-fusion.z80
---sim-load
 --tape-name "Dark Fusion.tzx"
 --tape-sum b9ed31f3c2d7a1a7cca5393f61dc15f0
 --start 32977

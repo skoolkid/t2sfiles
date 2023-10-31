@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/z/Zabarachuda.tap.zip
 zabarachuda.z80
---sim-load
 --tape-name "Zabarachuda.tap"
 --tape-sum 2405b57483bb6dac4e82f44d9aa7a7d9
 --start 24200

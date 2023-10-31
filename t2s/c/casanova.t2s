@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/Casanova.tzx.zip
 casanova.z80
---sim-load
 --tape-name "Casanova.tzx"
 --tape-sum d691113685c6a92fd29da79fd952cfc1
 --start 22518

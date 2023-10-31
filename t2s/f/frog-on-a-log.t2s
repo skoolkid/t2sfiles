@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/f/FrogOnALog.tap.zip
 frog-on-a-log.z80
---sim-load
 --tape-name "FrogOnALog.tap"
 --tape-sum 06d0a8a78a9f92383a59b5d20f16f7eb
 --start 1343

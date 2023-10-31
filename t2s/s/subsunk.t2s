@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Subsunk.tzx.zip
 subsunk.z80
---sim-load
 --tape-name "Subsunk.tzx"
 --tape-sum e23e282975bd03610e33d4e09f9a1787
 --start 24980

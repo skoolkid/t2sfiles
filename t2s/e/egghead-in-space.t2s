@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/e/EggheadInSpace.tap.zip
 egghead-in-space.z80
---sim-load
 --tape-name "egghead3.tap"
 --tape-sum c2000f3286f4fa3b9de490ce6a30ddbf
 --start 28000

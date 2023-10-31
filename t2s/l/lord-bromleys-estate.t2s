@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/l/LordBromleysEstate.tap.zip
 lord-bromleys-estate.z80
---sim-load
 --tape-name "007TONTA.TAP"
 --tape-sum cafc8ea484dc7e7ad6c1c96f4fd60101
 --start 30000

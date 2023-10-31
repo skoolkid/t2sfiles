@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/e/ElektroStorm.tzx.zip
 elektro-storm.z80
---sim-load
 --tape-name "Elektro Storm.tzx"
 --tape-sum 6ba9fb5ddb733a12ea74ee684f6654a5
 --start 40000

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/PostmanPat2.tzx.zip
 postman-pat-2.z80
---sim-load
 --tape-name "Postman Pat 2.tzx"
 --tape-sum 356ad66a291ac0da3646c2bbe91764cf
 --start 23839

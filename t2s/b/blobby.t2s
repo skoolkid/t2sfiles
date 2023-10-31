@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/Blobby.tap.zip
 blobby.z80
---sim-load
 --tape-name "Blobby.tap"
 --tape-sum 58c8639f8acf133f346a6070df4e4843
 --start 40000

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/Thunderturds.tzx.zip
 thunderturds.z80
---sim-load
 --tape-name "Thunderturds.tzx"
 --tape-sum 1a5df4bd4c9ff53d16bf3bd2c2cbf971
 --start 56920

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/PoxoftTatrizSpecialEdition.tap.zip
 poxoft-tatriz-special-edition.z80
---sim-load
 --tape-name "poxoft_tatriz_aw2011_zx_spectrum.tap"
 --tape-sum 1bd4d0074f2a1985e0131b505dfa6e8f
 --start 1343

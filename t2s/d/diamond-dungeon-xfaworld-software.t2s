@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/DiamondDungeon_2.tap.zip
 diamond-dungeon-xfaworld-software.z80
---sim-load
 --tape-name "Diamond Dungeon.TAP"
 --tape-sum 689b5fd24280e7a1b0a66d2a368d5be8
 --start 1343

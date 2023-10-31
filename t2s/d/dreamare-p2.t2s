@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/Dreamare.tzx.zip
 dreamare-p2.z80
---sim-load
 --tape-name "Dreamare - Part 2.tzx"
 --tape-sum 4a26b46fe9619fcaaf143e8d2ea70df6
 --start 36366

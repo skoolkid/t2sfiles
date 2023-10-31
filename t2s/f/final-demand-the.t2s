@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/f/FinalDemandThe.tzx.zip
 final-demand-the.z80
---sim-load
 --tape-name "The Final Demand.tzx"
 --tape-sum b500f1456b929bfd890ad5852d484d69
 --start 29169

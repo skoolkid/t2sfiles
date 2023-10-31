@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/StarFlaws.tzx.zip
 star-flaws.z80
---sim-load
 --tape-name "Star Flaws.tzx"
 --tape-sum dacad8c23238547f731b66d286bde695
 --start 29169

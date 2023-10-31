@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/Armageddon_3.tap.zip
 armageddon-svc-software.z80
---sim-load
 --tape-name "Armageddon.TAP"
 --tape-sum fdebdea35712f0b5723b914d7b7b7d5f
 --start 32768

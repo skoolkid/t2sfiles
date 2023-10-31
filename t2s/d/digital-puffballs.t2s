@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/DigitalPuffballs.tzx.zip
 digital-puffballs.z80
---sim-load
 --tape-name "Puffball.tzx"
 --tape-sum 9ad91c373fefaae4e183c4c56b41f2fa
 --start 1343

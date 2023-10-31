@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/DirtyBristow-TheGame.tap.zip
 dirty-bristow-the-game.z80
---sim-load
 --tape-name "bristow.tap"
 --tape-sum c215d8f49b891078c50b0db686ef8775
 --start 32768

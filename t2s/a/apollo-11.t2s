@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Apollo11.zip
 apollo-11.z80
---sim-load
 --tape-name "Apollo 11.tzx"
 --tape-sum 71925aba3e5e55c93775ac860e27dc0a
 --start 23923

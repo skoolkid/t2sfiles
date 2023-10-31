@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Adventure2001.zip
 adventure-2001.z80
---sim-load
 --tape-name "Adventure 2001.tzx"
 --tape-sum 71d7e7473ad34d62c2a478d9d82d3d2c
 --start 25000

@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/CamelotWarriors.zip
 camelot-warriors.z80
---sim-load
 --tape-name "Camelot Warriors.tzx"
 --tape-sum 9556584988fbd7dc4c26282036d6fc7c
 --start 50600

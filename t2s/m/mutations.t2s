@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Mutations.zip
 mutations.z80
---sim-load
 --tape-name "Mutations.tzx"
 --tape-sum 6087593a28b31696a4a05540bffd3d6c
 --start 1343

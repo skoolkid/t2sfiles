@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SkiMaster.tap.zip
 ski-master.z80
---sim-load
 --tape-name "SKIMAST.TAP"
 --tape-sum 5d0a81c2b3c2fec5e97fb4147996a4ef
 --start 1343

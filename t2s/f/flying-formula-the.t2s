@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/f/FlyingFormulaThe.tzx.zip
 flying-formula-the.z80
---sim-load
 --tape-name "The Flying Formula.tzx"
 --tape-sum f60e6ec418f19cd3095037fc44d38381
 --start 32768

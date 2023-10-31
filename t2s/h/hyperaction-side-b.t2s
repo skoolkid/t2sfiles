@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/h/Hyperaction.tzx.zip
 hyperaction-side-b.z80
---sim-load
 --tape-name "Hyperaction - Side B.tzx"
 --tape-sum eafd18e8557ffadb760dd30b691903a9
 --start 23798

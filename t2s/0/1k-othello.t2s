@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/123/1KOthello.tap.zip
 1k-othello.z80
---sim-load
 --tape-name "OTHELLO.TAP"
 --tape-sum 8e370163a33fc59fb05c3b355ed2ba79
 --start 23785

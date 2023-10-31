@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/Piknik.tap.zip
 piknik.z80
---sim-load
 --tape-name "Piknik.tap"
 --tape-sum 67ed908b686a1ae5001b510d155e8e50
 --start 1343

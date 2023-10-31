@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/compilations/y/Yankee.tzx.zip
 yankee-chickamauga.z80
---sim-load
 --tape-name "Yankee - Chickamauga.tzx"
 --tape-sum 962b8fccdf8d1983fae46900875eea2a
 --start 1343

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/Paras.tzx.zip
 paras.z80
---sim-load
 --tape-name "Paras.tzx"
 --tape-sum 5a7187c77352ec2c16746c7051d6fc75
 --start 1343

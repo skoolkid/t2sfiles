@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/LooseEnds.zip
 loose-ends.z80
---sim-load
 --tape-name "Loose Ends.tzx"
 --tape-sum ff5f930c7ced14e492b75c06c4ed07c2
 --start 34777

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Sokoban.tzx.zip
 sokoban-compiler-software.z80
---sim-load
 --tape-name "Sokoban.tzx"
 --tape-sum 9fefe3d2e87e20fdbea1b24672dfaeca
 --start 23830

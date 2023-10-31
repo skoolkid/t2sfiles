@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/f/F.A.CupFootball.tzx.zip
 fa-cup-football.z80
---sim-load
 --tape-name "FA Cup Football.tzx"
 --tape-sum 5e18bcc7000fd5737cf9d4776f22e507
 --start 32447

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/DerbyDay.tzx.zip
 derby-day.z80
---sim-load
 --tape-name "Derby Day.tzx"
 --tape-sum 6ecfdb160e894244c48ed23382987b50
 --start 1343

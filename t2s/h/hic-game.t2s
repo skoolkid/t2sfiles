@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/h/HicGame.tzx.zip
 hic-game.z80
---sim-load
 --tape-name "HicGame.tzx"
 --tape-sum f3c18127164d01bc52df97ea7f1b1900
 --start 51794

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Shuriken.tap.zip
 shuriken.z80
---sim-load
 --tape-name "Shuriken.tap"
 --tape-sum 4f3459729fd4814f63e6b4b4d816a1b1
 --start 24949

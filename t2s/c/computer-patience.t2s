@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/ComputerPatience.tap.zip
 computer-patience.z80
---sim-load
 --tape-name "Computer Patience.tap"
 --tape-sum a151eab36c8258136b1b637823a7b8a5
 --start 1343

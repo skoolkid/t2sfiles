@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/f/FreeClimbing.tzx.zip
 free-climbing-p3.z80
---sim-load
 --tape-name "Free Climbing - Side 2.tzx"
 --tape-sum bfe84597691052f772063ab02155bab1
 --start 47000

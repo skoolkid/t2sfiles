@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Solitaire_2.tzx.zip
 solitaire-no-mans-land.z80
---sim-load
 --tape-name "Solitaire (No Man's Land).tzx"
 --tape-sum 0f687181591f6274ced08102f5f2152c
 --start 1343

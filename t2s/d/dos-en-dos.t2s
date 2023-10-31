@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/DosEnDos.tap.zip
 dos-en-dos.z80
---sim-load
 --tape-name "DOSENDOS.TAP"
 --tape-sum 1a6a1286279f3340612b92e0797cf6be
 --start 1343

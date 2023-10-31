@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/StarBowls.tap.zip
 star-bowls.z80
---sim-load
 --tape-name "Star Bowls.tap"
 --tape-sum b8f0f4e0d2b4971b7050f835fa702b59
 --start 25554

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/r/Retrophenia.tzx.zip
 retrophenia.z80
---sim-load
 --tape-name "Retrophenia.tzx"
 --tape-sum c95014070be1c5f27232de751240ccb9
 --start 1343

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/compilations/c/Challenge.tzx.zip
 challenge-master-code-deluxe.z80
---sim-load
 --tape-name "Challenge (Temptation Software).tzx"
 --tape-sum 0c22144b5147c59045176b1e74118efd
 --start 1343

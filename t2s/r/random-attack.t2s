@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/r/RandomAttack.tap.zip
 random-attack.z80
---sim-load
 --tape-name "RANDATAK.TAP"
 --tape-sum 789476d95f8313b9a3ae9f50c626ab8a
 --start 1343

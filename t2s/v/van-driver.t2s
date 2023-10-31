@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/v/VanDriver.tap.zip
 van-driver.z80
---sim-load
 --tape-name "VANDRIVR.TAP"
 --tape-sum 2acc77943ed6b30edca614929016c21e
 --start 48896

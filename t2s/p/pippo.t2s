@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/Pippo.tzx.zip
 pippo.z80
---sim-load
 --tape-name "Pippo.tzx"
 --tape-sum 9bc82fc9fdfc38869331997639b9158d
 --start 24576

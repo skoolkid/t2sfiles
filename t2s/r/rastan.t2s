@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/r/Rastan.tzx.zip
 rastan.z80
---sim-load
 --tape-name "Rastan - 48k.tzx"
 --tape-sum ebf9a1a98d77c37113cf9e22128f1fc7
 --start 49474

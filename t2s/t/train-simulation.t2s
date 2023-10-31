@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/TrainSimulation.tzx.zip
 train-simulation.z80
---sim-load
 --tape-name "TrainSimulation.tzx"
 --tape-sum 20dcda9373f7208a2076d0c6b4d147ec
 --start 1343

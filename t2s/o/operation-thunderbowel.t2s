@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/OperationThunderbowel.zip
 operation-thunderbowel.z80
---sim-load
 --tape-name "Operation Thunderbowel.tzx"
 --tape-sum 3ca3854219e5878da21c3717754d5ed6
 --start 36366

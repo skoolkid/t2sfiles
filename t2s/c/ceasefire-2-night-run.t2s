@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/Ceasefire2-NightRun.tap.zip
 ceasefire-2-night-run.z80
---sim-load
 --tape-name "CEASE2.TAP"
 --tape-sum f41f6fc3c4a631ee2aa2b3c4bf94b27e
 --start 25000

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/PaddingtonsGardenGame.tzx.zip
 paddingtons-garden-game.z80
---sim-load
 --tape-name "Paddington's Garden Game.tzx"
 --tape-sum 067bf150285c1b99599f29ec865d68b4
 --start 1343

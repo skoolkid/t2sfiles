@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/n/NightmarePark.tzx.zip
 nightmare-park.z80
---sim-load
 --tape-name "Nightmare Park.tzx"
 --tape-sum 1ce19cc9d8c8d58cb1d80b16433079ca
 --start 1343

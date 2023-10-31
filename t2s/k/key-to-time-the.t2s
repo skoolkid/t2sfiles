@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/TheKeyToTime.zip
 key-to-time-the.z80
---sim-load
 --tape-name "The Key To Time.tzx"
 --tape-sum efa32506fb8aa852c778c4470e224870
 --start 25063

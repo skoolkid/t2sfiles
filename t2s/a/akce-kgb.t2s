@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/AkceKGB.tzx.zip
 akce-kgb.z80
---sim-load
 --tape-name "Akce_KGB.tzx"
 --tape-sum 8cc94791087767a008fe6079b5984980
 --start 1343

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/r/RuinaLa.tap.zip
 ruina-la.z80
---sim-load
 --tape-name "La Ruina.tap"
 --tape-sum 134011c230d181bb522c4874aa53e42d
 --start 1343

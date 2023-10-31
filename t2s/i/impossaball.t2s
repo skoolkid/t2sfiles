@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/i/Impossaball.tzx.zip
 impossaball.z80
---sim-load
 --tape-name "Impossaball.tzx"
 --tape-sum 0799f772965f676e52c8faec4ca324cb
 --start 65105

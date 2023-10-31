@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/h/HarvestingMoonA.tzx.zip
 a-harvesting-moon.z80
---sim-load
 --tape-name "A Harvesting Moon.tzx"
 --tape-sum a40f789759ef97fe4bb34b77e643c54f
 --start 23357

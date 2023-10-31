@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/y/Yarkho-IlSegretoDiObnyr.tap.zip
 yarkho-il-segreto-di-obnyr.z80
---sim-load
 --tape-name "SegretoDiObnyrIl.tap"
 --tape-sum bd2e5309ff0c070ffc3198bad40d985e
 --start 25000

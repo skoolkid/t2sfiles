@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/Meteoroids.tzx.zip
 meteoroids-dk-tronics.z80
---sim-load
 --tape-name "Meteoroids (DK'Tronics).tzx"
 --tape-sum 8bc9c44e247dc2eb92bf79477d0e49ef
 --start 1343

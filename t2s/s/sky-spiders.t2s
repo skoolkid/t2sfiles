@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SkySpiders.tap.zip
 sky-spiders.z80
---sim-load
 --tape-name "Sky Spiders.TAP"
 --tape-sum 771a48f4d1e8091599b7dc338830d2b1
 --start 1343

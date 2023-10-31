@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Spectrum-Skat.tap.zip
 spectrum-skat.z80
---sim-load
 --tape-name "SSKAT.TAP"
 --tape-sum fbe9b1f53a7c48d90bf7055a3ae53de3
 --start 1343

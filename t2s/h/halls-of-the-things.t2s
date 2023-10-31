@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/h/HallsOfTheThings.tzx.zip
 halls-of-the-things.z80
---sim-load
 --tape-name "Halls Of The Things.tzx"
 --tape-sum d16c71cba42bc438949ad72dc9348135
 --start 24576

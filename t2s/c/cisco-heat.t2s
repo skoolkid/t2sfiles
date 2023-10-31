@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/CiscoHeat.tzx.zip
 cisco-heat.z80
---sim-load
 --tape-name "Cisco Heat.tzx"
 --tape-sum 75bfba0debecd99da9e852714769b6cc
 --start 33921

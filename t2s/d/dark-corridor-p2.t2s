@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/DarkCorridor.tap.zip
 dark-corridor-p2.z80
---sim-load
 --tape-name "Dark Corridor - Part 2.tap"
 --tape-sum d483600187eafe8ed807193f5d6cf2a6
 --start 29041

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/Aven.tap.zip
 aven.z80
---sim-load
 --tape-name "Aven.tap"
 --tape-sum 4f1ad922de43b10d46d06d36efea0fd4
 --start 24200

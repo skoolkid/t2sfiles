@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/n/Nudgeit.tap.zip
 nudgeit.z80
---sim-load
 --tape-name "NUDGEIT.TAP"
 --tape-sum 188047d0b703a57801d88a3da3806e9d
 --start 1343

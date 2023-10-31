@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/123/1Kanoid.tap.zip
 1kanoid.z80
---sim-load
 --tape-name "1KANOID.TAP"
 --tape-sum ef1d8eef985abb9c2f921f955766d2f2
 --start 23772

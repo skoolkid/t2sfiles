@@ -1,6 +1,5 @@
 "https://tzxvault.org/Spectrum/TZX/Toobin'.zip"
 toobin.z80
---sim-load
 --tape-name "Toobin'.tzx"
 --tape-sum 1066e78109fa2552910e11fbe4dc390a
 --start 24106

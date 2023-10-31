@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/n/NinjaMaster.tzx.zip
 ninja-master.z80
---sim-load
 --tape-name "The Ninja Master.tzx"
 --tape-sum 7a219506a59a0a89374f468d308126fe
 --start 33821

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/Cesped.tap.zip
 cesped.z80
---sim-load
 --tape-name "Cesped.tap"
 --tape-sum 874a72be1161f97cee7a9dc159233402
 --start 1343

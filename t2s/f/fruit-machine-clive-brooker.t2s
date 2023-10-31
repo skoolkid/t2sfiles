@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/f/FruitMachine_4.tzx.zip
 fruit-machine-clive-brooker.z80
---sim-load
 --tape-name "Fruit Machine (Simon Micro-Soft).tzx"
 --tape-sum 83357d4206fbfc30352a257be3036da1
 --start 1343

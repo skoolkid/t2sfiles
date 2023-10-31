@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/j/JoeBladeIII.tzx.zip
 joe-blade-iii.z80
---sim-load
 --tape-name "Joe Blade 3 - 48k.tzx"
 --tape-sum bc8458d0382e68eacf7074c445c999bc
 --start 65188

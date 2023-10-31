@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/OrpheusInTheUnderworld.zip
 orpheus-in-the-underworld.z80
---sim-load
 --tape-name "Orpheus In The Underworld.tzx"
 --tape-sum f98d415ff5d59286f65aaf2df45f8196
 --start 33000

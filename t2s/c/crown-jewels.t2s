@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/CrownJewels.zip
 crown-jewels.z80
---sim-load
 --tape-name "Crown Jewels.tzx"
 --tape-sum a1173e8ee8cae0f8fec24eb1a839e850
 --start 34104

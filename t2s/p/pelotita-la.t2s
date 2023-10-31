@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/PelotitaLa.tzx.zip
 pelotita-la.z80
---sim-load
 --tape-name "La Pelotita.tzx"
 --tape-sum 45ff34a3162ce7583ae6e2cb1c068202
 --start 1343

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/ProfessionalSoccer.tzx.zip
 professional-soccer.z80
---sim-load
 --tape-name "Professional Soccer.tzx"
 --tape-sum eade532f6bef7deaf9f29467c25cb248
 --start 23327

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/e/EmbassyAssault.tzx.zip
 embassy-assault.z80
---sim-load
 --tape-name "Embassy Assault.tzx"
 --tape-sum e74275a66a95a5fd521f43f639a1e10d
 --start 1343

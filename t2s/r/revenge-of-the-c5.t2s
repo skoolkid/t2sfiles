@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/r/RevengeOfTheC5.tzx.zip
 revenge-of-the-c5.z80
---sim-load
 --tape-name "Revenge Of The C5.tzx"
 --tape-sum 106711f340375923ce93c91bb1408e79
 --start 1343

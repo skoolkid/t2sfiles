@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/WilliamWobbler.zip
 william-wobbler.z80
---sim-load
 --tape-name "William Wobbler.tzx"
 --tape-sum 57854e6f001bb3f6ee3efb7fae242638
 --start 30464

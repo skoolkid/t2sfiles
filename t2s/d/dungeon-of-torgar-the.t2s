@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/DungeonOfTorgar.tzx.zip
 dungeon-of-torgar-the.z80
---sim-load
 --tape-name "The Dungeon Of Torgar.tzx"
 --tape-sum ce61ea689e98633e1559409a99841789
 --start 34777

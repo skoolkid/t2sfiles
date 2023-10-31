@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/f/ForgottenPastThe.tzx.zip
 forgotten-past-the.z80
---sim-load
 --tape-name "The Forgotten Past.tzx"
 --tape-sum 78d9766d65578e7fd214cf7bac3ffedd
 --start 34104

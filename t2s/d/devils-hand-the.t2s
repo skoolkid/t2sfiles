@@ -1,6 +1,5 @@
 "https://tzxvault.org/Spectrum/TZX/TheDevil'sHand.zip"
 devils-hand-the.z80
---sim-load
 --tape-name "The Devil's Hand.tzx"
 --tape-sum 1b982f896bb5de9c116db7ef7faba464
 --start 23324

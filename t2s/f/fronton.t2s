@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/f/Fronton.tap.zip
 fronton.z80
---sim-load
 --tape-name "Fronton.tap"
 --tape-sum 4159c52c57d2808dc8b4edfdb9bf03bd
 --start 1343

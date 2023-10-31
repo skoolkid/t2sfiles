@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/DieFeuerfaust.zip
 die-feuerfaust.z80
---sim-load
 --tape-name "Die Feuerfaust.tzx"
 --tape-sum 575db55deb1f402ad3c08a4fc9e9ab3e
 --start 29169

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/i/Identisquares.tzx.zip
 identisquares.z80
---sim-load
 --tape-name "Identisquares.tzx"
 --tape-sum bd06005363ad2b10bc05fe4dee8634cf
 --start 1343

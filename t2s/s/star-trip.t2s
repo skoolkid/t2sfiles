@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/StarTrip.tzx.zip
 star-trip.z80
---sim-load
 --tape-name "Star Trip.tzx"
 --tape-sum ff672cabc990cfb7462eb7241e66a3cb
 --start 34104

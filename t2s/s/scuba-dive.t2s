@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/ScubaDive.tzx.zip
 scuba-dive.z80
---sim-load
 --tape-name "Scuba Dive.tzx"
 --tape-sum a03dea2c21bdb82b4b65c3ae850c5c17
 --start 60895

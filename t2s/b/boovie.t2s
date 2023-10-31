@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/Boovie.tap.zip
 boovie.z80
---sim-load
 --tape-name "BOOVIE.TAP"
 --tape-sum bfcde827d59ee060b7adf6da9a9f1e65
 --start 24050

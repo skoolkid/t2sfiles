@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/l/LaserTower.tap.zip
 laser-tower.z80
---sim-load
 --tape-name "LASERT.TAP"
 --tape-sum d08427fd5551c828b49d1f22ce48a5fa
 --start 1343

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/TombOfAkhenaten.tzx.zip
 tomb-of-akhenaten.z80
---sim-load
 --tape-name "Tomb Of Akhenaten.tzx"
 --tape-sum 43221121c5951435e205a1aa6177c556
 --start 1343

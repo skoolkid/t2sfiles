@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/TorensVanHanoi.tap.zip
 torens-van-hanoi.z80
---sim-load
 --tape-name "HANOI.TAP"
 --tape-sum bf161c0a660d4d00eeaa5ab34174da57
 --start 1343

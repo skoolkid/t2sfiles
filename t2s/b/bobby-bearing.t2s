@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/BobbyBearing.tzx.zip
 bobby-bearing.z80
---sim-load
 --tape-name "Bobby Bearing.tzx"
 --tape-sum bb306b778cf7f9cd2ee5dab4944955b4
 --start 63773

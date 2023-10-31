@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/BoxBounce.tap.zip
 box-bounce.z80
---sim-load
 --tape-name "BoxBounce.tap"
 --tape-sum b15c4b7bf728989f405a577046bd7ce3
 --start 1343

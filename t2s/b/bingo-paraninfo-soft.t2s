@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/Bingo_2.tap.zip
 bingo-paraninfo-soft.z80
---sim-load
 --tape-name "Bingo (J.L. del Rio Moreno).tap"
 --tape-sum ded9b2f010767357abf83c172fbbf770
 --start 1343

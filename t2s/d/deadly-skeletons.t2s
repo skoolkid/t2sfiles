@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/DeadlySkeletons.tzx.zip
 deadly-skeletons.z80
---sim-load
 --tape-name "Deadly Skeletons.tzx"
 --tape-sum 03ad17e6e775eae6c9e029a5edf0bd97
 --start 1343

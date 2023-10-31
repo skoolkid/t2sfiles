@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/h/Hammerfist.tap.zip
 hammerfist.z80
---sim-load
 --tape-name "HAMMERFI.TAP"
 --tape-sum e641be16b010221fea335b6ede4d8cdd
 --start 24589

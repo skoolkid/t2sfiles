@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/MisterGas.tzx.zip
 mister-gas.z80
---sim-load
 --tape-name "Mr Gas.tzx"
 --tape-sum 3007d5a711c161adc2594ade1ce676d3
 --start 65192

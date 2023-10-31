@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SaveThePrincess.tzx.zip
 save-the-princess.z80
---sim-load
 --tape-name "SaveThePrincess.tzx"
 --tape-sum e50b0c9535d54ec695b1bdde85a7daa0
 --start 1343

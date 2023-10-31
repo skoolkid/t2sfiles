@@ -1,6 +1,5 @@
 "https://tzxvault.org/Spectrum/TZX/TroubleBrewin'.zip"
 trouble-brewin.z80
---sim-load
 --tape-name "Trouble Brewin'.tzx"
 --tape-sum bb22742d3f3e2c962a1c16efa37dfdb6
 --start 23798

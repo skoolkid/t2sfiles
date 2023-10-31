@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/JungleAdventure.zip
 jungle-adventure.z80
---sim-load
 --tape-name "Jungle Adventure.tzx"
 --tape-sum 15573bf682f6df38223f8f009c36736e
 --start 1343

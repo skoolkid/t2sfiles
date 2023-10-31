@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/Alien(1).tzx.zip
 alien-unknown.z80
---sim-load
 --tape-name "Alien.tzx"
 --tape-sum 919defb6d38d34ae4e9b3726c8d55019
 --start 1343

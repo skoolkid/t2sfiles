@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/l/LilAlien(LittleAl)(Sparklers).tzx.zip
 lil-alien.z80
---sim-load
 --tape-name "Little Al.tzx"
 --tape-sum d0a922560b380e039916b22a5f5c0c65
 --start 1343

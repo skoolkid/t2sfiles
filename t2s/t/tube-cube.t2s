@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/TubeCube(SzklanaKostka)(unknown).tzx.zip
 tube-cube.z80
---sim-load
 --tape-name "SzklanaKostka (TubeCube).tzx"
 --tape-sum d5ac8ff6f12a5e6398d2c9f30c93ba5e
 --start 1343

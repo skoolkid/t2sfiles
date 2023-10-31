@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/CarrotsFromSpace.tzx.zip
 carrots-from-space.z80
---sim-load
 --tape-name "Carrots from space.tzx"
 --tape-sum f6ba6f0c3629434725db98c10338e24c
 --start 1343

@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/LifeOfHarry.zip
 life-of-harry.z80
---sim-load
 --tape-name "Life Of Harry.tzx"
 --tape-sum 05bceb87977faa3d8116b055171d0568
 --start 63626

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/r/RiformaSanitaria.tzx.zip
 riforma-sanitaria.z80
---sim-load
 --tape-name "RiformaSanitaria.tzx"
 --tape-sum 1b7e46e352f7a3d84f105a5595194d7e
 --start 1343

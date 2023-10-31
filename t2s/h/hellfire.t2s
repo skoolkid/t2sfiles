@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/h/Hellfire.tzx.zip
 hellfire.z80
---sim-load
 --tape-name "Hellfire.tzx"
 --tape-sum 525f79ca67ea6d5ac2f84dc0edcdbe13
 --start 24576

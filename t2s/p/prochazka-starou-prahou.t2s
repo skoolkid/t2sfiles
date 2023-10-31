@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/ProchazkaStarouPrahou.tap.zip
 prochazka-starou-prahou.z80
---sim-load
 --tape-name "PROCHAZK.TAP"
 --tape-sum 45b2f483bcddf01abd8ef6bdca940bcb
 --start 1343

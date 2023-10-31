@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/BigBadJohn.tzx.zip
 big-bad-john.z80
---sim-load
 --tape-name "Big Bad John (Tynesoft).tzx"
 --tape-sum 720175d9167805612421ee3b72644d98
 --start 57060

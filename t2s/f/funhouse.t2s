@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/f/Funhouse.tzx.zip
 funhouse.z80
---sim-load
 --tape-name "Funhouse.tzx"
 --tape-sum a52be74febc007a124965b539fb49995
 --start 61026

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/CarsOutV2006.tzx.zip
 cars-out.z80
---sim-load
 --tape-name "Cars Out (Compiled).tzx"
 --tape-sum cd763c3c2490b1f53de3755269b74ba5
 --start 56358

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/MurderHunt_3.tzx.zip
 murder-hunt-central-solutions.z80
---sim-load
 --tape-name "Murder Hunt - Alternate.tzx"
 --tape-sum 54a4202058cd8feac4ec79b9e17b8051
 --start 25063

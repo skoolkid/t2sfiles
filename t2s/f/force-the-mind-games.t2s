@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/f/ForceThe.tzx.zip
 force-the-mind-games.z80
---sim-load
 --tape-name "The Force.tzx"
 --tape-sum 14152ee4cc0e5639ecbc5f1ddf514337
 --start 60362

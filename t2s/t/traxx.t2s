@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/Traxx.tzx.zip
 traxx.z80
---sim-load
 --tape-name "Traxx.tzx"
 --tape-sum 79ef8f0379bbecb99af98e57e7f9ce49
 --start 1343

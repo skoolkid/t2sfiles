@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/DouglasPerkins-GhostCity.tap.zip
 douglas-perkins-ghost-city.z80
---sim-load
 --tape-name "GhostCity.tap"
 --tape-sum 668849734d719bf151f2a35a6e43b4a5
 --start 25000

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Simeon.tap.zip
 simeon.z80
---sim-load
 --tape-name "SIMEON.TAP"
 --tape-sum 65966c31b0bfec4ffbbfdcede7fe7148
 --start 50000

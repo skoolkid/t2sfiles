@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SherlockHolmes-AMatterOfEvil.tzx.zip
 sherlock-holmes-a-matter-of-evil.z80
---sim-load
 --tape-name "A Matter Of Evil.tzx"
 --tape-sum cf63694466dfa798964fb87c28780a61
 --start 1343

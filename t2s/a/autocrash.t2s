@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/Autocrash.tzx.zip
 autocrash.z80
---sim-load
 --tape-name "Autocrash.tzx"
 --tape-sum 8b535494579729a370b8df9c88ce2562
 --start 57912

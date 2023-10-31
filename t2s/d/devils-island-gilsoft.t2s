@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/DevilsIsland.tzx.zip
 devils-island-gilsoft.z80
---sim-load
 --tape-name "Devil's Island.tzx"
 --tape-sum f0e475a064f25dd0fcf0f5af1b926b9d
 --start 25000

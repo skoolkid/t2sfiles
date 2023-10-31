@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/ChessTutor.tzx.zip
 chess-tutor.z80
---sim-load
 --tape-name "Chess Tutor (Artic).tzx"
 --tape-sum 2c09323bb48840d51ea4baac2d897c38
 --start 32238

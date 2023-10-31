@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/Begin5-MultipleChoiseTester.tap.zip
 begin-5-multiple-choise-tester.z80
---sim-load
 --tape-name "BEGIN5.TAP"
 --tape-sum 5a09e3211d93b3f53728ce24ea429156
 --start 1343

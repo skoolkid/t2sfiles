@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/Barman.tzx.zip
 barman.z80
---sim-load
 --tape-name "Barman.tzx"
 --tape-sum 31bc11c5b38d16512c597fb5b49991f2
 --start 1343

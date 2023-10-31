@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/DejaVu-TheRemix.tap.zip
 deja-vu-the-remix.z80
---sim-load
 --tape-name "DEJAVU2.TAP"
 --tape-sum 24ee5a0cc3a01fe68cabde234eb11275
 --start 1343

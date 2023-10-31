@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SvemirskaPrica.tap.zip
 svemirska-prica.z80
---sim-load
 --tape-name "SVEMIRSK.TAP"
 --tape-sum db43b7342e1378f0883aa25e81ff822b
 --start 23851

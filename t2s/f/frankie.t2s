@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/f/Frankie.tap.zip
 frankie.z80
---sim-load
 --tape-name "FRANKIEP.TAP"
 --tape-sum dedd7971c0a18086ee073e5480613f9b
 --start 1343

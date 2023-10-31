@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/Cholo.tzx.zip
 cholo.z80
---sim-load
 --tape-name "Cholo.tzx"
 --tape-sum b11c6fe0d937d98a9d624c9377412be1
 --start 23466

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/n/NoughtsAndCrosses.tap.zip
 noughts-and-crosses-granada-publishing.z80
---sim-load
 --tape-name "NoughtsAndCrosses.tap"
 --tape-sum 9d35d7ed0f288883313c7be6fe7e2ff9
 --start 1343

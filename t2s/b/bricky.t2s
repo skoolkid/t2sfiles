@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/Bricky.tzx.zip
 bricky.z80
---sim-load
 --tape-name "Bricky.tzx"
 --tape-sum 52acf06b5d1ab437f545bdf1b134f0dc
 --start 55000

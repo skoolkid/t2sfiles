@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/f/Fruit2000.tzx.zip
 fruit-2000.z80
---sim-load
 --tape-name "Fruit 2000.tzx"
 --tape-sum 40d4bb0fec405437199625be882578fe
 --start 1343

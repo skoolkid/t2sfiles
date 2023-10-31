@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Powerama.zip
 powerama.z80
---sim-load
 --tape-name "Powerama.tzx"
 --tape-sum bcf165a11e6c35731bc983e5e61696bc
 --start 33025

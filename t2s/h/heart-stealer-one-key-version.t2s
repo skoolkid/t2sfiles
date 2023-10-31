@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/h/HeartStealer-OneKeyVersion.tap.zip
 heart-stealer-one-key-version.z80
---sim-load
 --tape-name "HS30.tap"
 --tape-sum a8547b19da5deaa69b8bfefced3daf8c
 --start 27050

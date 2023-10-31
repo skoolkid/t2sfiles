@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Suffrage.tap.zip
 suffrage.z80
---sim-load
 --tape-name "SUFFRAGE.TAP"
 --tape-sum c6595345298603b67dc44b54ec615657
 --start 1343

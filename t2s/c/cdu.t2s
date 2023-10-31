@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/C.D.U..tzx.zip
 cdu.z80
---sim-load
 --tape-name "CDU.tzx"
 --tape-sum 4afd5f0235baf73c6479c473f39a07b8
 --start 33237

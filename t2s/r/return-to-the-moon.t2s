@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/r/ReturnToTheMoon.tap.zip
 return-to-the-moon.z80
---sim-load
 --tape-name "RTHEMOON.TAP"
 --tape-sum 17ed5b9f685437fe6d81943995818f04
 --start 47920

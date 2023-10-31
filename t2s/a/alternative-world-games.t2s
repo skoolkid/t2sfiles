@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/AlternativeWorldGames.tzx.zip
 alternative-world-games.z80
---sim-load
 --tape-name "Alternative World Games.tzx"
 --tape-sum c138f31cfee282af29c32253354db4e1
 --start 23331

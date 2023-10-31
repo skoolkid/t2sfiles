@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/j/Jumper.tap.zip
 jumper-yrs.z80
---sim-load
 --tape-name "jumper.tap"
 --tape-sum 7a6524ed3cdba38bd188cbb4e59e64b8
 --start 1343

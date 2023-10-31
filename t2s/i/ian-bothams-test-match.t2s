@@ -1,6 +1,5 @@
 "https://tzxvault.org/Spectrum/TZX/IanBotham'sTestMatch.zip"
 ian-bothams-test-match.z80
---sim-load
 --tape-name "Ian Botham's Test Match.tzx"
 --tape-sum 03773d658a0814467cd96f7beb5c32aa
 --start 42600

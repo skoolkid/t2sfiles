@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/Drakmaze.tzx.zip
 drakmaze.z80
---sim-load
 --tape-name "Drakmaze.tzx"
 --tape-sum 3e94336fe086fd1c558174e5a6f61e26
 --start 1343

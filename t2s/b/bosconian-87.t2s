@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Bosconian87.zip
 bosconian-87.z80
---sim-load
 --tape-name "Bosconian 87.tzx"
 --tape-sum 6a67a7f3b1b5ca70bb6090b37c236da0
 --start 32765

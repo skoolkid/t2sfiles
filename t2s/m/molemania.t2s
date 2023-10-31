@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Molemania.zip
 molemania.z80
---sim-load
 --tape-name "Molemania.tzx"
 --tape-sum 96e3c3d4dbd96db0eb16932371116420
 --start 1343

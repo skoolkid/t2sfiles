@@ -1,6 +1,5 @@
 https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034346/TheWorldWarSimulatorPART2.tap.zip
 world-war-simulator-the-p2.z80
---sim-load
 --tape-name "TWWS2.tap"
 --tape-sum c31c1f87db318d3ae9b8170feffbde48
 --start 24500

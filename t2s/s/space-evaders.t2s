@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SpaceEvaders.tzx.zip
 space-evaders.z80
---sim-load
 --tape-name "Space Evaders.tzx"
 --tape-sum 9ede0372d79cdce95aba5fc7bb89aa3b
 --start 24703

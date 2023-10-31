@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/Tubewar.tap.zip
 tubewar.z80
---sim-load
 --tape-name "TUBEWARS.TAP"
 --tape-sum 97d06527851ee769c9e05d1f65fda904
 --start 1343

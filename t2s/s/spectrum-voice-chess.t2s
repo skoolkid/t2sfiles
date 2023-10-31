@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/SpectrumVoiceChess.zip
 spectrum-voice-chess.z80
---sim-load
 --tape-name "Spectrum Voice Chess.tzx"
 --tape-sum 6396dee0cf45d54d549a218f148eadd4
 --start 36864

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SaiCombat.tzx.zip
 sai-combat.z80
---sim-load
 --tape-name "Sai Combat.tzx"
 --tape-sum feefff2b8cd32084c44e171d395eed7d
 --start 65364

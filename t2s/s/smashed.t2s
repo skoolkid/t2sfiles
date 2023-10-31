@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/S.M.A.S.H.E.D..tzx.zip
 smashed.z80
---sim-load
 --tape-name "SMASHED.tzx"
 --tape-sum 88e666563bf48dd88722c5f9b97dfb30
 --start 34104

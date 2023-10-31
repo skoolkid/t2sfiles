@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/Deactivators.tzx.zip
 deactivators.z80
---sim-load
 --tape-name "Deactivators - 48k.tzx"
 --tape-sum aacb28a0700e8a76eb65b9a53774a937
 --start 64015

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/z/ZXPoker.tzx.zip
 zx-poker-compiler-software.z80
---sim-load
 --tape-name "ZX Poker.tzx"
 --tape-sum 53cfe1456013711846d14307c108583d
 --start 32768

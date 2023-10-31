@@ -1,7 +1,6 @@
 ; Contributed by Bedazzle
 https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0002610/JetManSilly.tzx.zip
 jet-man-silly.z80
---sim-load
 --tape-name "JetManSilly.tzx"
 --tape-sum 522a624cf8fe0f4d180237db1bb28c2f
 --start 24200

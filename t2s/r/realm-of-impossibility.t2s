@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/r/RealmOfImpossibility.tzx.zip
 realm-of-impossibility.z80
---sim-load
 --tape-name "Realm Of Impossibility - Side 1.tzx"
 --tape-sum 7a2bcebee59272e70846ff1526565a19
 --start 34000

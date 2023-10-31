@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/r/Ruletka.tzx.zip
 ruletka.z80
---sim-load
 --tape-name "Ruletka.tzx"
 --tape-sum c74a31b82f9891cdb7e140414324c096
 --start 1343

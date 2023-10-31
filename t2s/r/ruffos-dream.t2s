@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/r/RuffosDream.tap.zip
 ruffos-dream.z80
---sim-load
 --tape-name "Ruffo's Dream (MH 153).TAP"
 --tape-sum d753273b9ee78cac90e59b65bf6be739
 --start 62000

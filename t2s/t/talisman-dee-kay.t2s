@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/Talisman.tzx.zip
 talisman-dee-kay.z80
---sim-load
 --tape-name "Talisman (Dee-Kay).tzx"
 --tape-sum 9113741643b985463fd91b7127d9a4d8
 --start 1343

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/r/Rasputin48.tzx.zip
 rasputin.z80
---sim-load
 --tape-name "Rasputin - 48k.tzx"
 --tape-sum a49e2c4b715394d4a7461de1b224d3fc
 --start 23344

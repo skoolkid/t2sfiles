@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Skandinavie.tzx.zip
 skandinavie.z80
---sim-load
 --tape-name "skandinavie.tzx"
 --tape-sum bd74d95a99a75cd47096fce0eba72aed
 --start 1343

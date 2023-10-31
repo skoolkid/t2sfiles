@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SpaceRescue.tap.zip
 space-rescue-tyler-isaaman.z80
---sim-load
 --tape-name "SpaceRescue.tap"
 --tape-sum 9e32f00e3a959628f6b0a2c0590ea55f
 --start 1343

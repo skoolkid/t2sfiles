@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/InvasionForce.zip
 invasion-force-artic-computing.z80
---sim-load
 --tape-name "Invasion Force.tzx"
 --tape-sum b910a4a817e607af447124b0e3ff9850
 --start 23762

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/MoleculeMan.tzx.zip
 molecule-man.z80
---sim-load
 --tape-name "Molecule Man.tzx"
 --tape-sum 7a00bb53c0d3f9d02f2c02c585d84a08
 --start 23309

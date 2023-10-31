@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/Poklad.tap.zip
 poklad.z80
---sim-load
 --tape-name "POKLAD.TAP"
 --tape-sum 2e1ef1d7e515a4b3a4c64b9ebdc1191b
 --start 1343

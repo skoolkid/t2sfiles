@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/Dingo.tzx.zip
 dingo.z80
---sim-load
 --tape-name "Dingo.tzx"
 --tape-sum 38e3dfa557188a6901a2ae885d6ff371
 --start 32768

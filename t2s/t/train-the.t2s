@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/TheTrain.zip
 train-the.z80
---sim-load
 --tape-name "The Train.tzx"
 --tape-sum ddd0aeefabe3eb89decd8edce120d734
 --start 24578

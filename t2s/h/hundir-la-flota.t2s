@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/h/HundirLaFlota.tzx.zip
 hundir-la-flota.z80
---sim-load
 --tape-name "HundirLaFlota.tzx"
 --tape-sum b6f3eb50c1df4fd2053c5c37fae5b4b4
 --start 1343

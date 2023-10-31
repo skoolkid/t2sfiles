@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/Anaconda.tap.zip
 anaconda-simon-gleissner.z80
---sim-load
 --tape-name "Anaconda.tap"
 --tape-sum e8ab6e1b5ee1df79a32b505dbc265ffb
 --start 1343

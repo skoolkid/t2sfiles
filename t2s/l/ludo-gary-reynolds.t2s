@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/l/Ludo.tap.zip
 ludo-gary-reynolds.z80
---sim-load
 --tape-name "LUDO.TAP"
 --tape-sum 4d6491eb105b0628dfdb88e475cf5bb7
 --start 23792

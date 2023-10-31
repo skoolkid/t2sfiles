@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/w/WarInMiddleEarth.tzx.zip
 war-in-middle-earth.z80
---sim-load
 --tape-name "War In Middle Earth.tzx"
 --tape-sum 2f6e08150528bf307f116d2aa4c4ac4e
 --start 24064

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/n/Nauta.tap.zip
 nauta.z80
---sim-load
 --tape-name "Nauta.tap"
 --tape-sum 9b25e16f4762c876f0188a335701f7ee
 --start 1343

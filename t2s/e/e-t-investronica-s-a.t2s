@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/e/E.T.(InvestronicaS.A.).tap.zip
 e-t-investronica-s-a.z80
---sim-load
 --tape-name "E.T. (Investronica).tap"
 --tape-sum 6f79567fc8b3c329cf8ff81ee170e347
 --start 1343

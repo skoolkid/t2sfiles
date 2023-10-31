@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Frenzy.zip
 frenzy.z80
---sim-load
 --tape-name "Frenzy.tzx"
 --tape-sum 88c15f4f73a27af75a6dd5e49d9c77de
 --start 31583

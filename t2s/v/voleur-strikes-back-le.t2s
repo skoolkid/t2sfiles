@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/v/VoleurStrikesBackLe.tzx.zip
 voleur-strikes-back-le.z80
---sim-load
 --tape-name "LeVoleurStrikesBack.tzx"
 --tape-sum 046870132920f6ef32475a8fca9d38f9
 --start 52001

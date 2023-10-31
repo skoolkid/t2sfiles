@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/g/GhostCastle_2.tap.zip
 ghost-castle-ready-soft.z80
---sim-load
 --tape-name "CASTLE.TAP"
 --tape-sum c99d0e053fd864b1406d9580fb5e49a2
 --start 64580

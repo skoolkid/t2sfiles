@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Strike.zip
 strike.z80
---sim-load
 --tape-name "Strike.tzx"
 --tape-sum f2e05a39f02f8c3173b1e82a1aa8bc4e
 --start 32765

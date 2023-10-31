@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/o/Oops.tzx.zip
 oops.z80
---sim-load
 --tape-name "Oops!.tzx"
 --tape-sum 572e1bdee4a22e8abc0c735cd0551689
 --start 24573

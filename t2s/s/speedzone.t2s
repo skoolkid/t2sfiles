@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SpeedZone.tzx.zip
 speedzone.z80
---sim-load
 --tape-name "Speedzone.tzx"
 --tape-sum ddac829d6afeca0e8fc03fa5f601f269
 --start 32768

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/Masterminde.tap.zip
 masterminde.z80
---sim-load
 --tape-name "MASTER_2.TAP"
 --tape-sum 2c4668692905ad67bea991ac97c39d3b
 --start 1343

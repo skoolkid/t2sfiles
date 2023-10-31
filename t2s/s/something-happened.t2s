@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SomethingHappened.tzx.zip
 something-happened.z80
---sim-load
 --tape-name "something1.tzx"
 --tape-sum aa6d8a6047ad5d74a776b87be1aa3ce5
 --start 24200

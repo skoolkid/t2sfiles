@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/k/Kontrabant2.tzx.zip
 kontrabant-2.z80
---sim-load
 --tape-name "Kontrabant 2.tzx"
 --tape-sum b2cb96287cb651efdfe9c2087df5d6aa
 --start 65500

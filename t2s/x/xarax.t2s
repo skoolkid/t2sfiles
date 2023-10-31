@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/x/Xarax.tzx.zip
 xarax.z80
---sim-load
 --tape-name "Xarax.tzx"
 --tape-sum 1f22abe90e21f5bbcc0a623653b9749f
 --start 23419

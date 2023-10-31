@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/StarWarrior.tzx.zip
 star-warrior.z80
---sim-load
 --tape-name "Star Warrior.tzx"
 --tape-sum d5247c47ab29b1acbdd316dc52ad7b2f
 --start 39680

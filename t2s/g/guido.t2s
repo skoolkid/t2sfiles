@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/g/Guido.tzx.zip
 guido.z80
---sim-load
 --tape-name "Guido.tzx"
 --tape-sum 4237031e65bbd2ba776698d39c5c7cd1
 --start 40000

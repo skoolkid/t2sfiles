@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/BlackWoodThe.tap.zip
 black-wood-the.z80
---sim-load
 --tape-name "The Black Wood.tap"
 --tape-sum fdb3ea256a5cac3e0f196ee5fea628ed
 --start 1343

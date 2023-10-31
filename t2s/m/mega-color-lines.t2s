@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/MegaColorLines.tzx.zip
 mega-color-lines.z80
---sim-load
 --tape-name "ColorLines.tzx"
 --tape-sum 33e350b20218914d88a92666c97898ef
 --start 44684

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/123/3-DMazeman.tzx.zip
 3-d-mazeman.z80
---sim-load
 --tape-name "3D Mazeman.tzx"
 --tape-sum 5291d0a98b2f67f7288d3c74b40f7d93
 --start 1343

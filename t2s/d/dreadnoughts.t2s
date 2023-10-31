@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/Dreadnoughts.tzx.zip
 dreadnoughts.z80
---sim-load
 --tape-name "Dreadnoughts.tzx"
 --tape-sum 2398568c440e9564b98b5a4ffac9916b
 --start 1343

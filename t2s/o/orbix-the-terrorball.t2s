@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/OrbixTheTerrorball.zip
 orbix-the-terrorball.z80
---sim-load
 --tape-name "Orbix The Terrorball.tzx"
 --tape-sum c14b242a7b7210b304ca13559b3ad70a
 --start 65018

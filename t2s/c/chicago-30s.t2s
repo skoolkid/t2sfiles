@@ -1,6 +1,5 @@
 "https://tzxvault.org/Spectrum/TZX/Chicago30's(USGold).zip"
 chicago-30s.z80
---sim-load
 --tape-name "Chicago 30's (US Gold).tzx"
 --tape-sum 40584cd1fbd5ace78435cdf235097a7f
 --start 41504

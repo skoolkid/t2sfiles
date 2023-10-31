@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/Checkers.tap.zip
 checkers.z80
---sim-load
 --tape-name "checkers.tap"
 --tape-sum 86f88de2958151b97435d8ee0256127c
 --start 24100

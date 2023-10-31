@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/SuperSports.zip
 super-sports.z80
---sim-load
 --tape-name "Super Sports.tzx"
 --tape-sum c17ce1f9a094a91c38bd19723d97caa4
 --start 23817

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Sheepdog_2.tzx.zip
 sheepdog-neil-ghani.z80
---sim-load
 --tape-name "Sheepdog.tzx"
 --tape-sum 25901c599ffa00ee14328917d16ef616
 --start 1343

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/Pac-Chian.tap.zip
 pac-chian.z80
---sim-load
 --tape-name "Pac-chian.tap"
 --tape-sum 7b6075956221d899c272032f8960fd64
 --start 1343

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/o/OmegaOne.tzx.zip
 omega-one.z80
---sim-load
 --tape-name "Omega 1.tzx"
 --tape-sum 5628d2c2324a3ee9ff102bf99f52caf5
 --start 51142

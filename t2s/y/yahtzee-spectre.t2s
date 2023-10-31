@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/y/Yahtzee_3.tzx.zip
 yahtzee-spectre.z80
---sim-load
 --tape-name "Yahtzee (Spectre).tzx"
 --tape-sum 78a83ed7f1932802e8b3c8a982853257
 --start 1343

@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Spitfire.zip
 spitfire-side-2.z80
---sim-load
 --tape-name "Spitfire - Side 2.tzx"
 --tape-sum 83606b55c1214b8f4d066e85295c1f08
 --start 64947

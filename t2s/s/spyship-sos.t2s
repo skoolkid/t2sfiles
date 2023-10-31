@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/SpyshipSOS.zip
 spyship-sos.z80
---sim-load
 --tape-name "Spyship SOS.tzx"
 --tape-sum 33337c50ba31f4f92b4b9fe227021918
 --start 23762

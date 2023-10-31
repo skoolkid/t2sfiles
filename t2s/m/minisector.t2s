@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/MiniSector.tzx.zip
 minisector.z80
---sim-load
 --tape-name "Mini Sector.tzx"
 --tape-sum 4b7768ec09a2427c08a2aafb0489fa92
 --start 1343

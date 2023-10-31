@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/i/IslandOfChaos.tzx.zip
 island-of-chaos.z80
---sim-load
 --tape-name "Island Of Chaos.tzx"
 --tape-sum 8b11b3a7c8b3856ed163cd4dc6659333
 --start 25063

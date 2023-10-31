@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/Detornator.tap.zip
 detornator.z80
---sim-load
 --tape-name "DETONATO.TAP"
 --tape-sum 81386676a6675e9f51e314a8b3912679
 --start 24833

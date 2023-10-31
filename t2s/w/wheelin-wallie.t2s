@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/w/WheelinWallie.tzx.zip
 wheelin-wallie.z80
---sim-load
 --tape-name "Wheelin Wallie.tzx"
 --tape-sum 8a279898bb5061eb7deb74bac63ca187
 --start 30720

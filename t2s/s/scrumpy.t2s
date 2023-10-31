@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Scrumpy.tzx.zip
 scrumpy.z80
---sim-load
 --tape-name "Scrumpy.tzx"
 --tape-sum ecec473d74b4d09a88724ff97619268f
 --start 25500

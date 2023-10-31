@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/g/Goldwood.tzx.zip
 goldwood.z80
---sim-load
 --tape-name "Goldwood.tzx"
 --tape-sum fa8530ff20167658818dde1f44b6702d
 --start 25063

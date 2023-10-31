@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/OlympicChallenge.zip
 olympic-challenge.z80
---sim-load
 --tape-name "Olympic Challenge.tzx"
 --tape-sum 1faf54b29e6173562c94e05a5e29476e
 --start 1343

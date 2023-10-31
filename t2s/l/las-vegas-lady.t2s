@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/l/LasVegasLady.tzx.zip
 las-vegas-lady.z80
---sim-load
 --tape-name "Las Vegas Lady.tzx"
 --tape-sum 1ed0b42482da4306d44321c021b33299
 --start 1343

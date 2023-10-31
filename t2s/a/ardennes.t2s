@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/Ardennes.tzx.zip
 ardennes.z80
---sim-load
 --tape-name "Ardennes.tzx"
 --tape-sum fee65a46eb14b1022482beb36a04dbb7
 --start 1343

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/Tenis.tzx.zip
 tenis.z80
---sim-load
 --tape-name "Tenis.tzx"
 --tape-sum d77883309da102eb93972f2e6846d6b0
 --start 1343

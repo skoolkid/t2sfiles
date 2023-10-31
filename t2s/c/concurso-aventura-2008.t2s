@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/ConcursoAventura2008.tap.zip
 concurso-aventura-2008.z80
---sim-load
 --tape-name "Concurso Aventura 2008.tap"
 --tape-sum 79cd69e25013fa3406d1b6a59133b20f
 --start 24317

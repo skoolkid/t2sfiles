@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/MainBlowThe.tap.zip
 main-blow-the.z80
---sim-load
 --tape-name "MAINBL_1.TAP"
 --tape-sum 65695e00894ff91392d6946f7489e32a
 --start 24500

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/g/Games-SummerEditionThe.tzx.zip
 games-summer-edition-the.z80
---sim-load
 --tape-name "The Games Summer Edition - Side A.tzx"
 --tape-sum 1802195f2b9dbe5e51310539b6b1b5b0
 --start 62509

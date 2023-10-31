@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/ChallengeThe.tzx.zip
 challenge-the.z80
---sim-load
 --tape-name "The Challenge.tzx"
 --tape-sum 26283acdf90d9a02c1e1387d2afdb199
 --start 36371

@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Spidoid.zip
 spidoid-side-1.z80
---sim-load
 --tape-name "Spidoid - Side 1.tzx"
 --tape-sum db26b0da032c471816eecf675ce15b9e
 --start 1343

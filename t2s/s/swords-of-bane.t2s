@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SwordsOfBane.tzx.zip
 swords-of-bane.z80
---sim-load
 --tape-name "Swords Of Bane - 48k.tzx"
 --tape-sum 19e152224178a216be53bbc57c670aa1
 --start 40000

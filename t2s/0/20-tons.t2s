@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/123/20Tons.tap.zip
 20-tons.z80
---sim-load
 --tape-name "20TONS.TAP"
 --tape-sum 69ad865b4193659a0bf3a51be66bb052
 --start 1343

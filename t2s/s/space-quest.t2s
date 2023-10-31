@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SpaceQuest.tap.zip
 space-quest.z80
---sim-load
 --tape-name "SPACQUST.TAP"
 --tape-sum 699237f0c450e8bbd7c3c18c896aa4e7
 --start 1343

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/z/ZutAlors.tzx.zip
 zut-alors.z80
---sim-load
 --tape-name "Zut Alors!.tzx"
 --tape-sum 71cb7e5729db07935187e0550d5efe75
 --start 25000

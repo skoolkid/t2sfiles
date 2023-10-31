@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SOKO-BAN.tzx.zip
 soko-ban.z80
---sim-load
 --tape-name "SOKO-BAN (ZX-SOFT) BR.tzx"
 --tape-sum 2b4e45b6030e6c96a077e33d9cc23adb
 --start 1343

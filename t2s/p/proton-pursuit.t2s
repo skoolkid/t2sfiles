@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/ProtonPursuit.tap.zip
 proton-pursuit.z80
---sim-load
 --tape-name "ProtonPursuit.tap"
 --tape-sum f7a97f57c4deea9b3060e41004a4b2ba
 --start 1343

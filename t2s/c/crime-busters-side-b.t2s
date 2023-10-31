@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/CrimeBusters.tzx.zip
 crime-busters-side-b.z80
---sim-load
 --tape-name "Crime Busters - Side B.tzx"
 --tape-sum 6440faae86d0f9eac0c8b60d0b6c7ded
 --start 25500

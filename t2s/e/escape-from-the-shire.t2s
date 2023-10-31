@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/EscapeFromTheShire.zip
 escape-from-the-shire.z80
---sim-load
 --tape-name "Escape From The Shire.tzx"
 --tape-sum 0b5daea5af7d99fab50ef6f4d4115d00
 --start 25000

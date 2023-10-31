@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/Titanic.tzx.zip
 titanic-paul-hill.z80
---sim-load
 --tape-name "Titanic (R & R Software).tzx"
 --tape-sum bc6150853b96772b96e480554ac47a81
 --start 1343

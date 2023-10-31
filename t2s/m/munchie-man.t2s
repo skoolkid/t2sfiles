@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/MunchieMan.tap.zip
 munchie-man.z80
---sim-load
 --tape-name "MunchieMan.tap"
 --tape-sum c07bfdeebba09ac0c60b3d235f7a5eaf
 --start 1343

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/Bombarder_2.tzx.zip
 bombarder-kamasoft.z80
---sim-load
 --tape-name "bombarder.tzx"
 --tape-sum 872f188bc7885b582bf82f221e09f794
 --start 1343

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/ArmageddonManThe.tzx.zip
 armageddon-man-the.z80
---sim-load
 --tape-name "The Armageddon Man - Side 1.tzx"
 --tape-sum 7d011190c0979f00c4d4cde525309fa7
 --start 64305

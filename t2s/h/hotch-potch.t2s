@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/HotchPotch.zip
 hotch-potch.z80
---sim-load
 --tape-name "Hotch Potch.tzx"
 --tape-sum 8f150240ed526f1e236aafb7deeeec84
 --start 28285

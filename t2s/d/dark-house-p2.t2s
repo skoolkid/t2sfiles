@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/DarkHouse.tap.zip
 dark-house-p2.z80
---sim-load
 --tape-name "Darkhouse - Part 2.tap"
 --tape-sum e3929a5a0949dffdeb2ccd46059627eb
 --start 34905

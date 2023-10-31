@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/i/InvaderCube.tap.zip
 invader-cube.z80
---sim-load
 --tape-name "3DOXO.TAP"
 --tape-sum 08e442b3d55bd05b75702cf5d84a5b41
 --start 1343

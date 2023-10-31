@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/Titanic(Kixx).tzx.zip
 titanic-kixx.z80
---sim-load
 --tape-name "Titanic (Kixx).tzx"
 --tape-sum a249636d6806e5af7ad2d1eda5e025f5
 --start 64500

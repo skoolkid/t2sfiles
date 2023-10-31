@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/TheEyeOfBain.zip
 eye-of-bain-the.z80
---sim-load
 --tape-name "The Eye Of Bain.tzx"
 --tape-sum 12003f0db5e73d0186ba0d59899a047c
 --start 23351

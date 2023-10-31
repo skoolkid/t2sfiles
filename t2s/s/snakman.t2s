@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Snakman.tap.zip
 snakman.z80
---sim-load
 --tape-name "SNAKMAN.TAP"
 --tape-sum b7f6aca13a93d43b703d3f2979df8670
 --start 1343

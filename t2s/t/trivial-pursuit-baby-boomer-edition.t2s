@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/TrivialPursuit-BabyBoomerEdition.tzx.zip
 trivial-pursuit-baby-boomer-edition.z80
---sim-load
 --tape-name "Trivial Pursuit - Baby Boomer Edition.tzx"
 --tape-sum 32e30072a0e85f56d38ade37f7febbfb
 --start 65265

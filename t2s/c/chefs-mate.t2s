@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/ChefsMate.tzx.zip
 chefs-mate.z80
---sim-load
 --tape-name "Chefs Mate.tzx"
 --tape-sum 75786935e32e32dd5c24547454bfea1c
 --start 1343

@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/ThePlanets.zip
 planets-the-side-2.z80
---sim-load
 --tape-name "The Planets - Side 2.tzx"
 --tape-sum a9e313c7e2e5f83ffab0ba160302beea
 --start 46900

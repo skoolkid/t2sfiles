@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Starfire.tzx.zip
 starfire.z80
---sim-load
 --tape-name "Starfire.tzx"
 --tape-sum ec8221ed6da6e5d5d9e902c9e1133d91
 --start 1343

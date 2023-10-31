@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/k/KolkoIKrzyzyk.tzx.zip
 kolko-i-krzyzyk.z80
---sim-load
 --tape-name "KolkoIKrzyzyk.tzx"
 --tape-sum 6ec9c8e27c9a393734c64ffb68e8f18b
 --start 47000

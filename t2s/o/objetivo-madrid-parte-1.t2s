@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/o/Objetivo-Madrid-Parte1.tap.zip
 objetivo-madrid-parte-1.z80
---sim-load
 --tape-name "Objetivo Madrid - Parte 1.tap"
 --tape-sum f7ef6b47ebb210077b8c13217301ec0d
 --start 34104

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/Time-Gate.tzx.zip
 time-gate.z80
---sim-load
 --tape-name "Time-Gate.tzx"
 --tape-sum 8b49f3e1d8facb40b19f98a72b1f80e6
 --start 1343

@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/OrbitOfDoom.zip
 orbit-of-doom.z80
---sim-load
 --tape-name "Orbit Of Doom.tzx"
 --tape-sum 870453d5f858c27de37eebea8d661af0
 --start 25000

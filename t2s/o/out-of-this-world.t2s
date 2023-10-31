@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/o/OutOfThisWorld.tzx.zip
 out-of-this-world.z80
---sim-load
 --tape-name "Out Of This World - Side A.tzx"
 --tape-sum 726f05aaebd65e7df037ef0fef7dec21
 --start 65248

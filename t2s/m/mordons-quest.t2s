@@ -1,6 +1,5 @@
 "https://tzxvault.org/Spectrum/TZX/Mordon'sQuest.zip"
 mordons-quest.z80
---sim-load
 --tape-name "Mordon's Quest.tzx"
 --tape-sum 09f1617d463ad014a32d3c09a7b02148
 --start 61504

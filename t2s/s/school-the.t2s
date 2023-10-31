@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SchoolThe.tzx.zip
 school-the.z80
---sim-load
 --tape-name "the-school.tzx"
 --tape-sum 16565a9763da1d0c5fd81c88e3e0684b
 --start 65032

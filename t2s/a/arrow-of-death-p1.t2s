@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/ArrowOfDeathPart1.tzx.zip
 arrow-of-death-p1.z80
---sim-load
 --tape-name "Arrow Of Death Part I.tzx"
 --tape-sum d9330019e286cf342d55e647f7d4b736
 --start 24576

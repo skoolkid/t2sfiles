@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/BennyBunny-TheHauntedBelltower.tap.zip
 benny-bunny-the-haunted-belltower.z80
---sim-load
 --tape-name "BennyBunnyHauntedBelltower.tap"
 --tape-sum 92020e763c6bc0c26e55a792cf31fef5
 --start 1343

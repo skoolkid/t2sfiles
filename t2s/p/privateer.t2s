@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/Privateer.tzx.zip
 privateer.z80
---sim-load
 --tape-name "Privateer.tzx"
 --tape-sum 99c2a57ee3913c5b145772c124f21161
 --start 1343

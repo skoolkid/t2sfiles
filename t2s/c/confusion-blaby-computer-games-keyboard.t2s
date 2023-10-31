@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Confusion.zip
 confusion-blaby-computer-games-keyboard.z80
---sim-load
 --tape-name "Confusion - Keyboard.tzx"
 --tape-sum 5f24d010bf55808eb0a21e51406f10f0
 --start 53001

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/o/OverSide3D.tzx.zip
 overside-3d.z80
---sim-load
 --tape-name "Overside 3D.tzx"
 --tape-sum 6d3e393704b5fa331c18b3974cf501b1
 --start 43551

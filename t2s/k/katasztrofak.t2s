@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/Catastrophes_2.tzx.zip
 katasztrofak.z80
---sim-load
 --tape-name "Katasztrofak.tzx"
 --tape-sum 6fd54bc3b06e17ef891f0472a3c419ac
 --start 41920

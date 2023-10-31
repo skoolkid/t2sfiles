@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Pi-RSquared.zip
 pi-r-squared.z80
---sim-load
 --tape-name "Pi-R Squared.tzx"
 --tape-sum 6764a527bdbc61b85894d9af5c3f4fe8
 --start 32765

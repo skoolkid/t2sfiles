@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/DeadByDawn.tap.zip
 dead-by-dawn.z80
---sim-load
 --tape-name "DeadByDawn.tap"
 --tape-sum 7c1805fe11a83fdd5adcd2f2d54d99e3
 --start 24154

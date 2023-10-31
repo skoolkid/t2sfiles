@@ -1,6 +1,5 @@
 "https://tzxvault.org/Spectrum/TZX/Amity'sVile.zip"
 amitys-vile.z80
---sim-load
 --tape-name "Amity's Vile.tzx"
 --tape-sum 732b38b73115b03bb12d8e36cb9136b4
 --start 34104

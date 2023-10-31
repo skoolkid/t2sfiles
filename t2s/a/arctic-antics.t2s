@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/ArcticAntics.tzx.zip
 arctic-antics.z80
---sim-load
 --tape-name "Arctic Antics.tzx"
 --tape-sum c56ed6b78f1454614156a21a0a625165
 --start 41191

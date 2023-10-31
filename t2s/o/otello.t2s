@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/o/Otello.tap.zip
 otello.z80
---sim-load
 --tape-name "Otello.tap"
 --tape-sum cab0d71fad7c30d3c3f9e0a9f93dde0e
 --start 41000

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/r/RugbyCoach.tzx.zip
 rugby-coach.z80
---sim-load
 --tape-name "Rugby Coach.tzx"
 --tape-sum 7fba388aee3b7ac1d52cb94486a200b7
 --start 1343

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/ComputerBrag.tzx.zip
 computer-brag.z80
---sim-load
 --tape-name "Brag.tzx"
 --tape-sum d59480f87633074464e1880e183271fe
 --start 1343

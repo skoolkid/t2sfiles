@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/SuperMutt.zip
 super-mutt.z80
---sim-load
 --tape-name "Super Mutt.tzx"
 --tape-sum 3af886fa08aa9883d46550da2fc7f7a4
 --start 23805

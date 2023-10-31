@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SatansPendulum.tzx.zip
 satans-pendulum-keyboard.z80
---sim-load
 --tape-name "Satan's Pendulum - Keyboard.tzx"
 --tape-sum 5ea8968f78af1971dad57661153e2469
 --start 1343

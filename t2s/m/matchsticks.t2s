@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/Matchsticks.tzx.zip
 matchsticks.z80
---sim-load
 --tape-name "Matchsticks.tzx"
 --tape-sum 13a9a0dbd2858eae28b562fa233d5da4
 --start 1343

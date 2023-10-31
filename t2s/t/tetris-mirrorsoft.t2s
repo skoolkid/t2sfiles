@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/Tetris.tzx.zip
 tetris-mirrorsoft.z80
---sim-load
 --tape-name "Tetris - 48k.tzx"
 --tape-sum b209e5dee2853168768ea5620545c89f
 --start 65381

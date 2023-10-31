@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/PsychoHopper.tzx.zip
 psycho-hopper.z80
---sim-load
 --tape-name "Psycho Hopper.tzx"
 --tape-sum 96ef2b334c8a0b55912eeb4c652d20b5
 --start 23854

@@ -1,7 +1,6 @@
 ; Contributed by Bedazzle
 https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0002916/Lodicky.tzx.zip
 lodicky.z80
---sim-load
 --tape-name "Lodicky.tzx"
 --tape-sum 9ac09d1c793d98322e1b04dd57ca37fd
 --start 1343

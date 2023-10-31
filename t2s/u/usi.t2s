@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/u/Usi.tzx.zip
 usi.z80
---sim-load
 --tape-name "Usi.tzx"
 --tape-sum 6e68e95d4004f680f7c73b8a7c351353
 --start 1343

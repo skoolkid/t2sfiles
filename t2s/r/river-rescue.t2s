@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/RiverRescue.zip
 river-rescue.z80
---sim-load
 --tape-name "River Rescue.tzx"
 --tape-sum 418e653a4671cfa07e2d39a215031f40
 --start 32768

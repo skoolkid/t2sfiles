@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Swordsman.tap.zip
 swordsman.z80
---sim-load
 --tape-name "Swordsman.tap"
 --tape-sum 961bda31b82a1dfe529993e3566f69c7
 --start 1343

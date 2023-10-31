@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/JewelOfPower.zip
 jewel-of-power.z80
---sim-load
 --tape-name "Jewel Of Power.tzx"
 --tape-sum ff7e001f2fd688180df32b31aa167064
 --start 1343

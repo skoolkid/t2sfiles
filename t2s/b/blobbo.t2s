@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Blobbo.zip
 blobbo.z80
---sim-load
 --tape-name "Blobbo.tzx"
 --tape-sum 7fc1a36e26fd39149e858ded9cd023d8
 --start 26851

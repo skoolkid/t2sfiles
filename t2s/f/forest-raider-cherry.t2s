@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/f/ForestRaiderCherry.tap.zip
 forest-raider-cherry.z80
---sim-load
 --tape-name "frcherry.tap"
 --tape-sum 1a7e662a2a467e9c12f99730bba6951b
 --start 25425

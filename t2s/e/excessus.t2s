@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/e/Excessus.tap.zip
 excessus.z80
---sim-load
 --tape-name "Excessus.tap"
 --tape-sum c56f8c07b90a9f996dd0fbaac9c58f20
 --start 29041

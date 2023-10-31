@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Thunderhawks.zip
 thunderhawks.z80
---sim-load
 --tape-name "Thunderhawks.tzx"
 --tape-sum 654a1b9333955f60b752c184d2ae890e
 --start 51500

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/TombOfDraculaThe.tzx.zip
 tomb-of-dracula-the.z80
---sim-load
 --tape-name "The Tomb Of Dracula.tzx"
 --tape-sum 537b50419932077452f80e3416673fd5
 --start 1343

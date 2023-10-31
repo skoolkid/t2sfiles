@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/BouncingBalls.tap.zip
 bouncing-balls.z80
---sim-load
 --tape-name "bb.tap"
 --tape-sum b4474161e9da00791eb05e37fbe5f4af
 --start 1343

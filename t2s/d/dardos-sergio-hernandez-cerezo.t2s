@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/Dardos(2).tzx.zip
 dardos-sergio-hernandez-cerezo.z80
---sim-load
 --tape-name "Dardos.tzx"
 --tape-sum 26673e690da8055bd2b1a118edbf8d00
 --start 1343

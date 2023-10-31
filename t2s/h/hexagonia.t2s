@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/h/Hexagonia.tzx.zip
 hexagonia.z80
---sim-load
 --tape-name "HEXAGONIA.TZX"
 --tape-sum fcc9a09e171f22b32978567500de7c09
 --start 1343

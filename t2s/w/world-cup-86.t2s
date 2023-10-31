@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/w/WorldCup86.tzx.zip
 world-cup-86.z80
---sim-load
 --tape-name "World Cup '86.tzx"
 --tape-sum c3d62c615b561941c200b6ad4a39eb85
 --start 1343

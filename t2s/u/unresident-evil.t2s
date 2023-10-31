@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/u/UnresidentEvil.tap.zip
 unresident-evil.z80
---sim-load
 --tape-name "Unresident Evil.TAP"
 --tape-sum 4e3602b3a1b6c0029a1cc79a6cdbc2de
 --start 1343

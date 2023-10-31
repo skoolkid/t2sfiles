@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Sokoban_2.tap.zip
 sokoban-vts.z80
---sim-load
 --tape-name "Sokoban.tap"
 --tape-sum e1b30064db82901b6c5cc8631cf5af32
 --start 1343

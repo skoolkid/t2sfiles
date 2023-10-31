@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/SuperSnails.zip
 super-snails.z80
---sim-load
 --tape-name "Super Snails.tzx"
 --tape-sum 8c8815b5801ba37c3a0194c0556bf52e
 --start 26111

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/z/ZXBerserkV1.tzx.zip
 zx-berserk-v1.z80
---sim-load
 --tape-name "ZX Berserk - Release 1.tzx"
 --tape-sum a7ca84b2e40deb4ff6570b10961a95ea
 --start 1343

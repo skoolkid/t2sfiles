@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/Paladini(1).tzx.zip
 paladini-load-n-run.z80
---sim-load
 --tape-name "Paladini.tzx"
 --tape-sum 3ecf33cf2c0c8d86f9b17ec8c8f414e8
 --start 1343

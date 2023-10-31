@@ -1,6 +1,5 @@
 "https://tzxvault.org/Spectrum/TZX/Hob'sHoard.zip"
 hobs-hoard-side-b.z80
---sim-load
 --tape-name "Hob's Hoard - Side B.tzx"
 --tape-sum 21b1988f01217fc3f75fdf1f8eb63874
 --start 23518

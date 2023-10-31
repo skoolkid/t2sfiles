@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/f/FootballGlory.tzx.zip
 football-glory.z80
---sim-load
 --tape-name "Football Glory.tzx"
 --tape-sum 5d406c25c78219f7895566ed4006cf16
 --start 1343

@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/BeakyAndTheEggSnatchers.zip
 beaky-and-the-egg-snatchers.z80
---sim-load
 --tape-name "Beaky And The Egg Snatchers.tzx"
 --tape-sum 1f5cf21762b8124982a21bc0f2d78ac4
 --start 41253

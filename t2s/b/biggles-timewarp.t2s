@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/Biggles.tzx.zip
 biggles-timewarp.z80
---sim-load
 --tape-name "Biggles - Timewarp.tzx"
 --tape-sum b2b1b5bce7acfcae7649cb90f8b0bc7a
 --start 24001

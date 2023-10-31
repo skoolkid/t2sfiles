@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SiegeOnTheVolga.tzx.zip
 siege-on-the-volga.z80
---sim-load
 --tape-name "Siege On The Volga.tzx"
 --tape-sum f841d264722e1e1109db7175a5adc1c5
 --start 1343

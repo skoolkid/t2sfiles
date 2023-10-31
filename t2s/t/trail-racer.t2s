@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/TrailRacer.zip
 trail-racer.z80
---sim-load
 --tape-name "Trail Racer.tzx"
 --tape-sum 1e266e54d9e47ef94bba30bacbf3cd20
 --start 42670

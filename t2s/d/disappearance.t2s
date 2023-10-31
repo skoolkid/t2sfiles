@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/Disappearance(SindicatodelSoftware).tap.zip
 disappearance.z80
---sim-load
 --tape-name "Disappearance.tap"
 --tape-sum 7fe26f9b23126682585272b0c4d1ea0d
 --start 34793

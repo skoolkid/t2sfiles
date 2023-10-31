@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SHUTTLEBUG.tap.zip
 shuttlebug.z80
---sim-load
 --tape-name "SHUTTLEBUG.tap"
 --tape-sum 5be033651c1aed2fdf7773ba55725f29
 --start 29800

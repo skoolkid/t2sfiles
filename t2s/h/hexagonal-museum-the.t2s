@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/h/HexagonalMuseumThe.tap.zip
 hexagonal-museum-the.z80
---sim-load
 --tape-name "HEXAGODA.TAP"
 --tape-sum 9afd26977539558d85e77120c76f6555
 --start 25000

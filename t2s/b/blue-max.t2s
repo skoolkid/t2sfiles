@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/BlueMax.tzx.zip
 blue-max.z80
---sim-load
 --tape-name "Blue Max.tzx"
 --tape-sum 409158ce5acde7dd83f67009d925bf8a
 --start 63955

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/Blaster.tap.zip
 blaster-ian-m-collier.z80
---sim-load
 --tape-name "BLASTER.TAP"
 --tape-sum 2f31a7dfa249a61d35acf9672097e431
 --start 1343

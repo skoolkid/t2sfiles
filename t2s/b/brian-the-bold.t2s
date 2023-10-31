@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/BrianTheBold.tzx.zip
 brian-the-bold.z80
---sim-load
 --tape-name "Brian The Bold.tzx"
 --tape-sum 5204129df23c939ccd1f74a08ca5adb4
 --start 25063

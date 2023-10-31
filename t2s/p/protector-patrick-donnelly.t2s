@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/Protector_3.tap.zip
 protector-patrick-donnelly.z80
---sim-load
 --tape-name "PROTECTO.TAP"
 --tape-sum 663a6bf7ab12f41984f9e4f558d6a0c9
 --start 1343

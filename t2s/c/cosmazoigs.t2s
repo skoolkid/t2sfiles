@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/Cosmazoigs.tzx.zip
 cosmazoigs.z80
---sim-load
 --tape-name "Cosmazoigs.tzx"
 --tape-sum 4d3b567b8da63b6fe7a63698877fe0c6
 --start 1343

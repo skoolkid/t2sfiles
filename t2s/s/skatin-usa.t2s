@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SkatinUSA.tzx.zip
 skatin-usa.z80
---sim-load
 --tape-name "Skatin' USA.tzx"
 --tape-sum 8061e83fa95a0aa3addc92df7af3ca3b
 --start 58224

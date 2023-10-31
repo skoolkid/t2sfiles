@@ -1,6 +1,5 @@
 https://worldofspectrum.org/pub/sinclair/games/f/Fairlight48V1.tzx.zip
 fairlight.z80
---sim-load
 --tape-name "Fairlight - 48k - Release 1.tzx"
 --tape-sum 1dba2ac53fd25f4cc1065e18e31a7b96
 --start 56498

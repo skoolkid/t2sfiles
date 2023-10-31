@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/CarlislePowerbox.tzx.zip
 carlisle-powerbox.z80
---sim-load
 --tape-name "Carlisle Powerbox.tzx"
 --tape-sum 4ba2470fdd7144a3e6cc8928026286e7
 --start 1343

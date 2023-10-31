@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/Arcanoid.tap.zip
 arcanoid.z80
---sim-load
 --tape-name "Arcanoid.tap"
 --tape-sum baf94fe91a75f061697fce5da476efad
 --start 1343

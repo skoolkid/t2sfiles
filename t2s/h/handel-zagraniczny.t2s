@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/h/HandelZagraniczny.tzx.zip
 handel-zagraniczny.z80
---sim-load
 --tape-name "Handel Zagraniczny.tzx"
 --tape-sum 30424c239b6b7d55304a0afca87ee347
 --start 1343

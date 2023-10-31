@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/l/LostOrbThe.tzx.zip
 lost-orb-the.z80
---sim-load
 --tape-name "The Lost Orb.tzx"
 --tape-sum 622b3ccaf91564962e35885c1c978d29
 --start 25000

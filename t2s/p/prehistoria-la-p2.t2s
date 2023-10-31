@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/PrehistoriaLa.tap.zip
 prehistoria-la-p2.z80
---sim-load
 --tape-name "La Prehistoria.tap"
 --tape-sum 1f0b231d0ec9dbaebcef4f82bbd96e7b
 --start 29041

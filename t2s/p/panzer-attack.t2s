@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/PanzerAttack.zip
 panzer-attack.z80
---sim-load
 --tape-name "Panzer Attack.tzx"
 --tape-sum 81ddb151132bd8fdeb30ae658363ac3c
 --start 1343

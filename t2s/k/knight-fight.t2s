@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/k/KnightFight.tap.zip
 knight-fight.z80
---sim-load
 --tape-name "KnightFight.TAP"
 --tape-sum fd4ad417b0c9841efa67b5a9335912d0
 --start 1343

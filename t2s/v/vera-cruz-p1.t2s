@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/VeraCruz.zip
 vera-cruz-p1.z80
---sim-load
 --tape-name "Vera Cruz - Part 1.tzx"
 --tape-sum 80e6aedfde2191f4510f8654db73ad98
 --start 1343

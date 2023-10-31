@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/PudPud.tzx.zip
 pud-pud.z80
---sim-load
 --tape-name "Pud Pud.tzx"
 --tape-sum e37d33ca25f9f32f6f287da83553bdc9
 --start 51731

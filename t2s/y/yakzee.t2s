@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/y/Yakzee.tzx.zip
 yakzee.z80
---sim-load
 --tape-name "Yakzee.tzx"
 --tape-sum 738de19e7e1f82409946e1aaefc737d4
 --start 1343

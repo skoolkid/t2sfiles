@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Spec-Venture.zip
 spec-venture.z80
---sim-load
 --tape-name "Spec-Venture.tzx"
 --tape-sum cd8a85227d169be71d1353e7aef9748a
 --start 53811

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/Draconus.tzx.zip
 draconus.z80
---sim-load
 --tape-name "Draconus.tzx"
 --tape-sum a58589161d0c44a46c2b52582922e761
 --start 16400

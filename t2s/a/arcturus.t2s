@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Arcturus.zip
 arcturus.z80
---sim-load
 --tape-name "Arcturus.tzx"
 --tape-sum 891964caecbb261e7068dcd98e3fa9e8
 --start 26963

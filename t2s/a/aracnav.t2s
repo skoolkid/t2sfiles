@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/Aracnav.tzx.zip
 aracnav.z80
---sim-load
 --tape-name "Aracnav.tzx"
 --tape-sum aeb454eb2155f3ce74a13ecaf258a489
 --start 1343

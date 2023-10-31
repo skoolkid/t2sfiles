@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/AdventureInBristol.tzx.zip
 adventure-in-bristol.z80
---sim-load
 --tape-name "Adventure In Bristol.tzx"
 --tape-sum 89943d1bd4e6555337f0204d7ff068f7
 --start 1343

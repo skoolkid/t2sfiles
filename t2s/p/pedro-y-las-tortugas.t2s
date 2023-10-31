@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/PedroYLasTortugas.tap.zip
 pedro-y-las-tortugas.z80
---sim-load
 --tape-name "PedroYLasTortugas.tap"
 --tape-sum 7d9b4f846683ff3de8d44d0a80171e05
 --start 1343

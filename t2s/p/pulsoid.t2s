@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/Pulsoids.tzx.zip
 pulsoid.z80
---sim-load
 --tape-name "Pulsoid.tzx"
 --tape-sum 7b669618937848e2c53d74db4f233ba9
 --start 53000

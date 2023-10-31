@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/CruiseAttack.tzx.zip
 cruise-attack.z80
---sim-load
 --tape-name "Cruise Attack.tzx"
 --tape-sum f203fc3e887ba6589ad3165ee8edc83d
 --start 38335

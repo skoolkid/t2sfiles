@@ -1,6 +1,5 @@
 https://worldofspectrum.org/pub/sinclair/games/b/BugBlaster.tzx.zip
 bug-blaster.z80
---sim-load
 --tape-name "Bug Blaster.tzx"
 --tape-sum df78f338c3f9071693560caac9317cef
 --start 28160

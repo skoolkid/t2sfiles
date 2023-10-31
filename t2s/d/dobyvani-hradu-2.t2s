@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/DobyvaniHradu2.tap.zip
 dobyvani-hradu-2.z80
---sim-load
 --tape-name "DobyvaniHradu2.tap"
 --tape-sum 840034d1aaca4b276ada24c8a53e74f3
 --start 24200

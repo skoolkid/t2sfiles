@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/f/Flappy.tap.zip
 flappy.z80
---sim-load
 --tape-name "FLAPPY.TAP"
 --tape-sum 684aa8071923a73827d78654c6532f7e
 --start 30000

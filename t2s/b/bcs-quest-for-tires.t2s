@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/BCsQuestForTires.tzx.zip
 bcs-quest-for-tires.z80
---sim-load
 --tape-name "BC's Quest For Tires.tzx"
 --tape-sum 4faae39529f2fb4101e0b2c0496d1cae
 --start 65255

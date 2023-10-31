@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/TokyoGang.tzx.zip
 tokyo-gang.z80
---sim-load
 --tape-name "Tokyo Gang.tzx"
 --tape-sum e302f4f032cb6614ad823ea498c6adf5
 --start 28672

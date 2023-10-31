@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/r/RiseOutFromDungeons.tzx.zip
 rise-out-from-dungeons.z80
---sim-load
 --tape-name "RISEOUT.TZX"
 --tape-sum f6e981758bab8d34daec4f64d31d8976
 --start 25000

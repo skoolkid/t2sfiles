@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Simona.tzx.zip
 simona.z80
---sim-load
 --tape-name "Simona.tzx"
 --tape-sum e7a1acd3b6b2a7c673cc27830584205c
 --start 1343

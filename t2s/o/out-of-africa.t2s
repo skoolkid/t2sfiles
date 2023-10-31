@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/o/OutOfAfrica.tzx.zip
 out-of-africa.z80
---sim-load
 --tape-name "22_Out Of Africa.tzx"
 --tape-sum 3b4bc1f7e52693b1585789e24b10a328
 --start 1343

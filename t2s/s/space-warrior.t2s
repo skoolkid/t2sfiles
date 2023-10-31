@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SpaceWarrior.tap.zip
 space-warrior.z80
---sim-load
 --tape-name "SWARRIOR.TAP"
 --tape-sum 87c5ec3e77770f13a74926ad354352de
 --start 41440

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Shurk.tap.zip
 shurk.z80
---sim-load
 --tape-name "Shurk.tap"
 --tape-sum b4a9cab6d65e2ecf0c92199f0849a6f8
 --start 1343

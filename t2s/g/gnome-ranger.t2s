@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/g/GnomeRanger.tzx.zip
 gnome-ranger.z80
---sim-load
 --tape-name "Gnome Ranger - Side A.tzx"
 --tape-sum 858b0c2248b0223651a128eb92902163
 --start 23296

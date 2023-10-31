@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Shark.tzx.zip
 shark.z80
---sim-load
 --tape-name "Shark.tzx"
 --tape-sum b404b266a38ecf8803be8e85a3ebb024
 --start 65146

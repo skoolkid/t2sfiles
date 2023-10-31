@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/r/RoundTheBend.tzx.zip
 round-the-bend.z80
---sim-load
 --tape-name "Round The Bend.tzx"
 --tape-sum 38a4363ded7313b0c4a0206859a80a73
 --start 65028

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/PracticallyImpossible.tzx.zip
 practically-impossible.z80
---sim-load
 --tape-name "Practically Impossible.tzx"
 --tape-sum 59f0e53c0feae45fe11c327f98ca040d
 --start 1343

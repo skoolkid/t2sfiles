@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/MagicSwordThe.tzx.zip
 magic-sword-the.z80
---sim-load
 --tape-name "The Magic Sword.tzx"
 --tape-sum e3c022e7963d90115a05f4a6f29464ab
 --start 1343

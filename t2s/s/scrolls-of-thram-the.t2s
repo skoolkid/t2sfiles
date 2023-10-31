@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/ScrollsOfThramThe.tzx.zip
 scrolls-of-thram-the.z80
---sim-load
 --tape-name "The Scrolls Of Thram.tzx"
 --tape-sum dce0ce37c597f6a54553f290e54116bb
 --start 1343

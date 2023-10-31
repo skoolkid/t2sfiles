@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Invasion.zip
 invasion.z80
---sim-load
 --tape-name "Invasion.tzx"
 --tape-sum ee4975cb7b1caa85d62872f0b66d4fca
 --start 23791

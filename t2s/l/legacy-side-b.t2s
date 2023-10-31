@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/l/Legacy.tzx.zip
 legacy-side-b.z80
---sim-load
 --tape-name "Legacy - Side B.tzx"
 --tape-sum 6fdc395e6fc4350dc5c1526f47556875
 --start 25000

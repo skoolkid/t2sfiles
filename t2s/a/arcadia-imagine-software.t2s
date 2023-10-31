@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/Arcadia.tzx.zip
 arcadia-imagine-software.z80
---sim-load
 --tape-name "Arcadia.tzx"
 --tape-sum c60d851faefc7d438b7f4159e9d14d43
 --start 24577

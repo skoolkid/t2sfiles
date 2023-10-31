@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/Metropolis_2.tzx.zip
 metropolis-topo-soft.z80
---sim-load
 --tape-name "Metropolis (Topo Soft).tzx"
 --tape-sum 3e1e19d1c95bbc493478a007fd95d1f6
 --start 62640

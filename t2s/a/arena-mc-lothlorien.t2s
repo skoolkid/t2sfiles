@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/Arena.tzx.zip
 arena-mc-lothlorien.z80
---sim-load
 --tape-name "Arena.tzx"
 --tape-sum f596bdb83f7e0ce1a749b70c6c44eee6
 --start 64376

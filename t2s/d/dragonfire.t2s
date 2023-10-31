@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/Dragonfire.tzx.zip
 dragonfire.z80
---sim-load
 --tape-name "Dragonfire.tzx"
 --tape-sum 93fbb92e52d339fc6ae393438d6bc0d1
 --start 32819

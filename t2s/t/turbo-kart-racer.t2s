@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/TurboKartRacer.tzx.zip
 turbo-kart-racer.z80
---sim-load
 --tape-name "Turbo Kart Racer - Side A.tzx"
 --tape-sum 7f643e9f9fa7cf96d3044e5e5c2f4eff
 --start 24600

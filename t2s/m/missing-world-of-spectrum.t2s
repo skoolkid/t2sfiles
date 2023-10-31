@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/Missing-WorldOfSpectrumV1.tzx.zip
 missing-world-of-spectrum.z80
---sim-load
 --tape-name "Missing World of Spectrum.tzx"
 --tape-sum eae98f2aa151be8d015c155073392478
 --start 34104

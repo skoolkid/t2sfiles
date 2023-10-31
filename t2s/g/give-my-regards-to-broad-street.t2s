@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/GiveMyRegardsToBroadStreet.zip
 give-my-regards-to-broad-street.z80
---sim-load
 --tape-name "Give My Regards To Broad Street.tzx"
 --tape-sum 67281e1277d50e178b0c5cc8eafb7a08
 --start 24573

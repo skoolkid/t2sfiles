@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/MadcapManor.zip
 madcap-manor-text-version.z80
---sim-load
 --tape-name "Madcap Manor - Text Version.tzx"
 --tape-sum 389c1d11235ce4c1f48a362094b020f2
 --start 25063

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/j/JoeSgraffigna.tzx.zip
 joe-sgraffigna.z80
---sim-load
 --tape-name "JoeSgraffigna.tzx"
 --tape-sum 9508d1c47894e58f3e8a79c805a0e815
 --start 62995

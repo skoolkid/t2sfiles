@@ -1,6 +1,5 @@
 https://worldofspectrum.org/pub/sinclair/games/d/Deliverer2-EscapeToEskelos.tzx.zip
 deliverer-2-escape-to-eskelos.z80
---sim-load
 --tape-name "Escape To Eskelos.tzx"
 --tape-sum b990efb44986de7445831966c327ef52
 --start 36366

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/Panic_2.tzx.zip
 space-panic.z80
---sim-load
 --tape-name "Space Panic.tzx"
 --tape-sum 3a0c8161b48ccdcc83e513633f6a4ec9
 --start 31181

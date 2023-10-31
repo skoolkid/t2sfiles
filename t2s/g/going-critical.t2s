@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/GoingCritical.zip
 going-critical.z80
---sim-load
 --tape-name "Going Critical.tzx"
 --tape-sum 06a1372805c1af64b6cdd323b02e287a
 --start 25000

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/Pulsator.tzx.zip
 pulsator.z80
---sim-load
 --tape-name "Pulsator - 48k.tzx"
 --tape-sum 8c3b6f55363fcd49f3b99643afa3a28d
 --start 23296

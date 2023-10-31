@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/i/Inka-Tempel.tzx.zip
 inka-tempel.z80
---sim-load
 --tape-name "Inka-Tempel.tzx"
 --tape-sum a9d115c89e7ac5edda9a8d92e5fdd7b9
 --start 30000

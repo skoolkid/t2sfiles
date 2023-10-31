@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/g/Guideline.tzx.zip
 guideline.z80
---sim-load
 --tape-name "Guideline.tzx"
 --tape-sum 3ce7280dcf4f9057c6b7a20e5a3144b6
 --start 1343

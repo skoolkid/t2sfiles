@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/l/LuiDerWurm.tap.zip
 lui-der-wurm.z80
---sim-load
 --tape-name "WurmLui.tap"
 --tape-sum f1139d85b05ce4582a06b354a48be5ab
 --start 1343

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/f/F.A.Cup.tzx.zip
 fa-cup.z80
---sim-load
 --tape-name "F.A. Cup.tzx"
 --tape-sum cb019f74ff077650790956ac24d88092
 --start 1343

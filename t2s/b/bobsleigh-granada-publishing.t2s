@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/Bobsleigh_2.tap.zip
 bobsleigh-granada-publishing.z80
---sim-load
 --tape-name "Bobsleigh.tap"
 --tape-sum b79479da5727494e35c71a32229f8e3d
 --start 1343

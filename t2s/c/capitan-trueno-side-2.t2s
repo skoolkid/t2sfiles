@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/CapitanTrueno.tzx.zip
 capitan-trueno-side-2.z80
---sim-load
 --tape-name "Capitan Trueno - Side 2.tzx"
 --tape-sum 9293f4fcc7b59804a91c3b2569b3fbcf
 --start 64031

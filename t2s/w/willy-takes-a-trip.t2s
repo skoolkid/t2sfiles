@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/w/WillyTakesATrip.tzx.zip
 willy-takes-a-trip.z80
---sim-load
 --tape-name "Jet Set Willy - Willy Takes A Trip.tzx"
 --tape-sum 2d4a1fff5e1e51082e7d01abc318703d
 --start 1343

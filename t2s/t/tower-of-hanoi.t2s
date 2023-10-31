@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/TowerOfHanoi.tap.zip
 tower-of-hanoi.z80
---sim-load
 --tape-name "TOWER.TAP"
 --tape-sum 1166acd00af3abc7591fde68bad6b9d3
 --start 36000

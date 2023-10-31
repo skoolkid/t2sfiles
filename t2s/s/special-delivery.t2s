@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/SpecialDelivery.zip
 special-delivery.z80
---sim-load
 --tape-name "Special Delivery.tzx"
 --tape-sum 2677288dd682737bdc2a6ab6464b91a2
 --start 24576

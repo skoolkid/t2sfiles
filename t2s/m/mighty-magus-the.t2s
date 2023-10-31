@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/MightyMagus.tzx.zip
 mighty-magus-the.z80
---sim-load
 --tape-name "The Mighty Magus.tzx"
 --tape-sum bdedb021911123ae06e9aa74b3984825
 --start 23330

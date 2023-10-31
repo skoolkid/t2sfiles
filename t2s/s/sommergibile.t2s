@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Sommergibile.tzx.zip
 sommergibile.z80
---sim-load
 --tape-name "Sommergibile.tzx"
 --tape-sum 5c3e8fb8abc86f0710616618eb56874c
 --start 1343

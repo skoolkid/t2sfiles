@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SuperCom.tzx.zip
 supercom.z80
---sim-load
 --tape-name "Super Com.tzx"
 --tape-sum c8f3d8156ed2c4e5b69a60a78245056e
 --start 1343

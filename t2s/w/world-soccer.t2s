@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/w/WorldSoccer.tzx.zip
 world-soccer.z80
---sim-load
 --tape-name "World Soccer.tzx"
 --tape-sum 0aab8a91a92e6cbd35bb5d75949578fe
 --start 42572

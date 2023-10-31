@@ -1,6 +1,5 @@
 https://worldofspectrum.org/pub/sinclair/games/c/CyberRats.tzx.zip
 cyber-rats.z80
---sim-load
 --tape-name "Cyber Rats.tzx"
 --tape-sum 2e8a640c78f4415cec2f4ab1c3e1b23e
 --start 32739

@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/BufferAdventure.zip
 buffer-adventure.z80
---sim-load
 --tape-name "Buffer Adventure.tzx"
 --tape-sum f8f24a6e3f3b1e0c49e6ae2c62f6f072
 --start 25000

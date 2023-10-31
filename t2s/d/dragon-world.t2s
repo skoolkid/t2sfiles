@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/DragonWorld.zip
 dragon-world.z80
---sim-load
 --tape-name "Dragon World.tzx"
 --tape-sum 219aa7fd9d7b20ab38e86ac07cf57eae
 --start 25000

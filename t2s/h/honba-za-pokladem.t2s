@@ -1,7 +1,6 @@
 ; Contributed by Bedazzle
 https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0002343/HonbaZaPokladem.tzx.zip
 honba-za-pokladem.z80
---sim-load
 --tape-name "HonbaZaPokladem.tzx"
 --tape-sum 167576b1f583dbd672e2abd55cac0543
 --start 24200

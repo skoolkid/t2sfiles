@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/h/HideousThe.tap.zip
 hideous-the-p2.z80
---sim-load
 --tape-name "The Hideous - Part 2.tap"
 --tape-sum c2795fea0f9c11e2ffae2cd1e9f8e395
 --start 29169

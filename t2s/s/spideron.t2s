@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Spideron.tzx.zip
 spideron.z80
---sim-load
 --tape-name "Spideron.tzx"
 --tape-sum 92361fb0a702c6b6ba0af15d19e9f059
 --start 25690

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/l/Leapfrog.tzx.zip
 leapfrog-cds-microsystems.z80
---sim-load
 --tape-name "Leapfrog.tzx"
 --tape-sum 71fd68ee5e3a747fa5e2e23d7308c811
 --start 26786

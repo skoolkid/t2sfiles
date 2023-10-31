@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SpaceGame.tap.zip
 space-game.z80
---sim-load
 --tape-name "SpaceGame.tap"
 --tape-sum 6b19f0dfc88fa346697b68cc14c653da
 --start 1343

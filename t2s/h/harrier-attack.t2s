@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/h/HarrierAttack.tzx.zip
 harrier-attack.z80
---sim-load
 --tape-name "Harrier Attack.tzx"
 --tape-sum 7d2a8c6cdf285c08fccd4bf6f923381b
 --start 30036

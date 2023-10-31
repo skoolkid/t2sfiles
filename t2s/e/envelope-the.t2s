@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/e/EnvelopeThe.tap.zip
 envelope-the.z80
---sim-load
 --tape-name "THEENV_1.TAP"
 --tape-sum ac8140b528dc8c8eab99f8d1e3f76011
 --start 25000

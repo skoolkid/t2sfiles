@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/Tombola_2.tap.zip
 tombola-editoriale-video.z80
---sim-load
 --tape-name "Tombola.tap"
 --tape-sum a998649fe4eb9601d36e2366626bb041
 --start 1343

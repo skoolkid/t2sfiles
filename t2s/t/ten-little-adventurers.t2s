@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/TenLittleAdventurers.tzx.zip
 ten-little-adventurers.z80
---sim-load
 --tape-name "Ten Little Adventurers.tzx"
 --tape-sum 361557032c71c5502823b91001258775
 --start 29169

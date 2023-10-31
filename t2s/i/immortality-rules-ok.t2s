@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/ImmortalityRulesOK.zip
 immortality-rules-ok.z80
---sim-load
 --tape-name "Immortality Rules OK.tzx"
 --tape-sum b9b153872db6da25e222a6a277ef102a
 --start 25000

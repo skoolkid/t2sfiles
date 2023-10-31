@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/h/HoraceGoesToTheTower.tzx.zip
 horace-goes-to-the-tower.z80
---sim-load
 --tape-name "Horace Goes To The Tower.tzx"
 --tape-sum 5ad969cda3e17b0d90ca0979e79abd4b
 --start 25000

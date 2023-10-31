@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/DelittoAllaVilla.tzx.zip
 delitto-alla-villa.z80
---sim-load
 --tape-name "DelittoAllaVilla.tzx"
 --tape-sum fa6a2055e0dd59bd964d1ee166f2a47f
 --start 1343

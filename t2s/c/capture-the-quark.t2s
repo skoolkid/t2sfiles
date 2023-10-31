@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/CaptureTheQuark.tzx.zip
 capture-the-quark.z80
---sim-load
 --tape-name "Quarks.tzx"
 --tape-sum 190cb57b627a2b9d6a890e0ffe2f42d1
 --start 1343

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/Piatto.tzx.zip
 piatto.z80
---sim-load
 --tape-name "Piatto.tzx"
 --tape-sum 5ba9ead40880b3b82679332d241d95d8
 --start 1343

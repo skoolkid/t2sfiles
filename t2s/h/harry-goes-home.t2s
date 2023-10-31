@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/h/HarryGoesHome.tzx.zip
 harry-goes-home.z80
---sim-load
 --tape-name "Harry Goes Home.tzx"
 --tape-sum e0951e55e76012a5b3654fb96e015747
 --start 1343

@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/TheBoydFile.zip
 boyd-file-the.z80
---sim-load
 --tape-name "The Boyd File.tzx"
 --tape-sum 69a6de6a4a0f50402d6099e6095655a4
 --start 34104

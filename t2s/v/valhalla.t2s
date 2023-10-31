@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Valhalla.zip
 valhalla.z80
---sim-load
 --tape-name "Valhalla.tzx"
 --tape-sum dd022ccf6e887233fe8c228a454cdf4c
 --start 1343

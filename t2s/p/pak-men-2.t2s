@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/Pak-Men2.tzx.zip
 pak-men-2.z80
---sim-load
 --tape-name "PakMen2.tzx"
 --tape-sum 9e767aeaca7aa09a600d9675e404ca2f
 --start 1343

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/MadnessSchach.tap.zip
 madness-schach.z80
---sim-load
 --tape-name "SCHACH.TAP"
 --tape-sum c7c6e49e015ded1d751cc672aa48f67d
 --start 1343

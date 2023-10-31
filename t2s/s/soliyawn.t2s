@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Soliyawn.tap.zip
 soliyawn.z80
---sim-load
 --tape-name "soliyawn.tap"
 --tape-sum 0443c4e8c1128c99b7ce4cf32f5dc4d3
 --start 23773

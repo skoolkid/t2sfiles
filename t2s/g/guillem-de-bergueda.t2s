@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/g/GuillemDeBergueda.tzx.zip
 guillem-de-bergueda.z80
---sim-load
 --tape-name "Guillem De Bergueda.tzx"
 --tape-sum 4c46bb098949b3b7ca9d53dd8f24ad0a
 --start 1343

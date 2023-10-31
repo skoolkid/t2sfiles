@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/o/Othello_2.tap.zip
 othello-cds-microsystems.z80
---sim-load
 --tape-name "OTHELL_1.TAP"
 --tape-sum 1d8ff3eda1c29c7129faf30b80b740c3
 --start 1343

@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/DraughtsGenius.zip
 draughts-genius.z80
---sim-load
 --tape-name "Draughts Genius.tzx"
 --tape-sum 71d1a0a21425141d26044b3bafc817d8
 --start 24000

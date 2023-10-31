@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/TR-32.tzx.zip
 tr-32.z80
---sim-load
 --tape-name "TR-32/TR32.tzx"
 --tape-sum f9c015005041d9a9f9896baba2460c43
 --start 1343

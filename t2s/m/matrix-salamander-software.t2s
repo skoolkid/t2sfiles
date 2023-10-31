@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/Matrix_2.tzx.zip
 matrix-salamander-software.z80
---sim-load
 --tape-name "Matrix.tzx"
 --tape-sum 1b5d743aa1080e5d274a63a8dc498a45
 --start 26368

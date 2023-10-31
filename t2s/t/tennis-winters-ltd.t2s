@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/Tennis_3.tzx.zip
 tennis-winters-ltd.z80
---sim-load
 --tape-name "Tennis (Wintersoft).tzx"
 --tape-sum 2692b3c2f8db8c7c3106187edc751b49
 --start 1343

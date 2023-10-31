@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/StopBall.tzx.zip
 stop-ball-spanish.z80
---sim-load
 --tape-name "Stop Ball (Spanish).tzx"
 --tape-sum b4d8ab5b1313b42e003164127ffdff31
 --start 44000

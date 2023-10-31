@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/h/Heresville_3.tap.zip
 heresville-fixed.z80
---sim-load
 --tape-name "Heresville (Fixed).tap"
 --tape-sum a9ff7fe3005041b504be83785f642a00
 --start 29041

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Scaramouche.tzx.zip
 scaramouche.z80
---sim-load
 --tape-name "Scaramouche.tzx"
 --tape-sum 330e7b6ee3106f12d256a7874abe273d
 --start 23874

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/Dogfight.tap.zip
 dogfight-raymond-blake.z80
---sim-load
 --tape-name "Dogfight.tzx"
 --tape-sum 4ae319bb10844d9f91e61f08e7e98de6
 --start 1343

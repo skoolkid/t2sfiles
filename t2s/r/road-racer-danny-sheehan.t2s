@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/r/RoadRacer_4.tap.zip
 road-racer-danny-sheehan.z80
---sim-load
 --tape-name "ROADRACE.TAP"
 --tape-sum 85d110e025e20943035ca09bea443a74
 --start 1343

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/Paranormal.tap.zip
 paranormal.z80
---sim-load
 --tape-name "Paranormal.tap"
 --tape-sum 34f85a5946bdf4f37db1e64d0648ba88
 --start 1343

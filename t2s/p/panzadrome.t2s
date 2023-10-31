@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/Panzadrome.tzx.zip
 panzadrome.z80
---sim-load
 --tape-name "Panzadrome.tzx"
 --tape-sum 9a5128cd9298d6fc04ba8153383e20c3
 --start 23856

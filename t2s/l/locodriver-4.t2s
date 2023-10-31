@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/l/Locodriver4.tzx.zip
 locodriver-4.z80
---sim-load
 --tape-name "Locodriver 4.tzx"
 --tape-sum f45d27d7070d6611218e93298498c89f
 --start 1343

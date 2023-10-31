@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/n/NewVenture.tzx.zip
 new-venture.z80
---sim-load
 --tape-name "New Venture.tzx"
 --tape-sum f1f7f6e4015fd9a239d18b8df3c35add
 --start 1343

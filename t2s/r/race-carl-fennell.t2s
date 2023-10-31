@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/r/Race.tap.zip
 race-carl-fennell.z80
---sim-load
 --tape-name "Race.tap"
 --tape-sum e7c250da74ebfd3771384d159552f177
 --start 1343

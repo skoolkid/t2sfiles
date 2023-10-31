@@ -1,6 +1,5 @@
 "https://tzxvault.org/Spectrum/TZX/MrWong'sLoopyLaundry.zip"
 mr-wongs-loopy-laundry.z80
---sim-load
 --tape-name "Mr Wong's Loopy Laundry.tzx"
 --tape-sum e0b0646399333a14b6ede648c7a8fc06
 --start 31672

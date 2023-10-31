@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/r/Rescue_2.tzx.zip
 rescue-mastertronic.z80
---sim-load
 --tape-name "Rescue (Mastertronic).tzx"
 --tape-sum fb326bbb8d7044cfb4e7978145b8e101
 --start 23791

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/h/HOT-K.tzx.zip
 hot-k.z80
---sim-load
 --tape-name "hotk.tzx"
 --tape-sum 8f8f58e9b4a21dcd0d92ee888baa94bc
 --start 32768

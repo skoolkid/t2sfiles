@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/z/ZXMines.tap.zip
 zx-mines.z80
---sim-load
 --tape-name "ZX Mines.tap"
 --tape-sum 1cf3fb0f1ef32e5e5d4a19a92efc4ebf
 --start 1343

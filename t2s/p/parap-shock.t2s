@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/ParapShock.tap.zip
 parap-shock.z80
---sim-load
 --tape-name "PARASHOC.TAP"
 --tape-sum f587a6d3ed36ca529ddfb74a7916373f
 --start 31985

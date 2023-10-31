@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/l/Labyrinth3D_2.tzx.zip
 3d-labyrinth-iss.z80
---sim-load
 --tape-name "3D-Labyrinth.tzx"
 --tape-sum 0f6741cac8b6e88ea8e1edc711eb0bf7
 --start 1343

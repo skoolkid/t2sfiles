@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/MissionX(G.I.Games).tzx.zip
 mission-x.z80
---sim-load
 --tape-name "Mission X.tzx"
 --tape-sum 32fd0f1b5e8ec9f283e3e58b56fc112f
 --start 25000

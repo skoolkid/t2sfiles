@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/h/HeroesOfKarn.tzx.zip
 heroes-of-karn.z80
---sim-load
 --tape-name "Heroes Of Karn.tzx"
 --tape-sum abab44fe0ccce2d67d7c6efcef5b7136
 --start 43988

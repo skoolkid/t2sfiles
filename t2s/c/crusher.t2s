@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/Crusher.tzx.zip
 crusher.z80
---sim-load
 --tape-name "CRUSHER.TZX"
 --tape-sum 0c498294e8be5dc0c7e6da08d790e75a
 --start 28307

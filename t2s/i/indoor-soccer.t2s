@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/IndoorSoccer.zip
 indoor-soccer.z80
---sim-load
 --tape-name "Indoor Soccer.tzx"
 --tape-sum 467ea6366ffab48f8a03db97b73a18b6
 --start 23852

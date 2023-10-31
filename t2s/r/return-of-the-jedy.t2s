@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/r/ReturnOfTheJedy.tap.zip
 return-of-the-jedy.z80
---sim-load
 --tape-name "RETURN_2.TAP"
 --tape-sum 1c7cbfc9dc9884bd5df75fdb83690e88
 --start 1343

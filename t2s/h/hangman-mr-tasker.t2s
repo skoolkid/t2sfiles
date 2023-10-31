@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/h/Hangman_2.tap.zip
 hangman-mr-tasker.z80
---sim-load
 --tape-name "HANGMAN.TAP"
 --tape-sum aba840848310e1a7f8c93eb0c374098b
 --start 1343

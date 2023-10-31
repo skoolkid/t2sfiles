@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/Blaze.tzx.zip
 blaze.z80
---sim-load
 --tape-name "Blaze.tzx"
 --tape-sum 0382c4696e91af693bd1513936e60e96
 --start 47012

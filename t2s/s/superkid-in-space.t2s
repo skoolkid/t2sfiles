@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SuperkidInSpace.tzx.zip
 superkid-in-space.z80
---sim-load
 --tape-name "Superkid In Space.tzx"
 --tape-sum 0ed688596c5922a5b929209cb3ab362b
 --start 38912

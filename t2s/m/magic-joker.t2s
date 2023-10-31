@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/MagicJoker.tap.zip
 magic-joker.z80
---sim-load
 --tape-name "MagicJoker.tap"
 --tape-sum d72b72ed69104b7288a58d9bab1063eb
 --start 1343

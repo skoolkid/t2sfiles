@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/Target_2.tap.zip
 target-david-myles.z80
---sim-load
 --tape-name "TARGET.TAP"
 --tape-sum 9f90a488f45ba1752b08f122fd060b0f
 --start 1343

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/n/NetworkExeter.tzx.zip
 network-exeter.z80
---sim-load
 --tape-name "Network Exeter.tzx"
 --tape-sum cfb43d6b94a444528bee68367e03b1fb
 --start 1343

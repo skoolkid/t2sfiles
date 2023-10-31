@@ -2,7 +2,6 @@
 ; both side A and B contain identical files
 https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0000698/BrickThe(sideA).tzx.zip
 brick-delta-software.z80
---sim-load
 --tape-name "BrickThe(sideA).tzx"
 --tape-sum 69fb6ec3037d36ce357ed14f0890ceb8
 --start 56540

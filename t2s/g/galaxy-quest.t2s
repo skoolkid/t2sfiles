@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/g/GalaxyQuest.tzx.zip
 galaxy-quest.z80
---sim-load
 --tape-name "Galaxy Quest.tzx"
 --tape-sum a6cb3e721bd2d5fc14b5b7bc50a08c89
 --start 1343

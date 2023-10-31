@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SoccerDirector.tzx.zip
 soccer-director.z80
---sim-load
 --tape-name "Soccer Director.tzx"
 --tape-sum 4057edc3bdf214a32de87dffbdaab745
 --start 1343

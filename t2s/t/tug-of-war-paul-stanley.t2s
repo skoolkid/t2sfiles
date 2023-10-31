@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/Tug-of-War.tap.zip
 tug-of-war-paul-stanley.z80
---sim-load
 --tape-name "Tug-Of-War.tap"
 --tape-sum f01df45aeb1b980210536528a6940a62
 --start 1343

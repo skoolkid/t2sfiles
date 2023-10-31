@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/w/Wolfman.tzx.zip
 wolfman-p3.z80
---sim-load
 --tape-name "Wolfman - Side 2.tzx"
 --tape-sum 697aa16fcf1a017eb1bf3e6c70d39f20
 --start 1343

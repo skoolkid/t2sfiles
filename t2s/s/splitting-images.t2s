@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SplittingImages.tzx.zip
 splitting-images.z80
---sim-load
 --tape-name "Splitting Images.tzx"
 --tape-sum 92d9d96a513804f3962af0f93859478c
 --start 53674

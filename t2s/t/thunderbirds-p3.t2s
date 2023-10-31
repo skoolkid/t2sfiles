@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Thunderbirds.zip
 thunderbirds-p3.z80
---sim-load
 --tape-name "Thunderbirds - Part 3.tzx"
 --tape-sum 38e02e1acd6229d1b4e11fd74d6d5192
 --start 24112

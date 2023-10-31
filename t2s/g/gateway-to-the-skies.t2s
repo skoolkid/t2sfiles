@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/g/GatewayToTheSkies.tzx.zip
 gateway-to-the-skies.z80
---sim-load
 --tape-name "Gateway To The Skies.tzx"
 --tape-sum 8b7a5e16152db04fbfdbbc6ea0bab9a8
 --start 1343

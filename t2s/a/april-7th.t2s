@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/April7th.zip
 april-7th.z80
---sim-load
 --tape-name "April 7th.tzx"
 --tape-sum 616f45c53e16abc530f28f3638827b8c
 --start 25000

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/CatacombsOfBalachor.tap.zip
 catacombs-of-balachor.z80
---sim-load
 --tape-name "catacombs.tap"
 --tape-sum 04c94a7490ca1f431212184aed3a81f4
 --start 25000

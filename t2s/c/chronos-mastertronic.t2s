@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/Chronos.tzx.zip
 chronos-mastertronic.z80
---sim-load
 --tape-name "Chronos.tzx"
 --tape-sum 6e1631d561503165ae253167141f2c6d
 --start 64957

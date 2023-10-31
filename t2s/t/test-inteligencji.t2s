@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/TestInteligencji.tzx.zip
 test-inteligencji.z80
---sim-load
 --tape-name "TestInteligencji.tzx"
 --tape-sum 8a81ca25ab81d060d1490f5529df65ee
 --start 1343

@@ -1,6 +1,5 @@
 https://worldofspectrum.org/pub/sinclair/games/v/ViperIII.tzx.zip
 viper-iii.z80
---sim-load
 --tape-name "Viper III.tzx"
 --tape-sum 927d4651bafdca8842b105fe9506208a
 --start 24370

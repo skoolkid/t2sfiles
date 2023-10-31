@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/Metropolis.tzx.zip
 metropolis-the-power-house.z80
---sim-load
 --tape-name "Metropolis.tzx"
 --tape-sum 49dcef5e9eda6e7d526b7c216d723a87
 --start 29106

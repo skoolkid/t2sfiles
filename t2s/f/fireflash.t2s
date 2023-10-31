@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/f/Fireflash.tap.zip
 fireflash.z80
---sim-load
 --tape-name "FIRFLASH.TAP"
 --tape-sum 6726f673d49d32239ae7c71d4f5525b6
 --start 1343

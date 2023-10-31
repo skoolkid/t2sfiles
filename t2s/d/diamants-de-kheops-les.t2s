@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/LesDiamantsDeKheops.zip
 diamants-de-kheops-les.z80
---sim-load
 --tape-name "Les Diamants De Kheops.tzx"
 --tape-sum a472f8df43d9c383858b4e082da4d9d8
 --start 41000

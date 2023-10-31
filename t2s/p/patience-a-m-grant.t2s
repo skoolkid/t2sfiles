@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/Patience_2.tap.zip
 patience-a-m-grant.z80
---sim-load
 --tape-name "PATIENCE.TAP"
 --tape-sum be93688d68b2be2b7175b3f0b78171c5
 --start 1343

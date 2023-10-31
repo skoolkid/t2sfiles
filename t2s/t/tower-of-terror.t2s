@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/TowerOfTerror.tap.zip
 tower-of-terror.z80
---sim-load
 --tape-name "TowerOfTerror.tap"
 --tape-sum 62caaa96f7273a79d25a58a7e5045bea
 --start 1343

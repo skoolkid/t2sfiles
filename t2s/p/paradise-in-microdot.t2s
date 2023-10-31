@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/ParadiseInMicrodot.tzx.zip
 paradise-in-microdot.z80
---sim-load
 --tape-name "Paradise In Microdot.tzx"
 --tape-sum 46101490b0394442ff2de17da6805bdf
 --start 25063

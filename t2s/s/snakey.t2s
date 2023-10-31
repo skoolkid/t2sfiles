@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Snakey.tzx.zip
 snakey.z80
---sim-load
 --tape-name "SNAKEY.TZX"
 --tape-sum 1597d7c89ae7b2417d0a659e56230ecf
 --start 1343

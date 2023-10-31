@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/w/Wiking.tzx.zip
 viking.z80
---sim-load
 --tape-name "Viking.tzx"
 --tape-sum ff36406bb147b3007c887f2c485fe256
 --start 23803

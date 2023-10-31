@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Gulpman.zip
 gulpman.z80
---sim-load
 --tape-name "Gulpman.tzx"
 --tape-sum 9cb652e21bf425a136fed33e6773b084
 --start 26592

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/o/Osten.tap.zip
 osten.z80
---sim-load
 --tape-name "OSTEN.TAP"
 --tape-sum 527ac2496fc804dfb332a7fb57cc651a
 --start 32740

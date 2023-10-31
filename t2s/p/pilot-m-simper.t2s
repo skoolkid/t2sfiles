@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/Pilot.tap.zip
 pilot-m-simper.z80
---sim-load
 --tape-name "Pilot.tap"
 --tape-sum 19518c758594d4bd6b072579f92434dd
 --start 1343

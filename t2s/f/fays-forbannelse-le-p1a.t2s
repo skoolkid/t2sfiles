@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/f/FaysForbannelseLePart1a.tap.zip
 fays-forbannelse-le-p1a.z80
---sim-load
 --tape-name "lefay1a.tap"
 --tape-sum f8259c85d86039d7e50db4eea139c98b
 --start 1343

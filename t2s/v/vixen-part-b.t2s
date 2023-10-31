@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/v/Vixen.tzx.zip
 vixen-part-b.z80
---sim-load
 --tape-name "Vixen - Side A.tzx"
 --tape-sum 3075d03f63d20acf2ad029265f6f1746
 --start 65248

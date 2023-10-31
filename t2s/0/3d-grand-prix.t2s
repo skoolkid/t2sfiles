@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/g/GrandPrix3D.tzx.zip
 3d-grand-prix.z80
---sim-load
 --tape-name "3D Grand Prix.tzx"
 --tape-sum 7ad84c948baaea14f2b2d2f8b041e5d2
 --start 49000

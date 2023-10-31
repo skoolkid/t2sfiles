@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/Marioso.tap.zip
 marioso.z80
---sim-load
 --tape-name "Marioso.tap"
 --tape-sum b093b39e8a3dae8834cd2e8c2a47a55d
 --start 64952

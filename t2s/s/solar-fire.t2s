@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SolarFire(EJSoftware).tap.zip
 solar-fire.z80
---sim-load
 --tape-name "SOLARFIR.TAP"
 --tape-sum de01e1d7b2e82138c0bace95cef16b1c
 --start 60399

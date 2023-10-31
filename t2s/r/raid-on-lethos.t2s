@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/r/RaidOnLethos.tzx.zip
 raid-on-lethos.z80
---sim-load
 --tape-name "Raid On Lethos.tzx"
 --tape-sum bbd2e2dd66c966a678f4e95e3e18c3a6
 --start 1343

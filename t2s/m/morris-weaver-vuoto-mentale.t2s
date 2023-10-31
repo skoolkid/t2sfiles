@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/MorrisWeaver-VuotoMentale.tap.zip
 morris-weaver-vuoto-mentale.z80
---sim-load
 --tape-name "VuotoMentale.tap"
 --tape-sum efd0a09999f3446b1d4405d554eb174e
 --start 25000

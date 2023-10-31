@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Dominetris.zip
 dominetris.z80
---sim-load
 --tape-name "Dominetris.tzx"
 --tape-sum cb8da4e58d95426a7c091257577185a4
 --start 32768

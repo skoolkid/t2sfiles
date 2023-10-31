@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/g/GalacticGunners.tap.zip
 galactic-gunners.z80
---sim-load
 --tape-name "GALACGUN.TAP"
 --tape-sum 997e1a0c7fe8aeac20a3ea541e53d93f
 --start 30000

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/i/IslaDelTesoroLa_2.tap.zip
 isla-del-tesoro-la-p1.z80
---sim-load
 --tape-name "La Isla Del Tesoro - Part 1.tap"
 --tape-sum 10fce9d6abf35e9f0393ff7e7f9e95bb
 --start 29073

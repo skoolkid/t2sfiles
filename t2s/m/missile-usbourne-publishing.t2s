@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/Missile_4.tap.zip
 missile-usbourne-publishing.z80
---sim-load
 --tape-name "Missile.tap"
 --tape-sum e23f13e3758ac2a5ceda8d84399a94a8
 --start 1343

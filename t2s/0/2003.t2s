@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/2003.zip
 2003.z80
---sim-load
 --tape-name "2003.tzx"
 --tape-sum d70f1d2cb97f9dd5b6114c255bedd6c4
 --start 1343

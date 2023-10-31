@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/BiteTheDust.tap.zip
 bite-the-dust.z80
---sim-load
 --tape-name "BITE.TAP"
 --tape-sum 12fc6bf7a1cda38451948c95e8ce3f08
 --start 16384

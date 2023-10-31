@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/g/Golf_10.tzx.zip
 golf-radford-jenks.z80
---sim-load
 --tape-name "Golf.tzx"
 --tape-sum 654e5cdafe9ff535c245c82b871a8e16
 --start 1343

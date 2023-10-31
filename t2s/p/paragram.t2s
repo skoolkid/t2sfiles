@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/Paragram.tzx.zip
 paragram.z80
---sim-load
 --tape-name "PARAGRAM.TZX"
 --tape-sum 9ee092977a69eb236dfffc61d07ccf69
 --start 1343

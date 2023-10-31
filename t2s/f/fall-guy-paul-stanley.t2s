@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/f/FallGuy_2.tap.zip
 fall-guy-paul-stanley.z80
---sim-load
 --tape-name "Fall Guy.tap"
 --tape-sum 04c18092b5e407a003c3ac9f885a7525
 --start 1343

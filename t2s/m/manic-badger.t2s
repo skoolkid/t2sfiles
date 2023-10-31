@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/ManicBadger.zip
 manic-badger.z80
---sim-load
 --tape-name "Manic Badger.tzx"
 --tape-sum 3cb00d1ca2ad0f61e23ecd24060d4a72
 --start 34104

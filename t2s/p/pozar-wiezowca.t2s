@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/PozarWiezowca.tap.zip
 pozar-wiezowca.z80
---sim-load
 --tape-name "POZAR.TAP"
 --tape-sum ebb11f88d6b002e01e5bd771429818de
 --start 1343

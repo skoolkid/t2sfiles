@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/z/ZakladiSlovenije.tzx.zip
 zakladi-slovenije.z80
---sim-load
 --tape-name "ZakladiSlovenije.tzx"
 --tape-sum 6b631ba0c0f88d39c0bc807c14cb0ab1
 --start 64078

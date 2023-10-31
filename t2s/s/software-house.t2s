@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SoftwareHouse.tzx.zip
 software-house.z80
---sim-load
 --tape-name "Software House.tzx"
 --tape-sum 69929c952e79b48232eed4a6a631c34d
 --start 1343

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/o/OZoneThe.tzx.zip
 o-zone-the.z80
---sim-load
 --tape-name "The O Zone.tzx"
 --tape-sum e396f154ce7ce45bd7e17ff5e12a40a9
 --start 50050

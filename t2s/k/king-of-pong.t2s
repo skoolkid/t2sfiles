@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/k/KingOfPong.tzx.zip
 king-of-pong.z80
---sim-load
 --tape-name "KingOfPong_spc_eng.tzx"
 --tape-sum 7ef06ef9af56d9306fc488ca38d9b6c0
 --start 24000

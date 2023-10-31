@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/Psycho(Eliza).tap.zip
 psycho-eliza.z80
---sim-load
 --tape-name "PSYCHO.TAP"
 --tape-sum 6aaaf2ef477d1ad6c3d445e109964986
 --start 1343

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/CrystalCubes.tap.zip
 crystal-cubes.z80
---sim-load
 --tape-name "CrystalCubes.tap"
 --tape-sum 5f485d6dc17b958ad603b142aab35bb5
 --start 37090

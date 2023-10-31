@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/CursedBeTheCity.tzx.zip
 cursed-be-the-city.z80
---sim-load
 --tape-name "Cursed Be The City.tzx"
 --tape-sum e075b55bd1d6453439d7660e3be25e67
 --start 23342

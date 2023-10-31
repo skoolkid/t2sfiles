@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/Monopoly2.tap.zip
 monopoly-2.z80
---sim-load
 --tape-name "Monopoly2.tap"
 --tape-sum 640e54b7faaac29f540e9bed19e9853e
 --start 47200

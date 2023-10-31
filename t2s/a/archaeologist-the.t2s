@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/ArchaeologistThe.tap.zip
 archaeologist-the.z80
---sim-load
 --tape-name "ARCHEOLO.TAP"
 --tape-sum b0b88d0d5727dda05da312edc0b7304d
 --start 56216

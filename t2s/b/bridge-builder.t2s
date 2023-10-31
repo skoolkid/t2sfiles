@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/BridgeBuilder.tap.zip
 bridge-builder.z80
---sim-load
 --tape-name "Bridge Builder.TAP"
 --tape-sum 98b4559496e0ca58ed5ca8a45bafb9ba
 --start 1343

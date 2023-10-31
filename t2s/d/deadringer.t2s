@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/Deadringer.tzx.zip
 deadringer.z80
---sim-load
 --tape-name "Deadringer.tzx"
 --tape-sum f13c6d8c8997c2fc3b0981b1055ecf97
 --start 64793

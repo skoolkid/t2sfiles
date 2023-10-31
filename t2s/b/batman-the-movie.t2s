@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/Batman-TheMovie.tzx.zip
 batman-the-movie.z80
---sim-load
 --tape-name "Batman - The Movie.tzx"
 --tape-sum 9ee68024fd032f83aa49db2de6bb37cc
 --start 24756

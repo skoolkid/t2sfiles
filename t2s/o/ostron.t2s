@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/o/Ostron.tzx.zip
 ostron.z80
---sim-load
 --tape-name "Ostron.tzx"
 --tape-sum ff0302e396fdf848208c446d58645919
 --start 24060

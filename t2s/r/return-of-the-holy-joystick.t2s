@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/ReturnOfTheHolyJoystick.zip
 return-of-the-holy-joystick.z80
---sim-load
 --tape-name "Return Of The Holy Joystick.tzx"
 --tape-sum 7fc836b5f19bf850b8450ae84669d338
 --start 25063

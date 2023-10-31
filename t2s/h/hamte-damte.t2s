@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/h/HamteDamte.tzx.zip
 hamte-damte.z80
---sim-load
 --tape-name "Hamte Damte.tzx"
 --tape-sum 8c94a28f85a72c3615b664cb6ba176ab
 --start 40060

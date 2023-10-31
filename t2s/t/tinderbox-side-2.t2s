@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/Tinderbox.tzx.zip
 tinderbox-side-2.z80
---sim-load
 --tape-name "Tinderbox - Side 2.tzx"
 --tape-sum 206f06f9979412fc513de075278ca33b
 --start 1343

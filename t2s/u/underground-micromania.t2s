@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/u/Underground_2.tap.zip
 underground-micromania.z80
---sim-load
 --tape-name "Underground.tap"
 --tape-sum eaba9816b59af1e94c8285b8aee901cc
 --start 1343

@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/KnuckleBusters.zip
 knuckle-busters.z80
---sim-load
 --tape-name "Knuckle Busters.tzx"
 --tape-sum 2a896095a9beefe73f3372656526665e
 --start 33796

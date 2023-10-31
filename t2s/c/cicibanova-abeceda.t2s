@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/CicibanovaAbeceda.tap.zip
 cicibanova-abeceda.z80
---sim-load
 --tape-name "ABECEDA.TAP"
 --tape-sum dea3da291513a80ada6ead89ea8cd88a
 --start 42900

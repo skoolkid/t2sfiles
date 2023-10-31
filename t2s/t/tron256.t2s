@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/Tron256.tap.zip
 tron256.z80
---sim-load
 --tape-name "tron256.tap"
 --tape-sum b927098ebf65c76d2fb2e8c7145d8eb0
 --start 1343

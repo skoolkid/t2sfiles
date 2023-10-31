@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/z/Zarjas.tzx.zip
 zarjas.z80
---sim-load
 --tape-name "ZAR-JAZ.TZX"
 --tape-sum 049e2d9096a2f153f2d03c60ca7d7fd3
 --start 24700

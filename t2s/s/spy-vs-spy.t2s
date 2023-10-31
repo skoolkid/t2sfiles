@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SpyVsSpy.tzx.zip
 spy-vs-spy.z80
---sim-load
 --tape-name "Spy vs Spy.tzx"
 --tape-sum 8719d586f9ba44d3885ba3a0da04247c
 --start 58488

@@ -1,6 +1,5 @@
 "https://tzxvault.org/Spectrum/TZX/Ian'sNightOut.zip"
 ians-night-out.z80
---sim-load
 --tape-name "Ian's Night Out.tzx"
 --tape-sum 2f4719cfb9687947e97e9a87d655e99c
 --start 60763

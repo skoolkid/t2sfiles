@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/CodebookCaper.tzx.zip
 codebook-caper.z80
---sim-load
 --tape-name "The Code Book Caper.tzx"
 --tape-sum 309bdc9281188795a35dba40a7054979
 --start 1343

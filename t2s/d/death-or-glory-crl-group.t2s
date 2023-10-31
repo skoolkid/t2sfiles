@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/DeathOrGlory.tzx.zip
 death-or-glory-crl-group.z80
---sim-load
 --tape-name "Death Or Glory.tzx"
 --tape-sum d5e067db71e922b3641458d884861e7f
 --start 33664

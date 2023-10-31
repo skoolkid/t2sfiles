@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/r/RollerCoaster.tzx.zip
 roller-coaster.z80
---sim-load
 --tape-name "Roller Coaster.tzx"
 --tape-sum 2f5454f90a3738a6cf2c79e961bf0c75
 --start 63912

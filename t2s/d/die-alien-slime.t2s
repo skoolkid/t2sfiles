@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/DieAlienSlime.tzx.zip
 die-alien-slime.z80
---sim-load
 --tape-name "Die Alien Slime.tzx"
 --tape-sum 45149e5e863e4ffc5df6e4967f9dcfc3
 --start 24680

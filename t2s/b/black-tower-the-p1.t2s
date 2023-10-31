@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/BlackTowerThe.tzx.zip
 black-tower-the-p1.z80
---sim-load
 --tape-name "The Black Tower - Part 1.tzx"
 --tape-sum 7dfec9491bf2334feda5fbbb8ed2ce7f
 --start 25000

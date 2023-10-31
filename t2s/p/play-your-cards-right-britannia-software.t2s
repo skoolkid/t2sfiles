@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/PlayYourCardsRight_2.tzx.zip
 play-your-cards-right-britannia-software.z80
---sim-load
 --tape-name "Play Your Cards Right (Britannia).tzx"
 --tape-sum c86fedc13ee744f883aa604a705a5599
 --start 30000

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/AstralFoxgloves.tap.zip
 astral-foxgloves.z80
---sim-load
 --tape-name "ASTRALFO.TAP"
 --tape-sum 2b5d207bb993b25a4a95d49bb68baf56
 --start 1343

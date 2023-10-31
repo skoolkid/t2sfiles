@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Prowler.zip
 prowler.z80
---sim-load
 --tape-name "Prowler.tzx"
 --tape-sum e01bd9379fe07d0eadbe627a3c7b9d32
 --start 41602

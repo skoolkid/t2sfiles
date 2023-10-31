@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/Ballista.tap.zip
 ballista.z80
---sim-load
 --tape-name "BALLISTA.TAP"
 --tape-sum ce467e96e8f78d56bd0d1db0dae75276
 --start 1343

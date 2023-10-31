@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/ClobberCastle.tap.zip
 clobber-castle.z80
---sim-load
 --tape-name "CLOBCAST.TAP"
 --tape-sum 2f6f3e04cd2004ec4ada308167733be6
 --start 1343

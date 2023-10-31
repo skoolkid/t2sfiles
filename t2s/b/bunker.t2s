@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/Bunker.tzx.zip
 bunker.z80
---sim-load
 --tape-name "Bunker.tzx"
 --tape-sum bf66122e84af94d32329d8039c68628f
 --start 1343

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/Planets.tzx.zip
 planets.z80
---sim-load
 --tape-name "Planets.tzx"
 --tape-sum 20d972a9015c383edbf90b5dc8bf61eb
 --start 1343

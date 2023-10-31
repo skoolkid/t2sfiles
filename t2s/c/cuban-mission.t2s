@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/CubanMission_2.tap.zip
 cuban-mission.z80
---sim-load
 --tape-name "Cuban Mission (Galician).tap"
 --tape-sum cf2a5df0656d48ccd4d9b4f5ce780d08
 --start 36376

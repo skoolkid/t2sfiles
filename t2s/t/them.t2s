@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Them.zip
 them.z80
---sim-load
 --tape-name "Them.tzx"
 --tape-sum 15834015615fbde4fe15f479279fcae4
 --start 49056

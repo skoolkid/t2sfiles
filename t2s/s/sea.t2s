@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Sea.tzx.zip
 sea.z80
---sim-load
 --tape-name "SEA.TZX"
 --tape-sum 56ec8829915aa4ae54f0788886897f62
 --start 1343

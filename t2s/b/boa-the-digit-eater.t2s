@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/BoaTheDigitEater.tap.zip
 boa-the-digit-eater.z80
---sim-load
 --tape-name "UDAV.tap"
 --tape-sum f09e8cf0b9757bf99da99b6eaca70069
 --start 1343

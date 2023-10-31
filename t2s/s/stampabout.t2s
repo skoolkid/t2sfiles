@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Stampabout.tap.zip
 stampabout.z80
---sim-load
 --tape-name "STAMPABO.TAP"
 --tape-sum 27c74e34aebcf5bc53fdd9b9f323cf64
 --start 25000

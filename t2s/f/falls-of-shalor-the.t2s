@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/f/FallsOfShalorThe.tap.zip
 falls-of-shalor-the.z80
---sim-load
 --tape-name "FALLSSHA.TAP"
 --tape-sum 652f3c05f985ec3b0a49387b2e1ac295
 --start 1343

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/r/Rex.tzx.zip
 rex-p2.z80
---sim-load
 --tape-name "Rex - Side 1.tzx"
 --tape-sum f06f195b520230fc99d89686c9524446
 --start 38000

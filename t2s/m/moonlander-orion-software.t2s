@@ -1,7 +1,6 @@
 ; Contributed by Bedazzle
 https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0003275/Moonlander.tzx.zip
 moonlander-orion-software.z80
---sim-load
 --tape-name "Moonlander.tzx"
 --tape-sum 4d7071b865b62ffe6217a64716834aed
 --start 1343

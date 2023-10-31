@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/e/ExplodingAtoms.tap.zip
 exploding-atoms.z80
---sim-load
 --tape-name "ExplodingAtoms.tap"
 --tape-sum 4a2dcfa6102bf57222dbecdee8e15c37
 --start 24200

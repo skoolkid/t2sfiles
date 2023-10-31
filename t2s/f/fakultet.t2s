@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/f/Fakultet.tap.zip
 fakultet.z80
---sim-load
 --tape-name "FAKULTET.TAP"
 --tape-sum d943a004953a82dfe7ce865269499801
 --start 25000

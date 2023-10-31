@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/MurderHunt(ZenobiSoftware).tzx.zip
 murder-hunt-zenobi.z80
---sim-load
 --tape-name "Murder Hunt (Zenobi).tzx"
 --tape-sum 921adffa76a8770038d165e2638a5306
 --start 25000

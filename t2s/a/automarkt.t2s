@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/Automarkt.tap.zip
 automarkt.z80
---sim-load
 --tape-name "Automarkt.tap"
 --tape-sum e765d0e72613a0bb64b18854273be458
 --start 1343

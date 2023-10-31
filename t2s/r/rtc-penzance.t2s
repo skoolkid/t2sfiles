@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/r/RTCPenzance.tzx.zip
 rtc-penzance.z80
---sim-load
 --tape-name "RTC Penzance.tzx"
 --tape-sum f9b11110e3ab95238a6b2874a077a7a5
 --start 1343

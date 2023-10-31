@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/ParachuteDrop.tzx.zip
 parachute-drop.z80
---sim-load
 --tape-name "Parachute Drop.tzx"
 --tape-sum 9028b02b042b39cd31073a02d7558bb7
 --start 1343

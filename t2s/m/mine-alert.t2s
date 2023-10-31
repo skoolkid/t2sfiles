@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/MineAlert.tzx.zip
 mine-alert.z80
---sim-load
 --tape-name "MineAlert.tzx"
 --tape-sum ae430c8fcedd4cd0eea46cdade3d94cb
 --start 1343

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/ComputerMasterMind.tzx.zip
 computer-mastermind.z80
---sim-load
 --tape-name "ComputerMastermind.tzx"
 --tape-sum 628380677c3c2bc0c7f652725ab2c922
 --start 40500

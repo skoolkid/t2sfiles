@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/CowboyShootout.zip
 cowboy-shootout-micro-power-ltd.z80
---sim-load
 --tape-name "Cowboy Shootout.tzx"
 --tape-sum 1315cc4fa7df8c8f9ed27bcbe4fd91a4
 --start 27000

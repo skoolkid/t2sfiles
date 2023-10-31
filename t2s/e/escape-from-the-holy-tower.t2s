@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/e/EscapeFromTheHolyTower.tzx.zip
 escape-from-the-holy-tower.z80
---sim-load
 --tape-name "escape.tzx"
 --tape-sum 0ac52a415992ec778caed8a822e64843
 --start 50000

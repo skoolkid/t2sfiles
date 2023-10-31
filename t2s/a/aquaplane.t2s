@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/AquaPlane.zip
 aquaplane.z80
---sim-load
 --tape-name "Aqua Plane.tzx"
 --tape-sum 6bab168c551bed233e3ed1f3b4102f64
 --start 25000

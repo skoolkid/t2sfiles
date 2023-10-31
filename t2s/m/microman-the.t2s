@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/TheMicroman.zip
 microman-the.z80
---sim-load
 --tape-name "The Microman.tzx"
 --tape-sum 4e13ab3b1690e10c7bdfc38bf5763468
 --start 25000

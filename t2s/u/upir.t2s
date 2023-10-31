@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/u/Upir.tap.zip
 upir.z80
---sim-load
 --tape-name "UPIR.TAP"
 --tape-sum c2f24d1c080a5f4e87c804dd80a1b9bb
 --start 52049

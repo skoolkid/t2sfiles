@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SmashTV.tzx.zip
 smash-tv.z80
---sim-load
 --tape-name "Smash TV.tzx"
 --tape-sum 4e7a52cf8863b452dc7d3e5ef06aa530
 --start 23296

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/g/Gauntlet_2.tap.zip
 gauntlet-roger-valentine.z80
---sim-load
 --tape-name "rvgauntl.tap"
 --tape-sum 0caf669029da0d7841a9544149fe973f
 --start 1343

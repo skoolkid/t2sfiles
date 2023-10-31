@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/g/GuillermoTell(lightgun).tzx.zip
 guillermo-tell.z80
---sim-load
 --tape-name "Guillermo Tell (Lightgun).tzx"
 --tape-sum b74ec515890a68b00e3222d0787882ac
 --start 64532

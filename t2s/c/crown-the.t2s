@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/TheCrown.zip
 crown-the.z80
---sim-load
 --tape-name "The Crown.tzx"
 --tape-sum 34e99c6232f9c500eb5a180bb35e4440
 --start 23324

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/S.T.U.N.Runner.tzx.zip
 stun-runner.z80
---sim-load
 --tape-name "S.T.U.N. Runner - 48k.tzx"
 --tape-sum 4056e725bb8d4f127a68e42305ebe055
 --start 64781

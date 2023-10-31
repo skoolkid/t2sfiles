@@ -6,7 +6,6 @@
 
 https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0005536/Priest&Vampire.tzx.zip
 priest-and-vampire.z80
---sim-load
 --tape-name "Priest&Vampire.tzx"
 --tape-sum b8b2c74751016af236e6c3da454d1d63
 --start 7805

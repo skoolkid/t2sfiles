@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Tron.zip
 tron-blaby-computer-games.z80
---sim-load
 --tape-name "Tron.tzx"
 --tape-sum 523ce308b5736b845ca568d31fb5de42
 --start 48000

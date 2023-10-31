@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/TeenageEmergency.zip
 teenage-emergency.z80
---sim-load
 --tape-name "Teenage Emergency.tzx"
 --tape-sum c92f0ff4a63b94e69ff08862db821cfc
 --start 29201

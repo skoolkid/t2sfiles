@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/MurderThe.tzx.zip
 murder-the.z80
---sim-load
 --tape-name "The Murder.tzx"
 --tape-sum 08b52edc94000586a882a84f53566663
 --start 34104

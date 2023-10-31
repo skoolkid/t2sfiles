@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/r/RollingThunder.tzx.zip
 rolling-thunder.z80
---sim-load
 --tape-name "Rolling Thunder.tzx"
 --tape-sum 86725c4c03c981a3e4132a304cf7ba4f
 --start 64509

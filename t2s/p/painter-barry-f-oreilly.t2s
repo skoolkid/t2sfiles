@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/Painter_2.tzx.zip
 painter-barry-f-oreilly.z80
---sim-load
 --tape-name "Painter.tzx"
 --tape-sum 7c89a3ea1a8bbf5ccf47b3b2f51a9afe
 --start 1343

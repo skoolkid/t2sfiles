@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/Arkanoid-RevengeOfDoh.tzx.zip
 arkanoid-revenge-of-doh.z80
---sim-load
 --tape-name "Arkanoid II - 48k.tzx"
 --tape-sum 53abab6a93f799035c14817b225b3639
 --start 65283

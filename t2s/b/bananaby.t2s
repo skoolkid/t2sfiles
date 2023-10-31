@@ -1,6 +1,5 @@
 https://worldofspectrum.org/pub/sinclair/games/b/Bananaby.tzx.zip
 bananaby.z80
---sim-load
 --tape-name "Bananaby.tzx"
 --tape-sum e820db09a443bb9210275c5b60d9b38a
 --start 40000

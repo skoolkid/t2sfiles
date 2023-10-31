@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/r/Robotron.tzx.zip
 robotron.z80
---sim-load
 --tape-name "Robotron.tzx"
 --tape-sum 8246d7269a76a72c5f726eb7974b5c58
 --start 1343

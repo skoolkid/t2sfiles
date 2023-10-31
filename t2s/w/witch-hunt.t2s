@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/w/WitchHunt.tzx.zip
 witch-hunt.z80
---sim-load
 --tape-name "Witch Hunt.tzx"
 --tape-sum 1bf0154ba1eef85fa2322c1c943263cd
 --start 23324

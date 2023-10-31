@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/CricketChallenge.tzx.zip
 cricket-challenge.z80
---sim-load
 --tape-name "Cricket Challenge.tzx"
 --tape-sum c25a880db3ddbaad2cb982229f3ffced
 --start 1343

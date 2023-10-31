@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/k/KyberTorba.tap.zip
 kyber-torba.z80
---sim-load
 --tape-name "KyberTorba978.tap"
 --tape-sum 5e782197b11b3bdf918030ca222dd002
 --start 32768

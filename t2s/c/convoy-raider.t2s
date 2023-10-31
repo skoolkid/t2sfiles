@@ -1,6 +1,5 @@
 https://worldofspectrum.org/pub/sinclair/games/c/ConvoyRaider.tzx.zip
 convoy-raider.z80
---sim-load
 --tape-name "Convoy Raider.tzx"
 --tape-sum 2770e0c58072e0773c3ac6a1d2486826
 --start 24040

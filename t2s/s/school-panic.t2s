@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SchoolPanic.tap.zip
 school-panic.z80
---sim-load
 --tape-name "School Panic.tap"
 --tape-sum f92325a4f1980eb45114c89e857be395
 --start 1343

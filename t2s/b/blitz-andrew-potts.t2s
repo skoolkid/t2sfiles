@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Blitz(AndrewPotts).zip
 blitz-andrew-potts.z80
---sim-load
 --tape-name "Blitz (Andrew Potts).tzx"
 --tape-sum 2c807dc9e1c99497d204e7dfb14f0d24
 --start 55737

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/r/RatulZekiV2.tzx.zip
 ratul-and-zeki.z80
---sim-load
 --tape-name "ratul_and_zeki.tzx"
 --tape-sum 86dfe9722a0e26f42b439fe20ec57f5b
 --start 32768

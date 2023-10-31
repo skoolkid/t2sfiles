@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Seekrieg.tzx.zip
 seekrieg.z80
---sim-load
 --tape-name "Seekrieg.tzx"
 --tape-sum 38781c66c65e9f7aa51789f844dba61a
 --start 1343

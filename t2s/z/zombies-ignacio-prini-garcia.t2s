@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/z/Zombies(IgnacioPriniGarcia).tap.zip
 zombies-ignacio-prini-garcia.z80
---sim-load
 --tape-name "Zombies.tap"
 --tape-sum ba5ac258cf9084d35b029e51f132230b
 --start 1343

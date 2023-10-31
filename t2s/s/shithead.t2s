@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Shithead.tzx.zip
 shithead.z80
---sim-load
 --tape-name "Shithead.tzx"
 --tape-sum 4db3cd7db88f2ecad588277a6df43cbe
 --start 32768

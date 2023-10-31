@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/MagmaMan.tzx.zip
 magma-man.z80
---sim-load
 --tape-name "Magma Man.tzx"
 --tape-sum eb28a5d2b846e2622a657bf6716c9157
 --start 34104

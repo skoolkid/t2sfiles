@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SpectrumInvaders.tzx.zip
 spectrum-invaders-beam-software.z80
---sim-load
 --tape-name "Spectrum Invaders.tzx"
 --tape-sum 1b3eeec45911313076ae1765592f4d40
 --start 1343

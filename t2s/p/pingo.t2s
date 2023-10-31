@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/Pingo.tzx.zip
 pingo.z80
---sim-load
 --tape-name "Pingo.tzx"
 --tape-sum 99bee9fdb4907b69731b5d4f66751479
 --start 1343

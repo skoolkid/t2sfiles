@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/i/Impossamole.tzx.zip
 impossamole.z80
---sim-load
 --tape-name "Impossamole - Side A.tzx"
 --tape-sum d4a7bc7a677bbe9e87c344cf696ba3d8
 --start 52261

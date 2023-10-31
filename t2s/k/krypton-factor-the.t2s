@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/TheKryptonFactor.zip
 krypton-factor-the.z80
---sim-load
 --tape-name "The Krypton Factor.tzx"
 --tape-sum e799a3c9d648ad91a1345b49e1c09a12
 --start 32768

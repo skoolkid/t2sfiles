@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/ContinentalCircus.tzx.zip
 continental-circus.z80
---sim-load
 --tape-name "Continental Circus.tzx"
 --tape-sum 33daa4350a543571b931e18488e9084c
 --start 48168

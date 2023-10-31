@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Clerky.zip
 clerky-side-1.z80
---sim-load
 --tape-name "Clerky - Side 1.tzx"
 --tape-sum 8c3c7cecf33957a978c09b717a2eb470
 --start 40000

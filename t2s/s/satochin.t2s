@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Satochin.tzx.zip
 satochin.z80
---sim-load
 --tape-name "SATOCHIN.TZX"
 --tape-sum 83229951a021d320625aa6d4ade4b354
 --start 59334

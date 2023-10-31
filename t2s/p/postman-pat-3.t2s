@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/PostmanPat3-ToTheRescue.tzx.zip
 postman-pat-3.z80
---sim-load
 --tape-name "Postman Pat 3.tzx"
 --tape-sum 6e375f9e10d9f36e749158ef910c56d4
 --start 33040

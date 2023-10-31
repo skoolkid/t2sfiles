@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/o/OXO.tzx.zip
 oxo-richard-armstrong.z80
---sim-load
 --tape-name "OXO.tzx"
 --tape-sum 3299779d9d0321f0b28e6d3f550d6246
 --start 49587

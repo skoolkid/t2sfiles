@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Hampstead-Release2.zip
 hampstead-release-2.z80
---sim-load
 --tape-name "Hampstead - Release 2.tzx"
 --tape-sum 63b69a2a2d2b2e5062f1ca62f33c9d06
 --start 25000

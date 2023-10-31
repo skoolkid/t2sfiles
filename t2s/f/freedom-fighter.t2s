@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/FreedomFighter.zip
 freedom-fighter.z80
---sim-load
 --tape-name "Freedom Fighter.tzx"
 --tape-sum c7ddc6ec16228f2d3c5c8afcfea913a0
 --start 23351

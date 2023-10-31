@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Elite-48k.zip
 elite-side-b.z80
---sim-load
 --tape-name "Elite - 48k - Side B.tzx"
 --tape-sum 9dd57ef1bb0c42315951208593719960
 --start 53369

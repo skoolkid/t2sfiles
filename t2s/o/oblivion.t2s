@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Oblivion.zip
 oblivion.z80
---sim-load
 --tape-name "Oblivion.tzx"
 --tape-sum ec7195a74fd8686e3bac9368df56ef82
 --start 57900

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/h/H-Bloc.tap.zip
 h-bloc.z80
---sim-load
 --tape-name "HBloc.tap"
 --tape-sum 4a71f925974dc62d14d3678b6a2e1de1
 --start 1343

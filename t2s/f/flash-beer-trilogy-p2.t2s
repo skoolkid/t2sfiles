@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/f/FlashBeerTrilogy.tzx.zip
 flash-beer-trilogy-p2.z80
---sim-load
 --tape-name "Flash Beer.tzx"
 --tape-sum 7d4ba1bad9ed7834be786cee88b8bae5
 --start 61450

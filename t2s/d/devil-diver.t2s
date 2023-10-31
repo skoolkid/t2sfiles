@@ -1,6 +1,5 @@
 https://worldofspectrum.org/pub/sinclair/games/d/DevilDiver.tzx.zip
 devil-diver.z80
---sim-load
 --tape-name "Devil Diver.tzx"
 --tape-sum 312df5f2718d3f6957ffb8b0ffa7915e
 --start 32768

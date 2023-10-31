@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/Angler.tzx.zip
 angler.z80
---sim-load
 --tape-name "Angler.tzx"
 --tape-sum dd363f05f8113eb43cfb99fb25808124
 --start 1343

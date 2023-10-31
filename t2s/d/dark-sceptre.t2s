@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/DarkSceptre.tzx.zip
 dark-sceptre.z80
---sim-load
 --tape-name "Dark Sceptre.tzx"
 --tape-sum 92f70a8e4bb031a6d603d52147f93a8a
 --start 23487

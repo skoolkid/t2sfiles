@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/BehindClosedDoors.tzx.zip
 behind-closed-doors.z80
---sim-load
 --tape-name "Behind Closed Doors.tzx"
 --tape-sum c0d44a6c6fd6d2b07beaecd8366e23c4
 --start 1343

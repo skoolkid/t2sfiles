@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/g/GreenDeathThe.tzx.zip
 green-death-the.z80
---sim-load
 --tape-name "The Green Death.tzx"
 --tape-sum 11c2e392635a5252635e48e21e8f6937
 --start 34104

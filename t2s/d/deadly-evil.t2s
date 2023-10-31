@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/DeadlyEvil.tzx.zip
 deadly-evil.z80
---sim-load
 --tape-name "Deadly Evil.tzx"
 --tape-sum 55483b66d6e5f8b9689eb49406de6be9
 --start 65200

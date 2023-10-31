@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/M-Text.tzx.zip
 m-text.z80
---sim-load
 --tape-name "M-Text.tzx"
 --tape-sum 35ce2a3f985d3fbcc9bdb8a3b9d49149
 --start 1343

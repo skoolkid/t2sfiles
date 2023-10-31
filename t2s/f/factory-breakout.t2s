@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/f/FactoryBreakout.tzx.zip
 factory-breakout.z80
---sim-load
 --tape-name "Factory Breakout.tzx"
 --tape-sum 6062a36f0c38411cc7f1d7c8a17c5e74
 --start 29600

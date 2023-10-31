@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/123/3-DMaze.tzx.zip
 3d-maze-j-a-steele.z80
---sim-load
 --tape-name "3dmaze.tzx"
 --tape-sum b6330a946f3d4d4e46871b7499132153
 --start 28000

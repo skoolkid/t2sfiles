@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SirFrancisDrake.tzx.zip
 sir-francis-drake.z80
---sim-load
 --tape-name "Sir Francis Drake.tzx"
 --tape-sum 4b09c6483ea4be5bf76957c6e148d1b4
 --start 1343

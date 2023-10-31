@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/g/GolfingWorld.tzx.zip
 golfing-world-side-b.z80
---sim-load
 --tape-name "Golfing World - Side B.tzx"
 --tape-sum c5d87bfcd7df24cd90355b5b201f594e
 --start 1343

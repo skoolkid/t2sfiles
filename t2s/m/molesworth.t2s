@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Molesworth.zip
 molesworth.z80
---sim-load
 --tape-name "Molesworth.tzx"
 --tape-sum db469955a5b23909ecf34a7c94c7de92
 --start 25063

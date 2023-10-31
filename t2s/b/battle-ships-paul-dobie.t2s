@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/BattleShips_2.tzx.zip
 battle-ships-paul-dobie.z80
---sim-load
 --tape-name "battleships-paul_dobie.tzx"
 --tape-sum 63ca1bf57f08c0cce0293b69b81b1a2d
 --start 1343

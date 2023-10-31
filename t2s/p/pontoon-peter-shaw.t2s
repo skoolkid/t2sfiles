@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/Pontoon_7.tap.zip
 pontoon-peter-shaw.z80
---sim-load
 --tape-name "Pontoon.tap"
 --tape-sum ffad0f0bb23520df8783dd8cd88f6605
 --start 1343

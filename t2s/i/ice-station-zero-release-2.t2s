@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/i/IceStationZeroV2.tzx.zip
 ice-station-zero-release-2.z80
---sim-load
 --tape-name "Ice Station Zero - Release 2.tzx"
 --tape-sum 29d6eff463891cff7a0d973318f9d4d3
 --start 25063

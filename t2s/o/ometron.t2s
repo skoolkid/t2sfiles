@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/o/Ometron.tzx.zip
 ometron.z80
---sim-load
 --tape-name "Ometron.tzx"
 --tape-sum c139cbecd1059714e3d8d9761c2a638a
 --start 26812

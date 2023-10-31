@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/TachyonCommand.zip
 tachyon-command.z80
---sim-load
 --tape-name "Tachyon Command.tzx"
 --tape-sum 0093a3c0fa91d9b51367583d6ccc1676
 --start 16399

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/Target(SummitSoftware1).tzx.zip
 target-summit-software.z80
---sim-load
 --tape-name "Target (Summit).tzx"
 --tape-sum 118c85c2f79916a81f6983fa703c966f
 --start 32768

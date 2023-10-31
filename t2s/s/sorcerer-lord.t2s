@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/SorcererLord.zip
 sorcerer-lord.z80
---sim-load
 --tape-name "Sorcerer Lord.tzx"
 --tape-sum 1a48d9c97782d4f143bbd11cada0af64
 --start 45017

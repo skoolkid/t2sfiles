@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/StellarEvade.tap.zip
 stellar-evade.z80
---sim-load
 --tape-name "StellarEvade.tap"
 --tape-sum 4abbaceed3c22909424d36d875d0f697
 --start 1343

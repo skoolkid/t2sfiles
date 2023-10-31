@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/e/EscapeFromTime.tzx.zip
 escape-from-time.z80
---sim-load
 --tape-name "Escape From Time.tzx"
 --tape-sum dfce423a02f04af27f9d38bd36213219
 --start 1343

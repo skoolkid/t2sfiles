@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/h/HappyHour.tzx.zip
 happy-hour.z80
---sim-load
 --tape-name "Happy Hour.tzx"
 --tape-sum d3fe33b37ca3d552be15b9e314e77eda
 --start 1343

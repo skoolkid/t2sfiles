@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/h/Heroes92.tzx.zip
 heroes-92.z80
---sim-load
 --tape-name "heroes92.tzx"
 --tape-sum 39488e3d9ccf533e36be1c02003f28c7
 --start 24200

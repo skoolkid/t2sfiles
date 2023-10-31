@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/Bolalela.tzx.zip
 bolalela.z80
---sim-load
 --tape-name "Bolalela.tzx"
 --tape-sum fb2720e1c5c6a5257b169f50de39c813
 --start 1343

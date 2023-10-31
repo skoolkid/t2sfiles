@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/h/Homebrew.tap.zip
 homebrew.z80
---sim-load
 --tape-name "Homebrew.tap"
 --tape-sum 021101bdb0ad883b54ba0339bedb4249
 --start 24500

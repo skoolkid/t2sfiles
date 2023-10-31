@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/MansionQuest.zip
 mansion-quest.z80
---sim-load
 --tape-name "Mansion Quest.tzx"
 --tape-sum fb21e5056964ec4f458f68c1e7b869c8
 --start 25000

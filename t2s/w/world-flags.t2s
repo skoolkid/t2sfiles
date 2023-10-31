@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/w/WorldFlags.tzx.zip
 world-flags.z80
---sim-load
 --tape-name "World Flags.tzx"
 --tape-sum 773b52b01e16e7720c82662696e8bcdb
 --start 1343

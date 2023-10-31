@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Close-In.zip
 close-in.z80
---sim-load
 --tape-name "Close-In.tzx"
 --tape-sum 55201b9877e1baefb7a2eb535fc1becc
 --start 42000

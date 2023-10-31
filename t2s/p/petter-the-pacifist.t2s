@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/PetterThePacifist.tap.zip
 petter-the-pacifist.z80
---sim-load
 --tape-name "Petter The Pacifist.tap"
 --tape-sum 31ace02b3a65c169d347e5a02ff59348
 --start 47500

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/r/Raider41.tzx.zip
 raider-41.z80
---sim-load
 --tape-name "Raider 41.tzx"
 --tape-sum 0554ec03d7583c0ea057d644f7a530e6
 --start 1343

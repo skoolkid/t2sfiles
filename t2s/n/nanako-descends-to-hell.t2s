@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/n/NanakoDescendsToHell.tzx.zip
 nanako-descends-to-hell.z80
---sim-load
 --tape-name "Nanako Descends To Hell.tzx"
 --tape-sum d32a096897f5dc12b96b2f8129ae8fc6
 --start 32768

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/DeepScan_2.tzx.zip
 deep-scan-octocom.z80
---sim-load
 --tape-name "Deep Scan (Octocom).tzx"
 --tape-sum f86358cb6e98c2c16e94411ec5322fee
 --start 1343

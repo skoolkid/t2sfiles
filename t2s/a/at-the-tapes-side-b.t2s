@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/AtTheTapes.tzx.zip
 at-the-tapes-side-b.z80
---sim-load
 --tape-name "At The Tapes - Side B.tzx"
 --tape-sum 4d61c851bd5b45f3d04c703aa5fab43f
 --start 1343

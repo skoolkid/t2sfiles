@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/g/GroundAttack_2.tap.zip
 ground-attack-antony-crawford.z80
---sim-load
 --tape-name "GROUNDAT.TAP"
 --tape-sum bcf176111a48dd7321eadfa180c7c5fe
 --start 1343

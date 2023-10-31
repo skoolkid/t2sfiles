@@ -1,6 +1,5 @@
 https://worldofspectrum.org/pub/sinclair/games/d/DayTrip.tzx.zip
 day-trip.z80
---sim-load
 --tape-name "Day Trip.tzx"
 --tape-sum 0a6440d94cfe8b097e1a3858155d7496
 --start 25063

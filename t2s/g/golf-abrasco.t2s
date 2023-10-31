@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/g/Golf_2.tzx.zip
 golf-abrasco.z80
---sim-load
 --tape-name "Golf (Abrasco).tzx"
 --tape-sum 55b67bc16d013405649f04c4bfb2409f
 --start 1343

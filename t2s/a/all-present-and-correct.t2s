@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/AllPresentAndCorrect.tzx.zip
 all-present-and-correct.z80
---sim-load
 --tape-name "APAC.tzx"
 --tape-sum 8b6756a8aeb887f65ca59fbf247c9b43
 --start 33025

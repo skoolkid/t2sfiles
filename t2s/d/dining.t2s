@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/Dining.tzx.zip
 dining.z80
---sim-load
 --tape-name "Dining.tzx"
 --tape-sum 2f4c751c1274d9cf1e5b6f92de04b4e8
 --start 1343

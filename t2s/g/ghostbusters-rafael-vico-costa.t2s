@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/g/Ghostbusters.tzx.zip
 ghostbusters-rafael-vico-costa.z80
---sim-load
 --tape-name "Ghostbusters.tzx"
 --tape-sum 9663ad8544ac7f40c585a99cf3bb19ff
 --start 1343

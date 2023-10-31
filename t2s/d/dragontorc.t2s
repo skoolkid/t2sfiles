@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/Dragontorc.tzx.zip
 dragontorc.z80
---sim-load
 --tape-name "Dragontorc.tzx"
 --tape-sum f5538eb7515b41b5ae12ba240b6f6e30
 --start 24700

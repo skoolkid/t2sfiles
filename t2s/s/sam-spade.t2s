@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/SamSpade.zip
 sam-spade.z80
---sim-load
 --tape-name "Sam Spade.tzx"
 --tape-sum e8f04710b4de118f081e7c64a830ea7c
 --start 24576

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Smiler3-TravelsAroundBlighty.tap.zip
 smiler-3-travels-around-blighty.z80
---sim-load
 --tape-name "smiler3.tap"
 --tape-sum c2fed2645876a1f8e677cd7fcce469bb
 --start 32768

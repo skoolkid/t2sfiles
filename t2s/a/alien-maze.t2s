@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/AlienMaze.tzx.zip
 alien-maze.z80
---sim-load
 --tape-name "Alien Maze.tzx"
 --tape-sum 94fbbdb4550e8daca4f9c8ab9c3d6fc7
 --start 1343

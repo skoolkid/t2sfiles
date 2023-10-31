@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/AdventureC-ShipOfDoom.tzx.zip
 ship-of-doom-the.z80
---sim-load
 --tape-name "The Ship Of Doom.tzx"
 --tape-sum 9d7348f002cefb99031acc513aea2be3
 --start 23955

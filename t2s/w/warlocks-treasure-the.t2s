@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/w/WarlocksTreasureThe.tzx.zip
 warlocks-treasure-the.z80
---sim-load
 --tape-name "The Warlock's Treasure.tzx"
 --tape-sum 732b9cb7ea58334a9e70d6f97c25dbac
 --start 1343

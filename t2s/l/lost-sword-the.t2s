@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/l/LostSwordThe.tzx.zip
 lost-sword-the.z80
---sim-load
 --tape-name "LostSwordThe.tzx"
 --tape-sum 03574e8325a8728b2813fe90fa99b9fe
 --start 1343

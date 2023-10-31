@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/i/Indy.tzx.zip
 indy.z80
---sim-load
 --tape-name "Indy.tzx"
 --tape-sum 35c1a64a1e0d3de73e30e4511d0c046d
 --start 1343

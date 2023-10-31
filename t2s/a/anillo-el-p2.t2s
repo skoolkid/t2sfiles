@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/AnilloEl.tap.zip
 anillo-el-p2.z80
---sim-load
 --tape-name "El Anillo - Alternate Version - Part 2.tap"
 --tape-sum 3e43e2ad074b6140404dfa2198b1b8a8
 --start 29073

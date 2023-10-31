@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/Majikazo.tap.zip
 majikazo-side-a.z80
---sim-load
 --tape-name "Majikazo - side A.tap"
 --tape-sum bd7c8328d132d280b9a8e10db276c6a8
 --start 65050

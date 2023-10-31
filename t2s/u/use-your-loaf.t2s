@@ -1,6 +1,5 @@
 https://worldofspectrum.org/pub/sinclair/games/u/UseYourLoaf.tzx.zip
 use-your-loaf.z80
---sim-load
 --tape-name "Use Your Loaf.tzx"
 --tape-sum 3d47afba1a118c069c5dd0350bf78fae
 --start 34104

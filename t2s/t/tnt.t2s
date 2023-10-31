@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/TNT.tzx.zip
 tnt.z80
---sim-load
 --tape-name "TNT.tzx"
 --tape-sum 6fd0f212dc490fc13da51c3c1dc4dcb2
 --start 1343

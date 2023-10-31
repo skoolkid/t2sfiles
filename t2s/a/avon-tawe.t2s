@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/Avon-Tawe.tzx.zip
 avon-tawe.z80
---sim-load
 --tape-name "Avon-Tawe.tzx"
 --tape-sum 7afcdecab0b4bb3eeee58a02c29f792e
 --start 1343

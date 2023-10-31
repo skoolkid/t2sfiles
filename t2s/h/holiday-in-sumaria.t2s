@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/h/HolidayInSumaria.tzx.zip
 holiday-in-sumaria.z80
---sim-load
 --tape-name "Holiday In Sumaria.tzx"
 --tape-sum 9d8b6e01a85b3f7295edac25e6177c3b
 --start 50003

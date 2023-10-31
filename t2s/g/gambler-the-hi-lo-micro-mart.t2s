@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/compilations/g/GamblerThe.tzx.zip
 gambler-the-hi-lo-micro-mart.z80
---sim-load
 --tape-name "The Gambler.tzx"
 --tape-sum 0945c6e1c96a6dc35bd955e63905dad4
 --start 1343

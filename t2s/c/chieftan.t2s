@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/Chieftan.tap.zip
 chieftan.z80
---sim-load
 --tape-name "Chieftan.tap"
 --tape-sum 0a6f273e1af8e95b710adf1fc7bd5964
 --start 1343

@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/A.T.A.C.zip
 atac.z80
---sim-load
 --tape-name "A.T.A.C.tzx"
 --tape-sum e869d02297b980fb0f16537ec95e5ecc
 --start 37376

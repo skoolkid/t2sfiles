@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/h/Heavyweight.tap.zip
 heavyweight.z80
---sim-load
 --tape-name "HEAVYWGT.TAP"
 --tape-sum 96a6c21010f027e3c845a563611af60a
 --start 1343

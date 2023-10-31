@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/g/GregoryLosesHisClock.tzx.zip
 gregory-loses-his-clock.z80
---sim-load
 --tape-name "Gregory Loses His Clock.tzx"
 --tape-sum c14223e1b6bf458689c6a94e1a5df18b
 --start 37250

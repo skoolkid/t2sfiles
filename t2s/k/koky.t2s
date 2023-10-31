@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/k/Koky.tap.zip
 koky.z80
---sim-load
 --tape-name "Koky.tap"
 --tape-sum 702e19dbdd6322f41b018efab084a368
 --start 24200

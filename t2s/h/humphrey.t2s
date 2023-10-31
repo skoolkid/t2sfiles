@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/h/Humphrey.tzx.zip
 humphrey.z80
---sim-load
 --tape-name "Humphrey.tzx"
 --tape-sum 3c790bb44642045dac3bf00efb779511
 --start 60743

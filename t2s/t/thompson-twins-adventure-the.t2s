@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/ThompsonTwinsAdventureThe.tzx.zip
 thompson-twins-adventure-the.z80
---sim-load
 --tape-name "The Thompson Twins Adventure.tzx"
 --tape-sum d90811dfecbb1c274712808978ab5b07
 --start 1343

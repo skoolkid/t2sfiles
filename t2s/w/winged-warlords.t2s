@@ -1,6 +1,5 @@
 https://worldofspectrum.org/pub/sinclair/games/w/WingedWarlords.tzx.zip
 winged-warlords.z80
---sim-load
 --tape-name "Winged Warlords.tzx"
 --tape-sum 35d85072096c4d5a7077d28f8148f6ce
 --start 23795

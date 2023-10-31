@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/v/Vatman.tzx.zip
 vatman.z80
---sim-load
 --tape-name "VATMAN.TZX"
 --tape-sum 825ee533aba781bf354ac60f224118bd
 --start 49800

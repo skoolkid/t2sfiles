@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Snowball.tzx.zip
 snowball.z80
---sim-load
 --tape-name "Snowball.tzx"
 --tape-sum d330c43ca4bcd9d16096dea12a7e3e3d
 --start 24576

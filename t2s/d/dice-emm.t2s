@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/Dice_2.tap.zip
 dice-emm.z80
---sim-load
 --tape-name "DICE.TAP"
 --tape-sum d202187a48bc4003d19cf2c150488dbe
 --start 1343

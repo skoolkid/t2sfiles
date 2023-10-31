@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/Parabola.tzx.zip
 parabola.z80
---sim-load
 --tape-name "Parabola.tzx"
 --tape-sum 54ddf2ff496cf4bec316083fbff2908d
 --start 48507

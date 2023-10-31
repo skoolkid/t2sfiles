@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/n/Netherworld.tzx.zip
 netherworld.z80
---sim-load
 --tape-name "Netherworld.tzx"
 --tape-sum df545cca265e53065b0c53a9d395df63
 --start 25026

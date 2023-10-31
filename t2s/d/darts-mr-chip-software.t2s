@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/Darts.tzx.zip
 darts-mr-chip-software.z80
---sim-load
 --tape-name "Darts.tzx"
 --tape-sum 5bfe7cde65ed287ca6a9f3e4d7a4fe15
 --start 1343

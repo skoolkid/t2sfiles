@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/Biggles.tzx.zip
 biggles-the-sound-weapon.z80
---sim-load
 --tape-name "Biggles - The Sound Weapon.tzx"
 --tape-sum 157b69704f083b0a66f2984550cc666e
 --start 34816

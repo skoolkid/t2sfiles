@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/l/LibroNegroEl.tap.zip
 libro-negro-el-p2.z80
---sim-load
 --tape-name "El Libro Negro - Part 2.tap"
 --tape-sum b8dc8885c3d7b37bf4348fd5d0974248
 --start 29169

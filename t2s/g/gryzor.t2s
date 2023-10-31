@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/g/Gryzor.tzx.zip
 gryzor.z80
---sim-load
 --tape-name "Gryzor - Side 1.tzx"
 --tape-sum 93d5cd59d56a4158db09e58c8590bc1a
 --start 65047

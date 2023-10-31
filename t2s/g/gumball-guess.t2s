@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/g/GumballGuess.tzx.zip
 gumball-guess.z80
---sim-load
 --tape-name "Gumball Guess.tzx"
 --tape-sum 538e747bd0675a4524d8ca644818b3b7
 --start 1343

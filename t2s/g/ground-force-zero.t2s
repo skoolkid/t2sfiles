@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/g/GroundForceZero.tzx.zip
 ground-force-zero.z80
---sim-load
 --tape-name "Ground Force Zero.tzx"
 --tape-sum 503d8a642625b2b6b211dff5b15cbb14
 --start 1343

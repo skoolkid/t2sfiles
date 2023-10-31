@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/BubbleTrouble_2.tap.zip
 bubble-trouble-brian-skidmore.z80
---sim-load
 --tape-name "BUBBLESK.TAP"
 --tape-sum bf9f52e0d17b49ee3039d406765c406c
 --start 37087

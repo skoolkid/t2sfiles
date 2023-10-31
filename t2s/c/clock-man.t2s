@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/ClockMan.tap.zip
 clock-man.z80
---sim-load
 --tape-name "ClockMan.tap"
 --tape-sum c88200da356c24453ff711f3afdb5b94
 --start 1343

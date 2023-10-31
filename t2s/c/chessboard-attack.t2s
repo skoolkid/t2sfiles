@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/ChessboardAttack.tzx.zip
 chessboard-attack.z80
---sim-load
 --tape-name "ChessboardAttack.tzx"
 --tape-sum ca326d1ad46bc5d8d89cdb42068c8195
 --start 24576

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/CastleWalls.tap.zip
 castle-walls.z80
---sim-load
 --tape-name "CastleWalls.tap"
 --tape-sum 7121daf2c764ed94a6a0c20a7b37f3e1
 --start 1343

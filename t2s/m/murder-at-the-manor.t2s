@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/MurderAtTheManor.tzx.zip
 murder-at-the-manor.z80
---sim-load
 --tape-name "Murder At The Manor.tzx"
 --tape-sum fefcae65f9453332238c238834eee3d6
 --start 1343

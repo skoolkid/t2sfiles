@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/f/FreddyKrugerLive.tap.zip
 freddy-kruger-live.z80
---sim-load
 --tape-name "FKRUGER.TAP"
 --tape-sum 8fff31a7c6fcf6c31db37b7442165b17
 --start 27000

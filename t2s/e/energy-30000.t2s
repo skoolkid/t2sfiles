@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/e/Energy30_000.tzx.zip
 energy-30000.z80
---sim-load
 --tape-name "Energy 30,000.tzx"
 --tape-sum c74df577d165b65356a2df01d368aff3
 --start 1343

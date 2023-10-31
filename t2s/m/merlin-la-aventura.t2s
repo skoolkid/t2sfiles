@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/Merlin-LaAventura-.tzx.zip
 merlin-la-aventura.z80
---sim-load
 --tape-name "MERLIN.tzx"
 --tape-sum d9e02161eb46a355f2786c82e005306b
 --start 1343

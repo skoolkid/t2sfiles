@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Q10Tankbuster.zip
 q10-tankbuster.z80
---sim-load
 --tape-name "Q10 Tankbuster.tzx"
 --tape-sum dc0b44f92d866bd9e75f84b40ee5b9bc
 --start 49209

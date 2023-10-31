@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/Mathsted.tap.zip
 mathsted.z80
---sim-load
 --tape-name "MATHSTED.TAP"
 --tape-sum 171cf52b424d5dc37aa82bd2feceb015
 --start 1343

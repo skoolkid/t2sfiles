@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/n/Norman.tzx.zip
 norman.z80
---sim-load
 --tape-name "Norman.tzx"
 --tape-sum fd0ee50792a83b294055109b5052d275
 --start 32767

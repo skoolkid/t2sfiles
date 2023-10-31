@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/PortalsOfPThaal.tap.zip
 portals-of-pthaal.z80
---sim-load
 --tape-name "PORTALST.TAP"
 --tape-sum 0b6f6bbddc7317dc4a92f7530f24bbca
 --start 1343

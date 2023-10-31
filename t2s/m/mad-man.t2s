@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/Mad-Man.tap.zip
 mad-man.z80
---sim-load
 --tape-name "MAD-MAN.TAP"
 --tape-sum 7775ee3a3399d13e0798661dbd5ff7e3
 --start 1343

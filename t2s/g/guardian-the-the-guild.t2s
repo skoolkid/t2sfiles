@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/g/GuardianThe_2.tzx.zip
 guardian-the-the-guild.z80
---sim-load
 --tape-name "The Guardian.tzx"
 --tape-sum 183c8604b3c6890072115b3b466757fb
 --start 23518

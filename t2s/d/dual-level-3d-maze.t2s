@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/DualLevel3-DMaze.tap.zip
 dual-level-3d-maze.z80
---sim-load
 --tape-name "DualLevel3DMaze.tap"
 --tape-sum eba7a7044aaf164b4b9f54a047d33288
 --start 1343

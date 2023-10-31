@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/CosmeYLosAlienigenas.tap.zip
 cosme-y-los-alienigenas.z80
---sim-load
 --tape-name "UVEATACK.TAP"
 --tape-sum 25000c27fed73bd8d3ab82c624591571
 --start 1343

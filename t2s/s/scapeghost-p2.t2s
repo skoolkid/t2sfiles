@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Scapeghost.tzx.zip
 scapeghost-p2.z80
---sim-load
 --tape-name "Scapeghost - 48k - Part 2.tzx"
 --tape-sum 73b0f6063f30f441692918b1605ab352
 --start 23296

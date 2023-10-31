@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/f/FishMan.tzx.zip
 fish-man.z80
---sim-load
 --tape-name "Fish man.tzx"
 --tape-sum b1e06329d2f4a895d761772fd8d8315b
 --start 1343

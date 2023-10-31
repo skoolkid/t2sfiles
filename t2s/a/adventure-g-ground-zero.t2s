@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/AdventureG-GroundZero.tzx.zip
 adventure-g-ground-zero.z80
---sim-load
 --tape-name "Ground Zero.tzx"
 --tape-sum 6feaeef63e63ac3cba0861788548a9f8
 --start 25000

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/All-AmericanBasketball.tzx.zip
 all-american-basketball.z80
---sim-load
 --tape-name "All-American Basketball.tzx"
 --tape-sum 6a9af5abe500484c23203fc94ddb0746
 --start 64229

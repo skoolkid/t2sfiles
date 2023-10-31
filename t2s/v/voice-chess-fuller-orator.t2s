@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SpectrumVoiceChess(FullerOrator).tzx.zip
 voice-chess-fuller-orator.z80
---sim-load
 --tape-name "Voice Chess - Fuller Orator.tzx"
 --tape-sum 5c70347a5ff2b0da093af8261c6611b3
 --start 36864

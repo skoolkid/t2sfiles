@@ -1,6 +1,5 @@
 "https://tzxvault.org/Spectrum/TZX/ForPete'sSake.zip"
 for-petes-sake-p2.z80
---sim-load
 --tape-name "For Pete's Sake - Part 2.tzx"
 --tape-sum 669a809891ae9f60bcaaca63fe227770
 --start 29201

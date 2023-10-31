@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/GrandPrixDriver.zip
 grand-prix-driver.z80
---sim-load
 --tape-name "Grand Prix Driver.tzx"
 --tape-sum 40f857ebccb70588fff30e3423a19334
 --start 23538

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/ShadowsOfThePast.tzx.zip
 shadows-of-the-past.z80
---sim-load
 --tape-name "Shadows Of The Past.tzx"
 --tape-sum 4f44a1fac06b1a984146fafdad4cdf9b
 --start 36383

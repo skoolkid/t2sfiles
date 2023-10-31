@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/CrackingDayOut-StarringEggHeadA.tap.zip
 a-cracking-day-out-starring-egg-head.z80
---sim-load
 --tape-name "Cracking.tap"
 --tape-sum 8c989dd54ced23a4394b7fb68f8057ac
 --start 24000

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/e/Escape_3.tzx.zip
 escape-malcolm-e-evans.z80
---sim-load
 --tape-name "Escape.tzx"
 --tape-sum c5f5e47ef122b4c8bd245acc3ec2c86e
 --start 1343

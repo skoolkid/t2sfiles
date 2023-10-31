@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/Battleships_2.tap.zip
 battleships-paul-stanley.z80
---sim-load
 --tape-name "Battleships.tap"
 --tape-sum be3dac34ed788c0a73bad143acbb8063
 --start 1343

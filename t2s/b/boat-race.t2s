@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/BoatRace.tap.zip
 boat-race.z80
---sim-load
 --tape-name "BoatRace.tap"
 --tape-sum fc827d63ad38c386572e1dd458113e09
 --start 1343

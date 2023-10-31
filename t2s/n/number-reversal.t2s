@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/n/NumberReversal.tzx.zip
 number-reversal.z80
---sim-load
 --tape-name "Number Reversal.tzx"
 --tape-sum 48fdbe0882825f5504af54dc63fec128
 --start 1343

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/n/Noah.tzx.zip
 noah-esp.z80
---sim-load
 --tape-name "Noah (ESP).tzx"
 --tape-sum 09053c6d5d89263186f942aab021dd55
 --start 58579

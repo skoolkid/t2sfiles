@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/Moscow-Paris.tap.zip
 moscow-paris.z80
---sim-load
 --tape-name "MOSCOW_1.TAP"
 --tape-sum 68c0f269e9395c1250722524037d159b
 --start 34104

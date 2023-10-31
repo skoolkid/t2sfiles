@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/MeteorStorm.tap.zip
 meteor-storm-beam-software.z80
---sim-load
 --tape-name "METEORM.TAP"
 --tape-sum d6880ccc6f141900b585efdde4c5153b
 --start 1343

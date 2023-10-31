@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/FelineSleepy.zip
 feline-sleepy.z80
---sim-load
 --tape-name "Feline Sleepy.tzx"
 --tape-sum cea705aae0849714d2b05620a58bb4b0
 --start 29169

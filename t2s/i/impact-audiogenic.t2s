@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/i/Impact.tzx.zip
 impact-audiogenic.z80
---sim-load
 --tape-name "Impact (Audiogenic).tzx"
 --tape-sum 0c04e59168a549020f84c8ccd3cc1032
 --start 48442

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Sidewalk.tzx.zip
 side-walk.z80
---sim-load
 --tape-name "Side Walk.tzx"
 --tape-sum 05e3047535d04f7e62ccf66120ca9b4d
 --start 51200

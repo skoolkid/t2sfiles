@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/w/WashingLine.tzx.zip
 washing-line.z80
---sim-load
 --tape-name "Washing Line.tzx"
 --tape-sum 7992d94709cfa32be278811e820e67d6
 --start 1343

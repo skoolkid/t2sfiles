@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/h/Hermit.tap.zip
 hermit.z80
---sim-load
 --tape-name "HERMIT.TAP"
 --tape-sum 2541643d234d87953e90cd39e7be2d61
 --start 1343

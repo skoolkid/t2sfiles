@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/Adventure100.tzx.zip
 adventure-100.z80
---sim-load
 --tape-name "Adventure 100.tzx"
 --tape-sum b0710420db47074ae6e45a9abde0ecc9
 --start 35000

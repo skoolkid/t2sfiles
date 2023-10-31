@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/Birds.tap.zip
 birds.z80
---sim-load
 --tape-name "Birds.tap"
 --tape-sum 7fd7b8d3de044536217c1aba691e2cbc
 --start 1343

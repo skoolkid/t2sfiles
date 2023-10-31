@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Scumball2.tap.zip
 scumball-2.z80
---sim-load
 --tape-name "scumball2.tap"
 --tape-sum a73197c8240cf52cbbb756ebbf0afc33
 --start 1343

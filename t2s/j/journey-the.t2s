@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/j/JourneyThe.tzx.zip
 journey-the.z80
---sim-load
 --tape-name "The Journey.tzx"
 --tape-sum 2b15063529af3c31bd47e4670a41dfe5
 --start 1343

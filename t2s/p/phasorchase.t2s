@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/Phasorchase.tzx.zip
 phasorchase.z80
---sim-load
 --tape-name "Phasor Chase.tzx"
 --tape-sum bc64cef26ad75afe8072af87013b939b
 --start 1343

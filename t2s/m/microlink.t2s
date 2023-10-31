@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/MicroLink.tzx.zip
 microlink.z80
---sim-load
 --tape-name "MicroLink.tzx"
 --tape-sum bf685c39e402ff23a858c9369aa6b283
 --start 1343

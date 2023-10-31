@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/q/Quadracube3D.tzx.zip
 3d-quadracube.z80
---sim-load
 --tape-name "3D Quadracube.tzx"
 --tape-sum e0f8c453646e31f41bcdd2379dd109d5
 --start 1343

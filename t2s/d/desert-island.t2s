@@ -1,6 +1,5 @@
 https://worldofspectrum.org/pub/sinclair/games/d/DesertIsland(G.I.Games).tzx.zip
 desert-island.z80
---sim-load
 --tape-name "Desert Island.tzx"
 --tape-sum cf61eee57c12d26e631f9ce536907b72
 --start 25000

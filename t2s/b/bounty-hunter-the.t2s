@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/BountyHunterThe.tzx.zip
 bounty-hunter-the.z80
---sim-load
 --tape-name "The Bounty Hunter.tzx"
 --tape-sum c585ba066c25d561d625ebf4a12702af
 --start 36376

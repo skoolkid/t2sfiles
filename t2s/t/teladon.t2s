@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/Teladon.tzx.zip
 teladon.z80
---sim-load
 --tape-name "Teladon.tzx"
 --tape-sum 00c04a50f8c4c4fe7057cfc12e10acff
 --start 24057

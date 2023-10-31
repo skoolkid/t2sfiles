@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/l/LandBeyondTimeThe.tzx.zip
 land-beyond-time-the-p2.z80
---sim-load
 --tape-name "The Land Beyond Time - Part 2.tzx"
 --tape-sum 945fb8d4476a758b5fc11dd7a1a673e1
 --start 25000

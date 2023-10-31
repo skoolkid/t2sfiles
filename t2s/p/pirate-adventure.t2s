@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/PirateAdventure.zip
 pirate-adventure.z80
---sim-load
 --tape-name "Pirate Adventure.tzx"
 --tape-sum df2ca1470d6d19f63a24e84390100f32
 --start 25000

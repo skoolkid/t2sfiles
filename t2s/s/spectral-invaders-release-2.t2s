@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SpectralInvadersV2.tzx.zip
 spectral-invaders-release-2.z80
---sim-load
 --tape-name "Spectral Invaders - Release 2.tzx"
 --tape-sum feba5c4a61fdec4442a6dfbe7a86ba7f
 --start 24577

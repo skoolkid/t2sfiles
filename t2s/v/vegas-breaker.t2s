@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/v/VegasBreaker.tzx.zip
 vegas-breaker.z80
---sim-load
 --tape-name "Vegas Breaker.tzx"
 --tape-sum 625cf871a559034b96d70668a144436e
 --start 1343

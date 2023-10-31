@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/BlobTheCop.tap.zip
 blob-the-cop.z80
---sim-load
 --tape-name "BLOBCOP.TAP"
 --tape-sum 6b7b55c82b9c89fef6c4f9eba58f6364
 --start 38224

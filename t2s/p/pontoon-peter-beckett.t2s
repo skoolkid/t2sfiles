@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/Pontoon.tap.zip
 pontoon-peter-beckett.z80
---sim-load
 --tape-name "PONTOON.TAP"
 --tape-sum 49a8acef09aec49b195b818616305279
 --start 1343

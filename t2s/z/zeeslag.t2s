@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/z/Zeeslag.tap.zip
 zeeslag.z80
---sim-load
 --tape-name "ZEESLAG.TAP"
 --tape-sum 4319a5694e8f576491e4763bc4b2e585
 --start 50850

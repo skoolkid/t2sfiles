@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/Chambers.tzx.zip
 chambers.z80
---sim-load
 --tape-name "Chambers.tzx"
 --tape-sum 854cc855c5adf508bf39bd163a5b75a1
 --start 1343

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/AlanSimmons-Bucaneer.tap.zip
 alan-simmons-bucaneer.z80
---sim-load
 --tape-name "Bucaneer.tap"
 --tape-sum 29ee99a4846e2079cf0089d035dd0f4d
 --start 25000

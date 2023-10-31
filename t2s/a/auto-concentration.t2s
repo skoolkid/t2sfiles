@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/AutoConcentration.tap.zip
 auto-concentration.z80
---sim-load
 --tape-name "AUTOCON.TAP"
 --tape-sum d80c09de06dff57cb9caff37ae55cd59
 --start 30000

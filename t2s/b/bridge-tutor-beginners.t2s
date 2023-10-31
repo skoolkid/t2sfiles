@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/BridgeTutorBeginners.tzx.zip
 bridge-tutor-beginners.z80
---sim-load
 --tape-name "Bridge Tutor Beginners.tzx"
 --tape-sum 560972ce222c30918d6e1242fdd8834e
 --start 1343

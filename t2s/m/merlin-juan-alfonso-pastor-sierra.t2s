@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/Merlin_2.tap.zip
 merlin-juan-alfonso-pastor-sierra.z80
---sim-load
 --tape-name "MERLIN-S.TAP"
 --tape-sum c52b4dc4981b87482fcd40d1ed184d95
 --start 50000

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/DragNJoin4k.tap.zip
 drag-n-join-4k.z80
---sim-load
 --tape-name "dragnjoin.tap"
 --tape-sum b61088c7fc4c52c3fa40847de736e8fa
 --start 23766

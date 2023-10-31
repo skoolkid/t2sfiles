@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/CherrySwipe.tap.zip
 cherry-swipe.z80
---sim-load
 --tape-name "CHERRY.TAP"
 --tape-sum ea3d2e3d596c63132f2997bc393dd17c
 --start 1343

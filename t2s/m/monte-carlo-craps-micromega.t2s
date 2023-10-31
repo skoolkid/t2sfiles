@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/compilations/m/MonteCarlo.tzx.zip
 monte-carlo-craps-micromega.z80
---sim-load
 --tape-name "Monte Carlo - Side 2.tzx"
 --tape-sum 5a78c36558e49b6cc79c4e84051ae7d8
 --start 1343

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/j/JudgeMorryVs.BaldoMidget.tzx.zip
 judge-morry-vs-baldo-midget.z80
---sim-load
 --tape-name "Judge Morry Vs. Baldo Midget.tzx"
 --tape-sum 5724210b37e56415e2b8246723358840
 --start 32768

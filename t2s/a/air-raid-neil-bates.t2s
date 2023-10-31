@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/AirRaid_3.tap.zip
 air-raid-neil-bates.z80
---sim-load
 --tape-name "Air Raid.tap"
 --tape-sum 0f766716c10207fb7fc2c0e1ae729504
 --start 1343

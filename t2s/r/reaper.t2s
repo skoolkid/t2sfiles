@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Reaper.zip
 reaper.z80
---sim-load
 --tape-name "Reaper.tzx"
 --tape-sum d8d6aa18da2d0f017b8ee52434c4b742
 --start 25100

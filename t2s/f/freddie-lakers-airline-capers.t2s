@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/f/FreddieLakersAirlineCapers.tap.zip
 freddie-lakers-airline-capers.z80
---sim-load
 --tape-name "FLAC.TAP"
 --tape-sum 669926b6c5cbcf16e5ff1c99ae0cfc2c
 --start 65037

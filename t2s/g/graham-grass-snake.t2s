@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/g/GrahamGrassSnake.tap.zip
 graham-grass-snake.z80
---sim-load
 --tape-name "GrahamGrassSnake.tap"
 --tape-sum 7b973f6f11e923d675f52f4d31f4499d
 --start 1343

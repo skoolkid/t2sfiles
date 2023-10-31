@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/h/Hyperlane+.tap.zip
 hyperlane.z80
---sim-load
 --tape-name "HYPERLAP.TAP"
 --tape-sum 91e110ed4251e5a849cefac7c1dbab3a
 --start 32203

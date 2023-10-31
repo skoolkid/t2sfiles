@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/r/RTCKingsCross_2.tzx.zip
 rtc-kings-cross-dee-kay-systems.z80
---sim-load
 --tape-name "RTC Kings Cross.tzx"
 --tape-sum 3fdf85c7ffa9f1aa6e31800754c78362
 --start 1343

@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/GyronArena.zip
 gyron-arena-side-2.z80
---sim-load
 --tape-name "Gyron Arena - Side 2.tzx"
 --tape-sum 92a1210387fff7d126f10ba2f733d27c
 --start 24576

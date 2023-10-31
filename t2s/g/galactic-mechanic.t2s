@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/GalacticMechanic.zip
 galactic-mechanic.z80
---sim-load
 --tape-name "Galactic Mechanic.tzx"
 --tape-sum f1ef22a50cde1a0994c6e1c070a20f74
 --start 25000

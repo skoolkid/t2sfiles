@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/TunnelAdventure.tzx.zip
 tunnel-adventure.z80
---sim-load
 --tape-name "Tunnel Adventure.tzx"
 --tape-sum a04c7e646033bf5e80505c56e8bdd56e
 --start 1343

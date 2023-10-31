@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/Twinz.tap.zip
 twinz.z80
---sim-load
 --tape-name "TWINZ.TAP"
 --tape-sum 818935dbb0e31ad310616d357ded9ed8
 --start 44000

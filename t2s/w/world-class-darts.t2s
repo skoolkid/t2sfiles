@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/w/WorldClassDarts.tap.zip
 world-class-darts.z80
---sim-load
 --tape-name "501D.TAP"
 --tape-sum 4d34e273402bdfa78bde6ff07e136efb
 --start 1343

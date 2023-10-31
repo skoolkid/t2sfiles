@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/PushOff.zip
 push-off.z80
---sim-load
 --tape-name "Push Off.tzx"
 --tape-sum b8889e767b47e3af65e7b5ad67d554ac
 --start 24000

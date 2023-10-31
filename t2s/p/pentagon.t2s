@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/Pentagon.tap.zip
 pentagon.z80
---sim-load
 --tape-name "PENTAGO2.TAP"
 --tape-sum cb04824a3e04d1765a1dbea17cc6bfe8
 --start 1343

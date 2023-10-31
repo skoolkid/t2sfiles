@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Specvaders-Release2.zip
 specvaders-release-2.z80
---sim-load
 --tape-name "Specvaders - Release 2.tzx"
 --tape-sum 3ae23d152547b1f4265f2d97f2bc4958
 --start 1343

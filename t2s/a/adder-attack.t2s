@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/AdderAttack.tzx.zip
 adder-attack.z80
---sim-load
 --tape-name "Adder Attack.tzx"
 --tape-sum 1d963988ec4b66770231eb9be1f07ab9
 --start 43700

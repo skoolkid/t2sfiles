@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SpaceWreck.tzx.zip
 space-wreck.z80
---sim-load
 --tape-name "Space Wreck.tzx"
 --tape-sum 692b06588e0b5d7bc9d9db72a7cedc52
 --start 1343

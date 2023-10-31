@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/h/Hit.tzx.zip
 hit.z80
---sim-load
 --tape-name "Hit.tzx"
 --tape-sum fd1f1e15ce5cfe3e38ea73b1bd43b54f
 --start 23786

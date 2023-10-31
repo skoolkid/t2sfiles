@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/compilations/g/GamesTape1.tzx.zip
 mongoose.z80
---sim-load
 --tape-name "Games Tape 1 (Gilsoft) - Side 1.tzx"
 --tape-sum af35ed3798c5cacb7cb18df41b824c5a
 --start 1343

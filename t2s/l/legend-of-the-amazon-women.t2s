@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/l/LegendOfTheAmazonWomen.tzx.zip
 legend-of-the-amazon-women.z80
---sim-load
 --tape-name "Legend Of The Amazon Women.tzx"
 --tape-sum 25e46e001ef95e88ec256791ba1acdc7
 --start 50220

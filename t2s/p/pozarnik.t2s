@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/Pozarnik.tzx.zip
 pozarnik.z80
---sim-load
 --tape-name "pozarnik.tzx"
 --tape-sum 64138e3433578f89d08890b2f00b8a2d
 --start 1343

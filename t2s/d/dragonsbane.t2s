@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/Dragonsbane.tzx.zip
 dragonsbane.z80
---sim-load
 --tape-name "Dragons Bane.tzx"
 --tape-sum 18ae51265af8ad500d544c0daf25339b
 --start 1343

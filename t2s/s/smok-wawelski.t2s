@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SmokWawelski.tzx.zip
 smok-wawelski.z80
---sim-load
 --tape-name "SmokWawelski.tzx"
 --tape-sum cdddac412bd54c0532fc23df64d5b4aa
 --start 48205

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/MissileCommand.tap.zip
 missile-command-c-tech.z80
---sim-load
 --tape-name "MISSILEC.TAP"
 --tape-sum 6282e89ee06af59b0b060165976ada74
 --start 1343

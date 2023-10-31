@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/f/Freecell.tap.zip
 freecell.z80
---sim-load
 --tape-name "freecell.tap"
 --tape-sum 67a8a6af0f2325358d3b4ab42d2c5629
 --start 23766

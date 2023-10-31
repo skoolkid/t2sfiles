@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/Mission2-ProjectGibraltar.tzx.zip
 mission-2-project-gibraltar.z80
---sim-load
 --tape-name "Mission 2 - Project Gibraltar.tzx"
 --tape-sum e66ac2cec756c320a12a883a71fccc91
 --start 65232

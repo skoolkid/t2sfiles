@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/ParanoidPete.zip
 paranoid-pete.z80
---sim-load
 --tape-name "Paranoid Pete.tzx"
 --tape-sum 5d252472a9a118f1616d3aa35e650478
 --start 65517

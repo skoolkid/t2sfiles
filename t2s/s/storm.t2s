@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Storm.tzx.zip
 storm.z80
---sim-load
 --tape-name "Storm.tzx"
 --tape-sum 575138ed719f650b935b733e02e9d47b
 --start 43000

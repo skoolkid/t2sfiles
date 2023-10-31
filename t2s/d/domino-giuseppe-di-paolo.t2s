@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/Domino.tzx.zip
 domino-giuseppe-di-paolo.z80
---sim-load
 --tape-name "Domino.tzx"
 --tape-sum 4ecb7635e1eb9375b26206b1ac77019f
 --start 1343

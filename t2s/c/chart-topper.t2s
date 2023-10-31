@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/ChartTopper.tap.zip
 chart-topper.z80
---sim-load
 --tape-name "CHARTTOP.TAP"
 --tape-sum c7839218f712644ca069c8ab992ff8a2
 --start 1343

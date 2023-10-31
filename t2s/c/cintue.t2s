@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/Cintue.tap.zip
 cintue.z80
---sim-load
 --tape-name "Cintue.tap"
 --tape-sum 237fcc027722483c35a4b41170269cf2
 --start 1343

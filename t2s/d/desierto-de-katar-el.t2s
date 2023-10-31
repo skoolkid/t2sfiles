@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/DesiertoDeKatarEl.tap.zip
 desierto-de-katar-el.z80
---sim-load
 --tape-name "El Desierto De Katar (With PAWS Database).tap"
 --tape-sum 13c980b49d7aa32ee4a769b08c3d0ac0
 --start 29041

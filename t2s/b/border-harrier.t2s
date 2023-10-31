@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/BorderHarrier.zip
 border-harrier.z80
---sim-load
 --tape-name "Border Harrier.tzx"
 --tape-sum 84ab7053e0a8eb08f85285e5ef3443ec
 --start 23324

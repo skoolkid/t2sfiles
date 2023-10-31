@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/KungFu.zip
 kung-fu-bug-byte-software.z80
---sim-load
 --tape-name "Kung Fu.tzx"
 --tape-sum 3d1ba196b7b64457693aaf9925e4c84e
 --start 55101

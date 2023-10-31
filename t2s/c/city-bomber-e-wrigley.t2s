@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/CityBomber_2.tap.zip
 city-bomber-e-wrigley.z80
---sim-load
 --tape-name "CityBomber.tap"
 --tape-sum 1d6f54ae3c824cfca5f2f5c79c90c15b
 --start 1343

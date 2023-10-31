@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/Microball.tzx.zip
 microball.z80
---sim-load
 --tape-name "Microball.tzx"
 --tape-sum db99fac3c34e1f2f39069f3b5b8d552d
 --start 38656

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/Talisman_3.tzx.zip
 talisman-the-guild.z80
---sim-load
 --tape-name "Talisman.tzx"
 --tape-sum 27ab110979c2a772f5e69be6e4024363
 --start 29201

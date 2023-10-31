@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/l/LastSunsetForLattica.tzx.zip
 last-sunset-for-lattica.z80
---sim-load
 --tape-name "Last Sunset For Lattica.tzx"
 --tape-sum b973a4cb6ca9310976619269f319c3fd
 --start 39940

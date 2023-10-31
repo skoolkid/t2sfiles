@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/n/NineHoleGolf.tap.zip
 nine-hole-golf.z80
---sim-load
 --tape-name "NineHoleGolf.tap"
 --tape-sum f73282b7589b61d39417153d94ac3c4f
 --start 1343

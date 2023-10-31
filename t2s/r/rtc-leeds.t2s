@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/r/RTCLeeds.tzx.zip
 rtc-leeds.z80
---sim-load
 --tape-name "Rail Traffic Control Leeds.tzx"
 --tape-sum 8cf4f1ab9622abf28a56c22d789b8705
 --start 1343

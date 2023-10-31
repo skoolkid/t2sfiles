@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Ashkeron!.zip
 ashkeron.z80
---sim-load
 --tape-name "Ashkeron!.tzx"
 --tape-sum 6756ac52e12bbf2c7da784bb4f8b8928
 --start 23495

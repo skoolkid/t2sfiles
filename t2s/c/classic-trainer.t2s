@@ -1,6 +1,5 @@
 https://worldofspectrum.org/pub/sinclair/games/c/ClassicTrainer.tzx.zip
 classic-trainer.z80
---sim-load
 --tape-name "Classic Trainer.tzx"
 --tape-sum bab6f3d9e25faa73780fb50dadf5f292
 --start 1343

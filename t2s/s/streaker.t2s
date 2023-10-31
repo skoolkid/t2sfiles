@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Streaker.zip
 streaker.z80
---sim-load
 --tape-name "Streaker.tzx"
 --tape-sum ceb8b2934ccc51f0b3ff96c9da5e0c3a
 --start 56000

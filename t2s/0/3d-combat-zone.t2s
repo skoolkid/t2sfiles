@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/CombatZone3D.tzx.zip
 3d-combat-zone.z80
---sim-load
 --tape-name "3D Combat Zone.tzx"
 --tape-sum 9d25e01deb0321cd9897b30a25b3bf00
 --start 40968

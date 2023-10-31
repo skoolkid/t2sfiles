@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/l/Labyrman.tzx.zip
 labyrman.z80
---sim-load
 --tape-name "Labyrman.tzx"
 --tape-sum e14dd2ff68ba7d5ac628612092280856
 --start 1343

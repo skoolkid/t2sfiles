@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/CastelloIncantatoIl.tzx.zip
 castello-incantato-il.z80
---sim-load
 --tape-name "CastelloIncantatoIl.tzx"
 --tape-sum 215601469e15e6a9ac733421a1bebc1b
 --start 1343

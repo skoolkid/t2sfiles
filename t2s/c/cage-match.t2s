@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/CageMatch.tzx.zip
 cage-match.z80
---sim-load
 --tape-name "Cage Match.tzx"
 --tape-sum 13582ce40c2cf2802f12e8429bcef3e5
 --start 28672

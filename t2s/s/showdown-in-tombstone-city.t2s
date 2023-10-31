@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/ShowdownInTombstoneCity.tap.zip
 showdown-in-tombstone-city.z80
---sim-load
 --tape-name "Showdown.tap"
 --tape-sum 7dc8d4680a255e80206e8ff1744a9dc0
 --start 1343

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/l/LordsOfMagic.tzx.zip
 lords-of-magic.z80
---sim-load
 --tape-name "Lords Of Magic.tzx"
 --tape-sum 2a52f355400a21419b5bddf5257d4978
 --start 25000

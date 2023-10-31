@@ -1,6 +1,5 @@
 https://worldofspectrum.org/pub/sinclair/games/b/BlindAlley.tzx.zip
 blind-alley.z80
---sim-load
 --tape-name "Blind Alley.tzx"
 --tape-sum 26e518dcd08aca419c3a3cc31dafa60a
 --start 24027

@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Mandroid.zip
 mandroid.z80
---sim-load
 --tape-name "Mandroid.tzx"
 --tape-sum 367477633f75922ee2ff548a08a624ca
 --start 34104

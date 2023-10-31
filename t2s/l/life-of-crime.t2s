@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/LifeOfCrime.zip
 life-of-crime.z80
---sim-load
 --tape-name "Life Of Crime.tzx"
 --tape-sum 7be739a07a4a707526981ab19295f378
 --start 36372

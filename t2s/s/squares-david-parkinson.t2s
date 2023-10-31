@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Squares.tzx.zip
 squares-david-parkinson.z80
---sim-load
 --tape-name "Squares.tzx"
 --tape-sum 7954d472f8e4524e98e5b62d83292fc1
 --start 1343

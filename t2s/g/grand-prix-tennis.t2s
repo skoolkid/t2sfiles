@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/g/GrandPrixTennis.tzx.zip
 grand-prix-tennis.z80
---sim-load
 --tape-name "Grand Prix Tennis.tzx"
 --tape-sum 322590694bdd3af0a38ab425f44730cf
 --start 35325

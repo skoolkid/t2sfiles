@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/StarQuest.zip
 star-quest.z80
---sim-load
 --tape-name "Star Quest.tzx"
 --tape-sum af39d00aff2c0bf16e8b6ac4870f31c2
 --start 1343

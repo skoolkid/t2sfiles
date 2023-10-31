@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/n/NotCentipede.tzx.zip
 not-centipede.z80
---sim-load
 --tape-name "Not centipede.tzx"
 --tape-sum da6d947c2df80b5715203de02c78fb54
 --start 1343

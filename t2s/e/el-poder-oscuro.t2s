@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/PoderOscuroEl.tzx.zip
 el-poder-oscuro.z80
---sim-load
 --tape-name "El Poder Oscuro.tzx"
 --tape-sum 1ea2e0ac737249f03bd7750be680c491
 --start 24104

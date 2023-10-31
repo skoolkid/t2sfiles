@@ -1,6 +1,5 @@
 https://worldofspectrum.org/pub/sinclair/games/d/Dervish.tzx.zip
 dervish.z80
---sim-load
 --tape-name "Dervish.tzx"
 --tape-sum 5cc5611f7d84a58ea7e2b7baaff46d9e
 --start 52412

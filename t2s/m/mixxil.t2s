@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/Mixxil.tap.zip
 mixxil.z80
---sim-load
 --tape-name "Mixxil.tap"
 --tape-sum 03b659c19bf2b01b763d73c161ca26c9
 --start 1343

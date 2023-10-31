@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/k/KillerRing.tzx.zip
 killer-ring.z80
---sim-load
 --tape-name "Killer Ring.tzx"
 --tape-sum 9e0646eb5ce2522d06335724f7bfbc33
 --start 32768

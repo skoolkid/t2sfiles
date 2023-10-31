@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/ChopperDropV2.tzx.zip
 chopper-drop-release-2.z80
---sim-load
 --tape-name "Chopper Drop - Release 2.tzx"
 --tape-sum 94cc1246ccc58491b1e02acf0cbc6593
 --start 1343

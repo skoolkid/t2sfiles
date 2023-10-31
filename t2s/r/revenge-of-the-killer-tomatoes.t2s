@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/RevengeOfTheKillerTomatoes.zip
 revenge-of-the-killer-tomatoes.z80
---sim-load
 --tape-name "Revenge Of The Killer Tomatoes.tzx"
 --tape-sum bc719e32d7482906ed3873e1e328b5c2
 --start 23296

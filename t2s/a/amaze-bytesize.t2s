@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/Amaze.tzx.zip
 amaze-bytesize.z80
---sim-load
 --tape-name "Amaze.tzx"
 --tape-sum 7a0150b211831790184cf0ddb4000c32
 --start 1343

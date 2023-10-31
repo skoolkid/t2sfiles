@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Faerie.zip
 faerie-side-a.z80
---sim-load
 --tape-name "Faerie - Side A.tzx"
 --tape-sum bd9b673448137da1b114af4a56fdc94e
 --start 25000

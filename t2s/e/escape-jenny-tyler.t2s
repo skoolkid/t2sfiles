@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/e/Escape_6.tap.zip
 escape-jenny-tyler.z80
---sim-load
 --tape-name "Escape.tap"
 --tape-sum 6f254bee09f6590685f62bb35166d0a7
 --start 1343

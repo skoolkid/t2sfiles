@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/PAC-TXT_2.tap.zip
 pac-txt-czech.z80
---sim-load
 --tape-name "paccz.tap"
 --tape-sum 500d53c05dcf31f5dceac4b1831298dc
 --start 1343

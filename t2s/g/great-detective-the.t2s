@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/g/GreatDetectiveThe.tzx.zip
 great-detective-the.z80
---sim-load
 --tape-name "The Great Detective.tzx"
 --tape-sum 3b1492ef6b2ad891fb450c4ee00d79b8
 --start 32256

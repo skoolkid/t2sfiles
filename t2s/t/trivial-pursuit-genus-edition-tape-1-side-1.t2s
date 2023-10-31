@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/TrivialPursuit-GenusEdition.zip
 trivial-pursuit-genus-edition-tape-1-side-1.z80
---sim-load
 --tape-name "Trivial Pursuit - Genus Edition - Tape 1 - Side 1.tzx"
 --tape-sum 261b135dc209780535f209008e90bb25
 --start 65265

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SwettibitzInSpace.tap.zip
 swettibitz-in-space.z80
---sim-load
 --tape-name "SWETTI.TAP"
 --tape-sum 427cbf09a3476e54734e4387ddcc7b0f
 --start 42000

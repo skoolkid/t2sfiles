@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/k/Krakatoa(different).tzx.zip
 krakatoa.z80
---sim-load
 --tape-name "Krakatoa - Alternate - Side 1.tzx"
 --tape-sum 44698d25ec73f88d3181913db0dcf14c
 --start 23325

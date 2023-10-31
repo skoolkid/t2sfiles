@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/n/NightfliteII.tzx.zip
 nightflite-ii.z80
---sim-load
 --tape-name "Nightflite II.tzx"
 --tape-sum c23136540da07d950056679c98d45319
 --start 23773

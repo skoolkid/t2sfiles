@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/l/LondonAdventure.tzx.zip
 london-adventure.z80
---sim-load
 --tape-name "London Adventure.tzx"
 --tape-sum e0d7f56e5423357280a97e075d8c3911
 --start 25063

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SteveSilverAdventure1.tzx.zip
 steve-silver-adventure-1.z80
---sim-load
 --tape-name "Steve Silver Adventure 1.tzx"
 --tape-sum a21dbc0d0ac2075281a7157eed8fb91e
 --start 1343

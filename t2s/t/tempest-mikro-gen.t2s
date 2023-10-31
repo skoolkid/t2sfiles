@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/Tempest.tzx.zip
 tempest-mikro-gen.z80
---sim-load
 --tape-name "Tempest - Side 1 (Mikro-Gen).tzx"
 --tape-sum 9f43633238be0e1b92241211174fcaeb
 --start 27230

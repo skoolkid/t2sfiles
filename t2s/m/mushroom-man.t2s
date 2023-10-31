@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/MushroomMan(MushroomMan2011)(DrBEEP).tap.zip
 mushroom-man.z80
---sim-load
 --tape-name "mushroom.tap"
 --tape-sum 33863dbe65037ab37e237ad22827095c
 --start 1343

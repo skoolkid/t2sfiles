@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Starbyte.tzx.zip
 starbyte.z80
---sim-load
 --tape-name "Starbyte.tzx"
 --tape-sum 5ef4e4d51ade90bc6d11b67f741ff053
 --start 65273

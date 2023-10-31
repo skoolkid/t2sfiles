@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/RaceFun.zip
 race-fun.z80
---sim-load
 --tape-name "Race Fun.tzx"
 --tape-sum 72b99495d51d1968547b763df853c138
 --start 1343

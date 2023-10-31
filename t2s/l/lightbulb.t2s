@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/l/Lightbulb.tap.zip
 lightbulb.z80
---sim-load
 --tape-name "LIGHTBUL.TAP"
 --tape-sum d6ef73fdb8c6b49ecce6a17badd6d8cc
 --start 1343

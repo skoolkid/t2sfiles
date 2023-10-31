@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/DNA1k.tap.zip
 dna-1k.z80
---sim-load
 --tape-name "DNA1k.tap"
 --tape-sum d9e1964894a1b66db8572af5cd304990
 --start 23766

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SpectrumForthGame.tzx.zip
 spectrum-forth-game-16k.z80
---sim-load
 --tape-name "Spectrum Forth Game - 16k.tzx"
 --tape-sum c81deeba3bd9d711885c7e441c752e84
 --start 1343

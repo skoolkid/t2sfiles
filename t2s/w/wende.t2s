@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/w/Wende.tzx.zip
 wende.z80
---sim-load
 --tape-name "Wende(Andreas Scope).tzx"
 --tape-sum 63bb9ddfa36d1373af4d2290557f6f3f
 --start 40000

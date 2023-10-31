@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/w/WorldCup.tzx.zip
 world-cup-cult-games.z80
---sim-load
 --tape-name "World Cup (Cult).tzx"
 --tape-sum dbea47aca077c7a78dd83cc4951e84ab
 --start 24049

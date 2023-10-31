@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/Tombola(1).tzx.zip
 tombola-disco-vogue.z80
---sim-load
 --tape-name "Tombola.tzx"
 --tape-sum d3d4b60615dc2177a49ef28b29aa6366
 --start 1343

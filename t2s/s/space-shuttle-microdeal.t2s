@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SpaceShuttle_2.tzx.zip
 space-shuttle-microdeal.z80
---sim-load
 --tape-name "Space Shuttle.tzx"
 --tape-sum 01a8af92bae96d03db184bfb0e0f232e
 --start 65160

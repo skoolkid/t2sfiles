@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/MontanaJonesII.tzx.zip
 montana-jones-ii.z80
---sim-load
 --tape-name "MONTANA2.TZX"
 --tape-sum ad727885d8b39bf3724ecd141e6f8575
 --start 25000

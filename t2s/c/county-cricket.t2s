@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/CountyCricket.tzx.zip
 county-cricket.z80
---sim-load
 --tape-name "County Cricket.tzx"
 --tape-sum b4b1f15e0ecdaf910ed635a6c2d30b02
 --start 1343

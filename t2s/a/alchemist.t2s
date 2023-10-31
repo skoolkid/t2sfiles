@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/Alchemist.tzx.zip
 alchemist.z80
---sim-load
 --tape-name "The Alchemist.tzx"
 --tape-sum af3ad60f957b2dbd1e98390ae1bd87cf
 --start 24577

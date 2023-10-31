@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/Matchmaker.tzx.zip
 matchmaker.z80
---sim-load
 --tape-name "Matchmaker.tzx"
 --tape-sum 31bf50415d3b11e8ed0d532aaebeab93
 --start 25000

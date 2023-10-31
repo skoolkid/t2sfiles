@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/Artura.tzx.zip
 artura.z80
---sim-load
 --tape-name "Artura.tzx"
 --tape-sum 4a5c7ba40807444873ae91e75c4df952
 --start 64509

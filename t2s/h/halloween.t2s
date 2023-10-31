@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/h/Halloween_2.tzx.zip
 halloween.z80
---sim-load
 --tape-name "Hallowe'en.tzx"
 --tape-sum 3631d0a437215cc7eec5954aab12bc53
 --start 1343

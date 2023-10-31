@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/TunnelRaider.tap.zip
 tunnel-raider.z80
---sim-load
 --tape-name "TUNLRAID.TAP"
 --tape-sum 22ed9317f6691e18af567eff93fefb42
 --start 1343

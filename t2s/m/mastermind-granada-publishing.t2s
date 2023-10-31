@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/Mastermind_2.tap.zip
 mastermind-granada-publishing.z80
---sim-load
 --tape-name "Mastermind.TAP"
 --tape-sum c496e31c963ccf7e7feb14b5a9444cdf
 --start 1343

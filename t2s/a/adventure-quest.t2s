@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/AdventureQuest.tzx.zip
 adventure-quest.z80
---sim-load
 --tape-name "Adventure Quest.tzx"
 --tape-sum c6b7809fabea1c18d57fe50225b95af3
 --start 24576

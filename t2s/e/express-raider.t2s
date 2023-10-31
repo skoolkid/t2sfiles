@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/e/ExpressRaider.tzx.zip
 express-raider.z80
---sim-load
 --tape-name "Express Raider.tzx"
 --tape-sum 24ceccc2d60c1f8f50f5e558ab6e2ddb
 --start 62513

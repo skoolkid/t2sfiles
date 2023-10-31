@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SpatialMission2.tzx.zip
 spatial-mission-2.z80
---sim-load
 --tape-name "Spatial Mission 2.tzx"
 --tape-sum 304d1efd79eac34105460e8d43b84093
 --start 1343

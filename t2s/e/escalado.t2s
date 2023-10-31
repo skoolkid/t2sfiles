@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/e/Escalado.tzx.zip
 escalado.z80
---sim-load
 --tape-name "Escaldo.tzx"
 --tape-sum 349bef95c11d70fd23fab05df952bc71
 --start 1343

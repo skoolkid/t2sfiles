@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/MacadamBumper.tzx.zip
 macadam-bumper.z80
---sim-load
 --tape-name "Macadam Bumper.tzx"
 --tape-sum 73863c7be78d3c0746d4dff5767ae3ea
 --start 63500

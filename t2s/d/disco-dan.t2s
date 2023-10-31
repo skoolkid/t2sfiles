@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/DiscoDan.tzx.zip
 disco-dan.z80
---sim-load
 --tape-name "Disco Dan.tzx"
 --tape-sum faf57ea041d631643ac71f79d0d4af3f
 --start 48000

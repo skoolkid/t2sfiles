@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/k/KoloFortuny.tzx.zip
 kolo-fortuny.z80
---sim-load
 --tape-name "KoloFortuny.tzx"
 --tape-sum d786b153596a19d701d791c563b7872f
 --start 1343

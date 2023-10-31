@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Bombarder.zip
 bombarder-josef-havlik.z80
---sim-load
 --tape-name "Bombarder.tzx"
 --tape-sum b08c5a9ffbf325a6b1c74ef689b05840
 --start 1343

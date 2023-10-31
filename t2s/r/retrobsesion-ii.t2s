@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/r/RetrobsesionII.tzx.zip
 retrobsesion-ii.z80
---sim-load
 --tape-name "Retrobsesion II (Spanish).tzx"
 --tape-sum 52114f947d4a9719db9ea1e455acd3b6
 --start 28000

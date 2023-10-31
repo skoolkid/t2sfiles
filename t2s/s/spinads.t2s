@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Spinads(Spynads)(Ventamatic).tap.zip
 spinads.z80
---sim-load
 --tape-name "SPYNADS.TAP"
 --tape-sum acb5c52fc8bf31cf9f00c77e6c69306e
 --start 27830

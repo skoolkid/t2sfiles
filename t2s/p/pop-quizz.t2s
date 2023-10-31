@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/PopQuizz.zip
 pop-quizz.z80
---sim-load
 --tape-name "Pop Quizz.tzx"
 --tape-sum 92329d15d7912a3d84ab6702de470890
 --start 25500

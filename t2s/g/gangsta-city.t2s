@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/g/GangstaCity.tap.zip
 gangsta-city.z80
---sim-load
 --tape-name "GangstaCity.tap"
 --tape-sum a47e81c0f4dfb10dbe5122760bbea6f4
 --start 23766

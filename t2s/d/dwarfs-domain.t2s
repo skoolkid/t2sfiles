@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/DwarfsDomain.tzx.zip
 dwarfs-domain.z80
---sim-load
 --tape-name "Dwarf's Domain.tzx"
 --tape-sum d1227c286fe157e031383604ba109ac5
 --start 25063

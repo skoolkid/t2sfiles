@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/Acolyte.tzx.zip
 acolyte.z80
---sim-load
 --tape-name "Acolyte.tzx"
 --tape-sum 51b75ca3d362d838ec7fcacfcc79fc85
 --start 65024

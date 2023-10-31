@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/TankBattle_2.tap.zip
 tank-battle-illusion-works.z80
---sim-load
 --tape-name "tankbattle.tap"
 --tape-sum a271f866c8d1eaae774fc8bbe6add530
 --start 25000

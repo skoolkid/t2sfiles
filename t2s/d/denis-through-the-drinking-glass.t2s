@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/DenisThroughTheDrinkingGlass.tzx.zip
 denis-through-the-drinking-glass.z80
---sim-load
 --tape-name "Denis Through The Drinking Glass.tzx"
 --tape-sum b2abf7021cde1a5f5372d256c8a93e10
 --start 25000

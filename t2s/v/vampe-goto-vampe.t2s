@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/v/Vampe-GOTOVampe.tzx.zip
 vampe-goto-vampe.z80
---sim-load
 --tape-name "vampeGV.tzx"
 --tape-sum 64e6d04d2d9f1318421376a1b79bf1d0
 --start 33000

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/i/Insects.tzx.zip
 insects.z80
---sim-load
 --tape-name "Insects.tzx"
 --tape-sum b486e250fabaf7954b0f833319bd1705
 --start 1343

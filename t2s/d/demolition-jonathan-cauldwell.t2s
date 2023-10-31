@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/Demolition_3.tap.zip
 demolition-jonathan-cauldwell.z80
---sim-load
 --tape-name "DEMOLITN.TAP"
 --tape-sum 578b1bf3644cf0f195900e301abd71a9
 --start 54648

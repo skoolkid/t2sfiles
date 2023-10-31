@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/StarSwallow.tap.zip
 star-swallow.z80
---sim-load
 --tape-name "STAR_SW.TAP"
 --tape-sum 0ee4f86c2c0be72f33e6178e039d16c7
 --start 55808

@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/ATangledTale.zip
 a-tangled-tale.z80
---sim-load
 --tape-name "A Tangled Tale.tzx"
 --tape-sum 178b34c6d8384679486af4ad6ae89f12
 --start 25000

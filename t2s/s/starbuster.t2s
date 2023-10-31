@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Stelar(Starbuster)(KSoftLtd).tzx.zip
 starbuster.z80
---sim-load
 --tape-name "Starbuster.tzx"
 --tape-sum ea208293a76fea8593c1ccaaddcbd29b
 --start 31635

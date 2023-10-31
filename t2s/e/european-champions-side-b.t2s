@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/e/EuropeanChampions.tzx.zip
 european-champions-side-b.z80
---sim-load
 --tape-name "European Champions - Side B.tzx"
 --tape-sum 5bbd43fbeb490f6f82867d879875d1e6
 --start 1343

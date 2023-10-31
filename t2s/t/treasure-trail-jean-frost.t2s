@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/TreasureTrail_2.tap.zip
 treasure-trail-jean-frost.z80
---sim-load
 --tape-name "TreasureTrail.tap"
 --tape-sum 408759517d75cd49d1afc57c4b65d7b8
 --start 1343

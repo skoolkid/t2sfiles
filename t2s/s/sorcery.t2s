@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Sorcery.tzx.zip
 sorcery.z80
---sim-load
 --tape-name "Sorcery.tzx"
 --tape-sum 44321fc6eb812a74b9d689ed43c4d4ff
 --start 40000

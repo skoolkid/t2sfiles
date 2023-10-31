@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/TheBoxer.zip
 boxer-the.z80
---sim-load
 --tape-name "The Boxer.tzx"
 --tape-sum c723ffcfd5e8baa79dcd70ce5c3c6b44
 --start 23367

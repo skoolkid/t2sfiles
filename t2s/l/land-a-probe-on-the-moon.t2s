@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/l/LandAProbeOnTheMoon.tzx.zip
 land-a-probe-on-the-moon.z80
---sim-load
 --tape-name "LandTheProbe.tzx"
 --tape-sum 9ccefb6efeb96405e6701dbee7084dd1
 --start 1343

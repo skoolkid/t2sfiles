@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SwordOfTheSamurai.tzx.zip
 sword-of-the-samurai.z80
---sim-load
 --tape-name "Sword Of The Samurai.tzx"
 --tape-sum f4af9ad4449d0dab083745cc3ebe7881
 --start 58496

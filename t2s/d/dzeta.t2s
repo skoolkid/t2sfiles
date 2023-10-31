@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/Dzeta.tzx.zip
 dzeta.z80
---sim-load
 --tape-name "DZETA.TZX"
 --tape-sum 010be551ce16be383ef168c4b9f4f89b
 --start 50470

@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/BritainInvaded.zip
 britain-invaded.z80
---sim-load
 --tape-name "Britain Invaded.tzx"
 --tape-sum b68c9f4ada171b250070bed91f7b6926
 --start 1343

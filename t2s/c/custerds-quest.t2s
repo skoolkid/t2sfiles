@@ -1,6 +1,5 @@
 https://worldofspectrum.org/pub/sinclair/games/c/CusterdsQuest(different).tzx.zip
 custerds-quest.z80
---sim-load
 --tape-name "Custerd's Quest - Alternate.tzx"
 --tape-sum 544081bd8965eedf143b3e7e3a6a6a06
 --start 65070

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/r/RunBillRun.tzx.zip
 run-bill-run.z80
---sim-load
 --tape-name "Run Bill Run.tzx"
 --tape-sum 30a8f66f1dcea21c97ac08f3cd7bc147
 --start 1343

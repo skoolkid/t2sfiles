@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/StratfordDepotmaster.tzx.zip
 stratford-depotmaster.z80
---sim-load
 --tape-name "Stratford Depotmaster.tzx"
 --tape-sum 73e22bcc7c7fb897b1d6154e9cdfafc9
 --start 1343

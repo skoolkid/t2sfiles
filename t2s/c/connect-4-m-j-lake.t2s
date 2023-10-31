@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/Connect4_2.tzx.zip
 connect-4-m-j-lake.z80
---sim-load
 --tape-name "Connect 4.tzx"
 --tape-sum cfe35939bd2bcdc31369e4ec7bee8c39
 --start 1343

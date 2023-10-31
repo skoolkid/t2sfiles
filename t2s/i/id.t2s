@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/i/ID.tzx.zip
 id.z80
---sim-load
 --tape-name "iD.tzx"
 --tape-sum 6972c6bff243c860ebb37c59cd0f694e
 --start 40312

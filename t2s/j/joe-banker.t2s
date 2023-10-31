@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/j/JoeBankar.tzx.zip
 joe-banker.z80
---sim-load
 --tape-name "JoeBankar.tzx"
 --tape-sum f33c4e493a0f3fa56984efe587e8d0fb
 --start 65517

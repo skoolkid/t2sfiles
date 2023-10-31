@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/f/FredsFanFactory.tzx.zip
 freds-fan-factory.z80
---sim-load
 --tape-name "Fred's Fan Factory.tzx"
 --tape-sum e95b66e3481a363053cdfd1969333f45
 --start 23760

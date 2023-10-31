@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/AlienEvolution.tzx.zip
 alien-evolution.z80
---sim-load
 --tape-name "Alien Evolution.tzx"
 --tape-sum 2749fa706d39f6c6d8cf3d218d66fd3a
 --start 36537

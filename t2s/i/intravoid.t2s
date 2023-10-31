@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/g/Galaxias.tzx.zip
 intravoid.z80
---sim-load
 --tape-name "GALAXIAS.TZX"
 --tape-sum 51c7a5302224755ce345eb5acc18e233
 --start 1343

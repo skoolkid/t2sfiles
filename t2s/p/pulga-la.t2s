@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/BugabooTheFlea(PulgaLa)(InvestronicaS.A.).tzx.zip
 pulga-la.z80
---sim-load
 --tape-name "La Pulga.tzx"
 --tape-sum 783c8f2f2f3442478ac14c6536a20b44
 --start 24228

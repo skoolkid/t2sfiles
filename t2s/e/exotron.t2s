@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/e/Exotron.tap.zip
 exotron.z80
---sim-load
 --tape-name "EXOTRON.TAP"
 --tape-sum f009549ab646f40b22d0982825e3ea14
 --start 24576

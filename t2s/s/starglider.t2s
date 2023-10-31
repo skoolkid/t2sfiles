@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/StargliderV1.tzx.zip
 starglider.z80
---sim-load
 --tape-name "Starglider - Release 1 - Side 1.tzx"
 --tape-sum 2183830c872a6e403a212ae9c17950e1
 --start 23931

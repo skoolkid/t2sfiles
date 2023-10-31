@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/BeneathFolly.tzx.zip
 beneath-folly.z80
---sim-load
 --tape-name "Beneath Folly.tzx"
 --tape-sum f010cf8859d5c10f3adc43ea4d790c93
 --start 34104

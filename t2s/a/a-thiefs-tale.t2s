@@ -1,6 +1,5 @@
 "https://tzxvault.org/Spectrum/TZX/AThief'sTale.zip"
 a-thiefs-tale.z80
---sim-load
 --tape-name "A Thief's Tale.tzx"
 --tape-sum 4a225ea71948b17ec867ed9388ef264e
 --start 25000

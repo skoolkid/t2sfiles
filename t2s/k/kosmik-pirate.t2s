@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/k/KosmikPirate.tzx.zip
 kosmik-pirate.z80
---sim-load
 --tape-name "Kosmik Pirate (Elephant Software).tzx"
 --tape-sum 08aed3ce8e2bb60e0581f1915cad898f
 --start 1343

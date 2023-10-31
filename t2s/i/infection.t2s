@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/i/Infection.tzx.zip
 infection.z80
---sim-load
 --tape-name "Infection.tzx"
 --tape-sum e0490e5e81e26ffb253d44fa3b9b6922
 --start 47381

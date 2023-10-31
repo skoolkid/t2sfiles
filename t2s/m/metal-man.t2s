@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/MetalMan.tap.zip
 metal-man.z80
---sim-load
 --tape-name "Metal Man.tap"
 --tape-sum 55d44b93d1d592e495e5fc5d0ae9981b
 --start 25000

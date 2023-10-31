@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/ManiacSquare.tap.zip
 maniac-square.z80
---sim-load
 --tape-name "MANIACSQ.TAP"
 --tape-sum 845750f35203b3e17b963ecde85c117d
 --start 1343

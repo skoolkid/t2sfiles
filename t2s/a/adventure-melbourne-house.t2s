@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/Adventure.tzx.zip
 adventure-melbourne-house.z80
---sim-load
 --tape-name "Adventure.tzx"
 --tape-sum 49ca34e6bdae99fa854322bea9694df4
 --start 1343

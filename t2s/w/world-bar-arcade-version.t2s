@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/w/WorldBar-ArcadeVersion.tap.zip
 world-bar-arcade-version.z80
---sim-load
 --tape-name "WB-ARCAD.TAP"
 --tape-sum 03dc3e92362c7d9b2315a6636a2b50b2
 --start 1343

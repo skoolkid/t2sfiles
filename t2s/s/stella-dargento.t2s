@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/StellaDArgento.tzx.zip
 stella-dargento.z80
---sim-load
 --tape-name "StellaDArgento.tzx"
 --tape-sum c6876da6067afa87e1d98b444ff3dc63
 --start 25000

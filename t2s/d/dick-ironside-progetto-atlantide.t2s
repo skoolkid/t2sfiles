@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/DickIronside-ProgettoAtlantide.tap.zip
 dick-ironside-progetto-atlantide.z80
---sim-load
 --tape-name "ProgettoAltantide.tap"
 --tape-sum fc4b9f0e71fafd343fd7938bee6d2c21
 --start 25000

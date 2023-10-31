@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/TenPinChallenge.tzx.zip
 ten-pin-challenge.z80
---sim-load
 --tape-name "Ten-Pin Challenge.tzx"
 --tape-sum 676471910ec4a8de1fab6af5c9715dba
 --start 1343

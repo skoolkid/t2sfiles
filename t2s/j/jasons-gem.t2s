@@ -1,6 +1,5 @@
 "https://tzxvault.org/Spectrum/TZX/Jason'sGem.zip"
 jasons-gem.z80
---sim-load
 --tape-name "Jason's Gem.tzx"
 --tape-sum 85b05d4b4087d637c4c7a02c01caa39a
 --start 38000

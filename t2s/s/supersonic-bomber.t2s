@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SupersonicBomber.tap.zip
 supersonic-bomber.z80
---sim-load
 --tape-name "SupersonicBomber.tap"
 --tape-sum 15ef7390fc5ba81ccccff81dcc6905c8
 --start 1343

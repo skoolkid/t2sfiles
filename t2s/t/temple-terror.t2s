@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/TempleTerror.tzx.zip
 temple-terror.z80
---sim-load
 --tape-name "Temple Terror.tzx"
 --tape-sum 723cccc23d6d740287e09ba9b2ae7b9a
 --start 1343

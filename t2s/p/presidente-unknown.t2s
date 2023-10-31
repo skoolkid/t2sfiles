@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/Presidente.tap.zip
 presidente-unknown.z80
---sim-load
 --tape-name "Presidente.tap"
 --tape-sum b5e9f057963598b3fca8c9373579e96e
 --start 1343

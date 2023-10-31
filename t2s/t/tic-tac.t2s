@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/TicTac.tzx.zip
 tic-tac.z80
---sim-load
 --tape-name "TicTac.tzx"
 --tape-sum a0f0cfdece095f74b54a6d658027deb0
 --start 1343

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/City.tzx.zip
 city-side-1.z80
---sim-load
 --tape-name "City - Side 1.tzx"
 --tape-sum fa88db95edc25f4e76ff61033c07e18f
 --start 1343

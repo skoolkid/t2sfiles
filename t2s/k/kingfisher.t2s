@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/k/Kingfisher.tzx.zip
 kingfisher.z80
---sim-load
 --tape-name "Kingfisher.tzx"
 --tape-sum de72eb5f0aa28a2d3817ad43ce928194
 --start 1343

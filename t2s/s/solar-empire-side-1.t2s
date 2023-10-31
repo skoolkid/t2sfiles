@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SolarEmpire.tzx.zip
 solar-empire-side-1.z80
---sim-load
 --tape-name "Solar Empire - Side 1.tzx"
 --tape-sum 1789a6d988e76f1a88d0a52509c5957d
 --start 65026

@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/OrientalHero.zip
 oriental-hero.z80
---sim-load
 --tape-name "Oriental Hero.tzx"
 --tape-sum f3c6ba32240e7eff5291f1b98bd8625a
 --start 33600

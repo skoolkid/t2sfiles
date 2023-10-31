@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Spectres.zip
 spectres.z80
---sim-load
 --tape-name "Spectres.tzx"
 --tape-sum 844f8da15ac27c11458a679299d7660a
 --start 24577

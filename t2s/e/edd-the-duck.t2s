@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/e/EddTheDuck.tzx.zip
 edd-the-duck.z80
---sim-load
 --tape-name "Edd The Duck!.tzx"
 --tape-sum d7a81a55beb3b17526d198c727e0144a
 --start 23296

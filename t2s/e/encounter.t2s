@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/e/Encounter.tzx.zip
 encounter.z80
---sim-load
 --tape-name "Encounter.tzx"
 --tape-sum 4950c57a5e26b240ba3232a92d8a47c1
 --start 1343

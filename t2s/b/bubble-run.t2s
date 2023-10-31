@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/BubbleRun.zip
 bubble-run.z80
---sim-load
 --tape-name "Bubble Run.tzx"
 --tape-sum 825d0ef2f7d1c5b2160b2adb6915668e
 --start 37087

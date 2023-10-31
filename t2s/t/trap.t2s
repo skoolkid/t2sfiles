@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/Trap.tzx.zip
 trap.z80
---sim-load
 --tape-name "Trap - Side A.tzx"
 --tape-sum f424656b0ca0b14d9c20d12534a2f54d
 --start 24059

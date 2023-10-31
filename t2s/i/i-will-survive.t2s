@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/IWillSurvive!.zip
 i-will-survive.z80
---sim-load
 --tape-name "I Will Survive!.tzx"
 --tape-sum e5fe2451224c77715230d8c6121ccccc
 --start 25000

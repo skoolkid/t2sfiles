@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/l/LoneAttacker.tap.zip
 lone-attacker.z80
---sim-load
 --tape-name "Lone Attacker.tap"
 --tape-sum 940c81b1b533f6a3ff5175d51e98c8b1
 --start 1343

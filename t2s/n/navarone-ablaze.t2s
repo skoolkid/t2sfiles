@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/n/NavaroneAblaze.tap.zip
 navarone-ablaze.z80
---sim-load
 --tape-name "NAVARONE.TAP"
 --tape-sum fe112ce29696dbd38d45bb398919139d
 --start 1343

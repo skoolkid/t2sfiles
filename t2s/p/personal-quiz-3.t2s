@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/PersonalQuiz(3).tzx.zip
 personal-quiz-3.z80
---sim-load
 --tape-name "Personalquiz.tzx"
 --tape-sum b1e66fc41370e97dee6d312beb0d47c9
 --start 1343

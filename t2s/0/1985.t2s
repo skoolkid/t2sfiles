@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/1985.zip
 1985.z80
---sim-load
 --tape-name "1985.tzx"
 --tape-sum c74548141d518fc4a2ca18e1bb14be41
 --start 59600

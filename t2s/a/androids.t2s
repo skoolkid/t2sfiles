@@ -1,6 +1,5 @@
 https://worldofspectrum.org/pub/sinclair/games/a/Androids.tzx.zip
 androids.z80
---sim-load
 --tape-name "Androids.tzx"
 --tape-sum 217cdcfa14e9ce45b6a015fed806d356
 --start 30249

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/j/JuegoMercantilNuevoMundo.tap.zip
 juego-mercantil-nuevo-mundo.z80
---sim-load
 --tape-name "Juego Mercantil Nuevo Mundo.tap"
 --tape-sum 548a3de05807eefd15ba732b3a113896
 --start 1343

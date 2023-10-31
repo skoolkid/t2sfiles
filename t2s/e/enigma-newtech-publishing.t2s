@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/e/Enigma.tzx.zip
 enigma-newtech-publishing.z80
---sim-load
 --tape-name "Enigma.tzx"
 --tape-sum 19cd9dee174de742d055c6b83719fe2a
 --start 1343

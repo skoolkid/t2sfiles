@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/TheBall.zip
 ball-the.z80
---sim-load
 --tape-name "The Ball.tzx"
 --tape-sum 3f25b10f2c069a4f1053f637978051be
 --start 25063

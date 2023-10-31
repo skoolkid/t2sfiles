@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/DStarZ88.tap.zip
 dstar-z88.z80
---sim-load
 --tape-name "dstar.tap"
 --tape-sum e408d0b5764a28f9f6153dfae42e6160
 --start 32768

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/ThingBouncesBack.tzx.zip
 thing-bounces-back.z80
---sim-load
 --tape-name "Thing Bounces Back.tzx"
 --tape-sum f78aa2487ac16244aacadacf60354e76
 --start 54968

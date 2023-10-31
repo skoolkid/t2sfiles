@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/AssignmentEastBerlin.tzx.zip
 assignment-east-berlin.z80
---sim-load
 --tape-name "Assignment - East Berlin.tzx"
 --tape-sum 82b5ef396445de518d357ef254128269
 --start 1343

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/j/Joust.tzx.zip
 joust.z80
---sim-load
 --tape-name "Joust.tzx"
 --tape-sum b49d2601c20d6250e058296b04f0d5f5
 --start 24235

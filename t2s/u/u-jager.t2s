@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/u/U-Jager.tzx.zip
 u-jager.z80
---sim-load
 --tape-name "U-Jaeger.tzx"
 --tape-sum 840aa20d72fb9bd7db40c9ce0df2e807
 --start 1343

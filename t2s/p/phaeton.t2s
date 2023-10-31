@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/Phaeton.tzx.zip
 phaeton.z80
---sim-load
 --tape-name "Phaeton.tzx"
 --tape-sum 0a7ac81106aa4ded859cf935d88ee023
 --start 27800

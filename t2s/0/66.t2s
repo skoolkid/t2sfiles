@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/123/66.tap.zip
 66.z80
---sim-load
 --tape-name "66.TAP"
 --tape-sum 9fa680545d261b68a58fcbcce14e922d
 --start 1343

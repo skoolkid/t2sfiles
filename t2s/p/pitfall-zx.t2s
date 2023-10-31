@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/PitfallZX.tzx.zip
 pitfall-zx.z80
---sim-load
 --tape-name "Pitfall ZX.tzx"
 --tape-sum fbd9bb44435429b3c8647164f03f2730
 --start 1343

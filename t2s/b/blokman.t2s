@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/Blokman(Blockman)(unknown).tzx.zip
 blokman.z80
---sim-load
 --tape-name "Blockman.tzx"
 --tape-sum 1b80be952411e12d465048f9a445639c
 --start 1343

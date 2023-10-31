@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/l/Labyrinth_2.tzx.zip
 labyrinth-axis-software.z80
---sim-load
 --tape-name "Labyrinth (Axis).tzx"
 --tape-sum f527f2f39d4ba4f3228c1c246ae17b4a
 --start 1343

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/123/2112AD.tzx.zip
 2112-ad.z80
---sim-load
 --tape-name "2112 AD.tzx"
 --tape-sum 9a7ba9f6fa63aaffc531455f14ad80a0
 --start 61546

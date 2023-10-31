@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/PhineasFrogg.tzx.zip
 phineas-frogg.z80
---sim-load
 --tape-name "Phineas Frogg.tzx"
 --tape-sum 3fd0d605942306457b63358e9fc1246f
 --start 1343

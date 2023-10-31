@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/Dangership.tap.zip
 dangership.z80
---sim-load
 --tape-name "Dangership.tap"
 --tape-sum 6602edafe64c6ed5a5f303b559e41ba0
 --start 1343

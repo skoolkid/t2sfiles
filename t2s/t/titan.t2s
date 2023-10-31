@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Titan.zip
 titan.z80
---sim-load
 --tape-name "Titan.tzx"
 --tape-sum 63b738bb15925d1d5197ea1f265959a8
 --start 23847

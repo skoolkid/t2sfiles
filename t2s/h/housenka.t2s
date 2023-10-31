@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/h/Housenka.tzx.zip
 housenka.z80
---sim-load
 --tape-name "housenka.tzx"
 --tape-sum 3a782c5593892d371abffb5e65b9dcd8
 --start 1343

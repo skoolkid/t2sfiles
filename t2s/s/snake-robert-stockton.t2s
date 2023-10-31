@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Snake_7.tap.zip
 snake-robert-stockton.z80
---sim-load
 --tape-name "SNAKE.TAP"
 --tape-sum b9523129212bd256f15fe3c7935bff71
 --start 1343

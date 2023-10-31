@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/f/Fantasmi.tzx.zip
 fantasmi.z80
---sim-load
 --tape-name "Fantasmi.tzx"
 --tape-sum 8a0e8c353bf55998ddc6ba17d7124618
 --start 1343

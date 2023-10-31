@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/CasinoRoyal.zip
 casino-royal-pontoon.z80
---sim-load
 --tape-name "Casino Royal - Side 1.tzx"
 --tape-sum 77c311d793415eac6637748b8fcf31cd
 --start 1343

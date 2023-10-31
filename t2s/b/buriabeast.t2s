@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/Buriabeast.tzx.zip
 buriabeast.z80
---sim-load
 --tape-name "Buriabeast.tzx"
 --tape-sum 037894a9731433914a29ca561adfb1c1
 --start 28945

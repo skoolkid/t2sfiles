@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/Dominoes.tzx.zip
 dominoes-micromega.z80
---sim-load
 --tape-name "Dominoes.tzx"
 --tape-sum 370bc3acb9dd48666f7df080579703fc
 --start 1343

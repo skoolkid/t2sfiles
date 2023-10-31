@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/j/JungleJob.tap.zip
 jungle-job.z80
---sim-load
 --tape-name "JungleJob.TAP"
 --tape-sum 76f342900a460f16a50f0ab3a22ca56a
 --start 1343

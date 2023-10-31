@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/e/EvilDomain.tzx.zip
 evil-domain.z80
---sim-load
 --tape-name "Evil Domain.tzx"
 --tape-sum 3d2b939c30f318b78f1eca3dc387e9cd
 --start 43551

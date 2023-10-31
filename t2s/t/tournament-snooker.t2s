@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/TournamentSnooker.zip
 tournament-snooker.z80
---sim-load
 --tape-name "Tournament Snooker.tzx"
 --tape-sum a97755a12d5a696c14462160579362d0
 --start 25012

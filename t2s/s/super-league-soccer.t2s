@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/SuperLeagueSoccer.zip
 super-league-soccer.z80
---sim-load
 --tape-name "Super League Soccer.tzx"
 --tape-sum bc0a8b0302d57d46ae3f5ccecb7d8b86
 --start 24265

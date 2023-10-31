@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/o/Olisa_2.tap.zip
 olisa-russian.z80
---sim-load
 --tape-name "Olisa-ru.tap"
 --tape-sum 1a1a89afdd874d1c75462230f7b92191
 --start 1343

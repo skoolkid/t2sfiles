@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/e/EverestAscent.tzx.zip
 everest-ascent.z80
---sim-load
 --tape-name "Everest Ascent.tzx"
 --tape-sum f1b2cd7ebcaaf0ccb5e79203ada0aeef
 --start 1343

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/MountChallenge.tzx.zip
 mount-challenge.z80
---sim-load
 --tape-name "Mount Challenge.tzx"
 --tape-sum d112d4aa080a408ff3e4493d28331fa6
 --start 30978

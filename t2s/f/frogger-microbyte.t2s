@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/f/Frogger(Microbyte1).tzx.zip
 frogger-microbyte.z80
---sim-load
 --tape-name "Frogger (Microbyte).tzx"
 --tape-sum 742e07b6907ef50a747a33e43c698b8e
 --start 1343

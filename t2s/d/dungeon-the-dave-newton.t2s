@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/DungeonThe_2.tzx.zip
 dungeon-the-dave-newton.z80
---sim-load
 --tape-name "The Dungeon (Dave Newton).tzx"
 --tape-sum 7c932f48f974ceb7b99eb5bd76b1cd34
 --start 1343

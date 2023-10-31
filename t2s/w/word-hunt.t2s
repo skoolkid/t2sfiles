@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/w/WordHunt.tzx.zip
 word-hunt.z80
---sim-load
 --tape-name "Word Hunt.tzx"
 --tape-sum 9a6c969d7f51b44913e859be47c6ed91
 --start 1343

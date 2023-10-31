@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/w/WHB.tzx.zip
 whb.z80
---sim-load
 --tape-name "WHB.tzx"
 --tape-sum ed0c2e0863ac14ce1da74420c80b23c4
 --start 33281

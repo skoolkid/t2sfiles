@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/n/NinjaCommando.tzx.zip
 ninja-commando.z80
---sim-load
 --tape-name "Ninja Commando.tzx"
 --tape-sum d361c790b15baa172f353ba87d500763
 --start 51546

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/Chaser.tzx.zip
 chaser.z80
---sim-load
 --tape-name "Chaser.tzx"
 --tape-sum 79600ae0c53f20b98519749754102449
 --start 1343

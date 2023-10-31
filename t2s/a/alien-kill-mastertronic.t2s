@@ -1,6 +1,5 @@
 https://worldofspectrum.org/pub/sinclair/games/a/AlienKill_2.tzx.zip
 alien-kill-mastertronic.z80
---sim-load
 --tape-name "Alien Kill.tzx"
 --tape-sum fdb25bd411de0be317ec8e4cca68b2e2
 --start 40000

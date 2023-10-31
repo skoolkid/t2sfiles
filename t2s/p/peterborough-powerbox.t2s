@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/PeterboroughPowerbox.tzx.zip
 peterborough-powerbox.z80
---sim-load
 --tape-name "Peterborough Powerbox.tzx"
 --tape-sum 40ba5e8cfc5fab72121933274b562346
 --start 1343

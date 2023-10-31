@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/ChristmasCracker.tap.zip
 christmas-cracker.z80
---sim-load
 --tape-name "cracker.tap"
 --tape-sum 336ebd66b8e5ac20edcf176189c6eee6
 --start 24000

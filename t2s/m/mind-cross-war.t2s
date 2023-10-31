@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/MindCrossWar.tap.zip
 mind-cross-war.z80
---sim-load
 --tape-name "CROSSWAR.TAP"
 --tape-sum 42407bb01142a75c110a621fe9968216
 --start 24992

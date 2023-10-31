@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/q/Quazatron.tzx.zip
 quazatron.z80
---sim-load
 --tape-name "Quazatron.tzx"
 --tape-sum 2153f5aeec7fb1439804114e59b0cdb3
 --start 56944

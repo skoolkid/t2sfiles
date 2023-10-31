@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/DeltaCharge.tzx.zip
 delta-charge.z80
---sim-load
 --tape-name "Delta Charge.tzx"
 --tape-sum 71cdf655997d6d802a9669139d7b3821
 --start 24147

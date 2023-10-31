@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SkyscraperOfDoom.tzx.zip
 skyscraper-of-doom.z80
---sim-load
 --tape-name "SkyscraperOfDoom.tzx"
 --tape-sum df03b2c22a82e2ef021e012cfb06ccc9
 --start 23900

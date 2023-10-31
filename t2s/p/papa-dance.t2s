@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/PapaDance.tap.zip
 papa-dance.z80
---sim-load
 --tape-name "Papa Dance.tap"
 --tape-sum 3667b506728bdff77f25f18338a182cf
 --start 1343

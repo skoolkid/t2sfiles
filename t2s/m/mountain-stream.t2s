@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/MountainStream.tzx.zip
 mountain-stream.z80
---sim-load
 --tape-name "MountainStream.tzx"
 --tape-sum f0a56a66fdb0e34e9cfbb004755e9c45
 --start 40000

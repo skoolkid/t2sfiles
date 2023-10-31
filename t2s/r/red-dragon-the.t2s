@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/r/RedDragonThe.tzx.zip
 red-dragon-the.z80
---sim-load
 --tape-name "Red Dragon.tzx"
 --tape-sum 426c244f3e1dde65feff414628e6830a
 --start 1343

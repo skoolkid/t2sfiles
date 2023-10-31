@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/Destructo.tzx.zip
 destructo.z80
---sim-load
 --tape-name "Dr Destructo.tzx"
 --tape-sum 4b4a520b89f5ea9b51d17239e609ccea
 --start 34147

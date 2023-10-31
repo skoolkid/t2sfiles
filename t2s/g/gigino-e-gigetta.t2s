@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/g/GiginoGigetta.tzx.zip
 gigino-e-gigetta.z80
---sim-load
 --tape-name "Gigino&Gigetta.tzx"
 --tape-sum 98d57167c1a596b2135983a0997e5f56
 --start 1343

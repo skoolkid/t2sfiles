@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/h/HangGlider.tap.zip
 hang-glider.z80
---sim-load
 --tape-name "HangGlider.tap"
 --tape-sum d1491875e15bd0389e841c387f3e1314
 --start 1343

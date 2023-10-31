@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/ManicMiner2.tzx.zip
 manic-miner-2.z80
---sim-load
 --tape-name "Manic Miner 2.tzx"
 --tape-sum 533be73fef15e1da03b46dd7405c1e41
 --start 33792

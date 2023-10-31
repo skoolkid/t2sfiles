@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/ToddlerTrouble.zip
 toddler-trouble-p2.z80
---sim-load
 --tape-name "Toddler Trouble - Part 2.tzx"
 --tape-sum b1bde2a5c61e7608cd3b3c74628001b8
 --start 34777

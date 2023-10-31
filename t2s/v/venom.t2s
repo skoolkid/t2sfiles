@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Venom.zip
 venom.z80
---sim-load
 --tape-name "Venom.tzx"
 --tape-sum 1dea62d21e18d2cb8b8a0a0aa24da8bc
 --start 44484

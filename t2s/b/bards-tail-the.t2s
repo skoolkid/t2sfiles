@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/BardsTaleThe.tzx.zip
 bards-tail-the.z80
---sim-load
 --tape-name "The Bard's Tale - Tape 1 - Side 1.tzx"
 --tape-sum cc1e5578d32c9f131bf88102861c2487
 --start 65500

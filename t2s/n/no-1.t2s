@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/n/No1.tap.zip
 no-1.z80
---sim-load
 --tape-name "NO1.TAP"
 --tape-sum d88ba7219d89a3bfcc4cea6269158594
 --start 65535

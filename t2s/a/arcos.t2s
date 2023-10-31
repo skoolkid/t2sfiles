@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/A.R.C.O.S..tzx.zip
 arcos.z80
---sim-load
 --tape-name "ARCOS_(Spectrum).tzx"
 --tape-sum b5e88eee7d9c27dadd70f815f30e5571
 --start 28000

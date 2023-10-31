@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/CricketCaptain(CultGames).tzx.zip
 cricket-captain-cult-games.z80
---sim-load
 --tape-name "Cricket Captain (Cult).tzx"
 --tape-sum 3e9f102c69d67f765c1ac2ae6fd4cf8d
 --start 1343

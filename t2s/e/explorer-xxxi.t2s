@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/e/ExplorerXXXI.tzx.zip
 explorer-xxxi.z80
---sim-load
 --tape-name "Explorer XXXI.tzx"
 --tape-sum bb5e138ecc13fc775d4259daeda36f9f
 --start 26000

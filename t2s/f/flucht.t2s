@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/f/Flucht.tap.zip
 flucht.z80
---sim-load
 --tape-name "FLUCHT.TAP"
 --tape-sum b63867097e1a9396ece4622f326cb8ee
 --start 1343

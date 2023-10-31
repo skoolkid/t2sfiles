@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/CorporalStone.tzx.zip
 corporal-stone.z80
---sim-load
 --tape-name "Corporal Stone.tzx"
 --tape-sum 9a328216cb0ce256b1a6c66a30ce9d1f
 --start 25000

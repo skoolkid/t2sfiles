@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/ManicMiner-TheHobbit.tzx.zip
 manic-miner-the-hobbit-hard.z80
---sim-load
 --tape-name "Manic Miner - The Hobbit - Hard.tzx"
 --tape-sum 2309120515166cf4067279e7b28b4dcf
 --start 1343

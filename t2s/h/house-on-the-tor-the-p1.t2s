@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/TheHouseOnTheTor.zip
 house-on-the-tor-the-p1.z80
---sim-load
 --tape-name "The House On The Tor - Part 1.tzx"
 --tape-sum 6b4a02bcd441ce3849c31e8e8e47eecc
 --start 25000

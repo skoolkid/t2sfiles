@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Sheepwalk.tzx.zip
 sheepwalk.z80
---sim-load
 --tape-name "Sheepwalk.tzx"
 --tape-sum 981650bd554b8da47d6eb16ca16722be
 --start 1343

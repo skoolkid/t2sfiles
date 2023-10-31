@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/Turbomania.tap.zip
 turbomania.z80
---sim-load
 --tape-name "Turbomania.tap"
 --tape-sum 81d240425927774287abdb1013366884
 --start 24280

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/StellarProbe.tap.zip
 stellar-probe.z80
---sim-load
 --tape-name "StellarProbe.tap"
 --tape-sum 8680c2b5560694981340d23db85d11bc
 --start 1343

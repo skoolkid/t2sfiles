@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/Craps.tap.zip
 craps.z80
---sim-load
 --tape-name "CRAPS.TAP"
 --tape-sum d322c99fa85a8997723b04abba6d7477
 --start 1343

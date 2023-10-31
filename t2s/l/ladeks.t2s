@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/l/LadeksV1.0.tzx.zip
 ladeks.z80
---sim-load
 --tape-name "Ladeks.tzx"
 --tape-sum 8a2d63ad508d5ccdd4edb6b998b60076
 --start 32768

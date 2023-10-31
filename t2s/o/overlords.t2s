@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/o/Overlords.tzx.zip
 overlords.z80
---sim-load
 --tape-name "Overlords.tzx"
 --tape-sum efcee32cadde2e2f85c5e7d4e07875f2
 --start 1343

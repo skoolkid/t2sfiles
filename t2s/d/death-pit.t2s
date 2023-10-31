@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/DeathPit.zip
 death-pit.z80
---sim-load
 --tape-name "Death Pit.tzx"
 --tape-sum 30ad6f8e623a0deb4a8c650c8ce7ebb8
 --start 58554

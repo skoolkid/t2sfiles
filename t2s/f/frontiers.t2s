@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/f/Frontiers.tzx.zip
 frontiers.z80
---sim-load
 --tape-name "Frontiers.tzx"
 --tape-sum 87b8fc3d3663cade4d19c59f021a41ba
 --start 65231

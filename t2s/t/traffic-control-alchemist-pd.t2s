@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/TrafficControl.tap.zip
 traffic-control-alchemist-pd.z80
---sim-load
 --tape-name "TRAFFIC.TAP"
 --tape-sum 80772e86ab8240abfbe76f4ba639f4f2
 --start 1343

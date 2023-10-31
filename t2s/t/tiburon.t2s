@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/Tiburon.tap.zip
 tiburon.z80
---sim-load
 --tape-name "Tiburon (Loko Soft).tap"
 --tape-sum a6b065416724b0665014254bfd4111a1
 --start 1343

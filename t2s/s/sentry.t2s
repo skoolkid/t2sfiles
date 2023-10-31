@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Sentry.tap.zip
 sentry.z80
---sim-load
 --tape-name "Sentry.tap"
 --tape-sum 9207e778e9cb38c1c8b8ad9000ca9d3f
 --start 1343

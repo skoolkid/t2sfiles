@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/Coconuts.tap.zip
 coconuts.z80
---sim-load
 --tape-name "Coconuts.tap"
 --tape-sum 65c530df4401a53669b71ae10f9c26ad
 --start 1343

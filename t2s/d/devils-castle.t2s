@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/DevilsCastle.tzx.zip
 devils-castle.z80
---sim-load
 --tape-name "DevilsCastle.tzx"
 --tape-sum 45134f8b2abecebafd5c575a54012069
 --start 1343

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Score.tzx.zip
 score.z80
---sim-load
 --tape-name "score.tzx"
 --tape-sum fc86a0b704001d7414ba69326db8bf47
 --start 1343

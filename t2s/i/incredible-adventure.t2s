@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/i/IncredibleAdventure.tzx.zip
 incredible-adventure.z80
---sim-load
 --tape-name "Incredible Adventure.tzx"
 --tape-sum 6ad434c85db01fdce28b764e7b4a65e9
 --start 1343

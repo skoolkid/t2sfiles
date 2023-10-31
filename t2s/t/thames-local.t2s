@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/ThamesLocal.tzx.zip
 thames-local.z80
---sim-load
 --tape-name "Thames Local.tzx"
 --tape-sum 3cdb62f79cf43b9c0f3fd668f542c4f9
 --start 1343

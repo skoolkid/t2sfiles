@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/j/JollyJacksRunAshore.tzx.zip
 jolly-jacks-run-ashore.z80
---sim-load
 --tape-name "Jacks Night Out.tzx"
 --tape-sum 68b578167f6e5d1b3eea2800ea972661
 --start 25063

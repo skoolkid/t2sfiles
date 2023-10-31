@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/Draughts_2.tap.zip
 draughts-melbourne-house.z80
---sim-load
 --tape-name "DRAUGHT2.TAP"
 --tape-sum 90624811185012de48b152cab2ee1b4e
 --start 1343

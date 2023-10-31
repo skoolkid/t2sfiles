@@ -1,6 +1,5 @@
 https://worldofspectrum.org/pub/sinclair/games/a/AppleJam.tzx.zip
 apple-jam.z80
---sim-load
 --tape-name "Apple Jam.tzx"
 --tape-sum e25a1eb17662de01dba63c81e9751ff6
 --start 31310

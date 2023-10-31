@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/ShootOut.tap.zip
 shoot-out-alan-trewartha.z80
---sim-load
 --tape-name "SHOOTOUT.TAP"
 --tape-sum b8f71f84671d2a6b4de25dfebc76a667
 --start 29718

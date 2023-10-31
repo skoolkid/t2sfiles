@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/Amazonia.tzx.zip
 amazonia.z80
---sim-load
 --tape-name "Amazonia.tzx"
 --tape-sum b6a6532cc58866ae671f2ff376b7cd6b
 --start 39856

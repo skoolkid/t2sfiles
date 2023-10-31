@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/i/Implosion.tzx.zip
 implosion.z80
---sim-load
 --tape-name "Implosion - 48k.tzx"
 --tape-sum bc14006a3c7ea2b8623660febbf88213
 --start 24557

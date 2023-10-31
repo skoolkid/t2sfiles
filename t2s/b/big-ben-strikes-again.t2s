@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/BigBenStrikesAgain.tzx.zip
 big-ben-strikes-again.z80
---sim-load
 --tape-name "Big Ben Strikes Again.tzx"
 --tape-sum 91610a475c35fc1dd32e2ab4d43f121f
 --start 33580

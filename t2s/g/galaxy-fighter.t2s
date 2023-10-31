@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/g/GalaxyFighter.tzx.zip
 galaxy-fighter.z80
---sim-load
 --tape-name "Galaxy Fighter.tzx"
 --tape-sum 234d028e07505e13dd8fe3ce73efdc21
 --start 1343

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/Mega-Sphere.tap.zip
 mega-sphere.z80
---sim-load
 --tape-name "MEGSPHRE.TAP"
 --tape-sum d1303b42dea9b7dfa552ce3f0233ffc8
 --start 1343

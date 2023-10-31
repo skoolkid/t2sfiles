@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/w/WarpFactor6.tzx.zip
 warp-factor-6.z80
---sim-load
 --tape-name "Warp Factor 6.tzx"
 --tape-sum 1dd73209d31c83f09ed96b0c15bf5b8b
 --start 23313

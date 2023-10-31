@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/e/Enchanted.tzx.zip
 enchanted.z80
---sim-load
 --tape-name "Enchanted.tzx"
 --tape-sum d571e95a8e937007370ba6508e75e9ac
 --start 23309

@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/DoubleTrouble.zip
 double-trouble-side-1.z80
---sim-load
 --tape-name "Double Trouble - Side 1.tzx"
 --tape-sum 3a96f0adf8f1764b8b024407b972ca04
 --start 25394

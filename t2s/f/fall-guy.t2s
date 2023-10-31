@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/FallGuy.zip
 fall-guy.z80
---sim-load
 --tape-name "Fall Guy - Side 1.tzx"
 --tape-sum 30313129accaf84904af1f914fe49a7e
 --start 41200

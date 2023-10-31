@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/r/RatThe.tap.zip
 rat-the.z80
---sim-load
 --tape-name "the_rat.tap"
 --tape-sum 6a4fff29482421ee756edf92e5d215e6
 --start 1343

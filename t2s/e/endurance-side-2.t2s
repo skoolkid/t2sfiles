@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Endurance.zip
 endurance-side-2.z80
---sim-load
 --tape-name "Endurance - Side 2.tzx"
 --tape-sum 53cc45c2f4ad6bebd6d84e7870d00cbe
 --start 23317

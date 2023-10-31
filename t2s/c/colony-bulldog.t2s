@@ -1,6 +1,5 @@
 https://worldofspectrum.org/pub/sinclair/games/c/Colony.tzx.zip
 colony-bulldog.z80
---sim-load
 --tape-name "Colony.tzx"
 --tape-sum 2328561f9ec173cb1a6259f0fa30f7f2
 --start 23791

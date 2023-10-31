@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Survivors.tzx.zip
 survivors.z80
---sim-load
 --tape-name "Survivors.tzx"
 --tape-sum b0493fd3f459513a6a3f35f32fec57c9
 --start 39777

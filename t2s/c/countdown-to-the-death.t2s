@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/CountdownToTheDeath.tap.zip
 countdown-to-the-death.z80
---sim-load
 --tape-name "COUNTDEA.TAP"
 --tape-sum 1998a404977eadcc1fd631feb917ca44
 --start 36900

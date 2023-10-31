@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Savage.zip
 savage.z80
---sim-load
 --tape-name "Savage.tzx"
 --tape-sum 3d9670676c20898ac63466cce422b842
 --start 35325

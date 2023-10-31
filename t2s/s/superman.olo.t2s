@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Superman.olo.tap.zip
 superman.olo.z80
---sim-load
 --tape-name "SUP_MANO.TAP"
 --tape-sum fcfc444f90d53e680b1243d8f1024ef2
 --start 29948

@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/TheLaboursOfHercules.zip
 labours-of-hercules-the.z80
---sim-load
 --tape-name "The Labours Of Hercules.tzx"
 --tape-sum 1248d541c13297f5c3bbf3aac771b702
 --start 23324

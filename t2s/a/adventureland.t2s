@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Adventureland.zip
 adventureland.z80
---sim-load
 --tape-name "Adventureland.tzx"
 --tape-sum ff25e874506197ec32c4d8aad59e52f2
 --start 24576

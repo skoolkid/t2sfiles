@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/StripJack_2.tap.zip
 strip-jack-weigner-reimann.z80
---sim-load
 --tape-name "STRIPJAK.TAP"
 --tape-sum bd60913a7b016087fdc070ffd5a7efdb
 --start 1343

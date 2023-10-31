@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/w/WorldBar-BoardgameVersion.tap.zip
 world-bar-boardgame-version.z80
---sim-load
 --tape-name "WORLDBAR.TAP"
 --tape-sum a9b4f203e3c10bac2daa07e39bdc9178
 --start 23777

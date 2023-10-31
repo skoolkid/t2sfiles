@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/Trackbasher.tzx.zip
 trackbasher.z80
---sim-load
 --tape-name "Trackbasher.tzx"
 --tape-sum 0567c2195ec4bf3b78d2ccdeb2569b36
 --start 1343

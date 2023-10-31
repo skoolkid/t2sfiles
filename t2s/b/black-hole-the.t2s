@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/BlackHoleThe.tzx.zip
 black-hole-the.z80
---sim-load
 --tape-name "The Black Hole.tzx"
 --tape-sum 6004963acd79b86f68ac0fe0bd3d138f
 --start 29640

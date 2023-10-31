@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/o/OnTheRoad.tap.zip
 on-the-road.z80
---sim-load
 --tape-name "ON-ROAD.TAP"
 --tape-sum 9ae59812e8701fe3f37829a2b79a7ee2
 --start 1343

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/TalismanOfLostSouls.tzx.zip
 talisman-of-lost-souls.z80
---sim-load
 --tape-name "Talisman Of Lost Souls.tzx"
 --tape-sum 62e132a16223aaaf2e1bee05fb03dd95
 --start 25000

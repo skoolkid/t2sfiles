@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/Meteor_2.tzx.zip
 meteor-micromania.z80
---sim-load
 --tape-name "Meteor (Micromania).tzx"
 --tape-sum 07f20dcfb4f1cfdc8395e86351ead9d3
 --start 1343

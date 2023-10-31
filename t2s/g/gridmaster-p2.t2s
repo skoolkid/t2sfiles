@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/g/GridMaster.tzx.zip
 gridmaster-p2.z80
---sim-load
 --tape-name "Gridmaster - Part 2.tzx"
 --tape-sum b09d1fa79aeddfc33240d188fe3b0cb0
 --start 1343

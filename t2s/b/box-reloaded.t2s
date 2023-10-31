@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/BoxReloaded.tzx.zip
 box-reloaded.z80
---sim-load
 --tape-name "Box Reloaded.tzx"
 --tape-sum 2c8aaf91c3ea4a8b85cd8ce971966104
 --start 32340

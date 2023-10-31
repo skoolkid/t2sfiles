@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/MiddleAge.tzx.zip
 middle-age.z80
---sim-load
 --tape-name "MiddleAge.tzx"
 --tape-sum 3b1ab7e2421a3d75f203f6536c81dd5b
 --start 1343

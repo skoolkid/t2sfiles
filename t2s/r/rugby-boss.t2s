@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/r/RugbyBoss.tzx.zip
 rugby-boss.z80
---sim-load
 --tape-name "Rugby Boss.tzx"
 --tape-sum 3f805a2c992e78ef12d3846198e56a1e
 --start 23823

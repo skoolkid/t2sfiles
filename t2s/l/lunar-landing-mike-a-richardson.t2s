@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/l/LunarLanding.tap.zip
 lunar-landing-mike-a-richardson.z80
---sim-load
 --tape-name "LUNARL_1.TAP"
 --tape-sum 633e130337863c9d731b4cea709a1a01
 --start 1343

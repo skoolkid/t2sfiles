@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/Tanker_2.tap.zip
 tanker-malcolm-ross.z80
---sim-load
 --tape-name "TANKER.TAP"
 --tape-sum 141a8d594b3f170d927ce25f8ef54f7f
 --start 1343

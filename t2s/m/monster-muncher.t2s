@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/MonsterMuncher.zip
 monster-muncher.z80
---sim-load
 --tape-name "Monster Muncher.tzx"
 --tape-sum a8c6fa485c165256d9abd80b821dd928
 --start 30384

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/MinasMorgul.tzx.zip
 minas-morgul.z80
---sim-load
 --tape-name "MinasMorgul.tzx"
 --tape-sum c9de3c23ab37ed2ad713e35b6373684d
 --start 1343

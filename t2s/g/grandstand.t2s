@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/g/Grandstand.tzx.zip
 grandstand.z80
---sim-load
 --tape-name "Grandstand.tzx"
 --tape-sum daa9b646bbda5744ffbd1ed3abac2bf8
 --start 1343

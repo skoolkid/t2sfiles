@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/DraculasCastle.tzx.zip
 draculas-castle.z80
---sim-load
 --tape-name "Dracula's Castle.tzx"
 --tape-sum 1f1f989e1e7b71cf4af00c05fef31040
 --start 1343

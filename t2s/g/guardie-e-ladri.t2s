@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/g/GuardieELadri.tzx.zip
 guardie-e-ladri.z80
---sim-load
 --tape-name "GuardieELadri.tzx"
 --tape-sum 23e1ed57e5273e14e03dfcd502568854
 --start 51310

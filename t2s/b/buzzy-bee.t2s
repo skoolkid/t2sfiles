@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/BuzzyBee.tap.zip
 buzzy-bee.z80
---sim-load
 --tape-name "Buzzy Bee.tap"
 --tape-sum 0c2987433e998786e53d81b3a3301814
 --start 1343

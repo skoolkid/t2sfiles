@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/i/IwoJima.tzx.zip
 iwo-jima.z80
---sim-load
 --tape-name "Iwo Jima.tzx"
 --tape-sum 02294eec74b7dc8d8cfc8c5ed26484a9
 --start 23792

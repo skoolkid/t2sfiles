@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/r/Rapedes.tzx.zip
 rapedes.z80
---sim-load
 --tape-name "RAPEDES.TZX"
 --tape-sum 0581c0eebd508e53029ce09f7d9463a0
 --start 28133

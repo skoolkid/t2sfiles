@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/ScrambleV1.tzx.zip
 scramble-mikro-gen.z80
---sim-load
 --tape-name "Scramble - Release 1.tzx"
 --tape-sum a0c75fb92fcaf49cbc70a2bbc702558f
 --start 25386

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/Mined-Out.tzx.zip
 mined-out.z80
---sim-load
 --tape-name "Mined Out.tzx"
 --tape-sum fff883d47af94cc31b202b4e83c5b7d0
 --start 1343

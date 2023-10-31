@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/DarkStrengths.tzx.zip
 dark-strengths.z80
---sim-load
 --tape-name "DarkStrengths.tzx"
 --tape-sum 4351d8c41a6755cad46d900b2d75407c
 --start 24200

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/Cbox.tap.zip
 cbox.z80
---sim-load
 --tape-name "cbox.tap"
 --tape-sum 63f465b96cb164213f855a12af312b54
 --start 23769

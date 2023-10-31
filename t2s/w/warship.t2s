@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/w/Warship.tzx.zip
 warship.z80
---sim-load
 --tape-name "warship.tzx"
 --tape-sum 0a1b171f8e41a7c2091106f79ba07f5a
 --start 1343

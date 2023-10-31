@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/f/FloareaSoarelui.tzx.zip
 floarea-soarelui.z80
---sim-load
 --tape-name "Floarea Soarelui.tzx"
 --tape-sum 9d5b7ca97b8682fc92f4328b9e2ce17d
 --start 22243

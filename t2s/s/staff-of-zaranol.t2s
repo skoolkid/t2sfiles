@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/StaffOfZaranolThe.tzx.zip
 staff-of-zaranol.z80
---sim-load
 --tape-name "Staff Of Zaranol.tzx"
 --tape-sum b5fec2975d4fbac82066595390ab0f45
 --start 25000

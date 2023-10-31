@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/r/RaidOverMoscow.tzx.zip
 raid-over-moscow.z80
---sim-load
 --tape-name "Raid Over Moscow.tzx"
 --tape-sum 3cd90d28606b0c57df2a52e8045c76b9
 --start 65488

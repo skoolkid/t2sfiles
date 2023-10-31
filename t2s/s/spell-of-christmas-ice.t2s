@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/SpellOfChristmasIce.zip
 spell-of-christmas-ice.z80
---sim-load
 --tape-name "Spell Of Christmas Ice.tzx"
 --tape-sum 14a16ec454ee9744bfbff46049bcdfea
 --start 25000

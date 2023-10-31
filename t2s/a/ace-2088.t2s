@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/ACE2088.tzx.zip
 ace-2088.z80
---sim-load
 --tape-name "ACE 2088 - Side A.tzx"
 --tape-sum 2765b269f648f3b390067cccd210fae0
 --start 65188

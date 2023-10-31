@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/l/LopEars.tzx.zip
 lop-ears.z80
---sim-load
 --tape-name "Lop Ears.tzx"
 --tape-sum 9cf84529730bc115069eb839822fd9f1
 --start 24116

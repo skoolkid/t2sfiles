@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/AmericanTagTeamWrestling.tzx.zip
 american-tag-team-wrestling.z80
---sim-load
 --tape-name "Tag Team Wrestling.tzx"
 --tape-sum 3d2b8803e97f6e6fb0c6bcc8e9b3fb40
 --start 64000

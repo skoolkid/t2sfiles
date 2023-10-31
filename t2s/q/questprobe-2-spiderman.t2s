@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Spider-Man.tzx.zip
 questprobe-2-spiderman.z80
---sim-load
 --tape-name "Questprobe 2 - Spiderman.tzx"
 --tape-sum 9722e8d14c9d13f91ed2cc2b003f9c51
 --start 24576

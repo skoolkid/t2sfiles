@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/Connect4.tzx.zip
 connect-4-atlantis-software.z80
---sim-load
 --tape-name "Connect 4.tzx"
 --tape-sum 2724d29fc72a64bf7d911a4b66669456
 --start 1343

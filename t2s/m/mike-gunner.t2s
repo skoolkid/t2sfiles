@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/MikeGunner(lightgun).tzx.zip
 mike-gunner.z80
---sim-load
 --tape-name "Mike Gunner (Lightgun).tzx"
 --tape-sum f5cd3f24ecf9857e61ca59a27c023487
 --start 25100

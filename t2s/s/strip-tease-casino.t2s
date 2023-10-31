@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Strip-teaseCasino.tzx.zip
 strip-tease-casino.z80
---sim-load
 --tape-name "StripteaseCasino.tzx"
 --tape-sum 784660e339bc555bd81fd2560fa6a0d7
 --start 1343

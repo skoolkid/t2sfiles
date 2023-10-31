@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/Champions.tzx.zip
 champions.z80
---sim-load
 --tape-name "Champions.tzx"
 --tape-sum 54279eb3168e5d8c42d030b804702251
 --start 1343

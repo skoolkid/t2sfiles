@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/l/Loco.tzx.zip
 loco-alligata.z80
---sim-load
 --tape-name "LOCO.TZX"
 --tape-sum 763f0978a5ebefa279ad797945de9830
 --start 64124

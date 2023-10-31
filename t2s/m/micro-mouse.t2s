@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/MicroMouse.tzx.zip
 micro-mouse.z80
---sim-load
 --tape-name "Micro Mouse.tzx"
 --tape-sum 1b76689d50c390d5fa90a5d5d6e3d073
 --start 23651

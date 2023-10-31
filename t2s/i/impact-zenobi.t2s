@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/i/Impact_2.tzx.zip
 impact-zenobi.z80
---sim-load
 --tape-name "IMPACT.TZX"
 --tape-sum 927dc85e4bb9bf70b2b26738c251a73f
 --start 25000

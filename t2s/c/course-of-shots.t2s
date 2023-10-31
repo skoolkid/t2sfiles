@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/CourseOfShots.tzx.zip
 course-of-shots.z80
---sim-load
 --tape-name "Course of Shots.tzx"
 --tape-sum 08a1240e1be7507918bc3edb892df07e
 --start 1343

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/f/FigChess.tap.zip
 fig-chess.z80
---sim-load
 --tape-name "FIGGINSC.TAP"
 --tape-sum 5ae5ab4a0848871c5ecc0511a497f67c
 --start 1343

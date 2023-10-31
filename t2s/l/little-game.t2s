@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/l/LittleGame.tap.zip
 little-game.z80
---sim-load
 --tape-name "LITTLE_G.TAP"
 --tape-sum e9372ddb5ad29a51ee6c9e40de0ae013
 --start 34870

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/l/Loco-Motion.tzx.zip
 loco-motion-mastertronic.z80
---sim-load
 --tape-name "Loco-Motion.tzx"
 --tape-sum a14edbd344425b2b39f28d030e9f6a31
 --start 50152

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/TubeTrainTerror.tzx.zip
 tube-train-terror.z80
---sim-load
 --tape-name "Tube Train Terror.tzx"
 --tape-sum 1cc104174a849b8b39b7687eb5904022
 --start 1343

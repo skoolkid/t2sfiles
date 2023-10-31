@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/De-Fusion.zip
 de-fusion.z80
---sim-load
 --tape-name "De-Fusion.tzx"
 --tape-sum 21ddbc2006716f94af1e99c3fa31ebcc
 --start 24608

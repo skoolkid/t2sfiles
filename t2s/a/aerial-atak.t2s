@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/AerialAtak.tzx.zip
 aerial-atak.z80
---sim-load
 --tape-name "Aerial Atak.tzx"
 --tape-sum c7bbfa6be1d17acb03c7c10196b2f320
 --start 1343

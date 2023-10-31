@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/Moron.tzx.zip
 moron.z80
---sim-load
 --tape-name "Moron Spaceship.tzx"
 --tape-sum d2beebd11c9ba6e95f1e96b0fe0eb243
 --start 25000

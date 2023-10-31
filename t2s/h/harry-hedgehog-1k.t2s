@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/h/HarryHedgehog1k.tap.zip
 harry-hedgehog-1k.z80
---sim-load
 --tape-name "harry.tap"
 --tape-sum e967a2325853702ff9bcfff58a992d20
 --start 23769

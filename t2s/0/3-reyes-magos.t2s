@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/123/3ReyesMagos.tzx.zip
 3-reyes-magos.z80
---sim-load
 --tape-name "TRM.tzx"
 --tape-sum abb203735c9310d22b97dbe6446299b5
 --start 32768

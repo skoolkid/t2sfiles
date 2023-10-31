@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/LapOfTheGods.zip
 lap-of-the-gods.z80
---sim-load
 --tape-name "Lap Of The Gods.tzx"
 --tape-sum b6f692722947b4ce89e3a65434bcf130
 --start 47039

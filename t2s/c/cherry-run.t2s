@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/CherryRun.tap.zip
 cherry-run.z80
---sim-load
 --tape-name "CHERRY.TAP"
 --tape-sum 2b01da11ca72d62d315ac7f920fad712
 --start 1343

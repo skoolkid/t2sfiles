@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/g/GrandNational.tzx.zip
 grand-national-crl-group.z80
---sim-load
 --tape-name "Grand National (CRL).tzx"
 --tape-sum 13ea2edc8e83990a35086fb535c66a90
 --start 1343

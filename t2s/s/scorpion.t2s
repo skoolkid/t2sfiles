@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Scorpion.zip
 scorpion.z80
---sim-load
 --tape-name "Scorpion.tzx"
 --tape-sum f4be2976587e91e566db25f014ecbe22
 --start 26923

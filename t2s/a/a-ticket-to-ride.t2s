@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/TicketToRideA.tzx.zip
 a-ticket-to-ride.z80
---sim-load
 --tape-name "A Ticket To Ride.tzx"
 --tape-sum c9f7a05f33210e419384c5b925479b89
 --start 23336

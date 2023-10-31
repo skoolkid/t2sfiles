@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/AnnoDomini.tap.zip
 anno-domini.z80
---sim-load
 --tape-name "Anno/Anno.tap"
 --tape-sum 2bc5e34369916cd2f6c257540d223c1f
 --start 23770

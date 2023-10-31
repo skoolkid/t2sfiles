@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Pogo.zip
 pogo.z80
---sim-load
 --tape-name "Pogo.tzx"
 --tape-sum e310eef78265c8103247ac6738400cfe
 --start 65464

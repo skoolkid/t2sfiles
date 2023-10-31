@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/TemploDeLaLlamaEl.tap.zip
 templo-de-la-llama-el.z80
---sim-load
 --tape-name "El Templo De La Llama.tap"
 --tape-sum 23979a2798ab58cd109035d4f8807b73
 --start 24217

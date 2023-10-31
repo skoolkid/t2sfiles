@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/f/FisherKingThe.tzx.zip
 fisher-king-the-p1.z80
---sim-load
 --tape-name "The Fisher King - Part 1.tzx"
 --tape-sum c74f69c693f56943e4e32f6fbffdd0ef
 --start 29169

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/Druid.tzx.zip
 druid.z80
---sim-load
 --tape-name "Druid.tzx"
 --tape-sum 5c8ecdc327dae0a4a2a4d4e7d3d782d4
 --start 27003

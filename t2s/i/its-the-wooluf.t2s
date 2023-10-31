@@ -1,6 +1,5 @@
 "https://tzxvault.org/Spectrum/TZX/It'sTheWooluf!.zip"
 its-the-wooluf.z80
---sim-load
 --tape-name "It's The Wooluf!.tzx"
 --tape-sum 5d6f3fd8706b417cb2624186bff0aa72
 --start 25000

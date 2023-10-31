@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SkiStar2000.tzx.zip
 ski-star-2000.z80
---sim-load
 --tape-name "Ski Star 2000.tzx"
 --tape-sum c7d09a570d7dc0cc04d5fbd207dc2b49
 --start 39000

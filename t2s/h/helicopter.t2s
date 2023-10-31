@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/h/Helicopter.tzx.zip
 helicopter.z80
---sim-load
 --tape-name "helicopter.tzx"
 --tape-sum 386a5adfcb12928a060dc5b699e23d66
 --start 1343

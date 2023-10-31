@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/n/Nibbles.tap.zip
 nibbles.z80
---sim-load
 --tape-name "nibbles.tap"
 --tape-sum 1ca1591c778af6b64cb8f0d47629f529
 --start 25000

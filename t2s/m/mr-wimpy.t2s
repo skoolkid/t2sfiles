@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/Mr.Wimpy.tzx.zip
 mr-wimpy.z80
---sim-load
 --tape-name "Mr Wimpy.tzx"
 --tape-sum 789c33a9cb2abccf757cb7139578046b
 --start 62500

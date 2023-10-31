@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/PlayYourCardsRight_2.tap.zip
 play-your-cards-right-ron-ridge.z80
---sim-load
 --tape-name "HILO_2.TAP"
 --tape-sum d90efae34ec35d92047d4bc13f8f323b
 --start 1343

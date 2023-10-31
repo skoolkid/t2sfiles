@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/OneOnOne.zip
 one-on-one.z80
---sim-load
 --tape-name "One On One.tzx"
 --tape-sum 7e8b8c61657f69f5799a95df6c20c288
 --start 23309

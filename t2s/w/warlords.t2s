@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/w/Warlords.tzx.zip
 warlords.z80
---sim-load
 --tape-name "Warlords.tzx"
 --tape-sum 6c948b8569ee6ed0898c349d37a63e52
 --start 32768

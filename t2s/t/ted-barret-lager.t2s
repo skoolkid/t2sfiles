@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/TedBarret-Lager.tap.zip
 ted-barret-lager.z80
---sim-load
 --tape-name "Lager.tap"
 --tape-sum 87090ab16dbc978f14616325b731e1fe
 --start 25000

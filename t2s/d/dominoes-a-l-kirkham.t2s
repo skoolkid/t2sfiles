@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/Dominoes_3.tzx.zip
 dominoes-a-l-kirkham.z80
---sim-load
 --tape-name "Dominoes.tzx"
 --tape-sum 773ab816f4ad6bb1412b385856f68d91
 --start 1343

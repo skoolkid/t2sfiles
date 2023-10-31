@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SpeedKing2.tzx.zip
 speed-king-2.z80
---sim-load
 --tape-name "Speed King 2.tzx"
 --tape-sum 1a0e45ef3f28298ef54c1b9adc72984f
 --start 58039

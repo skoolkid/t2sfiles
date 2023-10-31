@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/Pentac.tzx.zip
 pentac.z80
---sim-load
 --tape-name "Pentac.tzx"
 --tape-sum 2766f2b8d69b368df0c2a263ec70b1a3
 --start 61000

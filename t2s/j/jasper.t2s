@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/j/Jasper.tzx.zip
 jasper.z80
---sim-load
 --tape-name "Jasper.tzx"
 --tape-sum 0adff0c82defa058a2562bac1bac7561
 --start 55009

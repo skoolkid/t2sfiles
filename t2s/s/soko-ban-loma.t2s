@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SOKO-BAN+LOMA.tzx.zip
 soko-ban-loma.z80
---sim-load
 --tape-name "SOKO-BAN+LOMA.tzx"
 --tape-sum 3a1afaed16ac52c25d7dbbb5b5bda4a3
 --start 1343

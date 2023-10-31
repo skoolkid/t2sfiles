@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/Pacman.tap.zip
 pacman.z80
---sim-load
 --tape-name "Pacman.tap"
 --tape-sum 347d152a31c0f81f2e01f16b43af8468
 --start 40000

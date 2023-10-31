@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/Pontoon_3.tap.zip
 pontoon-keith-berry.z80
---sim-load
 --tape-name "PONTOO_1.TAP"
 --tape-sum 8ee3c331f1d760d9c9398fb92db6f952
 --start 1343

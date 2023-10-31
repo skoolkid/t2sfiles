@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/e/ETa.tap.zip
 eta.z80
---sim-load
 --tape-name "ETA.TAP"
 --tape-sum 2dcfaa8bccb6922e5a21e1fcf4fc5a7f
 --start 1343

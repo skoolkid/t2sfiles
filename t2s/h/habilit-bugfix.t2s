@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/h/Habilit(BUGFIX).tzx.zip
 habilit-bugfix.z80
---sim-load
 --tape-name "Habilit - Bugfix.tzx"
 --tape-sum 647a2913732898e60dbbbe864bb347be
 --start 25561

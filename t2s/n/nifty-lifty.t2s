@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/n/NiftyLifty.tzx.zip
 nifty-lifty.z80
---sim-load
 --tape-name "Nifty Lifty.tzx"
 --tape-sum b31ca73f8a872fa54bc680481ae95ae5
 --start 23296

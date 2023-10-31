@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/l/Locodriver5.tzx.zip
 locodriver-5.z80
---sim-load
 --tape-name "Locodriver 5.tzx"
 --tape-sum 7915c6b28f2b746dac68bf11f33881f3
 --start 1343

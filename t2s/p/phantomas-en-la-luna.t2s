@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/PhantomasEnLaLuna.tzx.zip
 phantomas-en-la-luna.z80
---sim-load
 --tape-name "Phantomas En La Luna.tzx"
 --tape-sum b50519a05f74b909b5bef015ad2484af
 --start 26793

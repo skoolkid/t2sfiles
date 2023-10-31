@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/CityThe.tap.zip
 city-the-neil-pellinacci.z80
---sim-load
 --tape-name "TheCity.tap"
 --tape-sum c312561f27c31634378dee6e6e3bc56f
 --start 1343

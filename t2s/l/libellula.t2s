@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/l/Libellula.tzx.zip
 libellula.z80
---sim-load
 --tape-name "Libellula.tzx"
 --tape-sum d7573e2bee7d77492f254fb9da462ae9
 --start 1343

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/r/RoadFusion.tzx.zip
 road-fusion.z80
---sim-load
 --tape-name "Road Fusion.tzx"
 --tape-sum c1267a743a42b7ace86b7e080a3b7001
 --start 1343

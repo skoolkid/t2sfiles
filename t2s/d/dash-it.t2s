@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/Dash-it.tzx.zip
 dash-it.z80
---sim-load
 --tape-name "Dash-It.tzx"
 --tape-sum eb62e58de9e355fd2845248aa0f772ff
 --start 1343

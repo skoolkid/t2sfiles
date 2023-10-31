@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/DevilsIsland_2.tap.zip
 devils-island-simon-trigg.z80
---sim-load
 --tape-name "Devils Island.TAP"
 --tape-sum 8c11e4658fe170f44a2bd4dc52b98a00
 --start 16404

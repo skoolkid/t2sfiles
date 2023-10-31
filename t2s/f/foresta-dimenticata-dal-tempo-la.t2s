@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/f/ForestaDimenticataDalTempoLa.tzx.zip
 foresta-dimenticata-dal-tempo-la.z80
---sim-load
 --tape-name "ForestaLa.tzx"
 --tape-sum 539febccf0de08706264618d431d6a97
 --start 1343

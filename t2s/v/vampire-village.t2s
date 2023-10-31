@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/v/VampireVillage.tzx.zip
 vampire-village.z80
---sim-load
 --tape-name "Vampire Village.tzx"
 --tape-sum 75ac29e15f1e2c9f67617c705e005a93
 --start 1343

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/PisoZero.tap.zip
 piso-zero.z80
---sim-load
 --tape-name "Piso Zero.tap"
 --tape-sum de3abf541fa95dec62af85c0f575305c
 --start 25159

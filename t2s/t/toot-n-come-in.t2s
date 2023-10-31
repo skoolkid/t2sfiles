@@ -1,6 +1,5 @@
 "https://tzxvault.org/Spectrum/TZX/Toot'nComeIn.zip"
 toot-n-come-in.z80
---sim-load
 --tape-name "Toot'n Come In.tzx"
 --tape-sum 4a92c3a9d9bc27a39405876585fcee56
 --start 27970

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/TrollTunnels.tap.zip
 troll-tunnels.z80
---sim-load
 --tape-name "Troll Tunnels.tap"
 --tape-sum a495d8d100885b42b197bf361ba4e71c
 --start 1343

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/DeadlySilence.tzx.zip
 deadly-silence.z80
---sim-load
 --tape-name "Deadly Silence.tzx"
 --tape-sum f30af177a91b375fd977d9bbd01507a9
 --start 36366

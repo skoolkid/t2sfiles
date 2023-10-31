@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/k/KingsValley.tzx.zip
 kings-valley.z80
---sim-load
 --tape-name "King's Valley.tzx"
 --tape-sum 9def74b00a5ac67eeaeffda85acb3263
 --start 64043

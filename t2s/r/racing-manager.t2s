@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/r/RacingManager.tzx.zip
 racing-manager.z80
---sim-load
 --tape-name "Racing Manager.tzx"
 --tape-sum dffab3270856bce09f908138297c9581
 --start 1343

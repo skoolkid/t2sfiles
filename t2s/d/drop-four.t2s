@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/DropFour.tzx.zip
 drop-four.z80
---sim-load
 --tape-name "Drop Four.tzx"
 --tape-sum 5310b71dbba7c74edceca2578a7c66e0
 --start 1343

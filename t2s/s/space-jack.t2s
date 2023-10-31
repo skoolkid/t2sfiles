@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/SpaceJack.zip
 space-jack.z80
---sim-load
 --tape-name "Space Jack.tzx"
 --tape-sum 4810a610db0d303125d2a8238b55872e
 --start 40052

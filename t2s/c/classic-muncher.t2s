@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/ClassicMuncher.tzx.zip
 classic-muncher.z80
---sim-load
 --tape-name "Classic Muncher.tzx"
 --tape-sum 6a0ac58755f728ad3ccc2e962d37c00f
 --start 28000

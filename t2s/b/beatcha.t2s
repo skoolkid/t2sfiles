@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/Beatcha.tzx.zip
 beatcha.z80
---sim-load
 --tape-name "Beatcha.tzx"
 --tape-sum cf4b2414c1c9493a91e2f96e492f1717
 --start 25205

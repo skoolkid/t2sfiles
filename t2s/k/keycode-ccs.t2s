@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/k/Keycode.tzx.zip
 keycode-ccs.z80
---sim-load
 --tape-name "Keycode.tzx"
 --tape-sum 64d4117a81269d67214b0ee6aafb2685
 --start 1343

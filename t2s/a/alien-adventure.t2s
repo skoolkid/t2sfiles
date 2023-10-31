@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/AlienAdventure.tzx.zip
 alien-adventure.z80
---sim-load
 --tape-name "Alien Adventure.tzx"
 --tape-sum 430e38af6d04c2d8ee9d1ce68770689b
 --start 7878

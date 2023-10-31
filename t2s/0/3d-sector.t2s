@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Sector3D.tzx.zip
 3d-sector.z80
---sim-load
 --tape-name "3D sector.tzx"
 --tape-sum 65ed702d229c9b0361f2df582b4b9dbb
 --start 33093

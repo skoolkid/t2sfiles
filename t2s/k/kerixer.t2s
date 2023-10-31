@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/k/Kerixer.tap.zip
 kerixer.z80
---sim-load
 --tape-name "Kerixer.tap"
 --tape-sum 0992d096118b502e77c22cba91b2718e
 --start 1343

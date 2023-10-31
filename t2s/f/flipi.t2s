@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/f/Flipi.tap.zip
 flipi.z80
---sim-load
 --tape-name "FLIPI.TAP"
 --tape-sum ce48e25afc50aac578f26c3aa541c293
 --start 27392

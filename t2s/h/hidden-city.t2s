@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/HiddenCity.zip
 hidden-city.z80
---sim-load
 --tape-name "Hidden City.tzx"
 --tape-sum 3e1cb4793dc6cdaad21fcf43bf064080
 --start 42000

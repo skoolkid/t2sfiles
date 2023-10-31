@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/Destructor.tzx.zip
 destructor.z80
---sim-load
 --tape-name "Destructor.tzx"
 --tape-sum 46637457aa72687286f9315c30ed4dbf
 --start 1343

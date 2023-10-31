@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/MonstersInHell.tzx.zip
 monsters-in-hell.z80
---sim-load
 --tape-name "Monsters In Hell.tzx"
 --tape-sum 217cd995cc461d4d08c83b8f20092d4d
 --start 25394

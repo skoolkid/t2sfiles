@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/Api.tzx.zip
 api.z80
---sim-load
 --tape-name "Api.tzx"
 --tape-sum e8eec0ea6f8db5f57c57ca5e9aa3b938
 --start 31495

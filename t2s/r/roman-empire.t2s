@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/r/RomanEmpire.tzx.zip
 roman-empire.z80
---sim-load
 --tape-name "Roman Empire.tzx"
 --tape-sum 5e9b9d9b58765041ef2e1d0516c9bc60
 --start 1343

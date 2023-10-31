@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/e/EscapeFromKhoshima.tzx.zip
 escape-from-khoshima.z80
---sim-load
 --tape-name "Escape From Khoshima.tzx"
 --tape-sum bbbdd11074a9c9ba84187d6c5cf8786d
 --start 34104

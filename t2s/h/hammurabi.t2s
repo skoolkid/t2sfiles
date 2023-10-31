@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/h/Hammurabi.tzx.zip
 hammurabi.z80
---sim-load
 --tape-name "HAMURABI.TZX"
 --tape-sum 63b842c3177e46c47853559480f22e53
 --start 1343

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/Aknadach(SofthouseLtd).tzx.zip
 aknadach.z80
---sim-load
 --tape-name "AKNADACH_en.TZX"
 --tape-sum 66aeaaef5c3b9a2e5ae8726a9bd86860
 --start 65203

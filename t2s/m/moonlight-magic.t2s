@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/MoonlightMagic.zip
 moonlight-magic.z80
---sim-load
 --tape-name "Moonlight Magic.tzx"
 --tape-sum 1b4611c97eb95a85d51e149c94b77fde
 --start 27664

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/n/NthZone.tap.zip
 nth-zone.z80
---sim-load
 --tape-name "NTH_ZONE.TAP"
 --tape-sum e32794a3f2fffd860bd89c7985344d4b
 --start 44500

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/Terraform.tzx.zip
 terraform.z80
---sim-load
 --tape-name "Terraform.tzx"
 --tape-sum e14a717d9498a32c8a197fd291beab61
 --start 1343

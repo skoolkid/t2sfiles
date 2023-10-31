@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/Three-DMazeII.tap.zip
 three-d-maze-ii.z80
---sim-load
 --tape-name "ThreeDMaze2.tap"
 --tape-sum 63571ffa888ec42529281876ce1becc1
 --start 1343

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/Cronos.tap.zip
 cronos.z80
---sim-load
 --tape-name "Cronos.tap"
 --tape-sum 9e3e17a0c158c7907df48e8a2380a2c3
 --start 64736

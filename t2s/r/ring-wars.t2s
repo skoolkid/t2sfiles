@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/r/RingWars.tzx.zip
 ring-wars.z80
---sim-load
 --tape-name "Ring Wars.tzx"
 --tape-sum 49ea15b76e85dfb66f43182c2d3aeca5
 --start 65102

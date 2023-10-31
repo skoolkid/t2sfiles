@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Starmaker.tzx.zip
 star-maker.z80
---sim-load
 --tape-name "Star Maker.tzx"
 --tape-sum c9e6a407820a1992da0cef3672ba9f83
 --start 1343

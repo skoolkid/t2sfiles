@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Panther.zip
 panther.z80
---sim-load
 --tape-name "Panther.tzx"
 --tape-sum 1d8ce22f19af46e2a29fb109d6281a0e
 --start 32539

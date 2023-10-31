@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/v/Vikings.tzx.zip
 vikings-p2-menai-straits.z80
---sim-load
 --tape-name "Vikings - Menai Straits.tzx"
 --tape-sum 7622d02fea4a43afe6e813d40f0676d7
 --start 42000

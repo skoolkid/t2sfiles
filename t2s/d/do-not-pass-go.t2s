@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/DoNotPassGo.tzx.zip
 do-not-pass-go.z80
---sim-load
 --tape-name "Do Not Pass Go.tzx"
 --tape-sum b53931c17a225b7fd70d5e76116ff7e6
 --start 1343

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/PowerPyramids.tzx.zip
 power-pyramids.z80
---sim-load
 --tape-name "Power Pyramids.tzx"
 --tape-sum a8bc152db16ae2931c3985019999ea89
 --start 50800

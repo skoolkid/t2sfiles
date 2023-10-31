@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/Phantomas(MediumCase).tzx.zip
 phantomas.z80
---sim-load
 --tape-name "Phantomas - Medium Case.tzx"
 --tape-sum 3ecd98b5b45ebcffe906dcc8226fd98c
 --start 24537

@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/TheCode.zip
 code-the.z80
---sim-load
 --tape-name "The Code.tzx"
 --tape-sum 80997bafdc324657992a3bdd43cf53f8
 --start 22146

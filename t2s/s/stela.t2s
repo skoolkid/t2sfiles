@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Stela.tzx.zip
 stela.z80
---sim-load
 --tape-name "STELA.tzx"
 --tape-sum 575abdc0d7e72708a022074d9ee24ff9
 --start 28000

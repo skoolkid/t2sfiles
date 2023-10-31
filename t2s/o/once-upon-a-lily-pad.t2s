@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/o/OnceUponALilyPad.tzx.zip
 once-upon-a-lily-pad.z80
---sim-load
 --tape-name "Once Upon A Lily Pad.tzx"
 --tape-sum 65f2e0d0046270fd7fde5e14ce32c3c7
 --start 36376

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/r/RiverRegatta.tap.zip
 river-regatta.z80
---sim-load
 --tape-name "RiverRegatta.tap"
 --tape-sum 4e8aa51cef10f02cd44afa5e383db186
 --start 1343

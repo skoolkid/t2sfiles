@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/Boulder-Dash512b.tap.zip
 boulder-dash-512b.z80
---sim-load
 --tape-name "512boulder.tap"
 --tape-sum 3c86dd70642247951fff3b6a875e8353
 --start 1343

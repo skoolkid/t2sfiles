@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SaturnLander.tap.zip
 saturn-lander.z80
---sim-load
 --tape-name "SATURNL.TAP"
 --tape-sum 517a3d09c7b9d7e84b4f965b0d63155e
 --start 1343

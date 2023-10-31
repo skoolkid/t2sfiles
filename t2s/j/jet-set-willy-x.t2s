@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/j/JetSetWillyX.tzx.zip
 jet-set-willy-x.z80
---sim-load
 --tape-name "jswx.tzx"
 --tape-sum 9e4cc22e9acdffb79dfd27dd27b03406
 --start 62262

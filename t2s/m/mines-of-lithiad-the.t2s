@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/TheMinesOfLithiad.zip
 mines-of-lithiad-the.z80
---sim-load
 --tape-name "The Mines Of Lithiad.tzx"
 --tape-sum b5e25a776b14589d12b1ea2048956938
 --start 29201

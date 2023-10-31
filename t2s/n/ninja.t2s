@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Ninja.zip
 ninja.z80
---sim-load
 --tape-name "Ninja.tzx"
 --tape-sum 2c3d181ff559083d20a98631cb6b44b0
 --start 23791

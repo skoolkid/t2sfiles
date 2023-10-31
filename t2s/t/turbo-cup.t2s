@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/TurboCup(TurboCupChallenge)(PlayersPremier).tzx.zip
 turbo-cup.z80
---sim-load
 --tape-name "Turbo Cup Challenge (Players Premiere).tzx"
 --tape-sum 639b62d9297a352346fe19e1a3b55154
 --start 65188

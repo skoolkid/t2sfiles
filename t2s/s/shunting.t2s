@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Shunting.tzx.zip
 shunting.z80
---sim-load
 --tape-name "Shunting.tzx"
 --tape-sum d97e50f8df9d4e8dbff4f9750ba45e9e
 --start 1343

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/j/JimmysSuperLeague.tzx.zip
 jimmys-super-league.z80
---sim-load
 --tape-name "Jimmy's Super League.tzx"
 --tape-sum 856983822fb537c78d15b9beaffe645d
 --start 1343

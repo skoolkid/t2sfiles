@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Spellbound-48k.zip
 spellbound.z80
---sim-load
 --tape-name "Spellbound - 48k.tzx"
 --tape-sum fc92501f8dbf213d229758ab9c5e977c
 --start 23309

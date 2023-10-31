@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/Bustout.tap.zip
 bustout.z80
---sim-load
 --tape-name "BUSTOUT.TAP"
 --tape-sum 81ca7884a4d8f2f3f42f2ac5b264cf32
 --start 27794

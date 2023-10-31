@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/f/Fireball.tap.zip
 fireball.z80
---sim-load
 --tape-name "Fireball.tap"
 --tape-sum d3f7b4fa4201418398c617c0e01a718b
 --start 1343

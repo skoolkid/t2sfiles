@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/n/NightRaider.tzx.zip
 night-raider.z80
---sim-load
 --tape-name "Night Raider.tzx"
 --tape-sum 83f03b0cba180544efd1a9c729b4015f
 --start 23841

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/h/Havoc_2.tzx.zip
 havoc-players-premier.z80
---sim-load
 --tape-name "Havok - 48k (Players Premier).tzx"
 --tape-sum db2a2091260f6e44bc70c5f9bcbe07de
 --start 65188

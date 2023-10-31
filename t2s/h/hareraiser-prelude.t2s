@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/h/Hareraiser-Prelude.tzx.zip
 hareraiser-prelude.z80
---sim-load
 --tape-name "Hareraiser - Prelude.tzx"
 --tape-sum e81949fafe84555ef5c38facb4c73810
 --start 1343

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/DockerDan.tap.zip
 docker-dan.z80
---sim-load
 --tape-name "DOCKERDA.TAP"
 --tape-sum f90c544c2c06850e7b2f33d4625cdf44
 --start 27105

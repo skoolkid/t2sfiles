@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/MicroProseSoccerV1.tzx.zip
 microprose-soccer-v1-side-a.z80
---sim-load
 --tape-name "Microprose Soccer - Release 1 - Side A.tzx"
 --tape-sum 4438bef05420d8969f45b4f23d681dff
 --start 65305

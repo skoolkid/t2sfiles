@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/DizzyLord.tzx.zip
 dizzy-lord.z80
---sim-load
 --tape-name "DizzyLord.tzx"
 --tape-sum 43a9f135ec2c9e47e70b2b0d974cc8e4
 --start 23353

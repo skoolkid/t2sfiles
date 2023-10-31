@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SeaOfZirun.tzx.zip
 sea-of-zirun.z80
---sim-load
 --tape-name "Sea Of Zirun.tzx"
 --tape-sum 96de04f0ef8ccdd1268e6deb168253c9
 --start 25000

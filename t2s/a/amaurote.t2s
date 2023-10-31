@@ -1,6 +1,5 @@
 https://worldofspectrum.org/pub/sinclair/games/a/Amaurote.tzx.zip
 amaurote.z80
---sim-load
 --tape-name "Amaurote.tzx"
 --tape-sum 4e11da682ee59db5a8d037532cfdad4e
 --start 26600

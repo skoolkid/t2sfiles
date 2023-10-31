@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/Coingame.tap.zip
 coingame.z80
---sim-load
 --tape-name "COINGAME.TAP"
 --tape-sum 0abd8654ef4d5f6186b6d6f313bb8b6f
 --start 1343

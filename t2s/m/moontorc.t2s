@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/Moontorc.tzx.zip
 moontorc.z80
---sim-load
 --tape-name "Moontorc.tzx"
 --tape-sum 6b900e1af6b3d6c0fed27b1eec10ffb6
 --start 41976

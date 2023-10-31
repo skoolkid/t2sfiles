@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/SnoballInHell.zip
 snoball-in-hell.z80
---sim-load
 --tape-name "Snoball In Hell.tzx"
 --tape-sum c183062c402a22c848eaed389111c452
 --start 32768

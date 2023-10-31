@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/AgentToast.tap.zip
 agent-toast.z80
---sim-load
 --tape-name "AGENTTOA.TAP"
 --tape-sum 3348aa489d414496c9e8ca95a4695e0d
 --start 1343

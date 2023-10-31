@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/w/WhizzKid.tzx.zip
 whizz-kid.z80
---sim-load
 --tape-name "Whizz Kid.tzx"
 --tape-sum adf77933a31e41a8bc93433cd2363fd9
 --start 1343

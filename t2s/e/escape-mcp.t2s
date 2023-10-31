@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/e/Escape-MCP.tzx.zip
 escape-mcp.z80
---sim-load
 --tape-name "Escape MCP.tzx"
 --tape-sum 411765f8d0dec881ad1f467c866f36b7
 --start 1343

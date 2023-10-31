@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/Confuze.tzx.zip
 confuze.z80
---sim-load
 --tape-name "Confuze.tzx"
 --tape-sum 52a6781a7729bae208a605ef9ebb1423
 --start 26500

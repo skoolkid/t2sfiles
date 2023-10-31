@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/CosmicWartoad.tzx.zip
 cosmic-wartoad.z80
---sim-load
 --tape-name "Cosmic Wartoad.tzx"
 --tape-sum 53aebf9b7a48fcf67938875ebcd2e0d3
 --start 64942

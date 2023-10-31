@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/f/Faraon.tzx.zip
 faraon-abc-soft.z80
---sim-load
 --tape-name "Faraon (ABC Soft).tzx"
 --tape-sum e1ba5eae4d0266aa32a790cf1b00aaf4
 --start 1343

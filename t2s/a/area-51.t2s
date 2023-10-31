@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/Area51.tap.zip
 area-51.z80
---sim-load
 --tape-name "Area51.tap"
 --tape-sum 7b48757479b71596305a50c649a56494
 --start 24000

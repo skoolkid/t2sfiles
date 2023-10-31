@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/Automonopoli.tzx.zip
 automonopoli.z80
---sim-load
 --tape-name "Automonopoli.tzx"
 --tape-sum 2e531553ca604ed77e77dc644686f5bc
 --start 1343

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/g/GalacticEmpire.tzx.zip
 galactic-empire-mike-rose.z80
---sim-load
 --tape-name "Galactic Empire.tzx"
 --tape-sum f0bb0f08b8fd86a19983bbbe48acdf71
 --start 1343

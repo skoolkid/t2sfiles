@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/q/QsArmoury.tap.zip
 qs-armoury.z80
---sim-load
 --tape-name "007TRAIN.TAP"
 --tape-sum 6c9561f56463ca1f67d1c0aa9e0f6131
 --start 33000

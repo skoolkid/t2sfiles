@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Sigfrido.tap.zip
 sigfrido.z80
---sim-load
 --tape-name "Sigfrido.tap"
 --tape-sum 6b1a659434042fd1e7caa5705e7a16bb
 --start 65000

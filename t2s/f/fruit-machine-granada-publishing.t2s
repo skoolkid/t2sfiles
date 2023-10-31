@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/f/FruitMachine_4.tap.zip
 fruit-machine-granada-publishing.z80
---sim-load
 --tape-name "FruitMachine.tap"
 --tape-sum 8ed2e85b02405c06a49d74ed3ce79c16
 --start 1343

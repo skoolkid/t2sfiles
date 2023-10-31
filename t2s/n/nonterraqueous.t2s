@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Nonterraqueous.zip
 nonterraqueous.z80
---sim-load
 --tape-name "Nonterraqueous.tzx"
 --tape-sum 6f8c9496036a727df096279dca82b44a
 --start 23801

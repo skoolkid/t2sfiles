@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Cavelon.zip
 cavelon-side-2.z80
---sim-load
 --tape-name "Cavelon - Side 2.tzx"
 --tape-sum e200d1ac37fdc9e462f60f7cd401b828
 --start 24076

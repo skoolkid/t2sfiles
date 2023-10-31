@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/q/Quazer.tzx.zip
 quazer-p3.z80
---sim-load
 --tape-name "Quazer - Side 2.tzx"
 --tape-sum 8935826930bac9bfd6e90eda5d9d5f10
 --start 1343

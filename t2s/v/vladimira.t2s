@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/v/Vladimira.tap.zip
 vladimira.z80
---sim-load
 --tape-name "Vladimira/vladimira.tap"
 --tape-sum af34685367277bea21d6d55582b633e9
 --start 1343

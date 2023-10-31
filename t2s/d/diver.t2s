@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/Diver.tap.zip
 diver.z80
---sim-load
 --tape-name "DIVER.TAP"
 --tape-sum b62f84930dbde55357915bc21f0da9aa
 --start 1343

@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Spoof-TheMagicDragon.zip
 spoof-the-magic-dragon.z80
---sim-load
 --tape-name "Spoof - The Magic Dragon.tzx"
 --tape-sum e652cb3925f2a74f3176c745c0a6b180
 --start 25000

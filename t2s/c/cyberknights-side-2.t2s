@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Cyberknights.zip
 cyberknights-side-2.z80
---sim-load
 --tape-name "Cyberknights - Side 2.tzx"
 --tape-sum 79e4b852107c1ca7d80a95fb0b7b47ba
 --start 24500

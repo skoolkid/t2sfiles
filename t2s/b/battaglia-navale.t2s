@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/BattagliaNavale.tzx.zip
 battaglia-navale.z80
---sim-load
 --tape-name "Batnav.tzx"
 --tape-sum 9b0d8d90d72349128c0aaadaafc8b50a
 --start 1343

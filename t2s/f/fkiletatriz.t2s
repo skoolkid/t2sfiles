@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/f/Fkiletatriz.tap.zip
 fkiletatriz.z80
---sim-load
 --tape-name "poxoft_fkiletatriz_1k_48k.tap"
 --tape-sum 0b67ce5b85fe7992afe421029a0e155c
 --start 1343

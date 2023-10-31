@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/MadMarthaII.tzx.zip
 mad-martha-ii.z80
---sim-load
 --tape-name "Mad Martha 2.tzx"
 --tape-sum ebddebb3c4ba6336cbd1103baadc3a06
 --start 1343

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/Mithos(SmallCardboardCase).tzx.zip
 mithos.z80
---sim-load
 --tape-name "Mithos - Small Cardboard Case - Side 1.tzx"
 --tape-sum d3259bcee90382580369cdeb061bd239
 --start 65269

@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/DynatronMission.zip
 dynatron-mission.z80
---sim-load
 --tape-name "Dynatron Mission.tzx"
 --tape-sum 643b408d1609427c30717a9dd01774d4
 --start 44930

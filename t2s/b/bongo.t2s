@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Bongo.zip
 bongo.z80
---sim-load
 --tape-name "Bongo.tzx"
 --tape-sum 0c8c9bac0660642a7f48115da0adfd80
 --start 23762

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/Dogfight_2.tap.zip
 dogfight-robert-erskine.z80
---sim-load
 --tape-name "Dogfight.tap"
 --tape-sum 992b827b2ac8e28a6049caeb2230a89c
 --start 1343

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/Tutankhamun.tzx.zip
 tutankhamun.z80
---sim-load
 --tape-name "Tutankhamun.tzx"
 --tape-sum a1e94dbaf54421fbb250948bf5018e3d
 --start 27200

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/n/Nukescan.tzx.zip
 nukescan.z80
---sim-load
 --tape-name "Nukescan.tzx"
 --tape-sum a578d6eb6695bdeffc0e7ba0f2ac723e
 --start 1343

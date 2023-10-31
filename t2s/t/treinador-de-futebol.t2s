@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/TreinadorDeFutebol.tap.zip
 treinador-de-futebol.z80
---sim-load
 --tape-name "TFUTEBOL.TAP"
 --tape-sum e5e3b3bace723b2d3fd9e5524b46eda6
 --start 1343

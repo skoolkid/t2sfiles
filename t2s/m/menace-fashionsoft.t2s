@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/Menace.tzx.zip
 menace-fashionsoft.z80
---sim-load
 --tape-name "Menace (Fashionsoft).tzx"
 --tape-sum cda3ef086af00b43555dc018dd52e0f6
 --start 1343

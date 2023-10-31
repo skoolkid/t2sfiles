@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/BearAGrudge.tap.zip
 bear-a-grudge.z80
---sim-load
 --tape-name "BEARGRUD.TAP"
 --tape-sum 875fffe06a76e5512d25eb0d8b3ed98e
 --start 32459

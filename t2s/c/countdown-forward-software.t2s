@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/Countdown_3.tzx.zip
 countdown-forward-software.z80
---sim-load
 --tape-name "Countdown (Forward Software).tzx"
 --tape-sum be5256e303690f0822783741c01202a4
 --start 25063

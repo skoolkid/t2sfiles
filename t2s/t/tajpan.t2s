@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/Taipan(Tajpan)(J.Rajzer).tzx.zip
 tajpan.z80
---sim-load
 --tape-name "Tajpan.tzx"
 --tape-sum c6038eb2bd36fa50927e469359e4d2a6
 --start 1343

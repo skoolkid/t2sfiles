@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/AndroidPitRescue.tap.zip
 android-pit-rescue.z80
---sim-load
 --tape-name "Andrpitr.tap"
 --tape-sum b8405a36e57ad0201b45ad5ab3ced6a7
 --start 1343

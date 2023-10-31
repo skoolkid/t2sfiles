@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/ColouredTiles.tzx.zip
 coloured-tiles.z80
---sim-load
 --tape-name "Coloured Tiles.tzx"
 --tape-sum e34077e522bb6a1b66cc3ac987713ed9
 --start 1343

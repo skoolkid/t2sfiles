@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/TheLostTemple.zip
 lost-temple-the.z80
---sim-load
 --tape-name "The Lost Temple.tzx"
 --tape-sum f5dcd4828299d78c873974f9b2729986
 --start 25000

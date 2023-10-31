@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/PassingShot.tzx.zip
 passing-shot.z80
---sim-load
 --tape-name "Passing Shot.tzx"
 --tape-sum d72229fd53241a73b128350066320899
 --start 24569

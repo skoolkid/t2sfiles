@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/FullThrottle2.zip
 full-throttle-2.z80
---sim-load
 --tape-name "Full Throttle 2.tzx"
 --tape-sum 2bf8c598e7b27d0561e55f69c133a946
 --start 28028

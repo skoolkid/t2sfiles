@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/PubGames.tzx.zip
 pub-games-skittles.z80
---sim-load
 --tape-name "Pub Games - Side B.tzx"
 --tape-sum 2526adc9dce8833bdc3aa46ebb9c27b5
 --start 40039

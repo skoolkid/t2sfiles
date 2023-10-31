@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/u/UniversalHero.tzx.zip
 universal-hero.z80
---sim-load
 --tape-name "Universal Hero.tzx"
 --tape-sum 5fa0ddce4b686ee1517e17629fc43771
 --start 23390

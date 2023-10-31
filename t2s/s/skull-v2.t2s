@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SkullV2.tzx.zip
 skull-v2.z80
---sim-load
 --tape-name "Skull - Version 2.tzx"
 --tape-sum 3d41462023bf713932bb74723ef96939
 --start 50176

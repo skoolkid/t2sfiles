@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/Murkwood.tzx.zip
 murkwood-side-a.z80
---sim-load
 --tape-name "Murkwood - Side A.tzx"
 --tape-sum abc3bb400d77c7ffc21448b608d5cb93
 --start 1343

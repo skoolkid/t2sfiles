@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/ProfessionalFootballer.tzx.zip
 professional-footballer.z80
---sim-load
 --tape-name "Professional Footballer.tzx"
 --tape-sum 470502c2c581150cd3cdc184afc1d3df
 --start 1343

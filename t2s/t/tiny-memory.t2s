@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/TinyMemory.tap.zip
 tiny-memory.z80
---sim-load
 --tape-name "TinyMemory.tap"
 --tape-sum 6d0f61ee4db76410da39a749160f3d02
 --start 23766

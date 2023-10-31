@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/StarPilot.tzx.zip
 star-pilot.z80
---sim-load
 --tape-name "Star Pilot - 48k.tzx"
 --tape-sum 9952e47cd312d3c2c2cb3d66a7e569e3
 --start 23326

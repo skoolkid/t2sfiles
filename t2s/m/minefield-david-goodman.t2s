@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/Minefield_2.tzx.zip
 minefield-david-goodman.z80
---sim-load
 --tape-name "Minefield.tzx"
 --tape-sum ae965c51aea4121ded35f5de2af28a53
 --start 1343

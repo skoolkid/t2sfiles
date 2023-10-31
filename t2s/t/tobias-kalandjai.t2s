@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/TobiasKalandjai.tap.zip
 tobias-kalandjai.z80
---sim-load
 --tape-name "TOBIAS.TAP"
 --tape-sum a1ed76eb5cead62558d69ace1a93571f
 --start 40000

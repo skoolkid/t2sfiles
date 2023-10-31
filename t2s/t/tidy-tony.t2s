@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/TidyTony.tap.zip
 tidy-tony.z80
---sim-load
 --tape-name "TIDYTON.TAP"
 --tape-sum 7845c01f9b80fe1759df2e51440f9cac
 --start 1343

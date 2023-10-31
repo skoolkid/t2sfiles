@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/h/HopNChopV2.tzx.zip
 hop-n-chop-v2.z80
---sim-load
 --tape-name "Hop 'n' Chop v2.tzx"
 --tape-sum d0171ac9ef121183cfb1046f78055d8b
 --start 38144

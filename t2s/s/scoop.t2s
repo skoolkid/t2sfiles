@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Scoop.zip
 scoop.z80
---sim-load
 --tape-name "Scoop.tzx"
 --tape-sum d1582d61339f457836fe99695acf3ff0
 --start 25063

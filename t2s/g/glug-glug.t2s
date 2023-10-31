@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/g/GlugGlug.tzx.zip
 glug-glug.z80
---sim-load
 --tape-name "Glug Glug.tzx"
 --tape-sum ee812bbf1fc28c40340541a4b31a374f
 --start 23313

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SpaceTraffic.tap.zip
 space-traffic-editoriale-video.z80
---sim-load
 --tape-name "SpaceTraffic.tap"
 --tape-sum 12bd3597819834467b768c75791593e7
 --start 25963

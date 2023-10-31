@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/v/Videostop_2.tzx.zip
 videostop-pavel-pliva.z80
---sim-load
 --tape-name "videostop.tzx"
 --tape-sum 4019dcce71b6ce819e740c1902a96c84
 --start 1343

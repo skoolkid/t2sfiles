@@ -1,7 +1,6 @@
 ; Contributed by Bedazzle
 https://worldofspectrum.net/pub/sinclair/games/d/DiggerDan.tzx.zip
 digger-dan.z80
---sim-load
 --tape-name "Digger Dan.tzx"
 --tape-sum 0c255b20134a4185739499959355ffed
 --start 24576

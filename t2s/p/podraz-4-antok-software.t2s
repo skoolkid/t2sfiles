@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/Podraz4.tap.zip
 podraz-4-antok-software.z80
---sim-load
 --tape-name "PODRAZ_4.TAP"
 --tape-sum ab2e54fb93d4ff5fbe2818c28d9cecaa
 --start 1343

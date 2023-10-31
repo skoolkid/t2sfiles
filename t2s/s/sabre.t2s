@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Sabre.zip
 sabre.z80
---sim-load
 --tape-name "Sabre.tzx"
 --tape-sum 49fe5fda3a5e851bebb3fec575e838dc
 --start 48501

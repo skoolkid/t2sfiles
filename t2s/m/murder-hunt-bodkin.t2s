@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/MurderHunt.tzx.zip
 murder-hunt-bodkin.z80
---sim-load
 --tape-name "Murder Hunt.tzx"
 --tape-sum 517e81a454c0120979f9a1c7cd17ddb0
 --start 60025

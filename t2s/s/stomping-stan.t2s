@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/StompingStan.tzx.zip
 stomping-stan.z80
---sim-load
 --tape-name "Stomping Stan.tzx"
 --tape-sum ee46646ecfde969634ad8944f1fc6996
 --start 1343

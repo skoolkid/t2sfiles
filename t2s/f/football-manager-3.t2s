@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/FootballManager3.zip
 football-manager-3.z80
---sim-load
 --tape-name "Football Manager 3.tzx"
 --tape-sum 5c0985937ac62a5605a2fe1a3b8a8ba2
 --start 49210

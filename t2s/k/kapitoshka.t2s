@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/k/Kapitoshka.tap.zip
 kapitoshka.z80
---sim-load
 --tape-name "Kapitoshka.tap"
 --tape-sum 95c7ae41b05000a20035ce5ddd5555e9
 --start 24959

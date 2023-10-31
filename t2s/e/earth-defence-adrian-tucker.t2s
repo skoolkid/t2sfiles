@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/e/EarthDefence_2.tzx.zip
 earth-defence-adrian-tucker.z80
---sim-load
 --tape-name "Earth Defence.tzx"
 --tape-sum 0cc63ee288ec312c5c27d21444f26d1e
 --start 1343

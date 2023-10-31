@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Ski.tzx.zip
 ski.z80
---sim-load
 --tape-name "Ski.tzx"
 --tape-sum 39c26377af191769a1b651969cac4bcd
 --start 25394

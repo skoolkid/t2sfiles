@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/l/LeagueChallenge.tzx.zip
 league-challenge.z80
---sim-load
 --tape-name "League Challenge.tzx"
 --tape-sum 52f66515a8d791b42558cee1a99a467c
 --start 1343

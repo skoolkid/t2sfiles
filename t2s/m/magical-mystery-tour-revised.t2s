@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/MagicalMysteryTour-Revised.zip
 magical-mystery-tour-revised.z80
---sim-load
 --tape-name "Magical Mystery Tour - Revised.tzx"
 --tape-sum 9606918dc47f2def860dc39a25ffb562
 --start 25063

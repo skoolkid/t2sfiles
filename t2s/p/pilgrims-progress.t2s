@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/PilgrimsProgress.tzx.zip
 pilgrims-progress.z80
---sim-load
 --tape-name "Pilgrim's Progress.tzx"
 --tape-sum f3fb65c595543b26aa9f9f329d04b876
 --start 1343

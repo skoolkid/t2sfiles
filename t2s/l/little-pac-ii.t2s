@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/l/LittlePacII.tzx.zip
 little-pac-ii.z80
---sim-load
 --tape-name "Little Pac 2.tzx"
 --tape-sum 10e929b7fb47b18ebdb0600872d51cad
 --start 1343

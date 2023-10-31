@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/16kSuperchess.zip
 16k-superchess.z80
---sim-load
 --tape-name "16k Superchess.tzx"
 --tape-sum 3e6e8744391cae5e495cadcc2b349694
 --start 24780

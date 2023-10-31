@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/n/NuclearCityBomber.tap.zip
 nuclear-city-bomber.z80
---sim-load
 --tape-name "ncb.tap"
 --tape-sum 5f8f998f440765771dce92eb4bdb4f4b
 --start 1343

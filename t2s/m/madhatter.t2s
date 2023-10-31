@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/Madhatter.tzx.zip
 madhatter.z80
---sim-load
 --tape-name "Madhatter.tzx"
 --tape-sum 90a8cb89618d784eabaa31fae6c03349
 --start 40000

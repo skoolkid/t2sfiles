@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/r/RebelPlanet.tzx.zip
 rebel-planet.z80
---sim-load
 --tape-name "Rebel Planet.tzx"
 --tape-sum 1b8728907d0449a9badaa2fcfc2ecefb
 --start 20733

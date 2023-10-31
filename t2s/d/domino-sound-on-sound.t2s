@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/Domino_2.tzx.zip
 domino-sound-on-sound.z80
---sim-load
 --tape-name "Domino 3-D.tzx"
 --tape-sum 246c1fde9e76eae76daf9f94905b8237
 --start 1343

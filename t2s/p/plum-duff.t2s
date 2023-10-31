@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/PlumDuff.tzx.zip
 plum-duff.z80
---sim-load
 --tape-name "Plum Duff.tzx"
 --tape-sum e76f4c22d262254eca6ebe5fdffa8827
 --start 54703

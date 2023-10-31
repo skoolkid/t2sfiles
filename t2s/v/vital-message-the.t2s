@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/v/VitalMessageThe.tap.zip
 vital-message-the.z80
---sim-load
 --tape-name "VitalMessage.tap"
 --tape-sum 068bcf712478c80a0cc6fc6eae16c9f1
 --start 1343

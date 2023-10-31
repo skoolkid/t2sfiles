@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Strategy1-Invasion.tzx.zip
 strategy-1-invasion.z80
---sim-load
 --tape-name "Strategy One.tzx"
 --tape-sum 4ec0d331f4ab9435f08453b75193f6df
 --start 1343

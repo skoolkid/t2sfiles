@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/TunnelEsc.2.tap.zip
 tunnel-esc-2.z80
---sim-load
 --tape-name "te2.tap"
 --tape-sum 12f8f55240882f2afc2791a4ac9d7969
 --start 32768

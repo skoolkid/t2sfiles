@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/l/Lynchmob.tzx.zip
 lynchmob.z80
---sim-load
 --tape-name "Lynchmob.tzx"
 --tape-sum 401da9f179b8b28a80f1886952e2b8e7
 --start 1343

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/AndroidNim.tzx.zip
 android-nim.z80
---sim-load
 --tape-name "Android Nim.tzx"
 --tape-sum 2dee6ee019c0111f6a309eaf9892931b
 --start 1343

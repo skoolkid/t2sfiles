@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/q/QuestForTheHolyJoystick.tzx.zip
 quest-for-the-holy-joystick.z80
---sim-load
 --tape-name "Quest For The Holy Joystick.tzx"
 --tape-sum a9e85ca0309172ef417cecda046abfa7
 --start 25063

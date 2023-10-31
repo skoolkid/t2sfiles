@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/TheHammerOfGrimmold.zip
 hammer-of-grimmold-the.z80
---sim-load
 --tape-name "The Hammer Of Grimmold.tzx"
 --tape-sum 87b37494474b9bd4d09f6500431d6ab8
 --start 25000

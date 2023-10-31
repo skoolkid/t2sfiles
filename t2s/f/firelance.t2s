@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Firelance.zip
 firelance.z80
---sim-load
 --tape-name "Firelance.tzx"
 --tape-sum 94a77397ccb8b07f0c3d0ae9cfb614d4
 --start 25000

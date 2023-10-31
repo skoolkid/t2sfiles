@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/PostMortem.tzx.zip
 post-mortem.z80
---sim-load
 --tape-name "Post Mortem.tzx"
 --tape-sum 5a20a13095c098f1fb3677da1ad95478
 --start 50000

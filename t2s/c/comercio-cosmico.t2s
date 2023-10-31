@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/ComercioCosmico.tzx.zip
 comercio-cosmico.z80
---sim-load
 --tape-name "ComercioCosmico.tzx"
 --tape-sum ccdf276ef2649cc517134084cb5ff96f
 --start 1343

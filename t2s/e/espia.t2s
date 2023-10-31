@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/e/Espia.tap.zip
 espia.z80
---sim-load
 --tape-name "ESPIA.TAP"
 --tape-sum f1a33a9e7f0b9cfd56a9fe536178fa21
 --start 1343

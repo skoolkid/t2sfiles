@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/h/Hive.tap.zip
 hive-capsoft.z80
---sim-load
 --tape-name "HIVE.TAP"
 --tape-sum 771cbf8cf8ec5c34fbbca0a5c667e31a
 --start 30000

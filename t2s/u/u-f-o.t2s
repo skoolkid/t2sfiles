@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/u/U-F-O.tap.zip
 u-f-o.z80
---sim-load
 --tape-name "UFO.tap"
 --tape-sum fcd2582916719b26cb7fffca9082d31a
 --start 1343

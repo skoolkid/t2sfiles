@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/r/RobotMessiah.tzx.zip
 robot-messiah.z80
---sim-load
 --tape-name "Robot Messiah.tzx"
 --tape-sum 59517e6d28c935463ded7360dc99306d
 --start 45000

@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/LaGrandeBoucle.zip
 grande-boucle-la.z80
---sim-load
 --tape-name "La Grande Boucle.tzx"
 --tape-sum c40826413b9c7adf9c9224df9f406664
 --start 27800

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/r/RackOnesBrains.tzx.zip
 rack-ones-brains.z80
---sim-load
 --tape-name "rob.tzx"
 --tape-sum ef833819379b1c8ac9e1107c5be98391
 --start 1343

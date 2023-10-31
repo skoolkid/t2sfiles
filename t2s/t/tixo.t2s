@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/Tixo.tzx.zip
 tixo.z80
---sim-load
 --tape-name "Tixo.tzx"
 --tape-sum 97f309a1b35eed193a3c4bb68b190f9e
 --start 1343

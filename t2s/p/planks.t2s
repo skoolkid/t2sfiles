@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/Planks(NigelBland).tap.zip
 planks.z80
---sim-load
 --tape-name "Planks.tap"
 --tape-sum 20c0d17dad98f6e2bffe6c676e76ea79
 --start 1343

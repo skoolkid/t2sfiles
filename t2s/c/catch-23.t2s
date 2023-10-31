@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/Catch23.tzx.zip
 catch-23.z80
---sim-load
 --tape-name "Catch 23 - 48k.tzx"
 --tape-sum ab26e4d94fe0a430e397c3dc46a9dfa1
 --start 36401

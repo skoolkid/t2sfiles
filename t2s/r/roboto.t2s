@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/r/Roboto.tzx.zip
 roboto.z80
---sim-load
 --tape-name "Roboto.tzx"
 --tape-sum 890f75da8023077d680933b47131e1d7
 --start 55734

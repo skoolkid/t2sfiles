@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Terrormolinos!.zip
 terrormolinos.z80
---sim-load
 --tape-name "Terrormolinos!.tzx"
 --tape-sum e61b46606e504031817c88d5c717838a
 --start 16413

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/h/Habilit.tzx.zip
 habilit.z80
---sim-load
 --tape-name "Habilit.tzx"
 --tape-sum a39e8946d820825b461040f6fe8de78a
 --start 25561

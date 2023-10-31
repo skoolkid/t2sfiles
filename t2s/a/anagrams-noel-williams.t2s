@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/Anagrams_2.tzx.zip
 anagrams-noel-williams.z80
---sim-load
 --tape-name "Anagrams.tzx"
 --tape-sum d65388e6ed7a4e67b6b177c9cfa36a28
 --start 1343

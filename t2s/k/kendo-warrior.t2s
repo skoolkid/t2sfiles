@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/KendoWarrior.zip
 kendo-warrior.z80
---sim-load
 --tape-name "Kendo Warrior.tzx"
 --tape-sum e7f6195e7a423ab5c1fd2012eb56beda
 --start 28592

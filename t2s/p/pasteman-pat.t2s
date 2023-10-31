@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/PastemanPat.tzx.zip
 pasteman-pat.z80
---sim-load
 --tape-name "Pasteman Pat.tzx"
 --tape-sum c5c3136e1493e47b37b3fc4fd77238cf
 --start 27103

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/n/Naanas.tzx.zip
 naanas.z80
---sim-load
 --tape-name "Naanas.tzx"
 --tape-sum c5cfa74384d0f8d0462f859a318f92bf
 --start 24513

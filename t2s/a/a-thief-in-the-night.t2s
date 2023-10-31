@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/ThiefInTheNightA.tzx.zip
 a-thief-in-the-night.z80
---sim-load
 --tape-name "A Thief In The Night.tzx"
 --tape-sum b27ae5f056ec015da518f0a9cbc31f17
 --start 25063

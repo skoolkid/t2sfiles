@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/ArchersThe.tzx.zip
 archers-the-p1.z80
---sim-load
 --tape-name "The Archers - Side 1.tzx"
 --tape-sum dbd9ae62da6014dc7a783798bfc75cc3
 --start 61933

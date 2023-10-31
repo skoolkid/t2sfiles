@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/h/HobbitElV1.02_2.tap.zip
 hobbit-el-v1.02-english-alejandro-valero.z80
---sim-load
 --tape-name "Hobbit-english.tap"
 --tape-sum 663cb70898d2398dd0fed9fa5cb609e7
 --start 24200

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SpaceLanding.tap.zip
 space-landing.z80
---sim-load
 --tape-name "SPACLAND.TAP"
 --tape-sum e4b2a2d45e82ae34dce358751d1db1e8
 --start 56478

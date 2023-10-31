@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/i/InternationalCricket(Bug-ByteSoftwareLtd).tzx.zip
 test-cricket.z80
---sim-load
 --tape-name "International Cricket (Bug-Byte).tzx"
 --tape-sum 8067e9fb053eaa5fbdffb2f045ebd457
 --start 60000

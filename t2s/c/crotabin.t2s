@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/Crotabin.tap.zip
 crotabin.z80
---sim-load
 --tape-name "Crotabin.TAP"
 --tape-sum cb476e7f9fecc9ca4dd7259607bbaeab
 --start 1343

@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/SuperBridge.zip
 super-bridge.z80
---sim-load
 --tape-name "Super Bridge.tzx"
 --tape-sum 59b10d09d696adc5bddbc030378b70b8
 --start 32288

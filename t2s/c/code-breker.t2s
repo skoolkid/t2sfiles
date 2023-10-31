@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/CodeBreker.tap.zip
 code-breker.z80
---sim-load
 --tape-name "CB-01.TAP"
 --tape-sum 3b04c650db53a0b0ab4612535ccf4560
 --start 38432

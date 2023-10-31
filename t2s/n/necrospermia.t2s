@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/n/Necrospermia.tap.zip
 necrospermia.z80
---sim-load
 --tape-name "Necrospermia.tap"
 --tape-sum 782f5b646a6b14aff41ef1fcf24efae7
 --start 1343

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/PuebloDeLaNoche_2.tap.zip
 pueblo-de-la-noche.z80
---sim-load
 --tape-name "Pueblo De La Noche.tap"
 --tape-sum b20dfe71817941da0fbf5dd3b849c282
 --start 29041

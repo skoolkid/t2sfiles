@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/w/Wall2.tzx.zip
 wall-2.z80
---sim-load
 --tape-name "Wall2.tzx"
 --tape-sum 82fa44cd71f44a3d026f5b2c443b5268
 --start 1343

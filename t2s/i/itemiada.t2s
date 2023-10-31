@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Itemiada.zip
 itemiada.z80
---sim-load
 --tape-name "Itemiada.tzx"
 --tape-sum 6e938e23215b36de194bd65e7c2a6000
 --start 39000

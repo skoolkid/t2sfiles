@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/r/Roulette_3.tap.zip
 roulette-megasoft.z80
---sim-load
 --tape-name "ROULEMEG.TAP"
 --tape-sum 1e7e4429924b2819ba9cef7dc4e275f6
 --start 1343

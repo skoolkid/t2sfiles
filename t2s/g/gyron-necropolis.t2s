@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/g/GyronNecropolis.tap.zip
 gyron-necropolis.z80
---sim-load
 --tape-name "gyronnec.tap"
 --tape-sum 7e75f25e01b652e9d63784ec3d2f0814
 --start 65523

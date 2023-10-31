@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/e/Evolution1.tap.zip
 evolution-1.z80
---sim-load
 --tape-name "Evolution 1.tap"
 --tape-sum b9b4ae4254ecec0c013aa9ec2841f222
 --start 1343

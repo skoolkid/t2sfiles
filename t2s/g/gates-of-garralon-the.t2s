@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/g/GatesOfGarralonThe.tzx.zip
 gates-of-garralon-the.z80
---sim-load
 --tape-name "Gates Of Garralon.tzx"
 --tape-sum 02431820b8e3f3206e4647fe1bb72b01
 --start 25063

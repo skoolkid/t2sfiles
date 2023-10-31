@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/Cross.tzx.zip
 cross.z80
---sim-load
 --tape-name "Cross.tzx"
 --tape-sum ea973675540fa5df7c18a0831b2727be
 --start 20689

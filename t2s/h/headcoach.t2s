@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/h/Headcoach.tzx.zip
 headcoach.z80
---sim-load
 --tape-name "Head Coach.tzx"
 --tape-sum 809d943aafa7cebb64196c6210ea9bb7
 --start 1343

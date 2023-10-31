@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/TeodoroNoSabeVolar.tap.zip
 teodoro-no-sabe-volar-english.z80
---sim-load
 --tape-name "TeodoroNSVen.tap"
 --tape-sum fa9cb33f3a9459a113513cd2282f1fb1
 --start 24204

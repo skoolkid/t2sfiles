@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/Transmat.tzx.zip
 transmat.z80
---sim-load
 --tape-name "Transmat.tzx"
 --tape-sum 78cb9eccc472403d061f24c67630feae
 --start 1343

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/TankBattle.tzx.zip
 tank-battle-winters-ltd.z80
---sim-load
 --tape-name "Tank Battle.tzx"
 --tape-sum a69766abca2f4d23a2955ddb16349de5
 --start 1343

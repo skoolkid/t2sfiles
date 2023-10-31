@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Samurai.tzx.zip
 samurai.z80
---sim-load
 --tape-name "Samurai.tzx"
 --tape-sum 4b2ce765983854f0fc73d9618d94b414
 --start 65094

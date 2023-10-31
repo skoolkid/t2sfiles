@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Guardian2.zip
 guardian-ii.z80
---sim-load
 --tape-name "Guardian 2.tzx"
 --tape-sum 7b6d7c7577ba324ff63ee961e8cbe9c8
 --start 45592

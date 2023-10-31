@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/Builder(JohnStafford).tzx.zip
 builder.z80
---sim-load
 --tape-name "Builder.tzx"
 --tape-sum 223c9a394e1e64d76beeab450b42642f
 --start 1343

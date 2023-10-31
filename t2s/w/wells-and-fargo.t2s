@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/w/WellsFargo.tzx.zip
 wells-and-fargo.z80
---sim-load
 --tape-name "Wells & Fargo.tzx"
 --tape-sum 282b690461a85ba74323933d4e8f4f8a
 --start 64026

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/g/GrandPr1x.tap.zip
 grand-pr1x.z80
---sim-load
 --tape-name "gp.tap"
 --tape-sum de27b739ce57437848aff362fe50c9cb
 --start 23755

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/Akcionar.tap.zip
 akcionar.z80
---sim-load
 --tape-name "Akcionar 1.tap"
 --tape-sum ae26994ae4609ca51543050f6f05f657
 --start 24200

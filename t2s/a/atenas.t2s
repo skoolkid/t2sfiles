@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/Atenas.tap.zip
 atenas.z80
---sim-load
 --tape-name "Atenas.tap"
 --tape-sum 7d2ce6f13185788e068ea344ebb1c2e0
 --start 1343

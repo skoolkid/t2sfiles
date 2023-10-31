@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Spirits.tzx.zip
 spirits.z80
---sim-load
 --tape-name "Spirits.tzx"
 --tape-sum 6ed167c7cdb04c35414728f380787c47
 --start 48002

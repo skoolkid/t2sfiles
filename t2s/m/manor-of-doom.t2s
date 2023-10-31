@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/ManorOfDoom.tzx.zip
 manor-of-doom.z80
---sim-load
 --tape-name "Manor Of Doom.tzx"
 --tape-sum 882acf87ffe03d0e64a082be0fdc8569
 --start 25000

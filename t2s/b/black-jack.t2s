@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/BlackJack.tzx.zip
 black-jack.z80
---sim-load
 --tape-name "Black Jack (ZX Data).tzx"
 --tape-sum e530c22ae38e38ec354ddbdedfcd3395
 --start 1343

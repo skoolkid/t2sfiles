@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/Beebul.tzx.zip
 beebul.z80
---sim-load
 --tape-name "Beebul.tzx"
 --tape-sum 60d79670e98eed97b7d8bc95a29d83cf
 --start 1343

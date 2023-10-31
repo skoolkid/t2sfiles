@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/Cashflow.tap.zip
 cashflow.z80
---sim-load
 --tape-name "CASHFLOW.TAP"
 --tape-sum eb410cf4d24a50cfa38ad11aca2bc054
 --start 1343

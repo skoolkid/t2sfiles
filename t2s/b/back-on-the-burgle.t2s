@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/BackOnTheBurgle.tzx.zip
 back-on-the-burgle.z80
---sim-load
 --tape-name "Back on the Burgle!.tzx"
 --tape-sum 6e750885c9fabca3cfdd84df2e3f4ff9
 --start 1343

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/h/HorseRace.tap.zip
 horse-race-paul-stanley.z80
---sim-load
 --tape-name "Horse Race.tap"
 --tape-sum 34f5499e983cfa0e682612d812c54b06
 --start 1343

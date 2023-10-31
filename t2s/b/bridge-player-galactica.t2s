@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/BridgePlayerGalactica.tzx.zip
 bridge-player-galactica.z80
---sim-load
 --tape-name "Bridge Player Galactica.tzx"
 --tape-sum f863aaf306b0289ca1a6487010a31e13
 --start 32768

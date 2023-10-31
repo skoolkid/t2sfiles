@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Pi-Balled.zip
 pi-balled.z80
---sim-load
 --tape-name "Pi-Balled.tzx"
 --tape-sum 88313c57c4f41317eb5a7ad84f4a1ca0
 --start 44000

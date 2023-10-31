@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/AirRaid.tzx.zip
 air-raid-ccs.z80
---sim-load
 --tape-name "Air Raid.tzx"
 --tape-sum 2fe3c7fefdc923aed40ba7a59c0564be
 --start 1343

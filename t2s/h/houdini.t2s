@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/h/Houdini.tap.zip
 houdini.z80
---sim-load
 --tape-name "HOUDINI.TAP"
 --tape-sum 6773e32817719b2076312d1af24e916a
 --start 1343

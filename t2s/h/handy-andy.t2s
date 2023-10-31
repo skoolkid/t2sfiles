@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/h/HandyAndy.tzx.zip
 handy-andy.z80
---sim-load
 --tape-name "Handy Andy.tzx"
 --tape-sum cfe0b618509a4ff4a1cf6591364655ec
 --start 28552

@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/ProjectFuture.zip
 project-future.z80
---sim-load
 --tape-name "Project Future.tzx"
 --tape-sum b092c84542a7262f3734f28b207f4012
 --start 31000

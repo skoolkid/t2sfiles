@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/g/GloopTroops.tap.zip
 gloop-troops.z80
---sim-load
 --tape-name "GLOOPTROOP.TAP"
 --tape-sum 59673541bbb57fae1cffbdc7b9439eee
 --start 24800

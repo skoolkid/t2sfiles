@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/DayOfTheMatch.tzx.zip
 day-of-the-match.z80
---sim-load
 --tape-name "Day Of The Match.tzx"
 --tape-sum 42272f2e00984bdf9db164360b5ccfe8
 --start 1343

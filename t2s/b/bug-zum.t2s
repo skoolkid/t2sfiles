@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/BugZum.tzx.zip
 bug-zum.z80
---sim-load
 --tape-name "Bug Zum.tzx"
 --tape-sum cf60a225568f6ddd2beb9833cf06c3c4
 --start 50256

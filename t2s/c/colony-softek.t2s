@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/Colony_2.tap.zip
 colony-softek.z80
---sim-load
 --tape-name "COLONYSF.TAP"
 --tape-sum 4ae1f1d2adfcc4b2fd3060f267f3e7d1
 --start 1343

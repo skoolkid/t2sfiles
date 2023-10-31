@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/Proxima.tzx.zip
 proxima.z80
---sim-load
 --tape-name "Proxima.tzx"
 --tape-sum 73314b7abf821890553a3e5d45ba993e
 --start 24989

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/e/EscapeFromColditz_2.tap.zip
 escape-from-colditz-scorpion-software.z80
---sim-load
 --tape-name "colditz.tap"
 --tape-sum 3e034568e1b67f080a46b37ed696f3c6
 --start 1343

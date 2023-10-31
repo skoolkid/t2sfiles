@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/i/IntergalacticGames.tap.zip
 intergalactic-games.z80
---sim-load
 --tape-name "IntergalacticGames.tap"
 --tape-sum b9998bb92e99639d476f65463aab3fae
 --start 1343

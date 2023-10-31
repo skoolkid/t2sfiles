@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SpaceStationZebra.tzx.zip
 space-station-zebra.z80
---sim-load
 --tape-name "Space Station Zebra.tzx"
 --tape-sum 0a2635ae278fde99769abd6d1ebadce0
 --start 1343

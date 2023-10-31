@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SubTrack.tzx.zip
 sub-track.z80
---sim-load
 --tape-name "Sub Track.tzx"
 --tape-sum 56f53cef57a15c533a45814121a539f1
 --start 30053

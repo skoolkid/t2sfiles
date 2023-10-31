@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/PasoEl.tap.zip
 paso-el.z80
---sim-load
 --tape-name "El Paso.tap"
 --tape-sum 50d843c8b473b84877abb330f189cf12
 --start 37320

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/ShedmasterBoundsGreen.tzx.zip
 shedmaster-bounds-green.z80
---sim-load
 --tape-name "Shedmaster Bounds Green.tzx"
 --tape-sum d1d32ebf4d3a60db32e65306ccdc5756
 --start 1343

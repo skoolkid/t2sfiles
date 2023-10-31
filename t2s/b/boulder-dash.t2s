@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/BoulderDash.tzx.zip
 boulder-dash.z80
---sim-load
 --tape-name "Boulder Dash.tzx"
 --tape-sum e09a1bf595c52ca07eabfea4c0dd8a11
 --start 64376

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/r/RoadRacer_2.tap.zip
 road-racer-richard-g-hurley.z80
---sim-load
 --tape-name "RoadRacer.tap"
 --tape-sum deabc91fdde0d705149727225b519a34
 --start 1343

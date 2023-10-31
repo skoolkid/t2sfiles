@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/ActionReflex.tzx.zip
 action-reflex.z80
---sim-load
 --tape-name "Action Reflex.tzx"
 --tape-sum 2010c4969d07da4564a9a1611178c8dc
 --start 23330

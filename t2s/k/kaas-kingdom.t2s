@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/k/KaasKingdom.tzx.zip
 kaas-kingdom.z80
---sim-load
 --tape-name "Kaa's Kingdom.tzx"
 --tape-sum 785a79b309364fa4feca30bdcf464ab9
 --start 25000

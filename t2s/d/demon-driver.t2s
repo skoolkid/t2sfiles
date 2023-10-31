@@ -1,7 +1,6 @@
 ; Contributed by Bedazzle
 https://spectrumcomputing.co.uk/pub/sinclair/games/d/Demon-Driver.tap.zip
 demon-driver.z80
---sim-load
 --tape-name "DEMONDRV.TAP"
 --tape-sum 037dd2a564a933f28119a69d34dfb4ab
 --start 1343

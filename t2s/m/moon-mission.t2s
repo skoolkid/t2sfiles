@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/MoonMission.tap.zip
 moon-mission.z80
---sim-load
 --tape-name "MOON.TAP"
 --tape-sum ce20424f537f7ea933c15b0d70eb0a4a
 --start 1343

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/Africa.tap.zip
 africa.z80
---sim-load
 --tape-name "AFRICA.TAP"
 --tape-sum 4d71a65e7aa202efd1e00e6ecf2abf3c
 --start 1343

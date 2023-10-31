@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/f/FunkyPunky.tzx.zip
 funky-punky.z80
---sim-load
 --tape-name "Fanky Punky.tzx"
 --tape-sum 0a48495356c0bcbbca6771217d7b238d
 --start 65430

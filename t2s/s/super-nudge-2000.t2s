@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/SuperNudge2000.zip
 super-nudge-2000.z80
---sim-load
 --tape-name "Super Nudge 2000.tzx"
 --tape-sum 1b79cef82945c9e8bc5689f70a5bf26c
 --start 43000

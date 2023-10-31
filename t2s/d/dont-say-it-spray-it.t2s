@@ -1,6 +1,5 @@
 "https://tzxvault.org/Spectrum/TZX/Don'tSayIt,SprayIt.zip"
 dont-say-it-spray-it.z80
---sim-load
 --tape-name "Don't Say It, Spray It.tzx"
 --tape-sum 61c52ee0b1c0fb4408a45f658c444426
 --start 58980

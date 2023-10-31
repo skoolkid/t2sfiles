@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/z/Zebbedy.tap.zip
 zebbedy.z80
---sim-load
 --tape-name "ZEBBEDY.TAP"
 --tape-sum e8adabd3874d1a9a2064042a4bda7ee0
 --start 1343

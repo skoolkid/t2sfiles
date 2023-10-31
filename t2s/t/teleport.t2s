@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/Teleport_2.tap.zip
 teleport.z80
---sim-load
 --tape-name "teleport-compiuter.tap"
 --tape-sum 7f0f78da686d4bb3aab007e3900b7220
 --start 1343

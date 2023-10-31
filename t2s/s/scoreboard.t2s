@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/Scoreboard.tzx.zip
 scoreboard.z80
---sim-load
 --tape-name "Scoreboard.tzx"
 --tape-sum 16819bf79041e68890233683df0b201d
 --start 1343

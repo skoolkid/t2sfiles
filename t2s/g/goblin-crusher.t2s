@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/g/GoblinCrusher.tzx.zip
 goblin-crusher.z80
---sim-load
 --tape-name "Goblin Crusher.tzx"
 --tape-sum d2494d5801a5cd8c1ff8f2baf1de33cf
 --start 1343

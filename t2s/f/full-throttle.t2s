@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/f/FullThrottle.tzx.zip
 full-throttle.z80
---sim-load
 --tape-name "Full Throttle.tzx"
 --tape-sum 80382565ab8c8027aeace994ba37763d
 --start 60225

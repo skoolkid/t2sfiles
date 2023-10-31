@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/PixyTheMicrodot.tap.zip
 pixy-the-microdot.z80
---sim-load
 --tape-name "PIXY.TAP"
 --tape-sum f59ce374414aa2041681d1c09ceff9f8
 --start 1343

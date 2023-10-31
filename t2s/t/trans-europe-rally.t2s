@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/Trans-EuropeRally.tzx.zip
 trans-europe-rally.z80
---sim-load
 --tape-name "Trans-Europe Rally (ABC Soft).tzx"
 --tape-sum 4de7e7c0d5b2830f5d82b41089e0e03a
 --start 40583

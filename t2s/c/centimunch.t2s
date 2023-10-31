@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Centimunch.zip
 centimunch.z80
---sim-load
 --tape-name "Centimunch.tzx"
 --tape-sum 6e34c62d6cff77516f49350c557ed120
 --start 40000

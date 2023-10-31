@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/DundeesEuropeanChallenge.tzx.zip
 dundees-european-challenge.z80
---sim-load
 --tape-name "Dundee's European Challenge.tzx"
 --tape-sum e4ed4b273899c8df0c8c10509c9fe1d3
 --start 1343

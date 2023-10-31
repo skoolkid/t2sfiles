@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/n/NumberGuesserForSpectrum.tzx.zip
 number-guesser-for-spectrum.z80
---sim-load
 --tape-name "guesser.tzx"
 --tape-sum 26c0cef4addef5c54fb5a39dc94f62b1
 --start 1343

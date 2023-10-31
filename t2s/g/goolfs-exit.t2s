@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/g/GoolfsExit.tap.zip
 goolfs-exit.z80
---sim-load
 --tape-name "GEXIT.TAP"
 --tape-sum b9101dca17a98aa9fca50dd3c1cc6db6
 --start 1343

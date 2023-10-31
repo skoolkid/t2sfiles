@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Bounces.zip
 bounces.z80
---sim-load
 --tape-name "Bounces.tzx"
 --tape-sum bd16701ee90c3be66520f9aff511e297
 --start 49408

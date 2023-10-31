@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/MagicTokensV1.1.tap.zip
 magic-tokens-v1.1.z80
---sim-load
 --tape-name "magic_tokens.tap"
 --tape-sum a74985c5d6fe5ab8a7111c78756bbe46
 --start 25088

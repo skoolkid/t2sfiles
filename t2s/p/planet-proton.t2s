@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/PlanetProton.tap.zip
 planet-proton.z80
---sim-load
 --tape-name "PROTON.TAP"
 --tape-sum 2ffb7a600a76f202c2b20c08b8b2770f
 --start 1343

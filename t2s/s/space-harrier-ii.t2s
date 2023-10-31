@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SpaceHarrierII.tzx.zip
 space-harrier-ii.z80
---sim-load
 --tape-name "Space Harrier 2 - Side 1.tzx"
 --tape-sum fc2e3f6eb1a1cfdd4215ee0979c915ff
 --start 40600

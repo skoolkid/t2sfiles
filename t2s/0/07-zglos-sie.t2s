@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/123/07ZglosSie.tzx.zip
 07-zglos-sie.z80
---sim-load
 --tape-name "07ZglosSie.tzx"
 --tape-sum 75a1d67d5dd78510946f99ac6942c2d3
 --start 1343

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/f/Frogger.tzx.zip
 frogger-a-n-f.z80
---sim-load
 --tape-name "Frogger (A 'n' F).tzx"
 --tape-sum a14d2206a769ff64f6be5ae2d1ecc1cd
 --start 1343

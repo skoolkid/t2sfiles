@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/MysteriousHouse.tzx.zip
 mysterious-house.z80
---sim-load
 --tape-name "MysteriousHouse.tzx"
 --tape-sum 35fce319dabd6aa7e6f380bce5b3f03b
 --start 1343

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/MendipsStone.tzx.zip
 mendips-stone.z80
---sim-load
 --tape-name "Mendips Stone.tzx"
 --tape-sum 1302557afa3e98491530506bf780411c
 --start 1343

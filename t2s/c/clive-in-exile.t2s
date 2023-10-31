@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/CliveInExile.tzx.zip
 clive-in-exile.z80
---sim-load
 --tape-name "Clive In Exile.tzx"
 --tape-sum 4b30833ae0c24fc07cfe890dff1f518b
 --start 1343

@@ -6,7 +6,6 @@
 
 https://worldofspectrum.net/pub/sinclair/games/h/Havoc.tzx.zip
 havoc-dynavision.z80
---sim-load
 --tape-name "Havoc.tzx"
 --tape-sum f20d1c4c4b0344992dffb07760b1a9ed
 --start 7805

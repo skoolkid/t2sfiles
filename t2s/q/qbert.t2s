@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/q/QBert.tzx.zip
 qbert.z80
---sim-load
 --tape-name "Qbert.tzx"
 --tape-sum 9b0445423819bba71967ad821476e7e7
 --start 1343

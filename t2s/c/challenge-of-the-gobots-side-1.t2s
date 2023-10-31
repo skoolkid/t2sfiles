@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/ChallengeOfTheGobots.zip
 challenge-of-the-gobots-side-1.z80
---sim-load
 --tape-name "Challenge Of The Gobots - Side 1.tzx"
 --tape-sum b8c4020132867a74ef71e7dc06797008
 --start 54091

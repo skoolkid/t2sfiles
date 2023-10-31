@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/h/Hi-Rize.tap.zip
 hi-rize.z80
---sim-load
 --tape-name "Hi-Rize.TAP"
 --tape-sum 2a58add5ffc2fa2fc07fe7a5a90c03c4
 --start 1343

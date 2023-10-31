@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/Centipedes.tap.zip
 centipedes.z80
---sim-load
 --tape-name "CENTIPD2.TAP"
 --tape-sum 1c9bc6acef89a8bdd313debb70eebc1a
 --start 1343

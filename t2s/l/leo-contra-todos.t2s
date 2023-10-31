@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/l/LeoContraTodos.tap.zip
 leo-contra-todos.z80
---sim-load
 --tape-name "Leo Contra Todos.tap"
 --tape-sum 3c0216f28ec979b79b45acda0461c11e
 --start 1343

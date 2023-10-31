@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/BizThe.tzx.zip
 biz-the.z80
---sim-load
 --tape-name "The Biz.tzx"
 --tape-sum 3c592810d6fb1d1991822e4d78b17691
 --start 1343

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/Brum-Brum.tzx.zip
 brum-brum.z80
---sim-load
 --tape-name "Brum Brum.tzx"
 --tape-sum 396239d0f9c7e29105502ee47c38dd1c
 --start 1343

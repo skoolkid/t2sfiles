@@ -1,6 +1,5 @@
 https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0025839/Mega-Drive.tzx.zip
 mega-drive.z80
---sim-load
 --tape-name "Mega-Drive.tzx"
 --tape-sum 092a6b25d8c18559ffac00174318d06d
 --start 25000

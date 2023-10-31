@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SilentService.tzx.zip
 silent-service.z80
---sim-load
 --tape-name "Silent Service.tzx"
 --tape-sum 7d56280ef33f341ba5a010c18b1f48c5
 --start 63278

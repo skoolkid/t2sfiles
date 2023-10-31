@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/Missing-007.tap.zip
 nezvestny.z80
---sim-load
 --tape-name "MISSING7.TAP"
 --tape-sum ff3668b021286a3473aa63d3df7f865e
 --start 1343

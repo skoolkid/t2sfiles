@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/j/JumBert.tap.zip
 jum-bert.z80
---sim-load
 --tape-name "JUMBERT.TAP"
 --tape-sum 8b4e17ed113ea1bfe0f3c133aeeb50f7
 --start 65368

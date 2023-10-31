@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/ShoveOff.tap.zip
 shove-off.z80
---sim-load
 --tape-name "SHOVEOFF.TAP"
 --tape-sum aef3b55ffc9446d27233824f3933d9f7
 --start 60800

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/Countdown_5.tzx.zip
 countdown-macsen.z80
---sim-load
 --tape-name "Countdown (Macsen).tzx"
 --tape-sum 257e20d02fc0e77b16d68171cd1799c8
 --start 1343

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/r/Roulette.tap.zip
 roulette-editoriale-video.z80
---sim-load
 --tape-name "Roulette.tap"
 --tape-sum d123af8f55feee65bc006150daa93249
 --start 1343

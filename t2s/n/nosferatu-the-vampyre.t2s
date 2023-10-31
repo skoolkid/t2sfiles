@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/n/NosferatuTheVampyre.tzx.zip
 nosferatu-the-vampyre.z80
---sim-load
 --tape-name "Nosferatu The Vampyre.tzx"
 --tape-sum 2c798f453fb273f6def81f26bf4fd398
 --start 30217

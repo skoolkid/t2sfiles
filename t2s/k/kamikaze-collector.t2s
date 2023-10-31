@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/k/KamikazeCollector.tzx.zip
 kamikaze-collector.z80
---sim-load
 --tape-name "Kamikaze Collector.tzx"
 --tape-sum ed3e8fcfc4c034ffa4bbce5188e2e8c5
 --start 1343

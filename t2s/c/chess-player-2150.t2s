@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/ChessPlayer2150.zip
 chess-player-2150.z80
---sim-load
 --tape-name "Chess Player 2150.tzx"
 --tape-sum 32968c71390947cc55479e40785c0cc4
 --start 25464

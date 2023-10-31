@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/Driver3D.tap.zip
 3d-driver.z80
---sim-load
 --tape-name "3DDriver.tap"
 --tape-sum 21690af19dd766f9feaaa5dc4a271d99
 --start 1343

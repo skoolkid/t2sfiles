@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/g/GobbleAGhost.tzx.zip
 gobble-a-ghost.z80
---sim-load
 --tape-name "Gobble A Ghost.tzx"
 --tape-sum 65f1b3506b1bb0f4f694fd407d253c3e
 --start 30816

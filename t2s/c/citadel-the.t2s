@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/TheCitadel.zip
 citadel-the.z80
---sim-load
 --tape-name "The Citadel.tzx"
 --tape-sum 560c8cb93ddf405769d1576c628c107e
 --start 29169

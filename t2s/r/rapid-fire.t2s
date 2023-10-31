@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/r/RapidFire.tzx.zip
 rapid-fire.z80
---sim-load
 --tape-name "Rapid Fire.tzx"
 --tape-sum 5a70ef65a75de881f6417af59cd02f1d
 --start 23791

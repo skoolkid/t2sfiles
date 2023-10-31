@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/BodorrioReal.tzx.zip
 bodorrio-real.z80
---sim-load
 --tape-name "Bodorrio Real.tzx"
 --tape-sum cf2a6ee408f17be82d6484286cb9642f
 --start 1343

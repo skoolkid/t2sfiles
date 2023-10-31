@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/i/InviatoSpeciale.tzx.zip
 inviato-speciale.z80
---sim-load
 --tape-name "InviatoSpeciale.tzx"
 --tape-sum 34d6663794c80334df6ad5f10c2ffb5d
 --start 1343

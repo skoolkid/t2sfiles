@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/MissionCollission.tap.zip
 mission-collission.z80
---sim-load
 --tape-name "MISSIONC.TAP"
 --tape-sum 2673fa3c5bec973c7a1001a66e670352
 --start 1343

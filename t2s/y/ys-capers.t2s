@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/y/YSCapers.tap.zip
 ys-capers.z80
---sim-load
 --tape-name "YSCAPERS.TAP"
 --tape-sum 207c1cf4bd9aecb48e2b13ee76b7d822
 --start 27000

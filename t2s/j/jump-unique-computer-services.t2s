@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/j/Jump(Unique1).tzx.zip
 jump-unique-computer-services.z80
---sim-load
 --tape-name "Jump.tzx"
 --tape-sum e7877a117673f3e7507bad591e6ed985
 --start 65496

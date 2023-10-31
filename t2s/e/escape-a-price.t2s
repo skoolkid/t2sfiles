@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/e/Escape.tap.zip
 escape-a-price.z80
---sim-load
 --tape-name "ESCAPEAP.TAP"
 --tape-sum f8d3a73fb971c33c4658eaa77b732640
 --start 50996

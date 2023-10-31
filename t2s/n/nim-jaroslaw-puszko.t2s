@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/n/Nim.tzx.zip
 nim-jaroslaw-puszko.z80
---sim-load
 --tape-name "Nim.tzx"
 --tape-sum f863b79ed64ae4076854219d0cb8df35
 --start 1343

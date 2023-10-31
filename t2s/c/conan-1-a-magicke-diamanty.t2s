@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/ConanI.tap.zip
 conan-1-a-magicke-diamanty.z80
---sim-load
 --tape-name "CONAN.TAP"
 --tape-sum e7be4e20ba1bd96e052d1d82d95842c6
 --start 24200

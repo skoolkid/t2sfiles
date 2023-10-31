@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/PharaohsTomb_2.tzx.zip
 pharaohs-tomb-richard-sargent.z80
---sim-load
 --tape-name "Pharaoh's Tomb.tzx"
 --tape-sum ba7444a451df5feaf6afe1d9ecbb42a5
 --start 1343

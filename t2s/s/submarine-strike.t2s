@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SubmarineStrike.tzx.zip
 submarine-strike.z80
---sim-load
 --tape-name "Submarine Strike.tzx"
 --tape-sum 29eb8fdc98fa869018752aba9a37a8e5
 --start 1343

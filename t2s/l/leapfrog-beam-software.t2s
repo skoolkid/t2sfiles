@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/l/Leapfrog_2.tzx.zip
 leapfrog-beam-software.z80
---sim-load
 --tape-name "Leapfrog (Beam Software).tzx"
 --tape-sum cf149c7eb3fd6f4ffbf36d665c8cbc8d
 --start 1343

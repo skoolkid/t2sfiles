@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/Monsters.tap.zip
 monsters-avs.z80
---sim-load
 --tape-name "Monsters.tap"
 --tape-sum bb5f9136ce2cb00994c039200de402a7
 --start 25394

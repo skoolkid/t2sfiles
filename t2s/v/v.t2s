@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/v/V.tzx.zip
 v.z80
---sim-load
 --tape-name "V.tzx"
 --tape-sum be01b1e75b690b83b529c5843d4bc06b
 --start 65414

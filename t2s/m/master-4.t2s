@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/Master4.tzx.zip
 master-4.z80
---sim-load
 --tape-name "Master 4.tzx"
 --tape-sum 415a51b823013379008166221b2d971b
 --start 1343

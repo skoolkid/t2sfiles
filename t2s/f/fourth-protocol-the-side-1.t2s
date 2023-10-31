@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/f/FourthProtocolThe.tzx.zip
 fourth-protocol-the-side-1.z80
---sim-load
 --tape-name "The Fourth Protocol - Side 1.tzx"
 --tape-sum 8590fc058603afc8cc12eed47ee543b6
 --start 25631

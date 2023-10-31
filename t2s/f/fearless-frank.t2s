@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/f/FearlessFrank.tzx.zip
 fearless-frank.z80
---sim-load
 --tape-name "Fearless Frank.tzx"
 --tape-sum f82e87b80fa43dfa86262bea73d27343
 --start 45907

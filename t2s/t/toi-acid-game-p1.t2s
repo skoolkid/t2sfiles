@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/ToiAcidGame.tzx.zip
 toi-acid-game-p1.z80
---sim-load
 --tape-name "Toi Acid Game - Side 1.tzx"
 --tape-sum 1ff3ad1d4fcd31a1cb01683639ed21f1
 --start 27100

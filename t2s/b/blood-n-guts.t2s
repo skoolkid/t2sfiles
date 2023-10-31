@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/BloodNGuts.tzx.zip
 blood-n-guts.z80
---sim-load
 --tape-name "Blood 'n' Guts.tzx"
 --tape-sum 796c6a5e5a6fee6773d0b0c21a8730b3
 --start 29952

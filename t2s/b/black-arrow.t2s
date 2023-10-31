@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/BlackArrow.tzx.zip
 black-arrow.z80
---sim-load
 --tape-name "BLKARROW.TZX"
 --tape-sum 34b4db6c4e8fc6b6d35400e4a8524b93
 --start 1343

@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/BattleOfMidway.zip
 battle-of-midway.z80
---sim-load
 --tape-name "Battle Of Midway.tzx"
 --tape-sum 719b925f596dabc7463a992576b7ceb0
 --start 41556

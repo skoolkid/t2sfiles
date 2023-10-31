@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/CORE.tzx.zip
 core.z80
---sim-load
 --tape-name "Core.tzx"
 --tape-sum 908bb5ef4cd502f2fd268b759dc1e2fd
 --start 23791

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/Dartboard.tzx.zip
 dartboard.z80
---sim-load
 --tape-name "Dartboard.tzx"
 --tape-sum 3c16bdbbd580ea127ce208a6a35395f0
 --start 1343

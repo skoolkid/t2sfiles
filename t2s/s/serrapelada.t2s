@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SerraPelada.tzx.zip
 serrapelada.z80
---sim-load
 --tape-name "SerraPelada.tzx"
 --tape-sum e345465c5f5ef4fb83e34b6777d019be
 --start 26224

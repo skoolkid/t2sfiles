@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/p/PeterPan.tzx.zip
 peter-pan.z80
---sim-load
 --tape-name "Peter Pan.tzx"
 --tape-sum c0536bd736830ad115f2d7336825f9d4
 --start 1343

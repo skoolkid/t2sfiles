@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/TheTimeMachine.zip
 time-machine-the.z80
---sim-load
 --tape-name "The Time Machine.tzx"
 --tape-sum 7febfb43977522f401e536b3afbd2560
 --start 24576

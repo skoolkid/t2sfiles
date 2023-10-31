@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/f/Festung.tap.zip
 festung.z80
---sim-load
 --tape-name "FESTUNG.TAP"
 --tape-sum 87111163e70fcf5e16050a2b0160eaea
 --start 1343

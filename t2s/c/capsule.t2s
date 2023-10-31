@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/Capsule.tap.zip
 capsule.z80
---sim-load
 --tape-name "capsule.TAP"
 --tape-sum 446b98709d8a68df761f6d3e68b66ee1
 --start 1343

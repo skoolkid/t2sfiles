@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/g/GreyIsland.tzx.zip
 grey-island.z80
---sim-load
 --tape-name "Grey Island.tzx"
 --tape-sum 96b755952903f620584c95cc389c5ff7
 --start 1343

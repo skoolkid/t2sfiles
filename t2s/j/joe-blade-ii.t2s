@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/j/JoeBladeII.tzx.zip
 joe-blade-ii.z80
---sim-load
 --tape-name "Joe Blade 2 - 48k.tzx"
 --tape-sum 1aaaab9ddd94526d3d878b5aceec8c9a
 --start 64363

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/DownToEarth.tzx.zip
 down-to-earth.z80
---sim-load
 --tape-name "Down To Earth.tzx"
 --tape-sum aa3ec7973439d5602c31442335f34f8d
 --start 23455

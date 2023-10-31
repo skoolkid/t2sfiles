@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/Chess.tzx.zip
 chess-beam-software.z80
---sim-load
 --tape-name "Chess.tzx"
 --tape-sum 5206019d5ca88d2c218524c0a098eb4e
 --start 1343

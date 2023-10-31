@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/DevastatingBlow.zip
 devastating-blow-side-b.z80
---sim-load
 --tape-name "Devastating Blow - Side B.tzx"
 --tape-sum 9872ef40e0fc64f44915ca8f5634fa88
 --start 24000

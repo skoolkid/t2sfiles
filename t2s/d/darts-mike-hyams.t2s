@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/Darts_3.tzx.zip
 darts-mike-hyams.z80
---sim-load
 --tape-name "Darts.tzx"
 --tape-sum eea8cfc33ccb3404b03c659fc801a949
 --start 1343

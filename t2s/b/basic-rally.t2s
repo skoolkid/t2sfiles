@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/BASICRally.tzx.zip
 basic-rally.z80
---sim-load
 --tape-name "Basic Rally.tzx"
 --tape-sum 855118e27e6d99bde38e46a4cc2be5bf
 --start 1343

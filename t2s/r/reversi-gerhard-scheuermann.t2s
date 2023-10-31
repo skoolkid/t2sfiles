@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/r/Reversi_3.tap.zip
 reversi-gerhard-scheuermann.z80
---sim-load
 --tape-name "Reversi.tap"
 --tape-sum d56cbf870035c8744ec247089c91e8f7
 --start 1343

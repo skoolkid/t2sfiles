@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/j/JonahBarringtonsSquash.tzx.zip
 jonah-barringtons-squash.z80
---sim-load
 --tape-name "Jonah Barrington's Squash.tzx"
 --tape-sum d243f0a12094a18f5e3d0752425cc56b
 --start 63185

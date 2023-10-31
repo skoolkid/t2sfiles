@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/e/EmilysTantrums.tap.zip
 emilys-tantrums.z80
---sim-load
 --tape-name "Emily's Tantrums.tap"
 --tape-sum a3f20052acd477ce00de1945386650c9
 --start 1343

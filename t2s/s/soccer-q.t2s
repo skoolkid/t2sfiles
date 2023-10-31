@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/SoccerQ.tzx.zip
 soccer-q.z80
---sim-load
 --tape-name "Soccer Q.tzx"
 --tape-sum 5a543ae9387cf11be51262badc2e71b4
 --start 1343

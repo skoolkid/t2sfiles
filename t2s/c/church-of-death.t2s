@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/ChurchOfDeath.tzx.zip
 church-of-death.z80
---sim-load
 --tape-name "Church Of Death.tzx"
 --tape-sum 18dd974032dcade7f3e97bc74ac79bb7
 --start 34104

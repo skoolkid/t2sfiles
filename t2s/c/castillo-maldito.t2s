@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/CastilloMaldito.tzx.zip
 castillo-maldito.z80
---sim-load
 --tape-name "Castillo Maldito.tzx"
 --tape-sum 16c16a8c8d33503ac14aca2b3854faef
 --start 1343

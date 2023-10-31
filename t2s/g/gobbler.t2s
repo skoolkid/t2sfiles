@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/g/Gobbler.tzx.zip
 gobbler.z80
---sim-load
 --tape-name "GOBBLER.TZX"
 --tape-sum 4f6e18c06c3d7b2ddca76ef9e7fb2918
 --start 1343

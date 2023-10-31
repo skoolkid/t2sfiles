@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/AnimatedAction.tap.zip
 animated-action.z80
---sim-load
 --tape-name "AnimatedAction.tap"
 --tape-sum 3242291cf603748d86ca10a769d61dea
 --start 1343

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/ClassicJapaneseMonsterCastle.tzx.zip
 classic-japanese-monster-castle.z80
---sim-load
 --tape-name "Classic Japanese Monster Castle v2 (compiled).tzx"
 --tape-sum 248c0383250acbc2597bf88cadffe94a
 --start 26256

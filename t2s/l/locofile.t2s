@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/l/Locofile.tzx.zip
 locofile.z80
---sim-load
 --tape-name "Locofile.tzx"
 --tape-sum 991e3fc077382a14a6f850408ac52e44
 --start 1343

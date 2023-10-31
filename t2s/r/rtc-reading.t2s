@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/r/RTCReading.tzx.zip
 rtc-reading.z80
---sim-load
 --tape-name "RTC Reading.tzx"
 --tape-sum 299478c14716b9868d880a4ed9d16ee3
 --start 1343

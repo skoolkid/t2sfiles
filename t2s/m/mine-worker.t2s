@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/MineWorker.tap.zip
 mine-worker.z80
---sim-load
 --tape-name "mine worker.tap"
 --tape-sum 0bd2ecbd191186fb8dbe80acbfc17d91
 --start 32768

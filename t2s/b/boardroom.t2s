@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/Boardroom.tzx.zip
 boardroom.z80
---sim-load
 --tape-name "Boardroom.tzx"
 --tape-sum 2f0b8f9b61def4b56f8ff36cd2221d98
 --start 1343

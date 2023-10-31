@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/l/Lycanthropy.tzx.zip
 lycanthropy.z80
---sim-load
 --tape-name "Lycanthropy.tzx"
 --tape-sum be6b440ae5378fae876e38fd86214861
 --start 29201

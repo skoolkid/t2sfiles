@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/BrokenFriendAV1.0.tzx.zip
 a-broken-friend.z80
---sim-load
 --tape-name "A Broken Friend.tzx"
 --tape-sum 19c52942c1683942d4d06ce8a9716ce9
 --start 26000

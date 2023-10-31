@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/DungeonThe.tzx.zip
 dungeon-the-alan-davis.z80
---sim-load
 --tape-name "The Dungeon.tzx"
 --tape-sum dd31349f17cd1409b058b48961030450
 --start 1343

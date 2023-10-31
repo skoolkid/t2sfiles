@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/g/Gettysburg.tzx.zip
 gettysburg.z80
---sim-load
 --tape-name "Gettysburg.tzx"
 --tape-sum 75116b5a718c18815df9c5395d9cbadb
 --start 1343

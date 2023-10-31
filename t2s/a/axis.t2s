@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/Axis.tap.zip
 axis.z80
---sim-load
 --tape-name "AXIS.TAP"
 --tape-sum 49494d06225d4a9e123e06c245d7def5
 --start 25000

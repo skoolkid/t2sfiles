@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/l/LalaPrologue.tzx.zip
 lala-prologue.z80
---sim-load
 --tape-name "Lala Prologue.tzx"
 --tape-sum fb0f100f5ab6b4bdc4fe372035eccb10
 --start 26000

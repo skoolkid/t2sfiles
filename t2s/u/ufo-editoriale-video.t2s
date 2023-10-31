@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/u/U.F.O..tap.zip
 ufo-editoriale-video.z80
---sim-load
 --tape-name "Ufo.tap"
 --tape-sum a0dc9d7174f57fd53d641a7bb2340cc7
 --start 1343

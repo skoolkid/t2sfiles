@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/r/Robo-City.tzx.zip
 robo-city.z80
---sim-load
 --tape-name "Robo-City.tzx"
 --tape-sum 81dd22aa898c37b12fe5e46509959fab
 --start 25063

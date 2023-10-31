@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/Buzzsaw+(FoxtonLocksMix).tap.zip
 buzzsaw-foxton-locks-mix.z80
---sim-load
 --tape-name "Buzzsaw+(FoxtonLocksMix).TAP"
 --tape-sum cc0ac5ea0be99f544cb5a5009971e591
 --start 39287

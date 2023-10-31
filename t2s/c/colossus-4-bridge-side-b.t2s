@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/c/ColossusBridge4.tzx.zip
 colossus-4-bridge-side-b.z80
---sim-load
 --tape-name "Colossus 4 Bridge - Side B.tzx"
 --tape-sum 400e028a9c5c86e4eb5695586c626c71
 --start 26000

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/g/GreenBeret.tzx.zip
 green-beret.z80
---sim-load
 --tape-name "Green Beret.tzx"
 --tape-sum 3e6d792c32c0791fd26341e118532274
 --start 34184

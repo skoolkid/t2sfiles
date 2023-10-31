@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/Moonlander_3.tap.zip
 moonlander-robert-erskine.z80
---sim-load
 --tape-name "Moonlander.tap"
 --tape-sum cb288dfc99c46d7657f522f16616f67e
 --start 1343

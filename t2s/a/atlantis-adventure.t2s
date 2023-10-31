@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/a/AtlantisAdventure.tzx.zip
 atlantis-adventure.z80
---sim-load
 --tape-name "Atlantis Adventure.tzx"
 --tape-sum 7e6eb554a9a4404ec3fe5bcdb2d74269
 --start 25063

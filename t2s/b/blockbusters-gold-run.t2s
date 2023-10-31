@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/Blockbusters-GoldRun.tzx.zip
 blockbusters-gold-run.z80
---sim-load
 --tape-name "Gold Run.tzx"
 --tape-sum e4854f2b1fa959b1017b0f51921716b3
 --start 60000

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/d/DeepStrike.tzx.zip
 deep-strike.z80
---sim-load
 --tape-name "Deep Strike.tzx"
 --tape-sum d8e55cc11ccd78fd88c5764001c724eb
 --start 33024

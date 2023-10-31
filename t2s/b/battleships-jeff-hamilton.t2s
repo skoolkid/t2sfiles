@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/Battleships_3.tap.zip
 battleships-jeff-hamilton.z80
---sim-load
 --tape-name "BATSHIPS.TAP"
 --tape-sum 0ffb028348d02a94bc8002d5212039ba
 --start 1343

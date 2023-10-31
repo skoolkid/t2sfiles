@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/StrikeForceSAS.tzx.zip
 strike-force-sas.z80
---sim-load
 --tape-name "Strike Force SAS.tzx"
 --tape-sum 9412a3860454b910fe1bbcb90aaaef77
 --start 65271

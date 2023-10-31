@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/s/StrikeForceCobra.tzx.zip
 strike-force-cobra.z80
---sim-load
 --tape-name "Strike Force Cobra.tzx"
 --tape-sum f29b31b79cc52371235033afdc4abdfd
 --start 23398

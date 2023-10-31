@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/u/Underground.tzx.zip
 underground-system-4.z80
---sim-load
 --tape-name "Underground.tzx"
 --tape-sum a3dd6667f1a6d57e7c6aca8f6dff835c
 --start 56709

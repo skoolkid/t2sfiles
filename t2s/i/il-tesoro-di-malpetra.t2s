@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/TesoroDiMalpetraIl.tzx.zip
 il-tesoro-di-malpetra.z80
---sim-load
 --tape-name "TesoroDiMalpetraIl.tzx"
 --tape-sum 34915fe4e05406032b9d70d33badc713
 --start 34104

@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/BarmyBurgers.zip
 barmy-burgers.z80
---sim-load
 --tape-name "Barmy Burgers.tzx"
 --tape-sum c0057d317a9ea0fd43ed8e1aed32029c
 --start 41701

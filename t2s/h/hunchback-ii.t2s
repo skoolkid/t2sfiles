@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/h/HunchbackII.tzx.zip
 hunchback-ii.z80
---sim-load
 --tape-name "Hunchback II.tzx"
 --tape-sum d9e008c5b0cbf654a88e84e0f914f28c
 --start 65489

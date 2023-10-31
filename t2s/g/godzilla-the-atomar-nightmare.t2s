@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/g/Godzilla-TheAtomarNightmare.tap.zip
 godzilla-the-atomar-nightmare.z80
---sim-load
 --tape-name "GODZILLA.TAP"
 --tape-sum 058d305a2d0613cc58e3b364bd54e223
 --start 36940

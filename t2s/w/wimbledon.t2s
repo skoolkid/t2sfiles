@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/w/Wimbledon.tzx.zip
 wimbledon.z80
---sim-load
 --tape-name "Wimbledon Challenge.tzx"
 --tape-sum 705d0c67017c95979c6c6185c8486a44
 --start 1343

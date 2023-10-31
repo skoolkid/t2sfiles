@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/f/FruitMachine_5.tap.zip
 fruit-machine-steve-broad.z80
---sim-load
 --tape-name "FRUITMGF.TAP"
 --tape-sum b1066e3944c3ab1f48aa72829bd0e058
 --start 1343

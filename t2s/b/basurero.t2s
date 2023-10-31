@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/Basurero.tap.zip
 basurero.z80
---sim-load
 --tape-name "Basurero.tap"
 --tape-sum 18a34fecdb5d82ce5a0f2a09874a6667
 --start 1343

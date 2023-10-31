@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/t/TimeSwitch.tzx.zip
 time-switch-colin-carruthers.z80
---sim-load
 --tape-name "Time Switch.tzx"
 --tape-sum 6d7fb84cbdf7458ef2dc28e18ae9e131
 --start 1343

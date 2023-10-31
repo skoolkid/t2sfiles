@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/r/Rubicon.tzx.zip
 rubicon.z80
---sim-load
 --tape-name "Rubicon.tzx"
 --tape-sum c84564aa1aaa7870cbd29209b6e2541f
 --start 50000

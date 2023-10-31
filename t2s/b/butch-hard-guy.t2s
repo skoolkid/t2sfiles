@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/Butch-HardGuy.tzx.zip
 butch-hard-guy.z80
---sim-load
 --tape-name "Butch - Hard Guy.tzx"
 --tape-sum ae8b1dd8391ddb430b0315e85345e214
 --start 23312

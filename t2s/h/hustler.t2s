@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Hustler.zip
 hustler.z80
---sim-load
 --tape-name "Hustler.tzx"
 --tape-sum b77bc1fc8d74815e2c8edb41d5477d6a
 --start 24539

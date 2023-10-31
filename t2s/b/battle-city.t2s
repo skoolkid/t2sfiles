@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/b/BattleCity.tzx.zip
 battle-city.z80
---sim-load
 --tape-name "battlecity.tzx"
 --tape-sum b72fa7f33b4f24c28ee4eba761668bb3
 --start 60126

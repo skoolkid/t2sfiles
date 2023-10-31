@@ -1,6 +1,5 @@
 https://tzxvault.org/Spectrum/TZX/Scumball.zip
 scumball.z80
---sim-load
 --tape-name "Scumball.tzx"
 --tape-sum 7afb5813fbb40d8eef9fa45168698d08
 --start 49048

@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/h/HorseRace_2.tap.zip
 horse-race-n-c-pearson.z80
---sim-load
 --tape-name "HORSERAC.TAP"
 --tape-sum b697b11a99797aaae34739750195073a
 --start 1343

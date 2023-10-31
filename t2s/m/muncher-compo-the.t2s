@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/m/MuncherCompoThe.tap.zip
 muncher-compo-the.z80
---sim-load
 --tape-name "COMPO.TAP"
 --tape-sum c3d6d2f9f1e77dc2f3d743a6a0c47d31
 --start 29440

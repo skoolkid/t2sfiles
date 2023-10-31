@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/h/HoraceGoesSkiing.tzx.zip
 horace-goes-skiing.z80
---sim-load
 --tape-name "Horace Goes Skiing.tzx"
 --tape-sum 5e83751288b6c4f1cd0ff0d208dc9495
 --start 24601

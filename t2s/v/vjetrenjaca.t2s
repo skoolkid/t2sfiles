@@ -1,6 +1,5 @@
 https://worldofspectrum.net/pub/sinclair/games/v/Vjetrenjaca.tap.zip
 vjetrenjaca.z80
---sim-load
 --tape-name "VJETRENJ.TAP"
 --tape-sum 976dccea14809f1548d24f4d4e597956
 --start 33801
