@@ -53,7 +53,6 @@ suffixes may be appended to the filenames to distinguish them:
 The contents of each `t2s` file have the following format:
 
     <url>
-    <snapshot>
     --tape-name "<name>"
     --tape-sum <md5sum>
     --start <address>
@@ -63,9 +62,6 @@ The contents of each `t2s` file have the following format:
 where:
 
 * `<url>` is the URL of the zip archive that contains the TAP/TZX file
-* `<snapshot>` is the name of the output snapshot file to generate; this is
-  always the same as the name of the `t2s` file (with `t2s` replaced by `z80`
-  or `szx`)
 * `--tape-name "<name>"` specifies the name of the TAP/TZX file in the zip
   archive; this ensures that the correct file is chosen in case there is more
   than one

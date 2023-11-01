@@ -2,7 +2,6 @@
 ; keyboard input (e.g. '0' or 'z' to start) when run in Fuse.
 
 https://worldofspectrum.net/pub/sinclair/games/k/Kane.tzx.zip
-kane.z80
 --tape-name "Kane.tzx"
 --tape-sum 0bc0c97db1352d05e07f4682afae4d79
 --start 25600

@@ -1,5 +1,4 @@
 https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030089/2048Simulator.tap.zip
-2048-simulator.z80
 --tape-name "2048s.tap"
 --tape-sum c0edd4dfacc7b9f69b4346051125099e
 --start 24000

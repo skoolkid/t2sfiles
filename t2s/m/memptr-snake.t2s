@@ -1,5 +1,4 @@
 https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031198/MEMPTR_Snake.tap.zip
-memptr-snake.z80
 --tape-name "memsnake.tap"
 --tape-sum fc4f4a253235982b7052c04efe7cc6b9
 --start 32768

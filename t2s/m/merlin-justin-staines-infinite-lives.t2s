@@ -3,7 +3,6 @@
 ; the main code block. Therefore we cheat and use '--reg pc=30950' instead.
 
 https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037236/Merlin.tap.zip
-merlin-justin-staines-infinite-lives.z80
 --tape-name "Merlin.tap"
 --tape-sum 0ecf967efad2b875ecafe505b279d53e
 --start 7156

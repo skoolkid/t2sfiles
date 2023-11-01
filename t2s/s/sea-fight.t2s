@@ -4,7 +4,6 @@
 ; in this t2s file removes that pointless initial keypress check.
 
 https://worldofspectrum.net/pub/sinclair/games/s/SeaFight.tap.zip
-sea-fight.z80
 --tape-name "SeaFight.tap"
 --tape-sum a95ddc4b6aeb146a04deb79171286b99
 --start 25249

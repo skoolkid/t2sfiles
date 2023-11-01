@@ -1,6 +1,13 @@
+; To create a snapshot in Z80 format, change the start address to 7805. That is
+; the address of the 'OUT (C),A' instruction that performs the 'OUT (254),255'
+; command in line 120 of the BASIC loader. Starting there (instead of the
+; game's true start address at 53300) is required to make the game's
+; keyboard-reading routines work. (Unlike SZX, the Z80 snapshot format has no
+; slot for the last OUT to port 0xFE.)
+
 https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0005536/Priest&Vampire.tzx.zip
-priest-and-vampire.szx
 --tape-name "Priest&Vampire.tzx"
 --tape-sum b8b2c74751016af236e6c3da454d1d63
 --start 53300
 --state issue2=1
+--ini DefaultSnapshotFormat=szx

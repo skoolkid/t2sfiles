@@ -1,5 +1,4 @@
 https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031375/RunFerret.tap.zip
-run-ferret.z80
 --tape-name "Ferret.tap"
 --tape-sum e3dee812d74ac52e6f4c216eeb09bfbf
 --start 1343
