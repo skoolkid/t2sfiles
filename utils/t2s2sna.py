@@ -35,8 +35,7 @@ def _parse_t2s(t2s):
     args = []
     for line in t2s.split('\n'):
         args.extend(parser.convert_arg_line_to_args(line))
-    url, snapshot, options = args[0], args[1], args[2:]
-    return (*options, url, snapshot)
+    return args
 
 def _get_t2s(t2s_name):
     if os.path.isfile(t2s_name):
@@ -63,6 +62,8 @@ def _get_t2s(t2s_name):
 def run(t2s_name):
     t2s = _get_t2s(t2s_name)
     tap2sna_args = _parse_t2s(t2s)
+    sna_fmt = 'szx' if 'DefaultSnapshotFormat=szx' in tap2sna_args else 'z80'
+    tap2sna_args.append(f'{t2s_name[:-4]}.{sna_fmt}')
     main(tap2sna_args)
 
 parser = argparse.ArgumentParser(
