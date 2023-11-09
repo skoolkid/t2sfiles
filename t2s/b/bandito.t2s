@@ -1,0 +1,9 @@
+; The BASIC loader for this game does 'RANDOMIZE USR 23783', but the code at
+; that location tries to load a block from tape that doesn't exist. Therefore
+; we skip over that section of code and set PC=23829 to start the game.
+
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035320/Bandito.tap.zip
+--tape-name "bandito.tap"
+--tape-sum 8bc290bc934033aa56532ca0da179c15
+--start 23783
+--reg pc=23829
