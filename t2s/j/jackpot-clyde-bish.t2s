@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039650/Jackpot.tap.zip
+--tape-name "Jackpot.tap"
+--tape-sum 4c0fbee8447e893580705e5d5d9671a7
+--start 1343
+--sim-load-config finish-tape=1

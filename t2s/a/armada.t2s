@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039682/Armada.tap.zip
+--tape-name "Armada.tap"
+--tape-sum 223a2234277680efb87d3e5c180e4481
+--start 1343
+--sim-load-config finish-tape=1

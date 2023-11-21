@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039668/Caddie.tap.zip
+--tape-name "Caddie.tap"
+--tape-sum e72942362971dfd26758791c44de9932
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

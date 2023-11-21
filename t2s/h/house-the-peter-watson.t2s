@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039838/HouseThe.tap.zip
+--tape-name "HouseThe.tap"
+--tape-sum 6b4afc6af4f801f580e0828b9a7def56
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039752/Devil.tap.zip
+--tape-name "Devil.tap"
+--tape-sum 1db61ec9d6f4213e7f7e7c1c8bc725f4
+--start 1343
+--sim-load-config finish-tape=1

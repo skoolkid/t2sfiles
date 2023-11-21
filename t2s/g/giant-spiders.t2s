@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039686/GiantSpiders.tap.zip
+--tape-name "GiantSpiders.tap"
+--tape-sum 9b21ffa149c84f92d6bea4bdbfd37372
+--start 1343
+--sim-load-config finish-tape=1

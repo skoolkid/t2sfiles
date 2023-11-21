@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039667/FourInARow.tap.zip
+--tape-name "FourInARow.tap"
+--tape-sum 3e6b5ddcf34939c7862f0731e7fe6d8d
+--start 1343
+--sim-load-config finish-tape=1

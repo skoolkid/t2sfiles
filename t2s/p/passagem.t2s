@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042510/Passagem.tap.zip
+--tape-name "Passagem.tap"
+--tape-sum 3f8f54c92baffe01f6a39fd883b5046d
+--start 1343
+--sim-load-config finish-tape=1

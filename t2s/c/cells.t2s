@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039782/Cells.tap.zip
+--tape-name "Cells.tap"
+--tape-sum 1ced9d45715acdbf6c9f0c4c0ac0b994
+--start 1343
+--sim-load-config finish-tape=1

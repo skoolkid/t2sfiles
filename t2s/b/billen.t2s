@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042514/Billen.tzx.zip
+--tape-name "Billen.tzx"
+--tape-sum c3c547c63b27c6d3214e475192864c12
+--start 1343
+--sim-load-config finish-tape=1

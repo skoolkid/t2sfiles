@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0032198/Doom(pre-release).tzx.zip
+--tape-name "Doom(pre-release).tzx"
+--tape-sum a583ed14801e5d266bcb693a7cf9d402
+--start 21216
+--sim-load-config machine=128
+--sim-load-config accelerator=rom

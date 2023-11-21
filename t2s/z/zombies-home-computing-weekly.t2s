@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039661/Zombies.tap.zip
+--tape-name "Zombies.tap"
+--tape-sum dcf00753e0fb1fddbaa1e6e773320a59
+--start 1343
+--sim-load-config finish-tape=1

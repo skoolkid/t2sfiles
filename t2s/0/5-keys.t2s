@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042534/5Keys.tap.zip
+--tape-name "5Keys.tap"
+--tape-sum e95195d2c056d599f0c15e34c9eb297d
+--start 1343
+--sim-load-config finish-tape=1

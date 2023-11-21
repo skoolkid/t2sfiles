@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042542/AsteroidesColorPower.tap.zip
+--tape-name "AsteroidesColorPower.tap"
+--tape-sum 44770ea7e94ba6ebdc8b505623881151
+--start 1343
+--sim-load-config finish-tape=1

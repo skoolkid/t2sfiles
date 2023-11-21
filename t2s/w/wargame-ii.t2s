@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042533/WargameII.tzx.zip
+--tape-name "WargameII.tzx"
+--tape-sum f0a65a1f0f4398566a575cf89299a153
+--start 23316
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039816/BoxThe.tap.zip
+--tape-name "BoxThe.tap"
+--tape-sum 4d466077014b6eb759f66c334f2e0d3a
+--start 1343
+--sim-load-config finish-tape=1

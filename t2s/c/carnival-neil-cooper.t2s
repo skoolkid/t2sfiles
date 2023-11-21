@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039740/Carnival.tap.zip
+--tape-name "Carnival.tap"
+--tape-sum 9d65beee13cfb34090e1623855dced9a
+--start 1343
+--sim-load-config finish-tape=1

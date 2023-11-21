@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039665/Collision.tap.zip
+--tape-name "Collision.tap"
+--tape-sum 66a458d16041c04a5d59acb98b959b0c
+--start 1343
+--tape-stop 3
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

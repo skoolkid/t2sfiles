@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042511/RychleSipy-TajemstviVelkehoVonta.tap.zip
+--tape-name "RychleSipy-TajemstviVelkehoVonta.tap"
+--tape-sum f43bfa9c061306f5776584a985915075
+--start 1343
+--sim-load-config finish-tape=1

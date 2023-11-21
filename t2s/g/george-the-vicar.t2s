@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039856/GeorgeTheVicar.tap.zip
+--tape-name "GeorgeTheVicar.tap"
+--tape-sum 722223223058d836866a017ba96137c7
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

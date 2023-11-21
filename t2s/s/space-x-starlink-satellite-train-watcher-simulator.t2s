@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042521/SpaceXStarlinkSatelliteTrainWatcherSimulator.tap.zip
+--tape-name "SpaceXStarlinkSatelliteTrainWatcherSimulator.tap"
+--tape-sum f5939a61029b4b592d7267886fbc55f0
+--start 1343
+--sim-load-config finish-tape=1

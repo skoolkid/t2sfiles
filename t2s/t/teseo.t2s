@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042547/Teseo.tap.zip
+--tape-name "Teseo.tap"
+--tape-sum b49100c955e6aad71f06779281abcbc3
+--start 1343
+--sim-load-config finish-tape=1

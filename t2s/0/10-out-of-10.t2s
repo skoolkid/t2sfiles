@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039823/10OutOf10.tap.zip
+--tape-name "10OutOf10.tap"
+--tape-sum b5d221365b973cf2528a2d030a8a6f10
+--start 1343
+--sim-load-config finish-tape=1

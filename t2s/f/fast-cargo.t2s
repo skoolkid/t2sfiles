@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039716/FastCargo.tap.zip
+--tape-name "FastCargo.tap"
+--tape-sum bae49ceb83c969dc340440d71dba8bbe
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039786/FleaFun.tap.zip
+--tape-name "FleaFun.tap"
+--tape-sum 10670cc6d4563f1df27ab13863a9ce3e
+--start 1343
+--tape-stop 7
+--sim-load-config finish-tape=1

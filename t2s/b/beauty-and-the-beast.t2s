@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039770/BeautyAndTheBeast.tap.zip
+--tape-name "BeautyAndTheBeast.tap"
+--tape-sum f191c9e63f9ad618b20f40fdda3b9065
+--start 1343
+--sim-load-config finish-tape=1

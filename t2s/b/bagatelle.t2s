@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039683/Bagatelle.tap.zip
+--tape-name "Bagatelle.tap"
+--tape-sum 31326cac9a514483fe82f0d5d64bb491
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042549/Cubit.tap.zip
+--tape-name "Cubit.tap"
+--tape-sum ecf599a1652790dc89f138c4d02213fa
+--start 1343
+--sim-load-config finish-tape=1

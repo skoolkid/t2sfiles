@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039743/ClimberThe.tap.zip
+--tape-name "ClimberThe.tap"
+--tape-sum b038e1a0164b4039218257d57b624534
+--start 1343
+--sim-load-config finish-tape=1

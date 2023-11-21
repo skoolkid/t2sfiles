@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039834/DicedPairs.tap.zip
+--tape-name "DicedPairs.tap"
+--tape-sum 903a8978ac496e6bec1fda7193580014
+--start 1343
+--sim-load-config finish-tape=1

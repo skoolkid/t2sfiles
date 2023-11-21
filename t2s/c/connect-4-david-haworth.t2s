@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039693/Connect-4.tap.zip
+--tape-name "Connect-4.tap"
+--tape-sum 299a90824f447ab7d85911f24f0f9132
+--start 1343
+--sim-load-config finish-tape=1

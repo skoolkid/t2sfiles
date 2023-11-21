@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039843/SpaceshipRetreat.tap.zip
+--tape-name "SpaceshipRetreat.tap"
+--tape-sum 38c5931a0aa1044ddd3847394a9fa96e
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

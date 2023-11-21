@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039707/GuyFawkes.tap.zip
+--tape-name "GuyFawkes.tap"
+--tape-sum d9b0132779a2c034c34d5e3a2f4d3d54
+--start 1343
+--sim-load-config finish-tape=1

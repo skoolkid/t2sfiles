@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039690/GroundAttack.tap.zip
+--tape-name "GroundAttack.tap"
+--tape-sum e213b1dcbd2707db9ec1416607b14eef
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039809/Deduction.tap.zip
+--tape-name "Deduction.tap"
+--tape-sum 03540c4f282ecf5f74354b0ecd93f0b5
+--start 1343
+--sim-load-config finish-tape=1

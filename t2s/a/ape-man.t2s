@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039723/ApeMan.tap.zip
+--tape-name "ApeMan.tap"
+--tape-sum 8218d99ac3b9b8fdc7848f9b94e2a119
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

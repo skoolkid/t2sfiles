@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039662/SeaBattle.tap.zip
+--tape-name "SeaBattle.tap"
+--tape-sum cdfaa8cf60a742474f1a4ad028739ff3
+--start 1343
+--sim-load-config finish-tape=1
+--state issue2=1
+--sim-load-config 'load=LOAD "": OUT 254,255: RUN'

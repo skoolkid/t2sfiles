@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042537/ScrewballScramble.tzx.zip
+--tape-name "ScrewballScramble.tzx"
+--tape-sum 3c4fa63c49a9049a2ac6782189f8f95d
+--start 1343
+--tape-stop 10
+--sim-load-config finish-tape=1

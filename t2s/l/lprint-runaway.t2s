@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042528/LPrintRunaway.tap.zip
+--tape-name "LPrintRunaway.tap"
+--tape-sum 5b8a87bcd9bcebcda6f59c3c460541f2
+--start 1343
+--sim-load-config finish-tape=1

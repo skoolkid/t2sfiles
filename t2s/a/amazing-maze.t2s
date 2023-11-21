@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039666/AmazingMaze.tap.zip
+--tape-name "AmazingMaze.tap"
+--tape-sum 2dbf0394d5b07936d2ad55b8dfb8bb97
+--start 1343
+--sim-load-config finish-tape=1

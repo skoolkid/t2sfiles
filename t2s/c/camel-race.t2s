@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039835/CamelRace.tap.zip
+--tape-name "CamelRace.tap"
+--tape-sum b0e784c6f3d7a8603e1717187c6f1129
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039804/DiveDive.tap.zip
+--tape-name "DiveDive.tap"
+--tape-sum 690551a11a22c86581b9b7fc1ded2fe8
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042546/CaseOfMurder128KA(Illustrated).tzx.zip
+--tape-name "CaseOfMurder128KA(Illustrated).tzx"
+--tape-sum 7724ab4255efa61f5af401adf4cb03a2
+--start 23921
+--sim-load-config machine=128
