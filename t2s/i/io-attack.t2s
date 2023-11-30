@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039751/IOAttack.tap.zip
+--tape-name "IOAttack.tap"
+--tape-sum 40e298e8617d71512c02d63a9c365556
+--start 1343
+--sim-load-config finish-tape=1

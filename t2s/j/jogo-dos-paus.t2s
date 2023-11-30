@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042597/JogoDosPaus.tap.zip
+--tape-name "JogoDosPaus.tap"
+--tape-sum 0904a0b24442a29b06b8771684664245
+--start 1343
+--sim-load-config finish-tape=1

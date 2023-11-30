@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039799/Insect-Chase.tap.zip
+--tape-name "Insect-Chase.tap"
+--tape-sum 7712834ee5738c5d6ad43ab1d7b42327
+--start 1343
+--sim-load-config finish-tape=1

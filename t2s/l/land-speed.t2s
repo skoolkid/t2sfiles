@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042591/LandSpeed.tap.zip
+--tape-name "LandSpeed.tap"
+--tape-sum 115c793138e85e5a74726a510b69063f
+--start 1343
+--tape-stop 3
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

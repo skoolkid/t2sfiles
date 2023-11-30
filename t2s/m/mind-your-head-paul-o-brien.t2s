@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042592/MindYourHead.tap.zip
+--tape-name "MindYourHead.tap"
+--tape-sum bedfdd3b1d586b1d0e1bca1b1b7049d1
+--start 1343
+--sim-load-config finish-tape=1

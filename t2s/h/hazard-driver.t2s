@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039760/HazardDriver.tap.zip
+--tape-name "HazardDriver.tap"
+--tape-sum 763438d4a56ade77eb4e2ece3ce7a467
+--start 1343
+--sim-load-config finish-tape=1

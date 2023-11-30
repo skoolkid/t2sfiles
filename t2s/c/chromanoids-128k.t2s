@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042585/Chromanoids.tap.zip
+--tape-name "Chromanoids.tap"
+--tape-sum 57666259960655d6548cbcb1fb944c1b
+--start 24803
+--sim-load-config machine=128

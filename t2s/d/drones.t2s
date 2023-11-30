@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042588/Drones.tap.zip
+--tape-name "Drones.tap"
+--tape-sum 937fd81bae7ff5cb7825ecf530d350c4
+--start 1343
+--sim-load-config finish-tape=1

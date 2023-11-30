@@ -1,7 +1,6 @@
-https://worldofspectrum.net/pub/sinclair/games/s/SaveTheDam.tap.zip
---tape-name "DAM_BUST.TAP"
---tape-sum cf0db24efbbb2c827a553cc1f39747d6
+https://worldofspectrum.net/pub/sinclair/games/d/DamBuster(1).tap.zip
+--tape-name "DamBuster.tap"
+--tape-sum f0c649094989e79bca0f06c4f9a912f5
 --start 1343
 --sim-load-config finish-tape=1
---tape-stop 3
 --sim-load-config 'load=LOAD "": RUN'

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042587/Retrotrivial.tap.zip
+--tape-name "Retrotrivial.tap"
+--tape-sum c3287c87214da197f628e8cc45478515
+--start 1343
+--sim-load-config finish-tape=1

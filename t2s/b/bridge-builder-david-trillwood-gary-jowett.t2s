@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039791/BridgeBuilder.tap.zip
+--tape-name "BridgeBuilder.tap"
+--tape-sum 91355c6cb3a9a429484cf928dca71085
+--start 1343
+--sim-load-config finish-tape=1

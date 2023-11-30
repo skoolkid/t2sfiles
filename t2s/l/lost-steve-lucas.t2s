@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039787/Lost.tap.zip
+--tape-name "Lost.tap"
+--tape-sum 33bf628f6bc8977a81d4ee3b927613b9
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039781/Hunch.tap.zip
+--tape-name "Hunch.tap"
+--tape-sum 0e87f08496f35ec191b32188c2e08b13
+--start 1343
+--sim-load-config finish-tape=1

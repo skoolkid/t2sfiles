@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039769/ItsADogsLife.tap.zip
+--tape-name "ItsADogsLife.tap"
+--tape-sum 7fde87045e7ace37bdaa4b48e2e6985b
+--start 1343
+--sim-load-config finish-tape=1

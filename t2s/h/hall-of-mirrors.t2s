@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039763/HallOfMirrors.tap.zip
+--tape-name "HallOfMirrors.tap"
+--tape-sum 5638389ea85a7bd01a37856fe2c0b199
+--start 1343
+--sim-load-config finish-tape=1

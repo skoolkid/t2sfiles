@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039739/Lander.tap.zip
+--tape-name "Lander.tap"
+--tape-sum aec6a3183dc9bf871f8e1de86bbda51c
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042586/AndresYSuFusilDeAliespres.tap.zip
+--tape-name "AndresYSuFusilDeAliespres.tap"
+--tape-sum 78dd6f611f12e8687435961076fab24b
+--start 1343
+--sim-load-config finish-tape=1

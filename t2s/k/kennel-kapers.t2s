@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039801/KennelKapers.tap.zip
+--tape-name "KennelKapers.tap"
+--tape-sum 5f085a72ead25b0cadb8f60c0c5aebec
+--start 1343
+--sim-load-config finish-tape=1

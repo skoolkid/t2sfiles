@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039788/CraftAhoy.tap.zip
+--tape-name "CraftAhoy.tap"
+--tape-sum 061bb661c5edf3c528ca46db327eeecf
+--start 1343
+--sim-load-config finish-tape=1

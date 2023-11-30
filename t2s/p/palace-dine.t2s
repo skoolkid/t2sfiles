@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042580/PalaceDine.tap.zip
+--tape-name "PalaceDine.tap"
+--tape-sum 8574e6f227a40d92499fea4cdfb8ec72
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042560/ParaZXLand.tzx.zip
+--tape-name "ParaZXLand.tzx"
+--tape-sum cf6ed37854a54080dd48cf44e4793d14
+--start 1343
+--sim-load-config finish-tape=1
