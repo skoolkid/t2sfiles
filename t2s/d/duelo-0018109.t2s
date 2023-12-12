@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0015275/LibreriaDeSoftwareSpectrum02(Side1).tzx.zip
+--tape-name "Libreria de Software Spectrum Issue 02 - Side 1.tzx"
+--tape-sum c5efe8a02138b6294702e403221b094a
+--start 1343
+--tape-start 34
+--tape-stop 40
+--sim-load-config finish-tape=1
