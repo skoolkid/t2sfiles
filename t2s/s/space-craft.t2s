@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036790/LNR-mix.tzx.zip
+--tape-name "LNR-mix.tzx"
+--tape-sum ecf17bbf1185565829105ff828ee76bb
+--start 1343
+--tape-start 12
+--sim-load-config finish-tape=1
