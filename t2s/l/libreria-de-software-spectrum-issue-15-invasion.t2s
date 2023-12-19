@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0015288/LibreriaDeSoftwareSpectrum15.tzx.zip
+--tape-name "Libreria de Software Spectrum Issue 15 - Invasion.tzx"
+--tape-sum 096918fac1db50dca66610420218a6b5
+--start 1343
+--sim-load-config finish-tape=1
