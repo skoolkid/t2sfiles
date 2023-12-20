@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042279/CrashedCoverCassette1.tzx.zip
+--tape-name "CrashedCoverCassette1.tzx"
+--tape-sum 3879f51c671e5eb1d3641c59591daf20
+--start 1343
+--tape-start 27
+--sim-load-config finish-tape=1
