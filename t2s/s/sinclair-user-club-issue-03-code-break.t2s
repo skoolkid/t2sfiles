@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0023989/SinclairUserClubIssue03(Side1).tzx.zip
+--tape-name "SinclairUserClubIssue03(Side1).tzx"
+--tape-sum 2175e99bf637858b147b57cf8d36aaa3
+--start 1343
+--sim-load-config finish-tape=1
+--ram poke=24397,3 ; Fix line 120
