@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0017294/SuperSinc.tap.zip
+--tape-name "SuperSinc.tap"
+--tape-sum c231177890d3c2688c2fb1cb7d91a844
+--start 1343
+--tape-start 11
+--tape-stop 13
+--sim-load-config finish-tape=1
