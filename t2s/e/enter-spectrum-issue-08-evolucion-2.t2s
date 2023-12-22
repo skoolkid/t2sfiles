@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0015256/EnterSpectrum08(SideA).tzx.zip
+--tape-name "Enter Spectrum (Issue 08) - Side 1.tzx"
+--tape-sum d13174c6f8a2730a1d9b277298cf5cf1
+--start 1343
+--tape-start 8
+--tape-stop 10
+--sim-load-config finish-tape=1
