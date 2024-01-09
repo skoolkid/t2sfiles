@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0026172/SwissNavy.tap.zip
+--tape-name "SwissNavy.tap"
+--tape-sum 696c0562d7b84a1c325ba41f1dc4d118
+--start 1343
+--sim-load-config finish-tape=1
