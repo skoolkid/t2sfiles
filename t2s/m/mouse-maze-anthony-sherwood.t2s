@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040551/MouseMaze.tap.zip
+--tape-name "MouseMaze.tap"
+--tape-sum 16a0cfc71be6c25e4288c3229587f1c1
+--start 1343
+--sim-load-config finish-tape=1

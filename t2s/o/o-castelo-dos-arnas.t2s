@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042610/CasteloDosArnasO.tap.zip
+--tape-name "CasteloDosArnasO.tap"
+--tape-sum 8e36869dfe7817cb8261791e6563b473
+--start 1343
+--sim-load-config finish-tape=1

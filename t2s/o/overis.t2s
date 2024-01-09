@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042630/Overis.tap.zip
+--tape-name "Overis.tap"
+--tape-sum 6d3913bbb725c110b6834b5e1a3f2568
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042613/13RueDelPercebe-ElNacimientoDeLaLeyenda.tap.zip
+--tape-name "13RueDelPercebe-ElNacimientoDeLaLeyenda.tap"
+--tape-sum 2268906becf271828ade42d57dc30337
+--start 23946
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

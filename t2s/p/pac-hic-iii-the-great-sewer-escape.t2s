@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042625/PacHicIII-TheGreatSewerEscape.tap.zip
+--tape-name "PacHicIII-TheGreatSewerEscape.tap"
+--tape-sum eeb053a583aa814c36e88d7374f325cb
+--start 24832
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

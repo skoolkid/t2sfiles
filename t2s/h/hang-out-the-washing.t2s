@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037573/HangOutTheWashing.tzx.zip
+--tape-name "HangOutTheWashing.tzx"
+--tape-sum 3128b7fa815b401bf5aea694c1c6dd1f
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042614/Yewdow.tzx.zip
+--tape-name "Yewdow.tzx"
+--tape-sum cc779e60006ee6a5a0e879be06e9a1ed
+--start 24576
+--sim-load-config machine=128

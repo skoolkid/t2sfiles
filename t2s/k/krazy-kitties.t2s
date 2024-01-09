@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042618/KrazyKitties.tap.zip
+--tape-name "KrazyKitties.tap"
+--tape-sum 7b526fbaf44cfa9591f461b324f652e5
+--start 1343
+--sim-load-config finish-tape=1

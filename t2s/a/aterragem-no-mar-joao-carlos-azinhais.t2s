@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042619/AterragemNoMar.tap.zip
+--tape-name "AterragemNoMar.tap"
+--tape-sum 1bbd6e77120c248496d64530c9ec2a31
+--start 1343
+--sim-load-config finish-tape=1
