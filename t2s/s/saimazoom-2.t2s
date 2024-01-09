@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0020939/Saimazoom2.tap.zip
+--tape-name "Saimazoom2.tap"
+--tape-sum c5344668756bc7355c684e948e5ee1d4
+--start 1343
+--sim-load-config finish-tape=1
