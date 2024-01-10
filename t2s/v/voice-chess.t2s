@@ -2,4 +2,4 @@ https://tzxvault.org/Spectrum/TZX/VoiceChess.zip
 --tape-name "Voice Chess.tzx"
 --tape-sum 62ec16dc380aee1ba36473a386d694bc
 --start 63745
---sim-load-config first-edge=30688
+--sim-load-config first-edge=30704

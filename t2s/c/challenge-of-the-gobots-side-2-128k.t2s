@@ -5,5 +5,5 @@ https://worldofspectrum.net/pub/sinclair/games/c/ChallengeOfTheGobots.tzx.zip
 --tape-stop 202
 --sim-load-config machine=128
 --sim-load-config finish-tape=1
---sim-load-config first-edge=1258
+--sim-load-config first-edge=30000
 --sim-load-config accelerator=bleepload

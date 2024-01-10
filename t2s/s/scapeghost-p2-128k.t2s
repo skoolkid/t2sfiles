@@ -4,4 +4,4 @@ https://worldofspectrum.net/pub/sinclair/games/s/Scapeghost.tzx.zip
 --start 28632
 --sim-load-config machine=128
 --sim-load-config accelerator=rom
---sim-load-config first-edge=9110
+--sim-load-config first-edge=9132
