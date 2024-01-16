@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042642/KillerSquares.tap.zip
+--tape-name "KillerSquares.tap"
+--tape-sum ecb7a86f055150edab24714f6fce25c1
+--start 1343
+--sim-load-config finish-tape=1

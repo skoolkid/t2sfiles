@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042650/Bomberun.tap.zip
+--tape-name "Bomberun.tap"
+--tape-sum bae35c2e88171bd62d9648fa8fad40a0
+--start 1343
+--sim-load-config finish-tape=1

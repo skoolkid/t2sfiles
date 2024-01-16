@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042652/Colorfusion.tzx.zip
+--tape-name "Colorfusion.tzx"
+--tape-sum 60b87b6c66d72ad692eec925806201ba
+--start 1343
+--sim-load-config finish-tape=1

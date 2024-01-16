@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042676/Mandarin2The.tap.zip
+--tape-name "Mandarin2The.tap"
+--tape-sum 06c599119e263fed720dda2123fc8ba6
+--start 24832
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

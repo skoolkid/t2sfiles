@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042684/Fantasmas.tap.zip
+--tape-name "Fantasmas.tap"
+--tape-sum a0a07927845b0f545363789c0799056e
+--start 1343
+--sim-load-config finish-tape=1

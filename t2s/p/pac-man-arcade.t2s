@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042679/Pac-ManArcade.tzx.zip
+--tape-name "Pac-ManArcade.tzx"
+--tape-sum a4166003e0d55073d198bfdc58293a8c
+--start 64802
+--sim-load-config accelerator=rom

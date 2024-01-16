@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042656/JeffAndTheChristmasTat.tap.zip
+--tape-name "JeffAndTheChristmasTat.tap"
+--tape-sum 34418ba5adfd55a10dafb265076ce84f
+--start 32768
+--sim-load-config machine=128
+--sim-load-config accelerator=speedlock

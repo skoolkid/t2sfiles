@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042638/Rallye.tap.zip
+--tape-name "Rallye.tap"
+--tape-sum 702dd9bd7b42f42b5ff94b56c9777e6f
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042673/Tobit.tzx.zip
+--tape-name "Tobit.tzx"
+--tape-sum 38bf6d05b5d9cc282d56fd91cad0172c
+--start 25300
+--sim-load-config machine=128

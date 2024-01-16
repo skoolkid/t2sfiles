@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042653/Imprisoned.tap.zip
+--tape-name "Imprisoned.tap"
+--tape-sum 5736264c6093870bea43eed3d3c68d73
+--start 24578
+--sim-load-config machine=128

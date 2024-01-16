@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042681/Blendpic.tap.zip
+--tape-name "Blendpic.tap"
+--tape-sum b3c0258c523007f4eaa3824898f27782
+--start 24576
+--sim-load-config machine=128

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042662/PepesDayOut.tzx.zip
+--tape-name "PepesDayOut.tzx"
+--tape-sum e5b9a6ad253842250a821bb2cc7eafe0
+--start 1343
+--sim-load-config finish-tape=1

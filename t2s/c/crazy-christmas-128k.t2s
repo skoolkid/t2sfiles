@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042668/CrazyChristmas.tap.zip
+--tape-name "CrazyChristmas.tap"
+--tape-sum 1a01e81cddcd4f6608faa144a0876b34
+--start 43647
+--sim-load-config machine=128
+--sim-load-config accelerator=rom

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042641/QuadradosAssassinos.tap.zip
+--tape-name "QuadradosAssassinos.tap"
+--tape-sum bbd4215d76e71734b14c58b08feeb196
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042639/Piloto.tap.zip
+--tape-name "Piloto.tap"
+--tape-sum 4ca7333bf00f93a7dea4d81ef3725acf
+--start 1343
+--sim-load-config finish-tape=1

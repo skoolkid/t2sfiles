@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042688/HardcoreHangman.tap.zip
+--tape-name "HardcoreHangman.tap"
+--tape-sum df7131f13bd845715dbb33cc874e87a7
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042680/SudokuNY.tap.zip
+--tape-name "SudokuNY.tap"
+--tape-sum 46c9ee490c69dde60581c8aede4ff31e
+--start 24576
+--sim-load-config machine=128
