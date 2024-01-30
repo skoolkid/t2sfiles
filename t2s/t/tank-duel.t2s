@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040942/TankDuel.tap.zip
+--tape-name "TankDuel.tap"
+--tape-sum 5045423e2ffdc1761045cebb80023dc5
+--start 1343
+--sim-load-config finish-tape=1

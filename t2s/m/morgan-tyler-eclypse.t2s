@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0027371/MorganTyler-Eclypse.tzx.zip
+--tape-name "MorganTyler-Eclypse.tzx"
+--tape-sum be54d342915a8866dada295e23fcb99b
+--start 22240
+--sim-load-config accelerator=tiny,rom

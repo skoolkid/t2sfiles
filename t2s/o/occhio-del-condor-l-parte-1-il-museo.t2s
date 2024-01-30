@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0027352/OcchioDelCondorParte1-IlMuseoL.tzx.zip
+--tape-name "OcchioDelCondorParte1-IlMuseoL.tzx"
+--tape-sum 737be138f0d24ac8d92ae5bcaee98748
+--start 22240
+--sim-load-config accelerator=tiny,rom

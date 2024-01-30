@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040943/Pathway.tap.zip
+--tape-name "Pathway.tap"
+--tape-sum ffbacde6b3099221412b1ff94e0dc366
+--start 1343
+--sim-load-config finish-tape=1

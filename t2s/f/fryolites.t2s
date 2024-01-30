@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037576/Fryolites.tap.zip
+--tape-name "Fryolites.tap"
+--tape-sum f87f52ef84630e3dfe8e1db4f53ef7cf
+--start 1343
+--sim-load-config finish-tape=1

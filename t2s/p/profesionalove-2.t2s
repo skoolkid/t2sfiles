@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035427/Profesionalove2.tap.zip
+--tape-name "Profesionalove2.tap"
+--tape-sum 4a93cb08c7a4cce066d7550c490bd0a0
+--start 1343
+--sim-load-config accelerator=speedlock
+--sim-load-config finish-tape=1
