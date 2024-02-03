@@ -1,5 +1,29 @@
-https://worldofspectrum.net/pub/sinclair/games/g/GoldMine(PRISMMicro-informatiqueS.A.).tzx.zip
---tape-name "Gold Mine (Prism) - Side 1.tzx"
---tape-sum 63540f2bac25ff0376a5b37ec1fbc703
+; After the first CODE block has loaded, this line of BASIC is run:
+;
+;   3 LET I=USR 23328: IF I<1200 OR I>3000 THEN RANDOMIZE USR O
+;
+; The code at 23328 listens for the pilot tone of the next block on the tape:
+;
+;   23328 LD H,50     ; Detect 50 edges of the pilot tone.
+;   23330 LD BC,0     ; BC will count the port readings.
+;   23333 IN A,(254)  ; Take an initial port reading.
+;   23335 LD L,A      ; Save the current port reading in L.
+;   23336 IN A,(254)  ; Take another port reading.
+;   23338 INC BC      ; Increment the counter.
+;   23339 CP L        ; Detected an edge yet?
+;   23340 JR Z,23336  ; If not, jump back to take another port reading.
+;   23342 DEC H       ; Detected 50 edges yet?
+;   23343 JR NZ,23335 ; Jump back if not.
+;   23345 RET         ; Return to BASIC.
+;
+; If memory and I/O contention delays are not simulated, this routine returns
+; to BASIC with BC equal to 3208, which is too high a value, and triggers the
+; 'RANDOMIZE USR O' (where the variable 'O' equals 0).
+
+https://worldofspectrum.net/pub/sinclair/games/g/GoldMine.tzx.zip
+--tape-name "Gold Mine - Main Game.tzx"
+--tape-sum 611fbfd3d6982496eadb2e2b663cc27f
 --start 1343
+--sim-load-config cmio=1
+--sim-load-config in-flags=1
 --sim-load-config finish-tape=1
