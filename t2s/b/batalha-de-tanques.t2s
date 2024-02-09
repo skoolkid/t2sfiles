@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042695/BatalhaDeTanques.tzx.zip
+--tape-name "BatalhaDeTanques.tzx"
+--tape-sum 27d987a315a9e885c2f943337152d2f6
+--start 1343
+--tape-stop 5
+--sim-load-config finish-tape=1

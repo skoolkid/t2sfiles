@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042703/PaninaroIl.tzx.zip
+--tape-name "PaninaroIl.tzx"
+--tape-sum 6bb863c46150a98a4f654390225c39c7
+--start 1343
+--sim-load-config finish-tape=1

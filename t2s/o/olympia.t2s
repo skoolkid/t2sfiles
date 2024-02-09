@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040944/Olympia.tap.zip
+--tape-name "Olympia.tap"
+--tape-sum 5adb72a349f17ac1e35300f8c0ff8fbc
+--start 1343
+--sim-load-config finish-tape=1

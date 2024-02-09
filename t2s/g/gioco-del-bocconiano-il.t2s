@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042629/GiocoDelBocconianoIl.tzx.zip
+--tape-name "GiocoDelBocconianoIl.tzx"
+--tape-sum cc9b5ec7e36ab2e079d5b4eac0ae157f
+--start 1343
+--sim-load-config finish-tape=1

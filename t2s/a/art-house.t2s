@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042719/ArtHouse.tap.zip
+--tape-name "ArtHouse.tap"
+--tape-sum 0627c2ff9dd71df40624403343c9c8c7
+--start 1343
+--sim-load-config finish-tape=1

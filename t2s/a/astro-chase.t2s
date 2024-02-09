@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042715/AstroChase.tzx.zip
+--tape-name "AstroChase.tzx"
+--tape-sum 4c59cb3555a45b05fc843d56e688e6cb
+--start 1343
+--sim-load-config finish-tape=1

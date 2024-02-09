@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040951/HorseMuck.tap.zip
+--tape-name "HorseMuck.tap"
+--tape-sum d5ecd6668ffaae6cacc58a197081ea2b
+--start 1343
+--sim-load-config finish-tape=1
