@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031279/UnofficialFirstEntrySimulator.tzx.zip
+--tape-name "first.tzx"
+--tape-sum ce7de45a161ea00ca219cdc000d9efc2
+--start 7878
+--sim-load-config accelerator=rom
+--sim-load-config 'load=LOAD "": RUN'

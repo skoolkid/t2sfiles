@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031117/OvertakeThePope.tzx.zip
+--tape-name "OvertakeThePope.tzx"
+--tape-sum a16050d8e5436bddc3a3022c8f071b23
+--start 7997
+--sim-load-config accelerator=rom

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031042/Elfen.tzx.zip
+--tape-name "Elfen.tzx"
+--tape-sum 62a0a934fe8df283a78b0e8d45f1333f
+--start 6242
+--sim-load-config machine=128
+--sim-load-config accelerator=rom

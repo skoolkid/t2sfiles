@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036541/UranusPenetrator.tzx.zip
+--tape-name "UranusPenetrator.tzx"
+--tape-sum 37674ef327f4f944601670d6c13ae7a6
+--start 7783
+--sim-load-config accelerator=rom

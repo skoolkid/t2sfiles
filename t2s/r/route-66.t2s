@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036542/Route66.tzx.zip
+--tape-name "Route66.tzx"
+--tape-sum c20f50ebb9d1ad67898e9bf60e060b3a
+--start 11007
+--sim-load-config accelerator=rom

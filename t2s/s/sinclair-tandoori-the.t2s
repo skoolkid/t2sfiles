@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031132/SinclairTandooriThe.tzx.zip
+--tape-name "SinclairTandooriThe.tzx"
+--tape-sum fc6792b5642c939da96eca42028845bc
+--start 11007
+--sim-load-config 'load=LOAD ""'
+--sim-load-config accelerator=rom
