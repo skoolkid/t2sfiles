@@ -1,6 +1,8 @@
-https://skoolkit.ca/tapes/1999.zip
---tape-name "1999 (Alternative).tzx"
---tape-sum a9545436cdf6a8291db1c539fcb37bfa
+https://worldofspectrum.net/pub/sinclair/games/123/1999.tzx.zip
+--tape-name "1999.tzx"
+--tape-sum 074212ad501a8b0ad1cf440c2dfd7e06
 --start 63054
+--sim-load-config cmio=1
+--sim-load-config first-edge=5
 --sim-load-config accelerator=bleepload
 --sim-load-config accelerate-dec-a=2
