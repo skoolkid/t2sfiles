@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0027361/FantasyParte2-LaValleMysteriosa.tzx.zip
+--tape-name "FantasyParte2-LaValleMysteriosa.tzx"
+--tape-sum 468aecee38c3e6b1b7a14c7e54da0e86
+--start 22243
+--sim-load-config accelerator=tiny,rom

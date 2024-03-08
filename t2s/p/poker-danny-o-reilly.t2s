@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042723/Poker.tap.zip
+--tape-name "Poker.tap"
+--tape-sum eb6bf46ef04a7813a0e35f4e001c8ffa
+--start 1343
+--sim-load-config finish-tape=1

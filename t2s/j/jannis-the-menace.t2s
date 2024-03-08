@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040945/JannisTheMenace.tap.zip
+--tape-name "JannisTheMenace.tap"
+--tape-sum 78bb11f64b6c13625da00ba3a11ac47a
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042816/Caveej.tzx.zip
+--tape-name "Caveej.tzx"
+--tape-sum 855ce5092c0c03ce2fd52052395da6f9
+--start 1343
+--sim-load-config finish-tape=1

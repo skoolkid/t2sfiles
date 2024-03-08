@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042784/PokladInku.tap.zip
+--tape-name "PokladInku.tap"
+--tape-sum 4c4d9cd5b4dc4914a06bec7bd927eaaa
+--start 1343
+--sim-load-config finish-tape=1

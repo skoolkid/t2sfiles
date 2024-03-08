@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042806/Radargrid.tap.zip
+--tape-name "Radargrid.tap"
+--tape-sum 3d3543e28102e794be5cf5433d195e42
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0027416/ComputerTruckmanGame.tzx.zip
+--tape-name "ComputerTruckmanGame.tzx"
+--tape-sum dbc1340043c844b3dfdefda0b845ebb5
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0027404/ComputerCargoConquest.tzx.zip
+--tape-name "ComputerCargoConquest.tzx"
+--tape-sum c4ab1ecd3e66e3640781b921370866de
+--start 1343
+--sim-load-config finish-tape=1

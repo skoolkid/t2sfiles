@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042815/Galactica.tzx.zip
+--tape-name "Galactica.tzx"
+--tape-sum 84ffb4bf37e984099aff965b8add6bbf
+--start 1343
+--sim-load-config finish-tape=1

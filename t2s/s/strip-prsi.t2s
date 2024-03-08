@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042787/StripPrsi.tzx.zip
+--tape-name "StripPrsi.tzx"
+--tape-sum a90b97465c1d6b4f81be45aeb2e8fe4b
+--start 59964
+--sim-load-config accelerator=rom

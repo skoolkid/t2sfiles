@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0023545/Gyroff.tap.zip
+--tape-name "Gyroff.tap"
+--tape-sum 05afb59d68c0e4cff16bf8d011b9727b
+--start 1343
+--sim-load-config finish-tape=1

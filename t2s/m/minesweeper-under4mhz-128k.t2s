@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042751/Minesweeper(128K).tap.zip
+--tape-name "Minesweeper(128K).tap"
+--tape-sum 2dfadf83448eae89a5a45e7fab4c1062
+--start 24576
+--sim-load-config machine=128

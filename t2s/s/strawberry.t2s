@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042786/Strawberry.tzx.zip
+--tape-name "Strawberry.tzx"
+--tape-sum e7d74be818aa0aa26c1b13a2c64fce97
+--start 1343
+--sim-load-config finish-tape=1

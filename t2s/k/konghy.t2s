@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042817/Konghy_2.tap.zip
+--tape-name "Konghy_2.tap"
+--tape-sum 2fdc949f058777403a5bb48c4222ca3f
+--start 1343
+--sim-load-config finish-tape=1

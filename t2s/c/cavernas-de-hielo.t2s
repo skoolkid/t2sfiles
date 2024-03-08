@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042791/CavernasDeHielo.tap.zip
+--tape-name "CavernasDeHielo.tap"
+--tape-sum f2ed22001280838b9dbcec545d416ff0
+--start 1343
+--sim-load-config finish-tape=1

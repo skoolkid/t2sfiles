@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042785/SmithIV.tzx.zip
+--tape-name "SmithIV.tzx"
+--tape-sum c61c35d1eff0681c25d2d2959d30bfa6
+--start 50569
+--sim-load-config finish-tape=1

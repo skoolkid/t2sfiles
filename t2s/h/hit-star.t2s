@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040547/HitStar.tap.zip
+--tape-name "HitStar.tap"
+--tape-sum 44b7bbc867be887a930687e69d56633f
+--start 1343
+--sim-load-config finish-tape=1

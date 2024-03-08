@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042771/Duckshoot.tzx.zip
+--tape-name "Duckshoot.tzx"
+--tape-sum 738ca6be4af7a0009cfe99bb6abc9d5c
+--start 1343
+--sim-load-config finish-tape=1

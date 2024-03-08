@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037580/DeerHunt.tap.zip
+--tape-name "DeerHunt.tap"
+--tape-sum cd9ef98044ee96a4e432d65c36f76dc7
+--start 1343
+--sim-load-config finish-tape=1

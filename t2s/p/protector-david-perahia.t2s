@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042750/Protector.tap.zip
+--tape-name "Protector.tap"
+--tape-sum f2956badf4fab9831770a59dbb9b164e
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042781/Misseis.tap.zip
+--tape-name "Misseis.tap"
+--tape-sum f4769627400bea8a0cbe2089d1409dd6
+--start 1343
+--sim-load-config finish-tape=1

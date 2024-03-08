@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018452/Tarantula.tap.zip
+--tape-name "Tarantula.tap"
+--tape-sum 446b2ae06edbd39289812d47a7891fc2
+--start 1343
+--sim-load-config finish-tape=1

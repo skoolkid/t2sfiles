@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042797/MasterMemory.tap.zip
+--tape-name "MasterMemory.tap"
+--tape-sum 72bd660aa3c736b26665467d0290ef2e
+--start 1343
+--sim-load-config finish-tape=1

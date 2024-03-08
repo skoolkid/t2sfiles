@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042724/Specvaders.tap.zip
+--tape-name "Specvaders.tap"
+--tape-sum edaf39438cd1a97216960c1148c900ec
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0027415/ComputerTennisGame.tzx.zip
+--tape-name "ComputerTennisGame.tzx"
+--tape-sum 1b55a88ee34306e2721a6f02dc87140c
+--start 1343
+--sim-load-config finish-tape=1
