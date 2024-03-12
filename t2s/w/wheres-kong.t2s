@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037069/WheresKong.tap.zip
+--tape-name "WheresKong.tap"
+--tape-sum 508547abc67a02f50a14a86a4f2910f0
+--start 1343
+--sim-load-config finish-tape=1

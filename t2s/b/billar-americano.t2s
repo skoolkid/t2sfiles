@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042856/BillarAmericano.tap.zip
+--tape-name "BillarAmericano.tap"
+--tape-sum 4d31062a4324e024a3f917c7ac6d2c37
+--start 1343
+--sim-load-config finish-tape=1

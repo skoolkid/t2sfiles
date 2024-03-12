@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042855/SpaceWatch(PT).tzx.zip
+--tape-name "SpaceWatch(PT).tzx"
+--tape-sum e65dc360543f84e7412b81c2ee9f93f4
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

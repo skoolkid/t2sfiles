@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042838/FantasyWorldDizzy-ExtendedEdition2023(RU).tap.zip
+--tape-name "FantasyWorldDizzy-ExtendedEdition2023(RU).tap"
+--tape-sum 411513726cb02a11f43cfd933a880b56
+--start 24040
+--sim-load-config machine=128
+--sim-load-config accelerator=rom

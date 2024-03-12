@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042906/AppleGloton.tap.zip
+--tape-name "AppleGloton.tap"
+--tape-sum 69e309ef26640898c6372229aac701d4
+--start 1343
+--sim-load-config finish-tape=1

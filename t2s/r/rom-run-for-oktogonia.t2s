@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042933/ROM-Run.tap.zip
+--tape-name "ROM-Run.tap"
+--tape-sum f19f2b997879046a22abac8eb198318b
+--start 1343
+--sim-load-config finish-tape=1

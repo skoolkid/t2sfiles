@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042892/Escarabajo.tap.zip
+--tape-name "Escarabajo.tap"
+--tape-sum 72706156b21010151ac71eeaf499326b
+--start 1343
+--sim-load-config finish-tape=1

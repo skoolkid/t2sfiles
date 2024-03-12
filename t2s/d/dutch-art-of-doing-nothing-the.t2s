@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042832/DutchArtOfDoingNothingThe.tap.zip
+--tape-name "DutchArtOfDoingNothingThe.tap"
+--tape-sum 7afbb8a8bb301a9146f2fb012edf58fd
+--start 1343
+--sim-load-config finish-tape=1

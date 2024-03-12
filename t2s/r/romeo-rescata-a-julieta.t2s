@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042890/RomeoRescataAJulieta.tap.zip
+--tape-name "RomeoRescataAJulieta.tap"
+--tape-sum 2ec430327c4e9d58410e5bba8b8030bf
+--start 1343
+--sim-load-config finish-tape=1

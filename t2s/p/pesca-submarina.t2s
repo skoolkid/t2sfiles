@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042923/PescaSubmarina.tap.zip
+--tape-name "PescaSubmarina.tap"
+--tape-sum c7a4374a3972bc2a305f78d28cc7f0c9
+--start 1343
+--sim-load-config finish-tape=1

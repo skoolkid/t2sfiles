@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042918/MineroEl.tap.zip
+--tape-name "MineroEl.tap"
+--tape-sum 9eb8be012c2d77768d7511a1cd9e5929
+--start 1343
+--sim-load-config finish-tape=1

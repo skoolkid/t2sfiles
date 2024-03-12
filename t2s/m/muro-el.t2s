@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042891/MuroEl.tap.zip
+--tape-name "MuroEl.tap"
+--tape-sum 84cbafb2cbc4f4e153ad26c9d50568e7
+--start 1343
+--sim-load-config finish-tape=1

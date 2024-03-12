@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037070/FrankieGoesToPieces.tap.zip
+--tape-name "FrankieGoesToPieces.tap"
+--tape-sum 4fbbc8e909d5ea71f77344f4d7e5b0ac
+--start 1343
+--sim-load-config finish-tape=1

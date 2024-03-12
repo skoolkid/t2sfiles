@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042910/MurosGalacticos.tap.zip
+--tape-name "MurosGalacticos.tap"
+--tape-sum 7379d948fc7a379f7fda052bcf86a22c
+--start 1343
+--sim-load-config finish-tape=1

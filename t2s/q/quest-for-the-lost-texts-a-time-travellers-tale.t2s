@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042935/QuestForTheLostTexts-ATimeTravellersTale.tap.zip
+--tape-name "QuestForTheLostTexts-ATimeTravellersTale.tap"
+--tape-sum 879679fd073c2bf134a46b87f0168174
+--start 1343
+--sim-load-config finish-tape=1

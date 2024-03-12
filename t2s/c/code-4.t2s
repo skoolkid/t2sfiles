@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042896/Code4.tap.zip
+--tape-name "Code4.tap"
+--tape-sum 0740aafc14c5eae00893567926cc94f9
+--start 1343
+--sim-load-config finish-tape=1

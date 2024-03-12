@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042829/Krakout3.tap.zip
+--tape-name "Krakout3.tap"
+--tape-sum 45b8e2a70d07bf3f3cd96daf7291e99e
+--start 1343
+--tape-stop 14
+--sim-load-config accelerator=rom
+--sim-load-config finish-tape=1

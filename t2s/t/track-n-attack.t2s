@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0010329/TrackNAttack(JRSSoftwareLtd).tzx.zip
+--tape-name "TrackNAttack(JRSSoftwareLtd).tzx"
+--tape-sum 53a468bababfc6f81bd3dfc20e3d7439
+--start 1343
+--sim-load-config finish-tape=1

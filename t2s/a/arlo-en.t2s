@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042887/ARLO(EN).tap.zip
+--tape-name "ARLO(EN).tap"
+--tape-sum 2799212d65b8e5292212b8bfa5ab6292
+--start 24832
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

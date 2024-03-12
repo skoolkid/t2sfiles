@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042894/DefensaDeLaCiudad.tap.zip
+--tape-name "DefensaDeLaCiudad.tap"
+--tape-sum 363c6ffac36d59b92b2c4275811b197d
+--start 1343
+--sim-load-config finish-tape=1

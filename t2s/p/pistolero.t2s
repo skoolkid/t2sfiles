@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042916/Pistolero.tap.zip
+--tape-name "Pistolero.tap"
+--tape-sum 43e931ff05b438424cc21a1abdcd31c4
+--start 1343
+--sim-load-config finish-tape=1

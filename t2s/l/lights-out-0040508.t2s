@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040508/LightsOut.tzx.zip
+--tape-name "LightsOut.tzx"
+--tape-sum c3b7a025fa8d901fb2ce9348e7dd9462
+--start 1343
+--sim-load-config finish-tape=1

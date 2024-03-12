@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042903/Quasar.tzx.zip
+--tape-name "Quasar.tzx"
+--tape-sum 4851a165072c069104a8b1b99fc8e296
+--start 1343
+--sim-load-config finish-tape=1

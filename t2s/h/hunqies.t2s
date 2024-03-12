@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042902/Hunqies.tzx.zip
+--tape-name "Hunqies.tzx"
+--tape-sum 947a235339fe06366f2cafe8d35c37b9
+--start 1343
+--sim-load-config finish-tape=1

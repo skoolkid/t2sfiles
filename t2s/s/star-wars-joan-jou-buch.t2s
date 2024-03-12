@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042917/StarWars.tap.zip
+--tape-name "StarWars.tap"
+--tape-sum cbb3debf6811df3a6ea86fb34b36638d
+--start 1343
+--sim-load-config finish-tape=1

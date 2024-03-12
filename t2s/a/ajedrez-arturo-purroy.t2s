@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042846/Ajedrez.tap.zip
+--tape-name "Ajedrez.tap"
+--tape-sum 39c136144b12e31196daebd9522909eb
+--start 1343
+--sim-load-config finish-tape=1

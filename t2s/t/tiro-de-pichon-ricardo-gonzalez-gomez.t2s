@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042922/TiroDePichon.tap.zip
+--tape-name "TiroDePichon.tap"
+--tape-sum dd5ab69ac1c7cb0422af9c024a9e8314
+--start 1343
+--sim-load-config finish-tape=1

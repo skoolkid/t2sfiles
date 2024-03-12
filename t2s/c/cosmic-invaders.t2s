@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0019973/CosmicInvaders.tzx.zip
+--tape-name "CosmicInvaders.tzx"
+--tape-sum 10b940109fd5c8fddebf85fd14a5b09d
+--start 1343
+--sim-load-config finish-tape=1

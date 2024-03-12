@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042699/CuevaLa.tap.zip
+--tape-name "CuevaLa.tap"
+--tape-sum 777d0c847954ed3b87064362a0d36616
+--start 1343
+--sim-load-config finish-tape=1

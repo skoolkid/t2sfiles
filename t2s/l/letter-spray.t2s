@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042940/LetterSpray.tap.zip
+--tape-name "LetterSpray.tap"
+--tape-sum cb2be7f4291b7b3b11e5636ecfff4a3e
+--start 1343
+--sim-load-config finish-tape=1

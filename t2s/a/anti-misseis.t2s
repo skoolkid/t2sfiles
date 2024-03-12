@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042826/Anti-Misseis.tap.zip
+--tape-name "Anti-Misseis.tap"
+--tape-sum b9d329d83bd5c168e1305519d28baf01
+--start 1343
+--sim-load-config finish-tape=1

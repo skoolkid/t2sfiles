@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042908/PIM-PAM-PUM.tap.zip
+--tape-name "PIM-PAM-PUM.tap"
+--tape-sum 4889f5a1f0a714d02de72d1c8525bc17
+--start 1343
+--sim-load-config finish-tape=1

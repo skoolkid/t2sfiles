@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037071/MowerMania.tap.zip
+--tape-name "MowerMania.tap"
+--tape-sum 8375fe9b3f83eaec96feca7fd0ed3740
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042913/CentroVital.tap.zip
+--tape-name "CentroVital.tap"
+--tape-sum f13e957420f39a27b59bf5bc8a501329
+--start 1343
+--sim-load-config finish-tape=1

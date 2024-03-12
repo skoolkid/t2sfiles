@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042911/SuperMuelle.tap.zip
+--tape-name "SuperMuelle.tap"
+--tape-sum e30536274010054277c95f255a03ac78
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042895/Galaxia2000.tzx.zip
+--tape-name "Galaxia2000.tzx"
+--tape-sum 3fd6b30ae79faaa6a74d940c2b475841
+--start 1343
+--sim-load-config finish-tape=1

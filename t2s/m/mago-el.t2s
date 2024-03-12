@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0002989/MagoEl.tzx.zip
+--tape-name "MagoEl.tzx"
+--tape-sum d55389513d298d21f43dbbac4a30f671
+--start 1343
+--sim-load-config finish-tape=1

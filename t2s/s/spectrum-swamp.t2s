@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037583/SpectrumSwamp.tap.zip
+--tape-name "SpectrumSwamp.tap"
+--tape-sum ed258496d863d84a6aad889dbeff6637
+--start 1343
+--sim-load-config finish-tape=1

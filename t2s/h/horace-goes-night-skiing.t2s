@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042862/HoraceGoesNightSkiing.tap.zip
+--tape-name "HoraceGoesNightSkiing.tap"
+--tape-sum 920301d48e38b13420f5b88f0cc8877b
+--start 1343
+--sim-load-config finish-tape=1

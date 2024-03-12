@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040948/Kami(Issue2).tap.zip
+--tape-name "Kami(Issue2).tap"
+--tape-sum 929ae31adec9552aacad2ff2f7aa5c63
+--start 1343
+--sim-load-config finish-tape=1
+--state issue2=1

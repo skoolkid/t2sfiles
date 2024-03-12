@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042830/GoldFinderMan.tap.zip
+--tape-name "GoldFinderMan.tap"
+--tape-sum 4dc5af92355a2892acdabbee32d38f96
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

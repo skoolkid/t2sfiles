@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042912/Tron.tzx.zip
+--tape-name "Tron.tzx"
+--tape-sum 622d2297c0684dd0a535246ecc078159
+--start 1343
+--tape-stop 7
+--sim-load-config finish-tape=1

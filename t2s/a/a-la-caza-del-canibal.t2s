@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042921/LaCazaDelCanibalA.tap.zip
+--tape-name "LaCazaDelCanibalA.tap"
+--tape-sum d7cb64c380bb8dc9b1d34b8bfb455601
+--start 1343
+--sim-load-config finish-tape=1

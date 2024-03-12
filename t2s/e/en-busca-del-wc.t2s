@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042873/EnBuscaDelWC.tzx.zip
+--tape-name "EnBuscaDelWC.tzx"
+--tape-sum c6147fa1b90e75d4ff57d42a5ae24e9c
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042847/TiroAlPato.tap.zip
+--tape-name "TiroAlPato.tap"
+--tape-sum c63a14a79c015d37620a88a97fd463af
+--start 1343
+--sim-load-config finish-tape=1

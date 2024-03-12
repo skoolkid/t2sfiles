@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042848/Olimpiadas.tap.zip
+--tape-name "Olimpiadas.tap"
+--tape-sum 76ef0c302c7a5781ad728ac28b0c1f5a
+--start 1343
+--sim-load-config finish-tape=1

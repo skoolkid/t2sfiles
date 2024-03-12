@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038664/Galaxians.tap.zip
+--tape-name "Galaxians.tap"
+--tape-sum ed682cd2dca9f631001cdf47aa421a31
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042919/CorridasSinclair.tap.zip
+--tape-name "CorridasSinclair.tap"
+--tape-sum 644c12c26d46f6a858a216ad50bb69e4
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042882/Lunar-Car.tzx.zip
+--tape-name "Lunar-Car.tzx"
+--tape-sum e8e7b1863659cb7ceff891633ab2c585
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042888/CombateContraElDragon.tzx.zip
+--tape-name "CombateContraElDragon.tzx"
+--tape-sum 1dc2baf7fd36ff00e58af8fcbb0f0d27
+--start 1343
+--sim-load-config finish-tape=1

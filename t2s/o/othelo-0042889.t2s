@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042889/Othelo.tzx.zip
+--tape-name "Othelo.tzx"
+--tape-sum 9d3339c2a527f403922e909025303a10
+--start 1343
+--sim-load-config finish-tape=1

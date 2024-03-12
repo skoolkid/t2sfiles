@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042883/MisterHuevo.tzx.zip
+--tape-name "MisterHuevo.tzx"
+--tape-sum 0cffeb22c31dc8b7d64e4e8836a11306
+--start 1343
+--sim-load-config finish-tape=1

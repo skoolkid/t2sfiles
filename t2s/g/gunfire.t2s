@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042907/Gunfire.tap.zip
+--tape-name "Gunfire.tap"
+--tape-sum 505b10462cb27e6429f4b202ab15137a
+--start 1343
+--sim-load-config finish-tape=1

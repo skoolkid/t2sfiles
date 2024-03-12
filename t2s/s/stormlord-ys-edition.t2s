@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042884/Stormlord-YSEdition.tzx.zip
+--tape-name "Stormlord_YS.tzx"
+--tape-sum 03c5dc7bcb17fae2bfa85f6876d3a69c
+--start 65324
+--sim-load-config accelerator=speedlock
