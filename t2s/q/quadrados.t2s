@@ -4,5 +4,4 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039461/Quadrados.tzx.zip
 --start 7427
 --sim-load-config cmio=1
 --sim-load-config fast-load=0
---sim-load-config accelerator=rom
 --sim-load-config first-edge=4

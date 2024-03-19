@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/c/Ceasefire.tzx.zip
 --tape-sum d1a3c0423b063ce36ea1a26498692766
 --start 16396
 --sim-load-config cmio=1
---sim-load-config accelerator=bleepload
