@@ -2,4 +2,5 @@ https://worldofspectrum.net/pub/sinclair/games/j/JINJ2-BelmontesRevenge.tzx.zip
 --tape-name "jinj2.tzx"
 --tape-sum b0a2ba53d1493283c1e3c8ab41416736
 --start 64942
---sim-load-config accelerator=rom
+--sim-load-config accelerator=none
+--sim-load-config accelerate-dec-a=0
