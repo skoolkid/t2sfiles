@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042980/BoulderJumper.tzx.zip
+--tape-name "BoulderJumper.tzx"
+--tape-sum 686774ab80b556ff76ac374b31923db3
+--start 7841
+--sim-load-config accelerator=rom
+--sim-load-config 'load=LOAD "": RUN'

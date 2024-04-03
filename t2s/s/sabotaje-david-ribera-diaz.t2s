@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042999/Sabotaje.tap.zip
+--tape-name "Sabotaje.tap"
+--tape-sum 66b5509f4f5ab41cd8936b4f5c848012
+--start 1343
+--sim-load-config finish-tape=1

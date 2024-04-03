@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042864/Bombero.tap.zip
+--tape-name "Bombero.tap"
+--tape-sum 851eca05bdbe4fc5cdc955e3af726c3d
+--start 1343
+--sim-load-config finish-tape=1

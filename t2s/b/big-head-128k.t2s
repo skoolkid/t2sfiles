@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042952/BigHead.tap.zip
+--tape-name "BigHead.tap"
+--tape-sum f60712ecc0d97ff6b6b93468594308c8
+--start 24803
+--sim-load-config machine=128

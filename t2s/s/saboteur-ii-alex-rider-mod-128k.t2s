@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042978/SaboteurII(AlexRiderMOD)(128K).tap.zip
+--tape-name "SaboteurII(AlexRiderMOD)(128K).tap"
+--tape-sum a1466a38cfb90a81513a8f40eaa199de
+--start 26751
+--sim-load-config machine=128

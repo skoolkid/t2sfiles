@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042570/Jetsbot(EN).tap.zip
+--tape-name "Jetsbot(EN).tap"
+--tape-sum 931b75a1bb3f2f87df7d6516e22d7979
+--start 24832
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

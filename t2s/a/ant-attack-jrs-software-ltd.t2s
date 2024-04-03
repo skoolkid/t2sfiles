@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0009483/AntAttack.tzx.zip
+--tape-name "AntAttack.tzx"
+--tape-sum fb7c8eb389b7d4d7993837120055f624
+--start 1343
+--sim-load-config finish-tape=1
+--state issue2=1

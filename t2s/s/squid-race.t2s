@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042982/SquidRace.tap.zip
+--tape-name "SquidRace.tap"
+--tape-sum fcc07d83457039e3215c73a8ddfa5caf
+--start 1343
+--sim-load-config finish-tape=1

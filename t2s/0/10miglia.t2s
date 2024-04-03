@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042959/10Miglia.tap.zip
+--tape-name "10Miglia.tap"
+--tape-sum 55eb85946bca0e74b3b131e97c641599
+--start 1343
+--sim-load-config finish-tape=1

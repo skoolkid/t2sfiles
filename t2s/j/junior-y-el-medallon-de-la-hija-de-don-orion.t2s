@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042981/JuniorYElMedallonDeLaHijaDeDonOrion.tap.zip
+--tape-name "JuniorYElMedallonDeLaHijaDeDonOrion.tap"
+--tape-sum 8123d13da2a889189751046c74aac4ac
+--start 1343
+--sim-load-config finish-tape=1

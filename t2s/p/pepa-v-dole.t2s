@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042945/PepaVDole.tzx.zip
+--tape-name "PepaVDole.tzx"
+--tape-sum 2978afc047aa47ec2ad26c4838614194
+--start 1343
+--sim-load-config finish-tape=1

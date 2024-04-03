@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042947/ZX-Shoplifter(Original).tap.zip
+--tape-name "ZX-Shoplifter(Original).tap"
+--tape-sum 2bc1defdc5564368c59a8eeecefaeda6
+--start 1343
+--sim-load-config finish-tape=1

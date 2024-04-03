@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0001707/Ring-O.tzx.zip
+--tape-name "Ring-O.tzx"
+--tape-sum 114771f2b65ba4ca1a79d9f6b39cc402
+--start 1343
+--sim-load-config finish-tape=1
