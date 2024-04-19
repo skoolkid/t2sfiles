@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043049/Chinos.tap.zip
+--tape-name "Chinos.tap"
+--tape-sum bcc817434b104e04aa5b291218afcd4b
+--start 1343
+--sim-load-config finish-tape=1

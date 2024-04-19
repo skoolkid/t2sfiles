@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043046/Tanque.tap.zip
+--tape-name "Tanque.tap"
+--tape-sum de6fa2d833bd57a83bef86e61d45a9ce
+--start 1343
+--sim-load-config finish-tape=1

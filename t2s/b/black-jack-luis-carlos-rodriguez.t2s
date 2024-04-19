@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043027/BlackJack.tap.zip
+--tape-name "BlackJack.tap"
+--tape-sum 2366f47637aadeaf27ca69a015ed1654
+--start 1343
+--sim-load-config finish-tape=1

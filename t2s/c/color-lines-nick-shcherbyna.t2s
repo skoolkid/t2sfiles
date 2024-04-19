@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043070/ColorLines.tap.zip
+--tape-name "ColorLines.tap"
+--tape-sum 385da9c7364377821637578e8e9c4242
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

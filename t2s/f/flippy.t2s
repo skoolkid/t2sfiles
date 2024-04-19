@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043099/Flippy.tap.zip
+--tape-name "Flippy.tap"
+--tape-sum 33a77f8a9902f22d34fbb6ad129a9127
+--start 1343
+--sim-load-config finish-tape=1

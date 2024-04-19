@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043082/Inundacion.tap.zip
+--tape-name "Inundacion.tap"
+--tape-sum 1f21ed6d16afe758d1794fa0cacb58c5
+--start 1343
+--sim-load-config finish-tape=1

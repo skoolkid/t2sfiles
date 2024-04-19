@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043077/SalteLaBanca.tap.zip
+--tape-name "SalteLaBanca.tap"
+--tape-sum f3a79d87f0f285fc7d2433ea1b2109fb
+--start 1343
+--sim-load-config finish-tape=1

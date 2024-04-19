@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043071/PixelsAttackZX.tap.zip
+--tape-name "PixelsAttackZX.tap"
+--tape-sum b469f35e205fc6313ee27085013a2ac5
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043076/SieteYMedia.tap.zip
+--tape-name "SieteYMedia.tap"
+--tape-sum 6b31a4acc9e2d46f4849bbe0646c3fdc
+--start 1343
+--sim-load-config finish-tape=1

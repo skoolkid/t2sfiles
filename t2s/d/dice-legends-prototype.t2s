@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042775/DiceLegendsPrototype.tap.zip
+--tape-name "DiceLegendsPrototype.tap"
+--tape-sum 0403c88bb78b6eb88b8dcbca3c2f300a
+--start 24500
+--sim-load-config machine=128

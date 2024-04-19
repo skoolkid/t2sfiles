@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043065/ArtificialIntelligenceCliveSinclair.tap.zip
+--tape-name "ArtificialIntelligenceCliveSinclair.tap"
+--tape-sum 707062ac0fd4ba0e39db5e8bacca7f7c
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

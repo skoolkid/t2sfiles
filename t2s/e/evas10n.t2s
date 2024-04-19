@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043146/Evas10n.tap.zip
+--tape-name "Evas10n.tap"
+--tape-sum 27af714414e2bd253bfb3501014be1b4
+--start 1343
+--sim-load-config finish-tape=1

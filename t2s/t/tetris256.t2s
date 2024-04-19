@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043068/Tetris256.tap.zip
+--tape-name "Tetris256.tap"
+--tape-sum 45eb69082429be921caa1dd9951dc0cd
+--start 1343
+--sim-load-config finish-tape=1

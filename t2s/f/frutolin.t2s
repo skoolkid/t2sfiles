@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043053/Frutolin.tap.zip
+--tape-name "Frutolin.tap"
+--tape-sum 1c58f0c0152d11ab248b87137d7cc174
+--start 1343
+--sim-load-config finish-tape=1

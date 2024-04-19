@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043083/Para-Quedismo.tap.zip
+--tape-name "Para-Quedismo.tap"
+--tape-sum f5a26cc3db9a094938999878367d4f42
+--start 1343
+--sim-load-config finish-tape=1

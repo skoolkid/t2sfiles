@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043120/OverAndOver.tap.zip
+--tape-name "OverAndOver.tap"
+--tape-sum 9a620f82dc201deddd4802fd4beb7cdf
+--start 1343
+--sim-load-config finish-tape=1

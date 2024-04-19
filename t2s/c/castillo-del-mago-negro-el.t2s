@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043081/CastilloDelMagoNegroEl.tap.zip
+--tape-name "CastilloDelMagoNegroEl.tap"
+--tape-sum 112fffcbfd7a7f3ca45105e83005b20c
+--start 1343
+--sim-load-config finish-tape=1

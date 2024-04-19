@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043023/EspiaEl.tap.zip
+--tape-name "EspiaEl.tap"
+--tape-sum 217a576053afb09a6bb8e6a02630afad
+--start 1343
+--sim-load-config finish-tape=1

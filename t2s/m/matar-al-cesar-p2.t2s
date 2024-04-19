@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042543/MatarAlCesar(Part2).tap.zip
+--tape-name "MatarAlCesar(Part2).tap"
+--tape-sum 85fa1caf9df66ae02e232c2041acf026
+--start 23316
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043085/DeloATank.tap.zip
+--tape-name "DeloATank.tap"
+--tape-sum 97fcc12d5ab655debdc8e794a9b860dd
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043122/Housenka2.tzx.zip
+--tape-name "Housenka2.tzx"
+--tape-sum 3bbac76787088b62b4fed7cdd5cb4b47
+--start 1343
+--sim-load-config finish-tape=1

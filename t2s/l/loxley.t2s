@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037203/Loxley.tap.zip
+--tape-name "Loxley.tap"
+--tape-sum 1acc564d0e035d9a88a0254f4733dd5f
+--start 7037
+--sim-load-config machine=128
+--tape-start 17
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043108/3EnRaya.tap.zip
+--tape-name "3EnRaya.tap"
+--tape-sum 09a743e610f0855eb89adf2b72aa3576
+--start 1343
+--sim-load-config finish-tape=1

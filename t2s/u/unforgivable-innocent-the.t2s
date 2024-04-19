@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042700/UnforgivableInnocentThe.tap.zip
+--tape-name "UnforgivableInnocentThe.tap"
+--tape-sum 61cfa1f735e972c1b32a2bdd4f0f5528
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042702/SurvivalDungeon.tap.zip
+--tape-name "SurvivalDungeon.tap"
+--tape-sum 55d350f377d0c69eb82ef3f5b3c96c7a
+--start 1343
+--sim-load-config finish-tape=1

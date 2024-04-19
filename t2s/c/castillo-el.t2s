@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043055/CastilloEl.tap.zip
+--tape-name "CastilloEl.tap"
+--tape-sum 03f5823d35223ac85562b068d23195df
+--start 1343
+--sim-load-config finish-tape=1

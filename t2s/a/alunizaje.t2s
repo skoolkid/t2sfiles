@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043009/Alunizaje.tap.zip
+--tape-name "Alunizaje.tap"
+--tape-sum 84554a4f12d7fc6e14b3edcef38df132
+--start 1343
+--sim-load-config finish-tape=1

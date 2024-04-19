@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043021/Galaxis.tap.zip
+--tape-name "Galaxis.tap"
+--tape-sum 6e9137da74c21030d481ca3e7f230334
+--start 1343
+--sim-load-config finish-tape=1

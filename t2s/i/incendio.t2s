@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043128/Incendio.tap.zip
+--tape-name "Incendio.tap"
+--tape-sum 2101443785aad41c38439e3320d179fd
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043098/UNIS.tzx.zip
+--tape-name "UNIS.tzx"
+--tape-sum 9144f626fda76328d82828b378184299
+--start 1343
+--sim-load-config finish-tape=1

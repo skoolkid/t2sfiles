@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043045/El31.tap.zip
+--tape-name "El31.tap"
+--tape-sum 96be401e99db98dd578ae7c249f3a041
+--start 1343
+--sim-load-config finish-tape=1

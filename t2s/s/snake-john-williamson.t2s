@@ -1,5 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/games/s/Snake_6.tap.zip
---tape-name "SNAKE_SP.TAP"
---tape-sum 1577fac8809ddbc383913bf09ba41cf7
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016626/Snake.tap.zip
+--tape-name "Snake.tap"
+--tape-sum 3d80913b7bc7d7a8c5f6da9198e7554f
 --start 1343
 --sim-load-config finish-tape=1

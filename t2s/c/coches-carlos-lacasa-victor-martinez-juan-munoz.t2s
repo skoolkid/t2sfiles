@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043051/Coches.tap.zip
+--tape-name "Coches.tap"
+--tape-sum d308cc2a2557c0944512ee8957ca9cd1
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043029/CocheLoco.tap.zip
+--tape-name "CocheLoco.tap"
+--tape-sum 27bd5be2d27bf572b00c95cb29dc89c4
+--start 1343
+--sim-load-config finish-tape=1

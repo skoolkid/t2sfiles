@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043145/MiniBox.tzx.zip
+--tape-name "MiniBox.tzx"
+--tape-sum 9ca4433b14eeda6d20e89d45fc4a54c9
+--start 1343
+--sim-load-config finish-tape=1

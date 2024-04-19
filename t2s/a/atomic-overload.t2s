@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037584/AtomicOverload(Issue2).tap.zip
+--tape-name "AtomicOverload(Issue2).tap"
+--tape-sum 015b4be3e1d53fd40f2b97da9b93e455
+--start 1343
+--sim-load-config finish-tape=1
+--state issue2=1

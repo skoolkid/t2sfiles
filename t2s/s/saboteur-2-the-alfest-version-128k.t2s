@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042977/Saboteur2-TheALFESTVersion(128K).tap.zip
+--tape-name "SaboteurII(theALFESTMOD)_128K.tap"
+--tape-sum bd781d632c34ee75ab0c57e9182ecdc7
+--start 24800
+--sim-load-config machine=128

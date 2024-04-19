@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043133/SyreckyIII-ZachranaKapesneho.tap.zip
+--tape-name "SyreckyIII-ZachranaKapesneho.tap"
+--tape-sum 9c8c5a61d3273d3d7dfc92e3dd4e2050
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043059/Campeones.tap.zip
+--tape-name "Campeones.tap"
+--tape-sum 0fd8ddd8fd956d8d56d2c4e1d73b56b3
+--start 1343
+--sim-load-config finish-tape=1

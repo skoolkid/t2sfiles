@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043101/TitanAtak.tap.zip
+--tape-name "TitanAtak.tap"
+--tape-sum a732ec7ac40ec02f62f3e65360076b5a
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043011/SegundaGuerraMundial.tzx.zip
+--tape-name "SegundaGuerraMundial.tzx"
+--tape-sum 8dd4da426b4a5ae714600c1af5e27d88
+--start 1343
+--sim-load-config finish-tape=1

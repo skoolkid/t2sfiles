@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043036/CazaDePatos.tap.zip
+--tape-name "CazaDePatos.tap"
+--tape-sum bd9b820f8fdaaf68328a9b3506142cfb
+--start 1343
+--sim-load-config finish-tape=1

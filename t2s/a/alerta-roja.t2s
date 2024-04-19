@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043047/AlertaRoja.tap.zip
+--tape-name "AlertaRoja.tap"
+--tape-sum 512b2463e7da43318e121ac21154de41
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043043/Damas.tap.zip
+--tape-name "Damas.tap"
+--tape-sum 9ebd7e7f45ec139ba252b6e8bd0de6bb
+--start 1343
+--sim-load-config finish-tape=1

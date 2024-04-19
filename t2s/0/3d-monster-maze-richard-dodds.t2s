@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043002/MonsterMaze3D.tzx.zip
+--tape-name "MonsterMaze3D.tzx"
+--tape-sum 318c365ff1f924cf926a64897513b21f
+--start 1343
+--sim-load-config finish-tape=1

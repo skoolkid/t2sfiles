@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043067/Ballgame.tap.zip
+--tape-name "Ballgame.tap"
+--tape-sum d84a00a6914d2f76ffa4446973e97e42
+--start 1343
+--sim-load-config finish-tape=1

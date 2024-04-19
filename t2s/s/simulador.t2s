@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043025/Simulador.tap.zip
+--tape-name "Simulador.tap"
+--tape-sum 4a308f88fc0074dfd6211197416d467b
+--start 1343
+--sim-load-config finish-tape=1

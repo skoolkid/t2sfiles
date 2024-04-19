@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043072/BadDayBeingAMicrobe.tap.zip
+--tape-name "BadDayBeingAMicrobe.tap"
+--tape-sum 5dd8d2b89e971290fc5273b2063b9205
+--start 1343
+--sim-load-config finish-tape=1

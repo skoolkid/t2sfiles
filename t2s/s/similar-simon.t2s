@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043063/SimilarSimon.tap.zip
+--tape-name "SimilarSimon.tap"
+--tape-sum b7ce5e547bae386d244a60ddda5413a1
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

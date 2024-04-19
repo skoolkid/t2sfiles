@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043003/TimeMaze.tzx.zip
+--tape-name "TimeMaze.tzx"
+--tape-sum d8de616e74f3cb3f90043521378b160d
+--start 1343
+--sim-load-config finish-tape=1

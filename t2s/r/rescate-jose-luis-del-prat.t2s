@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043007/Rescate.tap.zip
+--tape-name "Rescate.tap"
+--tape-sum 50b500dc83c39fa36291d3e8628d5015
+--start 1343
+--sim-load-config finish-tape=1

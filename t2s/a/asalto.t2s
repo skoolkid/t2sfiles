@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043012/iAsalto.tap.zip
+--tape-name "iAsalto.tap"
+--tape-sum 0ba9495b83d7691b6462d36499750385
+--start 1343
+--sim-load-config finish-tape=1

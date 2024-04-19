@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043143/LOGITrumpsSpectrum.tap.zip
+--tape-name "LOGITrumpsSpectrum.tap"
+--tape-sum 21f2d7c9cecdecc09f785f26c9afe207
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

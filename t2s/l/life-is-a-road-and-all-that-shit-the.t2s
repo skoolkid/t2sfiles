@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043073/LifeIsARoadAndAllThatShitThe.tap.zip
+--tape-name "LifeIsARoadAndAllThatShitThe.tap"
+--tape-sum a4ce205f5e71f0a27543627b173f1f1b
+--start 1343
+--sim-load-config finish-tape=1

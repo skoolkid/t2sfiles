@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043042/ShuttleEspacial(Issue2).tap.zip
+--tape-name "ShuttleEspacial(Issue2).tap"
+--tape-sum 7a56d680a03642d2110545d94c1d4a21
+--start 1343
+--sim-load-config finish-tape=1
+--state issue2=1

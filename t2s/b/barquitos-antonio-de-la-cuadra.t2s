@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043056/Barquitos.tap.zip
+--tape-name "Barquitos.tap"
+--tape-sum 696d0c15e10777acb4245e707693855a
+--start 1343
+--sim-load-config finish-tape=1
