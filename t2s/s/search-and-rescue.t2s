@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/compilations/b/BestOfPCW-SoftwareForTheSpectrum.tzx.zip
+--tape-name "Best Of PCW - Software For The Spectrum - Side B.tzx"
+--tape-sum a22e19c3597d890ee28c54a1fcf10afc
+--start 1343
+--tape-start 74
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'
