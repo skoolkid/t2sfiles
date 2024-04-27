@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043171/NamorniBitva.tap.zip
+--tape-name "NamorniBitva.tap"
+--tape-sum 6500de0ca3425f50a982e1c19295f63e
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043153/LavaUndMinen.tap.zip
+--tape-name "LavaUndMinen.tap"
+--tape-sum 9c80e4e26b12bef75ed7adf67a6e9687
+--start 1343
+--sim-load-config finish-tape=1

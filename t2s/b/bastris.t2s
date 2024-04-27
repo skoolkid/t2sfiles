@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043198/Bastris.tap.zip
+--tape-name "Bastris2_2.tap"
+--tape-sum f652d2aa83cf0c194b97031d474a3327
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043169/ViagemEspacial.tap.zip
+--tape-name "ViagemEspacial.tap"
+--tape-sum 12b04081133a0e471ea7bac2546f39f2
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043170/ZaPoklademMayu.tap.zip
+--tape-name "ZaPoklademMayu.tap"
+--tape-sum 15fa6906e3c6b9e2611643f8583ba123
+--start 1343
+--sim-load-config finish-tape=1

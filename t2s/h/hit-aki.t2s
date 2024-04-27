@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043177/Hit.tap.zip
+--tape-name "Hit.tap"
+--tape-sum d66f3c26b0c41c513ea0fdec7b41837e
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

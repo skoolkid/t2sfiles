@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043154/Laser.tap.zip
+--tape-name "Laser.tap"
+--tape-sum d2dbe19c0a4152c761fa7a32ecde83c6
+--start 1343
+--sim-load-config finish-tape=1

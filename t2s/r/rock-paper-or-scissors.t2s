@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043150/RockPaperOrScissors.tap.zip
+--tape-name "RockPaperOrScissors.tap"
+--tape-sum 3c8d53f84040f6b05d9c3055bef03384
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

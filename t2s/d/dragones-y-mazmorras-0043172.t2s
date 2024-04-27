@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043172/DragonesYMazmorras.tzx.zip
+--tape-name "DragonesYMazmorras.tzx"
+--tape-sum b1b898a79ffa5fc909fe1392cb033a28
+--start 1343
+--sim-load-config finish-tape=1

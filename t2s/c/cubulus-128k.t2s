@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043173/Cubulus.tap.zip
+--tape-name "Cubulus.tap"
+--tape-sum dcb2f578483e29cd65f71c4854b64aa1
+--start 24576
+--sim-load-config machine=128

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043175/ExploadDux.tap.zip
+--tape-name "ExploadDux.tap"
+--tape-sum 2d936ba17b48bb8a3304ff8668bc5248
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'
