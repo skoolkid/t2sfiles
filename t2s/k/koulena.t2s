@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043186/Koulena.tap.zip
+--tape-name "Koulena.tap"
+--tape-sum f439441cb2521a5d269100e06aeb11b2
+--start 1343
+--sim-load-config finish-tape=1
+--state issue2=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042819/CasaAssombradaA.tap.zip
+--tape-name "CasaAssombradaA.tap"
+--tape-sum 36065a9847517d0d656c79f0d8b46ab7
+--start 1343
+--sim-load-config finish-tape=1

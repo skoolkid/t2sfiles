@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043004/SpaceFleet.tap.zip
+--tape-name "SpaceFleet.tap"
+--tape-sum 39c3c87f9c898dda5538de2e53d41bc6
+--start 1343
+--sim-load-config finish-tape=1

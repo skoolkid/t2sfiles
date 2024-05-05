@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043187/CloveceNezlobSe.tap.zip
+--tape-name "CloveceNezlobSe.tap"
+--tape-sum e676be4ca6705d34d2b2582ed27161d5
+--start 1343
+--sim-load-config finish-tape=1

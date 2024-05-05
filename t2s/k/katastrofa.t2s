@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043194/Katastrofa.tzx.zip
+--tape-name "Katastrofa.tzx"
+--tape-sum c100d6746f43bcf47330123ff4b7bea7
+--start 64515
+--sim-load-config accelerator=rom

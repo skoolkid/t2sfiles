@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043193/Bomba.tzx.zip
+--tape-name "Bomba.tzx"
+--tape-sum cb5b52e15a0e82931f9868711aee9041
+--start 64515
+--sim-load-config accelerator=rom

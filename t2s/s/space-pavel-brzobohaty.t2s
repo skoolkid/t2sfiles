@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043182/Space.tap.zip
+--tape-name "Space.tap"
+--tape-sum 099a5b66b1a1975f3534be82c9026918
+--start 23316
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

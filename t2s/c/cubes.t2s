@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043197/Cubes.tap.zip
+--tape-name "Cubes.tap"
+--tape-sum 20b6ffd8e82cc7e87091362e75ccc5df
+--start 23316
+--sim-load-config machine=128
+--sim-load-config finish-tape=1
