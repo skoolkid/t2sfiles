@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043249/Pacmine.tap.zip
+--tape-name "Pacmine.tap"
+--tape-sum a6249a9dbd8063d9850eeceb38decb30
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

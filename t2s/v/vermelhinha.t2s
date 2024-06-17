@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043277/Vermelhinha.tap.zip
+--tape-name "Vermelhinha.tap"
+--tape-sum f35cf1c0bb8ada7c7169b49a0928f81a
+--start 1343
+--sim-load-config finish-tape=1

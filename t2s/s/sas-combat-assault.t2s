@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0004341/SASCombatAssault.tzx.zip
+--tape-name "SASCombatAssault.tzx"
+--tape-sum 11adee23b750e98647be1ddd2c46411c
+--start 16396
+--sim-load-config accelerator=bleepload
