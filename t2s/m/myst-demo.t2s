@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030585/MYSTDemo.tap.zip
+--tape-name "MYSTDemo.tap"
+--tape-sum ce01f8531851ad46d6214a59be0d0b80
+--start 1343
+--sim-load-config finish-tape=1

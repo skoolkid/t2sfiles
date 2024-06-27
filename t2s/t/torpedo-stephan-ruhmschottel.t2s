@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038037/Torpedo.tap.zip
+--tape-name "Torpedo.tap"
+--tape-sum d0f23eca0eec1747d8ee85826ec91c1c
+--start 1343
+--sim-load-config finish-tape=1

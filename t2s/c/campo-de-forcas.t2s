@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042818/CampoDeForcas.tap.zip
+--tape-name "CampoDeForcas.tap"
+--tape-sum 3a1ec2ec1d0ec73f483439c9a9ae3675
+--start 1343
+--sim-load-config finish-tape=1

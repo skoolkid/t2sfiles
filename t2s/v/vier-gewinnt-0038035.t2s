@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038035/VierGewinnt.tap.zip
+--tape-name "VierGewinnt.tap"
+--tape-sum 44d9f35f3a9ab54ab45de6b2394c4317
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

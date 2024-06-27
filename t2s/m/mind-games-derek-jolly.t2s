@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030584/MindGames.tap.zip
+--tape-name "MindGames.tap"
+--tape-sum 18445f6e83e8d5541a1ac86b473fcbdc
+--start 36372
+--sim-load-config finish-tape=1

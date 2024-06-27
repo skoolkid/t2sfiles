@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043297/Gedanken-Lese-Spiel.tap.zip
+--tape-name "Gedanken-Lese-Spiel.tap"
+--tape-sum c66184efc6781a9f922beaca339cc70c
+--start 1343
+--sim-load-config finish-tape=1

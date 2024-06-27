@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043298/CasteloDeGrenstoneO.tap.zip
+--tape-name "CasteloDeGrenstoneO.tap"
+--tape-sum 8fc93a1da7c5b492e3c7423c20fcc896
+--start 1343
+--sim-load-config finish-tape=1

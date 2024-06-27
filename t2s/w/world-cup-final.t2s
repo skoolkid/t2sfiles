@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030605/WorldCupFinal.tap.zip
+--tape-name "WorldCupFinal.tap"
+--tape-sum d61dfb76448a9012fcc98e5d49215a35
+--start 1343
+--sim-load-config finish-tape=1

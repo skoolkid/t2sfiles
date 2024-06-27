@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038038/Monster-Wall.tap.zip
+--tape-name "Monster-Wall.tap"
+--tape-sum fe7adad1437e8e283f8b184b5d5c4f75
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030559/AdvancedMarathonSimulator3D.tap.zip
+--tape-name "AdvancedMarathonSimulator3D.tap"
+--tape-sum 19e3cbb09c06c5f2ed8f18a89691a6e9
+--start 1343
+--sim-load-config finish-tape=1

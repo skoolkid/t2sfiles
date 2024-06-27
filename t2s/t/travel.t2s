@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038039/Travel.tap.zip
+--tape-name "Travel.tap"
+--tape-sum d3f108114711d854481269a76ebf9ea2
+--start 1343
+--tape-stop 3
+--sim-load-config finish-tape=1

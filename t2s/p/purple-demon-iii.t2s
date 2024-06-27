@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030590/PurpleDemonIII.tap.zip
+--tape-name "PurpleDemonIII.tap"
+--tape-sum 3655bab8830417d40312669a51f2d920
+--start 1343
+--sim-load-config finish-tape=1

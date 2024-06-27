@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043325/Knacki.tap.zip
+--tape-name "Knacki.tap"
+--tape-sum 76052001e173d046c51472c042298232
+--start 1343
+--sim-load-config finish-tape=1

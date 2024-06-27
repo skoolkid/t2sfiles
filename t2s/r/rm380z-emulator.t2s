@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030593/RM380ZEmulator.tap.zip
+--tape-name "RM380ZEmulator.tap"
+--tape-sum 3fafc60802c95ba97578b0b8a89499d3
+--start 1343
+--sim-load-config finish-tape=1

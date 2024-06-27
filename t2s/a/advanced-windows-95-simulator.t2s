@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030565/AdvancedWindows95Simulator.tap.zip
+--tape-name "AdvancedWindows95Simulator.tap"
+--tape-sum ad36937a623b49f15c5c93aac064842a
+--start 1343
+--sim-load-config finish-tape=1

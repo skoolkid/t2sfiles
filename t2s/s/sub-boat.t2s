@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043348/Sub-Boat.tzx.zip
+--tape-name "Sub-Boat.tzx"
+--tape-sum b5c0524e224098baf9abe2f0c6c800b5
+--start 1343
+--sim-load-config finish-tape=1

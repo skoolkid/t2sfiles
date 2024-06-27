@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043235/ManicMiner-TheLostLevels.tzx.zip
+--tape-name "ManicMiner-TheLostLevels.tzx"
+--tape-sum 8f98cb2002d219337c2e0bb23b5082e8
+--start 33792
+--sim-load-config machine=128

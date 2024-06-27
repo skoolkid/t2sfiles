@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030575/ConwaysDeath.tap.zip
+--tape-name "ConwaysDeath.tap"
+--tape-sum 4a2df5432a10d4670bb18adf93404c5f
+--start 1343
+--sim-load-config finish-tape=1

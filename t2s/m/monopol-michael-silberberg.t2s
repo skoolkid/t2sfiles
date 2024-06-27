@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043356/Monopol.tzx.zip
+--tape-name "Monopol.tzx"
+--tape-sum 1bbadfbb393e5efe3a82dad2693576f7
+--start 1343
+--sim-load-config finish-tape=1

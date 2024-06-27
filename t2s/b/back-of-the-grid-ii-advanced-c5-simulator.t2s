@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030569/BackOfTheGridII-AdvancedC5Simulator.tap.zip
+--tape-name "BackOfTheGridII-AdvancedC5Simulator.tap"
+--tape-sum 3f7cfc7c9fcb80b3ef9da16887d19c5d
+--start 1343
+--sim-load-config finish-tape=1

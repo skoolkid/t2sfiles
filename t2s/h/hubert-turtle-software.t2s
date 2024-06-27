@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043320/Hubert.tzx.zip
+--tape-name "Hubert.tzx"
+--tape-sum 130d530a176190ae83ddd12e94964e64
+--start 1343
+--sim-load-config finish-tape=1

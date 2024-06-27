@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030572/CheeseMagnate.tap.zip
+--tape-name "CheeseMagnate.tap"
+--tape-sum 54bc09e7231508759bb6412803a848fb
+--start 1343
+--sim-load-config finish-tape=1

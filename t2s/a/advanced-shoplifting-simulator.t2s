@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030563/AdvancedShopliftingSimulator.tap.zip
+--tape-name "AdvancedShopliftingSimulator.tap"
+--tape-sum e300877b8643a42def02fa9bac8e1687
+--start 1343
+--sim-load-config finish-tape=1

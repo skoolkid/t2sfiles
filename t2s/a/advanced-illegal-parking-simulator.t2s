@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030562/AdvancedIllegalParkingSimulator.tap.zip
+--tape-name "AdvancedIllegalParkingSimulator.tap"
+--tape-sum 26a019f270e5376688a5a327b7b97a1b
+--start 1343
+--sim-load-config finish-tape=1

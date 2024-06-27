@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0009981/M-Ultimate.tzx.zip
+--tape-name "M-Ultimate.tzx"
+--tape-sum c0a1b3fae4228f63f1494c6577a95853
+--start 1343
+--sim-load-config finish-tape=1

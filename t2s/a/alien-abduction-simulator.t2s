@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030567/AlienAbductionSimulator.tap.zip
+--tape-name "AlienAbductionSimulator.tap"
+--tape-sum 7f8b40f0114f3fed7f954d04870528da
+--start 1343
+--sim-load-config finish-tape=1

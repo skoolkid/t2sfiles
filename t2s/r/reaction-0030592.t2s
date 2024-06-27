@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030592/Reaction.tap.zip
+--tape-name "Reaction.tap"
+--tape-sum 531b1ba7d78e0b12fb8d7f480e4158d6
+--start 1343
+--sim-load-config finish-tape=1

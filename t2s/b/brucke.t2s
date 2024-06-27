@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043358/Brucke.tzx.zip
+--tape-name "Brucke.tzx"
+--tape-sum 19649e911abc4ab6190e242ce631785b
+--start 1343
+--sim-load-config finish-tape=1

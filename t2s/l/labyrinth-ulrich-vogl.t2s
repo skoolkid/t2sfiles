@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043373/Labyrinth.tzx.zip
+--tape-name "Labyrinth.tzx"
+--tape-sum c9f4d3a9a97145d0f78c35041caff317
+--start 1343
+--sim-load-config finish-tape=1

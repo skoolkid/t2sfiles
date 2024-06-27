@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037502/Hinterhalt.tap.zip
+--tape-name "Hinterhalt.tap"
+--tape-sum 7e584ad18ae82e9de443d57419162f19
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

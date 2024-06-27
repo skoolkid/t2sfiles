@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043362/Intellecto.tzx.zip
+--tape-name "Intellecto.tzx"
+--tape-sum 132b82d9f08bb2ed5037e9b83e6e3670
+--start 1343
+--sim-load-config finish-tape=1

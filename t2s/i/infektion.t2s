@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043350/Infektion.tzx.zip
+--tape-name "Infektion.tzx"
+--tape-sum f9f4a54b83181c0fbe51408553646aac
+--start 1343
+--sim-load-config finish-tape=1

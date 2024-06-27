@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038036/Raumschiff.tap.zip
+--tape-name "Raumschiff.tap"
+--tape-sum 732747062f70cbf58dc6c38e34d79331
+--start 1343
+--sim-load-config finish-tape=1
