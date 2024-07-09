@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030587/OfficialHearingTest.tap.zip
+--tape-name "OfficialHearingTest.tap"
+--tape-sum dba6d85fbdbd3adacc63d4a8a4f78f82
+--start 1343
+--sim-load-config finish-tape=1

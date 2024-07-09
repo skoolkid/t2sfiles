@@ -1,0 +1,5 @@
+https://worldofspectrum.net/pub/sinclair/games/h/HoppingMad.tzx.zip
+--tape-name "Hoppin' Mad.tzx"
+--tape-sum 361ebb14b8cda021a8832861b1d9be28
+--start 37000
+--sim-load-config machine=128

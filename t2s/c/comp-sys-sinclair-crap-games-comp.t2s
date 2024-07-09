@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030574/CompsyssinclairCrapGamesComp.tap.zip
+--tape-name "CompsyssinclairCrapGamesComp.tap"
+--tape-sum 63c928fe499313bfa27683e0d604a80d
+--start 1343
+--sim-load-config finish-tape=1

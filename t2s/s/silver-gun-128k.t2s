@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0000401/SilverGun.tzx.zip
+--tape-name "SilverGun.tzx"
+--tape-sum 1048093f4f3fa78f01414148f5dc5677
+--start 38948
+--sim-load-config machine=128

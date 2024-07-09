@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MichelFutbolMaster.tzx.zip
+--tape-name "Michel Futbol Master - Side B.tzx"
+--tape-sum 9e2192164f2f3d0d33540876cb6e4e4f
+--start 64539
+--sim-load-config machine=128
+--sim-load-config accelerator=dinaload

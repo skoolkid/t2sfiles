@@ -1,0 +1,5 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Prohibition.tzx.zip
+--tape-name "Prohibition.tzx"
+--tape-sum 0b19f9f41a5b2b1bf64f26c04a0b132a
+--start 25000
+--sim-load-config machine=128

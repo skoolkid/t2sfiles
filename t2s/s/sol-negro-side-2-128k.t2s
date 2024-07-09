@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SolNegro(SmallCase).tzx.zip
+--tape-name "Sol Negro - Side 2.tzx"
+--tape-sum 5e7674b27c6d7b3051f752af6348e3bf
+--start 64532
+--sim-load-config machine=128
+--tape-stop 8

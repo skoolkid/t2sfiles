@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034428/PooperScooper.tap.zip
+--tape-name "Pooper Scooper.tap"
+--tape-sum 6358ef9433886cfbc99cda0ce7a679b9
+--start 24800
+--sim-load-config machine=128

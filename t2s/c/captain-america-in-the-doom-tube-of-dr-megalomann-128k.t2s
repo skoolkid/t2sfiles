@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CaptainAmericaInTheDoomTubeOfDrMegalomann(CaptainAmerica)(ErbeSoftwareS.A.).tzx.zip
+--tape-name "Captain America.tzx"
+--tape-sum 87a2adcf8edbd6af41ea6e07ffd31428
+--start 64709
+--sim-load-config machine=128
+--sim-load-config accelerator=alkatraz

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030601/Retuners-TheGameThe.tap.zip
+--tape-name "Retuners-TheGameThe.tap"
+--tape-sum 629560b48e81b8a56b32049ac65226b2
+--start 1343
+--sim-load-config finish-tape=1

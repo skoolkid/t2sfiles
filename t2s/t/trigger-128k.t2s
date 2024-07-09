@@ -1,0 +1,5 @@
+https://worldofspectrum.net/pub/sinclair/games/t/Trigger(lightgun).tzx.zip
+--tape-name "Trigger (Lightgun).tzx"
+--tape-sum a294d38a0c44c11afb135ebc1d79e8e6
+--start 64532
+--sim-load-config machine=128

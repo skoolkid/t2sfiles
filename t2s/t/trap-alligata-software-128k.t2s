@@ -1,0 +1,5 @@
+https://worldofspectrum.net/pub/sinclair/games/t/Trap.tzx.zip
+--tape-name "Trap - Side A.tzx"
+--tape-sum f424656b0ca0b14d9c20d12534a2f54d
+--start 40482
+--sim-load-config machine=128

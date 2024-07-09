@@ -1,0 +1,5 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Strike.tzx.zip
+--tape-name "Strike.tzx"
+--tape-sum f2e05a39f02f8c3173b1e82a1aa8bc4e
+--start 32765
+--sim-load-config machine=128

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030578/EscapeFromTheMenInWhiteCoats.tap.zip
+--tape-name "EscapeFromTheMenInWhiteCoats.tap"
+--tape-sum 582899ef3fae938e003d84d39a370124
+--start 1343
+--sim-load-config finish-tape=1

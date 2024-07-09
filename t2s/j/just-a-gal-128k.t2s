@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035160/JustAGal.tap.zip
+--tape-name "justagal.tap"
+--tape-sum c4b43575b3107c839127c3601867dc17
+--start 24576
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042126/ArrowRun.tap.zip
+--tape-name "ArrowRun.tap"
+--tape-sum ade1ee1dd2b434d4865b6bad39581c9c
+--start 32000
+--sim-load-config machine=128

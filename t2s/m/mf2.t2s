@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030583/MF2.tap.zip
+--tape-name "MF2.tap"
+--tape-sum 1c1319a876b6d977d96935c893ef478c
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

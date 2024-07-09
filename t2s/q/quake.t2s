@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030591/Quake.tap.zip
+--tape-name "Quake.tap"
+--tape-sum 1dbe3d8e28f56e8dbb964f5f1a713d08
+--start 1343
+--sim-load-config finish-tape=1

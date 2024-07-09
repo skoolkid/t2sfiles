@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030573/CoinTossSimulator.tap.zip
+--tape-name "CoinTossSimulator.tap"
+--tape-sum 612c586a713deb130d4b3ac03bd2329f
+--start 1343
+--sim-load-config finish-tape=1

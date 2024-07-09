@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030603/UltimateIRC.tap.zip
+--tape-name "UltimateIRC.tap"
+--tape-sum db523cb171a0940359fa4bcdd8d9e656
+--start 1343
+--sim-load-config finish-tape=1

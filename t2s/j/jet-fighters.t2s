@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030581/JetFighters.tap.zip
+--tape-name "JetFighters.tap"
+--tape-sum 7cd216df117c5d365e4c07a0f912edd4
+--start 1343
+--sim-load-config finish-tape=1

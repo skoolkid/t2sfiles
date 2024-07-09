@@ -1,0 +1,5 @@
+https://worldofspectrum.net/pub/sinclair/games/a/Ares.tap.zip
+--tape-name "ARES.TAP"
+--tape-sum 116de895d6891e06af07a35a0b410815
+--start 65489
+--sim-load-config machine=128

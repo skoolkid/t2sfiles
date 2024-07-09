@@ -1,0 +1,5 @@
+https://worldofspectrum.net/pub/sinclair/games/g/GenghisKhan.tzx.zip
+--tape-name "Genghis Khan.tzx"
+--tape-sum aad9ce7954aa3c294d6953be2b6d59eb
+--start 65041
+--sim-load-config machine=128

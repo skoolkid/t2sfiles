@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043422/Banana-Trouble.tzx.zip
+--tape-name "Banana-Trouble.tzx"
+--tape-sum 77bf35242f2ec78a1eff325ddb1e3332
+--start 1343
+--sim-load-config finish-tape=1

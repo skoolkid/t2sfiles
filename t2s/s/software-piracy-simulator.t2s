@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030597/SoftwarePiracySimulator.tap.zip
+--tape-name "SoftwarePiracySimulator.tap"
+--tape-sum b16ee7f479c3c5f01c29f0f78afb15be
+--start 1343
+--sim-load-config finish-tape=1

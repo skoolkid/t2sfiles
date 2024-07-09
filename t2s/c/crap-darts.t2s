@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043391/CrapDarts.tap.zip
+--tape-name "CrapDarts.tap"
+--tape-sum f162eb7d6fad204676089c424a2d9d15
+--start 1343
+--tape-stop 3
+--sim-load-config finish-tape=1

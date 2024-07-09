@@ -1,5 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/games/n/NuclearTomatoes.tzx.zip
---tape-name "Nuclear Tomatoes.tzx"
---tape-sum 16a76e51fdaf8618528bd9fd7921c937
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0026932/NuclearTomatoes.tzx.zip
+--tape-name "NuclearTomatoes.tzx"
+--tape-sum 1706dddc9b8d7beb0528c9057cac5c7c
 --start 1343
 --sim-load-config finish-tape=1

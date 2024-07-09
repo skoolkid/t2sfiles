@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030582/MagicSquare.tap.zip
+--tape-name "MagicSquare.tap"
+--tape-sum 719f2b78a594c03b17774667343dae0c
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PulseWarrior.tzx.zip
+--tape-name "Pulse Warrior.tzx"
+--tape-sum a861172baa83f4b596b4fda1d7f6d94e
+--start 23316
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030594/SirCliveSinclair-EntrepreneurExtrordinaire.tap.zip
+--tape-name "SirCliveSinclair-EntrepreneurExtrordinaire.tap"
+--tape-sum 6705fd38f273b653b6475ee36d93833f
+--start 1343
+--sim-load-config finish-tape=1

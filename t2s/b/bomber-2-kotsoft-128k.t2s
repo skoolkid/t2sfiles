@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Bomber-2.tzx.zip
+--tape-name "bomber-2.tzx"
+--tape-sum 411f8f62603e216f647238a4a278583b
+--start 23316
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

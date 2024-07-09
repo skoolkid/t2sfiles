@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037649/Dark-LostPagesThe.tap.zip
+--tape-name "Dark-LostPagesThe.tap"
+--tape-sum 724b9c8267df7ac76cde6e700b8040cf
+--start 24526
+--sim-load-config machine=128

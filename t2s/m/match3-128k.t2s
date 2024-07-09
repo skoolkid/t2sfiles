@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039506/Match3.tap.zip
+--tape-name "Match3.tap"
+--tape-sum a32cab32207efabb6e1fbbb0b51e34b7
+--start 49152
+--sim-load-config machine=128

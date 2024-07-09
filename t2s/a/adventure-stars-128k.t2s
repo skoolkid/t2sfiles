@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042125/AdventureStars.tap.zip
+--tape-name "AdventureStars.tap"
+--tape-sum c7bc7f057ee03825a95b5c44dd591635
+--start 32000
+--sim-load-config machine=128

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030568/BackOfTheGrid-TheSinclairC5Simulator.tap.zip
+--tape-name "BackOfTheGrid-TheSinclairC5Simulator.tap"
+--tape-sum 4c692a672a80421e3f8c81ad9c27afba
+--start 1343
+--sim-load-config finish-tape=1

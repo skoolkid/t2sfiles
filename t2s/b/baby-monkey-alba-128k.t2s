@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0032153/BabyMonkeyAlba.tap.zip
+--tape-name "BabMonAlba.tap"
+--tape-sum 45a324c4acc2e28c510c6a81e512c6d5
+--start 25511
+--sim-load-config machine=128

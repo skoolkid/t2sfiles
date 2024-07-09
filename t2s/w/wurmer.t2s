@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030607/Wurmer.tap.zip
+--tape-name "Wurmer.tap"
+--tape-sum 6d3bf0c12050b43da5f8d4678324135b
+--start 1343
+--sim-load-config finish-tape=1

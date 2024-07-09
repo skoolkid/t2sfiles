@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043363/Weltenbummler.tzx.zip
+--tape-name "Weltenbummler.tzx"
+--tape-sum 72522fa7c8fb4b6d25155ff0030e71ff
+--start 1343
+--sim-load-config finish-tape=1

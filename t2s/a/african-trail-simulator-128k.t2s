@@ -1,0 +1,5 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AfricanTrailSimulator.tzx.zip
+--tape-name "African Trail Simulator.tzx"
+--tape-sum 1944f0003768ead25ea7d16698459fe4
+--start 65041
+--sim-load-config machine=128

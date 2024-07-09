@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034345/Inertia.tap.zip
+--tape-name "inertia.tap"
+--tape-sum d30ba27c3feb0c3f2eca6120c79e959e
+--start 24576
+--sim-load-config machine=128

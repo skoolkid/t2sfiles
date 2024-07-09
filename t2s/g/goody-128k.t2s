@@ -1,0 +1,5 @@
+https://worldofspectrum.net/pub/sinclair/games/g/Goody.tzx.zip
+--tape-name "Goody.tzx"
+--tape-sum 5e2dc8690cdaf3a19ae6b706c4a4694d
+--start 65051
+--sim-load-config machine=128

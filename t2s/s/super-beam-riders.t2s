@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030599/SuperBeamRiders.tap.zip
+--tape-name "SuperBeamRiders.tap"
+--tape-sum bfd8f56d7a8fd35d35f344fb919ca2b9
+--start 1343
+--sim-load-config finish-tape=1

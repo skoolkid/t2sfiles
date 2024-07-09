@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030586/OffMyEd.tap.zip
+--tape-name "OffMyEd.tap"
+--tape-sum 4cc8c30e77f2659462a100dabc2cf66f
+--start 1343
+--sim-load-config finish-tape=1

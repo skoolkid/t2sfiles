@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/j/JaiAlai.tzx.zip
+--tape-name "Jai Alai.tzx"
+--tape-sum d31fea7901fb210be29b8147545dc932
+--start 64535
+--sim-load-config machine=128
+--sim-load-config accelerator=rom

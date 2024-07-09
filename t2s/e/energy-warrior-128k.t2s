@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/e/EnergyWarrior.tap.zip
+--tape-name "ENERGY_W.TAP"
+--tape-sum b8048712b32c807d115d24ab13ea18cf
+--start 27392
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

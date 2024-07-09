@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043361/Letters.tzx.zip
+--tape-name "Letters.tzx"
+--tape-sum ffd728342b9ce0c68efe8653f7899da9
+--start 1343
+--sim-load-config finish-tape=1
