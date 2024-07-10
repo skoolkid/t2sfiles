@@ -1,0 +1,5 @@
+https://worldofspectrum.net/pub/sinclair/games/u/Ulises.tzx.zip
+--tape-name "Ulises.tzx"
+--tape-sum 8c080a09bd35b8ba7fecbcc3d685637e
+--start 64532
+--sim-load-config machine=128

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MountainBikeRacer.tap.zip
+--tape-name "Mountain Bike Racer (Positive).tap"
+--tape-sum 62eb65432cccdc928ed23fc1a32be2fa
+--start 64041
+--tape-stop 7
+--sim-load-config machine=128

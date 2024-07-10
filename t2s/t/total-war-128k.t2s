@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TotalWar.tap.zip
+--tape-name "Total War.tap"
+--tape-sum 2afa496fc8a76c0745a532f3d442e415
+--start 24200
+--sim-load-config machine=128
+--sim-load-config 'load=DOWN ENTER usr0 ENTER LOAD "" PC=1541'

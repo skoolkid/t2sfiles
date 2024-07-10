@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0002486/LosInhumanos.tap.zip
+--tape-name "Los Inhumanos.tap"
+--tape-sum 052c1052bceaea6e9c2581dcc6402abd
+--start 23786
+--tape-start 5
+--tape-stop 9
+--sim-load-config machine=128
