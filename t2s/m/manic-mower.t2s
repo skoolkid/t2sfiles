@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0003024/ManicMower.tzx.zip
+--tape-name "ManicMower.tzx"
+--tape-sum 1d3b55fb2a1fda48d9a817723361f88c
+--start 1343
+--sim-load-config finish-tape=1

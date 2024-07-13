@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043467/GrooveLou.tap.zip
+--tape-name "GrooveLou.tap"
+--tape-sum 66ac658589b86d60466eea7e545ca200
+--start 1343
+--sim-load-config finish-tape=1

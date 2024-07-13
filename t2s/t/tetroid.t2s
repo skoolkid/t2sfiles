@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0005216/Tetroid.tzx.zip
+--tape-name "Tetroid.tzx"
+--tape-sum 66d1acf154de128797ba01be3af6a845
+--start 39928
+--sim-load-config accelerator=rom

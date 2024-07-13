@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016917/MonteEl.tzx.zip
+--tape-name "MonteEl.tzx"
+--tape-sum ee2862a18ed9e14ed95eb489b85d7dc1
+--start 1343
+--sim-load-config finish-tape=1

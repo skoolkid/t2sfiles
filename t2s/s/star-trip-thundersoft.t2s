@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0012123/StarTrip.tzx.zip
+--tape-name "StarTrip.tzx"
+--tape-sum 4f3fa5f010ca01dccfcfbdc2d806cb32
+--start 16396
+--sim-load-config accelerator=bleepload

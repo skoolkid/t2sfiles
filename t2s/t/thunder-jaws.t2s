@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0005252/ThunderJaws.tzx.zip
+--tape-name "ThunderJaws.tzx"
+--tape-sum 3231a1c25574aa795956c3d59fea99ba
+--start 1343
+--sim-load-config finish-tape=1

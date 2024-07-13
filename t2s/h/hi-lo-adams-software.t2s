@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043465/Hi-Lo.tzx.zip
+--tape-name "Hi-Lo.tzx"
+--tape-sum 4a6766ab70cb92f758d0b1c7a65fd7a1
+--start 1343
+--sim-load-config finish-tape=1

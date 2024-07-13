@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0003467/Nous.tzx.zip
+--tape-name "Nous.tzx"
+--tape-sum 108fc12b9ea6f7c9f77d1080124c0796
+--start 16396
+--sim-load-config accelerator=bleepload

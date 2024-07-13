@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043468/Gusano.tap.zip
+--tape-name "Gusano.tap"
+--tape-sum 4413bc82f53048333d9903f7b4622d26
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016915/Meteoritos.tzx.zip
+--tape-name "Meteoritos.tzx"
+--tape-sum 36d38337bbe705b4bc732b69ceaab88d
+--start 1343
+--sim-load-config finish-tape=1

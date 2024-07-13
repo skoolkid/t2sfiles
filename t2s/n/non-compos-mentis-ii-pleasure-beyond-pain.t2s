@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0003453/NonComposMentisII-PleasureBeyondPain.tzx.zip
+--tape-name "NonComposMentisII-PleasureBeyondPain.tzx"
+--tape-sum be15c96878e6dc4429e1d90b73210913
+--start 27928
+--sim-load-config accelerator=rom

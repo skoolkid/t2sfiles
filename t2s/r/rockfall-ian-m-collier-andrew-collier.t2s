@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0004212/Rockfall.tzx.zip
+--tape-name "Rockfall.tzx"
+--tape-sum 4fcdcf77d77fd6585b9b5a3b05d69887
+--start 1343
+--sim-load-config finish-tape=1

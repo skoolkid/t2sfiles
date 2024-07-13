@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0011718/FreakyFooty.tzx.zip
+--tape-name "FreakyFooty.tzx"
+--tape-sum 25b84263422a4a747ac0422d3836a85a
+--start 16396
+--sim-load-config accelerator=bleepload

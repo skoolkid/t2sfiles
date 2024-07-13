@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038041/Frutti.tzx.zip
+--tape-name "Frutti.tzx"
+--tape-sum 346a5b6e300c1ddfd41f34e7e58f8cdd
+--start 1343
+--sim-load-config finish-tape=1

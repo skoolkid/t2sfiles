@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042236/Snare.tzx.zip
+--tape-name "Snare.tzx"
+--tape-sum 632b24bcb233de5ea08bda288f8978af
+--start 16396
+--sim-load-config accelerator=bleepload

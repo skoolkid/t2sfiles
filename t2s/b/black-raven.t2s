@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0012757/BlackRaven.tzx.zip
+--tape-name "BlackRaven.tzx"
+--tape-sum 761ac3654f825665690266c1b260705a
+--start 20707
+--sim-load-config machine=128
+--sim-load-config accelerator=rom

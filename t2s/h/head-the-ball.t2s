@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0002262/HeadTheBall.tzx.zip
+--tape-name "HeadTheBall.tzx"
+--tape-sum a77d9afac9a34acaf362a487e5dbc166
+--start 16396
+--sim-load-config accelerator=bleepload

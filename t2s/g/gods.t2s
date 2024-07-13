@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0002075/Gods.tzx.zip
+--tape-name "Gods.tzx"
+--tape-sum b3517a5cda060bbb5268e9efb32a0a07
+--start 1343
+--sim-load-config finish-tape=1

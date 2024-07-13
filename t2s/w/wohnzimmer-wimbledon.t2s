@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037223/Wohnzimmer-Wimbledon.tzx.zip
+--tape-name "Wohnzimmer-Wimbledon.tzx"
+--tape-sum fcaa65412e5a8d68ea6385b578588bce
+--start 1343
+--sim-load-config finish-tape=1

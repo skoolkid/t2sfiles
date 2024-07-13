@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0001079/CosmicChaos.tzx.zip
+--tape-name "CosmicChaos.tzx"
+--tape-sum 1254393d640cd65e4b661c9933833e04
+--start 60000
+--sim-load-config finish-tape=1

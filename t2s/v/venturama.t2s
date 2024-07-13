@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0005555/Venturama.tzx.zip
+--tape-name "Venturama.tzx"
+--tape-sum ee28345d8a6ce84dbcc28b6eda9b9cb3
+--start 24465
+--sim-load-config accelerator=rom
