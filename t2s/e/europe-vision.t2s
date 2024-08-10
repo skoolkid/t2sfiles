@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030628/EuropeVision.tap.zip
+--tape-name "EuropeVision.tap"
+--tape-sum c687131eeec5b29d22c1e3fc7554a00e
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038044/CrashSimulator.tzx.zip
+--tape-name "CrashSimulator.tzx"
+--tape-sum 5f51395d81ebdc45fe391d4e02a8dcc8
+--start 1343
+--sim-load-config finish-tape=1

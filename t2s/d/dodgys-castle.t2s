@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030622/DodgysCastle.tzx.zip
+--tape-name "DodgysCastle.tzx"
+--tape-sum 72038a1f64880433465f9399048e77a6
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030620/CurseOfTheSandwitch.tap.zip
+--tape-name "CurseOfTheSandwitch.tap"
+--tape-sum 2658ca4b8269a28708920513c31b1fbd
+--start 1343
+--tape-stop 5
+--sim-load-config finish-tape=1

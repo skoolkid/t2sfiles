@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030616/ChemistryTest.tap.zip
+--tape-name "ChemistryTest.tap"
+--tape-sum fcc065a3c15928ff1f17541416821270
+--start 1343
+--sim-load-config finish-tape=1

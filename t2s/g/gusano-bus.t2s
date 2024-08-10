@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0017050/Gusano-Bus.tzx.zip
+--tape-name "Gusano-Bus.tzx"
+--tape-sum 040e04c15f614d13d2791e4a2ca5196d
+--start 1343
+--sim-load-config finish-tape=1

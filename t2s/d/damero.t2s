@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0017060/Damero.tzx.zip
+--tape-name "Damero.tzx"
+--tape-sum 023ab1427c93ee79ad7866c85b4574f4
+--start 1343
+--sim-load-config finish-tape=1

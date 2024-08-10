@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0017059/Celestino.tzx.zip
+--tape-name "Celestino.tzx"
+--tape-sum 5c81d4204b03a007ff8a1cbddb63d3a4
+--start 1343
+--sim-load-config finish-tape=1

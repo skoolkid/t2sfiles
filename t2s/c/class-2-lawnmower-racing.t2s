@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030618/Class2LawnmowerRacing.tap.zip
+--tape-name "Class2LawnmowerRacing.tap"
+--tape-sum 66bf77c253c7192c9813a5d5dec9e5a5
+--start 1343
+--sim-load-config finish-tape=1

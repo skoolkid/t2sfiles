@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030644/Sentences.tap.zip
+--tape-name "Sentences.tap"
+--tape-sum 972a1bdbe26b861a78b352b987b2b264
+--start 1343
+--sim-load-config finish-tape=1

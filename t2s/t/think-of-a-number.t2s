@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030649/ThinkOfANumber.tap.zip
+--tape-name "ThinkOfANumber.tap"
+--tape-sum 305298937349d11e927f4828af1400e7
+--start 1343
+--sim-load-config finish-tape=1

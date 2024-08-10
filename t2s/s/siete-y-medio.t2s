@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0017049/SieteYMedio.tzx.zip
+--tape-name "SieteYMedio.tzx"
+--tape-sum 729addf51d9dce759116de7968acc28d
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030614/ArklayFC.tzx.zip
+--tape-name "ArklayFC.tzx"
+--tape-sum e7c0f52701903e7609ea4f03a68e09a5
+--start 1343
+--sim-load-config finish-tape=1

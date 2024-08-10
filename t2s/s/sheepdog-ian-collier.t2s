@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030645/Sheepdog.tap.zip
+--tape-name "Sheepdog.tap"
+--tape-sum a60f559806a134253ec0289c0f273e78
+--start 1343
+--sim-load-config finish-tape=1

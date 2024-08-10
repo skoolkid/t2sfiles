@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030609/Aberdeen.tzx.zip
+--tape-name "Aberdeen.tzx"
+--tape-sum 765fe1aa4e6de98ab3f7c0da1b7bd3fc
+--start 1343
+--sim-load-config finish-tape=1

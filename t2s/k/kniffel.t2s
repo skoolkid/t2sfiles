@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0002714/Kniffel.tap.zip
+--tape-name "Kniffel.tap"
+--tape-sum 292879d0691ac67b58f7c53f62a4c210
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

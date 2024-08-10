@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0002549/Irrgarten3D.tap.zip
+--tape-name "Irrgarten3D.tap"
+--tape-sum 86d5db313f42b6f52bc3eafb23db09dc
+--start 1343
+--tape-stop 3
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030486/ShootThatTank.tap.zip
+--tape-name "ShootThatTank.tap"
+--tape-sum 923fa0ea762c449df887cb2781516fc8
+--start 1343
+--sim-load-config finish-tape=1

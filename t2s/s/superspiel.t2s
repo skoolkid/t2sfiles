@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038042/Superspiel.tap.zip
+--tape-name "Superspiel.tap"
+--tape-sum 23a1824ab8f85a6cda6817e6ba831ec7
+--start 1343
+--sim-load-config finish-tape=1

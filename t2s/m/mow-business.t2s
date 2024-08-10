@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030635/MowBusiness.tzx.zip
+--tape-name "MowBusiness.tzx"
+--tape-sum bd4ebecd861d9f013babb0bdd9e37c7e
+--start 1343
+--sim-load-config finish-tape=1

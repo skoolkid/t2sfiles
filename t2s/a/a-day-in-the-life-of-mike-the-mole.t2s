@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030621/DayInTheLifeOfMikeTheMoleA.tzx.zip
+--tape-name "DayInTheLifeOfMikeTheMoleA.tzx"
+--tape-sum af54a922d450a56bac2c29009e79c10c
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030630/ForgottenVillage.tap.zip
+--tape-name "ForgottenVillage.tap"
+--tape-sum f228e3882b2f0a608d5cc85486fbb953
+--start 1343
+--tape-stop 7
+--sim-load-config finish-tape=1

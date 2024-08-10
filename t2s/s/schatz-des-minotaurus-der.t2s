@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0010162/SchatzDesMinotaurusDer.tap.zip
+--tape-name "SchatzDesMinotaurusDer.tap"
+--tape-sum ce0542f96a2bd261185aae425aa1f098
+--start 1343
+--sim-load-config finish-tape=1

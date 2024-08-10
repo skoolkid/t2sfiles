@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0017052/GranBingo.tzx.zip
+--tape-name "GranBingo.tzx"
+--tape-sum aa598e1793e3f5749dc04cafed25d657
+--start 1343
+--sim-load-config finish-tape=1

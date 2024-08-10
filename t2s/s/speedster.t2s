@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0019183/Speedster.tzx.zip
+--tape-name "Speedster.tzx"
+--tape-sum 6018067a8c63c54d1c2392ede73babfc
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'
