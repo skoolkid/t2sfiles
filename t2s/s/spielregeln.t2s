@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043303/Spielregeln.tzx.zip
+--tape-name "Spielregeln.tzx"
+--tape-sum 2b60582d69cdc94d8ef8604216f4f25c
+--start 1343
+--sim-load-config finish-tape=1

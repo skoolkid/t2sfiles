@@ -1,5 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/games/m/Murder_3.tzx.zip
---tape-name "MURDER.TZX"
---tape-sum 6d773410779e4356bb81222593667424
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0006719/Murder.tzx.zip
+--tape-name "Murder.tzx"
+--tape-sum 13f5ecffe34ae552c8aee228af47b781
 --start 1343
 --sim-load-config finish-tape=1

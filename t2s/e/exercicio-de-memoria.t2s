@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043568/ExercicioDeMemoria.tap.zip
+--tape-name "ExercicioDeMemoria.tap"
+--tape-sum c8ef56043e6509acf4455bc54d447696
+--start 1343
+--sim-load-config finish-tape=1

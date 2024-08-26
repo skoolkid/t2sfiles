@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043491/Destroyer.tzx.zip
+--tape-name "Destroyer.tzx"
+--tape-sum b8f6ac6d3a04b9801da354b104329a93
+--start 1343
+--sim-load-config finish-tape=1

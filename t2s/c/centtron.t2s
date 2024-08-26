@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043488/Centtron.tzx.zip
+--tape-name "Centtron.tzx"
+--tape-sum 2374ba00471c413072c6616d5afdc289
+--start 1343
+--sim-load-config finish-tape=1

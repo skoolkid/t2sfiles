@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043570/AssaltoAoCastelo.tap.zip
+--tape-name "AssaltoAoCastelo.tap"
+--tape-sum f51892533c6b96679bd5c6bb76c6d9fe
+--start 1343
+--sim-load-config finish-tape=1

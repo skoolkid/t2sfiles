@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043571/BabyFruits.tap.zip
+--tape-name "BabyFruits.tap"
+--tape-sum e211dc64e322e301838fb7b7935f1283
+--start 1343
+--sim-load-config finish-tape=1

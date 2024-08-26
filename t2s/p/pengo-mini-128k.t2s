@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043503/PengoMini.tap.zip
+--tape-name "PengoMini.tap"
+--tape-sum f3294502034763c924c2bc1631d72d64
+--start 23760
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

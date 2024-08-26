@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043490/HountedMaze.tap.zip
+--tape-name "HountedMaze.tap"
+--tape-sum 2e2deae726f2887691b462ab415685f2
+--start 1343
+--sim-load-config finish-tape=1

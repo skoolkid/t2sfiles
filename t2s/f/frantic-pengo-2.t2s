@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043572/FranticPengo2.tap.zip
+--tape-name "FranticPengo2.tap"
+--tape-sum 5356fa344a1803292a026beebeda417a
+--start 23760
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

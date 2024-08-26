@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043569/DinheiroFacil.tap.zip
+--tape-name "DinheiroFacil.tap"
+--tape-sum d5c6cdd34a333103694003428c290617
+--start 1343
+--sim-load-config finish-tape=1

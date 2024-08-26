@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040165/Sunfall.tzx.zip
+--tape-name "Sunfall.tzx"
+--tape-sum 5262f217ad09bd82c9cb7d6fe6931de4
+--start 1343
+--sim-load-config finish-tape=1

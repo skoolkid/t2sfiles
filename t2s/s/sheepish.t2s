@@ -1,5 +1,5 @@
 https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043030/Sheepish.tap.zip
 --tape-name "Sheepish.tap"
---tape-sum 2574ad2b39a2132b6ca0ab4357ad7a2e
+--tape-sum 7f01280f11ad43b7a2a2149054931e1b
 --start 32000
 --sim-load-config machine=128
