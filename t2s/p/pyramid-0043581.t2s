@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043581/Pyramid(BUGFIX).tzx.zip
+--tape-name "Pyramid(BUGFIX).tzx"
+--tape-sum 4f9e946b88e25a78edf2a91fe8f26728
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043574/SwearyHangman.tzx.zip
+--tape-name "SwearyHangman.tzx"
+--tape-sum f8ca2830ab94e15461a6e4a80b841432
+--start 1343
+--sim-load-config accelerator=rom
+--sim-load-config finish-tape=1

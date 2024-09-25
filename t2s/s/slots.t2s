@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043582/Slots(BUGFIX).tap.zip
+--tape-name "Slots(BUGFIX).tap"
+--tape-sum 099022c5617317b81744546d317cc885
+--start 1343
+--sim-load-config finish-tape=1

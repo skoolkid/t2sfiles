@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043602/MadSpace.tzx.zip
+--tape-name "MadSpace.tzx"
+--tape-sum b102e151fbd2ff21d198be68d586d171
+--start 1343
+--sim-load-config finish-tape=1

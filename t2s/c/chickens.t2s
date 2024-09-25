@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043579/Chickens.tzx.zip
+--tape-name "Chickens.tzx"
+--tape-sum b05ad4204d1d75b3edfde442909caeb3
+--start 1343
+--sim-load-config finish-tape=1

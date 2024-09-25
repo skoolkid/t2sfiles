@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043578/Balls_2.tzx.zip
+--tape-name "Balls_2.tzx"
+--tape-sum 1d59566a4a1f70fd5a5dd936e65b3894
+--start 1343
+--tape-stop 8
+--sim-load-config finish-tape=1

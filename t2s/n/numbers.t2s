@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043580/Numbers.tzx.zip
+--tape-name "Numbers.tzx"
+--tape-sum 0c66e323b86078e5405e2970434cfa35
+--start 1343
+--tape-stop 8
+--sim-load-config finish-tape=1

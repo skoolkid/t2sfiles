@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043585/IvritD.tzx.zip
+--tape-name "IvritD.tzx"
+--tape-sum e0fed90f94f2f02563fc405dd030d8ea
+--start 1343
+--sim-load-config finish-tape=1

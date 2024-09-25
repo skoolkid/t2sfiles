@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043576/VegetableStock.tap.zip
+--tape-name "VegetableStock.tap"
+--tape-sum 3f91be2948c3c830fa586fd9049a1a2f
+--start 1343
+--sim-load-config finish-tape=1

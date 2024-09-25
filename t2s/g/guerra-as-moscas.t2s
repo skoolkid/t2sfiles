@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043587/GuerraAsMoscas.tap.zip
+--tape-name "GuerraAsMoscas.tap"
+--tape-sum 103f48c94533df21fb7d65644062c766
+--start 1343
+--sim-load-config finish-tape=1

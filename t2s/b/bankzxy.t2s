@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043610/BankZXy.tap.zip
+--tape-name "BankZXy.tap"
+--tape-sum 0446d4aaad3efc07207ea3c2e96f95e2
+--start 1343
+--sim-load-config finish-tape=1
