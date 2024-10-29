@@ -1,6 +1,0 @@
-https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037303/RivalGangsEXT(Demo).tzx.zip
---tape-name "RivalGangsEXT(Demo).tzx"
---tape-sum ab7a16ed73e6e9b969190f0bcf0ca5c1
---start 25275
---sim-load-config machine=128
---sim-load-config accelerator=rom
