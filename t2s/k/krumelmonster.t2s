@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037190/Krumelmonster.tzx.zip
+--tape-name "Krumelmonster.tzx"
+--tape-sum 45dff722e7f6494cec62d663b0925925
+--start 1343
+--tape-start 8
+--sim-load-config 'load=CLEAR 44999: LOAD "" CODE 50008: LOAD "" CODE 65368: LOAD "" CODE 45000: LOAD ""'
+--sim-load-config finish-tape=1

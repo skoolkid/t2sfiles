@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039615/MoneyMan.tzx.zip
+--tape-name "MoneyMan.tzx"
+--tape-sum 48cd79022fd32e1a1eefa636d4fb5384
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

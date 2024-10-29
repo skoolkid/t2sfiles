@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043658/KuBernd.tzx.zip
+--tape-name "KuBernd.tzx"
+--tape-sum 12ead61d2a0dcfdf8faa6f41187255f3
+--start 1343
+--sim-load-config finish-tape=1

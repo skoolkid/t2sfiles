@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043634/Valve.tap.zip
+--tape-name "Valve.tap"
+--tape-sum 4eccf4ee66cea69e0f503abdcee317f6
+--start 1343
+--sim-load-config finish-tape=1

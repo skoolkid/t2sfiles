@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042615/SavagePrincess2.tap.zip
+--tape-name "SavagePrincess2.tap"
+--tape-sum 72dfbf288a247b0f39af0d820b010711
+--start 24803
+--sim-load-config machine=128

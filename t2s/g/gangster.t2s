@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039586/Gangster.tzx.zip
+--tape-name "Gangster.tzx"
+--tape-sum b4b16467b3f93fcff7aed5a670916246
+--start 1343
+--sim-load-config finish-tape=1

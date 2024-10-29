@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037020/Pyramide.tzx.zip
+--tape-name "Pyramide.tzx"
+--tape-sum 2241546221e420ed11142d70c1b1c341
+--start 1343
+--sim-load-config finish-tape=1

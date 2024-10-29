@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043625/Microloto.tap.zip
+--tape-name "Microloto.tap"
+--tape-sum 27440e16f11cda80662f511f993936dc
+--start 1343
+--sim-load-config finish-tape=1

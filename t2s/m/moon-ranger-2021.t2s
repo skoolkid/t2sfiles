@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043631/MoonRanger2021.tap.zip
+--tape-name "MoonRanger2021.tap"
+--tape-sum cfc2e929f651aea1172d778302371a02
+--start 32000
+--sim-load-config machine=128

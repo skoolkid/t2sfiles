@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037127/Darts.tzx.zip
+--tape-name "Darts.tzx"
+--tape-sum d9ba3c9dc1f7d687bdf7cb524c2c5903
+--start 1343
+--tape-start 8
+--sim-load-config 'load=CLEAR 39999: LOAD "" CODE 50000: LOAD "" CODE 65368: LOAD "" CODE 40000: LOAD ""'
+--sim-load-config finish-tape=1

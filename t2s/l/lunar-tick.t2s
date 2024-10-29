@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043641/LunarTick.tap.zip
+--tape-name "LunarTick.tap"
+--tape-sum 2dbbeb3484c049280e3b16c8e9b811e8
+--start 1343
+--sim-load-config finish-tape=1

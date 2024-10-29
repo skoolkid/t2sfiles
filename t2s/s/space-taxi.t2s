@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043635/SpaceTaxi.tap.zip
+--tape-name "SpaceTaxi.tap"
+--tape-sum 5b4419d0f7b8e7d6c483f89e94f82573
+--start 1343
+--sim-load-config finish-tape=1

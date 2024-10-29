@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043655/ZXnake.tap.zip
+--tape-name "ZXnake.tap"
+--tape-sum ed08d71f81fa6ab49f1b718e7c9ff1f8
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043673/Zarick.tzx.zip
+--tape-name "Zarick.tzx"
+--tape-sum 5d606fe1c676dd38413accd610761534
+--start 1343
+--sim-load-config finish-tape=1

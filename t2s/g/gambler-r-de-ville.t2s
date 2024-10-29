@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039616/Gambler.tzx.zip
+--tape-name "Gambler.tzx"
+--tape-sum e53b6d3b1167aedfd54c5a5fabbacfe6
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037035/Libelle.tzx.zip
+--tape-name "Libelle.tzx"
+--tape-sum b296373ed67fab7dcfa1fc5023a14139
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043672/VolbaVrazdy.tzx.zip
+--tape-name "VolbaVrazdy.tzx"
+--tape-sum 69959853f5467db6eff7e8f1e462614d
+--start 1343
+--sim-load-config finish-tape=1

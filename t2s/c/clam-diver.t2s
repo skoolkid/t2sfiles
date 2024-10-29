@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043669/ClamDiver.tap.zip
+--tape-name "ClamDiver.tap"
+--tape-sum c4a03a9c92fdcd1bae250ce5d1d7ca80
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

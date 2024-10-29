@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043623/ZXSpektrumFlipper.tzx.zip
+--tape-name "ZXSpektrumFlipper.tzx"
+--tape-sum 1f836f234af0647ff2676a0716ac1f9e
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037017/SpielkisteDie.tzx.zip
+--tape-name "SpielkisteDie.tzx"
+--tape-sum 292c6d71bba06ddc79851c3f69cb3cd8
+--start 1343
+--sim-load-config finish-tape=1

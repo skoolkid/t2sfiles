@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043455/ZX-ArgertMich.tzx.zip
+--tape-name "ZX-ArgertMich.tzx"
+--tape-sum e75513e6aeec2b606f4338ff515b828e
+--start 1343
+--sim-load-config finish-tape=1

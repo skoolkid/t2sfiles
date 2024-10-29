@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037022/Superhirn.tzx.zip
+--tape-name "Superhirn.tzx"
+--tape-sum b56987043f575d9c559ee3194ba65959
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043645/Promodo.tzx.zip
+--tape-name "Promodo.tzx"
+--tape-sum a74da6a05f28c1e4818265829cea6827
+--start 1343
+--sim-load-config finish-tape=1
