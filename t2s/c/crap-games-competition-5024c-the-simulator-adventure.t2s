@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043711/CrapGamesCompetition5024c-TheSimulatorAdventure.tap.zip
+--tape-name "CrapGamesCompetition5024c-TheSimulatorAdventure.tap"
+--tape-sum 15654b4201c033608ed976e21e3371f8
+--start 1343
+--sim-load-config finish-tape=1

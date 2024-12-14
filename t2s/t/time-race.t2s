@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037153/Time-Race.tzx.zip
+--tape-name "Time-Race.tzx"
+--tape-sum 7ad39392522bd86dd39098a6d88eff1e
+--start 1343
+--sim-load-config finish-tape=1

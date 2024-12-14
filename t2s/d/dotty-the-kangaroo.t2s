@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040761/DottyTheKangaroo.tap.zip
+--tape-name "DottyTheKangaroo.tap"
+--tape-sum 0b625c72042295b841e7787fdc8d43a6
+--start 1343
+--sim-load-config finish-tape=1

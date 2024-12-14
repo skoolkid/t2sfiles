@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043687/Patos.tap.zip
+--tape-name "Patos.tap"
+--tape-sum 1fe388ca5c1b60bfe231bda09ebbf65f
+--start 1343
+--sim-load-config finish-tape=1

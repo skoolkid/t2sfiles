@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037160/BoulderProDash.tzx.zip
+--tape-name "BoulderProDash.tzx"
+--tape-sum 9d9f2e27e211e5743e24526b0be35486
+--start 1343
+--sim-load-config finish-tape=1

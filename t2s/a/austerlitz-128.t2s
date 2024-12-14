@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/a/Austerlitz128(MCLothlorienLtd).tzx.zip
+--tape-name "Battle Of Austerlitz - 128k.tzx"
+--tape-sum 56ee3f1bdfbf3db33a7674b23faccd6d
+--start 23316
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

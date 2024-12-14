@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037140/Roulette.tzx.zip
+--tape-name "Roulette.tzx"
+--tape-sum f1c1506f0a41b5034c79ed9cf8bc3db4
+--start 1343
+--sim-load-config finish-tape=1

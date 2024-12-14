@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043730/Holzchenspiel.tzx.zip
+--tape-name "Holzchenspiel.tzx"
+--tape-sum a00ac5a7d0513564cb8079d0b4e1776c
+--start 1343
+--sim-load-config finish-tape=1

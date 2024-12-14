@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037156/Life.tap.zip
+--tape-name "Life.tap"
+--tape-sum 91ceaffe84537dfda34989b082eca399
+--start 1343
+--sim-load-config finish-tape=1

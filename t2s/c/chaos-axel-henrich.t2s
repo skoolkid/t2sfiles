@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037158/Chaos.tzx.zip
+--tape-name "Chaos.tzx"
+--tape-sum fca072543e7b8d39c51082e5eb9ae8a9
+--start 1343
+--sim-load-config finish-tape=1

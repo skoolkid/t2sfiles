@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043709/JIMEnglish.tap.zip
+--tape-name "JIMEnglish.tap"
+--tape-sum a3c83042c07418684e1a4c0d53b3696a
+--start 1343
+--sim-load-config finish-tape=1

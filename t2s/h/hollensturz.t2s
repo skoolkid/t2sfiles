@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043696/Hollensturz.tzx.zip
+--tape-name "Hollensturz.tzx"
+--tape-sum 22f1f0397198ad3f82778ffc74b06883
+--start 1343
+--sim-load-config finish-tape=1

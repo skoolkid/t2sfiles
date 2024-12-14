@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043751/Telepatia.tap.zip
+--tape-name "Telepatia.tap"
+--tape-sum cf67c80aac7d7173874155c5529f864a
+--start 1343
+--sim-load-config finish-tape=1

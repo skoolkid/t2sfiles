@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043732/Knobelkiste.tzx.zip
+--tape-name "Knobelkiste.tzx"
+--tape-sum 192721e0ea792a193221218d470e9c06
+--start 1343
+--sim-load-config finish-tape=1
