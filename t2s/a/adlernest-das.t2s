@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043765/AdlernestDas.tzx.zip
+--tape-name "AdlernestDas.tzx"
+--tape-sum fe69f4af9eb8aa8b52faed3574f640a6
+--start 1343
+--sim-load-config finish-tape=1

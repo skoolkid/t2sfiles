@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0041350/SausageServer.tzx.zip
+--tape-name "SausageServer.tzx"
+--tape-sum edaec8620ffea7e230ce13a7982c04ac
+--start 1343
+--sim-load-config finish-tape=1

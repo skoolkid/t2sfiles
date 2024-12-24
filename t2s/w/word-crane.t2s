@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043790/WordCrane.tzx.zip
+--tape-name "WordCrane.tzx"
+--tape-sum 20a0be8a9db3b20a141aaf6dfce52368
+--start 1343
+--sim-load-config finish-tape=1

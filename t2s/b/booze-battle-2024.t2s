@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043776/BoozeBattle2024.tap.zip
+--tape-name "BoozeBattle2024.tap"
+--tape-sum a506289e9667290597f76bbed1c2238d
+--start 1343
+--tape-stop 5
+--sim-load-config finish-tape=1

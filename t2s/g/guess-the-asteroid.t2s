@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043758/GuessTheAsteroid.tap.zip
+--tape-name "GuessTheAsteroid.tap"
+--tape-sum d132ab67f8eed278ac5a778d24e4f92b
+--start 1343
+--sim-load-config finish-tape=1

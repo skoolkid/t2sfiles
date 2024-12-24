@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043771/Cattivik2024(Demo).tap.zip
+--tape-name "Cattivik2024(Demo).tap"
+--tape-sum af07cdc38a19bb0e0f1e537f5c580c90
+--start 32000
+--sim-load-config machine=128

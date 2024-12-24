@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0027781/FatFrumos.tap.zip
+--tape-name "FatFrumos.tap"
+--tape-sum d4ef479517630403f5405dab9fe9f4e9
+--start 16404
+--sim-load-config accelerator=rom

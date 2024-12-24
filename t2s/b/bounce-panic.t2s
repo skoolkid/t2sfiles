@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0000652/BouncePanic.tzx.zip
+--tape-name "BouncePanic.tzx"
+--tape-sum b0d57174eaab133fba216738d14e06fb
+--start 1343
+--sim-load-config finish-tape=1

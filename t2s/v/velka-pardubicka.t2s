@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043786/VelkaPardubicka.tap.zip
+--tape-name "VelkaPardubicka.tap"
+--tape-sum 886e4cf212deb692b59e0409f517e0bd
+--start 1343
+--sim-load-config finish-tape=1

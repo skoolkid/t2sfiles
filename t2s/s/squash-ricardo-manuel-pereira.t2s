@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043783/Squash.tap.zip
+--tape-name "Squash.tap"
+--tape-sum 33eed45d8ff07e9f158e3d1dff6ee72d
+--start 1343
+--sim-load-config finish-tape=1

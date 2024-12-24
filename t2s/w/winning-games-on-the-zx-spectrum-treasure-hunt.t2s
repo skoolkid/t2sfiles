@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0014637/WinningGamesOnTheZXSpectrum(sideA).tzx.zip
+--tape-name "WinningGamesOnTheZXSpectrum(sideA).tzx"
+--tape-sum f425a95043c4ec409d247bc35147fe3d
+--start 1343
+--tape-start 20
+--tape-stop 26
+--sim-load-config finish-tape=1

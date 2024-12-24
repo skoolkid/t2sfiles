@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043756/Orientacao.tap.zip
+--tape-name "Orientacao.tap"
+--tape-sum 1ce7162cb76bbfaf81d30271ddae4a8a
+--start 1343
+--sim-load-config finish-tape=1

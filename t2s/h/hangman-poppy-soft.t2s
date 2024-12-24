@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0009814/Hangman.tzx.zip
+--tape-name "Hangman.tzx"
+--tape-sum 861174564c804edb4b0153df0dd12794
+--start 1343
+--sim-load-config finish-tape=1
