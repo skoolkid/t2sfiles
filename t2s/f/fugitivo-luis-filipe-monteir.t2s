@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043904/Fugitivo.tap.zip
+--tape-name "Fugitivo.tap"
+--tape-sum 78bdede1601f531eb15acb40602ca69f
+--start 1343
+--sim-load-config finish-tape=1

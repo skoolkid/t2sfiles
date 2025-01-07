@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0023656/DroneWar.tzx.zip
+--tape-name "DroneWar.tzx"
+--tape-sum 3caa712147c421d651cbb4858ed7f515
+--start 1343
+--sim-load-config finish-tape=1

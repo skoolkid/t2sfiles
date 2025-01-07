@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043900/Drip.tap.zip
+--tape-name "Drip.tap"
+--tape-sum 61f58831a1c6413969c7d52a7571acf0
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043868/JenseitsVonAndromeda.tzx.zip
+--tape-name "JenseitsVonAndromeda.tzx"
+--tape-sum af7dff9cf79c7750d8f65edcc5b09021
+--start 1343
+--sim-load-config finish-tape=1

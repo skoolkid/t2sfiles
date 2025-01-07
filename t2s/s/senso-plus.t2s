@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043869/SensoPlus.tap.zip
+--tape-name "SensoPlus.tap"
+--tape-sum 6bd2c528504641b1a04d9794c306acf8
+--start 1343
+--sim-load-config finish-tape=1

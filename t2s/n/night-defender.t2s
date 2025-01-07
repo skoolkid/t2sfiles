@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043914/NightDefender.tzx.zip
+--tape-name "NightDefender.tzx"
+--tape-sum b7201502dc5a99fc154a2b848ebf0800
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

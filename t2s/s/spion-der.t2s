@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043863/SpionDer.tzx.zip
+--tape-name "SpionDer.tzx"
+--tape-sum a403829e9332c34cfdefef13102d31f8
+--start 1343
+--sim-load-config finish-tape=1

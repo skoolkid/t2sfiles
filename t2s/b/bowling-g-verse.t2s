@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043892/Bowling.tap.zip
+--tape-name "Bowling.tap"
+--tape-sum 497018b8c47baf8c510c2d286a205ee5
+--start 1343
+--sim-load-config finish-tape=1

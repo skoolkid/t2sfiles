@@ -1,0 +1,8 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035839/MiniStocks128K(sideA).tzx.zip
+--tape-name "MiniStocks128K(sideA).tzx"
+--tape-sum 4422a14610a5e81ee3e788685a1496b5
+--start 23316
+--sim-load-config machine=128
+--tape-start 5
+--tape-stop 25
+--sim-load-config finish-tape=1

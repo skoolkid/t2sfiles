@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043899/LragonsDair.tap.zip
+--tape-name "LragonsDair.tap"
+--tape-sum 427cf5e54f3ef6d31ddadefcfaa3d7c2
+--start 1343
+--sim-load-config finish-tape=1

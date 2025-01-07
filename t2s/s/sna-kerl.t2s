@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043898/SnaKERL.tap.zip
+--tape-name "SnaKERL.tap"
+--tape-sum a914d4a9275505ae1971c5f4885e5f53
+--start 1343
+--sim-load-config finish-tape=1

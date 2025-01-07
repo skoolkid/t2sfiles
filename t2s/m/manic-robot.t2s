@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043901/ManicRobot.tap.zip
+--tape-name "ManicRobot.tap"
+--tape-sum d79264d7bb40c09c603ab79066267123
+--start 1343
+--sim-load-config finish-tape=1

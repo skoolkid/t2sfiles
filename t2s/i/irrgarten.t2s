@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043890/Irrgarten.tzx.zip
+--tape-name "Irrgarten.tzx"
+--tape-sum 80b4c9306972c2f21faefaa4be110c58
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

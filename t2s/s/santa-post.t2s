@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039726/Santa-Post.tzx.zip
+--tape-name "Santa-Post.tzx"
+--tape-sum 403c45728e01291aaf23064d9b2f68c0
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0010387/Weichi84(sideA).tzx.zip
+--tape-name "Weichi84(sideA).tzx"
+--tape-sum 331c7d4506f0be6c4f235f77ff9b783f
+--start 1343
+--sim-load-config finish-tape=1
