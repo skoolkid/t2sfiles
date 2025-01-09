@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043906/DigiTapeOne(sideB).tzx.zip
+--tape-name "DigiTapeOne(sideB).tzx"
+--tape-sum f77d3a199a73e962683e2bd1c390eb2f
+--start 1343
+--sim-load-config finish-tape=1
