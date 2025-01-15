@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/l/Logo-PartI.tap.zip
+--tape-name "LOGO.TAP"
+--tape-sum d246b91f9732539661c68e09027be1b6
+--start 24500
+--sim-load-config machine=128
+--sim-load-config 'load=DOWN DOWN DOWN ENTER LOAD "" PC=1541'
