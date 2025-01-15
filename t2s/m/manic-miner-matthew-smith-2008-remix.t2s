@@ -2,5 +2,4 @@ https://worldofspectrum.net/pub/sinclair/games/j/JetSetWilly64-FlashManicMiner.t
 --tape-name "MMMS2008/MMMS2008.TAP"
 --tape-sum 8b590729fe8b2e9bf01c56be93887676
 --start 1343
---sim-load-config machine=128
 --sim-load-config finish-tape=1
