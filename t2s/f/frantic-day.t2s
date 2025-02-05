@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024902/FranticDay_2.tap.zip
+--tape-name "FranticDay_2.tap"
+--tape-sum 47a495a065ac645d5e1d7ab2b880fb99
+--start 1343
+--sim-load-config finish-tape=1

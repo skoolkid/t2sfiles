@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043919/Heartlight.tzx.zip
+--tape-name "Heartlight.tzx"
+--tape-sum 65751468193f11ff394a88e4d904dd94
+--start 32768
+--sim-load-config machine=128

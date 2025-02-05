@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043948/Silvestr2024.tap.zip
+--tape-name "Silvestr2024.tap"
+--tape-sum f460c8482786b2077a434f653e39a05f
+--start 1343
+--sim-load-config finish-tape=1

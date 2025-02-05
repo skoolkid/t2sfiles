@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043916/SantasFactory.tap.zip
+--tape-name "SantasFactory.tap"
+--tape-sum 1a54eed3442636c8559abc9d904faa2f
+--start 24451
+--sim-load-config machine=128

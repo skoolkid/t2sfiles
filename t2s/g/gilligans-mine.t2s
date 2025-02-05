@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043959/GilligansMine.tap.zip
+--tape-name "GilligansMine.tap"
+--tape-sum a32dceb5d692acda43796f560427571d
+--start 24216
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

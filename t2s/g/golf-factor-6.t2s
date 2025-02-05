@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043961/Golf.tap.zip
+--tape-name "Golf.tap"
+--tape-sum e2476053a6bdc23bc17042ff7d073624
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

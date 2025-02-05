@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043918/GolfDash.tap.zip
+--tape-name "GolfDash.tap"
+--tape-sum d23b76bdaed7309bcee68e416fc6f152
+--start 53248
+--sim-load-config accelerator=rom

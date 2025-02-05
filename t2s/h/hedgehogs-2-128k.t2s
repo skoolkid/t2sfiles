@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043967/Hedgehogs2.tap.zip
+--tape-name "Hedgehogs2.tap"
+--tape-sum f17f54ce3217b223b8d8891b5e17f6e9
+--start 25509
+--sim-load-config machine=128

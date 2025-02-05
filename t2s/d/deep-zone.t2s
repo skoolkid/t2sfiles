@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043306/DeepZone(SideA).tzx.zip
+--tape-name "DeepZone(SideA).tzx"
+--tape-sum fa9df958f27b0694c1cae81669b329de
+--start 43536
+--sim-load-config accelerator=rom

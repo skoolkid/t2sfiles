@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043940/Vanoce2024.tap.zip
+--tape-name "Vanoce2024.tap"
+--tape-sum 2c3364fa360916aeab2ffc5ac8ded317
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043924/Demon-Driver.tzx.zip
+--tape-name "Demon-Driver.tzx"
+--tape-sum c643c612d15f74798636f26187ddb7b7
+--start 1343
+--sim-load-config finish-tape=1

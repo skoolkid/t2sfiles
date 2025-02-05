@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043893/DarkDaggerThe(EN)(Part1).tap.zip
+--tape-name "DarkDaggerThe(EN)(Part1).tap"
+--tape-sum 1a583224b29d8967f13877176de324c3
+--start 23946
+--sim-load-config machine=128
+--sim-load-config finish-tape=1
