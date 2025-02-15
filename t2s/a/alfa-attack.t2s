@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040757/AlfaAttack.tap.zip
+--tape-name "AlfaAttack.tap"
+--tape-sum 9232d8831f4480d61bbffc62fba19e40
+--start 1343
+--sim-load-config finish-tape=1

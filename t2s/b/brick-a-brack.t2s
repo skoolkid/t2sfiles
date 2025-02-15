@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040956/Brick-a-Brack.tap.zip
+--tape-name "Brick-a-Brack.tap"
+--tape-sum 4ac38ddf0942f6d7dbb3a6cd5d311bee
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

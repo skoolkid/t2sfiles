@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040495/Docker.tap.zip
+--tape-name "Docker.tap"
+--tape-sum fad44188dd914001eb3cd973e7cb06ca
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

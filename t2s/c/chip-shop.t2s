@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0041359/ChipShop.tap.zip
+--tape-name "ChipShop.tap"
+--tape-sum 1c494209ddd183ff10d7712c7c973292
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044006/Invasion.tap.zip
+--tape-name "Invasion.tap"
+--tape-sum 9340a0c78711cb6a947633c5d640bd1a
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

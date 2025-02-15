@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044002/Iceberg.tap.zip
+--tape-name "Iceberg.tap"
+--tape-sum f33f767a9843883a2708cb8c4b8f22f8
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

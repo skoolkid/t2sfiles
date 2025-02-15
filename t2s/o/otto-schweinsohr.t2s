@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043859/OttoSchweinsohr.tap.zip
+--tape-name "OttoSchweinsohr.tap"
+--tape-sum 3b6af11f4076e4f0af04a065546d390e
+--start 1343
+--sim-load-config finish-tape=1

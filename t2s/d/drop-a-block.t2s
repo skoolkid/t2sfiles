@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040588/DropABlock.tap.zip
+--tape-name "DropABlock.tap"
+--tape-sum bb583e98b1ea59641479cea11ac562a3
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

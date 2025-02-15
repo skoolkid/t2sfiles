@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040556/Charlie.tap.zip
+--tape-name "Charlie.tap"
+--tape-sum 0a9abdd535e4dfc7f32a2f1d98b56b87
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

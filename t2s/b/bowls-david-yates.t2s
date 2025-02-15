@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040570/Bowls.tzx.zip
+--tape-name "Bowls.tzx"
+--tape-sum 4b4d580d796d2347f9a93b223d7e215a
+--start 1343
+--sim-load-config finish-tape=1

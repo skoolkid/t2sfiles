@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0041016/ForestMaze.tap.zip
+--tape-name "ForestMaze.tap"
+--tape-sum 7fb31b21d44c06124a436ddb597a845c
+--start 1343
+--sim-load-config finish-tape=1

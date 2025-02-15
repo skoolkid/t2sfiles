@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040519/ChipRaid.tap.zip
+--tape-name "ChipRaid.tap"
+--tape-sum 92335483dafc3adc54683f94414fa49b
+--start 1343
+--sim-load-config finish-tape=1

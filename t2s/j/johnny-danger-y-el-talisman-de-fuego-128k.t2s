@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043748/JohnnyDangerYElTalismanDeFuego.tap.zip
+--tape-name "JohnnyDangerYElTalismanDeFuego.tap"
+--tape-sum b659283de43b899444d001fb436d5f4a
+--start 24000
+--sim-load-config machine=128

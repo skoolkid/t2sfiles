@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037567/BeatTheBarrage.tap.zip
+--tape-name "BeatTheBarrage.tap"
+--tape-sum a1365cee417ef987eff284369fe50cc7
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0041341/Hearts.tap.zip
+--tape-name "Hearts.tap"
+--tape-sum e6ccd3486d1053b5a5cdfec6b4f75637
+--start 1343
+--sim-load-config finish-tape=1

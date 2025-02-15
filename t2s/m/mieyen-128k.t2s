@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044022/Mieyen.tzx.zip
+--tape-name "Mieyen.tzx"
+--tape-sum 92335b4c705a2ce51bfd591abd2db859
+--start 24576
+--sim-load-config machine=128

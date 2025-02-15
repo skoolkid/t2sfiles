@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0041393/ClydeTheCaveman.tap.zip
+--tape-name "ClydeTheCaveman.tap"
+--tape-sum f723bfc9b2db810053274c6ce68948c6
+--start 1343
+--sim-load-config finish-tape=1

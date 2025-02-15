@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0041349/AssemblyLine.tap.zip
+--tape-name "AssemblyLine.tap"
+--tape-sum 76416dbcddc7ea4b3a7eae9a4491d94b
+--start 1343
+--sim-load-config 'load=LOAD "": RUN'
+--tape-stop 5
+--sim-load-config finish-tape=1

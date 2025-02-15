@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042559/EarthDefense.tap.zip
+--tape-name "EarthDefense.tap"
+--tape-sum de7935917cd89af68524944f553ba2c2
+--start 1343
+--sim-load-config finish-tape=1
+--ram poke=24074,234 ; Replace STOP in line 5 with REM

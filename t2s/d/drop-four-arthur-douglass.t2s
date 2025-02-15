@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043815/DropFour.tap.zip
+--tape-name "DropFour.tap"
+--tape-sum 4381c8a8514fd35c6004fe4dab417bcc
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

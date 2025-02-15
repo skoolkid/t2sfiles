@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044014/Ladders.tap.zip
+--tape-name "Ladders.tap"
+--tape-sum 8fed8cc97d78c8fd5c3a7272a71d53eb
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043963/PanikSam.tap.zip
+--tape-name "PanikSam.tap"
+--tape-sum c5d71e6c98e571814d2a275f00c06357
+--start 1343
+--sim-load-config finish-tape=1

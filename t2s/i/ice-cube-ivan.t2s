@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0041357/IceCubeIvan.tzx.zip
+--tape-name "IceCubeIvan.tzx"
+--tape-sum 9ded363ed7dad9647bf0bf5e3bd26f20
+--start 1343
+--sim-load-config finish-tape=1

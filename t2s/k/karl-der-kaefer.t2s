@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043858/KarlDerKaefer.tzx.zip
+--tape-name "KarlDerKaefer.tzx"
+--tape-sum 8ba4746c9075357cb87c863e1c0439c7
+--start 1343
+--sim-load-config finish-tape=1

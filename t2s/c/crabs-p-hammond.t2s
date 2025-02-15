@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0041323/Crabs.tap.zip
+--tape-name "Crabs.tap"
+--tape-sum fda244b4de1153dfc2247715d60a8722
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

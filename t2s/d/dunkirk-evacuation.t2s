@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037598/DunkirkEvacuation.tap.zip
+--tape-name "DunkirkEvacuation.tap"
+--tape-sum 3bca78c0b88a8557abb9645fa2840c81
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

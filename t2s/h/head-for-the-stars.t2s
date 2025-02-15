@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044000/HeadForTheStars.tap.zip
+--tape-name "HeadForTheStars.tap"
+--tape-sum 6682cddea84e8b9c7ab9e26a3ccd1a89
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

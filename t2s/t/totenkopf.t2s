@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043854/Totenkopf.tap.zip
+--tape-name "Totenkopf.tap"
+--tape-sum 2ba4e1b2664627bc205022ecd03172fe
+--start 1343
+--sim-load-config finish-tape=1

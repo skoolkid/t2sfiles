@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043833/Crash.tap.zip
+--tape-name "Crash.tap"
+--tape-sum b99ea5ca96d856b5d42bb45a4b350d96
+--start 1343
+--sim-load-config finish-tape=1

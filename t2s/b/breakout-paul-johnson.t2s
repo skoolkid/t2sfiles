@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0041384/Breakout.tap.zip
+--tape-name "Breakout.tap"
+--tape-sum 7de48139eb149ebb6dc80ded7c3b5896
+--start 1343
+--sim-load-config finish-tape=1

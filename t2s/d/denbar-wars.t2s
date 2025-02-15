@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037595/DenbarWars.tap.zip
+--tape-name "DenbarWars.tap"
+--tape-sum 7594537fffcdcab8a0f4dcd7c4968ccf
+--start 1343
+--sim-load-config finish-tape=1

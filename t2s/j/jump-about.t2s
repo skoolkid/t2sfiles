@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0014510/JumpAbout.tap.zip
+--tape-name "JumpAbout.tap"
+--tape-sum 36351af23b22b909ae24e935528e7a80
+--start 1343
+--sim-load-config finish-tape=1

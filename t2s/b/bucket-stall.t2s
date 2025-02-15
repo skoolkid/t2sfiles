@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043793/BucketStall.tzx.zip
+--tape-name "BucketStall.tzx"
+--tape-sum fa2a208af5ebbe37eaf47d7ce9193def
+--start 1343
+--sim-load-config finish-tape=1

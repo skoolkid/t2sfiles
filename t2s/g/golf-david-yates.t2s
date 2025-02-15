@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040569/Golf.tzx.zip
+--tape-name "Golf.tzx"
+--tape-sum fb105c2d1f2ba852974009f432a7414c
+--start 1343
+--sim-load-config finish-tape=1

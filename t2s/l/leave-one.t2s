@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037603/Leave-One.tap.zip
+--tape-name "Leave-One.tap"
+--tape-sum 84398a7111267c341c30f400af60fb63
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

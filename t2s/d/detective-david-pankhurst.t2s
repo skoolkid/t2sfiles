@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0041313/Detective.tap.zip
+--tape-name "Detective.tap"
+--tape-sum 3be58ffa0fb3118613d4ef47ac95e50d
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

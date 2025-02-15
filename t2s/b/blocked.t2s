@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040762/Blocked.tap.zip
+--tape-name "Blocked.tap"
+--tape-sum 9f2f41581844e2a7df016dd86b70bd3c
+--start 1343
+--sim-load-config finish-tape=1

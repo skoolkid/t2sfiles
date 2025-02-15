@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0009502/Astrocode.tzx.zip
+--tape-name "Astrocode.tzx"
+--tape-sum 25bcd313873ba464ca10068c68765fc1
+--start 1343
+--sim-load-config finish-tape=1

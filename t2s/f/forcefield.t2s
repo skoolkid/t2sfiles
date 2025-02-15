@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037597/Forcefield.tap.zip
+--tape-name "Forcefield.tap"
+--tape-sum c58c18258203326fcecd120fb801edc6
+--start 1343
+--sim-load-config finish-tape=1

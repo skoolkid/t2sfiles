@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044028/SuperZXRallyGame.tap.zip
+--tape-name "SuperZXRallyGame.tap"
+--tape-sum 2df1e3503accfbb31ea3d65da3f326f9
+--start 1343
+--sim-load-config finish-tape=1

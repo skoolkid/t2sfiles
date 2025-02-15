@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0041396/ArcticExplorer.tap.zip
+--tape-name "ArcticExplorer.tap"
+--tape-sum 80c25936ab85b23c3604c906bc9bf5bf
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

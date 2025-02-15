@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043809/DepthCharge.tap.zip
+--tape-name "DepthCharge.tap"
+--tape-sum 44806eb89efc7c741f2f7425da65eb24
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

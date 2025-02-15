@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0041320/DinosaurMuncher.tap.zip
+--tape-name "DinosaurMuncher.tap"
+--tape-sum 5b3e88fe00037b9220e5761e50d07126
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044021/RonRocOColmeeiro.tap.zip
+--tape-name "RonRocOColmeeiro.tap"
+--tape-sum d7164191f1cf0562bb7fb57c97dfbbb0
+--start 1343
+--sim-load-config finish-tape=1

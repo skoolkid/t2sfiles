@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040763/Cockpit.tap.zip
+--tape-name "Cockpit.tap"
+--tape-sum 213a694f64e3935cf39c112b31eba0bc
+--start 1343
+--sim-load-config finish-tape=1

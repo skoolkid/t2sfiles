@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043839/BongoBeecatcher.tzx.zip
+--tape-name "BongoBeecatcher.tzx"
+--tape-sum f60cc229cf9f7b3ad1b3864f5a16c88b
+--start 1343
+--sim-load-config finish-tape=1

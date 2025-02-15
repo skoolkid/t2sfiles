@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040563/DesperateDescent.tap.zip
+--tape-name "DesperateDescent.tap"
+--tape-sum 4af0562a06ffab60ef92c4ba24002445
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

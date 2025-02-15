@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044023/Slalom.tap.zip
+--tape-name "Slalom.tap"
+--tape-sum 33ff985d5e6ebb1ebad6c603b25430ec
+--start 1343
+--sim-load-config finish-tape=1

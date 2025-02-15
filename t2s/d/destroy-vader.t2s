@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040496/DestroyVader.tap.zip
+--tape-name "DestroyVader.tap"
+--tape-sum 7bdacdb040ee0e35ffdc2a8e6706d671
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

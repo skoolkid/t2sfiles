@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040533/FireChief.tap.zip
+--tape-name "FireChief.tap"
+--tape-sum 50667f144a5378d41c34bd8d4f9f25ca
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

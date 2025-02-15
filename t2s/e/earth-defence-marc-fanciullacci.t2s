@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043818/EarthDefence.tap.zip
+--tape-name "EarthDefence.tap"
+--tape-sum deecc3d418c4fce06355493d1965441e
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

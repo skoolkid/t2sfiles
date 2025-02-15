@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040997/IcabodTheFrog.tap.zip
+--tape-name "IcabodTheFrog.tap"
+--tape-sum 50f4dfced34528d6b9461569051774d7
+--start 1343
+--sim-load-config finish-tape=1

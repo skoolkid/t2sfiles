@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043935/TuermeVonHanoi.tap.zip
+--tape-name "TuermeVonHanoi.tap"
+--tape-sum 171656d519620e9edfea12a655a1e6d2
+--start 1343
+--sim-load-config finish-tape=1

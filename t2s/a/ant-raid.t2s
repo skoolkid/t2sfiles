@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0041160/AntRaid.tap.zip
+--tape-name "AntRaid.tap"
+--tape-sum 87679bfa1a76f361ad92875c7b29fb65
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

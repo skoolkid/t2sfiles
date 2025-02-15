@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040746/Harvest.tap.zip
+--tape-name "Harvest.tap"
+--tape-sum 1408290846bac6f864a600517c934c5d
+--start 1343
+--sim-load-config finish-tape=1

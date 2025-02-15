@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040577/GalacticAmbulance.tzx.zip
+--tape-name "GalacticAmbulance.tzx"
+--tape-sum 3952eea41096475a2326333f2d94c762
+--start 1343
+--sim-load-config finish-tape=1

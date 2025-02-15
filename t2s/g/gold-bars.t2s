@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040767/GoldBars.tap.zip
+--tape-name "GoldBars.tap"
+--tape-sum 9b91cd1316c8765a18977a86bb6de8bd
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

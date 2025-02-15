@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0041394/HarryAndTheCarCrusher.tap.zip
+--tape-name "HarryAndTheCarCrusher.tap"
+--tape-sum 832c2e43a7235779d8bb521a0e9f0608
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

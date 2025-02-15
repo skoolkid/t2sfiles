@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040574/HallOfTheSpiders.tzx.zip
+--tape-name "HallOfTheSpiders.tzx"
+--tape-sum 69e746a75b55eb4d992c8d5c0a5cd734
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044018/HoraceGoesFishing.tap.zip
+--tape-name "HoraceGoesFishing.tap"
+--tape-sum 786bf4bdb1b3d70e77c476d55e442d22
+--start 1343
+--sim-load-config finish-tape=1

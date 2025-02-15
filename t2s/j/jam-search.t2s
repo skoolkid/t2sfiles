@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040992/JamSearch.tap.zip
+--tape-name "JamSearch.tap"
+--tape-sum 3249a9fe23bbc6e2d5f40172c522d94d
+--start 1343
+--sim-load-config finish-tape=1

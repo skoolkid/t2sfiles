@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0041391/Alert.tap.zip
+--tape-name "Alert.tap"
+--tape-sum da51cea7f7e3dc4517725b5e4cf45af7
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040516/CarPark.tap.zip
+--tape-name "CarPark.tap"
+--tape-sum 4e4719f85bb82e432eb05ef668193d72
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

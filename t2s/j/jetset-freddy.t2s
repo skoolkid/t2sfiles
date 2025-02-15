@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0009864/Jetset-Freddy.tap.zip
+--tape-name "Jetset-Freddy.tap"
+--tape-sum fad4eac7d267e1eb86773b068d9bdb2e
+--start 1343
+--sim-load-config finish-tape=1

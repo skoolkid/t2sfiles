@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043845/OilPanic.tap.zip
+--tape-name "OilPanic.tap"
+--tape-sum fb8ef150102482a7372928fa1499b4d7
+--start 1343
+--sim-load-config finish-tape=1

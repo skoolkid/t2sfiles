@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0041326/DalekRaid.tap.zip
+--tape-name "DalekRaid.tap"
+--tape-sum c6fc203c84945a5b413a4218ba4e9f17
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

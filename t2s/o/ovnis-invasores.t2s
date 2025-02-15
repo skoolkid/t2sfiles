@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039380/OvnisInvasores.tap.zip
+--tape-name "OvnisInvasores.tap"
+--tape-sum 3b59a854cf9a1ff0bb0628d97158179a
+--start 1343
+--sim-load-config finish-tape=1

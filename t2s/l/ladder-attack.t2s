@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0041311/LadderAttack.tap.zip
+--tape-name "LadderAttack.tap"
+--tape-sum 0cf3fadc73dad59b2d5b9de4448b2dc2
+--start 1343
+--sim-load-config finish-tape=1

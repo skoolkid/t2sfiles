@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040957/GuidedMissile.tap.zip
+--tape-name "GuidedMissile.tap"
+--tape-sum 2712eec4ad4b054f3ccd0da673d5739a
+--start 1343
+--tape-stop 3
+--sim-load-config finish-tape=1

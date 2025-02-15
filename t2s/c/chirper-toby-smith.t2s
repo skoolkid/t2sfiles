@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0041330/Chirper.tap.zip
+--tape-name "Chirper.tap"
+--tape-sum 2bcb9693a3b0a129c02beff304281879
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

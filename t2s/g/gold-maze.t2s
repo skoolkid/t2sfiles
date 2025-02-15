@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040544/GoldMaze.tap.zip
+--tape-name "GoldMaze.tap"
+--tape-sum c124d9523c79bd4508a8959f91464fd6
+--start 1343
+--tape-stop 5
+--sim-load-config finish-tape=1

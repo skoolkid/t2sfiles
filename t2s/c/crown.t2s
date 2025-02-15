@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043934/Crown.tap.zip
+--tape-name "Crown.tap"
+--tape-sum 71cf12331878684935120f22cb5fa3bb
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040996/GhostMonster.tap.zip
+--tape-name "GhostMonster.tap"
+--tape-sum 27a62cbc082c69b0dadb4023ade5314e
+--start 1343
+--sim-load-config finish-tape=1

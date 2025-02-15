@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040977/ChopperControl.tap.zip
+--tape-name "ChopperControl.tap"
+--tape-sum f0423a331c810ba8353ca7a10a3c7841
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

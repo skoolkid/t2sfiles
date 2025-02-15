@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040868/Clearance.tap.zip
+--tape-name "Clearance.tap"
+--tape-sum c54198820b6783a540d09337407836a5
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

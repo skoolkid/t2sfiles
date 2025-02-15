@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044020/Morra.tzx.zip
+--tape-name "Morra.tzx"
+--tape-sum 4fd8e1cf563016238c53563e9461b431
+--start 1343
+--sim-load-config finish-tape=1

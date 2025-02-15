@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043774/Superslalom.tap.zip
+--tape-name "Superslalom.tap"
+--tape-sum 6efc8b24cbffb6c2215e832ad0ca9abb
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040955/Hard-Lines.tap.zip
+--tape-name "Hard-Lines.tap"
+--tape-sum 4cf799d57c506bd1b322319ced58dc08
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

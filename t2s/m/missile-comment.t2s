@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043831/MissileComment.tap.zip
+--tape-name "MissileComment.tap"
+--tape-sum 7bb2365e76ae4e29208a7897fe8bab34
+--start 1343
+--sim-load-config finish-tape=1

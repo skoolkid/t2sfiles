@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040510/HarrietDodgesTheSpiders.tap.zip
+--tape-name "HarrietDodgesTheSpiders.tap"
+--tape-sum 0ac144e05e03b86911f778231d2f30af
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

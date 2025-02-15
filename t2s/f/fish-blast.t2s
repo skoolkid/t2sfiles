@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040579/FishBlast.tzx.zip
+--tape-name "FishBlast.tzx"
+--tape-sum 9dca61c6a897928d8317e2f9c7735414
+--start 1343
+--sim-load-config finish-tape=1

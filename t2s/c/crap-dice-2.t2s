@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043975/CrapDice2.tap.zip
+--tape-name "CrapDice2.tap"
+--tape-sum fe8d21f0fa59648eb15d864ad3399d1a
+--start 1343
+--sim-load-config finish-tape=1

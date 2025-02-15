@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040747/LetterBox.tap.zip
+--tape-name "LetterBox.tap"
+--tape-sum 377a3e07042baa9e2ea606cd3a791d90
+--start 1343
+--sim-load-config finish-tape=1

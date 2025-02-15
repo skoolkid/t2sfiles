@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040576/LeapFrog.tzx.zip
+--tape-name "LeapFrog.tzx"
+--tape-sum 3ef81f9fdc314432d7b5020092009558
+--start 1343
+--sim-load-config finish-tape=1

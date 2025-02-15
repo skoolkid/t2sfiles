@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043860/CarCrash.tzx.zip
+--tape-name "CarCrash.tzx"
+--tape-sum 240f3f52b33b6f176579066b06911b9a
+--start 1343
+--sim-load-config finish-tape=1

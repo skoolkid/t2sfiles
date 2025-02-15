@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040925/BeetleRun.tap.zip
+--tape-name "BeetleRun.tap"
+--tape-sum b64b8a39ee109aebcb63b011d0a076c4
+--start 1343
+--sim-load-config finish-tape=1

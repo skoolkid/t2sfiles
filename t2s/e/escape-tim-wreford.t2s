@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040532/Escape.tap.zip
+--tape-name "Escape.tap"
+--tape-sum 6e46e04ff0f4b5b7777e1ff54f4051a3
+--start 1343
+--sim-load-config finish-tape=1

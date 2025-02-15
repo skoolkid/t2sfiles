@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044001/Hurkle.tap.zip
+--tape-name "Hurkle.tap"
+--tape-sum be2082bcffda7d1d636cbc4ac5c218ad
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

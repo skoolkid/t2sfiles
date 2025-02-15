@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0041336/LaserTrail.tap.zip
+--tape-name "LaserTrail.tap"
+--tape-sum 7a13cb00250f9fccabcc60ddeb9fc1a6
+--start 1343
+--sim-load-config finish-tape=1

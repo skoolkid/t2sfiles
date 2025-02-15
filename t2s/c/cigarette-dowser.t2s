@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040749/CigaretteDowser.tap.zip
+--tape-name "CigaretteDowser.tap"
+--tape-sum bfa1b8d1923819082ea1d3dfc6df521e
+--start 1343
+--sim-load-config finish-tape=1

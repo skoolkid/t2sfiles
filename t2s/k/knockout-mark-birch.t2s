@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040487/Knockout.tap.zip
+--tape-name "Knockout.tap"
+--tape-sum 0146b53b39b156f78dbd7c41b0df2ffd
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037566/LethalLandscape.tap.zip
+--tape-name "LethalLandscape.tap"
+--tape-sum 615db8cbb5052d87e0b0351794d0c24b
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

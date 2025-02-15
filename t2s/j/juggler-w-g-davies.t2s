@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044009/Juggler.tap.zip
+--tape-name "Juggler.tap"
+--tape-sum 98b60c36fef2a138f368f47da90dc21c
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

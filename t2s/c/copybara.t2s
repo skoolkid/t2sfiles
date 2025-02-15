@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043984/Copybara.tzx.zip
+--tape-name "Copybara.tzx"
+--tape-sum f8b41ad51ed2aebd391da500872c5b62
+--start 1343
+--sim-load-config finish-tape=1

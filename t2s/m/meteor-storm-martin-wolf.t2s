@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043938/Meteor-Storm.tap.zip
+--tape-name "Meteor-Storm.tap"
+--tape-sum 1557c89119879666e9c415209baf985f
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0041037/Fifty.tap.zip
+--tape-name "Fifty.tap"
+--tape-sum a403694465f4d531de1c274e8219f545
+--start 1343
+--sim-load-config finish-tape=1

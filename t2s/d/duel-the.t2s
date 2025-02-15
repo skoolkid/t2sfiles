@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043817/DuelThe.tap.zip
+--tape-name "DuelThe.tap"
+--tape-sum 382f1497bf75f98782dc8f2f10a2b586
+--start 27000
+--sim-load-config 'load=LOAD "": RUN'
+--tape-stop 5

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043822/Excalibur.tap.zip
+--tape-name "Excalibur.tap"
+--tape-sum 3b76dcdd71a8cab0ad31d137c5d7e87d
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'
