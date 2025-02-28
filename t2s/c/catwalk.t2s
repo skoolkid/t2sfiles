@@ -2,4 +2,4 @@ https://worldofspectrum.net/pub/sinclair/games/c/Catwalk.tzx.zip
 --tape-name "Cat Walk.tzx"
 --tape-sum 4cd77adfe90c84d387925811d93c8676
 --start 27392
---sim-load-config accelerator=rom,bleepload
+--sim-load-config accelerator=bleepload
