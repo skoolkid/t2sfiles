@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044035/USRoute66.tap.zip
+--tape-name "USRoute66.tap"
+--tape-sum ca7688e83016b65983a71e7dbc94aaca
+--start 1343
+--sim-load-config finish-tape=1

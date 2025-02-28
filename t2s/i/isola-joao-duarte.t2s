@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044045/Isola.tap.zip
+--tape-name "Isola.tap"
+--tape-sum 98ba59374d3a56c83a36f3400707a42e
+--start 1343
+--sim-load-config finish-tape=1

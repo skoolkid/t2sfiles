@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044043/Lift.tap.zip
+--tape-name "Lift.tap"
+--tape-sum a96c4ed3505b7d722a491f8777267224
+--start 1343
+--sim-load-config finish-tape=1

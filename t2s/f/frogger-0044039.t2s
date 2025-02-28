@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044039/Frogger(48K).tap.zip
+--tape-name "Frogger(48K).tap"
+--tape-sum bb8debae10ecf9ecd35179f4c70bc99b
+--start 1343
+--sim-load-config finish-tape=1

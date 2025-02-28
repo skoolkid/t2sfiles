@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044059/CRPLetter.tap.zip
+--tape-name "CRPLetter.tap"
+--tape-sum 8b249d6ac2ce712b142b211fc353ad24
+--start 1343
+--sim-load-config finish-tape=1

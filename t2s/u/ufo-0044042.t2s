@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044042/UFO.tap.zip
+--tape-name "UFO.tap"
+--tape-sum 9575c6cbbb0283cd2e1da744a1bea790
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044057/Ganymede.tap.zip
+--tape-name "Ganymede.tap"
+--tape-sum fc7e2f2faf0a67a9c51626128b51c8c2
+--start 1343
+--sim-load-config finish-tape=1

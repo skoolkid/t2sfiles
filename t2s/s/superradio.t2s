@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044061/Superradio.tap.zip
+--tape-name "Superradio.tap"
+--tape-sum 91aa1e9bdbe1d1fd2542ec25b5acf134
+--start 1343
+--sim-load-config finish-tape=1

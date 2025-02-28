@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044063/Springer-Spiel.tap.zip
+--tape-name "Springer-Spiel.tap"
+--tape-sum c066275fe38b5b1eedcd0d54fecf782a
+--start 1343
+--sim-load-config finish-tape=1

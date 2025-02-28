@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044050/SteineSchieben.tap.zip
+--tape-name "SteineSchieben.tap"
+--tape-sum f21f99d8c54898b6cd6270229bcba4cf
+--start 1343
+--sim-load-config finish-tape=1

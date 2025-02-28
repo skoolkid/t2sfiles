@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044053/AirBattle.tap.zip
+--tape-name "AirBattle.tap"
+--tape-sum bb308f2e39e38a77d4f515efcdcd75fa
+--start 1343
+--sim-load-config finish-tape=1
