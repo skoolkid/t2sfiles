@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/c/CannonBubble.tzx.zip
 --tape-sum 01a218e6611ea70b4b73359b6001beea
 --start 48962
 --sim-load-config machine=128
---sim-load-config accelerator=tiny

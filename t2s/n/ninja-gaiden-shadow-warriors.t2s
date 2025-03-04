@@ -4,5 +4,4 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0032232/NinjaGaidenShadowW
 --start 24643
 --sim-load-config machine=128
 --tape-stop 8
---sim-load-config accelerator=rom
 --sim-load-config finish-tape=1

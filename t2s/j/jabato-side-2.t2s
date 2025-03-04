@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/j/Jabato.tzx.zip
 --tape-sum 37d47bed24246efc3402d67b78ce0a46
 --start 65009
 --tape-stop 370
---sim-load-config accelerator=dinaload

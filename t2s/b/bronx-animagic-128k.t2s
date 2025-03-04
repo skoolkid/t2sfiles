@@ -4,4 +4,3 @@ https://worldofspectrum.net/pub/sinclair/games/b/Bronx.tzx.zip
 --start 62040
 --sim-load-config machine=128
 --tape-stop 8
---sim-load-config accelerator=bleepload

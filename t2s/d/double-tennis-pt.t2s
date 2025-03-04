@@ -2,4 +2,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0001467/DoubleTennis(TopoS
 --tape-name "DoubleTennis(TopoSigloXXI)(PT).tzx"
 --tape-sum 9ad34750583efc89c3d16992c3b8922b
 --start 23900
---sim-load-config accelerator=speedlock

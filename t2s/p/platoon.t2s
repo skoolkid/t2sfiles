@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/p/Platoon48V1.tzx.zip
 --tape-sum 6f210c0d9e53f55b9b38ccae4b6c4873
 --start 25488
 --tape-stop 47
---sim-load-config accelerator=speedlock,bleepload

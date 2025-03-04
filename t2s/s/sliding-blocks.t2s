@@ -2,4 +2,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035325/SlidingBlocks.tap.
 --tape-name "Sliding.tap"
 --tape-sum 093357e68135d6931ab4bc6e3d90eea8
 --start 23904
---sim-load-config accelerator=rom

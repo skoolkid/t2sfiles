@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/s/SimCity.tzx.zip
 --tape-name "Sim City.tzx"
 --tape-sum e3b6d8c7eb51fe886626cfc602514a79
 --start 65210
---sim-load-config accelerator=speedlock

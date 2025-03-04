@@ -3,5 +3,4 @@ https://worldofspectrum.net/pub/sinclair/games/p/Pulsator.tzx.zip
 --tape-sum 0f553f361348463b404cbd087ba07e30
 --start 23296
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock
 --sim-load-config finish-tape=1

@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/w/Wildwater.tzx.zip
 --tape-sum 67716d65a23dae1d5dcc42e45b1860f5
 --start 44405
 --tape-stop 11
---sim-load-config accelerator=rom

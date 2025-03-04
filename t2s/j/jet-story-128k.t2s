@@ -3,4 +3,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0002612/Jet-Story(Ultrasof
 --tape-sum c72e0fd1c64d6aa8fce387e44a2ab1a0
 --start 32906
 --sim-load-config machine=128
---sim-load-config accelerator=rom,dinaload

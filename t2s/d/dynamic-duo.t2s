@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/d/DynamicDuo.tzx.zip
 --tape-name "Dynamic Duo.tzx"
 --tape-sum e31b91aec5aa91139e2816cd88e88b7c
 --start 23946
---sim-load-config accelerator=bleepload

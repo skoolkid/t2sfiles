@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/f/Flunky.tzx.zip
 --tape-name "FLUNKY.TZX"
 --tape-sum 992272b66aa0903f202af514c876114f
 --start 65140
---sim-load-config accelerator=sparklers

@@ -2,5 +2,4 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0027355/OcchioDelCondorPar
 --tape-name "OcchioDelCondorParte2-IlTempioL.tzx"
 --tape-sum f4a49bc30445ca919f35619e0f07c7da
 --start 48465
---sim-load-config accelerator=tiny
 --sim-load-config finish-tape=1

@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/e/Exterminator.tzx.zip
 --tape-sum 9ec8db9399b1d8c338a2c823c4c56a47
 --start 40960
 --sim-load-config machine=128
---sim-load-config accelerator=rom

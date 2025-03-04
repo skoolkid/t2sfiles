@@ -2,4 +2,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0005840/Zanthrax.tzx.zip
 --tape-name "Zanthrax.tzx"
 --tape-sum e1738c0610f24c5b851a615544052fc1
 --start 59492
---sim-load-config accelerator=paul-owens

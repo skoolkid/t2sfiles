@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/p/Podraz5.tap.zip
 --tape-sum 1d62ccb26dd12bf7581c4792dad680a4
 --start 1343
 --sim-load-config finish-tape=1
---sim-load-config accelerator=rom

@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/k/KnightRider.tzx.zip
 --tape-name "Knight Rider.tzx"
 --tape-sum 5b71f9b79b75ffae0a156b75423277e7
 --start 65423
---sim-load-config accelerator=speedlock

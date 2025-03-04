@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/l/LostCaves.tzx.zip
 --tape-sum 3c371ed795d91e57a9fe1b48ab4276a6
 --start 65188
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock

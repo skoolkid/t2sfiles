@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/d/D.N.A.Warrior.tzx.zip
 --tape-sum 0bdea30469e650882374f39dcb4602a7
 --start 24567
 --sim-load-config machine=128
---sim-load-config accelerator=rom

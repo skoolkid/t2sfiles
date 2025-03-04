@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/m/MickeyMouse.tzx.zip
 --tape-name "Mickey Mouse.tzx"
 --tape-sum b921852f207498ce68da7100449b943c
 --start 49331
---sim-load-config accelerator=rom

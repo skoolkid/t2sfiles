@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/d/DaleyThompsonsDecathlon(SmallCa
 --tape-name "Daley Thompson's Decathlon - Day 2 - Small Case.tzx"
 --tape-sum 921b94c205828cccef378b4e16e75d5a
 --start 65408
---sim-load-config accelerator=speedlock

@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/m/ManchesterUnitedEurope.tzx.zip
 --tape-sum 0ce604dd7fa3b969b2fe1cc6abf2d374
 --start 24542
 --sim-load-config machine=128
---sim-load-config accelerator=rom

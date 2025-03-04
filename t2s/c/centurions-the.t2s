@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/c/CenturionsThe.tzx.zip
 --tape-sum ce0f3cecb3af8eb7f68ff2465242ad61
 --start 65285
 --tape-stop 157
---sim-load-config accelerator=bleepload

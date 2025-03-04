@@ -3,4 +3,3 @@ https://tzxvault.org/Spectrum/TZX/SpaceCrusade.zip
 --tape-sum 48cdfc186f94bf6382da93cbc4b70810
 --start 61229
 --tape-stop 10
---sim-load-config accelerator=gremlin

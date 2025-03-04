@@ -4,5 +4,4 @@ https://worldofspectrum.net/pub/sinclair/games/f/FlashGordon.tzx.zip
 --start 59700
 --sim-load-config machine=128
 --tape-stop 8
---sim-load-config accelerator=rom
 --sim-load-config finish-tape=1

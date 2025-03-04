@@ -3,4 +3,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0003701/PickOut2.tzx.zip
 --tape-sum f6ab363e72ab80ae2686bc50b6bca147
 --start 33747
 --sim-load-config machine=128
---sim-load-config accelerator=rom,dinaload

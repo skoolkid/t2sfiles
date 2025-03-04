@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/a/ArmageddonManThe.tzx.zip
 --tape-sum 7d011190c0979f00c4d4cde525309fa7
 --start 64305
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock

@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/r/RamonRodriguez(SmallCase).tzx.z
 --tape-name "Ramon Rodriguez.tzx"
 --tape-sum 388c77d4425bf8cbc99523ed9b7e1bf4
 --start 65519
---sim-load-config accelerator=bleepload

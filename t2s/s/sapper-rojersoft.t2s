@@ -2,4 +2,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034288/Sapper.tzx.zip
 --tape-name "Sapper[Rojersoft].tzx"
 --tape-sum e6471a932d473bfdc2872f189925083b
 --start 24206
---sim-load-config accelerator=rom

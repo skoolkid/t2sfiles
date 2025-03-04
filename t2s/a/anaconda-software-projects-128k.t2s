@@ -3,5 +3,4 @@ https://worldofspectrum.net/pub/sinclair/games/a/Anaconda128.tzx.zip
 --tape-sum 445e1935d006a877c67867e17558178a
 --start 23296
 --sim-load-config machine=128
---sim-load-config accelerator=rom
 --sim-load-config finish-tape=1

@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/b/BlackArrow.tzx.zip
 --tape-sum 34b4db6c4e8fc6b6d35400e4a8524b93
 --start 1343
 --sim-load-config finish-tape=1
---sim-load-config accelerator=bleepload

@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/compilations/s/StarsOnThe128K.tzx.zip
 --tape-sum 2ae3d0b07173adb067c9c487daaab744
 --start 42726
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock

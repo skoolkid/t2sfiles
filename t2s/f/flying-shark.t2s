@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/f/FlyingShark.tzx.zip
 --tape-name "Flying Shark.tzx"
 --tape-sum 9d3bb7b7b26a83250d322c1666506aa9
 --start 23419
---sim-load-config accelerator=bleepload

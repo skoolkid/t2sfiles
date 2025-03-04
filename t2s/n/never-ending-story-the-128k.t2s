@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/n/NeverEndingStoryThe128.tzx.zip
 --tape-sum 3d10216cbf59ff8ce44873ee4d7ca793
 --start 42880
 --sim-load-config machine=128
---sim-load-config accelerator=rom

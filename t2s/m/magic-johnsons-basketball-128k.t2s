@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/m/MagicJohnsonsBasketball.tzx.zip
 --tape-sum 56639f03494c8dea9eea197d016e642d
 --start 36904
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock

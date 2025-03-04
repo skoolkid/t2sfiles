@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/f/FalconPatrol2.tzx.zip
 --tape-name "Falcon Patrol 2.tzx"
 --tape-sum 15713a1937208b0d0150aee354406ef2
 --start 61462
---sim-load-config accelerator=rom

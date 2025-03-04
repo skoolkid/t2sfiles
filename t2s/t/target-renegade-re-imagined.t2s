@@ -3,4 +3,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036470/TargetRenegadeReco
 --tape-sum b0fab7642a9b3e8730aa4811e4589909
 --start 24294
 --tape-stop 9
---sim-load-config accelerator=rom

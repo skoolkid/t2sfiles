@@ -3,5 +3,4 @@ https://worldofspectrum.net/pub/sinclair/games/s/SlySpy-SecretAgent.tzx.zip
 --tape-sum b014544c9a594adeb6d224a35a717d5f
 --start 48733
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock
 --sim-load-config finish-tape=1

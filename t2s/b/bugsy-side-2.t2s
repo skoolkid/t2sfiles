@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/b/Bugsy.tzx.zip
 --tape-name "Bugsy - Side 2.tzx"
 --tape-sum fef9bde49370cb15558e662000e19173
 --start 64888
---sim-load-config accelerator=speedlock

@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/v/V.tzx.zip
 --tape-name "V.tzx"
 --tape-sum be01b1e75b690b83b529c5843d4bc06b
 --start 65414
---sim-load-config accelerator=speedlock

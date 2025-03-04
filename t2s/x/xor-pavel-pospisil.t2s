@@ -2,4 +2,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0005802/XOR(ProximaSoftwar
 --tape-name "XOR(ProximaSoftware).tzx"
 --tape-sum 48ff5692efcdf4d319ec250502532dd9
 --start 64952
---sim-load-config accelerator=bleepload

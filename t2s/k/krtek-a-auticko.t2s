@@ -3,4 +3,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0002774/KrtekAAuticko.tzx.
 --tape-name "KrtekAAuticko.tzx"
 --tape-sum 4f775e785a3ae07d53d4a2cc40ae818f
 --start 24200
---sim-load-config accelerator=bleepload

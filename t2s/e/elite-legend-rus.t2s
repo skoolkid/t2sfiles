@@ -3,4 +3,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038483/Elite_Legend_128K_
 --tape-sum 97b0b933e0effb02cf607d64519d1e46
 --start 16606
 --sim-load-config machine=128
---sim-load-config accelerator=rom

@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/i/IndianaJonesAndTheTempleOfDoom.
 --tape-name "Indiana Jones And The Temple Of Doom.tzx"
 --tape-sum 568eb1001267d7f3f7e506ae0ba2a662
 --start 65257
---sim-load-config accelerator=alkatraz,alkatraz-0a

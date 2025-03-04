@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/r/RupertAndTheToymakersParty.tzx.
 --tape-name "Rupert And The Toymaker's Party.tzx"
 --tape-sum 058237a0e430dc0250f21a8b4f52079d
 --start 45056
---sim-load-config accelerator=rom

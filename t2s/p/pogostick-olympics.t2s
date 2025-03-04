@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/p/PogostickOlympics.tzx.zip
 --tape-name "Pogostick Olympics.tzx"
 --tape-sum a1bc260403a2ec62928ee3fdcbab1ed9
 --start 23419
---sim-load-config accelerator=bleepload

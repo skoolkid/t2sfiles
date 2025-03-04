@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/p/PawnThe.tzx.zip
 --tape-sum 67dfbd6466335c61534289a8767ae68f
 --start 25556
 --sim-load-config machine=128
---sim-load-config accelerator=bleepload

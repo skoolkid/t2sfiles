@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/p/Paperboy.tzx.zip
 --tape-name "Paperboy.tzx"
 --tape-sum 34012c92070d6530fdc5c6139c62a800
 --start 20493
---sim-load-config accelerator=bleepload

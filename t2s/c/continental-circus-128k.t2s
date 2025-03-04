@@ -4,4 +4,3 @@ https://worldofspectrum.net/pub/sinclair/games/c/ContinentalCircus.tzx.zip
 --start 48168
 --sim-load-config machine=128
 --tape-stop 11
---sim-load-config accelerator=bleepload

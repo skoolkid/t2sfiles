@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/p/PiknikUCesty.tzx.zip
 --tape-name "PIKNIK.TZX"
 --tape-sum a9050be26ac64575ee797c54acd82947
 --start 65131
---sim-load-config accelerator=rom

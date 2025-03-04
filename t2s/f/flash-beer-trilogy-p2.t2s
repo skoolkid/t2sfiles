@@ -4,4 +4,3 @@ https://worldofspectrum.net/pub/sinclair/games/f/FlashBeerTrilogy.tzx.zip
 --start 61450
 --tape-start 5
 --tape-stop 8
---sim-load-config accelerator=weird-science

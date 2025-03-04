@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/t/TurboEsprit.tzx.zip
 --tape-sum 3008c5f23864ff63a331401e232387d1
 --start 64785
 --sim-load-config finish-tape=1
---sim-load-config accelerator=rom

@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/t/TurboCup(TurboCupChallenge)(Pla
 --tape-sum 639b62d9297a352346fe19e1a3b55154
 --start 65188
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock

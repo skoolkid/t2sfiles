@@ -3,6 +3,5 @@ https://worldofspectrum.net/pub/sinclair/games/d/DoubleXinox.tzx.zip
 --tape-sum 657937c1543913481eb25a9a6aec292b
 --start 23978
 --sim-load-config machine=128
---sim-load-config accelerator=rom
 --sim-load-config in-flags=1
 --sim-load-config finish-tape=1

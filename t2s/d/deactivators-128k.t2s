@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/d/Deactivators.tzx.zip
 --tape-sum 814eb1708c8ab4c9e087e5b2678a4c9e
 --start 65455
 --sim-load-config machine=128
---sim-load-config accelerator=rom

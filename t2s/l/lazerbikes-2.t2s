@@ -2,5 +2,4 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034785/Lazerbikes2.tzx.zi
 --tape-name "Lazerbikes2.tzx"
 --tape-sum ab8784d58652acd72f9db1ccd41061ea
 --start 1343
---sim-load-config accelerator=rom
 --sim-load-config finish-tape=1

@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/i/InternationalKickboxing.tzx.zip
 --tape-sum 3a40e28ed02f8d2a8c08b9f265b1d223
 --start 65328
 --sim-load-config machine=128
---sim-load-config accelerator=rom

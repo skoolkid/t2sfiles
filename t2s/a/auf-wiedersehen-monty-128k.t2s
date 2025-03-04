@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/a/AufWiedersehenMonty.tzx.zip
 --tape-sum 4bcde80abcbfa9378dedd8e0da40edd5
 --start 33070
 --sim-load-config machine=128
---sim-load-config accelerator=rom,speedlock

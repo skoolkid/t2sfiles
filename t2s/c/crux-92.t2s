@@ -3,4 +3,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0001177/Crux92.tzx.zip
 --tape-sum 71b8938e27206e3455b2ec43d87d7053
 --start 32906
 --tape-stop 12
---sim-load-config accelerator=rom,dinaload

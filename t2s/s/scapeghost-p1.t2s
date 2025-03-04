@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/s/Scapeghost.tzx.zip
 --tape-name "Scapeghost - 48k - Part 1.tzx"
 --tape-sum 50f8ba25bf877633a9dcd926fee53cd7
 --start 23296
---sim-load-config accelerator=rom

@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/t/Tanium.tzx.zip
 --tape-name "Tanium.tzx"
 --tape-sum 7bd45f08bc7fb57f5d93edf67823698b
 --start 65375
---sim-load-config accelerator=speedlock

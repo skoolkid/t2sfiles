@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/f/FlintstonesThe.tzx.zip
 --tape-sum 53f42eb510414abcd960395f17c76401
 --start 23379
 --tape-stop 9
---sim-load-config accelerator=rom

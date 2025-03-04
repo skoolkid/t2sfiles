@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/e/ElevatorBoy.tzx.zip
 --tape-name "ELEVATOB.TZX"
 --tape-sum 9ad8f626cd64793978da9b3bd483bf7d
 --start 60267
---sim-load-config accelerator=bleepload

@@ -3,5 +3,4 @@ https://worldofspectrum.net/pub/sinclair/games/c/Cabal.tzx.zip
 --tape-sum 2e73781b61fc2f383cbf62808708a218
 --start 32917
 --sim-load-config machine=128
---sim-load-config accelerator=rom
 --sim-load-config finish-tape=1

@@ -3,5 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/t/TechnicianTed-TheMegamix.tzx.zi
 --tape-sum ddf8dcbd8ee3e55245ad73b3c7f3049e
 --start 26630
 --sim-load-config machine=128
---sim-load-config accelerator=search-loader
---sim-load-config accelerate-dec-a=2

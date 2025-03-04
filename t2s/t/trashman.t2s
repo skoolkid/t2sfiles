@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/t/Trashman.tzx.zip
 --tape-name "Trashman.tzx"
 --tape-sum d04a28a053be3b5fe6697f1bb0cd2caf
 --start 42384
---sim-load-config accelerator=rom

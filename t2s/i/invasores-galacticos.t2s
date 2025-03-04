@@ -3,5 +3,4 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038741/InvasoresGalactico
 --tape-sum 01b2e175925514e1559aeec02887dde8
 --start 1343
 --sim-load-config fast-load=0
---sim-load-config accelerator=rom
 --sim-load-config finish-tape=1

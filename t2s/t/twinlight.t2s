@@ -3,4 +3,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031994/Twinlight(Turbo).t
 --tape-sum 6d26b08fe46fef4757c2ff1807cebdbf
 --start 48694
 --sim-load-config machine=128
---sim-load-config accelerator=bleepload

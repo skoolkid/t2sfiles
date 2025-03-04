@@ -3,5 +3,4 @@ https://worldofspectrum.net/pub/sinclair/games/d/DoubleDragonII-TheRevenge128.tz
 --tape-sum 7e56fda82ece693f5ac9f061345cd642
 --start 24132
 --sim-load-config machine=128
---sim-load-config accelerator=rom
 --tape-stop 13

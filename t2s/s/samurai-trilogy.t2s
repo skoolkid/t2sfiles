@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/s/SamuraiTrilogy.tzx.zip
 --tape-name "Samurai Trilogy - Side A.tzx"
 --tape-sum c60bc33683cf65977ea24dfe80bc90dc
 --start 36608
---sim-load-config accelerator=rom

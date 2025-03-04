@@ -2,4 +2,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030087/Gravibots.tzx.zip
 --tape-name "GraviBots.tzx"
 --tape-sum f66469a7c870268c7857be4227257f9e
 --start 32828
---sim-load-config accelerator=rom

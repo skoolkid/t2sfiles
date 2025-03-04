@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/w/WitchcraftEdicionOro.tzx.zip
 --tape-name "Witchcraft Edicion Oro.tzx"
 --tape-sum 585612d33be2e83846591afc9348e729
 --start 34793
---sim-load-config accelerator=rom

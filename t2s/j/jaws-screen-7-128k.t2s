@@ -4,5 +4,4 @@ https://worldofspectrum.net/pub/sinclair/games/j/Jaws.tzx.zip
 --start 64063
 --tape-stop 287
 --sim-load-config machine=128
---sim-load-config accelerator=bleepload
 --sim-load-config finish-tape=1

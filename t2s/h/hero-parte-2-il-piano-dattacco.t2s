@@ -2,4 +2,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0027360/HeroParte2-IlPiano
 --tape-name "HeroParte2-IlPianoDAttacco.tzx"
 --tape-sum f6c4f2d257314b97f94c9546d08452dd
 --start 22243
---sim-load-config accelerator=tiny,rom

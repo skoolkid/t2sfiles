@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/a/AntAttack.tzx.zip
 --tape-name "Ant Attack.tzx"
 --tape-sum 2b6aba1d96f2707ea1e298f4013df217
 --start 38664
---sim-load-config accelerator=rom

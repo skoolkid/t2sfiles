@@ -2,4 +2,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036953/BLOCKSNFOX.tap.zip
 --tape-name "BLOCKSNFOX.tap"
 --tape-sum e8c77fbcd5d6776711340c1bf216eddb
 --start 26032
---sim-load-config accelerator=rom

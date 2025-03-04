@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/a/AahkuAlRescate.tzx.zip
 --tape-name "AahkualRescate.tzx"
 --tape-sum 742c9208b95a71c9e1ebfe349ae9d067
 --start 65038
---sim-load-config accelerator=speedlock

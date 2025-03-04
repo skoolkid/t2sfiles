@@ -3,4 +3,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034362/DoomPit(PT).tzx.zi
 --tape-sum cf261cd291ea5efd23692c9cf057fe48
 --start 32917
 --sim-load-config machine=128
---sim-load-config accelerator=bleepload

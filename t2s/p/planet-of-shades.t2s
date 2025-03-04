@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/p/PlanetOfShades.tzx.zip
 --tape-name "PLANET.TZX"
 --tape-sum 259d9e276f49b0401b4ef8062830bb0f
 --start 46900
---sim-load-config accelerator=speedlock

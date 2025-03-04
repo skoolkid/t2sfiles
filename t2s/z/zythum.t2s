@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/z/Zythum.tzx.zip
 --tape-name "Zythum.tzx"
 --tape-sum 0b0857eec7b8091bee2ed7e9aaf2dd7a
 --start 23334
---sim-load-config accelerator=bleepload

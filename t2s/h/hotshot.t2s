@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/h/Hotshot.tzx.zip
 --tape-name "Hot Shot.tzx"
 --tape-sum 0f7d80e73787154c53b26948eaf04081
 --start 65365
---sim-load-config accelerator=speedlock

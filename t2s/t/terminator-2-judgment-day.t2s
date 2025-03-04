@@ -3,5 +3,4 @@ https://worldofspectrum.net/pub/sinclair/games/t/Terminator2-JudgmentDay.tzx.zip
 --tape-sum f5c097abb08bb8da75604ea757473814
 --start 48320
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock,rom
 --sim-load-config finish-tape=1

@@ -2,4 +2,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0010308/Tilt.tzx.zip
 --tape-name "Tilt.tzx"
 --tape-sum ecdc179b5aeb78944947dea2ff6e32f3
 --start 64312
---sim-load-config accelerator=rom

@@ -2,4 +2,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034467/Transfer.tzx.zip
 --tape-name "Transfer.tzx"
 --tape-sum 09e4b59e4b545a79b3a450c2818eceea
 --start 24200
---sim-load-config accelerator=rom

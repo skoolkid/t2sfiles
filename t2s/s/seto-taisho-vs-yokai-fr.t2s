@@ -3,4 +3,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030269/SetoTaishoVsYokai(
 --tape-sum 10541dfbd819db7466b60e066ce8e6d2
 --start 24380
 --sim-load-config machine=128
---sim-load-config accelerator=bleepload

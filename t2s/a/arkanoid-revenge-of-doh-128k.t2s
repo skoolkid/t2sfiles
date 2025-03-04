@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/a/Arkanoid-RevengeOfDoh.tzx.zip
 --tape-sum 7bf8ebfb8a71f9621596b7cd2903b83d
 --start 65283
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock

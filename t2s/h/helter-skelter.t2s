@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/h/HelterSkelter.tzx.zip
 --tape-name "Helter Skelter - Side A.tzx"
 --tape-sum f252bfcda094496a860255df3aca7488
 --start 34242
---sim-load-config accelerator=rom

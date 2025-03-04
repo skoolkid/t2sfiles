@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/t/TresLucesDeGlaurungLas.tzx.zip
 --tape-name "Las Tres Luces De Glaurung.tzx"
 --tape-sum e677844facd17b2dbeb098ddd6ed8cfa
 --start 60584
---sim-load-config accelerator=bleepload

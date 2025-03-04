@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/l/LegendOfKage.tzx.zip
 --tape-name "Legend Of Kage.tzx"
 --tape-sum 128f3fd7508e1a762fd425314c14b5a5
 --start 64261
---sim-load-config accelerator=alkatraz

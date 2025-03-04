@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/r/RogueTrooper.tzx.zip
 --tape-name "Rogue Trooper.tzx"
 --tape-sum fd20c9ef1d4bb5981ed26b85999976f6
 --start 65135
---sim-load-config accelerator=speedlock

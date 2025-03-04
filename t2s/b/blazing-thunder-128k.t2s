@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/b/BlazingThunder.tzx.zip
 --tape-sum 7ab1990aba0e5f3b3443088e0bfa89dc
 --start 61509
 --sim-load-config machine=128
---sim-load-config accelerator=bleepload

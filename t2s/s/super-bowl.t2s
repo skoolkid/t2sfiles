@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/s/SuperBowl.tzx.zip
 --tape-name "Super Bowl.tzx"
 --tape-sum 90500af980378570f1dcba33ea138ef7
 --start 65410
---sim-load-config accelerator=speedlock

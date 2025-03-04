@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/t/Tuareg.tzx.zip
 --tape-sum a5279523d7cd7ba3cf6c85703971e945
 --start 65132
 --tape-stop 10
---sim-load-config accelerator=rom

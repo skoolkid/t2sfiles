@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/g/Games-WinterEditionThe.tzx.zip
 --tape-sum c30177d3575d49d0c70fe4d22baffcf6
 --start 46547
 --sim-load-config machine=128
---sim-load-config accelerator=alkatraz

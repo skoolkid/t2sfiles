@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/s/Sputnik.tzx.zip
 --tape-name "Sputnik.tzx"
 --tape-sum 654d9a6a2d7fe8ee2c0dce7d579a5d15
 --start 60027
---sim-load-config accelerator=rom

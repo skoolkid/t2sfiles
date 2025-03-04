@@ -10,4 +10,3 @@ https://worldofspectrum.net/pub/sinclair/games/c/CosmicShockAbsorber.tzx.zip
 --start 65373
 --sim-load-config machine=128
 --sim-load-config first-edge=678
---sim-load-config accelerator=speedlock

@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/h/HighSteel(AlternativeSoftwareLt
 --tape-name "High Steel - Side 1 (Alternative).tzx"
 --tape-sum b9cd4aa88d590f8a7c8fc7e953b2193e
 --start 23949
---sim-load-config accelerator=bleepload

@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/s/StuntCarRacer.tzx.zip
 --tape-name "Stunt Car Racer - 48k.tzx"
 --tape-sum 31c2644c737667a49a2066a41bf82384
 --start 65305
---sim-load-config accelerator=rom

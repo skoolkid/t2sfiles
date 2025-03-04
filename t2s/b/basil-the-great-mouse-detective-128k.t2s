@@ -3,3 +3,4 @@ https://worldofspectrum.net/pub/sinclair/games/b/BasilTheGreatMouseDetective.tzx
 --tape-sum 5e213d8a847168db2a9721f88cb1e280
 --start 55822
 --sim-load-config machine=128
+--sim-load-config accelerator=none

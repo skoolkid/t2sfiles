@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/a/AlienHighway.tzx.zip
 --tape-name "Alien Highway.tzx"
 --tape-sum d09b9e7e7ba81b521caff305bff533af
 --start 65393
---sim-load-config accelerator=speedlock

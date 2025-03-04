@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/l/LastMission.tzx.zip
 --tape-name "Last Mission.tzx"
 --tape-sum 4279b5e6c5a2072d7b04838b395dd67d
 --start 64009
---sim-load-config accelerator=alkatraz

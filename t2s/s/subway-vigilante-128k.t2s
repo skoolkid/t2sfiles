@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/s/SubwayVigilante.tzx.zip
 --tape-sum c1bb1040e78beb79922a999637223975
 --start 53520
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock

@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/s/ShockwayRider.tzx.zip
 --tape-name "Shockway Rider.tzx"
 --tape-sum 7a2349a2d24ceddf552cd76c69dfda2a
 --start 60027
---sim-load-config accelerator=speedlock

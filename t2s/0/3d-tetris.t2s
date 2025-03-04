@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/123/3D-Tetris.tzx.zip
 --tape-name "3D-Tetris.tzx"
 --tape-sum 42ab3adef6bc60be188939f3938ba4dd
 --start 64952
---sim-load-config accelerator=bleepload

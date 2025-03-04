@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/k/Kockapoker.tzx.zip
 --tape-name "Kockapoker.tzx"
 --tape-sum ed0877a12c8249fa5784006d5a58a8c3
 --start 48510
---sim-load-config accelerator=tiny

@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/m/Mercenary.tzx.zip
 --tape-name "Mercenary.tzx"
 --tape-sum de89d33e098d9e05bd8550ca193e8ef9
 --start 65329
---sim-load-config accelerator=speedlock

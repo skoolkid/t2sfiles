@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/s/SwordsSorcery.tzx.zip
 --tape-name "Swords And Sorcery.tzx"
 --tape-sum 726a3e3a9f687df7d487f3b874a42a81
 --start 24547
---sim-load-config accelerator=speedlock,rom

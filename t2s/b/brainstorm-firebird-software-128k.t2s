@@ -4,5 +4,4 @@ https://worldofspectrum.net/pub/sinclair/games/b/Brainstorm_2.tzx.zip
 --start 64074
 --sim-load-config machine=128
 --tape-stop 175
---sim-load-config accelerator=bleepload
 --sim-load-config finish-tape=1

@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/l/LogicalGame.tzx.zip
 --tape-name "logicgame.tzx"
 --tape-sum 4487a3d84803f71582f1df34514aa903
 --start 24200
---sim-load-config accelerator=rom

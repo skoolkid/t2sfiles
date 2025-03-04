@@ -3,4 +3,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0025145/OddiTheViking128.t
 --tape-sum 043f87ef07d990e283e4d1952cf52b0a
 --start 65031
 --sim-load-config machine=128
---sim-load-config accelerator=rom

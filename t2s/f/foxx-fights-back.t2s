@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/f/FoxxFightsBack.tzx.zip
 --tape-name "Foxx Fights Back.tzx"
 --tape-sum b30693632f039f26eaeea2b682c98fd2
 --start 65176
---sim-load-config accelerator=speedlock

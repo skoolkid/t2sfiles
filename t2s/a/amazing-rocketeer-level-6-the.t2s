@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/a/AmazingRocketeerTheV1.5.tzx.zip
 --tape-name "LEVV6.tzx"
 --tape-sum 19f7c64fbd6d1f72e4ac5fc4932dbacf
 --start 63557
---sim-load-config accelerator=rom

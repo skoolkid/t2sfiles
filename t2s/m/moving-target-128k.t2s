@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/m/MovingTarget.tzx.zip
 --tape-sum 732fcc4e457188d2b6edda6b4b915d04
 --start 65188
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock

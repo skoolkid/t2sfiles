@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/m/Mega-Apocalypse.tzx.zip
 --tape-sum 6a4050c7299f03239b8c9bf8973882d2
 --start 65248
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock

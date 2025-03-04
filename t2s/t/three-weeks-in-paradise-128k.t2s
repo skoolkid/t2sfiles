@@ -3,5 +3,4 @@ https://worldofspectrum.net/pub/sinclair/games/t/ThreeWeeksInParadise128(differe
 --tape-sum 6be44a4cf959d8057aafc5d620384cd8
 --start 33657
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock
 --sim-load-config finish-tape=1

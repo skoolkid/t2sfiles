@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/t/TTRacer.tzx.zip
 --tape-name "Tt Racer.tzx"
 --tape-sum 46724c6e1786557ffdbeb5263b4f871d
 --start 57349
---sim-load-config accelerator=digital-integration

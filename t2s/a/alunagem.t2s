@@ -4,4 +4,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038829/Alunagem.tzx.zip
 --start 7070
 --sim-load-config fast-load=0
 --tape-stop 3
---sim-load-config accelerator=rom

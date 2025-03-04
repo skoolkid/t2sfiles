@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/g/GrandPrixCircuit.tzx.zip
 --tape-sum 685f6198fddde9ac43dcfae6c7e6616f
 --start 48929
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock

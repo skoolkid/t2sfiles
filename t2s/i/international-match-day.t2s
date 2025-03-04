@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/i/InternationalMatchDay.tzx.zip
 --tape-sum cb959e7265391362742fbda62cee86e8
 --start 33354
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock

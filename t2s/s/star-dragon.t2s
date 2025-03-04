@@ -2,4 +2,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0004815/StarDragon(Proxima
 --tape-name "StarDragon(ProximaSoftware).tzx"
 --tape-sum b6f79bf63ea182fd86679506ebf5a7fa
 --start 64952
---sim-load-config accelerator=bleepload

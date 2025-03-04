@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/d/DameDeMonsoreauLa.tzx.zip
 --tape-sum f66999fc5e9ec10abdf6a83a9c0c8c50
 --start 1343
 --sim-load-config finish-tape=1
---sim-load-config accelerator=rom

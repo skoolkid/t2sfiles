@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/g/GaryLinekersHot-Shot.tzx.zip
 --tape-sum a2281c4bf2ea4c14157ab80572ab828c
 --start 51504
 --sim-load-config machine=128
---sim-load-config accelerator=alkatraz

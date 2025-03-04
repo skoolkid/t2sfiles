@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/i/IceBreaker.tzx.zip
 --tape-sum 0b0948e173bcd3cf874555fccbd9b5d4
 --start 23552
 --tape-stop 13
---sim-load-config accelerator=rom

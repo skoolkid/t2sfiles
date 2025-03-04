@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/i/InspectorGadgetAndTheCircusOfFe
 --tape-name "Inspector Gadget (Erbe).tzx"
 --tape-sum d7ae803ab6fa9870e1296d1d23c20dfe
 --start 42329
---sim-load-config accelerator=rom

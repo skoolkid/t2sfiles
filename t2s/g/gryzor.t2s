@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/g/Gryzor.tzx.zip
 --tape-name "Gryzor - Side 1.tzx"
 --tape-sum 93d5cd59d56a4158db09e58c8590bc1a
 --start 65047
---sim-load-config accelerator=speedlock,rom

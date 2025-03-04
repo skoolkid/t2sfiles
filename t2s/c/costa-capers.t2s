@@ -2,5 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/c/CostaCapers.tzx.zip
 --tape-name "Costa Capers.tzx"
 --tape-sum 79a56e80c6262f059808b1e7a1c83d63
 --start 26626
---sim-load-config accelerate-dec-a=2
---sim-load-config accelerator=search-loader

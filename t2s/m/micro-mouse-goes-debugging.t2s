@@ -2,4 +2,3 @@ https://tzxvault.org/Spectrum/TZX/MicroMouseGoesDe-Bugging.zip
 --tape-name "Micro Mouse Goes De-Bugging.tzx"
 --tape-sum 0feee4ea821f28fa9880b6f5a69a8b90
 --start 25745
---sim-load-config accelerator=rom

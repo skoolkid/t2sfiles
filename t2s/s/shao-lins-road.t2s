@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/s/Shao-LinsRoad.tzx.zip
 --tape-name "Shao Lin's Road.tzx"
 --tape-sum 505900b1c34a6c5124e9c66b7dcb1410
 --start 42529
---sim-load-config accelerator=alkatraz

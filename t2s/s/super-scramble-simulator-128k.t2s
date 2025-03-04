@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/s/SuperScrambleSimulator.tzx.zip
 --tape-sum bb4a6e04bb27127aceed3f00f0d5e6ba
 --start 48359
 --sim-load-config machine=128
---sim-load-config accelerator=alkatraz

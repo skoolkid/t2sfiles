@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/n/NigelMansellsGrandPrix.tzx.zip
 --tape-sum 3fc3add70950b205ffa6f8eb592d03a5
 --start 48945
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock

@@ -2,5 +2,4 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034892/JSWApril.tzx.zip
 --tape-name "JSWApril.tzx"
 --tape-sum 87ded46791cccb5d604b5a5947d491cc
 --start 61000
---sim-load-config accelerator=rom
 --sim-load-config finish-tape=1

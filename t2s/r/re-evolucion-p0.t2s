@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/r/Re-Evolucion.tzx.zip
 --tape-name "Re-Evolucion - Part 0.tzx"
 --tape-sum 6780b83d7eabec97fc4b51949a183c07
 --start 64765
---sim-load-config accelerator=bleepload

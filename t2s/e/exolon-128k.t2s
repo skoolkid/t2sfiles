@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/e/Exolon.tzx.zip
 --tape-sum 7ba525e945808b0031f479dfb6fb2fd5
 --start 65105
 --sim-load-config machine=128
---sim-load-config accelerator=rom

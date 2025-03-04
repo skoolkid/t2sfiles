@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/a/AranyPince.tzx.zip
 --tape-sum b2d6c139499dc13af2a2eb8cd721c945
 --start 22499
 --sim-load-config machine=128
---sim-load-config accelerator=tiny,rom

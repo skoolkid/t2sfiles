@@ -2,5 +2,4 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035474/Bredy3.tap.zip
 --tape-name "Bredy3.tap"
 --tape-sum 8d5ffebe01cb8ff3990af5863f323a02
 --start 1343
---sim-load-config accelerator=rom
 --sim-load-config finish-tape=1

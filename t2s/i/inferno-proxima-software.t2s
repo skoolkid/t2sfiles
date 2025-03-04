@@ -2,4 +2,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0002481/Inferno(Sintech).t
 --tape-name "Inferno(Sintech).tzx"
 --tape-sum f71eaa1e20e6d94c59f5eda14e4a3148
 --start 64952
---sim-load-config accelerator=bleepload

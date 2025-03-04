@@ -4,5 +4,4 @@ https://worldofspectrum.net/pub/sinclair/games/s/Shinobi.tzx.zip
 --start 61060
 --sim-load-config machine=128
 --tape-stop 41
---sim-load-config accelerator=speedlock,rom
 --sim-load-config finish-tape=1

@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/t/ThingyAndTheDoodahs.tzx.zip
 --tape-name "Thingy And The Doodahs.tzx"
 --tape-sum 6bfc2154227be2e09cfad243dae68e40
 --start 64474
---sim-load-config accelerator=alkatraz

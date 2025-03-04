@@ -2,4 +2,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043710/Space-1999-Eagle1(
 --tape-name "Space-1999-Eagle1(2023).tap"
 --tape-sum eb10ca91b90730008ef4af292b9623aa
 --start 39934
---sim-load-config accelerator=rom

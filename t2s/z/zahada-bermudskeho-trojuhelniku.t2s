@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/z/ZahadaBermudskehoTrojuhelniku.t
 --tape-sum 259c8c6544c1303df8672a65c59c2988
 --start 1343
 --sim-load-config finish-tape=1
---sim-load-config accelerator=speedlock

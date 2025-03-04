@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/s/SpittingImage.tzx.zip
 --tape-sum 4db924562f38831cc6e78400148bdf3c
 --start 65155
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock

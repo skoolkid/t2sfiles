@@ -3,5 +3,4 @@ https://worldofspectrum.net/pub/sinclair/games/p/Puzznic.tzx.zip
 --tape-sum a859f0ebcae3fd16885f3f15c138dbab
 --start 65117
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock
 --sim-load-config finish-tape=1

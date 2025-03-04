@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/t/THIMBLE.tzx.zip
 --tape-sum 117258ca0aeca14679e817ca8fb55a6b
 --start 22499
 --sim-load-config machine=128
---sim-load-config accelerator=tiny,rom

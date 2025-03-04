@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/t/Tarzan.tzx.zip
 --tape-name "Tarzan.tzx"
 --tape-sum 3e004647c63fc122ac01ba1e4b289879
 --start 16398
---sim-load-config accelerator=speedlock

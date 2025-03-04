@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/h/Hexcellent.tzx.zip
 --tape-name "HEXCELLE.TZX"
 --tape-sum fd83cad8a1ee9edc909b01fb4dd939fe
 --start 60471
---sim-load-config accelerator=rom

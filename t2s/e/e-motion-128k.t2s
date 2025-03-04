@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/e/E-motion.tzx.zip
 --tape-sum 9e0eb8e2f6a742daf4542a6a64d1e7c6
 --start 64509
 --sim-load-config machine=128
---sim-load-config accelerator=alkatraz

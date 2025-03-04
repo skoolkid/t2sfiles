@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/b/BuggyBoy.tzx.zip
 --tape-name "Buggy Boy - Side A.tzx"
 --tape-sum 567e12154de325fb91e78384f4775a76
 --start 63535
---sim-load-config accelerator=rom

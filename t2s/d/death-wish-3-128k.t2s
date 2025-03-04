@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/d/DeathWish3.tzx.zip
 --tape-sum 70f05ed6140ea725f02492f617e52cf5
 --start 33010
 --sim-load-config machine=128
---sim-load-config accelerator=rom,speedlock

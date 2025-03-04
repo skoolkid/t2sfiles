@@ -3,5 +3,4 @@ https://worldofspectrum.net/pub/sinclair/games/s/Simpsons-BartVs.TheSpaceMutants
 --tape-sum 075180602ca07758443b322a38d27973
 --start 33655
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock,rom
 --sim-load-config finish-tape=1

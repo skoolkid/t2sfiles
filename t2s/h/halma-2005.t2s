@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/h/Halma2005.tzx.zip
 --tape-sum 7780f7fda516b0a64704af085273db84
 --start 22499
 --sim-load-config machine=128
---sim-load-config accelerator=tiny,rom

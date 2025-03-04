@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/a/ActionForceII.tzx.zip
 --tape-sum df04a5d2effd330c8623623964983506
 --start 65248
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock

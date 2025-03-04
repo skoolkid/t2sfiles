@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/r/RainbowIslands.tzx.zip
 --tape-name "Rainbow Islands - Side 1.tzx"
 --tape-sum 4962d7a32512b306c444525a80fb4f37
 --start 24578
---sim-load-config accelerator=rom,paul-owens

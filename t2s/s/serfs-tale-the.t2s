@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/s/SerfsTaleThe.tzx.zip
 --tape-name "The Serf's Tale.tzx"
 --tape-sum bc4cf8f8f207d34be73873f980a8678a
 --start 23430
---sim-load-config accelerator=rom

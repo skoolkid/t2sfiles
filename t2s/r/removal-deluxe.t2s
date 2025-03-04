@@ -4,4 +4,3 @@ https://worldofspectrum.net/pub/sinclair/games/r/RemovalDeluxe.tap.zip
 --start 33150
 --sim-load-config fast-load=0
 --sim-load-config in-flags=1
---sim-load-config accelerator=rom,gremlin

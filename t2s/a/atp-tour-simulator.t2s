@@ -3,4 +3,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0000317/ATPTourSimulator.t
 --tape-name "ATPTourSimulator.tzx"
 --tape-sum 3ca8bdf6ea565945bf762d84883c8aef
 --start 24200
---sim-load-config accelerator=bleepload

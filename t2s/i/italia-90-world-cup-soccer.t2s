@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/i/Italia90-WorldCupSoccer.tzx.zip
 --tape-name "Italia '90 - World Cup Soccer.tzx"
 --tape-sum 4bd65f213e136eaee0a5d886f3e2df59
 --start 23375
---sim-load-config accelerator=speedlock,rom

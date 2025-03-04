@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/k/KnightOrc.tzx.zip
 --tape-sum 9f7e4b6ec940e181c7f893b4e59de169
 --start 23673
 --sim-load-config machine=128
---sim-load-config accelerator=rom

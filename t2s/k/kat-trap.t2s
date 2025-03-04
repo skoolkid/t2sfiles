@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/k/KatTrap.tzx.zip
 --tape-name "Kat Trap.tzx"
 --tape-sum df85cf9c5e6035e7cff87da3b7210cfa
 --start 27648
---sim-load-config accelerator=speedlock

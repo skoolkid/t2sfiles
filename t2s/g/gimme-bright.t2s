@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/g/GimmeBright.tap.zip
 --tape-name "GIMME BRIGHT.tap"
 --tape-sum dea51c34a649a7facd01313b5d7eba34
 --start 28000
---sim-load-config accelerator=bleepload

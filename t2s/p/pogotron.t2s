@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/p/Pogotron.tzx.zip
 --tape-name "Pogotron.tzx"
 --tape-sum 49e7f33abb75d3c1dd9341f214a8d9a7
 --start 58063
---sim-load-config accelerator=rom

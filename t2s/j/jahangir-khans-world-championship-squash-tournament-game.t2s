@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/j/JahangirKhansWorldChampionshipS
 --tape-sum 353361cf083f0ec0f5ef4d60a9ff675c
 --start 47928
 --sim-load-config machine=128
---sim-load-config accelerator=rom

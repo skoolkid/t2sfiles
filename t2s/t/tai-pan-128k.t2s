@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/t/Tai-Pan.tzx.zip
 --tape-sum 230dfb00f25b5d86db89c5679aff7405
 --start 47665
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock

@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/t/Tetris.tzx.zip
 --tape-sum 88002a51b720c36334d03a82be8fcbee
 --start 33249
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock

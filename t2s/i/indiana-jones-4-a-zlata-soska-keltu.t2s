@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/i/IndianaJones4-AZlataSoskaKeltu.
 --tape-name "INDY4.TAP"
 --tape-sum e047b3483470f862253f856539ea6547
 --start 59958
---sim-load-config accelerator=rom

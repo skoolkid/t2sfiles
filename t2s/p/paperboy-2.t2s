@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/p/Paperboy2.tzx.zip
 --tape-name "Paperboy 2.tzx"
 --tape-sum 50b29842c6f2e8540fbe64cb63673e9b
 --start 23371
---sim-load-config accelerator=speedlock,rom

@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/n/NemesisTheWarlock.tzx.zip
 --tape-name "Nemesis The Warlock - Side 1.tzx"
 --tape-sum bc80a4303fb0179b6fca1b2a371c9b0e
 --start 48826
---sim-load-config accelerator=speedlock

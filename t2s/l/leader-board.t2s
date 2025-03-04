@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/l/LeaderBoard.tzx.zip
 --tape-name "Leaderboard.tzx"
 --tape-sum 8d33e41a01d60be771b1599d029007d1
 --start 65386
---sim-load-config accelerator=speedlock

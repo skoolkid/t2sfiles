@@ -2,5 +2,4 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0027665/AstorRoleta.tzx.zi
 --tape-name "AstorRoleta.tzx"
 --tape-sum 626dd5a3390fdc6c28163910b2f95562
 --start 7070
---sim-load-config accelerator=rom
 --sim-load-config finish-tape=1

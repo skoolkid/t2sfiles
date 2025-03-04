@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/r/RollingThunder.tzx.zip
 --tape-name "Rolling Thunder.tzx"
 --tape-sum 86725c4c03c981a3e4132a304cf7ba4f
 --start 64509
---sim-load-config accelerator=alkatraz

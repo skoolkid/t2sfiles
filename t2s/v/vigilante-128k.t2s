@@ -3,5 +3,4 @@ https://worldofspectrum.net/pub/sinclair/games/v/Vigilante.tzx.zip
 --tape-sum 10b7a6b8fcfa42ec32cc8879142fdf05
 --start 40152
 --sim-load-config machine=128
---sim-load-config accelerator=alkatraz,alkatraz-0a
 --sim-load-config finish-tape=1

@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/c/Crossfire.tzx.zip
 --tape-sum f721b8c02b66de13d01398d3b9a3598d
 --start 61735
 --sim-load-config machine=128
---sim-load-config accelerator=rom

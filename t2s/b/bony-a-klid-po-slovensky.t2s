@@ -2,5 +2,4 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035358/BonyAKlidPoSlovens
 --tape-name "BonyAKlidPoSlovenskyPart1.tzx"
 --tape-sum 3c87e10c1fb88b160f746cdd86341b5c
 --start 1343
---sim-load-config accelerator=rom
 --sim-load-config finish-tape=1

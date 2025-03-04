@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/d/DragonBall-ElDesafioDelDoctorGe
 --tape-sum 4d29f8614309430f3aa6102cd848c83a
 --start 65241
 --sim-load-config fast-load=0
---sim-load-config accelerator=rom,bleepload

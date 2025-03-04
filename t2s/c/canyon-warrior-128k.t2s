@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/c/CanyonWarrior.tzx.zip
 --tape-sum 26549273b08477062f3e09b58739910d
 --start 48582
 --sim-load-config machine=128
---sim-load-config accelerator=paul-owens

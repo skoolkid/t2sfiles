@@ -2,4 +2,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0010315/Tinny.tzx.zip
 --tape-name "Tinny.tzx"
 --tape-sum 6096f0219ea51c5a22846c522e9cb333
 --start 24200
---sim-load-config accelerator=bleepload

@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/t/TauCeti.tzx.zip
 --tape-name "Tau Ceti.tzx"
 --tape-sum d597f0e1bb4241c46d05ae460aebd122
 --start 60432
---sim-load-config accelerator=speedlock

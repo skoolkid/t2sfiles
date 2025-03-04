@@ -3,5 +3,4 @@ https://worldofspectrum.net/pub/sinclair/games/w/WinterGames.tzx.zip
 --tape-sum 5ac134a63a71e6d1bf2522e3eb1f0748
 --start 45763
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock
 --tape-stop 66

@@ -3,5 +3,4 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0006222/TheDragonstarTrilo
 --tape-sum f56c060f0f38f3850fe60678cb531187
 --start 1343
 --sim-load-config fast-load=0
---sim-load-config accelerator=rom
 --sim-load-config finish-tape=1

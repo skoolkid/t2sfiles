@@ -3,5 +3,4 @@ https://worldofspectrum.net/pub/sinclair/games/i/International3DTennis.tzx.zip
 --tape-sum fbf9a0d78db1b870dfa1ed117350202a
 --start 48733
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock
 --sim-load-config finish-tape=1

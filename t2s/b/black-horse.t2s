@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/b/BlackHorse.tzx.zip
 --tape-name "Black Horse.tzx"
 --tape-sum c7c27319a4ddf7176597da42233ac803
 --start 64717
---sim-load-config accelerator=bleepload

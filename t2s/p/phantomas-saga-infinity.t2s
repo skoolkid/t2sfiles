@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/p/PhantomasSaga-Infinity.tzx.zip
 --tape-name "Phantomas Saga - Infinity.tzx"
 --tape-sum 0eae7a2456d419febf50cab05962830e
 --start 63775
---sim-load-config accelerator=tiny

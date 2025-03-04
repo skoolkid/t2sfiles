@@ -2,5 +2,4 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0005938/Agent99.tzx.zip
 --tape-name "Agent99.tzx"
 --tape-sum b007b93d428b5610a8056f3ec50b809d
 --start 1343
---sim-load-config accelerator=rom
 --sim-load-config finish-tape=1

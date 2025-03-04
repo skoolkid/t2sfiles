@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/d/Denizen.tzx.zip
 --tape-sum 98f6d8c34c36716582411929fdb82d88
 --start 46329
 --tape-stop 7
---sim-load-config accelerator=speedlock

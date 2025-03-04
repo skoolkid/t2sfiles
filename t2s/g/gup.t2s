@@ -3,4 +3,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0032180/GUP.tzx.zip
 --tape-sum b0843b19173d2574180aa3a3cc5bab12
 --start 23800
 --sim-load-config fast-load=0
---sim-load-config accelerator=rom

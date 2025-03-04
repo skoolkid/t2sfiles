@@ -3,5 +3,4 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030064/LosAmoresDeBrunild
 --tape-sum e11aba5d8d1713878a26ad4480793448
 --start 24214
 --sim-load-config machine=128
---sim-load-config accelerator=rom
 --sim-load-config finish-tape=1

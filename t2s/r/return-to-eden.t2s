@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/r/ReturnToEden.tzx.zip
 --tape-name "Return To Eden.tzx"
 --tape-sum 4d20e59286af4fa176207ed3bdc66ef8
 --start 65031
---sim-load-config accelerator=bleepload

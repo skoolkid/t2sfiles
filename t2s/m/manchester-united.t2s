@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/m/ManchesterUnited.tzx.zip
 --tape-sum c9dd1252f587aa897298052921e9096c
 --start 23442
 --tape-stop 8
---sim-load-config accelerator=rom

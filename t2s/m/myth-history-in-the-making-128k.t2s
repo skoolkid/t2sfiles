@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/m/Myth-HistoryInTheMaking.tzx.zip
 --tape-sum 24a8219180c25a0f864cc49d6a7036ab
 --start 65379
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock,rom

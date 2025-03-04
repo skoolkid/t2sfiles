@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/e/ElvenWarrior.tzx.zip
 --tape-sum 19e952a0e8006881d83b2aa0aa7e9396
 --start 33024
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock

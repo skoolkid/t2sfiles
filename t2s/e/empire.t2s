@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/e/Empire.tzx.zip
 --tape-name "Empire.tzx"
 --tape-sum 12637ee50e56ec04d404b68571d3203a
 --start 27760
---sim-load-config accelerator=bleepload

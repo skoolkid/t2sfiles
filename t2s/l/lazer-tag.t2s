@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/l/LazerTag.tzx.zip
 --tape-name "Lazer Tag.tzx"
 --tape-sum f131c354288b21859ac31b070bf65206
 --start 64509
---sim-load-config accelerator=alkatraz

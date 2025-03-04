@@ -3,4 +3,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036117/ManicMower.tzx.zip
 --tape-sum c7896b68ef622c390dbbb945f032609d
 --start 45880
 --tape-stop 8
---sim-load-config accelerator=speedlock

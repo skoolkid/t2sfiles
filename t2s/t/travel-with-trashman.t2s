@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/t/TravelWithTrashman.tzx.zip
 --tape-name "Travel With Trashman.tzx"
 --tape-sum 7db6b2023754d24f24a8501e987f16c8
 --start 65479
---sim-load-config accelerator=rom,bleepload

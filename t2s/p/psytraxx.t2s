@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/p/Psytraxx.tzx.zip
 --tape-name "Psytraxx.tzx"
 --tape-sum 0e27dfb71aed44406c45fcec3a6858ee
 --start 27899
---sim-load-config accelerator=rom

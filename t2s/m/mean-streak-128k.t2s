@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/m/MeanStreak.tzx.zip
 --tape-sum befe90c8ecaefe29f579429fb70ca5ed
 --start 32919
 --sim-load-config machine=128
---sim-load-config accelerator=rom,speedlock

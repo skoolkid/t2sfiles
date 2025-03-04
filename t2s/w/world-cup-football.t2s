@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/w/WorldCupFootball.tzx.zip
 --tape-name "World Cup Football.tzx"
 --tape-sum 85ec46a161055edd2f06db687972a186
 --start 23400
---sim-load-config accelerator=rom

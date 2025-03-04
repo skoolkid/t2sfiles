@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/d/DaleyThompsonsSupertest48.tzx.z
 --tape-name "Daley Thompson's Supertest - Day 2 - 48k.tzx"
 --tape-sum 751ffe648d45cbde3cb1eb6c3b6dc3c1
 --start 65461
---sim-load-config accelerator=speedlock

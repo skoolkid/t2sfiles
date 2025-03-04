@@ -3,5 +3,4 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0028160/FunkyFungus(EN).tz
 --tape-sum 29278223bd0e0848cfc6a07a634938ce
 --start 45356
 --sim-load-config machine=128
---sim-load-config accelerator=rom
 --sim-load-config finish-tape=1

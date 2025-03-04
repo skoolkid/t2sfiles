@@ -2,4 +2,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035433/SecondLife.tzx.zip
 --tape-name "SecondLife.tzx"
 --tape-sum dc8437ab2b795534770dacd798f9bce0
 --start 63055
---sim-load-config accelerator=speedlock,rom

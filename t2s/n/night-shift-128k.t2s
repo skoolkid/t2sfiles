@@ -3,5 +3,4 @@ https://worldofspectrum.net/pub/sinclair/games/n/NightShift.tzx.zip
 --tape-sum 5141dd4d056db28432dc9f035882ae21
 --start 64549
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock,rom
 --sim-load-config finish-tape=1

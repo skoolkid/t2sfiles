@@ -3,5 +3,4 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035375/Fervor.tzx.zip
 --tape-sum c7a4e3ab136cb7ce72b049b56ed5bab4
 --start 60175
 --sim-load-config machine=128
---sim-load-config accelerator=rom
 --sim-load-config finish-tape=1

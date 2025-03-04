@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/u/UridiumPlus.tzx.zip
 --tape-name "Uridium Plus.tzx"
 --tape-sum 3218a4cba3b377f78650f368ec1baf90
 --start 64848
---sim-load-config accelerator=rom

@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/b/BehindClosedDoors2-TheSequel.tz
 --tape-sum 8ebcf34f1dab2cc53c9d0db74b94ae04
 --start 1343
 --sim-load-config finish-tape=1
---sim-load-config accelerator=rom

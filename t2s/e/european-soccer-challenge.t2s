@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/e/EuropeanSoccerChallenge.tzx.zip
 --tape-name "European Soccer Challenge.tzx"
 --tape-sum 24260144056a3fa3032c1c90655bd142
 --start 65188
---sim-load-config accelerator=speedlock

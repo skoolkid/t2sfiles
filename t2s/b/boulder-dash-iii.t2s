@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/b/BoulderDashIII.tzx.zip
 --tape-name "Boulder Dash 3.tzx"
 --tape-sum 5d02433c333ec16df9e991737f059364
 --start 31927
---sim-load-config accelerator=rom

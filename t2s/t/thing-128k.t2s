@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/t/Thing.tzx.zip
 --tape-sum 2c59dc8ac84022c92e3537500e8790de
 --start 65354
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock

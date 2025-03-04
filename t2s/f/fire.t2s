@@ -2,4 +2,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0001766/FIRE(Ultrasoft[SK]
 --tape-name "FIRE(Ultrasoft[SK]).tzx"
 --tape-sum f400002b9051247d2b2688a78e707e48
 --start 63976
---sim-load-config accelerator=rom,dinaload

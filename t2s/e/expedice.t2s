@@ -2,4 +2,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0010497/Expedice.tzx.zip
 --tape-name "Expedice.tzx"
 --tape-sum e4355c96bd62fe161ca2fa3539fdd4d2
 --start 24200
---sim-load-config accelerator=bleepload

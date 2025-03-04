@@ -2,5 +2,4 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0009798/GrandPrixRiders.tz
 --tape-name "GrandPrixRiders.tzx"
 --tape-sum 4d75aa07a5ddaa7a3755105f0658b3e2
 --start 1343
---sim-load-config accelerator=rom
 --sim-load-config finish-tape=1

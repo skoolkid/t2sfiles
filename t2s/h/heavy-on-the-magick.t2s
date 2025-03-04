@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/h/HeavyOnTheMagick.tzx.zip
 --tape-name "Heavy On The Magick - Side 1.tzx"
 --tape-sum 203b36a9ffa241089cb2741043c6563a
 --start 47027
---sim-load-config accelerator=speedlock

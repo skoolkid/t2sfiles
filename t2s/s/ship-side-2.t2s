@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/s/Ship(SPE).tzx.zip
 --tape-name "Ship - Side 2 (System 4).tzx"
 --tape-sum ddebe4ad02d2a3e035db883d3e20b175
 --start 63527
---sim-load-config accelerator=rom

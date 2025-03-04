@@ -2,4 +2,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034802/KeshaWasBirdRemast
 --tape-name "kesha.tap"
 --tape-sum 29f5344ecfce41285cd085f8850c54bb
 --start 22243
---sim-load-config accelerator=tiny,rom

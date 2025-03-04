@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/a/AtomAnt.tzx.zip
 --tape-sum 5508bf4b524c8a0ad82b63391776333b
 --start 40739
 --sim-load-config machine=128
---sim-load-config accelerator=paul-owens

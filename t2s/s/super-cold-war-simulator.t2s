@@ -2,4 +2,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030824/SuperColdWarSimula
 --tape-name "SuperColdWarSimulator.tzx"
 --tape-sum 7335f80c645627411c488acec2243cb7
 --start 7997
---sim-load-config accelerator=rom

@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/m/MicroProseSoccerV2.tzx.zip
 --tape-sum 8c6adb6fb26709c1a6d7424340d847a9
 --start 48877
 --sim-load-config machine=128
---sim-load-config accelerator=rom

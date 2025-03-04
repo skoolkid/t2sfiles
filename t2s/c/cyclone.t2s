@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/c/Cyclone.tzx.zip
 --tape-name "Cyclone - Side 1.tzx"
 --tape-sum d1136e6bb15f53910169af5229beecde
 --start 63894
---sim-load-config accelerator=speedlock

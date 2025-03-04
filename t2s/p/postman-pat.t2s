@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/p/PostmanPat.tzx.zip
 --tape-name "Postman Pat.tzx"
 --tape-sum 5a0ac8f5451806d61b246258168ad43d
 --start 24440
---sim-load-config accelerator=speedlock

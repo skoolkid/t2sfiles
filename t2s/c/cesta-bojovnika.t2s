@@ -2,4 +2,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0000875/CestaBojovnika(Ult
 --tape-name "CestaBojovnika(Ultrasoft[SK]).tzx"
 --tape-sum f84e89976e1d11530b9c66a63b380c2b
 --start 32333
---sim-load-config accelerator=rom,dinaload

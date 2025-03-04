@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/t/TaskForce_2.tzx.zip
 --tape-sum cc10387e143b1dba195b97211478435c
 --start 65146
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock

@@ -3,5 +3,4 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038707/EducacaoMusical.tz
 --tape-sum cb7b494af32cabd63c9ab190d97dafdb
 --start 1343
 --sim-load-config fast-load=0
---sim-load-config accelerator=rom
 --sim-load-config finish-tape=1

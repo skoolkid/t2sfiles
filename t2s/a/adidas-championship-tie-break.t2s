@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/a/AdidasChampionshipTie-Break.tzx
 --tape-name "Adidas Championship Tie Break.tzx"
 --tape-sum baef7cbb2e8d5f941e3df4f7b0d432af
 --start 64018
---sim-load-config accelerator=speedlock,rom

@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/d/Dominator.tzx.zip
 --tape-sum 193b07adda49517f60e68ec32ba2b33c
 --start 31564
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock,rom

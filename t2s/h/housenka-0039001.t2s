@@ -2,5 +2,4 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039001/Housenka.tap.zip
 --tape-name "Housenka.tap"
 --tape-sum 0ea7e0a1d6fce586da1f4d3f7bc90614
 --start 1343
---sim-load-config accelerator=housenka
 --sim-load-config finish-tape=1

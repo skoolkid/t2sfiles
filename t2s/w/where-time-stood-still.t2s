@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/w/WhereTimeStoodStill.tzx.zip
 --tape-sum 9e30d67c52c3986968de303c3d22f0c4
 --start 48874
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock

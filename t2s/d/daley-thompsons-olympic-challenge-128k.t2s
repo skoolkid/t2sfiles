@@ -3,5 +3,4 @@ https://worldofspectrum.net/pub/sinclair/games/d/DaleyThompsonsOlympicChallenge.
 --tape-sum 6c66a0ec74b6b67abc20df7bde0e8557
 --start 65331
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock,rom
 --sim-load-config finish-tape=1

@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/m/MadNurse.tzx.zip
 --tape-name "Mad Nurse.tzx"
 --tape-sum d77bd57dbed138f1f30c2157844960d3
 --start 23931
---sim-load-config accelerator=bleepload

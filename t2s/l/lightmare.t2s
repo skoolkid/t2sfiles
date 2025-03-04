@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/l/Lightmare.tzx.zip
 --tape-sum 2e8b076ed56a38ed1eb48f9b0591103a
 --start 1343
 --sim-load-config finish-tape=1
---sim-load-config accelerator=bleepload

@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/d/Droidz.tzx.zip
 --tape-name "Droidz.tzx"
 --tape-sum 03cc413e5cbc04284dc5db68585e7d3f
 --start 64179
---sim-load-config accelerator=bleepload

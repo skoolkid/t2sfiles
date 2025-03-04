@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/m/Metro-Cross.tzx.zip
 --tape-name "Metrocross.tzx"
 --tape-sum 99215cbdebca325c9d54e70811271c48
 --start 64009
---sim-load-config accelerator=alkatraz

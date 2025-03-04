@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/s/ShortCircuit.tzx.zip
 --tape-name "Short Circuit - 48k.tzx"
 --tape-sum cec905eeff7e07d49e82c5fd77ab631b
 --start 65386
---sim-load-config accelerator=speedlock

@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/s/SwordOfTheSamurai.tzx.zip
 --tape-name "Sword Of The Samurai.tzx"
 --tape-sum f4af9ad4449d0dab083745cc3ebe7881
 --start 58496
---sim-load-config accelerator=speedlock

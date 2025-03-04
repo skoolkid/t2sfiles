@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/r/Rambo.tzx.zip
 --tape-name "Rambo.tzx"
 --tape-sum f71b4fcf66c28bd3fb8d6b61eb80ed8d
 --start 48880
---sim-load-config accelerator=speedlock

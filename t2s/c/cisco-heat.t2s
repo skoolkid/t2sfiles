@@ -3,5 +3,4 @@ https://worldofspectrum.net/pub/sinclair/games/c/CiscoHeat.tzx.zip
 --tape-sum 75bfba0debecd99da9e852714769b6cc
 --start 33921
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock,rom
 --sim-load-config finish-tape=1

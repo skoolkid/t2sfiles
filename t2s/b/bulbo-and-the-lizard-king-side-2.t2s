@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/b/BulboAndTheLizard-King.tzx.zip
 --tape-sum 9f55addfb38210453c1db1cbcdc9441f
 --start 1343
 --sim-load-config finish-tape=1
---sim-load-config accelerator=rom

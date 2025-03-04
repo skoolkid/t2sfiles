@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/r/RescateEnElGolfo.tzx.zip
 --tape-sum 02244bff74681be947eb87b6c353e343
 --start 64535
 --tape-stop 7
---sim-load-config accelerator=rom

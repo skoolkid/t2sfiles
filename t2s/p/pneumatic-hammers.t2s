@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/p/PneumaticHammers.tzx.zip
 --tape-name "Pneumatic Hammers.tzx"
 --tape-sum d4a36634b050accdce306ebc8bc2feb8
 --start 23419
---sim-load-config accelerator=bleepload

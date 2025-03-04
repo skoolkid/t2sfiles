@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/e/ElevatorAction.tzx.zip
 --tape-name "Elevator Action.tzx"
 --tape-sum 89df5d1aee07806c2a29e4f95afbe7dd
 --start 37923
---sim-load-config accelerator=rom

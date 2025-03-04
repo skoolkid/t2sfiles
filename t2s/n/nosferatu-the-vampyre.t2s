@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/n/NosferatuTheVampyre.tzx.zip
 --tape-sum 2c798f453fb273f6def81f26bf4fd398
 --start 30217
 --tape-stop 7
---sim-load-config accelerator=speedlock,rom

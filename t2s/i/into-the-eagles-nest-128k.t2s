@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/i/IntoTheEaglesNest.tzx.zip
 --tape-sum 8e053e3c967d2dcb889c63e3e835c282
 --start 32768
 --sim-load-config machine=128
---sim-load-config accelerator=rom

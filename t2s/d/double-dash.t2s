@@ -2,4 +2,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0001454/DoubleDash.tzx.zip
 --tape-name "DoubleDash.tzx"
 --tape-sum bc696139205b0c2c37b17941b4454a49
 --start 65170
---sim-load-config accelerator=paul-owens

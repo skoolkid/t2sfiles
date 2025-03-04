@@ -3,5 +3,4 @@ https://worldofspectrum.net/pub/sinclair/games/i/IngridsBack.tzx.zip
 --tape-sum ed29a4a58c33bc8b8a338dca9ff4621c
 --start 23296
 --sim-load-config machine=128
---sim-load-config accelerator=rom
 --sim-load-config finish-tape=1

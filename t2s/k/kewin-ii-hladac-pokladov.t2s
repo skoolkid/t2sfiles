@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/k/KewinII.tzx.zip
 --tape-sum 14b1e606e46cb7690efca70e1a4189a1
 --start 41783
 --tape-stop 10
---sim-load-config accelerator=rom

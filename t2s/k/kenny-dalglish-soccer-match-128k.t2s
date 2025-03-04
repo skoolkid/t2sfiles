@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/k/KennyDalglishSoccerMatch.tzx.zi
 --tape-sum 8f0b7510474702b1a56c7e7f1baa2533
 --start 37236
 --sim-load-config machine=128
---sim-load-config accelerator=gremlin

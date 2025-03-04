@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/m/MissionElevator.tzx.zip
 --tape-name "Mission Elevator.tzx"
 --tape-sum ebc4dec6ab9cb31c6b59beff2fdd0318
 --start 64509
---sim-load-config accelerator=alkatraz

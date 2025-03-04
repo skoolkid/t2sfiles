@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/t/TurboBoatSimulator.tzx.zip
 --tape-sum 7e3c8ab867a1e8ed182e71afa5cd9b0c
 --start 30077
 --sim-load-config machine=128
---sim-load-config accelerator=rom

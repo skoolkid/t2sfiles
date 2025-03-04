@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/s/Sector3D.tzx.zip
 --tape-name "3D sector.tzx"
 --tape-sum 65ed702d229c9b0361f2df582b4b9dbb
 --start 33093
---sim-load-config accelerator=rom

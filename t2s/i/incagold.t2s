@@ -2,5 +2,4 @@ https://worldofspectrum.net/pub/sinclair/compilations/123/51GamesCompilation.tzx
 --tape-name "INCAGOLD.TZX"
 --tape-sum 434a2b5b7fc85e13180d6f16ac6b536d
 --start 21987
---sim-load-config accelerator=rom
 --sim-load-config machine=128

@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/l/LicenceToKill.tzx.zip
 --tape-sum 574179686e1b8a03bf393a3230f98b5c
 --start 65188
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock

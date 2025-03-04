@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/s/Sanxion.tzx.zip
 --tape-sum 65c0358cbb59e1326b735e2c45e55c72
 --start 64972
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock

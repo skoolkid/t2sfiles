@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/g/GnomeRanger.tzx.zip
 --tape-sum 2b23a27b56a5842df14f0154c8eb8c25
 --start 28632
 --sim-load-config machine=128
---sim-load-config accelerator=rom

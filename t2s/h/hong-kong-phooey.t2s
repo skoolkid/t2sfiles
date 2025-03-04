@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/h/HongKongPhooey.tzx.zip
 --tape-name "Hong Kong Phooey.tzx"
 --tape-sum 3a4fb99ead1776daf7ba56425a2af655
 --start 63502
---sim-load-config accelerator=bleepload

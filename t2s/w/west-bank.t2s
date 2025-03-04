@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/w/WestBank.tzx.zip
 --tape-name "West Bank (Spanish).tzx"
 --tape-sum 5f76fe01f3ea0b7d9703e60884999dc9
 --start 18458
---sim-load-config accelerator=rom

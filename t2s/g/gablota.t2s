@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/g/Gablota.tzx.zip
 --tape-sum f629409289f1b3cac62731dac237b797
 --start 1343
 --sim-load-config finish-tape=1
---sim-load-config accelerator=rom

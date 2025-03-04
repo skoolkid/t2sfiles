@@ -3,4 +3,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0004623/Sokoban_2.tzx.zip
 --tape-sum c529b32862c7219dfdda9bcbffda2c9e
 --start 21216
 --sim-load-config machine=128
---sim-load-config accelerator=rom

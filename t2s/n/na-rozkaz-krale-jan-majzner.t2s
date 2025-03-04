@@ -2,4 +2,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035550/NaRozkazKrale.tap.
 --tape-name "NaRozkazKrale.tap"
 --tape-sum 9b25931466397513ae9cf0ecdd0e1dfb
 --start 24200
---sim-load-config accelerator=bleepload

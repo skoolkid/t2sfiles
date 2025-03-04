@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/k/KokotoniWilf.tzx.zip
 --tape-name "Kokotoni Wilf.tzx"
 --tape-sum b67da9cae44615309df1286d39c68546
 --start 41200
---sim-load-config accelerator=rom

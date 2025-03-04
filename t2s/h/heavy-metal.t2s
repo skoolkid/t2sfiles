@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/h/HeavyMetal.tzx.zip
 --tape-name "Heavy Metal - Side A.tzx"
 --tape-sum 486cc4ecc58b5d86589dc47673df7e46
 --start 48513
---sim-load-config accelerator=alkatraz

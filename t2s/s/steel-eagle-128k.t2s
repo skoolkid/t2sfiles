@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/s/SteelEagle.tzx.zip
 --tape-sum b450b76ad89837b209645e3fa6858aef
 --start 65200
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock

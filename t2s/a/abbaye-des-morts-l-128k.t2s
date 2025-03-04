@@ -3,4 +3,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030109/AbbayeDesMorts.tzx
 --tape-sum 2d7230ec574246fb7bf9d4991559f5ba
 --start 24618
 --sim-load-config machine=128
---sim-load-config accelerator=bleepload,rom

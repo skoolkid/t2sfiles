@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/b/BehindClosedDoors3-RevengeOfThe
 --tape-name "Behind Closed Doors 3 - Revenge Of The Ants.tzx"
 --tape-sum 46dc96c08f45fe933517a115be6e7d21
 --start 25000
---sim-load-config accelerator=rom

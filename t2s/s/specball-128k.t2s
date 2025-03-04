@@ -3,4 +3,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030263/Specball.tzx.zip
 --tape-sum 23a757b0f53f4be9d4ef50b55cff59b3
 --start 64580
 --sim-load-config machine=128
---sim-load-config accelerator=weird-science

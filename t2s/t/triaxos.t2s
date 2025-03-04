@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/t/Triaxos.tzx.zip
 --tape-name "TRIAXOS.TZX"
 --tape-sum 375448be7b2f96ec059667d88b8d70a6
 --start 64928
---sim-load-config accelerator=speedlock

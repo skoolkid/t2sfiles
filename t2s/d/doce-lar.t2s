@@ -2,5 +2,4 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038482/DoceLar.tzx.zip
 --tape-name "DoceLar.tzx"
 --tape-sum ae287529a0c61da7b5bac5ad8fb59e8e
 --start 1343
---sim-load-config accelerator=rom
 --sim-load-config finish-tape=1

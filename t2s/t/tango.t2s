@@ -2,4 +2,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0005126/Tango.tzx.zip
 --tape-name "Tango.tzx"
 --tape-sum 824630bea042a9e79b50c8150c0de3a3
 --start 64952
---sim-load-config accelerator=bleepload

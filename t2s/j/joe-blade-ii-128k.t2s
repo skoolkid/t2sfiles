@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/j/JoeBladeII.tzx.zip
 --tape-sum 14fe97ce1759aeee78782adcb376f7b2
 --start 20544
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock

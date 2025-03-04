@@ -3,5 +3,4 @@ https://worldofspectrum.net/pub/sinclair/games/p/Plotting.tzx.zip
 --tape-sum a625c12b3504f54d5991cdbb3a8c8b76
 --start 65117
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock
 --sim-load-config finish-tape=1

@@ -3,4 +3,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0012831/EliteIII.tzx.zip
 --tape-sum 5a1e2d758634a947dbddb4179deaaa40
 --start 21984
 --sim-load-config machine=128
---sim-load-config accelerator=rom,tiny

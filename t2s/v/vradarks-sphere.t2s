@@ -3,4 +3,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034423/VradarksSphere.tap
 --tape-sum 4b8449689662b1ac9b786ceaf95c2561
 --start 32768
 --tape-stop 6
---sim-load-config accelerator=rom

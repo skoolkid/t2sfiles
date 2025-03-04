@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/s/ShanghaiKarate.tzx.zip
 --tape-sum 3fa0b5726e77b0b06cd562ac9c7b875e
 --start 65364
 --tape-stop 8
---sim-load-config accelerator=speedlock

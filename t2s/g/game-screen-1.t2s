@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/g/GameScreen1.tzx.zip
 --tape-name "15_GS1.tzx"
 --tape-sum 7d068cc86bfec5a6fd77fd31d6a1193e
 --start 24200
---sim-load-config accelerator=rom

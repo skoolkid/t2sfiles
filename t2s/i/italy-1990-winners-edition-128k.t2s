@@ -4,4 +4,3 @@ https://worldofspectrum.net/pub/sinclair/games/i/Italy1990-WinnersEdition.tzx.zi
 --start 47024
 --sim-load-config machine=128
 --tape-stop 13
---sim-load-config accelerator=alkatraz-05,alkatraz-09

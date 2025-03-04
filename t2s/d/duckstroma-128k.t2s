@@ -3,4 +3,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036490/Duckstroma.tzx.zip
 --tape-sum 14801aecdef88b4aec29927f881e6847
 --start 22243
 --sim-load-config machine=128
---sim-load-config accelerator=tiny,rom

@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/s/Skateboard.tzx.zip
 --tape-name "Skateboard Construction System.tzx"
 --tape-sum a5ca309daaa3345725c92566f461b73a
 --start 64926
---sim-load-config accelerator=speedlock

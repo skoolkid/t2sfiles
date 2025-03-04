@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/p/PrisonRiot.tzx.zip
 --tape-sum deb3b04ff31ef4225dd882340d6213d7
 --start 65210
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock

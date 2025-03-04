@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/f/FlySwatter.tzx.zip
 --tape-sum 204b146f2d1a4dbe7916bff970fe3d3f
 --start 23891
 --sim-load-config in-flags=1
---sim-load-config accelerator=rom

@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/w/Wizball.tzx.zip
 --tape-name "Wizball.tzx"
 --tape-sum 933a36867ea6963792890d24f7e23dee
 --start 65329
---sim-load-config accelerator=speedlock

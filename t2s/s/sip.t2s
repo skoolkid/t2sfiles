@@ -2,4 +2,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030152/SIP.tzx.zip
 --tape-name "SIP.tzx"
 --tape-sum 01aac7920d32a3ff72b4ace1ff822490
 --start 64547
---sim-load-config accelerator=rom

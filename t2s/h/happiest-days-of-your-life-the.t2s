@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/h/HappiestDaysOfYourLifeThe.tzx.z
 --tape-name "The Happiest Days Of Your Life.tzx"
 --tape-sum 9546010f19bf102c7e5ab89b3961c23c
 --start 64807
---sim-load-config accelerator=rom

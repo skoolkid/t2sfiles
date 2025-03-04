@@ -3,5 +3,4 @@ https://worldofspectrum.net/pub/sinclair/games/t/Thundercats.tzx.zip
 --tape-sum acfba39090669b2d659b086b6ccbc215
 --start 32878
 --sim-load-config machine=128
---sim-load-config accelerator=gargoyle2,speedlock
 --sim-load-config finish-tape=1

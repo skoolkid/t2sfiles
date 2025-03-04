@@ -2,4 +2,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035831/KrakoutII.tap.zip
 --tape-name "KrakoutII.tap"
 --tape-sum f360f5d8d1b3117f4601a81642adc2f8
 --start 25189
---sim-load-config accelerator=rom

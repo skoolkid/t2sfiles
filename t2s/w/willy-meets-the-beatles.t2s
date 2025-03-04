@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/w/WillyMeetsTheBeatles.tzx.zip
 --tape-sum 200e93f153b8726e05f1ae53e918b2ee
 --start 22499
 --sim-load-config machine=128
---sim-load-config accelerator=tiny,rom

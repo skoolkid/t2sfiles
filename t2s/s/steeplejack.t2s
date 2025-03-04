@@ -2,4 +2,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018996/SteepleJack(DigiTa
 --tape-name "SteepleJack(DigiTape).tzx"
 --tape-sum a8c41ce01b8488d431f18b62df5a7810
 --start 52395
---sim-load-config accelerator=speedlock

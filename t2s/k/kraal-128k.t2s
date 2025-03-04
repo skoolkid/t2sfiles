@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/k/Kraal.tzx.zip
 --tape-sum 933022fffe06f5c7108267a17e5cd0cf
 --start 27162
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock,rom

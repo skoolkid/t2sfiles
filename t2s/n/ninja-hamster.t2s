@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/n/NinjaHamster.tzx.zip
 --tape-sum 3fd64b5d9759d7c38340536155eb5a8a
 --start 65498
 --tape-stop 8
---sim-load-config accelerator=bleepload

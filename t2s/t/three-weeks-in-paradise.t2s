@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/t/ThreeWeeksInParadise48.tzx.zip
 --tape-name "Three Weeks In Paradise - 48k.tzx"
 --tape-sum 9851275d30a55f4f03bdb91167319117
 --start 65269
---sim-load-config accelerator=speedlock

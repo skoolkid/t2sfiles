@@ -4,6 +4,4 @@ https://worldofspectrum.net/pub/sinclair/compilations/c/Compendium.tzx.zip
 --start 23296
 --tape-start 8
 --sim-load-config machine=128
---sim-load-config accelerate-dec-a=2
---sim-load-config accelerator=search-loader
 --sim-load-config finish-tape=1

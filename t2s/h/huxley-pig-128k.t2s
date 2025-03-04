@@ -4,4 +4,3 @@ https://worldofspectrum.net/pub/sinclair/games/h/HuxleyPig.tzx.zip
 --start 32768
 --sim-load-config machine=128
 --tape-stop 5
---sim-load-config accelerator=alternative

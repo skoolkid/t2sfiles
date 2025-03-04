@@ -2,4 +2,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0006341/Fuksoft.tzx.zip
 --tape-name "Fuksoft.tzx"
 --tape-sum b0d98d0425de6e144092b85ea3ad0ce2
 --start 64838
---sim-load-config accelerator=bleepload

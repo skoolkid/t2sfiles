@@ -4,4 +4,3 @@ https://worldofspectrum.net/pub/sinclair/games/c/ChaseH.Q.II-SpecialCriminalInve
 --start 48733
 --sim-load-config machine=128
 --sim-load-config finish-tape=1
---sim-load-config accelerator=speedlock

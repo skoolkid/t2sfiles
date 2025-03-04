@@ -2,4 +2,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0003123/MentalBlock.tzx.zi
 --tape-name "MentalBlock.tzx"
 --tape-sum 86b02c9a9f0a90253661dbdd935e1801
 --start 34928
---sim-load-config accelerator=rom

@@ -2,4 +2,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036955/Dundley2-TheStoryO
 --tape-name "Dundley2-TheStoryOfAFamily.tap"
 --tape-sum 9f791ee35c46ff513b194199195a1f0a
 --start 21987
---sim-load-config accelerator=rom

@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/k/KingsValley.tzx.zip
 --tape-name "King's Valley.tzx"
 --tape-sum 9def74b00a5ac67eeaeffda85acb3263
 --start 64043
---sim-load-config accelerator=rom

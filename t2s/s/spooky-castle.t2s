@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/s/SpookyCastle.tzx.zip
 --tape-name "Spooky Castle.tzx"
 --tape-sum 6d0ccaf76984615aaadb72a3a808f6be
 --start 61479
---sim-load-config accelerator=rom

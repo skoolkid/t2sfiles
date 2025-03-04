@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/t/Tria.tzx.zip
 --tape-name "TRIA.TZX"
 --tape-sum 8f6a33d72cd1f0a9a3e021ffaa061e3f
 --start 64835
---sim-load-config accelerator=bleepload

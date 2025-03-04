@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/m/MugginsTheSpaceman.tzx.zip
 --tape-name "Muggins The Spaceman.tzx"
 --tape-sum 96f8e23bf4e03d22747f1ecbad332a77
 --start 23453
---sim-load-config accelerator=bleepload,rom

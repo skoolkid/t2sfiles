@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/d/DynamiteDanII.tzx.zip
 --tape-name "Dynamite Dan 2.tzx"
 --tape-sum 6494f310079a5e450ce032476f664d9b
 --start 23349
---sim-load-config accelerator=speedlock

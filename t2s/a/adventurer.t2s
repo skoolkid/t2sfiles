@@ -2,4 +2,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0000095/Adventurer.tzx.zip
 --tape-name "Adventurer.tzx"
 --tape-sum 9397aa2d2ee8ccb6a5e2da92dd4c8b34
 --start 64952
---sim-load-config accelerator=bleepload

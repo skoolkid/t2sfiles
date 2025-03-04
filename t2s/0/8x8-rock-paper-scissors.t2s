@@ -2,4 +2,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042378/8x8RockPaperScisso
 --tape-name "8x8RockPaperScissors.tap"
 --tape-sum de1dd17fa4e7d84133f19ad2f9bbc020
 --start 21987
---sim-load-config accelerator=rom

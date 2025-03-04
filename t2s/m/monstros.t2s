@@ -3,5 +3,4 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039303/Monstros.tzx.zip
 --tape-sum 35cc4c1ff5a5933b13da8a84bc2a1c66
 --start 7070
 --sim-load-config fast-load=0
---sim-load-config accelerator=rom
 --sim-load-config finish-tape=1

@@ -3,5 +3,4 @@ https://worldofspectrum.net/pub/sinclair/games/n/NinjaWarriorsThe.tzx.zip
 --tape-sum 9ec38d6e2db9aaf8b6280e0cd1900f20
 --start 43921
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock,rom
 --sim-load-config finish-tape=1

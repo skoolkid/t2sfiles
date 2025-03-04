@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/s/Spirits.tzx.zip
 --tape-name "Spirits.tzx"
 --tape-sum 6ed167c7cdb04c35414728f380787c47
 --start 48002
---sim-load-config accelerator=bleepload

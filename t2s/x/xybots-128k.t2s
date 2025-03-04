@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/x/Xybots.tzx.zip
 --tape-sum 17e573d93574a634cea46aacaab0e91b
 --start 32688
 --sim-load-config machine=128
---sim-load-config accelerator=rom

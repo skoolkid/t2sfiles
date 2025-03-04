@@ -2,5 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/f/FutureGames.tzx.zip
 --tape-name "Future Games - Side 2.tzx"
 --tape-sum a2e1cb398d2f631856aa38d3aab3fcf6
 --start 65143
---sim-load-config accelerator=rom
---sim-load-config accelerate-dec-a=2

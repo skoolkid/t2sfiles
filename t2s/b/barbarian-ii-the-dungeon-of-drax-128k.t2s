@@ -3,5 +3,4 @@ https://worldofspectrum.net/pub/sinclair/games/b/BarbarianII-TheDungeonOfDrax.tz
 --tape-sum f43c3c4ee877fe11071e1589795d5451
 --start 48733
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock
 --sim-load-config finish-tape=1

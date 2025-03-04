@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/r/RoadBlasters.tzx.zip
 --tape-sum 8f703f82fd556fe5f36f28cab47d5c01
 --start 48945
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock

@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/s/Slug.tzx.zip
 --tape-name "Slug.tzx"
 --tape-sum f90dd7ab81ddc85ed853579601a21e6e
 --start 32768
---sim-load-config accelerator=speedlock

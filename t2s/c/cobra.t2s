@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/c/Cobra.tzx.zip
 --tape-name "Cobra.tzx"
 --tape-sum c8bd50fba1b731bcc261a3f0d3bb9865
 --start 64474
---sim-load-config accelerator=alkatraz

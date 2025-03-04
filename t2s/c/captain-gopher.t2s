@@ -3,4 +3,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036525/CaptainGopher.tap.
 --tape-sum e05dcb9ad8e0ec96eaeaee6846741ccd
 --start 25000
 --sim-load-config machine=128
---sim-load-config accelerator=rom

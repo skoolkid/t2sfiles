@@ -2,4 +2,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034430/JetSetWillyTheNigh
 --tape-name "Jet Set Willy - The Nightmare Edition.tzx"
 --tape-sum 52a562705f9eac116370a83cb3625c85
 --start 61992
---sim-load-config accelerator=speedlock

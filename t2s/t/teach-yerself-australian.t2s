@@ -2,5 +2,4 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031327/TeachYerselfAustra
 --tape-name "TeachYerselfAustralian.tzx"
 --tape-sum 15e932126855bcf173510342e97bc189
 --start 1343
---sim-load-config accelerator=rom
 --sim-load-config finish-tape=1

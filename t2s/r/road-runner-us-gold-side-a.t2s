@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/r/RoadRunner(Kixx).tzx.zip
 --tape-name "Road Runner - Side A (Kixx).tzx"
 --tape-sum 48c48bd448b56aba43df689c618e8bda
 --start 23329
---sim-load-config accelerator=speedlock,rom

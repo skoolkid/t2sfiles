@@ -2,4 +2,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0004759/SpiritOfNinjaThe.t
 --tape-name "SpiritOfNinjaThe.tzx"
 --tape-sum 17dc60ac187d5f4bdf2d2f2230074cb8
 --start 16396
---sim-load-config accelerator=bleepload

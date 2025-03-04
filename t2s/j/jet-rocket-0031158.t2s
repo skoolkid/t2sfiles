@@ -2,4 +2,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031158/JetRocket.tap.zip
 --tape-name "JetRocket.tap"
 --tape-sum 3f0118f19806ad841e4da6f8710e6f64
 --start 24067
---sim-load-config accelerator=rom

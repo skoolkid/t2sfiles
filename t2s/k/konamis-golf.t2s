@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/k/KonamisGolf.tzx.zip
 --tape-name "Konami's Golf.tzx"
 --tape-sum a03ae0a5bbe74fc978418fdc9f8f01e4
 --start 65319
---sim-load-config accelerator=speedlock

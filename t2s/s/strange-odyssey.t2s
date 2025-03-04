@@ -4,4 +4,3 @@ https://worldofspectrum.net/pub/sinclair/compilations/s/ScottAdamsScoops.tzx.zip
 --start 50470
 --tape-start 10
 --tape-stop 14
---sim-load-config accelerator=alkatraz

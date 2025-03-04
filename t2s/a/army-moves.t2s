@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/a/ArmyMoves(ImagineSoftwareLtd).t
 --tape-name "Army Moves - 48k.tzx"
 --tape-sum c737876691f14e1c28757cbab7dbd2b8
 --start 52500
---sim-load-config accelerator=bleepload

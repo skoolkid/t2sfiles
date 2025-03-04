@@ -2,5 +2,4 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0004548/Skladacka.tzx.zip
 --tape-name "Skladacka.tzx"
 --tape-sum 13930207148d924e744ef25d64691fee
 --start 1343
---sim-load-config accelerator=speedlock,bleepload,rom
 --sim-load-config finish-tape=1

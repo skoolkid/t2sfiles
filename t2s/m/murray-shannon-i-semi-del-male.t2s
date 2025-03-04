@@ -4,4 +4,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0027103/Viking-AdventuresI
 --start 18380
 --tape-start 15
 --tape-stop 25
---sim-load-config accelerator=rom

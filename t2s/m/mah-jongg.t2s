@@ -3,4 +3,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0002991/MahJongg.tzx.zip
 --tape-sum 4642df6edc4ab471763f9c500d76a281
 --start 24200
 --tape-stop 5
---sim-load-config accelerator=bleepload

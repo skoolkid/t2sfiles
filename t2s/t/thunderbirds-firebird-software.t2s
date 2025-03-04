@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/t/Thunderbirds.tzx.zip
 --tape-name "Thunderbirds (Firebird).tzx"
 --tape-sum 6754468cd5595edca59d8a1dc3a9eafb
 --start 23344
---sim-load-config accelerator=rom

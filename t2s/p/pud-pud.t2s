@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/p/PudPud.tzx.zip
 --tape-name "Pud Pud.tzx"
 --tape-sum e37d33ca25f9f32f6f287da83553bdc9
 --start 51731
---sim-load-config accelerator=speedlock

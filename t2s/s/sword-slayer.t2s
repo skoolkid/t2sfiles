@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/s/SwordSlayer.tzx.zip
 --tape-name "Sword Slayer - Side A.tzx"
 --tape-sum c8672f39050520c195f3113a136e4143
 --start 65355
---sim-load-config accelerator=speedlock

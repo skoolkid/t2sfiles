@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/c/Cyberbig.tzx.zip
 --tape-sum d64244342ccbb89ea921fbd0dc23d330
 --start 65064
 --sim-load-config machine=128
---sim-load-config accelerator=bleepload

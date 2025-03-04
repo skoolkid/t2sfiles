@@ -2,4 +2,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042744/SuperMinimalBro.ta
 --tape-name "SuperMinimalBro.tap"
 --tape-sum 1d612ae749367f50847bcc8b36a0fdfc
 --start 32800
---sim-load-config accelerator=rom

@@ -2,5 +2,4 @@ https://worldofspectrum.net/pub/sinclair/games/f/ForbiddenPlanet.tzx.zip
 --tape-name "Forbidden Planet - Side 1.tzx"
 --tape-sum 400a46c3b5a84d45e3bf96c448448ac3
 --start 25088
---sim-load-config accelerator=design-design
 --sim-load-config polarity=1

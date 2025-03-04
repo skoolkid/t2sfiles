@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/s/Shark.tzx.zip
 --tape-sum b404b266a38ecf8803be8e85a3ebb024
 --start 46374
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock

@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/y/YieArKung-Fu.tzx.zip
 --tape-name "Yie Ar Kung Fu.tzx"
 --tape-sum 21ad7cefa8b77cf9cdad1e0ad389a1df
 --start 64942
---sim-load-config accelerator=speedlock

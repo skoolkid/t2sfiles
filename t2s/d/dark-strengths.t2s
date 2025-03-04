@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/d/DarkStrengths.tzx.zip
 --tape-sum 4351d8c41a6755cad46d900b2d75407c
 --start 24200
 --tape-start 5
---sim-load-config accelerator=rom

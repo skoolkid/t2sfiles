@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/w/Wanderer.tzx.zip
 --tape-name "Wanderer.tzx"
 --tape-sum 08152ef270d480f74dce25c5486cf088
 --start 65155
---sim-load-config accelerator=speedlock

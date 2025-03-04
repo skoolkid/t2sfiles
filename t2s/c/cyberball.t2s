@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/c/Cyberball.tzx.zip
 --tape-sum 77fb78b9d9ed6b39b470e15128f1ea5e
 --start 25774
 --sim-load-config machine=128
---sim-load-config accelerator=rom

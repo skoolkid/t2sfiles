@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/k/Kutya.tzx.zip
 --tape-name "kutya.tzx"
 --tape-sum 90d2bd91b3d5dace16321aa53a665be7
 --start 48495
---sim-load-config accelerator=tiny

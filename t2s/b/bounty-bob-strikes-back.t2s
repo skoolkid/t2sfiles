@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/b/BountyBobStrikesBack.tzx.zip
 --tape-name "Bounty Bob Strikes Back.tzx"
 --tape-sum ff08bef9974206aed3cd1c246b1e9c26
 --start 65461
---sim-load-config accelerator=speedlock

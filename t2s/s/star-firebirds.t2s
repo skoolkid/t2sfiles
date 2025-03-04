@@ -2,5 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/s/StarFirebirds(FirebirdSoftwareL
 --tape-name "Star Firebirds.tzx"
 --tape-sum 398aea4174c6e6b878e02ddcc69a527d
 --start 64045
---sim-load-config accelerator=dinaload
---sim-load-config accelerate-dec-a=2

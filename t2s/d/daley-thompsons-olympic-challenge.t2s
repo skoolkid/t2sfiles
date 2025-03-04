@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/d/DaleyThompsonsOlympicChallenge.
 --tape-name "Daley Thompson's Olympic Challenge - Side 1.tzx"
 --tape-sum 6c66a0ec74b6b67abc20df7bde0e8557
 --start 23646
---sim-load-config accelerator=speedlock,rom

@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/t/TubeThe.tzx.zip
 --tape-sum 80dcc2c95c6bccc37d86d44b2f095ed2
 --start 38144
 --tape-stop 8
---sim-load-config accelerator=rom

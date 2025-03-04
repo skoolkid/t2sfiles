@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/b/Batman-TheCapedCrusader.tzx.zip
 --tape-name "Batman The Caped Crusader - Side 2.tzx"
 --tape-sum 23ee7036dba37fafd99e85b46bc8f987
 --start 65283
---sim-load-config accelerator=speedlock

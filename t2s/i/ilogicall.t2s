@@ -3,5 +3,4 @@ https://worldofspectrum.net/pub/sinclair/games/i/ILogicAll.tzx.zip
 --tape-sum f38e18e4d1597cf98dc1c92f7a14c64b
 --start 65504
 --sim-load-config machine=128
---sim-load-config accelerator=rom
 --sim-load-config finish-tape=1

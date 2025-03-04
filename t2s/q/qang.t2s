@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/q/Qang.tap.zip
 --tape-name "QANG.TAP"
 --tape-sum c4f589044d94cfa671d18b8382cb834c
 --start 30157
---sim-load-config accelerator=rom

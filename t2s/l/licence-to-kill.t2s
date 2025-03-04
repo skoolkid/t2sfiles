@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/l/LicenceToKill.tzx.zip
 --tape-name "Licence To Kill - 48k.tzx"
 --tape-sum ea37a787becbdb2c74dada8e668b8f37
 --start 65188
---sim-load-config accelerator=speedlock

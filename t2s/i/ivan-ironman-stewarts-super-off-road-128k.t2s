@@ -3,5 +3,4 @@ https://worldofspectrum.net/pub/sinclair/games/i/IvanIronmanStewartsSuperOffRoad
 --tape-sum 67e1c1be06e417e83fdfb51fb8938b61
 --start 65117
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock
 --sim-load-config finish-tape=1

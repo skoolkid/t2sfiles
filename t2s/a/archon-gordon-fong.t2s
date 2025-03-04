@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/a/Archon_2.tap.zip
 --tape-name "ARCHON.TAP"
 --tape-sum 2e84ec460cd93107061d4fa0b0ef743e
 --start 42794
---sim-load-config accelerator=rom

@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/b/Bazam.tap.zip
 --tape-name "BAZAM.TAP"
 --tape-sum 52d4a828e16ca54be31e149974cc42b8
 --start 23853
---sim-load-config accelerator=rom

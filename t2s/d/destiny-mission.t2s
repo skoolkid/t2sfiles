@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/d/DestinyMission.tzx.zip
 --tape-name "Destiny Mission.tzx"
 --tape-sum e8e3e5982b287e816cc88a6c3006b932
 --start 57809
---sim-load-config accelerator=paul-owens

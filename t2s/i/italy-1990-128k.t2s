@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/i/Italy1990.tzx.zip
 --tape-sum 87268617ba244c177045deb328439a99
 --start 47024
 --sim-load-config machine=128
---sim-load-config accelerator=alkatraz-05,alkatraz-09

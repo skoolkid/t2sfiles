@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/k/KongStrikesBack.tzx.zip
 --tape-name "Kong Strikes Back.tzx"
 --tape-sum d10438444d06f093381865bef87e695d
 --start 60479
---sim-load-config accelerator=speedlock

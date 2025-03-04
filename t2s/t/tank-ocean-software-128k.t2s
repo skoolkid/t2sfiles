@@ -4,4 +4,3 @@ https://worldofspectrum.net/pub/sinclair/games/t/Tank.tzx.zip
 --start 29005
 --tape-stop 374
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock,rom

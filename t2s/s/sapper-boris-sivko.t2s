@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/s/Sapper.tzx.zip
 --tape-sum e8f2e39a382c56c82318e1a92dd69274
 --start 24235
 --sim-load-config in-flags=1
---sim-load-config accelerator=rom

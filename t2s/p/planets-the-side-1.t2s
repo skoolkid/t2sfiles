@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/p/PlanetsThe.tzx.zip
 --tape-name "The Planets - Side 1.tzx"
 --tape-sum 1ae53b2c4628c19a62cefa038cce2577
 --start 65245
---sim-load-config accelerator=speedlock

@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/p/PriceOfMagikThe.tzx.zip
 --tape-sum f5465bc47a7b09bff7653aad7aa5f27f
 --start 54894
 --sim-load-config machine=128
---sim-load-config accelerator=rom

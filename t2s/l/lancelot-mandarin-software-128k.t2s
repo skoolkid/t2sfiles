@@ -5,4 +5,3 @@ https://worldofspectrum.net/pub/sinclair/games/l/Lancelot_2.tzx.zip
 --sim-load-config machine=128
 --sim-load-config first-edge=8589
 --sim-load-config finish-tape=1
---sim-load-config accelerator=rom

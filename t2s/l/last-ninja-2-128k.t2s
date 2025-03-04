@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/l/LastNinja2.tzx.zip
 --tape-sum 22fcb6dd04eff286a52f1b7ae317daad
 --start 65283
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock

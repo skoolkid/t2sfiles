@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/e/Escape_4.tzx.zip
 --tape-sum cb178ffa41b0838e0202b24000e1be61
 --start 1343
 --sim-load-config finish-tape=1
---sim-load-config accelerator=rom

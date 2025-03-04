@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/d/Dracula.tzx.zip
 --tape-name "Dracula - Part 3 - The Hunt.tzx"
 --tape-sum d81332be8b1162f1dbc68af083fea6da
 --start 65053
---sim-load-config accelerator=speedlock

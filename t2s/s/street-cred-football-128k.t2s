@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/s/StreetCredFootball.tzx.zip
 --tape-sum a9408a2c94a82e43b032328ddd4ae6aa
 --start 37946
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock

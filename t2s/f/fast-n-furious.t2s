@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/f/FastNFurious.tzx.zip
 --tape-name "The Fast And The Furious.tzx"
 --tape-sum c356a2ed04a0fc995251cfbdefe759eb
 --start 65407
---sim-load-config accelerator=alkatraz,alkatraz-0b

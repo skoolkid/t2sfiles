@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/n/Nonocross.tzx.zip
 --tape-name "Nonocross.tzx"
 --tape-sum 4ac54d5dd38d1e0a8737d624baa6cdf6
 --start 65352
---sim-load-config accelerator=speedlock

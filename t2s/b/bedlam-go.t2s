@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/b/Bedlam_2.tzx.zip
 --tape-sum 9aaf3e7901fc6ef04da0ebb6a5794c3f
 --start 47171
 --sim-load-config machine=128
---sim-load-config accelerator=alkatraz

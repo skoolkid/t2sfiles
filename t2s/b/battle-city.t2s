@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/b/BattleCity.tzx.zip
 --tape-name "battlecity.tzx"
 --tape-sum b72fa7f33b4f24c28ee4eba761668bb3
 --start 60126
---sim-load-config accelerator=rom

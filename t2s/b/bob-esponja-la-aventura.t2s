@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/b/BobEsponja-LaAventura-.tzx.zip
 --tape-sum 41fc0cc15d3d948e97ef41c10104f9cb
 --start 1343
 --sim-load-config finish-tape=1
---sim-load-config accelerator=rom

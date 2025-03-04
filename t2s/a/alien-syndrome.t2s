@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/a/AlienSyndrome.tzx.zip
 --tape-sum 5c0eaa163398b954425a3fa12888bdb1
 --start 40556
 --tape-stop 5
---sim-load-config accelerator=alkatraz

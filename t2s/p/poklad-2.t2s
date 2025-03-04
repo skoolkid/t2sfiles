@@ -2,4 +2,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0003804/Poklad2(ProximaSof
 --tape-name "Poklad2(ProximaSoftware).tzx"
 --tape-sum 7f6014adb6b366251231b914262e6f01
 --start 24200
---sim-load-config accelerator=bleepload

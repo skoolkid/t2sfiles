@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/d/DeepThe.tzx.zip
 --tape-name "The Deep.tzx"
 --tape-sum 2dc584ce391771803244101e75d9548e
 --start 33971
---sim-load-config accelerator=alkatraz,alkatraz-0a

@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/s/SplittingImages.tzx.zip
 --tape-name "Splitting Images.tzx"
 --tape-sum 92d9d96a513804f3962af0f93859478c
 --start 53674
---sim-load-config accelerator=speedlock

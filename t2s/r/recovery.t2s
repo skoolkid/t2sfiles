@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/r/Recovery.tzx.zip
 --tape-name "RECOVERY.TZX"
 --tape-sum b75d8bbca594e01f14c73e8749ac3e52
 --start 53178
---sim-load-config accelerator=bleepload

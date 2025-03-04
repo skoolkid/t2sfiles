@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/f/Firefly.tzx.zip
 --tape-name "Firefly.tzx"
 --tape-sum d0ae541f5f8af51a6c5a81eaa22d5a8c
 --start 65283
---sim-load-config accelerator=speedlock

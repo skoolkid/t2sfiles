@@ -3,4 +3,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042526/InformacniProgram.
 --tape-sum d58dc017ddf8ef8a4307955fa0b067bf
 --start 24200
 --tape-stop 5
---sim-load-config accelerator=bleepload

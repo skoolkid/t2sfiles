@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/c/CastleMasterII-TheCrypt.tzx.zip
 --tape-name "CASTLEM2.TZX"
 --tape-sum a176a1df994f8c55f0dc2ef57ec68c76
 --start 27136
---sim-load-config accelerator=speedlock

@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/l/LoadsOfMidnight.tzx.zip
 --tape-name "Loads Of Midnight - Side 1.tzx"
 --tape-sum bf4ec8b6a4fbf6449bbd763003890654
 --start 65492
---sim-load-config accelerator=bleepload

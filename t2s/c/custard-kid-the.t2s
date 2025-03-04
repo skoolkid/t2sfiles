@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/c/CustardKidThe.tzx.zip
 --tape-name "The Custard Kid.tzx"
 --tape-sum 46eb92e27fb4d36951c15cc1dcd31a7d
 --start 40960
---sim-load-config accelerator=rom

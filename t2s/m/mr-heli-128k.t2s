@@ -4,4 +4,3 @@ https://worldofspectrum.net/pub/sinclair/games/m/Mr.Heli.tzx.zip
 --start 23358
 --sim-load-config machine=128
 --tape-stop 11
---sim-load-config accelerator=rom

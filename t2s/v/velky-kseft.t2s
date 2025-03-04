@@ -2,4 +2,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035458/VelkyKseft.tap.zip
 --tape-name "VelkyKseft.tap"
 --tape-sum 7aba3517e93cbb93bd09bdcb8860c650
 --start 62470
---sim-load-config accelerator=rom

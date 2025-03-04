@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/m/MountainBikeRacer.tzx.zip
 --tape-name "Mountain Bike Racer.tzx"
 --tape-sum eac1c94a23346a6137735752a08b9496
 --start 41162
---sim-load-config accelerator=speedlock

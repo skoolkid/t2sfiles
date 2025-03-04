@@ -3,5 +3,4 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0005012/SuperCupFootball.t
 --tape-sum 26d74c40d18ea58a7fb60c0fea479b1b
 --start 65117
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock
 --sim-load-config finish-tape=1

@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/k/Klax.tzx.zip
 --tape-sum ca3fb071ef69e86c0ff8d1b7125ba8a4
 --start 37102
 --sim-load-config machine=128
---sim-load-config accelerator=bleepload

@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/g/Genus.tzx.zip
 --tape-sum d177ac7803d88230cb59561428e6dc88
 --start 44400
 --tape-stop 9
---sim-load-config accelerator=rom

@@ -2,5 +2,4 @@ https://worldofspectrum.net/pub/sinclair/compilations/123/51GamesCompilation.tzx
 --tape-name "HAJO6.TZX"
 --tape-sum f35b403eabe7b7b461963c85f3a8bd0f
 --start 21987
---sim-load-config accelerator=rom
 --sim-load-config machine=128

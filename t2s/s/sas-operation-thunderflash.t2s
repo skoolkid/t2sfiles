@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/s/SAS-OperationThunderflash.tzx.z
 --tape-name "SAS Operation Thunderflash (Super Sparklers).tzx"
 --tape-sum 59fe8a4275cf120531bcc396e34a93ae
 --start 30176
---sim-load-config accelerator=speedlock

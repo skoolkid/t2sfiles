@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/i/IndianaJonesAndTheTempleOfDoom.
 --tape-sum 568eb1001267d7f3f7e506ae0ba2a662
 --start 25557
 --sim-load-config machine=128
---sim-load-config accelerator=alkatraz,alkatraz-0a

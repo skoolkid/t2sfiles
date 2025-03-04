@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/w/WECLeMans.tzx.zip
 --tape-sum 269da6bbb27df5b2e05d49cb36847fdb
 --start 63505
 --tape-stop 40
---sim-load-config accelerator=speedlock,rom

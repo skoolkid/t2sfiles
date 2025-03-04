@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/d/Dustman.tzx.zip
 --tape-name "Dustman.tzx"
 --tape-sum 839a3b993ca1e63268354784fbd0283e
 --start 35204
---sim-load-config accelerator=paul-owens

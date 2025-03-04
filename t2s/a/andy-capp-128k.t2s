@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/a/AndyCapp.tzx.zip
 --tape-sum 6cb8db54e313692b097608b600de344c
 --start 65381
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock

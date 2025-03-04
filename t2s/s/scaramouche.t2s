@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/s/Scaramouche.tzx.zip
 --tape-sum 330e7b6ee3106f12d256a7874abe273d
 --start 23874
 --sim-load-config finish-tape=1
---sim-load-config accelerator=rom

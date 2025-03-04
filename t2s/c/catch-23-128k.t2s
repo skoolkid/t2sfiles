@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/c/Catch23.tzx.zip
 --tape-sum e0dbfbdbfbbc211d78b0d0bdad925fc2
 --start 36401
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock

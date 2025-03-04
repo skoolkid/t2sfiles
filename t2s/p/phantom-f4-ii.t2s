@@ -2,4 +2,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024049/PhantomF4II.tzx.zi
 --tape-name "PhantomF4II.tzx"
 --tape-sum 2dd191e9fa74bff8a6bb29636a0c6f09
 --start 32903
---sim-load-config accelerator=rom,dinaload

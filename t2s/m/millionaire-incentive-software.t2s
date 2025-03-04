@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/m/Millionaire.tzx.zip
 --tape-name "Millionaire.tzx"
 --tape-sum a44dbef721be1c840902946c1b2f50e0
 --start 20988
---sim-load-config accelerator=rom

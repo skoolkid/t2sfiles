@@ -3,4 +3,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030381/CrystalKingdomDizz
 --tape-sum a80d198690d2def254a3150f409cd32c
 --start 28655
 --sim-load-config machine=128
---sim-load-config accelerator=rom

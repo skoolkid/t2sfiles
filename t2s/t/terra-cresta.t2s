@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/t/TerraCresta.tzx.zip
 --tape-name "Terra Cresta.tzx"
 --tape-sum 2fcd6bf23675b5212bb4c372a63f3516
 --start 65319
---sim-load-config accelerator=speedlock

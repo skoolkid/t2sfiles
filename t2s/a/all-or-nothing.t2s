@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/a/AllOrNothing.tzx.zip
 --tape-name "All Or Nothing.tzx"
 --tape-sum 422669837495607ae33a48500c9f4eb2
 --start 23520
---sim-load-config accelerator=rom

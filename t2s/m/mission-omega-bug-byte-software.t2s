@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/m/MissionOmega.tzx.zip
 --tape-name "Mission Omega.tzx"
 --tape-sum 175745922a9c6f89c6f082fcfc8c9e0d
 --start 65186
---sim-load-config accelerator=rom,bleepload

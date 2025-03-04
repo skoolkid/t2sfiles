@@ -2,4 +2,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035384/Ghostbusters2.tzx.
 --tape-name "Ghostbusters2.tzx"
 --tape-sum 5e8f684d42d67953364a1d247f43844a
 --start 45095
---sim-load-config accelerator=gargoyle2,speedlock

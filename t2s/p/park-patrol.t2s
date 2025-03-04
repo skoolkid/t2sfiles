@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/p/ParkPatrol.tzx.zip
 --tape-name "Park Patrol.tzx"
 --tape-sum 62d7fe7b372ed85c11ffae416d6a6546
 --start 23455
---sim-load-config accelerator=bleepload

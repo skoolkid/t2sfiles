@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/c/CrystalCastles.tzx.zip
 --tape-name "Crystal Castles.tzx"
 --tape-sum 8fbcc33d8e89c5ef5a7d46cc2e82a3ea
 --start 64109
---sim-load-config accelerator=alkatraz

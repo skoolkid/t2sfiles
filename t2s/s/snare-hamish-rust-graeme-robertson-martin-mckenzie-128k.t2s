@@ -4,4 +4,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042236/Snare.tzx.zip
 --start 16396
 --sim-load-config machine=128
 --sim-load-config 'load=DOWN DOWN DOWN ENTER LOAD "" PC=1541'
---sim-load-config accelerator=bleepload

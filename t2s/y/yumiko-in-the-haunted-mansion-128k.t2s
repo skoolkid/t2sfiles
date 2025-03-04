@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/y/YumikoInTheHauntedMansion.tzx.z
 --tape-sum d68f26f219eb760a0580b754f3f96342
 --start 65163
 --sim-load-config machine=128
---sim-load-config accelerator=rom

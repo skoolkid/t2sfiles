@@ -3,4 +3,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036387/HERO(WithIntro).ta
 --tape-sum 37b62c57f5d5e536087ff6b789ac53c1
 --start 54016
 --tape-start 7
---sim-load-config accelerator=rom

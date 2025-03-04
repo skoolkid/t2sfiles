@@ -4,4 +4,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0001177/Crux92.tzx.zip
 --start 32906
 --sim-load-config machine=128
 --tape-stop 12
---sim-load-config accelerator=dinaload,rom

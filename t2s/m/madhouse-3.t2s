@@ -2,4 +2,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035487/Madhouse3.tap.zip
 --tape-name "Madhouse3.tap"
 --tape-sum d1480ea7ecf85c988f0493bfd6e62d9b
 --start 24200
---sim-load-config accelerator=bleepload

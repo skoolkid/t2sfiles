@@ -4,5 +4,4 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036568/WonderfulDizzy.tap
 --start 25011
 --sim-load-config machine=128
 --tape-stop 10
---sim-load-config accelerator=rom
 --sim-load-config finish-tape=1

@@ -2,4 +2,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036557/Krpat.tzx.zip
 --tape-name "Krpat.tzx"
 --tape-sum 22cc56c0bcc5d45569b518903fdf01b2
 --start 22243
---sim-load-config accelerator=tiny,rom

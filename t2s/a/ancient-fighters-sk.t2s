@@ -3,4 +3,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036704/AncientFighters(SK
 --tape-sum 2f23e6adb5a883b36bcdbcf562a57e6b
 --start 52533
 --sim-load-config in-flags=2
---sim-load-config accelerator=rom

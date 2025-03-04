@@ -2,5 +2,4 @@ https://worldofspectrum.net/pub/sinclair/compilations/123/51GamesCompilation.tzx
 --tape-name "PIRISZOL.TZX"
 --tape-sum f167395126e2db3cb887071a5b7c6cf6
 --start 21987
---sim-load-config accelerator=rom
 --sim-load-config machine=128

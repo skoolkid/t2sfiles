@@ -4,4 +4,3 @@ https://worldofspectrum.net/pub/sinclair/games/m/MatchOfTheDay.tzx.zip
 --start 36939
 --tape-stop 11
 --sim-load-config machine=128
---sim-load-config accelerator=bleepload

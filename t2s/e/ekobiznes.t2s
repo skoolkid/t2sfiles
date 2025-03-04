@@ -2,4 +2,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043329/Ekobiznes.tzx.zip
 --tape-name "Ekobiznes.tzx"
 --tape-sum 2e6efa39556a203fe94bedeebd8fbe66
 --start 65106
---sim-load-config accelerator=rom

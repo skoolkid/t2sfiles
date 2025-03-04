@@ -2,4 +2,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043611/NoFuture.tzx.zip
 --tape-name "NoFuture.tzx"
 --tape-sum 7bea22efbd26b6eaeb88e0138e0bd525
 --start 31488
---sim-load-config accelerator=design-design

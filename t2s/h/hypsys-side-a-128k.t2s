@@ -3,5 +3,4 @@ https://worldofspectrum.net/pub/sinclair/games/h/Hypsys.tzx.zip
 --tape-sum 765abf8e13d87036fa3f1b7369a9a14d
 --start 24083
 --sim-load-config machine=128
---sim-load-config accelerator=rom
 --sim-load-config finish-tape=1

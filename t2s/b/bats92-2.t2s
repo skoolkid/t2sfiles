@@ -2,5 +2,4 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042417/BATS922.tap.zip
 --tape-name "BATS922.tap"
 --tape-sum e140589a96d45029edf40ceec272b510
 --start 1343
---sim-load-config accelerator=rom
 --sim-load-config finish-tape=1

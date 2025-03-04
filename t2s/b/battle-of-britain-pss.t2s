@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/b/BattleOfBritain_2.tzx.zip
 --tape-sum 6b1005a547ede2687449cf11788e7dd3
 --start 26247
 --sim-load-config pause=0
---sim-load-config accelerator=rom

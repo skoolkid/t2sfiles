@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/z/Zombi.tzx.zip
 --tape-name "Zombi.tzx"
 --tape-sum 38cb0a51f65dec2ddb01b26c676026e2
 --start 65313
---sim-load-config accelerator=rom

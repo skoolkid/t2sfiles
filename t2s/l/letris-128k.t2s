@@ -5,4 +5,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0002861/Letris.tzx.zip
 --tape-start 10
 --sim-load-config machine=128
 --sim-load-config 'load=DOWN DOWN DOWN ENTER LOAD "" PC=1541'
---sim-load-config accelerator=bleepload

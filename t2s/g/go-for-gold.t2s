@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/g/GoForGold.tzx.zip
 --tape-sum 086b3c24292cabf790d117ecb1c89514
 --start 62509
 --tape-stop 6
---sim-load-config accelerator=alkatraz

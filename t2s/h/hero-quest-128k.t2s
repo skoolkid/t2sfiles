@@ -3,5 +3,4 @@ https://worldofspectrum.net/pub/sinclair/games/h/HeroQuest.tzx.zip
 --tape-sum 57dbb101bcd33ed18241cda2ff7023ac
 --start 40171
 --sim-load-config machine=128
---sim-load-config accelerator=rom
 --sim-load-config finish-tape=1

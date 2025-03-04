@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/d/DeathWake.tzx.zip
 --tape-name "Death Wake.tzx"
 --tape-sum cd94efb523f70b164a81fad16662402e
 --start 64386
---sim-load-config accelerator=rom,bleepload

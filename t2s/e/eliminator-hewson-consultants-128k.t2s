@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/e/Eliminator_2.tzx.zip
 --tape-sum bd18c9efea3a8648feb4832e427db2a5
 --start 65283
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock

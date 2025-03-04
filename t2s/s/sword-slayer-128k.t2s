@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/s/SwordSlayer.tzx.zip
 --tape-sum 16259ca229e0f2cfcae7671eb613e037
 --start 65429
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock

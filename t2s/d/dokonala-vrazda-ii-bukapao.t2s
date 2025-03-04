@@ -2,5 +2,4 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0006194/DokonalaVrazdaII-B
 --tape-name "DokonalaVrazdaII-Bukapao(Ultrasoft[SK]).tzx"
 --tape-sum 5c96529acb9fd2c699930fa8bbd4125e
 --start 65046
---sim-load-config accelerator=speedlock,rom
 --sim-load-config finish-tape=1

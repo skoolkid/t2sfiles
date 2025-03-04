@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/b/BuggyBlast.tzx.zip
 --tape-name "Buggy Blast.tzx"
 --tape-sum e7b92a5d2f6c721613cf327b6f96c8f3
 --start 24980
---sim-load-config accelerator=rom

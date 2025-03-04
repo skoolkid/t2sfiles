@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/q/QuestionOfScruplesA128.tzx.zip
 --tape-sum a9298c0d345e25fd00e4a6ce67f03a80
 --start 39814
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock

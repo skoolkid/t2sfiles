@@ -3,5 +3,4 @@ https://worldofspectrum.net/pub/sinclair/games/b/BlackLamp.tzx.zip
 --tape-sum fc9dd17a32679eeff80504af26e81d9b
 --start 64095
 --tape-stop 212
---sim-load-config accelerator=bleepload
 --sim-load-config finish-tape=1

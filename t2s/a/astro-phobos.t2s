@@ -2,5 +2,4 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037695/AstroPhobos(48K).t
 --tape-name "AstroP48kb.TAP"
 --tape-sum 6cc275edbf1064227e847be7fa12e21a
 --start 16404
---sim-load-config accelerator=rom
 --sim-load-config finish-tape=1

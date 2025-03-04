@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/m/MayaAwari.tzx.zip
 --tape-name "MAYA.TZX"
 --tape-sum 7f8702f6993945a6d1e3919aef918b4e
 --start 21987
---sim-load-config accelerator=rom

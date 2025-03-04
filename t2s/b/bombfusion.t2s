@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/b/Bombfusion.tzx.zip
 --tape-name "Bomb Fusion.tzx"
 --tape-sum 7d8d9db1fe7b32139b64219e528c6750
 --start 65235
---sim-load-config accelerator=bleepload

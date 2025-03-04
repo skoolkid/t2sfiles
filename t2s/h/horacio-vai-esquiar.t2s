@@ -3,4 +3,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038735/HoracioVaiEsquiar.
 --tape-sum 25671aabead8530742c5ad8213e336e4
 --start 24432
 --sim-load-config fast-load=0
---sim-load-config accelerator=rom

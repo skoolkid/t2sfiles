@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/s/Stormlord.tzx.zip
 --tape-name "Stormlord - Side 2.tzx"
 --tape-sum baccab3b5de3b1d475b48ef357a846a7
 --start 65283
---sim-load-config accelerator=speedlock

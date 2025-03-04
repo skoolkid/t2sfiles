@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/w/WinterGames.tzx.zip
 --tape-name "Winter Games - 48k - Side 2.tzx"
 --tape-sum cd9e5763b5d78d321c098e013c36181e
 --start 65014
---sim-load-config accelerator=speedlock

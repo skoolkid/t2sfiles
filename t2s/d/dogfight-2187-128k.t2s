@@ -4,4 +4,3 @@ https://worldofspectrum.org/pub/sinclair/games/d/Dogfight-2187.tzx.zip
 --start 65317
 --sim-load-config machine=128
 --sim-load-config first-edge=9628
---sim-load-config accelerator=speedlock

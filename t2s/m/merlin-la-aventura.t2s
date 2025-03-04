@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/m/Merlin-LaAventura-.tzx.zip
 --tape-sum d9e02161eb46a355f2786c82e005306b
 --start 1343
 --sim-load-config finish-tape=1
---sim-load-config accelerator=rom

@@ -3,5 +3,4 @@ https://worldofspectrum.net/pub/sinclair/games/m/MidnightResistance.tzx.zip
 --tape-sum 1a2ec1e9a4e5d25b372d409ccc8243cb
 --start 48733
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock
 --sim-load-config finish-tape=1

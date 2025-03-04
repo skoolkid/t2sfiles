@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/p/Puzznic.tzx.zip
 --tape-name "Puzznic.tzx"
 --tape-sum a859f0ebcae3fd16885f3f15c138dbab
 --start 24576
---sim-load-config accelerator=speedlock

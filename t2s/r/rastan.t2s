@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/r/Rastan.tzx.zip
 --tape-sum ebf9a1a98d77c37113cf9e22128f1fc7
 --start 49474
 --tape-stop 35
---sim-load-config accelerator=speedlock,rom

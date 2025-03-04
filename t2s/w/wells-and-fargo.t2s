@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/w/WellsFargo.tzx.zip
 --tape-sum 282b690461a85ba74323933d4e8f4f8a
 --start 64026
 --tape-stop 10
---sim-load-config accelerator=rom

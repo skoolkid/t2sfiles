@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/d/DungeonDare.tzx.zip
 --tape-name "Dungeon Dare.tzx"
 --tape-sum d343e7bc9af7ddbe52b0de18f09292aa
 --start 60192
---sim-load-config accelerator=bleepload

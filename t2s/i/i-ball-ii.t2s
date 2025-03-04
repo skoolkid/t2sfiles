@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/i/IBallII.tzx.zip
 --tape-name "I, Ball 2.tzx"
 --tape-sum 62f7ab99589dee2b3f1ea6196c42774f
 --start 23452
---sim-load-config accelerator=bleepload

@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/s/Sabotage.tzx.zip
 --tape-name "SABOTAGE.TZX"
 --tape-sum 6255e6f7bbfbb6343148348df68cd15f
 --start 50262
---sim-load-config accelerator=rom

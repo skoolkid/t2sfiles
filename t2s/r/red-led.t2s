@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/r/RedL.E.D..tzx.zip
 --tape-name "Red LED.tzx"
 --tape-sum 74521d2f9bef6fd984de4f5bf1ddf49a
 --start 65148
---sim-load-config accelerator=rom,bleepload

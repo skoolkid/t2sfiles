@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/c/CybernoidII-TheRevenge128.tap.z
 --tape-sum b56a2c4d6b87a8338bbff8d5d7321ce7
 --start 25344
 --sim-load-config machine=128
---sim-load-config accelerator=rom

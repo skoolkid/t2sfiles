@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/g/Gryzor.tzx.zip
 --tape-sum c141b35de00f10eba64d176a90619c27
 --start 48702
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock

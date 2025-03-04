@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/f/FairlightII128.tzx.zip
 --tape-sum 033883a056f420b2cbce61c77dada470
 --start 44535
 --sim-load-config machine=128
---sim-load-config accelerator=alkatraz

@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/a/ArmyMoves(ImagineSoftwareLtd).t
 --tape-sum 1648109177c8d644b307b36a688e9f02
 --start 33990
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock

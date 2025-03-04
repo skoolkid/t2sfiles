@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/q/Qarx.tzx.zip
 --tape-name "QARX.TZX"
 --tape-sum 239a134e9955ed150ea766c20820d745
 --start 65166
---sim-load-config accelerator=speedlock

@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/e/Earthlight.tzx.zip
 --tape-sum fe142a32e19951f2c095cd01c6c869d4
 --start 23983
 --sim-load-config machine=128
---sim-load-config accelerator=bleepload,rom

@@ -2,5 +2,4 @@ https://worldofspectrum.net/pub/sinclair/compilations/123/51GamesCompilation.tzx
 --tape-name "HUPIKEK.TZX"
 --tape-sum a936952308452730cdb05153303bd6e2
 --start 21987
---sim-load-config accelerator=rom
 --sim-load-config machine=128

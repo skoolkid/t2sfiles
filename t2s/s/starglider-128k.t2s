@@ -3,5 +3,4 @@ https://worldofspectrum.net/pub/sinclair/games/s/StargliderV1.tzx.zip
 --tape-sum 1bef8868682d9d578b24ee831e6fb498
 --start 32986
 --sim-load-config machine=128
---sim-load-config accelerator=bleepload
 --sim-load-config finish-tape=1

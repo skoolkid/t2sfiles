@@ -3,5 +3,4 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039507/Seraphima.tap.zip
 --tape-sum c0d3efbc67b70ac83316255a0a21afa8
 --start 36414
 --sim-load-config machine=128
---sim-load-config accelerator=rom
 --sim-load-config finish-tape=1

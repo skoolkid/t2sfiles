@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/z/ZacaronMysteryThe.tzx.zip
 --tape-name "The Zacaron Mystery - Part 1.tzx"
 --tape-sum 40647cbd7767da56b5069d4783bad7f2
 --start 23345
---sim-load-config accelerator=rom

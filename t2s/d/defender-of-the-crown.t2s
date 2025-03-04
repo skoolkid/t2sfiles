@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/d/DefenderOfTheCrown.tzx.zip
 --tape-name "DEFENDCR.TZX"
 --tape-sum 8dcc8344dbd276eab47f461f1738edf5
 --start 52434
---sim-load-config accelerator=speedlock,rom

@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/n/NanakoInClassicJapaneseMonsterC
 --tape-name "Nanako In Classic Japanese Monster Castle.tzx"
 --tape-sum 828f553448062c86f9d170c849d5157a
 --start 41278
---sim-load-config accelerator=tiny

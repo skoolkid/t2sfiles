@@ -3,5 +3,4 @@ https://worldofspectrum.net/pub/sinclair/games/m/MontyPythonsFlyingCircus.tzx.zi
 --tape-sum a08d2aa8085922c5e8a942197d9a05f0
 --start 65117
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock
 --sim-load-config finish-tape=1

@@ -3,4 +3,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0002610/JetManSilly.tzx.zi
 --tape-name "JetManSilly.tzx"
 --tape-sum 522a624cf8fe0f4d180237db1bb28c2f
 --start 24200
---sim-load-config accelerator=bleepload

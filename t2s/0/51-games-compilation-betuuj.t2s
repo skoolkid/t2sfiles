@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/compilations/123/51GamesCompilation.tzx
 --tape-name "BETUUJ.TZX"
 --tape-sum d48acf5d449ad05238e48bc8f9e993a6
 --start 21987
---sim-load-config accelerator=rom

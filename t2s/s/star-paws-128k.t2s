@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/s/StarPaws.tzx.zip
 --tape-sum f6e1c9d248422461123e269fa21217c7
 --start 24936
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock,rom

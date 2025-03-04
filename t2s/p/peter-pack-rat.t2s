@@ -3,5 +3,4 @@ https://worldofspectrum.net/pub/sinclair/games/p/PeterPackRat.tzx.zip
 --tape-sum 9d35d8981a4f22929c0bfa161827f592
 --start 64063
 --tape-stop 213
---sim-load-config accelerator=bleepload
 --sim-load-config finish-tape=1

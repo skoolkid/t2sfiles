@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/h/HighwayEncounter.tzx.zip
 --tape-name "Highway Encounter.tzx"
 --tape-sum b290aa33cdea44944ab42e64d449033c
 --start 61077
---sim-load-config accelerator=speedlock

@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/b/BatmanV1.tzx.zip
 --tape-sum 037555d931f2c01f1eb1269e8f33b407
 --start 65521
 --sim-load-config machine=128
---sim-load-config accelerator=bleepload

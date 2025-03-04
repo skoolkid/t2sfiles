@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/s/Strgol.tzx.zip
 --tape-name "STRGOL.TZX"
 --tape-sum d8c83a09374dd8d6478292d09e6f4307
 --start 24200
---sim-load-config accelerator=rom

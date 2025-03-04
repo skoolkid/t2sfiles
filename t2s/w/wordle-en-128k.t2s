@@ -3,4 +3,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037316/Wordle(EN).tap.zip
 --tape-sum 32104a555d00fce834bb71c2ac9a893d
 --start 24441
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock

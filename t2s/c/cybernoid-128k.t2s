@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/c/Cybernoid.tzx.zip
 --tape-sum 50921a76ee625feb31c4195aac63d020
 --start 65105
 --sim-load-config machine=128
---sim-load-config accelerator=rom

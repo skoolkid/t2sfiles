@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/e/EvilCrown.tzx.zip
 --tape-name "Evil Crown.tzx"
 --tape-sum d7879ce236d5058618380e1060353146
 --start 64376
---sim-load-config accelerator=rom,bleepload

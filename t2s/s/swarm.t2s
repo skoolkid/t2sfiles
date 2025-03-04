@@ -3,5 +3,4 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038673/Swarm.tzx.zip
 --tape-sum 660bf781c828a395d926f194b583705f
 --start 1343
 --sim-load-config fast-load=0
---sim-load-config accelerator=rom
 --sim-load-config finish-tape=1

@@ -2,4 +2,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0005175/Telefony.tzx.zip
 --tape-name "Telefony.tzx"
 --tape-sum fe62009b89ddbaffdce5e208340491fa
 --start 24200
---sim-load-config accelerator=bleepload

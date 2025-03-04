@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/s/Scooby-Doo.tzx.zip
 --tape-name "Scooby Doo.tzx"
 --tape-sum 8f4b463f779f93fcaafa05334eb69d9d
 --start 64026
---sim-load-config accelerator=bleepload

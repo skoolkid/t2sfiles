@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/s/Scooby-DooAndScrappy-Doo.tzx.zi
 --tape-name "Scooby And Scrappy Doo.tzx"
 --tape-sum da2f4aecb0dbb65e44dafeb315e3501e
 --start 64270
---sim-load-config accelerator=bleepload

@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/s/Stormlord.tzx.zip
 --tape-sum 3db5ea7f0f78f47a138d62b1483651fd
 --start 65283
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock

@@ -3,5 +3,4 @@ https://worldofspectrum.net/pub/sinclair/games/k/KingsValley.tzx.zip
 --tape-sum 9def74b00a5ac67eeaeffda85acb3263
 --start 64229
 --sim-load-config machine=128
---sim-load-config accelerator=rom
 --sim-load-config finish-tape=1

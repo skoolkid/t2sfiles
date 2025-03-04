@@ -2,5 +2,4 @@ https://worldofspectrum.net/pub/sinclair/games/d/DarkStar.tzx.zip
 --tape-name "Dark Star.tzx"
 --tape-sum 3277752514bc5ef3758e45b88f480335
 --start 64690
---sim-load-config accelerator=design-design
 --sim-load-config polarity=0

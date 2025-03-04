@@ -2,5 +2,4 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031246/AdvancedJunglistSi
 --tape-name "AdvancedJunglistSimulator_LeeSpoons.tzx"
 --tape-sum 9d659b7f8345316a39e82043d65d5fc7
 --start 1343
---sim-load-config accelerator=rom
 --sim-load-config finish-tape=1

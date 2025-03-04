@@ -2,5 +2,4 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035481/Golem.tap.zip
 --tape-name "Golem.tap"
 --tape-sum bf74e63100c316bf6da69c7e2ed066ab
 --start 1343
---sim-load-config accelerator=ernieware,rom
 --sim-load-config finish-tape=1

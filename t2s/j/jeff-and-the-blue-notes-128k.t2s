@@ -3,4 +3,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039480/Jeff&TheBlueNotes.
 --tape-sum 4f28ebbf105d4f79c215bb06112a19c3
 --start 32768
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock

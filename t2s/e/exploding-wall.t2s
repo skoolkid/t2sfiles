@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/e/ExplodingWall.tzx.zip
 --tape-name "Exploding Wall.tzx"
 --tape-sum 8276ad3cc723634ad896f2dc238cbcd0
 --start 61470
---sim-load-config accelerator=rom

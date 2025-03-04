@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/t/TempleOfTerror.tzx.zip
 --tape-name "Temple Of Terror - Side A.tzx"
 --tape-sum 17fb8dee9016f5704bcdf47d342e80dd
 --start 64570
---sim-load-config accelerator=alkatraz

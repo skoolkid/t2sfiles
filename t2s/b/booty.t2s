@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/b/Booty.tzx.zip
 --tape-name "Booty.tzx"
 --tape-sum 1e8fa45b0b0e1b84cf54af1a5596b51b
 --start 26944
---sim-load-config accelerator=rom

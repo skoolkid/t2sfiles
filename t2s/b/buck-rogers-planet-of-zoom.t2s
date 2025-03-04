@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/b/BuckRogers-PlanetOfZoom.tzx.zip
 --tape-name "Buck Rogers - Planet Of Zoom.tzx"
 --tape-sum 13567dd219a8833310663c55e468ec44
 --start 65223
---sim-load-config accelerator=speedlock

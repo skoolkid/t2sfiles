@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/x/Xenophobe.tzx.zip
 --tape-sum 0154dc65b6395b35b2dd8bd9f9394c20
 --start 65126
 --sim-load-config machine=128
---sim-load-config accelerator=micro-style

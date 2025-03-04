@@ -4,4 +4,3 @@ https://worldofspectrum.net/pub/sinclair/games/i/InternationalSpeedway.tzx.zip
 --start 23922
 --sim-load-config machine=128
 --tape-stop 182
---sim-load-config accelerator=bleepload

@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/v/VampireHunterWilly.tzx.zip
 --tape-sum e5637e656bcd31a5945b5bfec107e301
 --start 22499
 --sim-load-config machine=128
---sim-load-config accelerator=tiny,rom

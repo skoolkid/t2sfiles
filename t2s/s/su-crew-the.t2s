@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/s/SUCrewThe.tzx.zip
 --tape-name "CREW.TZX"
 --tape-sum 2bc5510c7540b7ca23908303c2434a4c
 --start 16396
---sim-load-config accelerator=bleepload

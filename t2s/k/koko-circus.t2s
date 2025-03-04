@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/k/KokoCircus.tzx.zip
 --tape-name "Koko Circus.tzx"
 --tape-sum 337c61d22778b149d756eb9f3f652bd8
 --start 42800
---sim-load-config accelerator=speedlock

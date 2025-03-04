@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/l/LotusEspritTurboChallenge.tzx.z
 --tape-sum 9cec452a7cc1802c9ef0ff01cc394a87
 --start 39762
 --sim-load-config machine=128
---sim-load-config accelerator=gremlin

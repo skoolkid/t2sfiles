@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/c/Confuzion.tzx.zip
 --tape-name "Confuzion.tzx"
 --tape-sum 2a480c479c125f8390e9d3c8ec293cae
 --start 64376
---sim-load-config accelerator=rom,bleepload

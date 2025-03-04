@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/m/MountieMicksDeathRide.tzx.zip
 --tape-sum 1eaa8830c699f202bed1eb921fe9c6b5
 --start 64793
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock

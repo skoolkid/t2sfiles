@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/r/Retroinvaders48.tap.zip
 --tape-name "RI48K.tap"
 --tape-sum a1d9fba4b7aee3977ca37af2b03f1d78
 --start 64699
---sim-load-config accelerator=rom

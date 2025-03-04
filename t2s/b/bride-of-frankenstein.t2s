@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/b/BrideOfFrankenstein.tzx.zip
 --tape-name "Bride Of Frankenstein.tzx"
 --tape-sum 82fdd78d95bfddbdfd4fdda71c81a4ec
 --start 64793
---sim-load-config accelerator=speedlock

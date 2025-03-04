@@ -4,5 +4,4 @@ https://worldofspectrum.net/pub/sinclair/games/u/UntouchablesThe.tzx.zip
 --start 32939
 --sim-load-config machine=128
 --tape-stop 13
---sim-load-config accelerator=rom,paul-owens
 --sim-load-config finish-tape=1

@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/m/MurderOffMiami.tzx.zip
 --tape-sum a589825e399f0de7551de5231bb2267f
 --start 23867
 --tape-stop 7
---sim-load-config accelerator=speedlock

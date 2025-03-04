@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/s/SkateCrazy.tzx.zip
 --tape-name "Skate Crazy - Part 2.tzx"
 --tape-sum a4c4a45bf63797892e6778c73b9fbe6c
 --start 29440
---sim-load-config accelerator=rom

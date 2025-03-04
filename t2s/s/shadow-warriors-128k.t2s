@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/s/ShadowWarriors.tzx.zip
 --tape-sum 46d74c5d00d631aea5c42d87773dfb12
 --start 38103
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock,rom

@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/k/KnightGhost.tap.zip
 --tape-name "Knight Ghost.tap"
 --tape-sum 923fbaa47761b42556a16356fe456c0d
 --start 65026
---sim-load-config accelerator=rom

@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/s/StuntCarRacer.tzx.zip
 --tape-sum f3932c70ed51762bd6dd78601406b3fb
 --start 32827
 --sim-load-config machine=128
---sim-load-config accelerator=rom

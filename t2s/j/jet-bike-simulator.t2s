@@ -2,4 +2,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0009361/JetBikeSimulator(4
 --tape-name "JetBikeSimulator(48K).tzx"
 --tape-sum dddcc051c1368aafa14396ef60d64367
 --start 36821
---sim-load-config accelerator=rom

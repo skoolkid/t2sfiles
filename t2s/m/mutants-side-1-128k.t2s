@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/m/Mutants.tzx.zip
 --tape-sum 7947ac0141f9cd3385a697b5abb34432
 --start 47638
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock

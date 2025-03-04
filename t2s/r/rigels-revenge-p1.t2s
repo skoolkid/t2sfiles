@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/r/RigelsRevenge.tzx.zip
 --tape-name "Rigel's Revenge - Part 1.tzx"
 --tape-sum 35ac7271f3e5341bc3accd0801139bc2
 --start 23386
---sim-load-config accelerator=rom,bulldog,speedlock

@@ -4,4 +4,3 @@ https://worldofspectrum.net/pub/sinclair/games/p/ProMountainBikeSimulator.tzx.zi
 --start 64272
 --sim-load-config machine=128
 --tape-stop 10
---sim-load-config accelerator=rom

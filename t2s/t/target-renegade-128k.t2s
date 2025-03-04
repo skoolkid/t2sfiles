@@ -3,5 +3,4 @@ https://worldofspectrum.net/pub/sinclair/games/t/Target-Renegade.tzx.zip
 --tape-sum 1e5500813d0eab0603b06094b0ff984b
 --start 24196
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock,rom
 --sim-load-config finish-tape=1

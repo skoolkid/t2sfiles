@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/t/ToJeOn.tzx.zip
 --tape-name "TOJEON.TZX"
 --tape-sum a847e13dae017c35a030eee4f40584c7
 --start 24142
---sim-load-config accelerator=speedlock,bleepload

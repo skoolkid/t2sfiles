@@ -3,5 +3,4 @@ https://worldofspectrum.net/pub/sinclair/games/s/StrikeForceHarrier.tzx.zip
 --tape-sum d45526ccd7c3cb9579cb19bdd7bd0f0b
 --start 23337
 --sim-load-config machine=128
---sim-load-config accelerator=bleepload
 --sim-load-config finish-tape=1

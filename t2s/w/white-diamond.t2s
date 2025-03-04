@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/w/WhiteDiamond.tzx.zip
 --tape-name "White Diamond.tzx"
 --tape-sum b8bf8f255638014e840f3b713f00b4b7
 --start 26976
---sim-load-config accelerator=rom

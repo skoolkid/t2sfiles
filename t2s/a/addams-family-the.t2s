@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/a/AddamsFamilyThe.tzx.zip
 --tape-sum 6e14b7aad747e05b930038bfd73aef70
 --start 20536
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock,rom

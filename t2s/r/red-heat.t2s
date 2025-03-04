@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/r/RedHeat.tzx.zip
 --tape-sum d527d8596b8c177b3299aeb1e8de5d38
 --start 23459
 --tape-stop 10
---sim-load-config accelerator=rom

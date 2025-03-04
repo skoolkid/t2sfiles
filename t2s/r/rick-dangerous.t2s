@@ -3,5 +3,4 @@ https://worldofspectrum.net/pub/sinclair/games/r/RickDangerous.tzx.zip
 --tape-sum 685cf58aa8498b8b9c42d062befde83c
 --start 64063
 --tape-stop 215
---sim-load-config accelerator=bleepload
 --sim-load-config finish-tape=1

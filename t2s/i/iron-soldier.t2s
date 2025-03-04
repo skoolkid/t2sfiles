@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/i/IronSoldier.tzx.zip
 --tape-name "IRONSOLD.TZX"
 --tape-sum d5917c0b9de46d3f7b94497b975f2ac4
 --start 64678
---sim-load-config accelerator=speedlock

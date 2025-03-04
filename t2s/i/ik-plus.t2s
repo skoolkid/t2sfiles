@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/i/IK+.tzx.zip
 --tape-name "IK+.tzx"
 --tape-sum 72008ebdb38d3ed1e86f916975b5cde7
 --start 65386
---sim-load-config accelerator=speedlock

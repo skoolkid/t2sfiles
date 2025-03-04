@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/t/TerrorOfTheDeep.tzx.zip
 --tape-sum 03b0b83d6ff6a921150b68b2e4d747e5
 --start 25344
 --sim-load-config machine=128
---sim-load-config accelerator=rom,speedlock

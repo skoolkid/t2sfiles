@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/j/Jasper.tzx.zip
 --tape-name "Jasper.tzx"
 --tape-sum 0adff0c82defa058a2562bac1bac7561
 --start 55009
---sim-load-config accelerator=rom,dinaload

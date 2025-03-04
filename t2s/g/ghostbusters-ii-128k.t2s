@@ -4,5 +4,4 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0002031/Ghostbusters2.tzx.
 --start 65243
 --sim-load-config machine=128
 --tape-stop 22
---sim-load-config accelerator=rom
 --sim-load-config finish-tape=1

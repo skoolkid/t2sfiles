@@ -3,4 +3,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034329/TANK-1990(128K).tz
 --tape-sum da550606eb3fdb7484bcddc5b93b767a
 --start 32768
 --sim-load-config machine=128
---sim-load-config accelerator=rom

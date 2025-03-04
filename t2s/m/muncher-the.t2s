@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/m/MuncherThe.tzx.zip
 --tape-sum 7ae93ea44adb8fa7389a26c95a5dbd76
 --start 23756
 --sim-load-config machine=128
---sim-load-config accelerator=rom

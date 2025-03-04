@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/x/XOR.tzx.zip
 --tape-name "XOR.tzx"
 --tape-sum 388572313375bfe522ff1ec03cd8e039
 --start 65402
---sim-load-config accelerator=speedlock

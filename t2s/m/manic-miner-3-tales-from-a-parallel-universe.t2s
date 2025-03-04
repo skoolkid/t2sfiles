@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/m/ManicMiner3-TalesFromAParallelU
 --tape-sum d67ccc4927a21a84cab0ab08e3967ec9
 --start 1343
 --sim-load-config finish-tape=1
---sim-load-config accelerator=bleepload

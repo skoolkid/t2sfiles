@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/l/Lancelot_2.tzx.zip
 --tape-name "Lancelot - Side A.tzx"
 --tape-sum 163c884292e108743d18a8aa1526b190
 --start 23296
---sim-load-config accelerator=rom

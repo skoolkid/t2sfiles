@@ -4,4 +4,3 @@ https://worldofspectrum.net/pub/sinclair/games/a/ATF.tzx.zip
 --start 57349
 --sim-load-config machine=128
 --sim-load-config 'load=DOWN DOWN DOWN ENTER LOAD "" PC=1541'
---sim-load-config accelerator=digital-integration

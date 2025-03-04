@@ -3,5 +3,4 @@ https://worldofspectrum.net/pub/sinclair/games/o/OperationWolf.tzx.zip
 --tape-sum 31a956edb9211a72ed7404a8d2eb73f3
 --start 23334
 --sim-load-config machine=128
---sim-load-config accelerator=speedlock,rom
 --sim-load-config finish-tape=1

@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/u/UchiMata.tzx.zip
 --tape-name "Uchi-Mata.tzx"
 --tape-sum 1c8055f6ccc99f1f99eecc6c26c29ff2
 --start 23323
---sim-load-config accelerator=speedlock

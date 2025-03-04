@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/t/Trantor-TheLastStormtrooper.tzx
 --tape-name "TRANTOR.TZX"
 --tape-sum 1021cd71d3a594f39cd92cf4b382e9ff
 --start 64504
---sim-load-config accelerator=alkatraz

@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/s/Scalextric.tzx.zip
 --tape-name "Scalextric.tzx"
 --tape-sum d708a74e82318a5dd404a167a55e1461
 --start 65383
---sim-load-config accelerator=speedlock

@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/b/BruceLee.tzx.zip
 --tape-name "Bruce Lee.tzx"
 --tape-sum 51cb1a6e1fb58304a15a588b82d8e001
 --start 60913
---sim-load-config accelerator=speedlock

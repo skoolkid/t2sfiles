@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/r/RuffAndReddyInTheSpaceAdventure
 --tape-sum c6c985d6cd59f150a56016b2f2b221d3
 --start 24082
 --sim-load-config machine=128
---sim-load-config accelerator=paul-owens

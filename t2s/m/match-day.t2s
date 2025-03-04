@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/m/MatchDay.tzx.zip
 --tape-name "Match Day.tzx"
 --tape-sum 2974681df0d292ec42588b999332b685
 --start 60477
---sim-load-config accelerator=speedlock

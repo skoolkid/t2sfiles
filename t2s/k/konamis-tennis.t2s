@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/k/KonamisTennis.tzx.zip
 --tape-name "Konami's Tennis.tzx"
 --tape-sum 7616dffc5bc64627c5f5929eab0c2c56
 --start 63222
---sim-load-config accelerator=speedlock

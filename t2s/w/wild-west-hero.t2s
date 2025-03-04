@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/w/WildWestHero.tzx.zip
 --tape-name "Wild West Hero.tzx"
 --tape-sum a4976c6e68658e089bc239b05b9405a5
 --start 50044
---sim-load-config accelerator=rom

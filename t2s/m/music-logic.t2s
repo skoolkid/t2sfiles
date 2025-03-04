@@ -2,4 +2,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0003334/MusicLogic.tzx.zip
 --tape-name "MusicLogic.tzx"
 --tape-sum 0b8f7faa00aa89f885e4d0976d836315
 --start 24200
---sim-load-config accelerator=bleepload

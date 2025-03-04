@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/s/StrangeSubmarine.tap.zip
 --tape-sum 19230e4f0ca27b05fa879aa8c29fb2e6
 --start 1343
 --sim-load-config finish-tape=1
---sim-load-config accelerator=speedlock,rom

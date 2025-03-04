@@ -3,4 +3,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042838/FantasyWorldDizzy-
 --tape-sum 4b5496a0068cbbbe985a93edb7b22b11
 --start 24040
 --sim-load-config machine=128
---sim-load-config accelerator=rom

@@ -3,5 +3,4 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035159/HuntBuckNuclearDef
 --tape-sum 9e8c9ed6de4411ec45762934ce3cec33
 --start 24708
 --sim-load-config machine=128
---sim-load-config accelerator=rom
 --sim-load-config finish-tape=1

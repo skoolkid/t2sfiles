@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/j/JustImagine.tzx.zip
 --tape-name "Just Imagine - Side A.tzx"
 --tape-sum c4264a9385dd2fc3848d6a5773f9aa85
 --start 60221
---sim-load-config accelerator=bleepload

@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/p/Protector.tzx.zip
 --tape-name "Protector.tzx"
 --tape-sum adc5aff92e3e47a0df80846c976fea9e
 --start 65327
---sim-load-config accelerator=bleepload

@@ -4,4 +4,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0004815/StarDragon(Proxima
 --start 64952
 --sim-load-config machine=128
 --sim-load-config 'load=DOWN ENTER usr0 ENTER LOAD "" PC=1541'
---sim-load-config accelerator=bleepload

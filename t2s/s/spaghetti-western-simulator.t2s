@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/s/SpaghettiWesternSimulator.tzx.z
 --tape-name "Spaghetti Western Simulator - Side 1.tzx"
 --tape-sum 053719c1902a77988b94a6ad684c942b
 --start 64013
---sim-load-config accelerator=rom

@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/z/ZakliatyZamokProgramatorov.tzx.
 --tape-sum 8b7c48dd62ead0dfbeb7cd8eb5e2314d
 --start 65108
 --sim-load-config polarity=0
---sim-load-config accelerator=rom,delphine

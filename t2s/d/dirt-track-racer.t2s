@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/d/DirtTrackRacer.tzx.zip
 --tape-name "Dirt Track Racer.tzx"
 --tape-sum 637256af58043630f6b13c496d37c76c
 --start 56518
---sim-load-config accelerator=rom

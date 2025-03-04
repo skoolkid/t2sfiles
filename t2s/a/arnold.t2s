@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/a/Arnold.tap.zip
 --tape-name "ARNOLD.tap"
 --tape-sum d1c3edaeed556e9f090c90887d0eb5e3
 --start 24011
---sim-load-config accelerator=dinaload

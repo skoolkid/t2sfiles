@@ -3,5 +3,4 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043367/MasterWord.tzx.zip
 --tape-sum 8de58506e7f2a0adc8e8f67e2bd5dded
 --start 1343
 --sim-load-config fast-load=0
---sim-load-config accelerator=rom
 --sim-load-config finish-tape=1

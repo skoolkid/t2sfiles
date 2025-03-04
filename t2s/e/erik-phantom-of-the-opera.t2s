@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/e/Erik-PhantomOfTheOpera.tzx.zip
 --tape-name "Erik - The Phantom Of The Opera.tzx"
 --tape-sum b25157e44f8f4880a7072aa86d660f1e
 --start 57511
---sim-load-config accelerator=speedlock

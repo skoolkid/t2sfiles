@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/m/MasterThe.tzx.zip
 --tape-name "The Master.tzx"
 --tape-sum 41f20b30e4b9dfddd25703bd19078af3
 --start 24576
---sim-load-config accelerator=rom

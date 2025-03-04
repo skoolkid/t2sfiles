@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/s/SzorejtoJatek.tzx.zip
 --tape-name "Szorejto Jatek.tzx"
 --tape-sum 0a29716518d730daed019fc940b57928
 --start 22243
---sim-load-config accelerator=tiny,rom

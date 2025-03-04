@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/g/Gregor.tzx.zip
 --tape-name "Gregor.tzx"
 --tape-sum d81401147391002e5d38267a242b4a4c
 --start 21984
---sim-load-config accelerator=tiny

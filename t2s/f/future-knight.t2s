@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/f/FutureKnight.tzx.zip
 --tape-sum 36827bde15ad82028cc297234126f4a6
 --start 33017
 --tape-stop 10
---sim-load-config accelerator=rom,speedlock

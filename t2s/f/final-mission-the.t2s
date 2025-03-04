@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/f/FinalMissionThe.tzx.zip
 --tape-name "The Final Mission.tzx"
 --tape-sum 9a0cdf663d70eb046d9e442f02373c84
 --start 60802
---sim-load-config accelerator=rom,bleepload

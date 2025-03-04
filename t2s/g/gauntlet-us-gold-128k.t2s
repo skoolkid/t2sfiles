@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/g/Gauntlet.tzx.zip
 --tape-sum c4f6b69a5e24e6ac1e210f1d4f8a1cc5
 --start 65295
 --sim-load-config machine=128
---sim-load-config accelerator=rom,speedlock

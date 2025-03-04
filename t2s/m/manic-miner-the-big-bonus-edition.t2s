@@ -2,4 +2,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034840/ManicMiner-TheBigB
 --tape-name "ManicMiner-TheBigBonusEdition.tzx"
 --tape-sum 06788827a0d9bb947086f17bba550c21
 --start 61992
---sim-load-config accelerator=speedlock

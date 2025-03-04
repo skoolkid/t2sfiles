@@ -3,5 +3,4 @@ https://worldofspectrum.net/pub/sinclair/games/e/EuropeanSuperleague.tzx.zip
 --tape-sum 10fcff06ef2ec0dbc4fcd51da5b349d7
 --start 24555
 --sim-load-config machine=128
---sim-load-config accelerator=rom
 --sim-load-config finish-tape=1

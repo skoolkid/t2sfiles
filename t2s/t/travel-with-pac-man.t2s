@@ -2,4 +2,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031330/TravelWithPacman.t
 --tape-name "TRAVEL.tzx"
 --tape-sum a8a6b2773b1c60ab1a56e4f1ce2d22fc
 --start 64549
---sim-load-config accelerator=speedlock

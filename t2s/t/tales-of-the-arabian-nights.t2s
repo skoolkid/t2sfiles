@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/t/TalesOfTheArabianNights.tzx.zip
 --tape-name "Tales Of The Arabian Nights.tzx"
 --tape-sum 69c78c0f81dd9ab04cedcc1b678d42fd
 --start 57500
---sim-load-config accelerator=rom

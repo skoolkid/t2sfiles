@@ -2,4 +2,3 @@ https://worldofspectrum.net/pub/sinclair/games/c/CometGameThe.tzx.zip
 --tape-name "Comet Game.tzx"
 --tape-sum 457463c349c55107406d16d92e0d8fcf
 --start 65323
---sim-load-config accelerator=rom

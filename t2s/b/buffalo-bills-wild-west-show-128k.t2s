@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/b/BuffaloBillsWildWestShow.tzx.zi
 --tape-sum fea0219f38db6d8934df3ec27308e246
 --start 30464
 --sim-load-config machine=128
---sim-load-config accelerator=dinaload
