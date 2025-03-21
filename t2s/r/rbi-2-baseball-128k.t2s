@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/r/R.B.I.2Baseball.tzx.zip
+--tape-name "R.B.I. 2 Baseball - Side A.tzx"
+--tape-sum 63d6fc95ee677481099bbe0903a45b00
+--start 34353
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

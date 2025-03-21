@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Boxing_3.tap.zip
+--tape-name "BOXING.TAP"
+--tape-sum d0dabea3f2cb9fe0f87ba3647d8da05b
+--start 1343
+--sim-load-config 'load=LOAD "": RUN'
+--sim-load-config finish-tape=1

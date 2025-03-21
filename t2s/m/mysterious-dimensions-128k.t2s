@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030312/MysteriousDimensions(128K).tap.zip
+--tape-name "MysteriousDimensions128.TAP"
+--tape-sum 234604fb0133c8522fc6028fc48da761
+--start 30419
+--sim-load-config machine=128
+--tape-stop 13

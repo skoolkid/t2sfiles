@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/l/Lander.tap.zip
+--tape-name "Lander.tap"
+--tape-sum c293830c63c5a3bfa93a0b59370d64a8
+--start 1343
+--tape-start 5
+--sim-load-config finish-tape=1

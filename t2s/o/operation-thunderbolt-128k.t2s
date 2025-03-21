@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/o/OperationThunderbolt.tzx.zip
+--tape-name "Operation Thunderbolt - Side 1.tzx"
+--tape-sum 5dfd9ca003d60f7f119ecc6b8ffa64bf
+--start 33004
+--sim-load-config machine=128
+--tape-stop 19
+--sim-load-config finish-tape=1

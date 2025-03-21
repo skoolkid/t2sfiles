@@ -1,0 +1,5 @@
+https://worldofspectrum.net/pub/sinclair/games/a/Athena.tzx.zip
+--tape-name "Athena - 128k.tzx"
+--tape-sum a82fe06b8600a0fbaedf7b927553b425
+--start 35633
+--sim-load-config machine=128

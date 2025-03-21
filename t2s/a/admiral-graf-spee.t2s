@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AdmiralGrafSpee.tzx.zip
+--tape-name "Admiral Graf Spee.tzx"
+--tape-sum ff61c9009abc0186f8404f15b3b86c49
+--start 1343
+--tape-start 5
+--sim-load-config finish-tape=1

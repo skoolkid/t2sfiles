@@ -1,0 +1,5 @@
+https://worldofspectrum.net/pub/sinclair/games/s/ShanghaiWarriors.tzx.zip
+--tape-name "Shanghai Warriors - Side 1.tzx"
+--tape-sum 3f79bf17e2f203562fc4f7e80aa29fcb
+--start 65185
+--sim-load-config machine=128

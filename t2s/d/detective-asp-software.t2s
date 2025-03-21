@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/d/Detective.tzx.zip
+--tape-name "Detective.tzx"
+--tape-sum 6f288088c1e24dfe2f7936e44d47613c
+--start 1343
+--tape-start 4
+--sim-load-config finish-tape=1

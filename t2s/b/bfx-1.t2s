@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BFX-1.tap.zip
+--tape-name "BF1.TAP"
+--tape-sum c33711927a8b0f5a00611ccb6e6766d7
+--start 1343
+--tape-start 3
+--sim-load-config 'load=CLEAR 29999: LOAD "" CODE : LOAD "" CODE : LOAD ""'
+--sim-load-config finish-tape=1

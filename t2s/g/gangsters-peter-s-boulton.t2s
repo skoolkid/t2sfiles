@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/g/Gangsters.tzx.zip
+--tape-name "Gangsters.tzx"
+--tape-sum 2bd7bc05de003bd29c9046d23554e187
+--start 1343
+--tape-start 4
+--sim-load-config 'load=LOAD "" CODE : LOAD "" CODE : LOAD ""'
+--sim-load-config finish-tape=1

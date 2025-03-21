@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/d/Dungeons.tzx.zip
+--tape-name "Dungeons.tzx"
+--tape-sum 844165249da747676c4e89fc9335333f
+--start 1343
+--sim-load-config 'load=MERGE "": RUN 1000'
+--sim-load-config finish-tape=1

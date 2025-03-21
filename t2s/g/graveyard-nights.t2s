@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/g/GraveyardNights.tzx.zip
+--tape-name "Graveyard Nights.tzx"
+--tape-sum 760fd7ada66416874b4bc4770279ee12
+--start 1343
+--tape-start 5
+--sim-load-config finish-tape=1

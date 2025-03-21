@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0006845/InSearchOfTheHolyGrantCheque.tzx.zip
+--tape-name "InSearchOfTheHolyGrantCheque.tzx"
+--tape-sum 46b9019e7d96c77302534a9f81980f0b
+--start 1343
+--tape-start 5
+--sim-load-config 'load=CLEAR 65276: LOAD "" CODE : LOAD "" SCREEN$ : INK 4: PAPER 4: PRINT AT 20,0;: LOAD ""'
+--sim-load-config finish-tape=1

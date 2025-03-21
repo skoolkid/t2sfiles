@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/n/NomaDellaRosaIl.tap.zip
+--tape-name "Ilnomadellarosa.tap"
+--tape-sum 6ce81e44f9a6d2dd10423a6821503752
+--start 1343
+--tape-start 17
+--tape-stop 31
+--sim-load-config finish-tape=1

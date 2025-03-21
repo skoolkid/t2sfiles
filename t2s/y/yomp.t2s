@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/y/Yomp.tzx.zip
+--tape-name "Yomp - Side 1.tzx"
+--tape-sum 6a78d0948033e533aa995edf008984b4
+--start 1343
+--tape-start 9
+--sim-load-config finish-tape=1

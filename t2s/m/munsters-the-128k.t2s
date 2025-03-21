@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MunstersThe.tzx.zip
+--tape-name "The Munsters.tzx"
+--tape-sum be1d9973f8c080c629333633335b3529
+--start 44173
+--sim-load-config machine=128
+--tape-stop 20

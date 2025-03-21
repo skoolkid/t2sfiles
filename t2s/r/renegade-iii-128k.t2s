@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RenegadeIII.tzx.zip
+--tape-name "Renegade 3 - The Final Chapter - Side 1.tzx"
+--tape-sum d9836e52e5f50f0f50c1a846195a3ebc
+--start 49308
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

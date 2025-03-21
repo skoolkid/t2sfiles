@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/o/Orion-1.tzx.zip
+--tape-name "Orion-1.tzx"
+--tape-sum f24d9f9d90bb49f179081c8c7c50a7b4
+--start 1343
+--tape-start 4
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/l/LeprechaunsGold.tap.zip
+--tape-name "Leprechaun'sGold.tap"
+--tape-sum 79d99b812a4e1a66011c4a38c3d58356
+--start 1343
+--tape-stop 5
+--sim-load-config 'load=LOAD "": RUN 9000'
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CaptainBlood.tzx.zip
+--tape-name "Captain Blood - 128k.tzx"
+--tape-sum b7fb45a57057217bdd7d07e3da28d071
+--start 25405
+--sim-load-config machine=128

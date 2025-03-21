@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/f/FiveDice.tzx.zip
+--tape-name "Five Dice.tzx"
+--tape-sum 1630ce86663979455351a521fe25079c
+--start 1343
+--tape-start 5
+--sim-load-config finish-tape=1

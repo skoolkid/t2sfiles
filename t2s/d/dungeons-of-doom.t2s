@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DungeonsOfDoom.tzx.zip
+--tape-name "Dungeons Of Doom.tzx"
+--tape-sum 3de06d1f8bf33c27e7cd473f61442c4b
+--start 1343
+--tape-start 4
+--sim-load-config finish-tape=1

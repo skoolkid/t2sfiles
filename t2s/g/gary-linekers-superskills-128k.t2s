@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/g/GaryLinekersSuperskills.tzx.zip
+--tape-name "Gary Lineker's Superskills.tzx"
+--tape-sum 50208345b80ac2fd24efc26cce45f056
+--start 33247
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

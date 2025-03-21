@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MagneticMoon128.tzx.zip
+--tape-name "Magnetic Moon - 128k.tzx"
+--tape-sum ec796c740b457e3f4386b9c90952277f
+--start 34887
+--sim-load-config machine=128
+--tape-start 24

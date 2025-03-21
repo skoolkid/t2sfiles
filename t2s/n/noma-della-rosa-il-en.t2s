@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0015662/NomaDellaRosaIl(EN).tap.zip
+--tape-name "NomaDellaRosaIl(EN).tap"
+--tape-sum 9d3cd1736226df3d80c3f84d2dd0d658
+--start 1343
+--tape-start 7
+--tape-stop 23
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/h/HacedorDeSuenosEl.tap.zip
+--tape-name "El Hacedor De Suenos.tap"
+--tape-sum 9df692889d76ff7759dafa7306e3a773
+--start 1343
+--tape-start 7
+--tape-stop 15
+--sim-load-config finish-tape=1

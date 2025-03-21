@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BangersMash.tzx.zip
+--tape-name "Bangers & Mash.tzx"
+--tape-sum 7cee1a39e30514322705ae9a9daaace5
+--start 38491
+--sim-load-config machine=128
+--tape-stop 9

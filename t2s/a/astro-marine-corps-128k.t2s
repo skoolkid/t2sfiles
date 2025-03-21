@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AstroMarineCorps.tzx.zip
+--tape-name "Astro Marine Corps - Side 1.tzx"
+--tape-sum b31fd6232a865fbef93db8700ceeb931
+--start 25303
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AtTheSignOfTheDancingOgre.tap.zip
+--tape-name "DANCINGO.TAP"
+--tape-sum ef256b3fdd15323f996691588b08aae2
+--start 1343
+--tape-stop 5
+--sim-load-config 'load=LOAD "": RUN'
+--sim-load-config finish-tape=1

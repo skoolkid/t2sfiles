@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/g/GordellosDemise.tzx.zip
+--tape-name "Gordello's Demise - Side 1.tzx"
+--tape-sum 37f0e74d82cb2b955cbb18b4436a7d6f
+--start 1343
+--tape-start 8
+--sim-load-config finish-tape=1

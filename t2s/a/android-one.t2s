@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AndroidOne.tzx.zip
+--tape-name "Android.tzx"
+--tape-sum 4e01d39fc87d0f82fd301d37a0bfdb04
+--start 1343
+--tape-start 6
+--sim-load-config finish-tape=1

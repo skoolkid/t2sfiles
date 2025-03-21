@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Baron.tzx.zip
+--tape-name "Baron.tzx"
+--tape-sum ff9310858df6c6e2e54f7c089a852b36
+--start 1343
+--tape-start 4
+--sim-load-config finish-tape=1

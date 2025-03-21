@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/f/FlowerPower.tap.zip
+--tape-name "FLOWER.TAP"
+--tape-sum 87129775da9bbe0adfb81eb3694d5bc3
+--start 1343
+--tape-stop 7
+--sim-load-config 'load=LOAD "": RUN'
+--sim-load-config finish-tape=1

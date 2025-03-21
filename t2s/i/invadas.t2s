@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/i/Invadas(YourSinclair).tap.zip
+--tape-name "INVADAS.TAP"
+--tape-sum e06f3043d5a7396cad9fef521394f98d
+--start 1343
+--sim-load-config 'load=CLEAR 32099: LOAD "": LOAD "" CODE : RUN'
+--sim-load-config finish-tape=1

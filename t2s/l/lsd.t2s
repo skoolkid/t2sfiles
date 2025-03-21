@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/l/L.s.d..tzx.zip
+--tape-name "LSD.tzx"
+--tape-sum b6552f9d13b50b53bb405d4f2b36d0d8
+--start 1343
+--tape-stop 15
+--sim-load-config finish-tape=1

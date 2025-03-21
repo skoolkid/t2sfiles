@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035425/PravemSilnejsiho.tap.zip
+--tape-name "PravemSilnejsiho.tap"
+--tape-sum 0ac46269257153ffbe7812ad6deb7857
+--start 64230
+--sim-load-config machine=128

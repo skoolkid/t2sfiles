@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/b/ByteV1.tzx.zip
+--tape-name "Byte - Release 1.tzx"
+--tape-sum 56a7d883529bff2fa208b8d843bd1b3e
+--start 1343
+--tape-start 10
+--sim-load-config finish-tape=1

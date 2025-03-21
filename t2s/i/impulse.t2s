@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/i/Impulse.tap.zip
+--tape-name "IMPULSEE.TAP"
+--tape-sum 0b8c51fcebbe82b030fdfb9357599730
+--start 1343
+--sim-load-config 'load=LOAD "": RUN'
+--sim-load-config finish-tape=1

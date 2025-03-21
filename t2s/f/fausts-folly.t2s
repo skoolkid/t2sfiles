@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/f/FaustsFolly.tzx.zip
+--tape-name "Faust's Folly.tzx"
+--tape-sum d6acb34aa4ac85ca82008dba1919b24e
+--start 1343
+--tape-start 6
+--sim-load-config finish-tape=1

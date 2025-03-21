@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RamboIII.tzx.zip
+--tape-name "Rambo III - Side A.tzx"
+--tape-sum 035a3db0f9a3abcfdd6a64aa5b823e02
+--start 33276
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

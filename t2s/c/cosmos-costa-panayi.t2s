@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Cosmos.tzx.zip
+--tape-name "Cosmos.tzx"
+--tape-sum 546ab0bd3e9afe2d0a88d87b47d72177
+--start 1343
+--tape-start 6
+--sim-load-config finish-tape=1

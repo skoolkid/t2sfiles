@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CribbThe.tap.zip
+--tape-name "THECRIBB.TAP"
+--tape-sum 61a79469849e07caab9d504fddb4cf92
+--start 1343
+--tape-start 7
+--sim-load-config finish-tape=1

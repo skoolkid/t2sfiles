@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PhotoFinish.tzx.zip
+--tape-name "Photo Finish.tzx"
+--tape-sum daab1d621c47c5af8a0489e678588200
+--start 1343
+--tape-start 11
+--sim-load-config finish-tape=1

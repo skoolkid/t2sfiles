@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042144/Pitufolandia.tzx.zip
+--tape-name "Pitufolandia.tzx"
+--tape-sum e3ab43cffebc432eae8043218d39d57c
+--start 1343
+--tape-start 8
+--sim-load-config finish-tape=1

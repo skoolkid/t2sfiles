@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/compilations/s/SpyTrilogyThe.tzx.zip
+--tape-name "The Spy Trilogy - Side 1.tzx"
+--tape-sum 6d269911761be610a891c4850872fde8
+--start 1343
+--press '7:n ENTER*55'
+--tape-stop 11
+--sim-load-config finish-tape=1

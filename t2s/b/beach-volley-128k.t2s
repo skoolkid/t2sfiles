@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BeachVolley(ErbeSoftwareS.A.).tzx.zip
+--tape-name "Beach Volley (Erbe).tzx"
+--tape-sum d2ceb55ee63b42a64913000f5bda0828
+--start 46791
+--sim-load-config machine=128
+--tape-stop 26
+--sim-load-config finish-tape=1

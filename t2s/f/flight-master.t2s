@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/f/FlightMaster.tzx.zip
+--tape-name "Flight Master.tzx"
+--tape-sum 060a1d99c19237da29d7613c64adaf05
+--start 1343
+--tape-start 8
+--sim-load-config finish-tape=1

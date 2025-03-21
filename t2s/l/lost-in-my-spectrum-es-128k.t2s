@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0027974/LostInMySpectrum-ES-128.tap.zip
+--tape-name "LostInMySpectrum-ES-128.tap"
+--tape-sum f222e54fec5dfc0e2e3d12a167cf9eed
+--start 32920
+--sim-load-config machine=128
+--sim-load-config finish-tape=1
