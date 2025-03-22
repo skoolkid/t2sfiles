@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/compilations/n/Nightwing+Solaris.tzx.zip
+--tape-name "Nightwing & Solaris - Solaris.tzx"
+--tape-sum 88fcedffd3e818f220406b155d1c229c
+--start 1343
+--tape-start 6
+--sim-load-config 'load=PAPER 0: INK 0: BORDER 0: LOAD "" SCREEN$ : PRINT AT 8,0;: LOAD ""'
+--press 10:ENTER*5
+--sim-load-config finish-tape=1

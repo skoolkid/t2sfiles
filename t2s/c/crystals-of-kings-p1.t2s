@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CrystalsOfKings.tzx.zip
+--tape-name "Crystals Of Kings - Part 1.tzx"
+--tape-sum 0dc93573b61146887e05bde82512003a
+--start 1343
+--press '10:ENTER*5 NONE*110 ENTER*5 NONE*110 ENTER*5 NONE*110 ENTER*5 NONE*110 ENTER*5 NONE*110 ENTER*5'
+--sim-load-config finish-tape=1

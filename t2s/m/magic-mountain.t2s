@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MagicMountain.tzx.zip
+--tape-name "Magic Mountain.tzx"
+--tape-sum f2ff5d16634e312d97ec2ff6fcae0e26
+--start 1343
+--press 6:ENTER*60
+--sim-load-config finish-tape=1

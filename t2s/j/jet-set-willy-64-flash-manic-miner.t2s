@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/j/JetSetWilly64-FlashManicMiner.tap.zip
+--tape-name "FLASHMM.TAP"
+--tape-sum c193e99e74eed6baf926bb33be117709
+--start 32039
+--sim-load-config machine=128
+--press 19:ENTER*2

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SportOfKingsChallengeThe.tzx.zip
+--tape-name "The Sport Of Kings Challenge - Side 1.tzx"
+--tape-sum 0afd3bdb4bf09b9b6d64d58aa7cff435
+--start 1343
+--press '10:n ENTER'
+--sim-load-config finish-tape=1

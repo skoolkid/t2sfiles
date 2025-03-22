@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042232/FormulaOne.tap.zip
+--tape-name "FormulaOne.tap"
+--tape-sum eee1d86ed44563d5dccc50d4166cbb60
+--start 1343
+--press 5:ENTER
+--press 7:ENTER
+--sim-load-config finish-tape=1

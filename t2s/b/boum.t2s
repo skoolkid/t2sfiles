@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034387/BOUM.tzx.zip
+--tape-name "Boum.tzx"
+--tape-sum 6a49af9bddf461c1b687e6b1f626f79c
+--start 1343
+--press '3:ENTER NONE*5700 n*5 ENTER*5 NONE*40 ENTER*5'
+--sim-load-config finish-tape=1

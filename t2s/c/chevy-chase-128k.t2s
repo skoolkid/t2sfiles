@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/c/ChevyChase.tzx.zip
+--tape-name "Chevy Chase - Side A.tzx"
+--tape-sum 66b1912ac21f157c7cb7879fe9f1a351
+--tape-name "Chevy Chase - Side B.tzx"
+--tape-sum e4e5427bcfaa6970830590055d2005b5
+--start 41277
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

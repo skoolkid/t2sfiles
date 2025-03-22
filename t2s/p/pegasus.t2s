@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Pegasus.tzx.zip
+--tape-name "Pegasus.tzx"
+--tape-sum c26598b378c65322c779f233ee3621af
+--start 1343
+--press 8:n*3
+--sim-load-config finish-tape=1

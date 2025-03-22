@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Crystals.tap.zip
+--tape-name "CRYSTALS.TAP"
+--tape-sum 4570ca33092f640c0437b126446ed104
+--start 1343
+--press 3:ENTER
+--tape-stop 5
+--sim-load-config finish-tape=1

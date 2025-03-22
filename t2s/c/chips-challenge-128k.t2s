@@ -1,0 +1,10 @@
+https://worldofspectrum.net/pub/sinclair/games/c/ChipsChallenge.tzx.zip
+--tape-name "Chips Challenge.tzx"
+--tape-sum 64192b329a7872cfba66e7d8dc3edbef
+--start 32835
+--press 17:SPACE
+--press 22:SPACE*5
+--press '27:SPACE*10 NONE*5 SPACE*10 NONE*5 0*10'
+--tape-stop 30
+--sim-load-config finish-tape=1
+--sim-load-config machine=128

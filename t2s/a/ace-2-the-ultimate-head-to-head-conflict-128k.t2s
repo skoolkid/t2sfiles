@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/ACE2-TheUltimateHeadToHeadConflict.tzx.zip
+--tape-name "ACE 2 - 128k.tzx"
+--tape-sum 1efe09a439198ef0f312426ee73c9f28
+--start 28009
+--sim-load-config machine=128
+--press 9:SPACE
+--tape-stop 10

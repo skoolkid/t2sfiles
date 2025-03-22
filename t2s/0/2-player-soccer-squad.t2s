@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/123/2PlayerSoccerSquad.tzx.zip
+--tape-name "2 Player Soccer Squad.tzx"
+--tape-sum f83ce86aeb24f2ad63dcd4bac29fca76
+--start 1343
+--press 5:n*4
+--tape-stop 9
+--sim-load-config finish-tape=1

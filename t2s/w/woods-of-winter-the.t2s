@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/w/WoodsOfWinterThe.tzx.zip
+--tape-name "Woods Of Winter.tzx"
+--tape-sum 0b6b1445d5de49bf8e137db61e05d848
+--start 1343
+--press 4:ENTER*450
+--sim-load-config finish-tape=1

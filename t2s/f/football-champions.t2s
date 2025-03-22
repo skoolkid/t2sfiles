@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/f/FootballChampions.tzx.zip
+--tape-name "Football Champions.tzx"
+--tape-sum 189dad430cd95d0a75cca92f49eb262d
+--start 1343
+--press 9:n*10
+--tape-stop 11
+--sim-load-config finish-tape=1

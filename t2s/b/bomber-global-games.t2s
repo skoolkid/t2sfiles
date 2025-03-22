@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Bomber.tzx.zip
+--tape-name "Bomber.tzx"
+--tape-sum cf5e135637d46e435370f9b4a9781a45
+--start 1343
+--press 10:ENTER*62
+--sim-load-config finish-tape=1

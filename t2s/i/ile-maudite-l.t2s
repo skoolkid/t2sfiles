@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/i/IleMauditeL.tzx.zip
+--tape-name "L'Ile Maudite.tzx"
+--tape-sum 0649afee29dc5b0f62012000921727e7
+--start 1343
+--press 4:ENTER*105
+--sim-load-config finish-tape=1

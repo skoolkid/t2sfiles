@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AirDefence.tzx.zip
+--tape-name "Air Defence.tzx"
+--tape-sum 963974d815e84393f12450b0eb2b5d36
+--start 1343
+--press '8:NONE*110 o*5 ENTER*50'
+--sim-load-config finish-tape=1

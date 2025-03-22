@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/a/Abyss.tzx.zip
+--tape-name "Abyss.tzx"
+--tape-sum 7a22e0fec7dcf9147f7c29af085ba77c
+--start 1343
+--press '5:a b*99 c*99 d*99 n*10'
+--sim-load-config finish-tape=1

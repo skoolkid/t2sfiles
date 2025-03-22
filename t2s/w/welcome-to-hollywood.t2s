@@ -1,0 +1,8 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036457/WelcomeToHollywood.tzx.zip
+--tape-name "Welcome to Hollywood.TZX"
+--tape-sum 48336dd33105f6d7134ae967b2bbdcb2
+--start 1343
+--press 8:ENTER*190
+--press 18:ENTER*40
+--tape-stop 26
+--sim-load-config finish-tape=1

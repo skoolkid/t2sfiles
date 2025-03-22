@@ -1,0 +1,10 @@
+https://worldofspectrum.net/pub/sinclair/games/s/St.Dragon.tzx.zip
+--tape-name "St. Dragon - Side 1.tzx"
+--tape-sum bdc35ab185830e9d6abb7b878e3ff8a7
+--tape-name "St. Dragon - Side 2.tzx"
+--tape-sum b8f11798891e4dbf29e460f5786b4ada
+--press 20:SPACE*5
+--tape-stop 32
+--start 36245
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

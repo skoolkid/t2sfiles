@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DesChiffresEtDesLettres.tap.zip
+--tape-name "chflet.tap"
+--tape-sum 3898ed592f46616c58c873af8c535197
+--start 1343
+--press 3:ENTER
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/f/FootballDirector-2PlayerSuperLeague.tzx.zip
+--tape-name "Football Director - 2 Player Super League.tzx"
+--tape-sum 8bd6b3c6fd976df69f58a34cf13826d9
+--start 1343
+--press 13:n
+--tape-stop 19
+--sim-load-config finish-tape=1

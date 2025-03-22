@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/e/E-SWAT.tzx.zip
+--tape-name "E-SWAT - Side A.tzx"
+--tape-sum 6b11e6150244ad7e195425b817960387
+--start 47646
+--sim-load-config machine=128
+--press 13:SPACE*40
+--tape-stop 31
+--sim-load-config finish-tape=1

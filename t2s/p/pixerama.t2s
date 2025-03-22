@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Pixerama.tap.zip
+--tape-name "PIXERAMA.TAP"
+--tape-sum 5205515ef88f9a8b36e3680a74da4e39
+--start 1343
+--press 3:ENTER*145
+--sim-load-config finish-tape=1

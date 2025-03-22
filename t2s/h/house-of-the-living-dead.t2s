@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/h/HouseOfTheLivingDead.tzx.zip
+--tape-name "The House Of The Living Dead.tzx"
+--tape-sum 745d8de8b8c55d9d47cc8ac2e6113551
+--start 1343
+--press '4:ENTER n*40 ENTER'
+--sim-load-config finish-tape=1

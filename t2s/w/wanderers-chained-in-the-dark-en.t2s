@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030168/WanderersChainedInTheDark(EN).tap.zip
+--tape-name "WanderersChainedInTheDark(EN).tap"
+--tape-sum 79d5243e397526905972a440f006b0cd
+--start 24680
+--sim-load-config machine=128
+--press '6:ENTER*2 NONE*1585'
+--sim-load-config finish-tape=1

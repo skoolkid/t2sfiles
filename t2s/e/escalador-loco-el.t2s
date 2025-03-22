@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/e/EscaladorLocoEl.tap.zip
+--tape-name "Escalador Loco.tap"
+--tape-sum 30c368d6bc604935c9b491e127706bac
+--start 1343
+--press '5:ENTER NONE*70 ENTER*5'
+--sim-load-config finish-tape=1

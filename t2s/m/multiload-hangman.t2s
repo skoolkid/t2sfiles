@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031068/MultiloadHangman.tap.zip
+--tape-name "MultiloadHangman.tap"
+--tape-sum 8959e4acc0634f74e71e948b4ec35199
+--start 1343
+--press 5:ENTER*2
+--tape-stop 7
+--sim-load-config finish-tape=1

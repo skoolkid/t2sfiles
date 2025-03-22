@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SantasWorkshop2.tzx.zip
+--tape-name "Santa's Workshop 2.tzx"
+--tape-sum 2f63a58cf08e84390e74b841551584ed
+--start 1343
+--press 4:2
+--sim-load-config finish-tape=1

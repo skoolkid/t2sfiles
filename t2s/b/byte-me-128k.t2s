@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/ByteMe.tap.zip
+--tape-name "ByteMe.tap"
+--tape-sum 2ccee9065327dbbde99acf2cfac8bba4
+--start 27400
+--sim-load-config machine=128
+--press 7:ENTER
+--sim-load-config accelerator=none

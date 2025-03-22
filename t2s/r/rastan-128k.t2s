@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/r/Rastan.tzx.zip
+--tape-name "Rastan - 128k.tzx"
+--tape-sum b1e02e7badc70a08e4405275013871af
+--start 41483
+--sim-load-config machine=128
+--press 33:ENTER
+--tape-stop 45

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TimeOut.tzx.zip
+--tape-name "Time Out.tzx"
+--tape-sum 62ef6aa510e357669da46e051e7c2ead
+--start 64602
+--sim-load-config machine=128
+--press 8:ENTER
+--tape-stop 9

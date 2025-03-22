@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/v/ValleyThe_2.tap.zip
+--tape-name "VALLEY.TAP"
+--tape-sum de8721b04eb3c2e469ef34718ad67e31
+--start 1343
+--press 3:p*2
+--sim-load-config finish-tape=1

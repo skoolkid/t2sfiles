@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Motorcycle500.tzx.zip
+--tape-name "Motorcycle 500.tzx"
+--tape-sum 8ddce78793f07ce0a72d24a5c3d20a9b
+--start 1343
+--press 10:c*20
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MentalBlocks-Frustration2.tap.zip
+--tape-name "MENTBL_1.TAP"
+--tape-sum 727a55a29401a869b466873290a7d939
+--start 1343
+--press 3:ENTER
+--sim-load-config finish-tape=1

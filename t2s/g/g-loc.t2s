@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/g/G-LOC.tzx.zip
+--tape-name "G-Loc - Side A.tzx"
+--tape-sum effc9b6ee43f97dd66ddb70fd13cefb9
+--start 48700
+--sim-load-config machine=128
+--press '28:SPACE ENTER*2'
+--sim-load-config finish-tape=1

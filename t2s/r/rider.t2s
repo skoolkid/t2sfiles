@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/r/Rider.tzx.zip
+--tape-name "Rider.tzx"
+--tape-sum f5be8b61644b96c7979a5b94b44b6f0f
+--start 1343
+--press 9:ENTER*55
+--tape-stop 15
+--sim-load-config finish-tape=1

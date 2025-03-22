@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/h/HellfireAttack.tzx.zip
+--tape-name "Hellfire Attack - Side 1.tzx"
+--tape-sum 167a5fa5701fa3e0bb8a4cbd17196a36
+--tape-name "Hellfire Attack - Side 2.tzx"
+--tape-sum 00ea6fe27f644a2a3f1f5acd0cd49f9e
+--tape-stop 17
+--start 47235
+--sim-load-config machine=128

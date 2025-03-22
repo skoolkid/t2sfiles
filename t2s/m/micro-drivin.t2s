@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MicroDrivin.tzx.zip
+--tape-name "Micro Drivin'.tzx"
+--tape-sum a6973d1fd9375ae1e6da04e38ec63519
+--start 1343
+--press 4:s*445
+--sim-load-config finish-tape=1

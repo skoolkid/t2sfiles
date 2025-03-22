@@ -1,0 +1,10 @@
+https://worldofspectrum.net/pub/sinclair/games/i/IndianaJonesAndTheFateOfAtlantis.tzx.zip
+--tape-name "Indiana Jones And The Fate Of Atlantis - Side A.tzx"
+--tape-sum 720491a196bead9318e2b7f34c7b8081
+--tape-name "Indiana Jones And The Fate Of Atlantis - Side B.tzx"
+--tape-sum 7f58fcc61ca111b5906abffd934a98a7
+--press 45:SPACE*8
+--tape-stop 51
+--start 64636
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

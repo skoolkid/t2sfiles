@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037742/Popeye.tap.zip
+--tape-name "popeyefinaljuego.tap"
+--tape-sum ff3e9fa92b71dfccae520106ced1ba5e
+--start 1343
+--press 5:ENTER*1236
+--sim-load-config finish-tape=1

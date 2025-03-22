@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/r/Robozone.tzx.zip
+--tape-name "Robozone - Side 1.tzx"
+--tape-sum 90c2506868dbd4567392807f4802a17a
+--tape-name "Robozone - Side 2.tzx"
+--tape-sum 23ae1edcee86432ef716c56f8d678633
+--press '10:SPACE NONE SPACE'
+--start 33374
+--sim-load-config machine=128

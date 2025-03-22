@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AbadiaDelCrimenLa.tzx.zip
+--tape-name "La Abadia Del Crimen.tzx"
+--tape-sum f31627099e5b330eba2e724cd93f0b0a
+--start 36630
+--sim-load-config machine=128
+--press '10:SPACE l*2'
+--sim-load-config timeout=2060

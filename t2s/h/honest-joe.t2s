@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030631/HonestJoe.tap.zip
+--tape-name "HonestJoe.tap"
+--tape-sum c40a3eca13389be7dd478abd51f1eaea
+--start 1343
+--press 9:ENTER*190
+--tape-stop 11
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/j/JetSetWilly64-ManicMiner-JamesBondV1.0.tap.zip
+--tape-name "BOND.TAP"
+--tape-sum 5490200fe780cfacc26101a0154628a6
+--start 32039
+--sim-load-config machine=128
+--press 19:ENTER*15

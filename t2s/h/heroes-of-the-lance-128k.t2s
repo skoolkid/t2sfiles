@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/h/HeroesOfTheLance.tzx.zip
+--tape-name "Heroes Of The Lance - Side A.tzx"
+--tape-sum 3feac686ab72c1d6b244b7b0d8c2bfc0
+--start 31400
+--sim-load-config machine=128
+--press 7:ENTER*2
+--tape-stop 8

@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/n/NightHunter.tzx.zip
+--tape-name "Night Hunter.tzx"
+--tape-sum 42c29234749066e256803bd59b1e5144
+--start 33775
+--sim-load-config machine=128
+--press 13:SPACE
+--tape-stop 17
+--sim-load-config finish-tape=1

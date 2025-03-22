@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/g/GordelloIncidentThe.tzx.zip
+--tape-name "The Gordello Incident.tzx"
+--tape-sum 0f7ce954a924c3b7b406c015bfb9d08b
+--start 1343
+--press '10:n*80 ENTER*45'
+--tape-stop 14
+--sim-load-config finish-tape=1

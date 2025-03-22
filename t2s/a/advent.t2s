@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/a/Advent.tap.zip
+--tape-name "ADVE.TAP"
+--tape-sum 10b242f18dc2f404c16dec60df8e32ed
+--start 1343
+--press '3:NONE*910 2*2 ENTER*2'
+--sim-load-config finish-tape=1

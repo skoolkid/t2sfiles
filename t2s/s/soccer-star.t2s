@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SoccerStar.tzx.zip
+--tape-name "Soccer Star.tzx"
+--tape-sum 684a13799aab2277c9620aa39ee1f085
+--start 1343
+--press 10:1*2
+--sim-load-config finish-tape=1

@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DoubleDragonIII-TheRosettaStone.tzx.zip
+--tape-name "Double Dragon 3 - Rosetta Stone - Side A.tzx"
+--tape-sum ce3b0e2252048242d9d80c21d4445d87
+--tape-name "Double Dragon 3 - Rosetta Stone - Side B.tzx"
+--tape-sum f0a493bee4f4a320ee3395106f11cc8d
+--start 33312
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

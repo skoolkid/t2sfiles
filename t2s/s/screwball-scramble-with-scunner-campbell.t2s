@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042332/ScrewballScrambleWithScunnerCampbell.tap.zip
+--tape-name "ScrewballScrambleWithScunnerCampbell.tap"
+--tape-sum 27af49fe22f578433c67b9fb40f4e403
+--start 1343
+--press 9:ENTER
+--tape-stop 11
+--sim-load-config finish-tape=1

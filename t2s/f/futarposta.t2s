@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/f/Futarposta.tzx.zip
+--tape-name "Futarposta_OK.tzx"
+--tape-sum ed36652344717e3d67532149956a1382
+--start 1343
+--press 11:2*50
+--sim-load-config finish-tape=1

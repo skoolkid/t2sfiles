@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042811/QueteDuChevalierLa.tzx.zip
+--tape-name "QueteDuChevalierLa.tzx"
+--tape-sum edab84d173e41f7f3f182f095eee92a2
+--start 1343
+--press 7:ENTER*730
+--sim-load-config finish-tape=1

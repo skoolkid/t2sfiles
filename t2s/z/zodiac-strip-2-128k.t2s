@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/z/ZodiacStrip2.tap.zip
+--tape-name "ZodiacStrip2_128.tap"
+--tape-sum 79d3bfe885ba2d4955353b0443b20a09
+--start 23951
+--sim-load-config machine=128
+--press 6:SPACE*25

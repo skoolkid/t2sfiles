@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Clickmania.tzx.zip
+--tape-name "CLICKMAN.TZX"
+--tape-sum 62e2d5bb1457e9be3ee97a9073f6c326
+--start 32768
+--sim-load-config machine=128
+--press 7:SPACE

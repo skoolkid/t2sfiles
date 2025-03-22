@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RescateAtlantida.tzx.zip
+--tape-name "Rescate Atlantida - Side 1.tzx"
+--tape-sum fbb40353506cfc2f0a3de7481fcf547d
+--start 41397
+--press '796:ENTER NONE*985 1'
+--tape-stop 1570
+--sim-load-config finish-tape=1

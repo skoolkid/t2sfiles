@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/u/UnresidentEvil3-EnterTheLaboratory.tap.zip
+--tape-name "Unresident Evil 3.TAP"
+--tape-sum 04a1684c8171d8fedbef7a50908615a8
+--start 1343
+--press 9:ENTER
+--sim-load-config finish-tape=1

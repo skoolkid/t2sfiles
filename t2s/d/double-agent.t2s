@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DoubleAgent(ZenobiSoftware).tap.zip
+--tape-name "DOUBLEA1.TAP"
+--tape-sum b8c7d12275fab8cec1b6fe6e8380ddb8
+--start 1343
+--press '7:ENTER NONE*30 n*50 NONE*30 ENTER'
+--sim-load-config finish-tape=1

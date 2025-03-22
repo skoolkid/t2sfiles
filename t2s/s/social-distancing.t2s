@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036260/SocialDistancing.tap.zip
+--tape-name "socialdistance.tap"
+--tape-sum 87666e923cec58fe2293d7104e052216
+--start 1343
+--press 3:ENTER*36
+--tape-stop 5
+--sim-load-config finish-tape=1

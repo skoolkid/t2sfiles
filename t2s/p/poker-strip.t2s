@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PokerStrip.tzx.zip
+--tape-name "PokerStrip.tzx"
+--tape-sum 7f83405469bed978d0c5a60daccfa55f
+--start 1343
+--press 4:n*10
+--sim-load-config finish-tape=1

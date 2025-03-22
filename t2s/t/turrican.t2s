@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/Turrican.tzx.zip
+--tape-name "Turrican.tzx"
+--tape-sum b56255897042240ecc0c4394b4826161
+--start 28128
+--press '8:SPACE*50 NONE*10 SPACE*50 NONE*10 SPACE*50'
+--tape-stop 10

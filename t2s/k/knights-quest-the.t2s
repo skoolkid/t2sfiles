@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/k/KnightsQuestThe.tzx.zip
+--tape-name "The Knights Quest.tzx"
+--tape-sum 717eb05c83e408464c8c20bea6a67757
+--start 1343
+--press 6:ENTER*60
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042810/ShootOut(Issue2).tap.zip
+--tape-name "ShootOut(Issue2).tap"
+--tape-sum e02173d86597456cb8d42b1ff36419f2
+--start 1343
+--press 3:ENTER*400
+--state issue2=1
+--sim-load-config finish-tape=1

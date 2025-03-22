@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Predator2.tzx.zip
+--tape-name "Predator 2 - Side 1.tzx"
+--tape-sum 1b76964f6a172296bf50a499cb31b40c
+--tape-name "Predator 2 - Side 2.tzx"
+--tape-sum d6e7bc7a07840d1733d10ab8dabce13e
+--tape-stop 12
+--start 23420
+--sim-load-config machine=128

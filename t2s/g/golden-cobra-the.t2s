@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/g/GoldenCobraThe.tzx.zip
+--tape-name "The Golden Cobra.tzx"
+--tape-sum 3fd9969b7adacd3567cfcea830fb8e5a
+--start 1343
+--press 5:g*2
+--tape-stop 7
+--sim-load-config finish-tape=1

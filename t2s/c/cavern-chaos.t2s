@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CavernChaos.tap.zip
+--tape-name "CAVCHAOS.TAP"
+--tape-sum 7a253034719e3abf9f8b5d177a8fb8e2
+--start 1343
+--press '11:ENTER*5 n*5'
+--sim-load-config finish-tape=1

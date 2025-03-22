@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SiviDom.tzx.zip
+--tape-name "Sivi Dom.tzx"
+--tape-sum 8e46b25cfd25acc0758fcee7a73672ef
+--start 1343
+--press 6:ENTER*3
+--sim-load-config finish-tape=1

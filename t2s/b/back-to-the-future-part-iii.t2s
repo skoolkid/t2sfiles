@@ -1,0 +1,9 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BackToTheFuturePartIII.tzx.zip
+--tape-name "Back To The Future - Part III - Boot Code.tzx"
+--tape-sum 8d39ac4612e5dbb9284176336e31fe4e
+--tape-name "Back To The Future - Part III - Game Data.tzx"
+--tape-sum eb266a3f5fa91991cd1d7f73c422943e
+--tape-stop 41
+--start 36251
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/k/KucnaGerila.tzx.zip
+--tape-name "Kucna Gerila.tzx"
+--tape-sum 4190a3c927e6769fbbfadbc939dbc1f8
+--start 1343
+--press '4:ENTER*2 n*15'
+--sim-load-config finish-tape=1

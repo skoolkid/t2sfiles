@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SpectraSmash.tzx.zip
+--tape-name "Spectra Smash.tzx"
+--tape-sum 21fab5909c8767447b76e0fd1fa36c29
+--start 24000
+--press '3:ENTER*5 NONE*95 ENTER*5 n*10'
+--tape-stop 5

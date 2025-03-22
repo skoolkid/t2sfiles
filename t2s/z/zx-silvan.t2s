@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/z/ZXSilvan.tzx.zip
+--tape-name "ZxSilvan.tzx"
+--tape-sum d99a4961aa00602beccd7619ee2cffeb
+--start 1343
+--press 7:ENTER*25
+--sim-load-config finish-tape=1

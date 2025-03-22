@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AcornsQuest.tzx.zip
+--tape-name "Acorn's Quest.tzx"
+--tape-sum fe718b3b780e4449acf0188b7d689955
+--start 1343
+--press '6:a b*50 c*50 l*10'
+--tape-stop 10
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039283/Tetris4px.tap.zip
+--tape-name "Tetris4px.tap"
+--tape-sum 931717768e4fe59b4615ca1eb557c66e
+--start 1343
+--press 5:ENTER*2
+--tape-stop 27
+--sim-load-config finish-tape=1

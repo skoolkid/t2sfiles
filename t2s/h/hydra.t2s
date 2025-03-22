@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/h/Hydra.tzx.zip
+--tape-name "Hydra - Side 1.tzx"
+--tape-sum 083ee694c755a060cd3fbeafedb31e44
+--tape-name "Hydra - Side 2.tzx"
+--tape-sum ace2e72a969e33e968d2735070997711
+--start 34306
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

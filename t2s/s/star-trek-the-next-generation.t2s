@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/StarTrek-TheNextGeneration1997.tap.zip
+--tape-name "S-TREK-N.TAP"
+--tape-sum 6228b7cce0eef25d8717d3557014d93d
+--start 1343
+--press 3:ENTER*2
+--sim-load-config finish-tape=1

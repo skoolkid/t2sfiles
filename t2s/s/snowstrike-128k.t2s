@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Snowstrike.tzx.zip
+--tape-name "Snowstrike - Side A.tzx"
+--tape-sum 44a77a0fd5caf3b70005bba61d676c26
+--tape-name "Snowstrike - Side B.tzx"
+--tape-sum 41ffe7b0dac2bd96b4b0e7ff3b9bebce
+--start 48700
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

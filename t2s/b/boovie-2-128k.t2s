@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Boovie2.tap.zip
+--tape-name "Boovie2.tap"
+--tape-sum 713f479ae35f3f8568cbed85d6f27ae2
+--start 25000
+--sim-load-config machine=128
+--press 5:ENTER*2

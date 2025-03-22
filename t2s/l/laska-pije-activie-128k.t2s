@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039484/LASKAPijeActivie.tap.zip
+--tape-name "LASKAPijeActivie.tap"
+--tape-sum 72286876045542307a7d5855133ee1a7
+--start 37597
+--sim-load-config machine=128
+--press 5:ENTER

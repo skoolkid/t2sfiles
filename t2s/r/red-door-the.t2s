@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RedDoorThe.tap.zip
+--tape-name "RED-DOOR.TAP"
+--tape-sum 59e3d87cb02f9968d5330fa9b5f7f57c
+--start 1343
+--press 5:ENTER*40
+--sim-load-config finish-tape=1

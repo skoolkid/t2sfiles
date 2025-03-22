@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/j/JetSetWilly-The2010Megamix(EasyVersion).tap.zip
+--tape-name "Jet Set Willy - The 2010 Megamix (Easy Version).tap"
+--tape-sum 6b982f54e1668a410b92a9823fa6bdc5
+--start 32039
+--sim-load-config machine=128
+--press 3:ENTER

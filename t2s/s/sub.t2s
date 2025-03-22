@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Sub.tzx.zip
+--tape-name "Sub.tzx"
+--tape-sum 3f432dccb8940b744af7c4062dcd1a5d
+--start 1343
+--press 5:ENTER*590
+--tape-stop 12
+--sim-load-config finish-tape=1

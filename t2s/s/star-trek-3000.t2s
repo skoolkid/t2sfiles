@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/StarTrek3000.tzx.zip
+--tape-name "Star Trek 3000.tzx"
+--tape-sum b93de7eb90088ce7a8c132655e7cf40b
+--start 1343
+--press '4:ENTER*10 NONE*70 ENTER*10 NONE*70 ENTER*10'
+--sim-load-config finish-tape=1

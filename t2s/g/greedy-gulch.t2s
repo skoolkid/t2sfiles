@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/g/GreedyGulch.tzx.zip
+--tape-name "Greedy Gulch.tzx"
+--tape-sum 69fbc5477a4f009a9baec29e1e079f1c
+--start 1343
+--press 4:ENTER*60
+--sim-load-config finish-tape=1

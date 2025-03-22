@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/BobsFullHouse.tzx.zip
+--tape-name "Bobs Full House - Side 1.tzx"
+--tape-sum b95d9e2071fb56f1596404cd2561974b
+--tape-name "Bobs Full House - Side 2.tzx"
+--tape-sum 038a95b6dada050734eaf3cc04d3a4d0
+--start 46101
+--sim-load-config machine=128

@@ -1,0 +1,8 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0003487/Octopussy.tzx.zip
+--tape-name "Octopussy.tzx"
+--tape-sum 84911ce1f53e30ec7701fa268142f939
+--start 33061
+--sim-load-config machine=128
+--press 10:n*150
+--tape-stop 18
+--sim-load-config finish-tape=1

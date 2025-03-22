@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042052/ArkanoidIII.tzx.zip
+--tape-name "ArkanoidIII.tzx"
+--tape-sum 1c15e6927c49327ef69282d7beb98d6a
+--start 65106
+--press '7:SPACE*100 NONE*1800 ENTER*100'
+--sim-load-config finish-tape=1

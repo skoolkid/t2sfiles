@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/l/LastNinjaRemix.tzx.zip
+--tape-name "Last Ninja Remix.tzx"
+--tape-sum a74c652bcdbbb687ee837eac39f09235
+--start 26069
+--sim-load-config machine=128
+--press 38:ENTER
+--tape-stop 40

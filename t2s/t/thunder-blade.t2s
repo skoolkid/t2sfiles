@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/ThunderBlade.tzx.zip
+--tape-name "Thunder Blade - Side 1.tzx"
+--tape-sum fedb7704be6875ff8b311706bcb6c43f
+--tape-name "Thunder Blade - Side 2.tzx"
+--tape-sum 9ab57c4cc62b9ca8560697a44d112d08
+--start 64249
+--sim-load-config finish-tape=1

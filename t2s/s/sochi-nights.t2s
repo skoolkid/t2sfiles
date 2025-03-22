@@ -1,0 +1,8 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035172/SochiNights.tap.zip
+--tape-name "sochinights.tap"
+--tape-sum 659f360b9d10e313b489e3e5e85481d2
+--start 24317
+--press '5:SPACE w*20 SPACE'
+--press 6:ENTER*3
+--tape-stop 7
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0025243/Magia.tzx.zip
+--tape-name "Magia.tzx"
+--tape-sum a8e7c981de0e402aa3e169ac31043673
+--start 1343
+--press 4:ENTER
+--sim-load-config finish-tape=1

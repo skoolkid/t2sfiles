@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/t/TwisterFruitMachine.tap.zip
+--tape-name "TWISTER.TAP"
+--tape-sum 8dc7e1720acceff251a8ba657d867892
+--start 32768
+--sim-load-config machine=128
+--press 5:ENTER*1775
+--sim-load-config finish-tape=1

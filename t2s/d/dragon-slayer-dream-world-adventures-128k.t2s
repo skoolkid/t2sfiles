@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/d/DragonSlayer128.tzx.zip
+--tape-name "Dragonslayer - 128k.tzx"
+--tape-sum a64d0d278dd5ec0a8b4e0ff553e9c0e8
+--start 34887
+--sim-load-config machine=128
+--press 7:ENTER*20
+--tape-stop 25

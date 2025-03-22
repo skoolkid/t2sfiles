@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0013150/OperationRomanGaul.tzx.zip
+--tape-name "Operation Roman Gaul - Master.tzx"
+--tape-sum cad7c3046c5427c609284abc0556047d
+--start 65129
+--press 4:n*885
+--sim-load-config finish-tape=1

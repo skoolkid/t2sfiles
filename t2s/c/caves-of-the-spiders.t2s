@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/CavesOfTheSpiders.tap.zip
+--tape-name "CavesOfTheSpiders.TAP"
+--tape-sum 58213da230ea6b2625d0fa124c8301c5
+--start 1343
+--press '3:NONE*7800 n ENTER'
+--sim-load-config finish-tape=1

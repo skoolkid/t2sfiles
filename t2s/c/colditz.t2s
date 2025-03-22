@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/c/Colditz.tzx.zip
+--tape-name "Colditz.tzx"
+--tape-sum 9d3a3b42747d203186f71e223eec34e9
+--start 1343
+--press '3:ENTER*5 NONE*100 ENTER*5 NONE*100 ENTER*5 NONE*100 ENTER*5 NONE*100 ENTER*5'
+--sim-load-config finish-tape=1

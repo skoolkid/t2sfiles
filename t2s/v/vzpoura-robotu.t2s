@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035465/VzpouraRobotu.tzx.zip
+--tape-name "VzpouraRobotu.tzx"
+--tape-sum 025f7e5b6923378c9eb6f5466f1225cf
+--start 64175
+--press 5:ENTER*355
+--sim-load-config finish-tape=1

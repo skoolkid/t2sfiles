@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RedSphereThe.tzx.zip
+--tape-name "The Red Sphere.tzx"
+--tape-sum e210a97371a0b756880c7a2ca2618078
+--start 1343
+--press 10:ENTER
+--tape-stop 14
+--sim-load-config finish-tape=1

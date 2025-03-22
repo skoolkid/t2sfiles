@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/q/Quiztimer.tzx.zip
+--tape-name "Quiz Timer - Side 1.tzx"
+--tape-sum b9087210d5ab08735d60da75caddc820
+--start 1343
+--press '11:g NONE*2 2*170 NONE*2 c*5'
+--sim-load-config finish-tape=1

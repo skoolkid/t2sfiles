@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PharaohsTombThe.tzx.zip
+--tape-name "Pharaoh's Tomb.tzx"
+--tape-sum ab4e546b80cb09082db477a6f269ee73
+--start 1343
+--press 6:ENTER*60
+--sim-load-config finish-tape=1

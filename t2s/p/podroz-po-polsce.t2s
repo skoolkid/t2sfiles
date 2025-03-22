@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PodrozPoPolsce.tap.zip
+--tape-name "POPOLSCE.TAP"
+--tape-sum a9d8d27d6de372241850b7c27a5f6344
+--start 1343
+--press 5:ENTER*450
+--sim-load-config finish-tape=1

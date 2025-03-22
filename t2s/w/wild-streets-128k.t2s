@@ -1,0 +1,9 @@
+https://worldofspectrum.net/pub/sinclair/games/w/WildStreets.tzx.zip
+--tape-name "Wild Streets.tzx"
+--tape-sum 5470078612c7790b97da008abfa09c93
+--start 42540
+--sim-load-config machine=128
+--press 9:ENTER
+--press 11:ENTER
+--tape-stop 13
+--sim-load-config finish-tape=1

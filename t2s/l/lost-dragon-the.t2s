@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/l/LostDragonThe.tap.zip
+--tape-name "LOSTDRAG.TAP"
+--tape-sum a80d23cad1925c7e7e7866cc3278e7a1
+--start 1343
+--press 9:n*4
+--sim-load-config finish-tape=1

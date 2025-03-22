@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/j/Jet-SetWillyIvy.tzx.zip
+--tape-name "Jet Set Willy - Ivy.tzx"
+--tape-sum 7f6a9a1673200fac1d3ccc9eb8e08328
+--start 1343
+--press 6:ENTER
+--sim-load-config finish-tape=1

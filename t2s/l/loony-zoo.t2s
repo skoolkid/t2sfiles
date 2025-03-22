@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/l/LoonyZoo.tzx.zip
+--tape-name "Loony Zoo.tzx"
+--tape-sum 014eb1132ea627c8c36af409e611ced2
+--start 1343
+--press '5:ENTER*2 n*2 ENTER*35'
+--tape-stop 13
+--sim-load-config finish-tape=1

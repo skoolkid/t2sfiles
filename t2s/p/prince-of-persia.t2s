@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/p/PrinceOfPersia.tap.zip
+--tape-name "POPERSIA.TAP"
+--tape-sum 21561de50dc1b5f48e872c0aef632560
+--start 29357
+--sim-load-config machine=128
+--press 13:SPACE
+--tape-stop 35
+--sim-load-config timeout=990

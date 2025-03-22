@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/w/Western.tzx.zip
+--tape-name "Western.tzx"
+--tape-sum 16bcc52afdb75310281667763b33f3e4
+--start 1343
+--press 6:ENTER*5
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0001405/Dizzy8-LittleJoke.tap.zip
+--tape-name "Dizzy8-LittleJoke.tap"
+--tape-sum 96598233b528e8184011dd5afa232938
+--start 27003
+--sim-load-config machine=128
+--press 6:SPACE*50
+--sim-load-config finish-tape=1

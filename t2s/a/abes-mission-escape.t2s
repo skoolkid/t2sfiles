@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/a/AbesMission-Escape.tap.zip
+--tape-name "abes_mis.tap"
+--tape-sum 225e48f9e77e1eb452c620947576cf9b
+--start 25000
+--sim-load-config machine=128
+--press 17:SPACE*12
+--sim-load-config finish-tape=1

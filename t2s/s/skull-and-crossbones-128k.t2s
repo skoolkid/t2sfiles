@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SkullCrossbones.tzx.zip
+--tape-name "Skull & Crossbones - Side A.tzx"
+--tape-sum 57b7967315ea54cbf9e30329aee01f9a
+--tape-name "Skull & Crossbones - Side B.tzx"
+--tape-sum 1ff846c2172d26ffbcebf20322fc6645
+--start 47856
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

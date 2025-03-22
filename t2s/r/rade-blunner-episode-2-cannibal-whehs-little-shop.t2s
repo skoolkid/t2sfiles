@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034842/RadeBlunner2.tap.zip
+--tape-name "Rade Blunner Ep2_by_iadvd_2019_classic_greetz_ver.tap"
+--tape-sum 46cf3269fd8a986e39744ddc0cd8c5a6
+--start 24000
+--press 5:c
+--sim-load-config finish-tape=1

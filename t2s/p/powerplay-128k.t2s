@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Powerplay.tzx.zip
+--tape-name "Powerplay - Side A.tzx"
+--tape-sum 9b539ec0dba756ef2623d7da8b02d1f9
+--start 33448
+--sim-load-config machine=128
+--press 7:l
+--tape-stop 9

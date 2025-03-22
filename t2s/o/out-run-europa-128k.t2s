@@ -1,0 +1,9 @@
+https://worldofspectrum.net/pub/sinclair/games/o/OutRunEuropa.tzx.zip
+--tape-name "Outrun Europa - Side A.tzx"
+--tape-sum 628be2b236562da488232a8d2ff9a4f2
+--start 65090
+--sim-load-config machine=128
+--press '10:SPACE NONE*5 SPACE'
+--press '12:SPACE NONE*5 SPACE'
+--tape-stop 14
+--sim-load-config finish-tape=1

@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/m/Moonwalker.tzx.zip
+--tape-name "Moonwalker.tzx"
+--tape-sum 091448bde1a5ba748f9c7126106e7b5d
+--start 48024
+--sim-load-config machine=128
+--press 12:SPACE
+--tape-stop 18
+--sim-load-config finish-tape=1

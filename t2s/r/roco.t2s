@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/r/Roco.tap.zip
+--tape-name "Roco.tap"
+--tape-sum 76c1558bc73e871838abf52c88f00b85
+--start 29041
+--sim-load-config machine=128
+--press 7:ENTER*40
+--sim-load-config finish-tape=1

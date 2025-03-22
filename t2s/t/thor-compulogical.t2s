@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0015203/Thor(CompulogicalSA).tzx.zip
+--tape-name "Thor(CompulogicalSA).tzx"
+--tape-sum 274544cdb0ee9cc2fd64fd51421c07fe
+--start 1343
+--press 4:ENTER*810
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037025/FightingJones.tzx.zip
+--tape-name "FightingJones.tzx"
+--tape-sum 49b1613c230f376be62568e5e115d5fe
+--start 1343
+--press '14:NONE*5400 ENTER*2 NONE*150 ENTER*2 NONE*150 ENTER*2'
+--tape-stop 16
+--sim-load-config finish-tape=1

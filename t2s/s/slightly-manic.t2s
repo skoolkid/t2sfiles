@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SlightlyManic.tap.zip
+--tape-name "SLTLYMNC.TAP"
+--tape-sum df671702911086b46cdba446e478052f
+--start 41712
+--sim-load-config machine=128
+--press 15:2*2

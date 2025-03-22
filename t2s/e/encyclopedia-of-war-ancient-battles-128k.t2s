@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/e/EncyclopediaOfWar-AncientBattles_2.tap.zip
+--tape-name "EOW-128K.TAP"
+--tape-sum 2f07b37bed090b49fc6e2221dcff5f0a
+--start 34741
+--sim-load-config machine=128
+--press 13:ENTER
+--tape-stop 15

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037365/JamesBong008.tzx.zip
+--tape-name "JamesBong008.tzx"
+--tape-sum e0e2267a124f7fb0f8f410300f65cd2d
+--start 1343
+--press 4:3*35
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/e/EuroBoss.tzx.zip
+--tape-name "Euro Boss.tzx"
+--tape-sum a35fe582e89247993fbb7c422dea127a
+--start 1343
+--press 9:n*2
+--tape-stop 19
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/e/Echelon.tzx.zip
+--tape-name "Echelon - Side A.tzx"
+--tape-sum 0f2a07591878e785f6210333c8c2d980
+--tape-name "Echelon - Side B.tzx"
+--tape-sum f48d6263a9ca6a48ed415d80521f4b42
+--start 42701
+--sim-load-config finish-tape=1

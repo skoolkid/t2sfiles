@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0012436/BullsAndBears.tzx.zip
+--tape-name "Bulls and Bears - The Stock Exchange.tzx"
+--tape-sum 6aad409cb6c6337e555e75db36f008f6
+--start 1343
+--press '12:ENTER*10 SPACE*760 ENTER*10 NONE*20 ENTER*10 NONE*40 ENTER*10 NONE*40 ENTER*10'
+--sim-load-config finish-tape=1

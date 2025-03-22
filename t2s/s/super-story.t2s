@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Super-Story.tzx.zip
+--tape-name "Super Story.tzx"
+--tape-sum 621159aca211ea3e11fa5b1a6f82cd92
+--start 1343
+--press 3:ENTER*600
+--sim-load-config finish-tape=1

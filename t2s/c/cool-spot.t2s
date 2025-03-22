@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035365/CoolSpot.tap.zip
+--tape-name "CoolSpot.tap"
+--tape-sum e74c248128f4ea54c9b47a20a2238a9d
+--start 1343
+--press 11:ENTER*25
+--tape-stop 23
+--sim-load-config finish-tape=1

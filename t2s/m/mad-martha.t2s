@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/m/MadMarthaV1.tzx.zip
+--tape-name "Mad Martha - Release 1.tzx"
+--tape-sum 7a8de1e304f7a09ef07c9fe3ea8451eb
+--start 1343
+--press 9:1*2
+--tape-stop 13
+--sim-load-config finish-tape=1

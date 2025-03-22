@@ -1,0 +1,9 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Pang.tzx.zip
+--tape-name "Pang - Side 1.tzx"
+--tape-sum aede8b93cd7069754f270e30f118a54f
+--tape-name "Pang - Side 2.tzx"
+--tape-sum f560ff5fc4dd88dd8b3d53c662a29181
+--press 45:SPACE*100
+--tape-stop 46
+--start 49301
+--sim-load-config machine=128

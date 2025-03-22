@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038551/MypOBzidroglio.tzx.zip
+--tape-name "MypOBzidroglio.tzx"
+--tape-sum f42a75b7422df0056f95c32c502a1859
+--start 1343
+--press 8:n*6
+--tape-stop 12
+--sim-load-config finish-tape=1

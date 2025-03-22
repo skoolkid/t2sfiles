@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/t/ToTheManorBourne.tzx.zip
+--tape-name "To The Manor Bourne.tzx"
+--tape-sum eeb6d5718eed26a3120de3a02d1b8120
+--start 1343
+--press '6:ENTER*6800 l*2'
+--sim-load-config finish-tape=1

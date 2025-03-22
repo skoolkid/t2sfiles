@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0004718/Spectris.tap.zip
+--tape-name "SPECTRIS.TAP"
+--tape-sum 6bd5d0aba53191db98a729e658833a7e
+--start 1343
+--press 5:ENTER
+--sim-load-config finish-tape=1

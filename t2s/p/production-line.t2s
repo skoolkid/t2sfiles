@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/p/ProductionLine.tap.zip
+--tape-name "Production Line.tap"
+--tape-sum 5544196196b40eb900ab46f94bc02e44
+--start 1343
+--press 3:ENTER*665
+--sim-load-config finish-tape=1

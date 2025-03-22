@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/s/StockMarketSpeculator.tzx.zip
+--tape-name "Stock Market Speculator.tzx"
+--tape-sum 90fc598899ea311b14bbcb831803abb8
+--start 1343
+--press '6:SPACE*5 n*50 ENTER*40'
+--sim-load-config finish-tape=1

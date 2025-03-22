@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0032303/IndianaJonesAndTheFountainOfEverlastingLife.tap.zip
+--tape-name "fountain-of-everlasting-life.tap"
+--tape-sum cd5318425ccb818e4c79652f52cffb5f
+--start 1343
+--press 5:ENTER
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0004281/RychleSipy-ZahadaHlavolamu(Ultrasoft[SK]).tzx.zip
+--tape-name "RychleSipy-ZahadaHlavolamu(Ultrasoft[SK]).tzx"
+--tape-sum c8f43c5da0463ab56404a27b29f3bc0d
+--start 53382
+--press 10:ENTER*255
+--tape-stop 16
+--sim-load-config finish-tape=1

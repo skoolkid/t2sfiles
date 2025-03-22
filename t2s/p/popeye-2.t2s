@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/p/Popeye2.tzx.zip
+--tape-name "Popeye 2.tzx"
+--tape-sum d38ba6710296c3c21e8cc7ebc1f5c823
+--start 41984
+--press 5:SPACE
+--tape-stop 7
+--sim-load-config finish-tape=1
