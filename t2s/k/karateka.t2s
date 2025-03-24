@@ -1,0 +1,11 @@
+https://worldofspectrum.net/pub/sinclair/games/k/Karateka.tzx.zip
+--tape-name "Karateka - Side 1 (Dro Soft).tzx"
+--tape-sum 4e26e49fa8f9a8c570eedf5dfc98c964
+--tape-name "Karateka - Side 2 (Dro Soft).tzx"
+--tape-sum 9e24b76577b077a612d56e75e36875b1
+--press 8:NONE*1200
+--press 9:SPACE
+--press '12:SPACE*3 NONE*18400 SPACE NONE SPACE*3'
+--tape-stop 13
+--start 28709
+--sim-load-config finish-tape=1

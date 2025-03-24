@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/b/Barrowquest.tzx.zip
+--tape-name "Barrow Quest.tzx"
+--tape-sum 0bcc9185fb60d9a06cea330177f7e2b0
+--start 1343
+--press '11:ENTER*5 n*15'
+--tape-stop 13
+--sim-load-config finish-tape=1

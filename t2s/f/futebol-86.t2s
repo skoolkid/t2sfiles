@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038979/Futebol86.tzx.zip
+--tape-name "Futebol86.tzx"
+--tape-sum 9862e52924b582d099ef3e0aab8ead22
+--start 1343
+--press '5:n ENTER*15'
+--sim-load-config finish-tape=1

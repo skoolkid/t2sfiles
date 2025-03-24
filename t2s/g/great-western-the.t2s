@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/g/GreatWesternThe.tzx.zip
+--tape-name "The Great Western.tzx"
+--tape-sum 97328f11616b297d9fc0308cdf898457
+--start 1343
+--sim-load-config 'load=MERGE "": POKE 24344,239: POKE 24346,34: POKE 24347,58: RUN'
+--tape-stop 7
+--sim-load-config finish-tape=1
