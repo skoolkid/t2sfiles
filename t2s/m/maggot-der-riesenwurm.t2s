@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044075/MaggotDerRiesenwurm.tap.zip
+--tape-name "MaggotDerRiesenwurm.tap"
+--tape-sum 55fffc008c2a0eb87d58ed6d3bb3213c
+--start 1343
+--tape-stop 3
+--sim-load-config finish-tape=1

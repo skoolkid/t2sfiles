@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044073/Hefro-Horse.tap.zip
+--tape-name "Hefro-Horse.tap"
+--tape-sum 47e46b729efd9ae457c14fc81c3c5c01
+--start 1343
+--sim-load-config finish-tape=1

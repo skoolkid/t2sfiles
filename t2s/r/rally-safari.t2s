@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039269/RallySafari.tap.zip
+--tape-name "RallySafari.tap"
+--tape-sum 590e58de0d4d67194ec154112d9d0305
+--start 1343
+--sim-load-config finish-tape=1

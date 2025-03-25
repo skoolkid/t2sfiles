@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044081/Nonstop.tap.zip
+--tape-name "Nonstop.tap"
+--tape-sum bdf3297ccb1e1fa215ad66bcf54ed941
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044092/Moonlander.tap.zip
+--tape-name "Moonlander.tap"
+--tape-sum c3502f7a78193ce165f6a25b48f47630
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

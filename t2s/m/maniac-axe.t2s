@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040990/ManiacAxe.tap.zip
+--tape-name "ManiacAxe.tap"
+--tape-sum 5eb94576e84377562ad572ed3682c1d4
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040748/ManorGrounds.tap.zip
+--tape-name "ManorGrounds.tap"
+--tape-sum 878f86e8ce7a339fd4ac6b1e2257ab22
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

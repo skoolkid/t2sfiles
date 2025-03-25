@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0041343/MatchstickPuzzle.tzx.zip
+--tape-name "MatchstickPuzzle.tzx"
+--tape-sum 376765680ca35d143a999fced3c3cafc
+--start 1343
+--sim-load-config finish-tape=1

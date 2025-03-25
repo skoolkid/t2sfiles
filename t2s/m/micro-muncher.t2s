@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0041351/MicroMuncher.tzx.zip
+--tape-name "MicroMuncher.tzx"
+--tape-sum b5b16429308cfd189b7b0e376921c6d8
+--start 1343
+--sim-load-config finish-tape=1

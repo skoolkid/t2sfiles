@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044029/Gangsters.tap.zip
+--tape-name "Gangsters.tap"
+--tape-sum a04bc3d5e9af9751667e52a7d16579ad
+--start 1343
+--sim-load-config finish-tape=1

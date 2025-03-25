@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044070/Chrpp.tap.zip
+--tape-name "Chrpp.tap"
+--tape-sum 7272d56577d0ce3e7653ae3f75ad4bde
+--start 1343
+--sim-load-config finish-tape=1

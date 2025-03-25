@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044071/HoleJumper.tzx.zip
+--tape-name "HoleJumper.tzx"
+--tape-sum e826f1a4368111f26510bd5944c58f7f
+--start 1343
+--sim-load-config finish-tape=1

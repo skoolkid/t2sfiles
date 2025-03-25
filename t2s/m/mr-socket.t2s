@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040540/MrSocket.tap.zip
+--tape-name "MrSocket.tap"
+--tape-sum ab28ebb2e71c39f338272ad2789ac3b8
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

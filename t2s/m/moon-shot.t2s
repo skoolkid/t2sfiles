@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040932/MoonShot.tap.zip
+--tape-name "MoonShot.tap"
+--tape-sum 20b28aca968e36a189745b0f7928bb52
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

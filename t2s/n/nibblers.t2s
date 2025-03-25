@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040589/Nibblers.tap.zip
+--tape-name "Nibblers.tap"
+--tape-sum 3bfcd9aca2fa121c70a983c02a009d5c
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044067/MrPacman.tzx.zip
+--tape-name "MrPacman.tzx"
+--tape-sum 1927f5b44a5c65eb71b7630fb3d7393b
+--start 1343
+--sim-load-config finish-tape=1

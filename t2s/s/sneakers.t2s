@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044072/Sneakers.tap.zip
+--tape-name "Sneakers.tap"
+--tape-sum c46a29bf3e9c8ecff8b7c8a4c92ae83e
+--start 1343
+--tape-stop 5
+--sim-load-config finish-tape=1

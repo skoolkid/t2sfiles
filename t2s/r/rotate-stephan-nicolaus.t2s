@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044069/Rotate.tap.zip
+--tape-name "Rotate.tap"
+--tape-sum a7083e117db08d368e483b4210ec1222
+--start 1343
+--sim-load-config finish-tape=1

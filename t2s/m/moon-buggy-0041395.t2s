@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0041395/MoonBuggy.tap.zip
+--tape-name "MoonBuggy.tap"
+--tape-sum f54fea2fc09b1ad259c6d8b470560279
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

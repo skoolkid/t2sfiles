@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040759/MPG.tap.zip
+--tape-name "MPG.tap"
+--tape-sum a9dfa7d3a45cde41e741e5bc2ba031f7
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

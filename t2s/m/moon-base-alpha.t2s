@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0041196/MoonBaseAlpha.tap.zip
+--tape-name "MoonBaseAlpha.tap"
+--tape-sum ddaa52e7a091f2899305c5b937f1df86
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0041015/MervinOnTheMoon.tap.zip
+--tape-name "MervinOnTheMoon.tap"
+--tape-sum eadf8aedc0f13f9df83c9090107c3b48
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044083/WalterIlRaccoglimele.tap.zip
+--tape-name "WalterIlRaccoglimele.tap"
+--tape-sum b4972b155ed4ede5b2fa1b94d907b186
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'
