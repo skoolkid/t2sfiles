@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/StarTrader.tzx.zip
+--tape-name "Star Trader.tzx"
+--tape-sum b90f181d3dcc2999180271aafdc0f716
+--press 5:n*16
+--tape-stop 21
+--start 50691
+--sim-load-config in-flags=1
