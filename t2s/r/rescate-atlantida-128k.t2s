@@ -1,0 +1,10 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RescateAtlantida(IBSA).tzx.zip
+--tape-name "Rescate Atlantida - Side 1 (IB-S-006).tzx"
+--tape-sum 837b805dc55af766836aaded3fb061fe
+--tape-name "Rescate Atlantida - Side 2 (IB-S-006).tzx"
+--tape-sum 9ded03967ff010c45cf28961385612a1
+--press '796:ENTER NONE*985 1'
+--start 41397
+--sim-load-config machine=128
+--sim-load-config timeout=1077
+--sim-load-config finish-tape=1
