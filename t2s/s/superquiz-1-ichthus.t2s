@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SUperquiz1.tzx.zip
+--tape-name "Super Quiz 1.tzx"
+--tape-sum d72e5f000e93b4d1b9d79feee4dfd9b7
+--start 1343
+--tape-start 8
+--tape-stop 12
+--sim-load-config finish-tape=1
