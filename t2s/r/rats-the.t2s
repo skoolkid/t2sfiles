@@ -1,0 +1,7 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RatsThe.tzx.zip
+--tape-name "The Rats - Side A.tzx"
+--tape-sum f5b859b39629bd7234a9380590331c2b
+--press 8:NONE*33600
+--start 27080
+--sim-load-config finish-tape=1
+--sim-load-config pause=0
