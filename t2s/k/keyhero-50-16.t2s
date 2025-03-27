@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/k/Keyhero50.tzx.zip
+--tape-name "keyhero.tzx"
+--tape-sum 0fb36b5d62048c0844ffb0da3d5ad3c9
+--tape-start 56
+--start 1343
+--sim-load-config finish-tape=1
