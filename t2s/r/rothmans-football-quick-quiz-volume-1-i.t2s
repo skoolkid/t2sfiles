@@ -1,0 +1,8 @@
+https://worldofspectrum.net/pub/sinclair/games/r/RothmansFootballQuickQuizVolume1.tzx.zip
+--tape-name "Rothman's Football Quick Quiz.tzx"
+--tape-sum 229006fec9e199b8034c8c51684e3d90
+--press '47:ENTER NONE*450 i*3 NONE*400 ENTER*2'
+--tape-skip 7-45
+--tape-stop 51
+--start 1343
+--sim-load-config finish-tape=1
