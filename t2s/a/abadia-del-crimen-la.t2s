@@ -4,4 +4,3 @@ https://worldofspectrum.net/pub/sinclair/games/a/AbadiaDelCrimenLa.tzx.zip
 --start 36630
 --sim-load-config machine=128
 --press '10:SPACE l*2'
---sim-load-config timeout=2060
