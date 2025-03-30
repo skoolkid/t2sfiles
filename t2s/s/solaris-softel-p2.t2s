@@ -1,0 +1,5 @@
+https://worldofspectrum.net/pub/sinclair/games/s/Solaris.tzx.zip
+--tape-name "Solaris - Alternate - Part 2.tzx"
+--tape-sum ceabb98cb17d2cc313a0090125ea9a33
+--start 1343
+--sim-load-config finish-tape=1
