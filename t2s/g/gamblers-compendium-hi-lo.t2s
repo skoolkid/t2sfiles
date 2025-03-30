@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0019524/GamblersCompendium(HiLo).tzx.zip
+--tape-name "Gamblers Compendium - Hi-Lo - Master.tzx"
+--tape-sum 474e0a80e8040b8f3b94a07e3191cafd
+--start 1343
+--sim-load-config finish-tape=1

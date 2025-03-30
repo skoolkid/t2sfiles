@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0019524/GamblersCompendium(SnailRace).tzx.zip
+--tape-name "Gamblers Compendium - Snail Race - Master.tzx"
+--tape-sum e9b2c033d4775c1d47d476a6603aa72e
+--start 1343
+--sim-load-config finish-tape=1
