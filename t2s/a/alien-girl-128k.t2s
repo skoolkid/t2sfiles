@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+AlienGirl.tap.zip
+--tape-name "AlienGirl.tap"
+--tape-sum 7a82c4b909094bda2dbdaf98a8b265d1
+--start 23890
+--sim-load-config machine=128

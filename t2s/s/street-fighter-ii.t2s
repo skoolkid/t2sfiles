@@ -1,0 +1,10 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+StreetFighterII.tap.zip
+--tape-name "StreetFighterII.tap"
+--tape-sum d2973ee4967976a948a4673c97d86c7c
+--start 43269
+--sim-load-config machine=128
+--tape-stop 15
+--sim-load-config finish-tape=1

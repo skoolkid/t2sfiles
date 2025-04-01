@@ -1,0 +1,9 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+WackyDarts.tzx.zip
+--tape-name "WackyDarts.tzx"
+--tape-sum 6cd170c5db36c6260d81c7662a300fcc
+--start 48772
+--tape-stop 9
+--sim-load-config finish-tape=1

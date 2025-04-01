@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+Guadalcanal.tzx.zip
+--tape-name "Guadalcanal.tzx"
+--tape-sum bdf6d4aaf15575e13f4be2f2e9fe5b01
+--start 25000
+--sim-load-config finish-tape=1

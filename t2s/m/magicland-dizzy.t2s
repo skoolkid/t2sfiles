@@ -1,0 +1,9 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+MagiclandDizzy.tzx.zip
+--tape-name "MagiclandDizzy.tzx"
+--tape-sum f45f9b3d8093fef1c44d27589e36497c
+--start 24121
+--tape-stop 9
+--sim-load-config finish-tape=1

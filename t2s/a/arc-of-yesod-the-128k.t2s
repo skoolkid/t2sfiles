@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+ArcOfYesodThe(128K).tzx.zip
+--tape-name "ArcOfYesodThe(128K).tzx"
+--tape-sum 09b2ed0c71a45978b7079e6523315c58
+--start 20538
+--sim-load-config machine=128

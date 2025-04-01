@@ -1,0 +1,9 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+Aliens(USVersion).tzx.zip
+--tape-name "Aliens(USVersion).tzx"
+--tape-sum ddefd974746d84974e2dbb040189aef3
+--start 57052
+--press '11:a NONE*10 ENTER*5 NONE*10 ENTER*5 NONE*140 a'
+--sim-load-config finish-tape=1

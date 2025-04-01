@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+BladeWarrior.tzx.zip
+--tape-name "BladeWarrior.tzx"
+--tape-sum 173b0583319e7018298b70e9ba49aaf0
+--start 37399
+--sim-load-config machine=128

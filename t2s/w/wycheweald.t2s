@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+Wycheweald(Fast).tap.zip
+--tape-name "Wycheweald(Fast).tap"
+--tape-sum e50b0a6fa8e7720900931f69066ca1e0
+--start 24451
+--sim-load-config finish-tape=1

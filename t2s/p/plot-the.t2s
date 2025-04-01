@@ -1,0 +1,9 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+PlotThe.tzx.zip
+--tape-name "PlotThe.tzx"
+--tape-sum dd39bb64a036b7ee23b2b52f6ca29a7d
+--start 64074
+--tape-stop 219
+--sim-load-config finish-tape=1

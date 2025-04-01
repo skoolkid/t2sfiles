@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+Superhair.tap.zip
+--tape-name "Superhair.tap"
+--tape-sum 7b647540437628532499f06cbd37568c
+--start 24300
+--sim-load-config machine=128

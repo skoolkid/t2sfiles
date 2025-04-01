@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+SuperTank.tzx.zip
+--tape-name "SuperTank.tzx"
+--tape-sum 3c88efb54f2aae77ba6b70b9c5d144ea
+--start 36963
+--sim-load-config machine=128

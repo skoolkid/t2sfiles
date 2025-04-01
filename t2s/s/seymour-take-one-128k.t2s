@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+Seymour-TakeOne.tzx.zip
+--tape-name "Seymour-TakeOne.tzx"
+--tape-sum 52285f386de37d317720f4d32935b73a
+--start 32696
+--sim-load-config machine=128

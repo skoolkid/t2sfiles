@@ -1,0 +1,10 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+ForgottenWorlds(Kixx)(48K).tzx.zip
+--tape-name "ForgottenWorlds(Kixx)(48K).tzx"
+--tape-sum 420032bf25567da1097ccfdb4de855ec
+--start 44393
+--press 6:ENTER
+--tape-stop 9
+--sim-load-config finish-tape=1

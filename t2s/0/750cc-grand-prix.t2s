@@ -1,0 +1,9 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+750ccGrandPrix.tap.zip
+--tape-name "750ccGrandPrix.tap"
+--tape-sum 3701576c7bd7c31ccac47fae2cc6be97
+--start 23403
+--tape-stop 5
+--sim-load-config finish-tape=1

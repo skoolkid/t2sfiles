@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+Explorer.tzx.zip
+--tape-name "Explorer.tzx"
+--tape-sum 6e0631f7b6301314d885007ddc301b39
+--start 1343
+--sim-load-config finish-tape=1

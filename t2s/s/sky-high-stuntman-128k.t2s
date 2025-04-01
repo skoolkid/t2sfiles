@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+SkyHighStuntman.tzx.zip
+--tape-name "SkyHighStuntman.tzx"
+--tape-sum 34d9614e06623dc4acae83e97aff1bf9
+--start 64455
+--sim-load-config machine=128

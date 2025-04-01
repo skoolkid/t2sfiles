@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+EnduroRacer(TheHitSquad).tzx.zip
+--tape-name "EnduroRacer(TheHitSquad).tzx"
+--tape-sum 6426ce010cbcc4f038340707e5a53cbc
+--start 65283
+--sim-load-config machine=128

@@ -1,0 +1,10 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+StormOverValhalla.tap.zip
+--tape-name "StormOverValhalla.tap"
+--tape-sum 82ac3d6b8d7e9b44af2c31b6b603e942
+--start 23316
+--sim-load-config machine=128
+--tape-start 7
+--sim-load-config finish-tape=1

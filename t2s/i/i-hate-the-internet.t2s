@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+IHateTheInternet.tap.zip
+--tape-name "IHateTheInternet.tap"
+--tape-sum 780ba1720df6a0ca9e2f7cd89a50dd5f
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+Cars-TheRemix.tap.zip
+--tape-name "Cars-TheRemix.tap"
+--tape-sum 1fa9e38afa64af61dc784bbd4afecbfc
+--start 1343
+--sim-load-config finish-tape=1

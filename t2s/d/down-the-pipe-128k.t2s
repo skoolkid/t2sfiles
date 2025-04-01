@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+DownThePipe(128K).tap.zip
+--tape-name "DownThePipe(128K).tap"
+--tape-sum 2175ac980a7a98185e9197e21bfe2970
+--start 24800
+--sim-load-config machine=128

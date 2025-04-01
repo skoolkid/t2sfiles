@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+HouseJackBuiltThe.tzx.zip
+--tape-name "HouseJackBuiltThe.tzx"
+--tape-sum cbe419e8b3a5947b27d3ae214743b154
+--start 1343
+--sim-load-config finish-tape=1

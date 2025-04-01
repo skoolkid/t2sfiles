@@ -1,0 +1,9 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+SuperSeymourSavesThePlanet.tzx.zip
+--tape-name "SuperSeymourSavesThePlanet.tzx"
+--tape-sum d4572bc106b2fa45853d2fbe1bbe460a
+--start 24164
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

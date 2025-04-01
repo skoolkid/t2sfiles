@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+SpellboundDizzy.tzx.zip
+--tape-name "SpellboundDizzy.tzx"
+--tape-sum eb347bc27b9b0060f4925035058c1fad
+--start 45805
+--sim-load-config machine=128

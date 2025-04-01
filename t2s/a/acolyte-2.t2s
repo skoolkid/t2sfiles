@@ -1,0 +1,9 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+Acolyte2.tzx.zip
+--tape-name "Acolyte2.tzx"
+--tape-sum ce9d5422eb71d5630c8e3f7ff07bf53a
+--start 43189
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

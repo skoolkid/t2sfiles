@@ -1,0 +1,9 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+Dandy.tzx.zip
+--tape-name "Dandy.tzx"
+--tape-sum 47802502617ce9a1e979913559dfb35f
+--start 23533
+--tape-stop 11
+--sim-load-config finish-tape=1

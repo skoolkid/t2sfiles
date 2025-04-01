@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+TwinTurboV8.tzx.zip
+--tape-name "TwinTurboV8.tzx"
+--tape-sum 892a98701134361c3ff3589f8c6d575a
+--start 33280
+--sim-load-config machine=128

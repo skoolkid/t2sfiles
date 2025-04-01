@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+LittleComputerPeople.tzx.zip
+--tape-name "LittleComputerPeople.tzx"
+--tape-sum d31da2d0fd9a7fba19b22f16d143b40e
+--start 33318
+--sim-load-config machine=128

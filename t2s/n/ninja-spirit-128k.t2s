@@ -1,0 +1,9 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+NinjaSpirit.tzx.zip
+--tape-name "NinjaSpirit.tzx"
+--tape-sum 7e6638b02460878b2c2a407d4de59f46
+--start 64601
+--sim-load-config machine=128
+--tape-stop 14

@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+BubbleDizzy.tzx.zip
+--tape-name "BubbleDizzy.tzx"
+--tape-sum 4f5f04e2e443b53db4bb7e954a7c532c
+--start 23359
+--sim-load-config machine=128

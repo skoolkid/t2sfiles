@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+KGBSuperspy.tzx.zip
+--tape-name "KGBSuperspy.tzx"
+--tape-sum b3b15a940a1501a00dfba70542292d46
+--start 23344
+--sim-load-config machine=128

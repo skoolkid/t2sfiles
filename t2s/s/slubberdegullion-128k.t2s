@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+Slubberdegullion.tap.zip
+--tape-name "Slubberdegullion.tap"
+--tape-sum de5ce082a7cca8bbc0fcf3c610200f20
+--start 24000
+--sim-load-config machine=128

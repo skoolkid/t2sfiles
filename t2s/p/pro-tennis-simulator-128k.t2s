@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+ProTennisSimulator.tzx.zip
+--tape-name "ProTennisSimulator.tzx"
+--tape-sum b7b832793f8c69c6ad402f1d12e52a0b
+--start 30026
+--sim-load-config machine=128

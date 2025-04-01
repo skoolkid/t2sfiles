@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+LittlePuff.tzx.zip
+--tape-name "LittlePuff.tzx"
+--tape-sum 2a1aa4f7cbc288b28cc06a3540150ac3
+--start 52800
+--sim-load-config machine=128

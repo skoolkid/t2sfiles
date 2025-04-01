@@ -1,0 +1,9 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+RobinHood-LegendQuest.tzx.zip
+--tape-name "RobinHood-LegendQuest.tzx"
+--tape-sum dc65ff1b67ab812b8ff86e3cbc156fb3
+--start 23409
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

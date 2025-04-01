@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+NinjaCarnage.tap.zip
+--tape-name "NinjaCarnage-sidea.tap"
+--tape-sum bf3ca6c4036549809579bf088448a960
+--start 30590
+--sim-load-config machine=128

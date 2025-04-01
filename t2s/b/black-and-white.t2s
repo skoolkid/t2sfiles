@@ -1,0 +1,9 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+BlackAndWhite.tzx.zip
+--tape-name "black_and_white_1.1.tzx"
+--tape-sum 12d450e9728800f57e5a473af833f0d6
+--start 24204
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

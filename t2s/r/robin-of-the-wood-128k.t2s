@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+RobinOfTheWood(128K).tzx.zip
+--tape-name "RobinOfTheWood(128K).tzx"
+--tape-sum 4dd19c47deddb5f14f9e193ec0089422
+--start 20531
+--sim-load-config machine=128

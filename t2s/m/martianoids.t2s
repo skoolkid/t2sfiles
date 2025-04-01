@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+Martianoids.tzx.zip
+--tape-name "Martianoids.tzx"
+--tape-sum cec29d90e5395ae4745450d8f7eb6732
+--start 24576
+--sim-load-config finish-tape=1

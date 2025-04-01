@@ -1,0 +1,10 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+CaptainFizz.tzx.zip
+--tape-name "CaptainFizz.tzx"
+--tape-sum 24fe8944e9476b543ed770a60712521b
+--start 23717
+--sim-load-config machine=128
+--press 6:1
+--tape-stop 15

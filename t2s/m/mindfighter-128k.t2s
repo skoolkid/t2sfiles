@@ -1,0 +1,9 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+Mindfighter.tzx.zip
+--tape-name "Mindfighter.tzx"
+--tape-sum e2f90d572b65d64cb4642fc0c8f29d0d
+--start 31980
+--sim-load-config machine=128
+--tape-stop 10

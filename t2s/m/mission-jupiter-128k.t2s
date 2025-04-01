@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+MissionJupiter.tzx.zip
+--tape-name "MissionJupiter.tzx"
+--tape-sum 5a550301652fb28eb6224bed4683dfc0
+--start 55066
+--sim-load-config machine=128

@@ -1,0 +1,10 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+SeymourGoesToHollywood.tzx.zip
+--tape-name "SeymourGoesToHollywood.tzx"
+--tape-sum 5f425d0507605c7ce7d1cdfc4cca516d
+--start 24016
+--sim-load-config machine=128
+--sim-load-config finish-tape=1
+--tape-stop 11

@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+ReturnToLongShadows.tap.zip
+--tape-name "ReturnToLongShadows.tap"
+--tape-sum 6a0b66891a14f7070e3ab8fb67ebf90e
+--start 1343
+--sim-load-config finish-tape=1

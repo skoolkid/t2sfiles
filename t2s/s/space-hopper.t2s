@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+SpaceHopper.tap.zip
+--tape-name "SpaceHopper.tap"
+--tape-sum f70cfbcab9f902c492276acaa8ec33ab
+--start 1343
+--sim-load-config finish-tape=1

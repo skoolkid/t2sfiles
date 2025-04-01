@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+BountyHunterThe.tzx.zip
+--tape-name "BountyHunterThe.tzx"
+--tape-sum 121cceb340a797fcc55ca902d212a8f5
+--start 24631
+--sim-load-config finish-tape=1

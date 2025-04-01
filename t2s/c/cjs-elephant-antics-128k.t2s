@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+CJsElephantAntics.tzx.zip
+--tape-name "CJsElephantAntics.tzx"
+--tape-sum a813a0cfb09381369b601fe595dbb500
+--start 25810
+--sim-load-config machine=128

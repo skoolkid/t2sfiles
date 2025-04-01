@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+DragonBreed.tzx.zip
+--tape-name "DragonBreed.tzx"
+--tape-sum ea0b2bbd50aa674b4f847491267ea492
+--start 1343
+--sim-load-config finish-tape=1

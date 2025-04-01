@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+BackToTheFuture.tzx.zip
+--tape-name "BackToTheFuture.tzx"
+--tape-sum be6e1945f938d80a6c926dc51e20a300
+--start 23471
+--sim-load-config machine=128

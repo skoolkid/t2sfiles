@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+DizzyPrinceOfTheYolkFolk.tzx.zip
+--tape-name "DizzyPrinceOfTheYolkFolk.tzx"
+--tape-sum f6a67f23f81e19211ae28e0f8f628b7b
+--start 25656
+--sim-load-config machine=128

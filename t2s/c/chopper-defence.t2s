@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+ChopperDefence.tap.zip
+--tape-name "ChopperDefence.tap"
+--tape-sum d4f47ee2f318a8ef8e3ca10b0a944271
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+SuperG-Man.tzx.zip
+--tape-name "SuperG-Man.tzx"
+--tape-sum e2df8c10ace9c1bbccf4a026b1656df7
+--start 23309
+--sim-load-config machine=128

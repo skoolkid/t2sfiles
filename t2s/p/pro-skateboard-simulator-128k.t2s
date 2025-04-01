@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+ProSkateboardSimulator.tzx.zip
+--tape-name "ProSkateboardSimulator.tzx"
+--tape-sum 778977c697b6477231ffaeae09245015
+--start 56176
+--sim-load-config machine=128

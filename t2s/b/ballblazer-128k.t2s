@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+Ballblazer.tzx.zip
+--tape-name "Ballblazer.tzx"
+--tape-sum 4621eec3753bef3119da9887b3a0e568
+--start 65393
+--sim-load-config machine=128

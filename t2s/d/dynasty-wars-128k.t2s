@@ -1,0 +1,9 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+DynastyWars.tzx.zip
+--tape-name "DynastyWars.tzx"
+--tape-sum 7999c8225d105da145daab497dd51c98
+--start 34301
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

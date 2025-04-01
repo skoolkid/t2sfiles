@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+TigerRoad(Kixx).tzx.zip
+--tape-name "TigerRoad(Kixx).tzx"
+--tape-sum 4fc0e1d8b804889ff67cfb51c13fa492
+--start 64609
+--sim-load-config machine=128

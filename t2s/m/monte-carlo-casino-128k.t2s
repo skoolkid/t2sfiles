@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+MonteCarloCasino.tzx.zip
+--tape-name "MonteCarloCasino.tzx"
+--tape-sum 299851d8ceee427406511d1eace264d5
+--start 25077
+--sim-load-config machine=128

@@ -1,0 +1,9 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+Tilt.tzx.zip
+--tape-name "Tilt.tzx"
+--tape-sum 6cbaeb84e46d4f8995de5c927ac9c86c
+--start 23790
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

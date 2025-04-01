@@ -1,0 +1,9 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+Stryker-InTheCryptsOfTrogan.tzx.zip
+--tape-name "Stryker-InTheCryptsOfTrogan.tzx"
+--tape-sum 7e18cb9ba026b62fa751ef2901cfb5bb
+--start 25258
+--sim-load-config machine=128
+--tape-stop 14

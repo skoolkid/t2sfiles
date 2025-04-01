@@ -1,0 +1,9 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+ShadowOfTheBeast.tzx.zip
+--tape-name "ShadowOfTheBeast.tzx"
+--tape-sum 0564d3b2514ea751d3736d88c42f5041
+--start 37992
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

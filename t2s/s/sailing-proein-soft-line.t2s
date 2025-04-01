@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+Sailing(ProeinSoftLine).tzx.zip
+--tape-name "Sailing(ProeinSoftLine).tzx"
+--tape-sum 6cbd71e917c59c85d8842396716759af
+--start 28675
+--sim-load-config in-flags=4

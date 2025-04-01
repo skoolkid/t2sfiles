@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+Insomnia.tzx.zip
+--tape-name "insomnia.tzx"
+--tape-sum 205d828c5ef3f2df1b488b8a8c54720b
+--start 1343
+--sim-load-config finish-tape=1

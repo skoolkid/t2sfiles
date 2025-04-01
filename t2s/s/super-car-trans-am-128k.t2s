@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+SuperCarTransAm(AmericanTurboKing)(VirginMastertronicLtd).tzx.zip
+--tape-name "SuperCarTransAm(AmericanTurboKing)(VirginMastertronicLtd).tzx"
+--tape-sum c59de5938f300925e2d99b8d0bd95fc5
+--start 25039
+--sim-load-config machine=128

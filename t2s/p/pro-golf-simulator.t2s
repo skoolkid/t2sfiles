@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+ProGolfSimulator.tzx.zip
+--tape-name "ProGolfSimulator.tzx"
+--tape-sum ff7dfc33ff99d11e0d9ae645211df21c
+--start 50417
+--sim-load-config finish-tape=1

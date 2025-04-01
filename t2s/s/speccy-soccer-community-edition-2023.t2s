@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+SpeccySoccerCommunityEdition2023.tap.zip
+--tape-name "SpeccySoccerCommunityEdition2023.tap"
+--tape-sum ba0719c3a502c94f4f2c3cd9ca6a2789
+--start 34660
+--sim-load-config machine=128

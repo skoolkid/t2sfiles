@@ -1,0 +1,9 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+PowerDrift.tzx.zip
+--tape-name "PowerDrift.tzx"
+--tape-sum 82ab9cec081ae83cfd9b323203728633
+--start 33025
+--sim-load-config machine=128
+--tape-stop 44

@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+TimeScanner.tzx.zip
+--tape-name "TimeScanner.tzx"
+--tape-sum 30d484f7942e29dadb33384adabb62ea
+--start 35432
+--sim-load-config machine=128

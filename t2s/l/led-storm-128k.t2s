@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+LEDStorm(Kixx)(128K).tzx.zip
+--tape-name "LEDStorm(Kixx)(128K).tzx"
+--tape-sum f4b0b06dcc8ef0fe070cf76c63b16aa9
+--start 43586
+--sim-load-config machine=128

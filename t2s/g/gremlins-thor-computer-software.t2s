@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+Gremlins.tzx.zip
+--tape-name "Gremlins.tzx"
+--tape-sum 380129fbb1aa7bb5adaf63dfe472cfbd
+--start 1343
+--sim-load-config finish-tape=1

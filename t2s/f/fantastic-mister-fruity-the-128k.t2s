@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+FantasticMisterFruityThe.tap.zip
+--tape-name "FantasticMisterFruityThe.tap"
+--tape-sum ff55e6beb114a7ecfb196f85410609ef
+--start 24576
+--sim-load-config machine=128

@@ -1,0 +1,9 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+WinterSports.tzx.zip
+--tape-name "WinterSports.tzx"
+--tape-sum d7fb1a09b21b8ac366a1f31846af4227
+--start 64074
+--tape-stop 86
+--sim-load-config finish-tape=1

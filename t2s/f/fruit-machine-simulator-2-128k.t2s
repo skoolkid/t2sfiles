@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+FruitMachineSimulator2.tzx.zip
+--tape-name "FruitMachineSimulator2.tzx"
+--tape-sum 7f5c5362b18bf19737e86b8beb8341f1
+--start 45865
+--sim-load-config machine=128

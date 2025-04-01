@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+Sidewize.tzx.zip
+--tape-name "Sidewize.tzx"
+--tape-sum b957e512e45cae39a2a11b4cf2bda768
+--start 64074
+--sim-load-config finish-tape=1

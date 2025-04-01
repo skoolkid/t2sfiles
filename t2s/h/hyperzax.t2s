@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+HYPERZAX.tap.zip
+--tape-name "HYPERZAX.tap"
+--tape-sum 3ffdc6e0488d635f1f3e3afe5b03c79a
+--start 1343
+--sim-load-config finish-tape=1

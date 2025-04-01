@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+FrankensteinJnr.tzx.zip
+--tape-name "FrankensteinJnr.tzx"
+--tape-sum 5b56880f91cb0225cab62c3eee4983a4
+--start 23791
+--sim-load-config finish-tape=1

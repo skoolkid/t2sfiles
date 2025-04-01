@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+SaboteurDeepCover(SideA).tap.zip
+--tape-name "SaboteurDeepCover(SideA).tap"
+--tape-sum ef1c0a44f588e08df7d5d4a8ca45d0ef
+--start 25000
+--sim-load-config machine=128

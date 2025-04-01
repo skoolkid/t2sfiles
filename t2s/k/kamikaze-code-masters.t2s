@@ -1,0 +1,9 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+Kamikaze.tzx.zip
+--tape-name "Kamikaze.tzx"
+--tape-sum 6b00c26d5398b5b4fa40480c44aef45f
+--start 24153
+--tape-stop 9
+--sim-load-config finish-tape=1

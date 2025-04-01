@@ -1,0 +1,9 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+CaptainDynamo.tzx.zip
+--tape-name "CaptainDynamo.tzx"
+--tape-sum d4915d4e545e9bbb87b16c158a8b1dcb
+--start 23410
+--tape-stop 6
+--sim-load-config finish-tape=1

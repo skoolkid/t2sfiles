@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+SpikeInTransylvania.tzx.zip
+--tape-name "SpikeInTransylvania.tzx"
+--tape-sum 70c3564b646e0609aaa8f60a106f03ec
+--start 32768
+--sim-load-config machine=128

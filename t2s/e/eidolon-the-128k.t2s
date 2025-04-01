@@ -1,0 +1,11 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+EidolonThe.tzx.zip
+--tape-name "EidolonThe.tzx"
+--tape-sum 47830acaaf5ed6a9c70f103b76073a6d
+--press '12:ENTER 2'
+--tape-stop 29
+--start 28733
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

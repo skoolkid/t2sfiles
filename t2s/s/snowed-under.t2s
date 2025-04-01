@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+SnowedUnder.tap.zip
+--tape-name "SnowedUnder.tap"
+--tape-sum d0a3c2f630ff3c08a4cf57161609a12d
+--start 32000
+--sim-load-config machine=128

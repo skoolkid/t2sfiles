@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+ManicMiner-TrickOrTreat.tap.zip
+--tape-name "ManicMiner-TrickOrTreat.tap"
+--tape-sum 0c96b9e483318b77d95e4165479ce727
+--start 33792
+--sim-load-config machine=128

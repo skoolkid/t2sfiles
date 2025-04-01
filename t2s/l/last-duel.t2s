@@ -1,0 +1,9 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+LastDuel(Kixx).tzx.zip
+--tape-name "LastDuel(Kixx).tzx"
+--tape-sum 4384266b7ed2f9a4635bf658910daf9f
+--start 23940
+--tape-stop 10
+--sim-load-config finish-tape=1

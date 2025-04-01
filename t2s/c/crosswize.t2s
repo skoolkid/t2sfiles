@@ -1,0 +1,9 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+Crosswize.tzx.zip
+--tape-name "Crosswize (Side A).tzx"
+--tape-sum 6fb5596e31683071c4c20bb19e905a33
+--start 64095
+--tape-stop 198
+--sim-load-config finish-tape=1

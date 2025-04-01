@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+NinjaMassacre.tzx.zip
+--tape-name "NinjaMassacre.tzx"
+--tape-sum e7c70ec8c0338a03cd257d3c7c960836
+--start 47629
+--sim-load-config machine=128

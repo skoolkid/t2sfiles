@@ -1,0 +1,9 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+HitSquadThe.tzx.zip
+--tape-name "HitSquadThe.tzx"
+--tape-sum b32ab52caab1a9d769c7781691c17883
+--start 47802
+--sim-load-config machine=128
+--tape-stop 8

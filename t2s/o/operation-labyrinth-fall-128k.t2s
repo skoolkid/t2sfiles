@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+Operation-LabyrinthFall.tap.zip
+--tape-name "Operation-LabyrinthFall.tap"
+--tape-sum c36b7c63a7128b2e5d3a70b82abf8371
+--start 25509
+--sim-load-config machine=128

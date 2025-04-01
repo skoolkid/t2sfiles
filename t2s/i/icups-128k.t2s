@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+ICUPS.tzx.zip
+--tape-name "ICUPS.tzx"
+--tape-sum 601ce7d614bc8227cf9c1bd863e3abdd
+--start 34489
+--sim-load-config machine=128

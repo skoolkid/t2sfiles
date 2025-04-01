@@ -1,0 +1,9 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+HotRod.tzx.zip
+--tape-name "Hot Rod - Side 1.tzx"
+--tape-sum 056de60799d683e57831c3ba7c5ad07d
+--start 23296
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

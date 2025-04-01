@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+StreetFighter(Kixx).tzx.zip
+--tape-name "StreetFighter(Kixx).tzx"
+--tape-sum 634cb2cedd73bc0ee630fa907a940af1
+--start 64748
+--sim-load-config machine=128

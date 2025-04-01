@@ -1,0 +1,9 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+ProPowerBoatSimulator.tzx.zip
+--tape-name "ProPowerBoatSimulator.tzx"
+--tape-sum 0caa67dbd817e6b24603e769614d494b
+--start 24631
+--tape-stop 8
+--sim-load-config finish-tape=1

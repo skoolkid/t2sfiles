@@ -1,0 +1,10 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+Predator(TheHitSquad).tzx.zip
+--tape-name "Predator - Side 1 (The Hit Squad).tzx"
+--tape-sum e8c7c2cdf66761add4e7bd08900622c2
+--start 34759
+--sim-load-config machine=128
+--press 40:ENTER
+--tape-stop 42

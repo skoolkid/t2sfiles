@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+SuperDragonSlayer.tzx.zip
+--tape-name "Super Dragon Slayer - Game.tzx"
+--tape-sum 86f2af57dd4bd72e0384d399ef6faa08
+--start 23882
+--sim-load-config finish-tape=1

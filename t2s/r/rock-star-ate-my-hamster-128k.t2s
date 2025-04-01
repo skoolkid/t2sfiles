@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+RockStarAteMyHamster(CodeMastersLtd).tzx.zip
+--tape-name "RockStarAteMyHamster(CodeMastersLtd).tzx"
+--tape-sum d81c5053a071e3697c16c1553d8820de
+--start 27036
+--sim-load-config machine=128

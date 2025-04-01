@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+CaveRaider-TheCursedTreasure.tap.zip
+--tape-name "CaveRaider-TheCursedTreasure.tap"
+--tape-sum 1a615fcf135a5ee979871400551d315d
+--start 25509
+--sim-load-config machine=128

@@ -1,0 +1,9 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+1stDivisionManager.tzx.zip
+--tape-name "1stDivisionManager.tzx"
+--tape-sum 5be1f21ad7d0223227278484525bdc25
+--start 24150
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

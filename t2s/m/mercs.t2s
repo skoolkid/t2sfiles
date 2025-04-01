@@ -1,0 +1,8 @@
+; This title is distribution denied.
+; A local copy of the zip archive is required to use this t2s file.
+
+Mercs.tzx.zip
+--tape-name "Mercs.tzx"
+--tape-sum 0b59c309b0489ec2513c2dfd34e8741a
+--start 37380
+--sim-load-config finish-tape=1
