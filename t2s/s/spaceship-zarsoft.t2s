@@ -1,5 +1,5 @@
-https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036372/Spaceship.tzx.zip
---tape-name "spaceship.tzx"
---tape-sum bbd2a937d66edee5bb06f3e707fb846b
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036372/Spaceship.tap.zip
+--tape-name "Spaceship.tap"
+--tape-sum 82fd9d5644d23344f627947585a6510b
 --start 1343
 --sim-load-config finish-tape=1
