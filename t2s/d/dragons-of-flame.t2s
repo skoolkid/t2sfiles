@@ -2,7 +2,7 @@ https://worldofspectrum.net/pub/sinclair/games/d/DragonsOfFlame.tzx.zip
 --tape-name "Dragons Of Flame.tzx"
 --tape-sum fac395c08bb08153e7ce34f9fea0a1e8
 --start 52731
---press '17:ENTER 3 NONE*3 ENTER n*20'
+--press '17:ENTER 1 NONE*3 ENTER n*20'
 --tape-stop 33
 --sim-load-config in-flags=4
 --sim-load-config accelerator=none
