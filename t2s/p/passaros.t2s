@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042928/Passaros.tap.zip
+--tape-name "Passaros.tap"
+--tape-sum 808983754a0ead770ec4c7aeb257ed46
+--start 1343
+--sim-load-config finish-tape=1

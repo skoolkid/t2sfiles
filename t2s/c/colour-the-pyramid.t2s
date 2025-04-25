@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044124/ColourThePyramid.tap.zip
+--tape-name "ColourThePyramid.tap"
+--tape-sum e9fa1af9a40c040552261c4e405813d6
+--start 1343
+--tape-start 3
+--sim-load-config finish-tape=1

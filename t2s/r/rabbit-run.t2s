@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040901/RabbitRun.tap.zip
+--tape-name "RabbitRun.tap"
+--tape-sum 30fece1749f5b32108128fb73d3afd75
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

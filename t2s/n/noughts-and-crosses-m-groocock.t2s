@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044104/NoughtsAndCrosses.tap.zip
+--tape-name "NoughtsAndCrosses.tap"
+--tape-sum 82d16608277111c6076a3707100261bd
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

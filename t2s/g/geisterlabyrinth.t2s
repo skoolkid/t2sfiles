@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044118/Geisterlabyrinth.tap.zip
+--tape-name "Geisterlabyrinth.tap"
+--tape-sum 18ea301233cd2a736726eb320ff91f72
+--start 1343
+--sim-load-config finish-tape=1

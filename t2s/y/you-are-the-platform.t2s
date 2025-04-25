@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044137/YouAreThePlatform.tzx.zip
+--tape-name "YouAreThePlatform.tzx"
+--tape-sum f4e9989189a0fac26bd26ccc0f809645
+--start 1343
+--sim-load-config finish-tape=1

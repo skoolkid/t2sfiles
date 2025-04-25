@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044117/PfuiSpinneII.tap.zip
+--tape-name "PfuiSpinneII.tap"
+--tape-sum 81f27fde834161fbca38120340876ef3
+--start 1343
+--sim-load-config finish-tape=1

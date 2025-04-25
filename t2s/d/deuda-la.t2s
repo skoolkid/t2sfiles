@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044141/DeudaLa.tap.zip
+--tape-name "DeudaLa.tap"
+--tape-sum ab82466b9e0a4221fe6001fe0ad3a60e
+--start 23825
+--sim-load-config finish-tape=1

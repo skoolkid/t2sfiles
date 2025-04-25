@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044110/Frosch.tap.zip
+--tape-name "Frosch.tap"
+--tape-sum 6fefff3dd9f330af1af1f764b86f8444
+--start 1343
+--sim-load-config finish-tape=1

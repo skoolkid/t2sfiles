@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037259/RubinhoCucaracha.tap.zip
+--tape-name "RubinhoCucaracha.tap"
+--tape-sum 6e56fa68429fd2e10945a37aef338304
+--start 32768
+--sim-load-config machine=128

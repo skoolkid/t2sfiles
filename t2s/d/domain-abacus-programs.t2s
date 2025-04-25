@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0009679/Domain.tzx.zip
+--tape-name "Domain.tzx"
+--tape-sum fc4a47673b6b3ed5f804e0caaa58ec78
+--start 1343
+--sim-load-config finish-tape=1

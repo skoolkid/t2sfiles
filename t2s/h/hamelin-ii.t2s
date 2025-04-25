@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044114/HamelinII.tap.zip
+--tape-name "HamelinII.tap"
+--tape-sum 5742619e950b154dfd178614521b01a4
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044064/Plong.tzx.zip
+--tape-name "Plong.tzx"
+--tape-sum c25fffe128bf4450e6b12996fa6e251c
+--start 1343
+--sim-load-config finish-tape=1

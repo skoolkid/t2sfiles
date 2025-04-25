@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0041032/PottyPostie.tap.zip
+--tape-name "PottyPostie.tap"
+--tape-sum a39cb6cf1c6c2032f3e37795b0350d3e
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

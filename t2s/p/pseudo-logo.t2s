@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040518/PseudoLogo.tap.zip
+--tape-name "PseudoLogo.tap"
+--tape-sum cb9afd4a16036a2d93ebdb299202b9f7
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044111/Schafe-Veladen.tap.zip
+--tape-name "Schafe-Veladen.tap"
+--tape-sum ff520bd4eb0d5639a3f534fcea05e9d2
+--start 1343
+--sim-load-config finish-tape=1

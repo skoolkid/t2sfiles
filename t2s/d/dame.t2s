@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037091/Dame.tzx.zip
+--tape-name "Dame.tzx"
+--tape-sum 1b28c57e30c1fa64c3750d727a43c1bc
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044152/Apple.tzx.zip
+--tape-name "Apple.tzx"
+--tape-sum cfc82060a38132bfdbb6804d08850672
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

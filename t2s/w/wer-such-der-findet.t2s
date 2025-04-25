@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044129/WerSuchDerFindet.tap.zip
+--tape-name "WerSuchDerFindet.tap"
+--tape-sum cee3b496ef4eb2c606c123d7f19eeb2a
+--start 1343
+--sim-load-config finish-tape=1

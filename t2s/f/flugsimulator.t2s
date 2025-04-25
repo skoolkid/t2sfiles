@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044149/Flugsimulator.tap.zip
+--tape-name "Flugsimulator.tap"
+--tape-sum 2a3a070e44151879f161fdd7fa6ac738
+--start 1343
+--tape-start 3
+--sim-load-config finish-tape=1

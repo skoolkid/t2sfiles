@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044125/Senso.tap.zip
+--tape-name "Senso.tap"
+--tape-sum 73f64081bb0528832fbaa83880ac3ff9
+--start 1343
+--tape-stop 5
+--sim-load-config finish-tape=1

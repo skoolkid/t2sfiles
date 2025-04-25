@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040560/RocketManInTheMooncaves.tzx.zip
+--tape-name "RocketManInTheMooncaves.tzx"
+--tape-sum 9ea960c5407d8ed6f23f779680dc90d5
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/a/Ammytris.tap.zip
+--tape-name "AMMYTRIS.TAP"
+--tape-sum 8a4e789b59a67e3deb82a43d63a3f603
+--start 23823
+--sim-load-config machine=128
+--press 4:ENTER

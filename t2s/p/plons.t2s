@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037588/Plons.tap.zip
+--tape-name "Plons.tap"
+--tape-sum 9c372c69d8bea1be278320308d5473c3
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": OUT 254,255: RUN'
+--state issue2=1

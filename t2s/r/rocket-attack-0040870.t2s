@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040870/RocketAttack.tap.zip
+--tape-name "RocketAttack.tap"
+--tape-sum 81cf8d0db571ec06ad80284cb64e0fe8
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

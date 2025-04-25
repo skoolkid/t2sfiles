@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044157/Poker-Face.tap.zip
+--tape-name "Poker-Face.tap"
+--tape-sum eae1df8bd9e990faf70c8f8237c91708
+--start 1343
+--sim-load-config finish-tape=1

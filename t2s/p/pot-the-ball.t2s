@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0041333/PotTheBall.tap.zip
+--tape-name "PotTheBall.tap"
+--tape-sum 5eae462b97111a6ee6e77102f947f5e6
+--start 1343
+--sim-load-config finish-tape=1

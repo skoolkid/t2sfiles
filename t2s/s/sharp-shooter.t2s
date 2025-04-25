@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044164/SharpShooter.tap.zip
+--tape-name "SharpShooter.tap"
+--tape-sum 0013db1f37992a18c2dbe1efccf44630
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'
