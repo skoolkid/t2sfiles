@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044198/MenschArgereDichNicht.tap.zip
+--tape-name "MenschArgereDichNicht.tap"
+--tape-sum e08e13e4d363823aeffe8b058e349893
+--start 1343
+--sim-load-config finish-tape=1

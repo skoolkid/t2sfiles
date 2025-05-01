@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044214/BombRun.tzx.zip
+--tape-name "BombRun.tzx"
+--tape-sum 9eafb71eb0e226f2f3a1f428e1f9ffdc
+--start 1343
+--sim-load-config finish-tape=1

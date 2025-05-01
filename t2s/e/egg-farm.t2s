@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0001577/EggFarm.tzx.zip
+--tape-name "EggFarm.tzx"
+--tape-sum 2d434b57863a633ba6e58143a00799bb
+--start 1343
+--sim-load-config finish-tape=1

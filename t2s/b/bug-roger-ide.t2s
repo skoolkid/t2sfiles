@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043794/Bug.tzx.zip
+--tape-name "Bug.tzx"
+--tape-sum 4b4b33d159d2e84e513fe3d6376ea396
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

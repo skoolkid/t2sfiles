@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039445/QuadradoMagico.tap.zip
+--tape-name "QuadradoMagico.tap"
+--tape-sum 3ba00f40725d346bb860540971fa5f35
+--start 1343
+--sim-load-config finish-tape=1

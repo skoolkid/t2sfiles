@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044231/Canoe.tzx.zip
+--tape-name "Canoe.tzx"
+--tape-sum e62c6f490630e26dc556c86eeceba241
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

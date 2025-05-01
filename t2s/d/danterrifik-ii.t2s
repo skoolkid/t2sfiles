@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036449/DanterrifikII.tap.zip
+--tape-name "DanterrifikII.tap"
+--tape-sum b6618e1523d41d1ce55ee9f1e1944c8d
+--start 25000
+--sim-load-config machine=128

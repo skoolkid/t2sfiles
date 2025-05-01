@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0009570/BugRace.tzx.zip
+--tape-name "BugRace.tzx"
+--tape-sum c0c8ca8f183a6beeda19972d7a4a8f71
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044178/CanalDeSuezEl.tap.zip
+--tape-name "CanalDeSuezEl.tap"
+--tape-sum c38e774a32e95880c41d4f280af61d75
+--start 1343
+--sim-load-config finish-tape=1

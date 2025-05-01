@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044183/Battleships.tzx.zip
+--tape-name "Battleships.tzx"
+--tape-sum 28587a0f8235d1c8302e035f54ee6323
+--start 1343
+--sim-load-config finish-tape=1

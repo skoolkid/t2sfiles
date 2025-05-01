@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044249/InternationalGeorgeDubyaBushSimulator.tzx.zip
+--tape-name "InternationalGeorgeDubyaBushSimulator.tzx"
+--tape-sum fe4886fc94d59d9e6172ce35211cd53b
+--press 7:r*3266
+--tape-stop 19
+--start 1343
+--sim-load-config finish-tape=1

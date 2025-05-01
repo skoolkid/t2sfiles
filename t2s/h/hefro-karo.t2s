@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044174/Hefro-Karo.tap.zip
+--tape-name "Hefro-Karo.tap"
+--tape-sum 3dea1d60ee990351e18f4e007a456650
+--start 1343
+--sim-load-config finish-tape=1

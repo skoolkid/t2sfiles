@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042927/Ovnis.tap.zip
+--tape-name "Ovnis.tap"
+--tape-sum 843eeb24cac8df3fd31e6fdb89682adf
+--start 1343
+--sim-load-config finish-tape=1

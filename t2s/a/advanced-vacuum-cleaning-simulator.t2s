@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044224/AdvancedVacuumCleaningSimulator.tzx.zip
+--tape-name "AdvancedVacuumCleaningSimulator.tzx"
+--tape-sum 720dcc532922505954c776bbac9bcc71
+--start 1343
+--sim-load-config finish-tape=1

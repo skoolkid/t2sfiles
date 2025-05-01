@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044184/Sahara.tap.zip
+--tape-name "Sahara.tap"
+--tape-sum 4e5e8cbc22635dba51e50b8565640076
+--start 1343
+--sim-load-config finish-tape=1

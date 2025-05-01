@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044197/Kniffel.tzx.zip
+--tape-name "Kniffel.tzx"
+--tape-sum 8834da5733956dffeb26cd8bf1cd99e1
+--start 1343
+--sim-load-config finish-tape=1

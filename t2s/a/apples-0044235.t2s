@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044235/Apples.tzx.zip
+--tape-name "Apples.tzx"
+--tape-sum c40bd44801c622796753c6000d46e793
+--start 1343
+--sim-load-config finish-tape=1
