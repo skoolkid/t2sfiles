@@ -3,4 +3,3 @@ https://tzxvault.org/Spectrum/TZX/BasilTheGreatMouseDetective.zip
 --tape-sum 5e213d8a847168db2a9721f88cb1e280
 --start 55822
 --sim-load-config polarity=0
---sim-load-config accelerator=none

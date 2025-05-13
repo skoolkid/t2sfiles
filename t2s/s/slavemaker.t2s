@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/s/SlavemakerV1.03.tzx.zip
 --tape-sum d75fe665635fe192c499c8929b5a02c0
 --start 24192
 --sim-load-config machine=128
---sim-load-config accelerator=none

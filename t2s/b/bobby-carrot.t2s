@@ -2,4 +2,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0032212/BobbyCarrot(48K).t
 --tape-name "BobbyCarrot48.tzx"
 --tape-sum c5f24fabcf45517d0e0e8d23aceeebbc
 --start 65376
---sim-load-config accelerator=none

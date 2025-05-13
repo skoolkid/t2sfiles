@@ -3,4 +3,3 @@ https://worldofspectrum.net/pub/sinclair/games/m/MoonStrike.tzx.zip
 --tape-sum 5e7f8a61737ce209865c64df39b524f9
 --start 32913
 --sim-load-config machine=128
---sim-load-config accelerator=none

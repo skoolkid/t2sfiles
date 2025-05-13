@@ -3,4 +3,3 @@ https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030058/SpikerBasicTrainin
 --tape-sum 4311c86251f29d8e1d3b7dcc1f85d95c
 --start 32768
 --sim-load-config machine=128
---sim-load-config accelerator=none

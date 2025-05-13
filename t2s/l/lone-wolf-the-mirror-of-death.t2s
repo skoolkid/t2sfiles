@@ -3,5 +3,4 @@ https://worldofspectrum.net/pub/sinclair/games/l/LoneWolf-TheMirrorOfDeath.tzx.z
 --tape-sum bab8428d8a90956f894dcb63c247f4f0
 --start 65403
 --tape-start 56
---sim-load-config accelerator=none
 --sim-load-config polarity=0

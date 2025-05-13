@@ -4,4 +4,3 @@ https://worldofspectrum.net/pub/sinclair/games/b/ByteMe.tap.zip
 --start 27400
 --sim-load-config machine=128
 --press 7:ENTER
---sim-load-config accelerator=none
