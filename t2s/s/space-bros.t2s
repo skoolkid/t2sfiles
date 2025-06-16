@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044247/SpaceBros.tap.zip
+--tape-name "SpaceBros.tap"
+--tape-sum 1b370f8a7f459e64d0d933ecb95fbb48
+--start 30336
+--sim-load-config machine=128

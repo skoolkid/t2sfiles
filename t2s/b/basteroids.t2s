@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044253/Basteroids.tap.zip
+--tape-name "Basteroids.tap"
+--tape-sum 1147f647bb6d9c3272d568ea171d358b
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'
