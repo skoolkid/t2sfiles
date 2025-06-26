@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044306/StevesQuestForCoins.tap.zip
+--tape-name "StevesQuestForCoins.tap"
+--tape-sum 82d6f465a76f218220f1c5d54fb190f6
+--start 1343
+--sim-load-config finish-tape=1

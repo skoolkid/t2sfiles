@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044323/Goblinarama.tap.zip
+--tape-name "Goblinarama.tap"
+--tape-sum 2a9330098bbda0c64eaf3bebc8c4fa5c
+--start 36548
+--sim-load-config machine=128

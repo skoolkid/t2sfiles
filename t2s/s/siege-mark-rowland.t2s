@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044336/Siege.tap.zip
+--tape-name "Siege.tap"
+--tape-sum 5854066042af20d6a0b391b8847ecbe2
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044310/Mastermaze.tzx.zip
+--tape-name "Mastermaze.tzx"
+--tape-sum dfa33d7fed066e6f229bb3b4447788d3
+--start 1343
+--sim-load-config finish-tape=1

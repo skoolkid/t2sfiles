@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044314/BubbleCop.tap.zip
+--tape-name "BubbleCop.tap"
+--tape-sum 0828e7bb890d651f52ceb6385c1396f7
+--start 32000
+--sim-load-config machine=128

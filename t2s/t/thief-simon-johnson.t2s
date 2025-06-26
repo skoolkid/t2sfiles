@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044356/Thief.tap.zip
+--tape-name "Thief.tap"
+--tape-sum 7fc5e2a33c357ff3a4821cd453c878bd
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

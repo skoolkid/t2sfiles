@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040924/SaveRomeo.tap.zip
+--tape-name "SaveRomeo.tap"
+--tape-sum 2bbed9b25db5fbd5a939b6aa55116353
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040525/SpaceRace.tap.zip
+--tape-name "SpaceRace.tap"
+--tape-sum a8a2f99b95902279035d02c2fb534004
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

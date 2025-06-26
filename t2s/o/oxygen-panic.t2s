@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044319/OxygenPanic.tzx.zip
+--tape-name "OxygenPanic.tzx"
+--tape-sum 8b3f4c131e864166adb3412b892b633b
+--start 1343
+--sim-load-config finish-tape=1

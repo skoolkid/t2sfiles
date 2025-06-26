@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044369/Xliens2.tap.zip
+--tape-name "Xliens2.tap"
+--tape-sum b3739bc4c28ebe9e8393933dc3d0a0b8
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044276/Corridors.tzx.zip
+--tape-name "Corridors.tzx"
+--tape-sum 1a5d66554332785672f12b39e805f9d6
+--start 1343
+--sim-load-config finish-tape=1

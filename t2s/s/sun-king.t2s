@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037607/SunKing.tap.zip
+--tape-name "SunKing.tap"
+--tape-sum 8f38613bb7fd95d3cc5bf4efb4a52df3
+--start 1343
+--sim-load-config finish-tape=1

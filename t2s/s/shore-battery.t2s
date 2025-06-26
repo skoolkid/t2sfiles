@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040986/ShoreBattery.tap.zip
+--tape-name "ShoreBattery.tap"
+--tape-sum f374ff57670a7437ca14d511bd299cfc
+--start 1343
+--sim-load-config finish-tape=1

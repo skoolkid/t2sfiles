@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044345/FlashingFight.tzx.zip
+--tape-name "FlashingFight.tzx"
+--tape-sum d4f7ee1c1dc9f5daf5e2d2ff55cb808e
+--start 1343
+--sim-load-config finish-tape=1

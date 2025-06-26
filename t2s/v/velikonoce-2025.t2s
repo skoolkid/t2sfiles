@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044266/Velikonoce2025.tap.zip
+--tape-name "Velikonoce2025.tap"
+--tape-sum b8252bf76345d5537140787cf23f66fa
+--start 1343
+--sim-load-config finish-tape=1

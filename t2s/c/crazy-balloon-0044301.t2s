@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044301/CrazyBalloon.tzx.zip
+--tape-name "CrazyBalloon.tzx"
+--tape-sum 89769e511ba3120570ba375c4abd978e
+--start 1343
+--sim-load-config finish-tape=1

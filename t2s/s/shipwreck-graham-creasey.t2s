@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044334/Shipwreck.tap.zip
+--tape-name "Shipwreck.tap"
+--tape-sum dd6426fd6f6a0880a009686f41e8c494
+--start 1343
+--sim-load-config finish-tape=1

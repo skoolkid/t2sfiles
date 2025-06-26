@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044360/TreasureTrail.tap.zip
+--tape-name "TreasureTrail.tap"
+--tape-sum 13ed7a43de1c88591b5121f05ad61360
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

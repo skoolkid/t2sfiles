@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0041201/SuperSquare.tap.zip
+--tape-name "SuperSquare.tap"
+--tape-sum 19d03307dd8cc4373b41c777e94062dc
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

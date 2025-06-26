@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0041392/ServeMe.tap.zip
+--tape-name "ServeMe.tap"
+--tape-sum 8cf44ce4718cb36bad25c9b1b4c2964e
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

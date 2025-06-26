@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044318/Gnurglor.tzx.zip
+--tape-name "Gnurglor.tzx"
+--tape-sum befad141d324ff53025d430069cfad5d
+--start 1343
+--sim-load-config finish-tape=1

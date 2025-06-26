@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044322/CrystalKingdomDizzy2025-ReduxEdition(EN).tap.zip
+--tape-name "CrystalKingdomDizzy2025-ReduxEdition(EN).tap"
+--tape-sum c62ea150c4cde9d7da8ba1525bff83c0
+--start 24809
+--sim-load-config machine=128

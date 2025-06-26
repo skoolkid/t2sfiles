@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040571/StopThatFence.tzx.zip
+--tape-name "StopThatFence.tzx"
+--tape-sum b37b1f9679dcef2bd435e8fe3a4b5324
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

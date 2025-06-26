@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043784/DonkeyKong.tap.zip
+--tape-name "DonkeyKong.tap"
+--tape-sum 2f455b4d15f494fd7a76f89a51a64cff
+--start 49152
+--sim-load-config machine=128

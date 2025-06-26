@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042966/Petwalk.tap.zip
+--tape-name "Petwalk.tap"
+--tape-sum eea35a628a7e7dbbec0c5c2283c09e07
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040930/SeaLanding.tap.zip
+--tape-name "SeaLanding.tap"
+--tape-sum dd8f64c9b17f9332bf257a75455a1aed
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

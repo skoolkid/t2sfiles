@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044339/Skyscrape.tap.zip
+--tape-name "Skyscrape.tap"
+--tape-sum 58f997080542e883fa0c046204b1c33f
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

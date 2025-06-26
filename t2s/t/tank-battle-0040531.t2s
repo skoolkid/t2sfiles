@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040531/TankBattle.tap.zip
+--tape-name "TankBattle.tap"
+--tape-sum 3128d2e19e0f9216af14d9d1ad0473bd
+--start 1343
+--tape-stop 3
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

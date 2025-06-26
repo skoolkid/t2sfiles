@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044199/SchachEditor.tap.zip
+--tape-name "SchachEditor.tap"
+--tape-sum f149cff5026f4bf6c2f3fe6a667b5679
+--start 1343
+--sim-load-config finish-tape=1

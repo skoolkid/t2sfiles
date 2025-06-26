@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0015679/CruiseOn.tzx.zip
+--tape-name "CruiseOn.tzx"
+--tape-sum f748c105e5e6717870dd5f643a7bb9a8
+--start 65129
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044370/MCMD.tap.zip
+--tape-name "MCMD.tap"
+--tape-sum ac75ba21f722934e6ad4ad988c553a55
+--start 1343
+--sim-load-config finish-tape=1

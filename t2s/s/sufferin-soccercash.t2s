@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040752/SufferinSoccercash.tap.zip
+--tape-name "SufferinSoccercash.tap"
+--tape-sum 34553989daa4d82b3a0172c1f6871745
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

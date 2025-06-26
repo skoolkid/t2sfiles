@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044342/SnailRace.tap.zip
+--tape-name "SnailRace.tap"
+--tape-sum ae11cf638a9f9f2abf3d74cbb41c3930
+--start 1343
+--sim-load-config finish-tape=1

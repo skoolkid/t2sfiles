@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044271/Gorf.tap.zip
+--tape-name "Gorf.tap"
+--tape-sum 19d0e2ff40a01005a711f5a5c45e86fa
+--start 23968
+--sim-load-config machine=128

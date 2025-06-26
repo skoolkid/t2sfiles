@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0041304/TrainJump.tap.zip
+--tape-name "TrainJump.tap"
+--tape-sum a3aa61418626ba0baebe5ffdbb8d11de
+--start 1343
+--sim-load-config finish-tape=1

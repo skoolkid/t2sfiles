@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044382/Bricky.tap.zip
+--tape-name "Bricky.tap"
+--tape-sum fc7b9dfadf4c223e7464194908d6f2b7
+--start 1343
+--sim-load-config finish-tape=1

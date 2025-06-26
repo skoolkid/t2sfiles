@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044377/Wolfair.tap.zip
+--tape-name "Wolfair.tap"
+--tape-sum 21d3b3e45dd1dba2093d5c85c945340e
+--start 1343
+--tape-stop 3
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

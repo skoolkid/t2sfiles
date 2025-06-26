@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042205/SportBilly.tap.zip
+--tape-name "SportBilly.tap"
+--tape-sum 0f17f541788169d6b921c5922a769ad9
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044378/FiveDestroyTheWorld.tap.zip
+--tape-name "FiveDestroyTheWorld.tap"
+--tape-sum cb8328f44fdecb69844ab6d186c3616f
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

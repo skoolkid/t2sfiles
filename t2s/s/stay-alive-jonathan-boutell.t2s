@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044352/StayAlive.tzx.zip
+--tape-name "StayAlive.tzx"
+--tape-sum b20255ccadca12699f0032d2bb72ab31
+--start 1343
+--sim-load-config finish-tape=1

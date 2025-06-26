@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044321/Sonar.tap.zip
+--tape-name "Sonar16K.tap"
+--tape-sum da1472de1ebc2febba161888d1445d8c
+--start 1343
+--sim-load-config finish-tape=1

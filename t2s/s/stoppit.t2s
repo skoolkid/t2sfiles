@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0041337/Stoppit.tap.zip
+--tape-name "Stoppit.tap"
+--tape-sum 11e2e3c849d79dc3a3a380d9b92f4e6a
+--start 1343
+--sim-load-config finish-tape=1

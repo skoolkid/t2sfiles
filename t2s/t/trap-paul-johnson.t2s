@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040511/Trap.tap.zip
+--tape-name "Trap.tap"
+--tape-sum c0889c56a1197443eeff45f43bdd0df8
+--start 1343
+--sim-load-config finish-tape=1

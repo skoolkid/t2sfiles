@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040969/SpiralTowerThe.tap.zip
+--tape-name "SpiralTowerThe.tap"
+--tape-sum b2e56383ec6a0b780b919d3baf7c97c2
+--start 1343
+--sim-load-config finish-tape=1

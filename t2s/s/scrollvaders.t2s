@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037599/Scrollvaders.tap.zip
+--tape-name "Scrollvaders.tap"
+--tape-sum 56eb37afe70ce5d93721c9a3d70f0321
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

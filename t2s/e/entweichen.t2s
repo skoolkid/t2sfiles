@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044200/Entweichen.tap.zip
+--tape-name "Entweichen.tap"
+--tape-sum ce6d355af04c28fc565102e12d1c8a72
+--start 1343
+--sim-load-config finish-tape=1
