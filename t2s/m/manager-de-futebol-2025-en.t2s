@@ -1,6 +1,6 @@
 https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044099/ManagerDeFutebol2025(EN).tap.zip
 --tape-name "ManagerDeFutebol2025(EN).tap"
---tape-sum 419288b95ea4cdabe5f036b3653fa7ea
+--tape-sum da0beeea729a314a6da20d8257336d33
 --start 23316
 --sim-load-config machine=128
 --tape-start 17

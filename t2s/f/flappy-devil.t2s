@@ -1,5 +1,5 @@
 https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043757/FlappyDevil.tap.zip
 --tape-name "FlappyDevil.tap"
---tape-sum d4e8a8600c8105e2e6699ecaca57227a
+--tape-sum 515b6317025ddbcafc1fbf043dc2bf52
 --start 1343
 --sim-load-config finish-tape=1
