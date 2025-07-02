@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044404/Bolsa.tzx.zip
+--tape-name "Bolsa.tzx"
+--tape-sum 7bdcc33b64b36239d7ced721c8608baa
+--start 1343
+--sim-load-config finish-tape=1

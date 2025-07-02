@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044392/TeaPartyThe.tap.zip
+--tape-name "TeaPartyThe.tap"
+--tape-sum 223ab49780fc30d9d4ce8f8e19a375cd
+--start 1343
+--sim-load-config finish-tape=1

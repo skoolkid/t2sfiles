@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044401/SundayDriver.tap.zip
+--tape-name "SundayDriver.tap"
+--tape-sum 7c50a9df2941ae5a9419cb5ef7a4dad4
+--start 1343
+--sim-load-config finish-tape=1
