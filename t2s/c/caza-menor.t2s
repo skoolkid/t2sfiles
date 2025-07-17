@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016132/CazaMenor.tzx.zip
+--tape-name "CazaMenor.tzx"
+--tape-sum 2e01f55809ae361be83f3c781d1cc8b2
+--start 1343
+--sim-load-config finish-tape=1

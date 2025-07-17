@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016204/Warland.tzx.zip
+--tape-name "Warland.tzx"
+--tape-sum a14d90c8eb5b7fd9eed8d75f55d04791
+--start 1343
+--sim-load-config finish-tape=1

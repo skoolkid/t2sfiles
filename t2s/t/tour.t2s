@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016169/Tour.tzx.zip
+--tape-name "Tour.tzx"
+--tape-sum 656b3dbcf7ec55b31b4b4bdc937b31b1
+--start 1343
+--sim-load-config finish-tape=1

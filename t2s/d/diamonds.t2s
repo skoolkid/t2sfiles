@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016147/Diamonds.tzx.zip
+--tape-name "Diamonds.tzx"
+--tape-sum 1ac1bee12acae915ba0542517de29833
+--start 1343
+--sim-load-config finish-tape=1

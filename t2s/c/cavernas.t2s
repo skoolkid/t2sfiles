@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0014415/Cavernas.tzx.zip
+--tape-name "Cavernas.tzx"
+--tape-sum 70ddad43e0926b03e42452ca505bb3c1
+--start 1343
+--sim-load-config finish-tape=1

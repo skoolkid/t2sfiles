@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016173/Bolera.tzx.zip
+--tape-name "Bolera.tzx"
+--tape-sum 9593d0714180e067bddc61624bf6e4c8
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0017608/Dados.tzx.zip
+--tape-name "Dados.tzx"
+--tape-sum 64a7b00a24081e9f26d521af6ee84cd2
+--start 1343
+--sim-load-config finish-tape=1

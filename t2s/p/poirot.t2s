@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016182/Poirot.tzx.zip
+--tape-name "Poirot.tzx"
+--tape-sum d57c27a4598b242c51b242d69b16dd89
+--start 1343
+--sim-load-config finish-tape=1

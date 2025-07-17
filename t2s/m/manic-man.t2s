@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016200/ManicMan.tzx.zip
+--tape-name "ManicMan.tzx"
+--tape-sum c39ba99629eb2e05bf2bca2d6097e891
+--start 1343
+--sim-load-config finish-tape=1

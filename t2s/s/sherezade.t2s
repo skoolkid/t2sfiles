@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016161/Sherezade.tzx.zip
+--tape-name "Sherezade.tzx"
+--tape-sum 7b9f95562820fb2443beed5f40470dc0
+--start 1343
+--sim-load-config finish-tape=1

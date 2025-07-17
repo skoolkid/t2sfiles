@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016203/GoldenEagles.tzx.zip
+--tape-name "GoldenEagles.tzx"
+--tape-sum 5b78935cb5a6db0a0440d117431ededa
+--start 1343
+--sim-load-config finish-tape=1

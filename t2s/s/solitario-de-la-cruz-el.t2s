@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016165/SolitarioDeLaCruzEl.tzx.zip
+--tape-name "SolitarioDeLaCruzEl.tzx"
+--tape-sum 1edb584acf128e0d9e0223097c066902
+--start 1343
+--sim-load-config finish-tape=1

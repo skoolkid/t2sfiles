@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016146/Araneus.tzx.zip
+--tape-name "Araneus.tzx"
+--tape-sum 9586e274bf8c92604785e7a9f4e267fd
+--start 1343
+--sim-load-config finish-tape=1

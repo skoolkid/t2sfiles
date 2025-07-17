@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016136/DuendePerdidoEl.tzx.zip
+--tape-name "DuendePerdidoEl.tzx"
+--tape-sum 847278d74c9a82f839050c5b3820bf24
+--start 1343
+--sim-load-config finish-tape=1

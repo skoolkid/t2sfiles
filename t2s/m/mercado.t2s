@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016205/Mercado.tzx.zip
+--tape-name "Mercado.tzx"
+--tape-sum 0c09ef7b48a7818f496145efd8ab4f05
+--start 1343
+--sim-load-config finish-tape=1

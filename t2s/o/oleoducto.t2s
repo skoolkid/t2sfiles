@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016138/Oleoducto.tzx.zip
+--tape-name "Oleoducto.tzx"
+--tape-sum 745b3d1d9a5dd790fc42c98fa20a13e5
+--start 1343
+--sim-load-config finish-tape=1

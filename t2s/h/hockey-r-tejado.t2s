@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016144/Hockey.tzx.zip
+--tape-name "Hockey.tzx"
+--tape-sum c03a27e7d7a65d4b8c4d7ef610f2e3ef
+--start 1343
+--sim-load-config finish-tape=1

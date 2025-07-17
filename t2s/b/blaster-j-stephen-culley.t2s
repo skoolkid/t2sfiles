@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044374/Blaster.tap.zip
+--tape-name "Blaster.tap"
+--tape-sum 2e3f2e4c039d33d7df46a6191fb17c0b
+--start 1343
+--sim-load-config finish-tape=1

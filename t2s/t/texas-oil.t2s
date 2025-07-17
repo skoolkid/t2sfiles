@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016152/TexasOil.tzx.zip
+--tape-name "TexasOil.tzx"
+--tape-sum 0d8479988646abd6fcb9fe2a73b79bb0
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016178/SaltoDeCaballo.tzx.zip
+--tape-name "SaltoDeCaballo.tzx"
+--tape-sum 5ff9ed6a2847fb2884063766a5a515dd
+--start 1343
+--sim-load-config finish-tape=1

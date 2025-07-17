@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016194/Dumper.tzx.zip
+--tape-name "Dumper.tzx"
+--tape-sum 55c3abb5df304c83df2cbfb0d3e5d5e5
+--start 1343
+--sim-load-config finish-tape=1

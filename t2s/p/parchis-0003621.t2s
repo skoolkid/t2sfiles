@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0003621/Parchis.tzx.zip
+--tape-name "Parchis.tzx"
+--tape-sum 181545bf8b5d2fe58769ba45fdf17a47
+--start 1343
+--sim-load-config finish-tape=1

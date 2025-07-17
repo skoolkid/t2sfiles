@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016150/Cannonball.tzx.zip
+--tape-name "Cannonball.tzx"
+--tape-sum 2185afe92fbcadbc5af3ce48e47b8e75
+--start 1343
+--sim-load-config finish-tape=1

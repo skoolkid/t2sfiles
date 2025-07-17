@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016151/Superthunder3D.tzx.zip
+--tape-name "Superthunder3D.tzx"
+--tape-sum a99c0090a93090eaf15a27e7f60b2790
+--start 1343
+--sim-load-config finish-tape=1

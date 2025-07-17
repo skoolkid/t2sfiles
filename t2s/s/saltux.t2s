@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016140/Saltux.tzx.zip
+--tape-name "Saltux.tzx"
+--tape-sum 8929248d89ab126b62fb0d049ec54ec7
+--start 1343
+--sim-load-config finish-tape=1

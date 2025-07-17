@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016187/YingYang.tzx.zip
+--tape-name "YingYang.tzx"
+--tape-sum 1f54d0c562d1599aa1c854017a008378
+--start 1343
+--sim-load-config finish-tape=1

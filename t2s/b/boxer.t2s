@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016156/Boxer.tzx.zip
+--tape-name "Boxer.tzx"
+--tape-sum 28cec9e66fd71f68fc77ddbc36aabb18
+--start 1343
+--sim-load-config finish-tape=1

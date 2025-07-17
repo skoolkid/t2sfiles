@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016186/Sigfrido.tzx.zip
+--tape-name "Sigfrido.tzx"
+--tape-sum e644a5549d3ea1c16fed550e3ab95ddf
+--start 1343
+--sim-load-config finish-tape=1

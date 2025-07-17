@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016137/CintasLocas.tzx.zip
+--tape-name "CintasLocas.tzx"
+--tape-sum 5a0d52b92ade87c65ca8240a3f8f08cf
+--start 1343
+--sim-load-config finish-tape=1

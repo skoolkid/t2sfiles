@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016175/WormCastle.tzx.zip
+--tape-name "WormCastle.tzx"
+--tape-sum c5d6dd3875565a279a84a9143412cb51
+--start 1343
+--sim-load-config finish-tape=1

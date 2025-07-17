@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016202/Patufet.tzx.zip
+--tape-name "Patufet.tzx"
+--tape-sum 3d32cc0c2f13253e49f6baac5d602df8
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016133/Ruleta.tzx.zip
+--tape-name "Ruleta.tzx"
+--tape-sum a8d529d876f84ee0e593d92202ef188a
+--start 1343
+--sim-load-config finish-tape=1

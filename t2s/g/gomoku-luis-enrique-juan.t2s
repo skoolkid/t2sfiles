@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016128/Gomoku.tzx.zip
+--tape-name "Gomoku.tzx"
+--tape-sum 741f9891d46d840891474dceec8a3a23
+--start 1343
+--sim-load-config finish-tape=1

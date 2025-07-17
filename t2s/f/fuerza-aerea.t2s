@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016199/FuerzaAerea.tzx.zip
+--tape-name "FuerzaAerea.tzx"
+--tape-sum 699173aec36f235ed9f1b1b007c8c3bb
+--start 1343
+--sim-load-config finish-tape=1

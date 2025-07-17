@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016163/DonaPepa.tzx.zip
+--tape-name "DonaPepa.tzx"
+--tape-sum a01665470a09939639faa409208b8cac
+--start 1343
+--sim-load-config finish-tape=1

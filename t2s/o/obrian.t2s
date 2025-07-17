@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016190/OBrian.tzx.zip
+--tape-name "OBrian.tzx"
+--tape-sum c55df8808b8c4f3bde70d7fa9389e307
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016174/Palomas.tzx.zip
+--tape-name "Palomas.tzx"
+--tape-sum 24e18159a6bf8e76805d8d2e1378617c
+--start 1343
+--sim-load-config finish-tape=1

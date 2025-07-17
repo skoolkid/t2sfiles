@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016185/75Las.tzx.zip
+--tape-name "75Las.tzx"
+--tape-sum 564e84370bc0839dfdc24a0f58eadc59
+--start 1343
+--sim-load-config finish-tape=1

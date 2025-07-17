@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016196/Tick-Land.tzx.zip
+--tape-name "Tick-Land.tzx"
+--tape-sum 47072036b7f1b5774530b57c5b4dec05
+--start 1343
+--sim-load-config finish-tape=1

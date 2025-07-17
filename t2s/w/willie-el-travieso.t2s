@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016183/WillieElTravieso.tzx.zip
+--tape-name "WillieElTravieso.tzx"
+--tape-sum 42ec06ee67c11cb0c3f1c7b53ee7a67e
+--start 1343
+--sim-load-config finish-tape=1

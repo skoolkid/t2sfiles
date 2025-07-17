@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0000304/Atentado.tzx.zip
+--tape-name "Atentado.tzx"
+--tape-sum f851f460c359974edfe544cb2c8768e7
+--start 1343
+--sim-load-config finish-tape=1

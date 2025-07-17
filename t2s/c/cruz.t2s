@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016135/Cruz.tzx.zip
+--tape-name "Cruz.tzx"
+--tape-sum 075528878f98a24504ad5141dbc3deb4
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016176/SpaceLab.tzx.zip
+--tape-name "SpaceLab.tzx"
+--tape-sum 8b004b260874f42da0ea8424f032cafe
+--start 1343
+--sim-load-config finish-tape=1

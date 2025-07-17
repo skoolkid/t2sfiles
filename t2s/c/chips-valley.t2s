@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016160/ChipsValley.tzx.zip
+--tape-name "ChipsValley.tzx"
+--tape-sum 02b1b7fe0b6dc5053dbd7ea9ad0ea1ff
+--start 1343
+--sim-load-config finish-tape=1

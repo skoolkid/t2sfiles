@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016172/Mision5.tzx.zip
+--tape-name "Mision5.tzx"
+--tape-sum 909525f8c0e4abfa46bcc177e96fc8e6
+--start 1343
+--sim-load-config finish-tape=1

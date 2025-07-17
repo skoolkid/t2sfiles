@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044309/DoorsOfDestiny.tzx.zip
+--tape-name "DoorsOfDestiny.tzx"
+--tape-sum 93095608cc0cf9726a1cf9d289f2583e
+--start 1343
+--sim-load-config finish-tape=1

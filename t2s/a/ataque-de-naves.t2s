@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016125/AtaqueDeNaves.tzx.zip
+--tape-name "AtaqueDeNaves.tzx"
+--tape-sum 0579112f774d971acd3e17ee9e667bdc
+--start 1343
+--sim-load-config finish-tape=1

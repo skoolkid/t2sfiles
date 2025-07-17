@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016141/KLaber.tzx.zip
+--tape-name "KLaber.tzx"
+--tape-sum 7ef4167fc6d7cca12117aaff0e983288
+--start 1343
+--sim-load-config finish-tape=1

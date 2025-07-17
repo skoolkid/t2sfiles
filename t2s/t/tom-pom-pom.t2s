@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016153/TomPomPom.tzx.zip
+--tape-name "TomPomPom.tzx"
+--tape-sum 37ca72c1c56c5980d786695b8c779382
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016184/Sirius.tzx.zip
+--tape-name "Sirius.tzx"
+--tape-sum f2a281d0363967f45f69314fc9b50d1d
+--start 1343
+--sim-load-config finish-tape=1

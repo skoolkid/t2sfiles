@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0003651/Pengo.tzx.zip
+--tape-name "Pengo.tzx"
+--tape-sum 56c9a146ee88df747b1a5410977c9c88
+--start 1343
+--sim-load-config finish-tape=1

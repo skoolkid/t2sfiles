@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016158/KeopsRevenge.tzx.zip
+--tape-name "KeopsRevenge.tzx"
+--tape-sum e222c02e7e0477c7f7010234ccd98f3e
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016164/RiskyRisk.tzx.zip
+--tape-name "RiskyRisk.tzx"
+--tape-sum 515098544d15b24e0fb49c1460454283
+--start 1343
+--sim-load-config finish-tape=1

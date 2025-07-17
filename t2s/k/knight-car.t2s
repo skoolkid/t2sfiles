@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016195/KnightCar.tzx.zip
+--tape-name "KnightCar.tzx"
+--tape-sum 55387b7d5a978c4e7aa2959b34534587
+--start 1343
+--sim-load-config finish-tape=1

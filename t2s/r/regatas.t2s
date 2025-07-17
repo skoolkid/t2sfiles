@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016159/Regatas.tzx.zip
+--tape-name "Regatas.tzx"
+--tape-sum c3a480f0329847000be56c0566611c90
+--start 1343
+--sim-load-config finish-tape=1

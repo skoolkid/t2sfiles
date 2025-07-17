@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016155/BabyFrog.tzx.zip
+--tape-name "BabyFrog.tzx"
+--tape-sum 866ef1c86781c95ea1f09a9f50c1d3ac
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0002352/HormigueroMaldito.tzx.zip
+--tape-name "HormigueroMaldito.tzx"
+--tape-sum 2313e3a9ff72bf1a0e4f8f27ffc730dd
+--start 1343
+--sim-load-config finish-tape=1

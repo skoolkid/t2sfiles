@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016168/AngelEl.tzx.zip
+--tape-name "AngelEl.tzx"
+--tape-sum dfa84c6a3381a10de77c8058912f3145
+--start 1343
+--sim-load-config finish-tape=1

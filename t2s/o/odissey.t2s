@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016179/Odissey.tzx.zip
+--tape-name "Odissey.tzx"
+--tape-sum 29c9796797b439e7759d05d275829f8a
+--start 1343
+--sim-load-config finish-tape=1

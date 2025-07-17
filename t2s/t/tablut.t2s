@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016149/Tablut.tzx.zip
+--tape-name "Tablut.tzx"
+--tape-sum d7109042f6e02cfc398c614e96f77d13
+--start 1343
+--sim-load-config finish-tape=1

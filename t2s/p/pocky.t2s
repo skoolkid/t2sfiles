@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016170/Pocky.tzx.zip
+--tape-name "Pocky.tzx"
+--tape-sum 34beda079b1a4f57cc89bfcf3d941325
+--start 1343
+--sim-load-config finish-tape=1

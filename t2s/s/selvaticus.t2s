@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016191/Selvaticus.tzx.zip
+--tape-name "Selvaticus.tzx"
+--tape-sum 1b1ca19707e8348a1d86cfcd7b948c21
+--start 1343
+--sim-load-config finish-tape=1

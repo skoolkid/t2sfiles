@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030101/DonkeyKongReloadedAgain.tzx.zip
+--tape-name "DonkeyKongReloadedAgain.tzx"
+--tape-sum 64aec474f2dd24b7a71d9ff5308d01eb
+--start 32000
+--sim-load-config machine=128

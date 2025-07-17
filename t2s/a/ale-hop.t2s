@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016134/AleHop.tzx.zip
+--tape-name "AleHop.tzx"
+--tape-sum d2c7e82b9dbeab03fa0b25a92e93b8bb
+--start 1343
+--sim-load-config finish-tape=1

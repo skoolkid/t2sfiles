@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016145/Puzzcar.tzx.zip
+--tape-name "Puzzcar.tzx"
+--tape-sum 3cbcc5f033edf08f9c4b3396a3517e0e
+--start 1343
+--sim-load-config finish-tape=1

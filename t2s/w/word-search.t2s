@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0009594/WordSearchChallenge(SideA).tzx.zip
+--tape-name "WordSearchChallenge(SideA).tzx"
+--tape-sum ab09e28c219d2f11b01c8b6dbc345b04
+--start 1343
+--sim-load-config finish-tape=1

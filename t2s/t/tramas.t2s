@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016143/Tramas.tzx.zip
+--tape-name "Tramas.tzx"
+--tape-sum bdcd9489062f27b255a92e2cd8712f32
+--start 1343
+--sim-load-config finish-tape=1

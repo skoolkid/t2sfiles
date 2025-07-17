@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016127/Hiper-Olimpic.tzx.zip
+--tape-name "Hiper-Olimpic.tzx"
+--tape-sum b4ec4a89e22118671085db63dc7711ba
+--start 1343
+--sim-load-config finish-tape=1

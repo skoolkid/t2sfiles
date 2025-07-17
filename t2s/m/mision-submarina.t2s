@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016180/MisionSubmarina.tzx.zip
+--tape-name "MisionSubmarina.tzx"
+--tape-sum a1ce33f4e3afd2a49d6bff4850423eab
+--start 1343
+--sim-load-config finish-tape=1

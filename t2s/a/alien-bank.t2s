@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016162/AlienBank.tzx.zip
+--tape-name "AlienBank.tzx"
+--tape-sum 8496ff4b3e53f6c506cfa734a9741adb
+--start 1343
+--sim-load-config finish-tape=1

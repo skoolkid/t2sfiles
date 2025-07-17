@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0003963/QBO.tzx.zip
+--tape-name "QBO.tzx"
+--tape-sum de85c796535d91e00d1ce7d5e5ab00cb
+--start 1343
+--sim-load-config finish-tape=1

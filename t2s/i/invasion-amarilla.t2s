@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016142/InvasionAmarilla.tzx.zip
+--tape-name "InvasionAmarilla.tzx"
+--tape-sum 1aef56030eb43fb4bf70fe27767a2ad7
+--start 1343
+--sim-load-config finish-tape=1
