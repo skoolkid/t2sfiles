@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016167/Gnomos.tzx.zip
+--tape-name "Gnomos.tzx"
+--tape-sum 2efd8551fe06de8c21e767340c62c1eb
+--start 1343
+--sim-load-config finish-tape=1
