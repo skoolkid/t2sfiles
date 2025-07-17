@@ -1,0 +1,9 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044269/StarCarrierRuffian.tap.zip
+--tape-name "StarCarrierRuffian.tap"
+--tape-sum 389c6897debfcb28391efd012d257a1b
+--press 29:n*60
+--start 1343
+--sim-load-config machine=128
+--sim-load-config finish-tape=1
+--sim-load-config timeout=1430
+--sim-load-config python=1
