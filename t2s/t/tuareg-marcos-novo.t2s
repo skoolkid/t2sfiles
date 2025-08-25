@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016423/Tuareg.tzx.zip
+--tape-name "Tuareg.tzx"
+--tape-sum 4077c39a22687bb598325de975044ecc
+--start 1343
+--sim-load-config finish-tape=1

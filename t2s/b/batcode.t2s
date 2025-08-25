@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016386/Batcode.tzx.zip
+--tape-name "Batcode.tzx"
+--tape-sum b7d551e79d548ecb9c950583df5d4c18
+--start 1343
+--sim-load-config finish-tape=1

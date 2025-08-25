@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016276/Starcrash.tzx.zip
+--tape-name "Starcrash.tzx"
+--tape-sum a45bb2dbea6d0f90e64eb4203b1d095f
+--start 1343
+--sim-load-config finish-tape=1

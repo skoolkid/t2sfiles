@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016361/Tobogan.tzx.zip
+--tape-name "Tobogan.tzx"
+--tape-sum 7b30584798021d5dec25ee89da1f790f
+--start 1343
+--sim-load-config finish-tape=1

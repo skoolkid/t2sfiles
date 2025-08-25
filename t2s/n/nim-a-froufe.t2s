@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016243/NIM.tzx.zip
+--tape-name "NIM.tzx"
+--tape-sum 375e814b64420dd2365327828cc7459b
+--start 1343
+--sim-load-config finish-tape=1

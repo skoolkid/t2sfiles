@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016308/Senet.tzx.zip
+--tape-name "Senet.tzx"
+--tape-sum 575915e236e8b775141d9e1eff51814a
+--start 1343
+--sim-load-config finish-tape=1

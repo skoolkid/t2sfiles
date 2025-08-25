@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016260/Boyerland.tzx.zip
+--tape-name "Boyerland.tzx"
+--tape-sum 39bb386e03dd8e7696b3d607a61c2122
+--start 1343
+--sim-load-config finish-tape=1

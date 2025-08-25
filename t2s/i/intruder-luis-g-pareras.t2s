@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016298/Intruder.tzx.zip
+--tape-name "Intruder.tzx"
+--tape-sum c9b70d8f6d6f70000598dc1060f778c1
+--start 1343
+--sim-load-config finish-tape=1

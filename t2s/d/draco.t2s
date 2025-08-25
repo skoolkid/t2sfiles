@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016373/Draco.tzx.zip
+--tape-name "Draco.tzx"
+--tape-sum 289f3bebb7c53e29d1147f2480aca8be
+--start 1343
+--sim-load-config finish-tape=1

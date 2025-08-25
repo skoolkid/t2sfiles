@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0017797/Domino.tzx.zip
+--tape-name "Domino.tzx"
+--tape-sum 31c7e961d5f8bda31c2b150978d99141
+--start 1343
+--sim-load-config finish-tape=1

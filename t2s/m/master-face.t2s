@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016436/MasterFace.tzx.zip
+--tape-name "MasterFace.tzx"
+--tape-sum a3d0b83079eb1a4a7143c658f1ff37ec
+--start 1343
+--sim-load-config finish-tape=1

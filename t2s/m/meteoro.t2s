@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016340/Meteoro.tzx.zip
+--tape-name "Meteoro.tzx"
+--tape-sum 741d8617653a5ab3a688b9a8d515a8a7
+--start 1343
+--sim-load-config finish-tape=1

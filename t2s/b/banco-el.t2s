@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016327/BancoEl.tzx.zip
+--tape-name "BancoEl.tzx"
+--tape-sum 587bcfc1a575a5cd0a45b568dc616378
+--start 1343
+--sim-load-config finish-tape=1

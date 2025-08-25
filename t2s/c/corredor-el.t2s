@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016249/CorredorEl.tzx.zip
+--tape-name "CorredorEl.tzx"
+--tape-sum 547c741e6428b28fe9e033fa33022339
+--start 1343
+--sim-load-config finish-tape=1

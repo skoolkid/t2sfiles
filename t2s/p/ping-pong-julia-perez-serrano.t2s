@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016250/PingPong.tzx.zip
+--tape-name "PingPong.tzx"
+--tape-sum 494e939725030d7edf24147d1906510f
+--start 1343
+--sim-load-config finish-tape=1

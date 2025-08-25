@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016350/Acua-Tor.tzx.zip
+--tape-name "Acua-Tor.tzx"
+--tape-sum 30ef9c640f0a257a07ee4ec4da45e4f1
+--start 1343
+--sim-load-config finish-tape=1

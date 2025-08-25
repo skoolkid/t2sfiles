@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016267/GusanoComilonEl.tzx.zip
+--tape-name "GusanoComilonEl.tzx"
+--tape-sum 38c961048edde2f3c72b824fef35ca30
+--start 1343
+--sim-load-config finish-tape=1

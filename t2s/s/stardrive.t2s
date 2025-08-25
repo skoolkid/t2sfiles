@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016398/Stardrive.tzx.zip
+--tape-name "Stardrive.tzx"
+--tape-sum ee9dcb81206c9c7ed9341ca1ed357602
+--start 1343
+--sim-load-config finish-tape=1

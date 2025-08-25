@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016270/Kamicaces2000.tzx.zip
+--tape-name "Kamicaces2000.tzx"
+--tape-sum a74595ccf6fb0a64f746c55392a63229
+--start 1343
+--sim-load-config finish-tape=1

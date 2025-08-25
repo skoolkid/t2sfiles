@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016343/RolandGarros.tzx.zip
+--tape-name "RolandGarros.tzx"
+--tape-sum 7f48fcc210b8cde27caf74f6b99233df
+--start 1343
+--sim-load-config finish-tape=1

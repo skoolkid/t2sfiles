@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016296/GrandPrix.tzx.zip
+--tape-name "GrandPrix.tzx"
+--tape-sum 13eddd3e65b74289557ab3706015f02c
+--start 1343
+--sim-load-config finish-tape=1

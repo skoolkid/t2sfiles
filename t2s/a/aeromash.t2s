@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016320/Aeromash.tzx.zip
+--tape-name "Aeromash.tzx"
+--tape-sum 539920a81fcd02cdcd6faeb46410bb32
+--start 1343
+--sim-load-config finish-tape=1

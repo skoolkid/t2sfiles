@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016337/Ladron.tzx.zip
+--tape-name "Ladron.tzx"
+--tape-sum 875d641b7fa46d7b35197997b78d673a
+--start 1343
+--sim-load-config finish-tape=1

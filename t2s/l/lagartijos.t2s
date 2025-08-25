@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016362/Lagartijos.tzx.zip
+--tape-name "Lagartijos.tzx"
+--tape-sum bb42d2ccbba1b82f34f97bd3d2f6eda5
+--start 1343
+--sim-load-config finish-tape=1

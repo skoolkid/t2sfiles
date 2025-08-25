@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016332/OsoBobo.tzx.zip
+--tape-name "OsoBobo.tzx"
+--tape-sum eeacd97af00cbd88a302b07677ed6ebf
+--start 1343
+--sim-load-config finish-tape=1

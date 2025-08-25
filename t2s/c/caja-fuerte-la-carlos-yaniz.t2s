@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016357/CajaFuerteLa.tzx.zip
+--tape-name "CajaFuerteLa.tzx"
+--tape-sum 1920f66cffffafdf4e2d91c4f329cc45
+--start 1343
+--sim-load-config finish-tape=1

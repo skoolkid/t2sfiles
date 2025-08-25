@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016409/EstadisticaEscolar.tzx.zip
+--tape-name "EstadisticaEscolar.tzx"
+--tape-sum 1a377b992e94d3bc0dbfd845c4d359f8
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016224/BaileDeLosNumerosEl.tzx.zip
+--tape-name "BaileDeLosNumerosEl.tzx"
+--tape-sum b816f953c6d158dbb79125e3ea28d4aa
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016306/BarmanEl.tzx.zip
+--tape-name "BarmanEl.tzx"
+--tape-sum 83374e0fdb53b551f486d08a5ae1219b
+--start 1343
+--sim-load-config finish-tape=1

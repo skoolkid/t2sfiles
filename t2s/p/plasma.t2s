@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016314/Plasma.tzx.zip
+--tape-name "Plasma.tzx"
+--tape-sum 629faa53d57abe1fab0f3b942782cd6f
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016325/KThath.tzx.zip
+--tape-name "KThath.tzx"
+--tape-sum 030dbead8009c4c28d67311978647c6d
+--start 1343
+--sim-load-config finish-tape=1

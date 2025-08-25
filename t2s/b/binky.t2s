@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016347/Binky.tzx.zip
+--tape-name "Binky.tzx"
+--tape-sum e6e2a16eaa3036a4f614bbda1fef935d
+--start 1343
+--sim-load-config finish-tape=1

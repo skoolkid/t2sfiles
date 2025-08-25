@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016431/MasterGolf.tzx.zip
+--tape-name "MasterGolf.tzx"
+--tape-sum 5dcb98e03d1ca787f6eb7edfaa173847
+--start 1343
+--sim-load-config finish-tape=1

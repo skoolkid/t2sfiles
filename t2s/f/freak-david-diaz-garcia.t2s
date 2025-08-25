@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016415/Freak.tzx.zip
+--tape-name "Freak.tzx"
+--tape-sum f5770a1b17bcfa378f1881d90edab004
+--start 1343
+--sim-load-config finish-tape=1

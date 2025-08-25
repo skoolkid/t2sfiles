@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016359/MoleLa.tzx.zip
+--tape-name "MoleLa.tzx"
+--tape-sum 8c86dbca3ad76563c7c2b5bffa71267f
+--start 1343
+--sim-load-config finish-tape=1

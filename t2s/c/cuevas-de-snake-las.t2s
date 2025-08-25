@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016391/CuevasDeSnakeLas.tzx.zip
+--tape-name "CuevasDeSnakeLas.tzx"
+--tape-sum 28408c6fe7b1873b14394027081b233f
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016363/Zoink.tzx.zip
+--tape-name "Zoink.tzx"
+--tape-sum 4a3cb38c152ab9926d672f47fc1c5cbe
+--start 1343
+--sim-load-config finish-tape=1

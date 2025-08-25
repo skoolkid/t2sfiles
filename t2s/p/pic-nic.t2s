@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016312/Pic-nic.tzx.zip
+--tape-name "Pic-nic.tzx"
+--tape-sum 2e8baec42f677fa52f3fad5f1eb9a5bf
+--start 1343
+--sim-load-config finish-tape=1

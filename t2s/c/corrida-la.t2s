@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016315/CorridaLa.tzx.zip
+--tape-name "CorridaLa.tzx"
+--tape-sum 6313d68c94b0495ef5ed346f7e6e4615
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016411/Scalybur.tzx.zip
+--tape-name "Scalybur.tzx"
+--tape-sum 5b4e6bd397ce21f03e55f33e442571dc
+--start 1343
+--sim-load-config finish-tape=1

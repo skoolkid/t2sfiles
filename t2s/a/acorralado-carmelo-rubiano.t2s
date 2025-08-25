@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016303/Acorralado.tzx.zip
+--tape-name "Acorralado.tzx"
+--tape-sum 0e702b9b14d7a1c6a2783390f33921b0
+--start 1343
+--sim-load-config finish-tape=1

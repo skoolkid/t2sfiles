@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016334/Saltarin.tzx.zip
+--tape-name "Saltarin.tzx"
+--tape-sum d55d6028020349c5e9d09eddc339ef07
+--start 1343
+--sim-load-config finish-tape=1

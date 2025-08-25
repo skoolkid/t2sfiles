@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016407/ZonaRadioactiva.tzx.zip
+--tape-name "ZonaRadioactiva.tzx"
+--tape-sum ee8c835078d13d7cefebd3e64815271a
+--start 1343
+--sim-load-config finish-tape=1

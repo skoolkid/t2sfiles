@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016420/IronWar.tzx.zip
+--tape-name "IronWar.tzx"
+--tape-sum e3a8f4f4807c7944a283997807fffbed
+--start 1343
+--sim-load-config finish-tape=1

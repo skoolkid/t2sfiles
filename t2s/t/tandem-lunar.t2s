@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016365/TandemLunar.tzx.zip
+--tape-name "TandemLunar.tzx"
+--tape-sum dc71328737cf931521ead98cba223d3e
+--start 1343
+--sim-load-config finish-tape=1

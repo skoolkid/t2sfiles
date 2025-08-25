@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016381/MaquinaDelTiempoLa.tzx.zip
+--tape-name "MaquinaDelTiempoLa.tzx"
+--tape-sum 75982b56015b26cef85c6cecb85c80b3
+--start 1343
+--sim-load-config finish-tape=1

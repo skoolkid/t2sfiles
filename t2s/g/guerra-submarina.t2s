@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016286/GuerraSubmarina.tzx.zip
+--tape-name "GuerraSubmarina.tzx"
+--tape-sum 9fbf4273cc35c40bcfa74c4b10667bfd
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016283/PokerEntreDos.tzx.zip
+--tape-name "PokerEntreDos.tzx"
+--tape-sum df515ea3edae73c89dc8690daa224485
+--start 1343
+--sim-load-config finish-tape=1

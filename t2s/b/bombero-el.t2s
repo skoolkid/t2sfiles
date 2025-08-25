@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016317/BomberoEl.tzx.zip
+--tape-name "BomberoEl.tzx"
+--tape-sum e52aae1b8d8048b467bbf6e1e5f42efc
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016321/AirAttack.tzx.zip
+--tape-name "AirAttack.tzx"
+--tape-sum b8f52eae8fdaea80ea958eb289262806
+--start 1343
+--sim-load-config finish-tape=1

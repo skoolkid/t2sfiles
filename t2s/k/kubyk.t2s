@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016416/Kubyk.tzx.zip
+--tape-name "Kubyk.tzx"
+--tape-sum b5e8b95cd4893c05127180b063b0fbeb
+--start 1343
+--sim-load-config finish-tape=1

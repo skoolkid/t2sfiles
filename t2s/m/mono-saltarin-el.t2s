@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016274/MonoSaltarinEl.tzx.zip
+--tape-name "MonoSaltarinEl.tzx"
+--tape-sum fb8552723120a15fc8c42e74dff2f659
+--start 1343
+--sim-load-config finish-tape=1

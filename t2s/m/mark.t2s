@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016389/Mark.tzx.zip
+--tape-name "Mark.tzx"
+--tape-sum 302652dddfd713a0c6f7cf7d1b0cc572
+--start 1343
+--sim-load-config finish-tape=1

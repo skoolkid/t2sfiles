@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016349/Kung-Fu.tzx.zip
+--tape-name "Kung-Fu.tzx"
+--tape-sum 6e34f7b5a2fe73ee5f75a1ef6dba3b7e
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016404/GatosLos.tzx.zip
+--tape-name "GatosLos.tzx"
+--tape-sum 76bb704359c195f5bb1faf56198c8024
+--start 1343
+--sim-load-config finish-tape=1

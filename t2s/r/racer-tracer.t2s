@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016435/RacerTracer.tzx.zip
+--tape-name "RacerTracer.tzx"
+--tape-sum fc26741e306c59948142df04ddddaf66
+--start 1343
+--sim-load-config finish-tape=1

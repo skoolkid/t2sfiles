@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016380/Anoms.tzx.zip
+--tape-name "Anoms.tzx"
+--tape-sum 7f6b3e5664e9ab5d82d4f2ccc05beb2a
+--start 1343
+--sim-load-config finish-tape=1

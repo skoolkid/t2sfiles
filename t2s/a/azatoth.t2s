@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016307/Azatoth.tzx.zip
+--tape-name "Azatoth.tzx"
+--tape-sum cd4a416f078cfe02c126c87866503914
+--start 1343
+--sim-load-config finish-tape=1

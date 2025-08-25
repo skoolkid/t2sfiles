@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016483/Ultratumba.tzx.zip
+--tape-name "Ultratumba.tzx"
+--tape-sum 2e149509ff29220256294c55d2f8ae95
+--start 1343
+--sim-load-config finish-tape=1

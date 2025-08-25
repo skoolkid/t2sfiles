@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016299/SpaceWar.tzx.zip
+--tape-name "SpaceWar.tzx"
+--tape-sum 14b0d2a4f2cf5d21bea90601281f214f
+--start 1343
+--sim-load-config finish-tape=1

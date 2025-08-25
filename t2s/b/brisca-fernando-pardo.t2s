@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016335/Brisca.tzx.zip
+--tape-name "Brisca.tzx"
+--tape-sum 5022e1785b2a26feb76800404336985d
+--start 1343
+--sim-load-config finish-tape=1

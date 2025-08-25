@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016400/TNT.tzx.zip
+--tape-name "TNT.tzx"
+--tape-sum 6e968fc359a1c65337fbb0cbd0e0ecb7
+--start 1343
+--sim-load-config finish-tape=1

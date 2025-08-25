@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016355/Basket.tzx.zip
+--tape-name "Basket.tzx"
+--tape-sum 9f618b14bd54f399315e83e3c099a12b
+--start 1343
+--sim-load-config finish-tape=1

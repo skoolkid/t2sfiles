@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016384/Voyager.tzx.zip
+--tape-name "Voyager.tzx"
+--tape-sum c0f3c97817c3c76a0f54259df6a7d869
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016346/BuhoEl.tzx.zip
+--tape-name "BuhoEl.tzx"
+--tape-sum e45d069aa2b1ee4ebe14d5b80b32e738
+--start 1343
+--sim-load-config finish-tape=1

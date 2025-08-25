@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016291/SopaDeLetras.tzx.zip
+--tape-name "SopaDeLetras.tzx"
+--tape-sum 8b8cc6126181da986d1c21c79bc86ad8
+--start 1343
+--sim-load-config finish-tape=1

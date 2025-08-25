@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016266/FlechaIntrepidaLa.tzx.zip
+--tape-name "FlechaIntrepidaLa.tzx"
+--tape-sum d4c7f7a6c7ec9cae271f60260c0f8fba
+--start 1343
+--sim-load-config finish-tape=1

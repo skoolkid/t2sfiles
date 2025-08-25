@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016392/Bolarinto.tzx.zip
+--tape-name "Bolarinto.tzx"
+--tape-sum a2a8cd024c95bc777d9cfd16b28510b2
+--start 1343
+--sim-load-config finish-tape=1

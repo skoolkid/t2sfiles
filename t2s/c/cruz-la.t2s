@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016364/CruzLa.tzx.zip
+--tape-name "CruzLa.tzx"
+--tape-sum 1e01bfbbc1edf34f6b4b2d3dd0259378
+--start 1343
+--sim-load-config finish-tape=1

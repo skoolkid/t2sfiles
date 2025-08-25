@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016336/SOS.tzx.zip
+--tape-name "SOS.tzx"
+--tape-sum b9d904755fd0bfbfaf839e9c05b8bf92
+--start 1343
+--sim-load-config finish-tape=1

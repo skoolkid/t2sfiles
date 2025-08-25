@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016230/SaltoDeDama.tzx.zip
+--tape-name "SaltoDeDama.tzx"
+--tape-sum cde16f1a873dbaaae3db90fde03272b6
+--start 1343
+--sim-load-config finish-tape=1

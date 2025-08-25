@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016378/Igloo.tzx.zip
+--tape-name "Igloo.tzx"
+--tape-sum c115fc5e2e8b9b399f96d1d2cda1c583
+--start 1343
+--sim-load-config finish-tape=1

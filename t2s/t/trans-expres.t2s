@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016424/TransExpres.tzx.zip
+--tape-name "TransExpres.tzx"
+--tape-sum f5d6e86139d88ecd95cda777266b357a
+--start 1343
+--sim-load-config finish-tape=1

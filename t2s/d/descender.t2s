@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016345/Descender.tzx.zip
+--tape-name "Descender.tzx"
+--tape-sum df194ac8247d9e774ea148f4ceb20552
+--start 1343
+--sim-load-config finish-tape=1

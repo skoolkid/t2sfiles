@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016390/Gloton.tzx.zip
+--tape-name "Gloton.tzx"
+--tape-sum 78e24e2b34901cad0493257b643c6c95
+--start 1343
+--sim-load-config finish-tape=1

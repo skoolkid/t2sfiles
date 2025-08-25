@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016330/AscensorEl.tzx.zip
+--tape-name "AscensorEl.tzx"
+--tape-sum 1e599f36b6440ff49a60c10ce6f40f3f
+--start 1343
+--sim-load-config finish-tape=1

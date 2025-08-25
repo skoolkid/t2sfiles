@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016403/Oroset.tzx.zip
+--tape-name "Oroset.tzx"
+--tape-sum 6cd50fb23cd939e194a7d6a7999737ce
+--start 1343
+--sim-load-config finish-tape=1

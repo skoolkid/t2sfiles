@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016222/Gugu.tzx.zip
+--tape-name "Gugu.tzx"
+--tape-sum 3043a2fdd90825155b2001504c581cdf
+--start 1343
+--sim-load-config finish-tape=1

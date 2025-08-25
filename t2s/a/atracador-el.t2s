@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016352/AtracadorEl.tzx.zip
+--tape-name "AtracadorEl.tzx"
+--tape-sum ec6c7fe2630c3979700bc0d67e4af0b8
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016329/Troglodita.tzx.zip
+--tape-name "Troglodita.tzx"
+--tape-sum eafd6dbbb3414643949f4609e4683d56
+--start 1343
+--sim-load-config finish-tape=1

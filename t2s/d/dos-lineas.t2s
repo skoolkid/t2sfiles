@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016253/DosLineas.tzx.zip
+--tape-name "DosLineas.tzx"
+--tape-sum 2785ec5f17bc43cb502033b52f2eeed9
+--start 1343
+--sim-load-config finish-tape=1

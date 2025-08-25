@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016377/Alger.tzx.zip
+--tape-name "Alger.tzx"
+--tape-sum 38eaa925efa3a394f4fda5cf39dd6309
+--start 1343
+--sim-load-config finish-tape=1

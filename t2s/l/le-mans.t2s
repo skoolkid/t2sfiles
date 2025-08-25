@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016367/LeMans.tzx.zip
+--tape-name "LeMans.tzx"
+--tape-sum d463bd0135a91b1e2c06c3233e4eb028
+--start 1343
+--sim-load-config finish-tape=1

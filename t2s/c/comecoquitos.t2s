@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016265/Comecoquitos.tzx.zip
+--tape-name "Comecoquitos.tzx"
+--tape-sum 9a194e11b4106891a46313dcbe93eda0
+--start 1343
+--sim-load-config finish-tape=1

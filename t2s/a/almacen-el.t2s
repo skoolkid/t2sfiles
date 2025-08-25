@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016371/AlmacenEl.tzx.zip
+--tape-name "AlmacenEl.tzx"
+--tape-sum 215bfbc05a1c27b27ae0e3fc759405c8
+--start 1343
+--sim-load-config finish-tape=1

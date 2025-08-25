@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016376/LaberintoDeLemnosEl.tzx.zip
+--tape-name "LaberintoDeLemnosEl.tzx"
+--tape-sum 50b0691d796f5f9f0b26a908c8a07554
+--start 1343
+--sim-load-config finish-tape=1

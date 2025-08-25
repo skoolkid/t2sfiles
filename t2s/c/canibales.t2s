@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016382/Canibales.tzx.zip
+--tape-name "Canibales.tzx"
+--tape-sum 7f5958edc31b46bf3b237a920a3d2c7e
+--start 1343
+--sim-load-config finish-tape=1

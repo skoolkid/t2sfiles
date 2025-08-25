@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044446/BreakSpace.tap.zip
+--tape-name "BreakSpace.tap"
+--tape-sum 7837f608f18a2de45498736f16a39357
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016281/VueltaCiclista.tzx.zip
+--tape-name "VueltaCiclista.tzx"
+--tape-sum 40eca9dfeb27efa264fb1fa10ddcd9f1
+--start 1343
+--sim-load-config finish-tape=1

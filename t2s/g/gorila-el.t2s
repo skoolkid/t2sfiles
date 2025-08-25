@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016280/GorilaEl.tzx.zip
+--tape-name "GorilaEl.tzx"
+--tape-sum 6c622449eea94eb0156817d01c84acee
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016282/Otelo.tzx.zip
+--tape-name "Otelo.tzx"
+--tape-sum 487fd3b60a9604af0847d070cf1e725e
+--start 1343
+--sim-load-config finish-tape=1

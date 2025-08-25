@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016241/TorresDeHanoiLas.tzx.zip
+--tape-name "TorresDeHanoiLas.tzx"
+--tape-sum 78b44b4d5d2fde89d58cb1c84423af4b
+--start 1343
+--sim-load-config finish-tape=1

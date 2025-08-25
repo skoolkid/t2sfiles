@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044434/DungeonsDragons.tzx.zip
+--tape-name "DungeonsDragons.tzx"
+--tape-sum 8ab39bae3643234dde79520f50f526ea
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

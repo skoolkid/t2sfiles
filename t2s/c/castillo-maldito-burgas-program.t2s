@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0017763/CastilloMaldito.tzx.zip
+--tape-name "CastilloMaldito.tzx"
+--tape-sum 1c316e02f7c34e369dff22d4054c7e54
+--start 1343
+--sim-load-config finish-tape=1

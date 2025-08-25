@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016379/FontaneroEl.tzx.zip
+--tape-name "FontaneroEl.tzx"
+--tape-sum 7c0ad95be8ea0511cf3ff4a24eb9edd2
+--start 1343
+--sim-load-config finish-tape=1

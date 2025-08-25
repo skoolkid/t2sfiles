@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016278/ComeEstrellas.tzx.zip
+--tape-name "ComeEstrellas.tzx"
+--tape-sum adbffc3f95c692f4c512a2aa3808bb7a
+--start 1343
+--sim-load-config finish-tape=1

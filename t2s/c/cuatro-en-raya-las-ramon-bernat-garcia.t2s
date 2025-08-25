@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016275/CuatroEnRayaLas.tzx.zip
+--tape-name "CuatroEnRayaLas.tzx"
+--tape-sum cfa860e92e3e72b5b54b664c7d0a1da7
+--start 1343
+--sim-load-config finish-tape=1

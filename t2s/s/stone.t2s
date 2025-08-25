@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016297/Stone.tzx.zip
+--tape-name "Stone.tzx"
+--tape-sum ce29caaf2014df4f192dcf097cda9b81
+--start 1343
+--sim-load-config finish-tape=1

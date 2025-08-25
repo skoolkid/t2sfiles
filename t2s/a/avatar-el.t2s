@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016233/AvatarEl.tzx.zip
+--tape-name "AvatarEl.tzx"
+--tape-sum ca819ce559742b66c452872cd40c17e3
+--start 1343
+--sim-load-config finish-tape=1

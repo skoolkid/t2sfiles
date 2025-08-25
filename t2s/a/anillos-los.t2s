@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016353/AnillosLos.tzx.zip
+--tape-name "AnillosLos.tzx"
+--tape-sum 49d237135f8485f60823586569d22adc
+--start 1343
+--sim-load-config finish-tape=1

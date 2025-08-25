@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016348/TortugaLa.tzx.zip
+--tape-name "TortugaLa.tzx"
+--tape-sum 9b26c9faa57eaf9e80df29a845bf6ced
+--start 1343
+--sim-load-config finish-tape=1

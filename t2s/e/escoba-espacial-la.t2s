@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016322/EscobaEspacialLa.tzx.zip
+--tape-name "EscobaEspacialLa.tzx"
+--tape-sum 074d62bd1e19095c0649c62f3dbf2908
+--start 1343
+--sim-load-config finish-tape=1

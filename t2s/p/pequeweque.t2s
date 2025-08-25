@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016429/Pequeweque.tzx.zip
+--tape-name "Pequeweque.tzx"
+--tape-sum 6688413684618f17f8f1f07a54d454a3
+--start 1343
+--sim-load-config finish-tape=1

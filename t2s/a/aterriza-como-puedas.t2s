@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016226/AterrizaComoPuedas.tzx.zip
+--tape-name "AterrizaComoPuedas.tzx"
+--tape-sum fe1c351e5d172bf5ff8f11884a1365a4
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016269/Ordenaletras.tzx.zip
+--tape-name "Ordenaletras.tzx"
+--tape-sum 5ee9f37abb68228f8b83ab206f473dd1
+--start 1343
+--sim-load-config finish-tape=1

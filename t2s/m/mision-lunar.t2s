@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016245/MisionLunar.tzx.zip
+--tape-name "MisionLunar.tzx"
+--tape-sum 389310edd8877a7a50dea796d1fcd07e
+--start 1343
+--sim-load-config finish-tape=1

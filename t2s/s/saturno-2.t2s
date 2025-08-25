@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016426/Saturno2.tzx.zip
+--tape-name "Saturno2.tzx"
+--tape-sum 81aad97a632f7a17b3bb8c6fe9ea32fc
+--start 1343
+--sim-load-config finish-tape=1

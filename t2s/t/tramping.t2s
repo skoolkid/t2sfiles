@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016419/Tramping.tzx.zip
+--tape-name "Tramping.tzx"
+--tape-sum b4cfad78659b72f03f29b5f618c98b6a
+--start 1343
+--sim-load-config finish-tape=1

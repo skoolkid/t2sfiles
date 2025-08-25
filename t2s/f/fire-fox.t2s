@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016375/FireFox.tzx.zip
+--tape-name "FireFox.tzx"
+--tape-sum bbb4d0b9294a4b77f72502784ced3082
+--start 1343
+--sim-load-config finish-tape=1

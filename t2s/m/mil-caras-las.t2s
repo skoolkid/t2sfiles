@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016272/MilCarasLas.tzx.zip
+--tape-name "MilCarasLas.tzx"
+--tape-sum 5f91263f372cc875a9d00fb06d032c88
+--start 1343
+--sim-load-config finish-tape=1

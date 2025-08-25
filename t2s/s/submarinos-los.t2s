@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016293/SubmarinosLos.tzx.zip
+--tape-name "SubmarinosLos.tzx"
+--tape-sum 398be79d246a3a9010d1068d21ac6f0f
+--start 1343
+--sim-load-config finish-tape=1

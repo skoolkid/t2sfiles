@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016393/Krakatoa.tzx.zip
+--tape-name "Krakatoa.tzx"
+--tape-sum d3b617c7fd4dc16b8b71df69ad03c285
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016344/Trifidos.tzx.zip
+--tape-name "Trifidos.tzx"
+--tape-sum 747baaa08806a46d5c6dbb8265a283a0
+--start 1343
+--sim-load-config finish-tape=1

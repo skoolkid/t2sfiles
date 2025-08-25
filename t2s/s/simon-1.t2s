@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016228/Simon[1].tzx.zip
+--tape-name "Simon[1].tzx"
+--tape-sum ff8abf6468dafd32f188c24c69e212f0
+--start 1343
+--sim-load-config finish-tape=1

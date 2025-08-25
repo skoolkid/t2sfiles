@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016623/CrimenPerfecto.tzx.zip
+--tape-name "CrimenPerfecto.tzx"
+--tape-sum 78762fadcee2bf23f0df4643cbecd6e0
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016289/CuboRubik.tzx.zip
+--tape-name "CuboRubik.tzx"
+--tape-sum 6e9a58284a28d9154206597c7b8ce1c7
+--start 1343
+--sim-load-config finish-tape=1

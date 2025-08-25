@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016368/LoteriaPrimitiva.tzx.zip
+--tape-name "LoteriaPrimitiva.tzx"
+--tape-sum 4814b078a6ccd74001e6f3db2e098fc4
+--start 1343
+--sim-load-config finish-tape=1

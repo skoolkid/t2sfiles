@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016331/SchoolBus.tzx.zip
+--tape-name "SchoolBus.tzx"
+--tape-sum 26fd751c99c1b55cbca7a4aa6361aea9
+--start 1343
+--sim-load-config finish-tape=1

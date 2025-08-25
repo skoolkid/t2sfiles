@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016370/Montecarlo.tzx.zip
+--tape-name "Montecarlo.tzx"
+--tape-sum fe7f064fceeb13fec375d1defa3ce829
+--start 1343
+--sim-load-config finish-tape=1

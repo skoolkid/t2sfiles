@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016358/Boggle.tzx.zip
+--tape-name "Boggle.tzx"
+--tape-sum 51cca15359387869a23c6d96d0b82242
+--start 1343
+--sim-load-config finish-tape=1

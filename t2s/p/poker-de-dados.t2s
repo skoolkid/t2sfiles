@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016257/PokerDeDados.tzx.zip
+--tape-name "PokerDeDados.tzx"
+--tape-sum a08aef78ebc923bf38c5529e1a05bd90
+--start 1343
+--sim-load-config finish-tape=1

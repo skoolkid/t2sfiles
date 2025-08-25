@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016256/TorresLas.tzx.zip
+--tape-name "TorresLas.tzx"
+--tape-sum d4f76b75205ec98c97932e4bdf7309a7
+--start 1343
+--sim-load-config finish-tape=1

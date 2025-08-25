@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016244/Zamp.tzx.zip
+--tape-name "Zamp.tzx"
+--tape-sum 99ffd4bc0b724fcb5d4acc436b322e9c
+--start 1343
+--sim-load-config finish-tape=1

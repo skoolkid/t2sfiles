@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016304/Puntos.tzx.zip
+--tape-name "Puntos.tzx"
+--tape-sum 4c39085aea84c7eddebd087596032c00
+--start 1343
+--sim-load-config finish-tape=1

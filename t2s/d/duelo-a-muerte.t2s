@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016227/DueloAMuerte.tzx.zip
+--tape-name "DueloAMuerte.tzx"
+--tape-sum 80be4610152d2f357135a427f11ea70a
+--start 1343
+--sim-load-config finish-tape=1

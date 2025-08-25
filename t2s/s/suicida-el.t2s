@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016285/SuicidaEl.tzx.zip
+--tape-name "SuicidaEl.tzx"
+--tape-sum 0b64ffb528f92699a563397b97fd9b67
+--start 1343
+--sim-load-config finish-tape=1

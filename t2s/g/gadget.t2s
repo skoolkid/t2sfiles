@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016324/Gadget.tzx.zip
+--tape-name "Gadget.tzx"
+--tape-sum f24bef8df5b78d0a8aa27027ad437b4d
+--start 1343
+--sim-load-config finish-tape=1

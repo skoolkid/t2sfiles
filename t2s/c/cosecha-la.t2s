@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016351/CosechaLa.tzx.zip
+--tape-name "CosechaLa.tzx"
+--tape-sum e7cde0f3612a749c7794d9378c9347bd
+--start 1343
+--sim-load-config finish-tape=1

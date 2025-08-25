@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016259/AhorcadoEl.tzx.zip
+--tape-name "AhorcadoEl.tzx"
+--tape-sum 10d3808522bd16c804c461c5646f1920
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016234/CochesLocosLos.tzx.zip
+--tape-name "CochesLocosLos.tzx"
+--tape-sum 961689e1649b67f5400ad462cb6b6b03
+--start 1343
+--sim-load-config finish-tape=1

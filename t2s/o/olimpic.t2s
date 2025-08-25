@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016413/Olimpic.tzx.zip
+--tape-name "Olimpic.tzx"
+--tape-sum f7c56627efa015275e3857b4511c169e
+--start 1343
+--sim-load-config finish-tape=1

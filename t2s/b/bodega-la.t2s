@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016313/BodegaLa.tzx.zip
+--tape-name "BodegaLa.tzx"
+--tape-sum a22af1f5c0197f1f9255b875bbe48707
+--start 1343
+--sim-load-config finish-tape=1

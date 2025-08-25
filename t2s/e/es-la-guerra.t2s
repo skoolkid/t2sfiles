@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016248/EsLaGuerra.tzx.zip
+--tape-name "EsLaGuerra.tzx"
+--tape-sum 03c15d100ee990f02e7ab10f9b27d6ea
+--start 1343
+--sim-load-config finish-tape=1

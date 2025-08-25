@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016369/Pinky.tzx.zip
+--tape-name "Pinky.tzx"
+--tape-sum 12bc01dcccd83ee1e13dcfc799c159ad
+--start 1343
+--sim-load-config finish-tape=1

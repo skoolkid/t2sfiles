@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0013931/IceBlock.tzx.zip
+--tape-name "IceBlock.tzx"
+--tape-sum 5fc66fcfa92f1d106cd85e5fb9baae36
+--start 1343
+--sim-load-config finish-tape=1

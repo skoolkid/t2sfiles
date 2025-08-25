@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016319/EnBuscaDelTesoro.tzx.zip
+--tape-name "EnBuscaDelTesoro.tzx"
+--tape-sum 8acff56e1e2bd60b74afebbead76c4f6
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016397/Intercambio.tzx.zip
+--tape-name "Intercambio.tzx"
+--tape-sum 0f7910c64e935b64d580060f4b96faab
+--start 1343
+--sim-load-config finish-tape=1

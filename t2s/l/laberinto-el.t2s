@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016235/LaberintoEl.tzx.zip
+--tape-name "LaberintoEl.tzx"
+--tape-sum 3d8ef084dd500f5876ad0636333e7796
+--start 1343
+--sim-load-config finish-tape=1

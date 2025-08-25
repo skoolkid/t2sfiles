@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044447/BreakSpaceHero.tap.zip
+--tape-name "BreakSpaceHero.tap"
+--tape-sum ac14d7cd0bdc617ad7118e9168c9a93d
+--start 1343
+--sim-load-config finish-tape=1

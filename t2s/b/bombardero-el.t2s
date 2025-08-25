@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016254/BombarderoEl.tzx.zip
+--tape-name "BombarderoEl.tzx"
+--tape-sum bf699d585d250b25c6d8c225e7267d9b
+--start 1343
+--sim-load-config finish-tape=1

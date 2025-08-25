@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016834/CristalOscuro.tzx.zip
+--tape-name "CristalOscuro.tzx"
+--tape-sum 90987a091ff0981149b27027c29c5459
+--start 1343
+--sim-load-config finish-tape=1

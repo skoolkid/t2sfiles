@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016417/AlmacenLunar.tzx.zip
+--tape-name "AlmacenLunar.tzx"
+--tape-sum 1184a10fa7b4c8949985100749a0d029
+--start 1343
+--sim-load-config finish-tape=1

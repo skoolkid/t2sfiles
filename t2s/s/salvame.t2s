@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016399/Salvame.tzx.zip
+--tape-name "Salvame.tzx"
+--tape-sum 617305223a2f41bc2fe21b0e40304ebb
+--start 1343
+--sim-load-config finish-tape=1

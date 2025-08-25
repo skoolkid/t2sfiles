@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016236/SkiAcuatico.tzx.zip
+--tape-name "SkiAcuatico.tzx"
+--tape-sum c72455446065bdc815430e80dd0d40d2
+--start 1343
+--sim-load-config finish-tape=1

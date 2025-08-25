@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016240/CopasEnNuevaYorkDe.tzx.zip
+--tape-name "CopasEnNuevaYorkDe.tzx"
+--tape-sum a8822444862b3f190b73d8455e0e9761
+--start 1343
+--sim-load-config finish-tape=1

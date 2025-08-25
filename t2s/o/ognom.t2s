@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016326/Ognom.tzx.zip
+--tape-name "Ognom.tzx"
+--tape-sum da85142a666d41e86895eac0b7e6201d
+--start 1343
+--sim-load-config finish-tape=1

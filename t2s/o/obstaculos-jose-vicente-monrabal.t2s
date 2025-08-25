@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016301/Obstaculos.tzx.zip
+--tape-name "Obstaculos.tzx"
+--tape-sum 0a74611970a1bced61155ab5a19fb790
+--start 1343
+--sim-load-config finish-tape=1

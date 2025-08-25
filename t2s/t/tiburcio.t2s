@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016372/Tiburcio.tzx.zip
+--tape-name "Tiburcio.tzx"
+--tape-sum ebaa69738942ad42837104e4437579a2
+--start 1343
+--sim-load-config finish-tape=1

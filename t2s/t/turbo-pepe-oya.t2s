@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016342/Turbo.tzx.zip
+--tape-name "Turbo.tzx"
+--tape-sum 9f0ee470c811fb35b27120bffa02868d
+--start 1343
+--sim-load-config finish-tape=1

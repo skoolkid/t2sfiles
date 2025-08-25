@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016360/PastorEl.tzx.zip
+--tape-name "PastorEl.tzx"
+--tape-sum 88fe627037353c8f10e6558fbb15634f
+--start 1343
+--sim-load-config finish-tape=1

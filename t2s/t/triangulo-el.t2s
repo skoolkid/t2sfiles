@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016621/TrianguloEl.tzx.zip
+--tape-name "TrianguloEl.tzx"
+--tape-sum 84264a48a8e15e320ac84e1c5a56fa2b
+--start 1343
+--sim-load-config finish-tape=1

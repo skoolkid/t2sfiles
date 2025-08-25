@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016251/Omegatrom.tzx.zip
+--tape-name "Omegatrom.tzx"
+--tape-sum 4da777b12dc3d47c529130fdea919ec3
+--start 1343
+--sim-load-config finish-tape=1

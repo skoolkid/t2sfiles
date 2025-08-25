@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016292/Buscapar.tzx.zip
+--tape-name "Buscapar.tzx"
+--tape-sum dfa8de0aaf31acd1eccd6761a56d7b19
+--start 1343
+--sim-load-config finish-tape=1

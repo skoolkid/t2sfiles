@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016385/RioKarate.tzx.zip
+--tape-name "RioKarate.tzx"
+--tape-sum 1c9525f6f8497e7a315e73a198220cee
+--start 1343
+--sim-load-config finish-tape=1

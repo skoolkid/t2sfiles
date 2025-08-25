@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016295/Adivinalo.tzx.zip
+--tape-name "Adivinalo.tzx"
+--tape-sum b6dee70f94a6a242d378b0bc09fc50ed
+--start 1343
+--sim-load-config finish-tape=1
