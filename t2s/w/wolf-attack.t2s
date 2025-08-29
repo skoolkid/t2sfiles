@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040509/WolfAttack.tap.zip
+--tape-name "WolfAttack.tap"
+--tape-sum 6d35ef16ab1b8145af174cf81565324a
+--start 1343
+--sim-load-config finish-tape=1

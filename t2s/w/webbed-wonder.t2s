@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040968/WebbedWonder.tap.zip
+--tape-name "WebbedWonder.tap"
+--tape-sum 946e152c7e8c692a1830bfca54b95df1
+--start 1343
+--sim-load-config finish-tape=1

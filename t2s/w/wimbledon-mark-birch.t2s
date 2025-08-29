@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044506/Wimbledon.tap.zip
+--tape-name "Wimbledon.tap"
+--tape-sum aeff8363fb4081ca6396c44686598d7a
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0017266/EvilRealmBugout.tzx.zip
+--tape-name "EvilRealmBugout.tzx"
+--tape-sum f88b48df87c9958a092d3d9c05744aa3
+--start 1343
+--tape-start 6
+--sim-load-config finish-tape=1

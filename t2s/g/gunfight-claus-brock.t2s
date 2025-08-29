@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044476/Gunfight.tap.zip
+--tape-name "Gunfight.tap"
+--tape-sum d95dd60539a4800ae6cbf0c18a08caaf
+--start 1343
+--sim-load-config finish-tape=1

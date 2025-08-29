@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044513/Mazy2.tzx.zip
+--tape-name "Mazy2.tzx"
+--tape-sum 53238e310c05d551a38bc2c1e9a9b326
+--start 24576
+--sim-load-config machine=128

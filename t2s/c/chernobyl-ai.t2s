@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044403/ChernobylAI.tap.zip
+--tape-name "ChernobylAI.tap"
+--tape-sum 482ad183c2ca922c01701fa8f53ef146
+--start 36549
+--sim-load-config machine=128

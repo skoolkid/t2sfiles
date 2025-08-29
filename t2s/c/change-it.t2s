@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0017136/ChangeIt.tap.zip
+--tape-name "ChangeIt.tap"
+--tape-sum d71be283835aa920fcc91ce07ebc5b89
+--start 1343
+--sim-load-config finish-tape=1

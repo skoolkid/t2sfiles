@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044514/GoForMoney2.tap.zip
+--tape-name "GoForMoney2.tap"
+--tape-sum 11ff0916656e4bdc493a6b7a3660608c
+--start 1343
+--sim-load-config finish-tape=1

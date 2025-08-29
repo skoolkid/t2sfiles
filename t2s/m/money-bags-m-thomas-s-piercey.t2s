@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044501/MoneyBags.tap.zip
+--tape-name "MoneyBags.tap"
+--tape-sum 3180092513f677bb79979ac2771e7a08
+--start 1343
+--tape-stop 3
+--sim-load-config finish-tape=1

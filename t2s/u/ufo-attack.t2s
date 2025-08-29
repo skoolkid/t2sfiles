@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044502/UFOAttack.tap.zip
+--tape-name "UFOAttack.tap"
+--tape-sum 1d2433971700fded79b4287ff60c509b
+--start 1343
+--tape-stop 3
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

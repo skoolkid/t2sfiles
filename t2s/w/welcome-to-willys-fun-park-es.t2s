@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044467/WelcomeToWillysFunPark(ES).tzx.zip
+--tape-name "WelcomeToWillysFunPark(ES).tzx"
+--tape-sum ad5393e462736dc34ee00079b7636c1c
+--start 32039
+--sim-load-config machine=128

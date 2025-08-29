@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0041040/Visitors.tap.zip
+--tape-name "Visitors.tap"
+--tape-sum 5a574ade44299181c0bcb15b160987ad
+--start 1343
+--sim-load-config finish-tape=1
