@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018585/CLiga1D.tzx.zip
+--tape-name "CLiga1D.tzx"
+--tape-sum 11a452c1f64acebda9df36f70a21e448
+--start 1343
+--sim-load-config finish-tape=1

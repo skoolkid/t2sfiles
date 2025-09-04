@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018550/Avion.tzx.zip
+--tape-name "Avion.tzx"
+--tape-sum 54b393e2896821e44ae6a18db00bbb9a
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024777/Captron.tzx.zip
+--tape-name "Captron.tzx"
+--tape-sum 28e5531344f9910eca28f782982d7c8a
+--start 1343
+--sim-load-config finish-tape=1

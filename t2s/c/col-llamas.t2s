@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018556/ColLlamas.tzx.zip
+--tape-name "ColLlamas.tzx"
+--tape-sum 206e2a9e7515b4833ac2c9f2dd59e2bf
+--start 1343
+--sim-load-config finish-tape=1

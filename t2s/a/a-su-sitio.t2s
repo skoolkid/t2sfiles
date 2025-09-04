@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018219/A-Su-Sitio.tzx.zip
+--tape-name "A-Su-Sitio.tzx"
+--tape-sum 055c47e7e5ad885da4450be1f92e729b
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018562/Aster.tzx.zip
+--tape-name "Aster.tzx"
+--tape-sum 3fefb43c46778ce0c0543d2a3a9f548f
+--start 1343
+--sim-load-config finish-tape=1

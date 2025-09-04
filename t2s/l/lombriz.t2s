@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018017/Lombriz.tzx.zip
+--tape-name "Lombriz.tzx"
+--tape-sum 3ee121000d284a1b5f020f271a1b5c6a
+--start 1343
+--sim-load-config finish-tape=1

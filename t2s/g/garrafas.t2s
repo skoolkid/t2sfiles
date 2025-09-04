@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024741/Garrafas.tzx.zip
+--tape-name "Garrafas.tzx"
+--tape-sum 6e27e0612f3827465eace647647b6a33
+--start 1343
+--sim-load-config finish-tape=1

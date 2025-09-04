@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018569/Basurero.tzx.zip
+--tape-name "Basurero.tzx"
+--tape-sum c5ca8f58efbdf868165e654ae33f3dcd
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024775/Franky.tzx.zip
+--tape-name "Franky.tzx"
+--tape-sum 1481398e6e1614a86bdf2234362e7f8a
+--start 1343
+--sim-load-config finish-tape=1

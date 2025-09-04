@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018548/Tombola.tzx.zip
+--tape-name "Tombola.tzx"
+--tape-sum 40252e7d39dd6c435b7b438f6675cb58
+--start 1343
+--sim-load-config finish-tape=1

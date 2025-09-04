@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018604/Vigilante.tzx.zip
+--tape-name "Vigilante.tzx"
+--tape-sum fe4e7b456c324e7d03ae4cd91ffb63e2
+--start 1343
+--sim-load-config finish-tape=1

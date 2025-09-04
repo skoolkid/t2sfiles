@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018005/Comedolars.tzx.zip
+--tape-name "Comedolars.tzx"
+--tape-sum 9cd48c09274b698d702eb682b1a6a2e4
+--start 1343
+--sim-load-config finish-tape=1

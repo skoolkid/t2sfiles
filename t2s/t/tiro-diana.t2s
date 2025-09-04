@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018594/TiroDiana.tzx.zip
+--tape-name "TiroDiana.tzx"
+--tape-sum 145092ba63137344af818cea9a44d35d
+--start 1343
+--sim-load-config finish-tape=1

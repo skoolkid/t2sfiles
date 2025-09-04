@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0009456/Accidente.tzx.zip
+--tape-name "Accidente.tzx"
+--tape-sum cf2ed5f99f04fd106d09fadb92b25947
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

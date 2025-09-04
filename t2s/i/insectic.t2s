@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024720/Insectic.tzx.zip
+--tape-name "Insectic.tzx"
+--tape-sum 0a4d12b13b7049328fb63db856bf2eca
+--start 1343
+--sim-load-config finish-tape=1

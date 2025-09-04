@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018614/Aventuras.tzx.zip
+--tape-name "Aventuras.tzx"
+--tape-sum db2974c5c7c22d93ecaedf493e8514fc
+--start 1343
+--sim-load-config finish-tape=1

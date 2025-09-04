@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018506/Tiburon.tzx.zip
+--tape-name "Tiburon.tzx"
+--tape-sum 74318c6802ad9e3bf6554d958f831bee
+--start 1343
+--sim-load-config finish-tape=1

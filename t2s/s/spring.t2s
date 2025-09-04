@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018510/Spring.tzx.zip
+--tape-name "Spring.tzx"
+--tape-sum c9b9772dc4959f4763de6c15d4d75816
+--start 1343
+--sim-load-config finish-tape=1

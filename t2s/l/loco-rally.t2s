@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018473/Loco-Rally.tzx.zip
+--tape-name "Loco-Rally.tzx"
+--tape-sum b07618f2e31069e718dba35ab1eb83e3
+--start 1343
+--sim-load-config finish-tape=1

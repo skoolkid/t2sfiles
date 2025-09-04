@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024071/Ondas.tzx.zip
+--tape-name "Ondas.tzx"
+--tape-sum e29193138e1b14803a89121803c16f7c
+--start 1343
+--sim-load-config finish-tape=1

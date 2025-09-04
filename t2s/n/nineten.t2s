@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024678/Nineten.tzx.zip
+--tape-name "Nineten.tzx"
+--tape-sum c0a5ffa11354dd4cbf2625ff5e0da8c4
+--start 1343
+--sim-load-config finish-tape=1

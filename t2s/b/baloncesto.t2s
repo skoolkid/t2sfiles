@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018605/Baloncesto.tzx.zip
+--tape-name "Baloncesto.tzx"
+--tape-sum d05847c86a2d56e491240f3d908c1c6f
+--start 1343
+--sim-load-config finish-tape=1

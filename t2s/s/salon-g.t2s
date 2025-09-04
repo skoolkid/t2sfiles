@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018549/SalonG.tzx.zip
+--tape-name "SalonG.tzx"
+--tape-sum 2d566a62f62f443f2610fa5f2090f8b3
+--start 1343
+--sim-load-config finish-tape=1

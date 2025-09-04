@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0017966/Artillero.tzx.zip
+--tape-name "Artillero.tzx"
+--tape-sum a88ef4cb00eb5c9c328cfcfdcf01fdfb
+--start 1343
+--sim-load-config finish-tape=1

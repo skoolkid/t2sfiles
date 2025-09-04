@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018068/Crono-Desp.tzx.zip
+--tape-name "Crono-Desp.tzx"
+--tape-sum dff0350066cae0446ef806c23b825c5d
+--start 1343
+--sim-load-config finish-tape=1

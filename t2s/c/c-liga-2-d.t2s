@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018586/CLiga2D.tzx.zip
+--tape-name "CLiga2D.tzx"
+--tape-sum cc777e7a2c867ada540cc67c1a1faeb4
+--start 1343
+--sim-load-config finish-tape=1

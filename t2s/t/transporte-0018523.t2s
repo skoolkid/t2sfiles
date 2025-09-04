@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018523/Transporte.tzx.zip
+--tape-name "Transporte.tzx"
+--tape-sum c6f40d3a8cb04121f57cd8119f65f34a
+--start 1343
+--sim-load-config finish-tape=1

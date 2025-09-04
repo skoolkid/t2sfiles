@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018568/TiroAlP.tzx.zip
+--tape-name "TiroAlP.tzx"
+--tape-sum fe79115aa1940d2327c061653d402caf
+--start 1343
+--sim-load-config finish-tape=1

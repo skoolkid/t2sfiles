@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0017989/CicloDe4Tiempos.tzx.zip
+--tape-name "CicloDe4Tiempos.tzx"
+--tape-sum b604c424ef65e7998c4566f0bcd5b969
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018034/Arqueologo.tzx.zip
+--tape-name "Arqueologo.tzx"
+--tape-sum b42040e94d3ec044fd62f73c2757317b
+--start 1343
+--sim-load-config finish-tape=1

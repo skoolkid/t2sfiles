@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024747/Bits.tzx.zip
+--tape-name "Bits.tzx"
+--tape-sum 29d2322d4dd3d4168b0c544078f63225
+--start 1343
+--sim-load-config finish-tape=1

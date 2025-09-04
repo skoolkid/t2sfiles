@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018458/Pacman.tzx.zip
+--tape-name "Pacman.tzx"
+--tape-sum 66fdf75bb9126c85762053c4670781bc
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

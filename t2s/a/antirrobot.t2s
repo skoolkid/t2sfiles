@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0017993/Antirrobot.tzx.zip
+--tape-name "Antirrobot.tzx"
+--tape-sum 74114ec8df1a8c3177c51d9f59f285ed
+--start 1343
+--sim-load-config finish-tape=1

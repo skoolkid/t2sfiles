@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024756/Positron.tzx.zip
+--tape-name "Positron.tzx"
+--tape-sum 6bdbe9e4b14e981ff9dacdc58e6db46c
+--start 1343
+--sim-load-config finish-tape=1

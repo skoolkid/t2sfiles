@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018592/Aniquile.tzx.zip
+--tape-name "Aniquile.tzx"
+--tape-sum 35844107482f285dd047c1f6397bce06
+--start 1343
+--sim-load-config finish-tape=1

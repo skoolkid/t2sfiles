@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024075/Mansion.tzx.zip
+--tape-name "Mansion.tzx"
+--tape-sum 8a895f378c5c2a75d0950f748125ee4a
+--start 1343
+--sim-load-config finish-tape=1

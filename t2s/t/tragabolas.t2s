@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024070/Tragabolas.tzx.zip
+--tape-name "Tragabolas.tzx"
+--tape-sum f84adeba937b5840e7fe09ea6ac658f6
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018460/Telepatia.tzx.zip
+--tape-name "Telepatia.tzx"
+--tape-sum 70ba4d5a40ff1e308ef3d7f91806ac6b
+--start 1343
+--sim-load-config finish-tape=1

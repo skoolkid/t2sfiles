@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024068/Nevera.tzx.zip
+--tape-name "Nevera.tzx"
+--tape-sum 84b41a25596791afbdf0133fd412b768
+--start 1343
+--sim-load-config finish-tape=1

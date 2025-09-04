@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018490/Canodromo.tzx.zip
+--tape-name "Canodromo.tzx"
+--tape-sum 031a73ade33c84bd274aa763e07e6c79
+--start 1343
+--sim-load-config finish-tape=1

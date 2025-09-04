@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024686/Fantasma.tzx.zip
+--tape-name "Fantasma.tzx"
+--tape-sum 3bd0813fcdaaa264c2e75e2573791587
+--start 1343
+--sim-load-config finish-tape=1

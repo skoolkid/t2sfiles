@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018631/Nicolasa.tzx.zip
+--tape-name "Nicolasa.tzx"
+--tape-sum 451bf870d70a071b92d612150a5d013e
+--start 1343
+--sim-load-config finish-tape=1

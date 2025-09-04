@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018551/NNodriza.tzx.zip
+--tape-name "NNodriza.tzx"
+--tape-sum 28266df6d5a89f8d26e8ba6a3ab4e7e1
+--start 1343
+--sim-load-config finish-tape=1

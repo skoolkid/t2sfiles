@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024072/Gusano.tzx.zip
+--tape-name "Gusano.tzx"
+--tape-sum dd1df7220366d97981f1035a9e11aafe
+--start 1343
+--sim-load-config finish-tape=1

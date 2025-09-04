@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024733/Color.tzx.zip
+--tape-name "Color.tzx"
+--tape-sum 017fc6608890c92181158d67aae2d030
+--start 1343
+--sim-load-config finish-tape=1

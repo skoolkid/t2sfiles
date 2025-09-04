@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0017968/Bingo.tzx.zip
+--tape-name "Bingo.tzx"
+--tape-sum 370e1a2ab9b1c1a7c779f570ae1cf518
+--start 1343
+--sim-load-config finish-tape=1

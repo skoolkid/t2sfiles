@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018547/Boira.tzx.zip
+--tape-name "Boira.tzx"
+--tape-sum b3e4c60e31eb485fc35a4365a8530077
+--start 1343
+--sim-load-config finish-tape=1

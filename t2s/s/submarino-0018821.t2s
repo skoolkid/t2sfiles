@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018821/Submarino.tzx.zip
+--tape-name "Submarino.tzx"
+--tape-sum a6395b8ad157f18a23d01bb2c1627482
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018767/Tesoro.tzx.zip
+--tape-name "Tesoro.tzx"
+--tape-sum 7074711092433bd07bb9bb49112b5344
+--start 1343
+--sim-load-config finish-tape=1

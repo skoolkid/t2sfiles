@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018819/Hadford.tzx.zip
+--tape-name "Hadford.tzx"
+--tape-sum 1812a12701c9a51c0668349c5d52186e
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018024/MastermindColor.tzx.zip
+--tape-name "MastermindColor.tzx"
+--tape-sum 58f5cfb919f13168a90e94c3ff8596a1
+--start 1343
+--sim-load-config finish-tape=1

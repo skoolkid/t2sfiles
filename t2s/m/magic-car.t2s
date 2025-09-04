@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024757/Magic-Car.tzx.zip
+--tape-name "Magic-Car.tzx"
+--tape-sum 1732fe756e596b5e973297b1685799ce
+--start 1343
+--sim-load-config finish-tape=1

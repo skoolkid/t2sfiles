@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024053/Hotel.tzx.zip
+--tape-name "Hotel.tzx"
+--tape-sum 90f42897fb85524c2ba2530a18ea875c
+--start 1343
+--sim-load-config finish-tape=1

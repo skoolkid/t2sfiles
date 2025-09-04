@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018629/Policia.tzx.zip
+--tape-name "Policia.tzx"
+--tape-sum b092b08e122f9004119e900d6898b09e
+--start 1343
+--sim-load-config finish-tape=1

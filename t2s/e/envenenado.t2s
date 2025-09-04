@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018557/Envenenado.tzx.zip
+--tape-name "Envenenado.tzx"
+--tape-sum 16cfe68e1cf1f5d3eb2dce2c5deb717c
+--start 1343
+--sim-load-config finish-tape=1

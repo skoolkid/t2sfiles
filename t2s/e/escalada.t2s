@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018519/Escalada.tzx.zip
+--tape-name "Escalada.tzx"
+--tape-sum 9c2d2ee5004d37ec651bf91c7ed782a1
+--start 1343
+--sim-load-config finish-tape=1

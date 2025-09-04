@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024730/TransporteNocturno.tzx.zip
+--tape-name "TransporteNocturno.tzx"
+--tape-sum 37afc1a899a2d3c9d55ce86eb76efaa2
+--start 1343
+--sim-load-config finish-tape=1

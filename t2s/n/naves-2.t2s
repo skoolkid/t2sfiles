@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018495/Naves2.tzx.zip
+--tape-name "Naves2.tzx"
+--tape-sum 5dbfe61327b53b03e0b2486c5d2a6a38
+--start 1343
+--sim-load-config finish-tape=1

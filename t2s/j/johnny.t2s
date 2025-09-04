@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024754/Johnny.tzx.zip
+--tape-name "Johnny.tzx"
+--tape-sum 434ca20251a40a2b40de82d84764a78b
+--start 1343
+--sim-load-config finish-tape=1

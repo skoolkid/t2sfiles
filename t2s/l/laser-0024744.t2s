@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024744/Laser.tzx.zip
+--tape-name "Laser.tzx"
+--tape-sum 72801743253dd8a800466e9833f26c61
+--start 1343
+--sim-load-config finish-tape=1

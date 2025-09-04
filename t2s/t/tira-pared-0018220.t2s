@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018220/Tira-Pared.tzx.zip
+--tape-name "Tira-Pared.tzx"
+--tape-sum 6dd4540091de18b35dc00515e1100da2
+--start 1343
+--sim-load-config finish-tape=1

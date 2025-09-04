@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018539/Vaquero.tzx.zip
+--tape-name "Vaquero.tzx"
+--tape-sum 253b338319a5eeeadedf1da3a634ab38
+--start 1343
+--sim-load-config finish-tape=1

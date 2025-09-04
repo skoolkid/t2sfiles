@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018059/Creta.tzx.zip
+--tape-name "Creta.tzx"
+--tape-sum 5ee6505eaa6ad04d2b69661e658c417b
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024758/Foton.tzx.zip
+--tape-name "Foton.tzx"
+--tape-sum e932976566c366dc788e62d27e754533
+--start 1343
+--sim-load-config finish-tape=1

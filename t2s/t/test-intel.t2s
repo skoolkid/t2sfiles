@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018528/TestIntel.tzx.zip
+--tape-name "TestIntel.tzx"
+--tape-sum 360a49551a2e8a0b7e03887509bc4c59
+--start 1343
+--sim-load-config finish-tape=1

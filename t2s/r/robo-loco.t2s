@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018016/RoboLoco.tzx.zip
+--tape-name "RoboLoco.tzx"
+--tape-sum 9d06dcb4034684a72b0d4a6dfe9622cf
+--start 1343
+--sim-load-config finish-tape=1

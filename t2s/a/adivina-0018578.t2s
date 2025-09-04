@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018578/Adivina.tzx.zip
+--tape-name "Adivina.tzx"
+--tape-sum 53668bfc4e6aa50e31805d75a966a89a
+--start 1343
+--sim-load-config finish-tape=1

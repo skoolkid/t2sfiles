@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018514/Convoy.tzx.zip
+--tape-name "Convoy.tzx"
+--tape-sum 1624199caaa1e5c18113cede3920a6e9
+--start 1343
+--sim-load-config finish-tape=1

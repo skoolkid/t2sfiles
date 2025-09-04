@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016994/Anti-Misil.tzx.zip
+--tape-name "Anti-Misil.tzx"
+--tape-sum 18c1a21a462277d6cafc4433e9f2c606
+--start 1343
+--sim-load-config finish-tape=1

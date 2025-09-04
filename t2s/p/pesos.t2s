@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018055/Pesos.tzx.zip
+--tape-name "Pesos.tzx"
+--tape-sum 4ec67e584a46677eaaadf27032bf38ea
+--start 1343
+--sim-load-config finish-tape=1

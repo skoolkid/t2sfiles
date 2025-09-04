@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024715/Portero.tzx.zip
+--tape-name "Portero.tzx"
+--tape-sum 8489463d21f6b6695d986719ac4e3a0c
+--start 1343
+--sim-load-config finish-tape=1

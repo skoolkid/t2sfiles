@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018216/PresaLa.tzx.zip
+--tape-name "PresaLa.tzx"
+--tape-sum e55b5684f173efc57b3ed63b0c48949c
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024728/PolisYCacos.tzx.zip
+--tape-name "PolisYCacos.tzx"
+--tape-sum 251c7f346ae51457ddbb37d412d299ba
+--start 1343
+--sim-load-config finish-tape=1

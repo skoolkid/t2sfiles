@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018492/MisionAlfa.tzx.zip
+--tape-name "MisionAlfa.tzx"
+--tape-sum 99b1e2bf2b94f6c7fa3a4df79ce86206
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018077/NHP5.tzx.zip
+--tape-name "NHP5.tzx"
+--tape-sum 30ae6be85a1b2763c1300f7986185abe
+--start 1343
+--sim-load-config finish-tape=1

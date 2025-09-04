@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016639/Chessfire.tzx.zip
+--tape-name "Chessfire.tzx"
+--tape-sum 03b4dbece992077e436af60d40be18bc
+--start 1343
+--sim-load-config finish-tape=1

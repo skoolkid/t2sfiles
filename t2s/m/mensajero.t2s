@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018768/Mensajero.tzx.zip
+--tape-name "Mensajero.tzx"
+--tape-sum fd3eef818a039f5aab05a35e7acfd3e0
+--start 1343
+--sim-load-config finish-tape=1

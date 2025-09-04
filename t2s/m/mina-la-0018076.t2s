@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018076/MinaLa.tzx.zip
+--tape-name "MinaLa.tzx"
+--tape-sum 3f3e0fdb9fc855845615d6057828b023
+--start 1343
+--sim-load-config finish-tape=1

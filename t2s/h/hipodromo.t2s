@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018635/Hipodromo.tzx.zip
+--tape-name "Hipodromo.tzx"
+--tape-sum fa6f2d5150cb339967033672bc530c21
+--start 1343
+--sim-load-config finish-tape=1

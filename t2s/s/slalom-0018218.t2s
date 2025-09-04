@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018218/Slalom.tzx.zip
+--tape-name "Slalom.tzx"
+--tape-sum dbbec7af96c8b789d316f3e1ef225a39
+--start 1343
+--sim-load-config finish-tape=1

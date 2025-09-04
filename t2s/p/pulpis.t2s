@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024063/Pulpis.tzx.zip
+--tape-name "Pulpis.tzx"
+--tape-sum 647b4a112321e1306da23fcdb5fccb46
+--start 1343
+--sim-load-config finish-tape=1

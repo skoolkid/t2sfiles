@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018007/PuenteEl.tzx.zip
+--tape-name "PuenteEl.tzx"
+--tape-sum b99f420f1a01535c654079f812cd2abc
+--start 1343
+--sim-load-config finish-tape=1

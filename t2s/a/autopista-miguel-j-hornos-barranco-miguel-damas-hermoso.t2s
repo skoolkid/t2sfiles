@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018593/Autopista.tzx.zip
+--tape-name "Autopista.tzx"
+--tape-sum c96d530265e029fa90452017474ab6cb
+--start 1343
+--sim-load-config finish-tape=1

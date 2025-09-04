@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018476/Hundir.tzx.zip
+--tape-name "Hundir.tzx"
+--tape-sum e254f7bb19eff146d7d46ed41749bbc5
+--start 1343
+--sim-load-config finish-tape=1

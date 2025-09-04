@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018509/Atlanta.tzx.zip
+--tape-name "Atlanta.tzx"
+--tape-sum 5e821fd240ca5af4ebcd819c4bd582a8
+--start 1343
+--sim-load-config finish-tape=1

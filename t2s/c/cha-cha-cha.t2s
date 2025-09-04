@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0017963/Cha-Cha-Cha.tzx.zip
+--tape-name "Cha-Cha-Cha.tzx"
+--tape-sum 4af80e90609e112f9b1692ee4c038c81
+--start 1343
+--sim-load-config finish-tape=1

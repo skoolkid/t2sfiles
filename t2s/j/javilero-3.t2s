@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018513/Javilero3.tzx.zip
+--tape-name "Javilero3.tzx"
+--tape-sum f57c52f34a3a712ab4eecf3e88f4990e
+--start 1343
+--sim-load-config finish-tape=1

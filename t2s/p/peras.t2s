@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024771/Peras.tzx.zip
+--tape-name "Peras.tzx"
+--tape-sum 49014a7622c4bed91618850f932fac4a
+--start 1343
+--sim-load-config finish-tape=1

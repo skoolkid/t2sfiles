@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024054/Clavijas.tzx.zip
+--tape-name "Clavijas.tzx"
+--tape-sum 4588deecfe27360c17104d2fbf1dbb73
+--start 1343
+--sim-load-config finish-tape=1

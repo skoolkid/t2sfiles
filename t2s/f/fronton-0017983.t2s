@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0017983/Fronton.tzx.zip
+--tape-name "Fronton.tzx"
+--tape-sum 3a5b2a0c08f0b8ee812d953c45b8f570
+--start 1343
+--sim-load-config finish-tape=1

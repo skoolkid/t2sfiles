@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018048/400Metros.tzx.zip
+--tape-name "400Metros.tzx"
+--tape-sum 404f30546c44e621ad89cfe52e712744
+--start 1343
+--sim-load-config finish-tape=1

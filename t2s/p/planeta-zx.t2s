@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0017980/PlanetaZX.tzx.zip
+--tape-name "PlanetaZX.tzx"
+--tape-sum 431b97a27e4573da34edde086c9480e8
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018031/Pasillos.tzx.zip
+--tape-name "Pasillos.tzx"
+--tape-sum cc9b6a9fbe12aae3d4cba02a0caee599
+--start 1343
+--sim-load-config finish-tape=1

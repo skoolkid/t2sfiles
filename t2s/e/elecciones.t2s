@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018570/Elecciones.tzx.zip
+--tape-name "Elecciones.tzx"
+--tape-sum def18573697faa6981e6c7b3a61f8679
+--start 1343
+--sim-load-config finish-tape=1

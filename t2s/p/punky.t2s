@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024677/Punky.tzx.zip
+--tape-name "Punky.tzx"
+--tape-sum 972aac60c347b6129734b43284910694
+--start 1343
+--sim-load-config finish-tape=1

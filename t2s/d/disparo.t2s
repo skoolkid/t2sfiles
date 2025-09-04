@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018603/Disparo.tzx.zip
+--tape-name "Disparo.tzx"
+--tape-sum d00cc4ad6e03c36300bdc0f073604c64
+--start 1343
+--sim-load-config finish-tape=1

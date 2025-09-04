@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024062/Lluvia.tzx.zip
+--tape-name "Lluvia.tzx"
+--tape-sum 4a3dcd8a13cbfab628b55d60d0ba68ab
+--start 1343
+--sim-load-config finish-tape=1

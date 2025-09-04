@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044525/Kopana.tap.zip
+--tape-name "Kopana.tap"
+--tape-sum ea7f1ee7d7e77ee63f871eda33f7bc80
+--start 1343
+--sim-load-config finish-tape=1

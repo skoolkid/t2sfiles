@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018502/Batalla.tzx.zip
+--tape-name "Batalla.tzx"
+--tape-sum c7b5dd072e0968e4eab1dc46d8e900e1
+--start 1343
+--sim-load-config finish-tape=1

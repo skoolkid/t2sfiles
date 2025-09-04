@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024755/Mosquitos.tzx.zip
+--tape-name "Mosquitos.tzx"
+--tape-sum 5070c3b051c2745ad672b54ccc720bcf
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024735/Warlock.tzx.zip
+--tape-name "Warlock.tzx"
+--tape-sum 019e8f52b17e7087f53549855e61b2e5
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024069/Tran-Spain.tzx.zip
+--tape-name "Tran-Spain.tzx"
+--tape-sum 04bf399bfd0141f5900a37f48b315e6f
+--start 1343
+--sim-load-config finish-tape=1

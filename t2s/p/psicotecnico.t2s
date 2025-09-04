@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024065/Psicotecnico.tzx.zip
+--tape-name "Psicotecnico.tzx"
+--tape-sum 910e93db1f44c52cee1edfdf2a7a84b2
+--start 1343
+--sim-load-config finish-tape=1

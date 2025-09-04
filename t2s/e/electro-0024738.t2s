@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024738/Electro.tzx.zip
+--tape-name "Electro.tzx"
+--tape-sum 1459cd7c390d92b40491d198776252a9
+--start 1343
+--sim-load-config finish-tape=1

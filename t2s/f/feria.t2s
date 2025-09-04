@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018582/Feria.tzx.zip
+--tape-name "Feria.tzx"
+--tape-sum bbbadc1484e8930c8ea1407733e688e6
+--start 1343
+--sim-load-config finish-tape=1

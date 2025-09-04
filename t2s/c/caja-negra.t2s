@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018006/CajaNegra.tzx.zip
+--tape-name "CajaNegra.tzx"
+--tape-sum 602d1b2951be5e6c55f28ad22230c874
+--start 1343
+--sim-load-config finish-tape=1

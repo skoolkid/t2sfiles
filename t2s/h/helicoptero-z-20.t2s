@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018025/HelicopteroZ-20.tzx.zip
+--tape-name "HelicopteroZ-20.tzx"
+--tape-sum 21c6032f4088a82aa2d8c7528906b366
+--start 1343
+--sim-load-config finish-tape=1

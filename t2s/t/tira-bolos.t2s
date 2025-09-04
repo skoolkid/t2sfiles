@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018595/TiraBolos.tzx.zip
+--tape-name "TiraBolos.tzx"
+--tape-sum 427934802b6ddc79037fd40c28bf160f
+--start 1343
+--sim-load-config finish-tape=1

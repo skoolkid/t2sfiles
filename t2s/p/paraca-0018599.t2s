@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018599/Paraca.tzx.zip
+--tape-name "Paraca.tzx"
+--tape-sum 23c1c52f985b187676d6e74c34cd63c1
+--start 1343
+--sim-load-config finish-tape=1

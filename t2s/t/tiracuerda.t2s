@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0017990/Tiracuerda.tzx.zip
+--tape-name "Tiracuerda.tzx"
+--tape-sum 22c04380a1542a2695d13a9ca274b53b
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018518/Tabla.tzx.zip
+--tape-name "Tabla.tzx"
+--tape-sum 2e47908945a1edb5944830e863d5e1d9
+--start 1343
+--sim-load-config finish-tape=1

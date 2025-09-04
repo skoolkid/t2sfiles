@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024061/Grobs.tzx.zip
+--tape-name "Grobs.tzx"
+--tape-sum 85d7368a5c8c4cf8a8054aaf354c4729
+--start 1343
+--sim-load-config finish-tape=1

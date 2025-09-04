@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024684/GatoEl.tzx.zip
+--tape-name "GatoEl.tzx"
+--tape-sum e132f23c3d617a87037aedf6be773764
+--start 1343
+--sim-load-config finish-tape=1

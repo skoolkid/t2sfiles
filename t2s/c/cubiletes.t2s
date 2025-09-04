@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018044/Cubiletes.tzx.zip
+--tape-name "Cubiletes.tzx"
+--tape-sum 12e91cd86d9ab99a898b9047d1daeca8
+--start 1343
+--sim-load-config finish-tape=1

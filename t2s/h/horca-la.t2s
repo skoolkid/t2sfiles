@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018488/HorcaLa.tzx.zip
+--tape-name "HorcaLa.tzx"
+--tape-sum 34ad80c2790579e29fd2f03735eb87ab
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

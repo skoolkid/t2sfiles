@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018475/Invisible.tzx.zip
+--tape-name "Invisible.tzx"
+--tape-sum 27071b8515f9cfa08629f910ad900724
+--start 1343
+--sim-load-config finish-tape=1

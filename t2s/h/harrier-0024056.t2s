@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024056/Harrier.tzx.zip
+--tape-name "Harrier.tzx"
+--tape-sum 464f28b188962a0c3397e417f0111862
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024751/MineDrive.tzx.zip
+--tape-name "MineDrive.tzx"
+--tape-sum 3ac0886abc8d2619ee9c6a247698cd4a
+--start 1343
+--sim-load-config finish-tape=1

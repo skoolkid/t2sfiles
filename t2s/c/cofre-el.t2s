@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018769/CofreEl.tzx.zip
+--tape-name "CofreEl.tzx"
+--tape-sum 6bbbc0794ecd70c1b6945c54638b48a6
+--start 1343
+--sim-load-config finish-tape=1

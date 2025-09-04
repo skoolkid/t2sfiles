@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024769/Bi-Laser.tzx.zip
+--tape-name "Bi-Laser.tzx"
+--tape-sum 00ebdfa51809f0ea5bace71c59830d35
+--start 1343
+--sim-load-config finish-tape=1

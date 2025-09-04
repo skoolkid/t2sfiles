@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018554/Fly.tzx.zip
+--tape-name "Fly.tzx"
+--tape-sum c1bbf0670716176c6b79682d0445744c
+--start 1343
+--sim-load-config finish-tape=1

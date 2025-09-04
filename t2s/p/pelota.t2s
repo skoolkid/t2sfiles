@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024776/Pelota.tzx.zip
+--tape-name "Pelota.tzx"
+--tape-sum 8fa61e3501c1bfce49ba7cd66a901a6e
+--start 1343
+--sim-load-config finish-tape=1

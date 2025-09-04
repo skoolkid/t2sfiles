@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018520/Platillo.tzx.zip
+--tape-name "Platillo.tzx"
+--tape-sum 08d8fe3cab7aad207a2074b8606aa649
+--start 1343
+--sim-load-config finish-tape=1

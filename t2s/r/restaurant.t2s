@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018524/Restaurant.tzx.zip
+--tape-name "Restaurant.tzx"
+--tape-sum 071c4b3c317cb43bcf8b37722204759e
+--start 1343
+--sim-load-config finish-tape=1

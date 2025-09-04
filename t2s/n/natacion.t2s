@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024064/Natacion.tzx.zip
+--tape-name "Natacion.tzx"
+--tape-sum e6f41ffde4bd0a24b67fa6ec0fc8b95c
+--start 1343
+--sim-load-config finish-tape=1

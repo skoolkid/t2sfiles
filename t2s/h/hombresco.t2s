@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018626/Hombresco.tzx.zip
+--tape-name "Hombresco.tzx"
+--tape-sum 40a3fdd9671ed30959aabbbdfe895db0
+--start 1343
+--sim-load-config finish-tape=1

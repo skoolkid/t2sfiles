@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018814/Ratas.tzx.zip
+--tape-name "Ratas.tzx"
+--tape-sum c60837e4286d9ad7f5c442bdcb8956df
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018466/Scapa-Flow.tzx.zip
+--tape-name "Scapa-Flow.tzx"
+--tape-sum d7341a01d0eae69d0a8edd96c0b12f2d
+--start 1343
+--sim-load-config finish-tape=1

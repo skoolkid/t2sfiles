@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018813/ET.tzx.zip
+--tape-name "ET.tzx"
+--tape-sum 9c9ee01b986df183a106b58bf2c89997
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018530/Demonio.tzx.zip
+--tape-name "Demonio.tzx"
+--tape-sum e36c63c74e226479216c26acdf20d9ce
+--start 1343
+--sim-load-config finish-tape=1

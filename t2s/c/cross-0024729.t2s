@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024729/Cross.tzx.zip
+--tape-name "Cross.tzx"
+--tape-sum 6d50e2800e6521301f8418c61c467c5c
+--start 1343
+--sim-load-config finish-tape=1

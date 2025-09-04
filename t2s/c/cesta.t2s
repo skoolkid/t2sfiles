@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018480/Cesta.tzx.zip
+--tape-name "Cesta.tzx"
+--tape-sum f6be00006a208d79ad61e0845400ba69
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

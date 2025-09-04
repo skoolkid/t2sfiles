@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024759/Carnivora.tzx.zip
+--tape-name "Carnivora.tzx"
+--tape-sum 3b81ee66b3befe279c293595c851c5ee
+--start 1343
+--sim-load-config finish-tape=1

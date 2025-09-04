@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018628/Pasadizo.tzx.zip
+--tape-name "Pasadizo.tzx"
+--tape-sum f450c7225427084162d3d79e4cdaa3dd
+--start 1343
+--sim-load-config finish-tape=1

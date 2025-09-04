@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018043/Primitiva.tzx.zip
+--tape-name "Primitiva.tzx"
+--tape-sum 77036d8e0d92971df4c97f56cda332f1
+--start 1343
+--sim-load-config finish-tape=1

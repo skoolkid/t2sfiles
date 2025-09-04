@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018468/Pangolin.tzx.zip
+--tape-name "Pangolin.tzx"
+--tape-sum 628290ac6620cad0d501e4c6f1a84039
+--start 1343
+--sim-load-config finish-tape=1

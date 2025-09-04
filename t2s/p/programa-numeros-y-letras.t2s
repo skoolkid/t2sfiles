@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018075/ProgramaNumerosYLetras.tzx.zip
+--tape-name "ProgramaNumerosYLetras.tzx"
+--tape-sum 80bb68da24c28f9c5a138e5ae44307df
+--start 1343
+--sim-load-config finish-tape=1

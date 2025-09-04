@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018576/Tarantula.tzx.zip
+--tape-name "Tarantula.tzx"
+--tape-sum f38b14aed6716e0920893f70a8afce07
+--start 1343
+--sim-load-config finish-tape=1

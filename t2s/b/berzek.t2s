@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0017976/Berzek.tzx.zip
+--tape-name "Berzek.tzx"
+--tape-sum 47a9b7912bc1862681e535dadf5e76b8
+--start 1343
+--sim-load-config finish-tape=1

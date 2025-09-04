@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018072/Estrella.tzx.zip
+--tape-name "Estrella.tzx"
+--tape-sum e43f73ed946444b8a4a232eafefd337e
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018497/Comilon.tzx.zip
+--tape-name "Comilon.tzx"
+--tape-sum f0342fa7e0060a3e37b2989a1351d611
+--start 1343
+--sim-load-config finish-tape=1

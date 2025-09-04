@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018457/Lanzadera.tzx.zip
+--tape-name "Lanzadera.tzx"
+--tape-sum 42172994bbc9641d9fcf577eab7c67e3
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

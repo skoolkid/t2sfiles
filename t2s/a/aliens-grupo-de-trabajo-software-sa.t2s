@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0017988/Aliens.tzx.zip
+--tape-name "Aliens.tzx"
+--tape-sum 0464cbadc7cb9be3416d9d51a53375a0
+--start 1343
+--sim-load-config finish-tape=1

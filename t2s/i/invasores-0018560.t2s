@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018560/Invasores.tzx.zip
+--tape-name "Invasores.tzx"
+--tape-sum 938762ac5a5da48483625485e071572e
+--start 1343
+--sim-load-config finish-tape=1

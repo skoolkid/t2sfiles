@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024067/Cuco.tzx.zip
+--tape-name "Cuco.tzx"
+--tape-sum 3e15080bc18974a6fdfe3c9bd9d32229
+--start 1343
+--sim-load-config finish-tape=1

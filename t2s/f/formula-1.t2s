@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024740/Formula-1.tzx.zip
+--tape-name "Formula-1.tzx"
+--tape-sum d2d2ffe2d5833bb46a748f0620aba984
+--start 1343
+--sim-load-config finish-tape=1

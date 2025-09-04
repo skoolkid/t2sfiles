@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024722/Trox.tzx.zip
+--tape-name "Trox.tzx"
+--tape-sum 57e10075fb08b35c8f6d06f9270d90d6
+--start 1343
+--sim-load-config finish-tape=1

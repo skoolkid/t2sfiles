@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018004/FugaLa.tzx.zip
+--tape-name "FugaLa.tzx"
+--tape-sum 459d248f702ae753cda163df646f56c4
+--start 1343
+--sim-load-config finish-tape=1

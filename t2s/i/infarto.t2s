@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018026/Infarto.tzx.zip
+--tape-name "Infarto.tzx"
+--tape-sum b1478e49752c04f6b5b0b64f662105f7
+--start 1343
+--sim-load-config finish-tape=1

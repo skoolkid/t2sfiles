@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024716/Normandia.tzx.zip
+--tape-name "Normandia.tzx"
+--tape-sum 133d7650bccf3314e968bde4716690e0
+--start 1343
+--sim-load-config finish-tape=1

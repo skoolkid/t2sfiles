@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018598/Pesca.tzx.zip
+--tape-name "Pesca.tzx"
+--tape-sum 67f612ad3658658ed50fa38ec33b424e
+--start 1343
+--sim-load-config finish-tape=1

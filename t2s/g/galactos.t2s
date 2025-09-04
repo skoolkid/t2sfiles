@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018587/Galactos.tzx.zip
+--tape-name "Galactos.tzx"
+--tape-sum f5f7d486c316fcb6202437373abbb3c7
+--start 1343
+--sim-load-config finish-tape=1

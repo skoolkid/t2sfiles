@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024073/Cafe.tzx.zip
+--tape-name "Cafe.tzx"
+--tape-sum 788cfacb166d64a08503c76f94af1ef3
+--start 1343
+--sim-load-config finish-tape=1

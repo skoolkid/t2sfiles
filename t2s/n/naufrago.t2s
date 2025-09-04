@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018003/Naufrago.tzx.zip
+--tape-name "Naufrago.tzx"
+--tape-sum 09756b99a5c32d694e7626838a840e01
+--start 1343
+--sim-load-config finish-tape=1

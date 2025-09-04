@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018641/Pesp.tzx.zip
+--tape-name "Pesp.tzx"
+--tape-sum bf62644c828e87fd57438d1490dc546e
+--start 1343
+--sim-load-config finish-tape=1

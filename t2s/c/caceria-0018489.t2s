@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018489/Caceria.tzx.zip
+--tape-name "Caceria.tzx"
+--tape-sum 03e8206b7f1988611eefda7e89e5a2b7
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

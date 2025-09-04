@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018066/Mine-Field.tzx.zip
+--tape-name "Mine-Field.tzx"
+--tape-sum 2c41c98357d2ab7fde2d96f1a3836dff
+--start 1343
+--sim-load-config finish-tape=1

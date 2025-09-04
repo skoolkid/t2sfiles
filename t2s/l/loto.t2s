@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018602/Loto.tzx.zip
+--tape-name "Loto.tzx"
+--tape-sum 3add61fa04e01208ae1d8694efdee361
+--start 1343
+--sim-load-config finish-tape=1

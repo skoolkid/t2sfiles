@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018601/NaveLa.tzx.zip
+--tape-name "NaveLa.tzx"
+--tape-sum 6207e3af1cf4f6e4eb812d246b4dbdca
+--start 1343
+--sim-load-config finish-tape=1

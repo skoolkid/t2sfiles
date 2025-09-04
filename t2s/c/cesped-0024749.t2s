@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024749/Cesped.tzx.zip
+--tape-name "Cesped.tzx"
+--tape-sum 30514637be0bf360c02c15423f7715e4
+--start 1343
+--sim-load-config finish-tape=1

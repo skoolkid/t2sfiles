@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018535/Tragon.tzx.zip
+--tape-name "Tragon.tzx"
+--tape-sum 4b8847dc6f6ca12bc020aa1cebdc5e5e
+--start 1343
+--sim-load-config finish-tape=1

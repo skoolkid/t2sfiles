@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018565/Socarrado.tzx.zip
+--tape-name "Socarrado.tzx"
+--tape-sum bf57b00ea046839930b1babcc8a40fa3
+--start 1343
+--sim-load-config finish-tape=1

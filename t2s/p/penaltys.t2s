@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018637/Penaltys.tzx.zip
+--tape-name "Penaltys.tzx"
+--tape-sum 8d30b65d0b6d7bae71f6aee110f01aa1
+--start 1343
+--sim-load-config finish-tape=1

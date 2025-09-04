@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024680/Alienigenas.tzx.zip
+--tape-name "Alienigenas.tzx"
+--tape-sum 8462ce4b8a76b9cb1e0a2aad88641472
+--start 1343
+--sim-load-config finish-tape=1

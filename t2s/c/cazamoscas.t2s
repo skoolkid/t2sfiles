@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018002/Cazamoscas.tzx.zip
+--tape-name "Cazamoscas.tzx"
+--tape-sum 96834a3cc50bd4bf440512fdae923f94
+--start 1343
+--sim-load-config finish-tape=1

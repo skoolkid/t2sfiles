@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018042/Trueno.tzx.zip
+--tape-name "Trueno.tzx"
+--tape-sum c49bd4c01c0a70b127791ee71fee6377
+--start 1343
+--sim-load-config finish-tape=1

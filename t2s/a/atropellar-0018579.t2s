@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018579/Atropellar.tzx.zip
+--tape-name "Atropellar.tzx"
+--tape-sum 89a70d2b628be9f10fb35247b3fc91f0
+--start 1343
+--sim-load-config finish-tape=1

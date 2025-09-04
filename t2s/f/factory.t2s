@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024772/Factory.tzx.zip
+--tape-name "Factory.tzx"
+--tape-sum 61b826f9ae8376ac0b2b96a12d656415
+--start 1343
+--sim-load-config finish-tape=1

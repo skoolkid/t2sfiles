@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018559/Coche.tzx.zip
+--tape-name "Coche.tzx"
+--tape-sum 2159896ed2ff0a29eb83630c7be82276
+--start 1343
+--sim-load-config finish-tape=1

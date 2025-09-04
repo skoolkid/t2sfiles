@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0017967/Julio.tzx.zip
+--tape-name "Julio.tzx"
+--tape-sum 64726600614aa55d94bc0f312094c141
+--start 1343
+--sim-load-config finish-tape=1

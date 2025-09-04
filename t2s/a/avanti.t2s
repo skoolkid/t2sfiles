@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024766/Avanti.tzx.zip
+--tape-name "Avanti.tzx"
+--tape-sum c3d8349ab8e5e7c41cf49263b1b5da6b
+--start 1343
+--sim-load-config finish-tape=1

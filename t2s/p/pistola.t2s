@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018073/Pistola.tzx.zip
+--tape-name "Pistola.tzx"
+--tape-sum c0dd80de5f026213dc279b9c89d5935e
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024778/Ovni.tzx.zip
+--tape-name "Ovni.tzx"
+--tape-sum c1b21a783aca98ab64f5bc72b2690171
+--start 1343
+--sim-load-config finish-tape=1

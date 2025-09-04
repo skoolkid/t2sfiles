@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018214/Ciempies.tzx.zip
+--tape-name "Ciempies.tzx"
+--tape-sum 97436e1c833af9f99b17222bacde2cb4
+--start 1343
+--sim-load-config finish-tape=1

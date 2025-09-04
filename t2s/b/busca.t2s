@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024721/Busca.tzx.zip
+--tape-name "Busca.tzx"
+--tape-sum 6ad7aa0b5ddb18c20a6da56ba95f9c22
+--start 1343
+--sim-load-config finish-tape=1

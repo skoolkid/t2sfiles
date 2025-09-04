@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024774/Liner.tzx.zip
+--tape-name "Liner.tzx"
+--tape-sum e14ba0b7ad4d44f557fcb772d670a866
+--start 1343
+--sim-load-config finish-tape=1

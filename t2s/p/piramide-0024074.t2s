@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024074/Piramide.tzx.zip
+--tape-name "Piramide.tzx"
+--tape-sum df9adacf5504f05f77451c3b13bd5a29
+--start 1343
+--sim-load-config finish-tape=1

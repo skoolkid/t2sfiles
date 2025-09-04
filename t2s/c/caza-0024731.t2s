@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024731/Caza.tzx.zip
+--tape-name "Caza.tzx"
+--tape-sum a4b9313f0b3a70f742777bd5637fd090
+--start 1343
+--sim-load-config finish-tape=1

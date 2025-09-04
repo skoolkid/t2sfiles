@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024709/Bomba.tzx.zip
+--tape-name "Bomba.tzx"
+--tape-sum cbfead27e882ef856c01c6fcf94ba1db
+--start 1343
+--sim-load-config finish-tape=1

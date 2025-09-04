@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018455/Motocross.tzx.zip
+--tape-name "Motocross.tzx"
+--tape-sum 5899bfbe9c93e68bdfb63bb72102ec0d
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

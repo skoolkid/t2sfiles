@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018632/Fenix.tzx.zip
+--tape-name "Fenix.tzx"
+--tape-sum 96feef380af5941c081b654dc1be44f2
+--start 1343
+--sim-load-config finish-tape=1

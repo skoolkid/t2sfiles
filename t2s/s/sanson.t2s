@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018508/Sanson.tzx.zip
+--tape-name "Sanson.tzx"
+--tape-sum f1f2ed25ecf65bd87c40e3b3225821e2
+--start 1343
+--sim-load-config finish-tape=1

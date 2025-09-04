@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018069/PearlHarbour.tzx.zip
+--tape-name "PearlHarbour.tzx"
+--tape-sum e030b463947789e12363b7e0367561ca
+--start 1343
+--sim-load-config finish-tape=1

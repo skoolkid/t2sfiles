@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0017973/DominoMatch.tzx.zip
+--tape-name "DominoMatch.tzx"
+--tape-sum 800db0ae95708337602d977345aff020
+--start 1343
+--sim-load-config finish-tape=1

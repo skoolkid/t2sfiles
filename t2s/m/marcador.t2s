@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018639/Marcador.tzx.zip
+--tape-name "Marcador.tzx"
+--tape-sum 474165bde9830aa1cd36ae9c8d781fbc
+--start 1343
+--sim-load-config finish-tape=1

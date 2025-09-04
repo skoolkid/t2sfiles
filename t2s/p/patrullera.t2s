@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024055/Patrullera.tzx.zip
+--tape-name "Patrullera.tzx"
+--tape-sum b0396d39316357f81353cd51b37287a1
+--start 1343
+--sim-load-config finish-tape=1
