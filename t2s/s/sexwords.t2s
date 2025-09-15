@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0030133/Sexwords.tap.zip
+--tape-name "Sexwords.tap"
+--tape-sum 641f471ded6895eb59c600508f69ae2a
+--start 23900
+--sim-load-config 'load=CLEAR 65369: LOAD ""'
