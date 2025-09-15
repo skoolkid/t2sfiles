@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018208/Ruler.tzx.zip
+--tape-name "Ruler.tzx"
+--tape-sum 5e51d0932164c55f4a9270c4934f86ad
+--start 1343
+--sim-load-config finish-tape=1

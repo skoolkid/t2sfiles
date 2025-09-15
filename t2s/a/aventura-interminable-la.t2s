@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0020945/AventuraInterminableLa.tzx.zip
+--tape-name "AventuraInterminableLa.tzx"
+--tape-sum 6d1972405cb5ffb26d170b039319875d
+--start 1343
+--sim-load-config finish-tape=1

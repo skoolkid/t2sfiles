@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018196/Rollerball.tzx.zip
+--tape-name "Rollerball.tzx"
+--tape-sum 55c30ec62f8a0f79beb47ea5be86152f
+--start 1343
+--sim-load-config finish-tape=1

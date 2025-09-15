@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018263/Hunter.tzx.zip
+--tape-name "Hunter.tzx"
+--tape-sum 1e369ab652c00ed4320bdb3ec9e43f34
+--start 1343
+--sim-load-config finish-tape=1

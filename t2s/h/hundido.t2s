@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018228/Hundido.tzx.zip
+--tape-name "Hundido.tzx"
+--tape-sum 9694aeef4ae482a970270b7f16b40d80
+--start 1343
+--sim-load-config finish-tape=1

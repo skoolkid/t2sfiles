@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018250/TruenoAzulEl.tzx.zip
+--tape-name "TruenoAzulEl.tzx"
+--tape-sum 07ce57fd18b4a7f1ecaf03d023284553
+--start 1343
+--sim-load-config finish-tape=1

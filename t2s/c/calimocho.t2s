@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018277/Calimocho.tzx.zip
+--tape-name "Calimocho.tzx"
+--tape-sum c2ea3f0920fad9d6d721d3363a812ccc
+--start 1343
+--sim-load-config finish-tape=1

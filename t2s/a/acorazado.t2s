@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018242/Acorazado.tzx.zip
+--tape-name "Acorazado.tzx"
+--tape-sum e4101286142d498d42f85b45e2a6cd08
+--start 1343
+--sim-load-config finish-tape=1

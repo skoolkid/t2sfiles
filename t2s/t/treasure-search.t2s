@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018200/TreasureSearch.tzx.zip
+--tape-name "TreasureSearch.tzx"
+--tape-sum aada88725f2df446a2c2977cef023aa0
+--start 1343
+--sim-load-config finish-tape=1

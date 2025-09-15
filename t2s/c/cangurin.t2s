@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018230/Cangurin.tzx.zip
+--tape-name "Cangurin.tzx"
+--tape-sum 263f0b0bea9caf4c968ead486a3dac9a
+--start 1343
+--sim-load-config finish-tape=1

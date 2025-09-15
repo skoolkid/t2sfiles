@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018256/ElefanteEl.tzx.zip
+--tape-name "ElefanteEl.tzx"
+--tape-sum 6e3e54139481a0cdddf088891e0ee784
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016122/Duplex.tzx.zip
+--tape-name "Duplex.tzx"
+--tape-sum 288e8bcf33768e74235cfbea92fb664b
+--start 1343
+--sim-load-config finish-tape=1

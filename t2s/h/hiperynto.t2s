@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0002331/Hiperynto.tzx.zip
+--tape-name "Hiperynto.tzx"
+--tape-sum 744cc7991319ed752ea85ee1483318ad
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018238/MasterCubos.tzx.zip
+--tape-name "MasterCubos.tzx"
+--tape-sum 80e54a76dea93e751c016087e19f6632
+--start 1343
+--sim-load-config finish-tape=1

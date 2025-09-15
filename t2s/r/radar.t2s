@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018275/Radar.tzx.zip
+--tape-name "Radar.tzx"
+--tape-sum 079a7eb5734c2f8464d6180a161d2ce6
+--start 1343
+--sim-load-config finish-tape=1

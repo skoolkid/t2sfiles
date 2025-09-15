@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018262/Gusy.tzx.zip
+--tape-name "Gusy.tzx"
+--tape-sum 341978724b013d46a53a41628b349c47
+--start 1343
+--sim-load-config finish-tape=1

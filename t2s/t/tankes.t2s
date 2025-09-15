@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018272/Tankes.tzx.zip
+--tape-name "Tankes.tzx"
+--tape-sum 12e289c534c454afff11e4fa2ea0bed8
+--start 1343
+--sim-load-config finish-tape=1

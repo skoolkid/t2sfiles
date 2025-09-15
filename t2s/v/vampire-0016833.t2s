@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016833/Vampire.tzx.zip
+--tape-name "Vampire.tzx"
+--tape-sum c2ad2b8e864d8470b1f55b216ee51f24
+--start 1343
+--sim-load-config finish-tape=1

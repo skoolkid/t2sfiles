@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016120/Randax.tzx.zip
+--tape-name "Randax.tzx"
+--tape-sum 840f854d581089213ac1150ec18bb188
+--start 1343
+--sim-load-config finish-tape=1

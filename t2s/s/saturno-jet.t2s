@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018231/SaturnoJet.tzx.zip
+--tape-name "SaturnoJet.tzx"
+--tape-sum 0fb32c3b61caf8a6c76d03904f686a8f
+--start 1343
+--sim-load-config finish-tape=1

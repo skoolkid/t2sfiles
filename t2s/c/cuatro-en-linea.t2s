@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024789/CuatroEnLinea.tzx.zip
+--tape-name "CuatroEnLinea.tzx"
+--tape-sum 9a6d26a5a22205a6af39850e1a953d91
+--start 1343
+--sim-load-config finish-tape=1

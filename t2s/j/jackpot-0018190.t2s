@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018190/Jackpot.tzx.zip
+--tape-name "Jackpot.tzx"
+--tape-sum c9a3eed006ad5ac77643b92523102376
+--start 1343
+--sim-load-config finish-tape=1

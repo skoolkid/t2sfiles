@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018265/Evasion.tzx.zip
+--tape-name "Evasion.tzx"
+--tape-sum 4537589d924ebcf8dbb994957ec1d530
+--start 1343
+--sim-load-config finish-tape=1

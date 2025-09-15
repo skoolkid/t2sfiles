@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018278/TiraPared.tzx.zip
+--tape-name "TiraPared.tzx"
+--tape-sum 7a287d7b162d316b3b4b52a8c09d987f
+--start 1343
+--sim-load-config finish-tape=1

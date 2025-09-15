@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018203/MermaidEscape.tzx.zip
+--tape-name "MermaidEscape.tzx"
+--tape-sum f016cda48de08867512037bd681bede4
+--start 1343
+--sim-load-config finish-tape=1

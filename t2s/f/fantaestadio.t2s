@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024784/Fantaestadio.tzx.zip
+--tape-name "Fantaestadio.tzx"
+--tape-sum f49a86cdaa857573c7a6268af0e609df
+--start 1343
+--sim-load-config finish-tape=1

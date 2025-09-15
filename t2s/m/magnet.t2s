@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018267/Magnet.tzx.zip
+--tape-name "Magnet.tzx"
+--tape-sum 28173a1c6db7010109a65b82012a7ec8
+--start 1343
+--sim-load-config finish-tape=1

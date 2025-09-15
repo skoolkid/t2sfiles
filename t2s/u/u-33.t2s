@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016835/U-33.tzx.zip
+--tape-name "U-33.tzx"
+--tape-sum 2b8d268bccd018bb4483c8e5db87cd3c
+--start 1343
+--sim-load-config finish-tape=1

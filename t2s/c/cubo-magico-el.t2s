@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018244/CuboMagicoEl.tzx.zip
+--tape-name "CuboMagicoEl.tzx"
+--tape-sum cc833d751d5bf9e1e485af7a27622813
+--start 1343
+--sim-load-config finish-tape=1

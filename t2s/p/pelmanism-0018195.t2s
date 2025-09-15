@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018195/Pelmanism.tzx.zip
+--tape-name "Pelmanism.tzx"
+--tape-sum 3de4b6b6d80c3dcef0dc9d3d60978339
+--start 1343
+--sim-load-config finish-tape=1

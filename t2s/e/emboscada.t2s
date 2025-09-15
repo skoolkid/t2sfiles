@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018279/Emboscada.tzx.zip
+--tape-name "Emboscada.tzx"
+--tape-sum bac949519b54f187f765d7c7204236a2
+--start 1343
+--sim-load-config finish-tape=1

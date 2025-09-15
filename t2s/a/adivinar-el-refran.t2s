@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0017035/AdivinarElRefran.tzx.zip
+--tape-name "AdivinarElRefran.tzx"
+--tape-sum 1b35e8f5b2d948353dafe5839a903e10
+--start 1343
+--sim-load-config finish-tape=1

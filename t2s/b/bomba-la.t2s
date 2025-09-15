@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018237/BombaLa.tzx.zip
+--tape-name "BombaLa.tzx"
+--tape-sum 653123e434a1fda53bebdf7110adc491
+--start 1343
+--sim-load-config finish-tape=1

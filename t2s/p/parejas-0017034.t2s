@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0017034/Parejas.tzx.zip
+--tape-name "Parejas.tzx"
+--tape-sum 605b24cc1bf930e5c87a49041dd64472
+--start 1343
+--sim-load-config finish-tape=1

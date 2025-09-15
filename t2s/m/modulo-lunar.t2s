@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018235/ModuloLunar.tzx.zip
+--tape-name "ModuloLunar.tzx"
+--tape-sum b7c791948386d41eb5594722ea8f479c
+--start 1343
+--sim-load-config finish-tape=1

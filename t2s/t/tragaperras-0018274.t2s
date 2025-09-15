@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018274/Tragaperras.tzx.zip
+--tape-name "Tragaperras.tzx"
+--tape-sum c4d6de3853e6693b5abb2187a5fb1062
+--start 1343
+--sim-load-config finish-tape=1

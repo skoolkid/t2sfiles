@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018253/MotosDeLuz.tzx.zip
+--tape-name "MotosDeLuz.tzx"
+--tape-sum 1772ad37ee47acc086275c2fa8ae578a
+--start 1343
+--sim-load-config finish-tape=1
