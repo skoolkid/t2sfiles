@@ -45,7 +45,7 @@ language), that word goes at the end of the filename, e.g.
 two or more games with the same name, then one or more of the following
 suffixes may be appended to the filenames to distinguish them:
 
-* `-publisher` / `-author` (publisher or author)
+* `-NNNNNNN` (ZXDB ID, 0-padded to 7 digits)
 * `-release-*` / `-v*` (release/version number)
 * `-side-*`/ `-p*` (side number/letter or part number)
 * `-128k` (the 128K version of a 48K/128K game)
