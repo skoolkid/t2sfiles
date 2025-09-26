@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039267/ForestaStregataLa.tzx.zip
+--tape-name "ForestaStregataLa.tzx"
+--tape-sum a4717d76410494cc71d6be595e08a26a
+--start 1343
+--sim-load-config finish-tape=1

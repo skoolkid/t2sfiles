@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044557/ZXpider.tap.zip
+--tape-name "ZXpider.tap"
+--tape-sum 9c69a25ebe27d349a6795a930534efda
+--start 1343
+--sim-load-config finish-tape=1

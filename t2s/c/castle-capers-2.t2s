@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044549/CastleCapers2.tap.zip
+--tape-name "CastleCapers2.tap"
+--tape-sum 898ad2cd30d8c55299635250a11d588e
+--start 23316
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

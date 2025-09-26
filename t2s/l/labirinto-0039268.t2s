@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039268/Labirinto.tap.zip
+--tape-name "Labirinto.tap"
+--tape-sum dbfd294445772a2d254d8754504fa0fc
+--start 1343
+--sim-load-config finish-tape=1

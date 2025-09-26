@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039265/TreTopoliniCiechi.tap.zip
+--tape-name "TreTopoliniCiechi.tap"
+--tape-sum deb5ff3bd129fa742616ae851770f688
+--start 1343
+--sim-load-config finish-tape=1

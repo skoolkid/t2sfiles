@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044498/IndianaJonesAndTheFateOfAtlantis(EN).tap.zip
+--tape-name "IndianaJonesAndTheFateOfAtlantis(EN).tap"
+--tape-sum d340fe0270c2989e64451a0e07cd6f9e
+--start 1343
+--sim-load-config finish-tape=1

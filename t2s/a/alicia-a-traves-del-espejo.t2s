@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044394/AliciaATravesDelEspejo.tap.zip
+--tape-name "alicia.tap"
+--tape-sum 2f9790b0f6cc55352e2e3fafaf3ee5d3
+--start 23316
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

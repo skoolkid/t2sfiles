@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044556/CriptaDeElmionLa.tap.zip
+--tape-name "CriptaDeElmionLa.tap"
+--tape-sum 227a0a63313407ea3d6dd80ed352ec17
+--start 1343
+--sim-load-config finish-tape=1
