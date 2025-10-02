@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0019235/50ArcadeGamesForYourMicro.tap.zip
+--tape-name "50ArcadeGamesForYourMicro.tap"
+--tape-sum d6bc841ac1dedcaf30138ec6852aa80e
+--start 1343
+--tape-start 3
+--tape-stop 5
+--sim-load-config finish-tape=1
