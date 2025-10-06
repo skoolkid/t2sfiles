@@ -1,5 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/games/a/AlienBlaster.tzx.zip
---tape-name "PCG 01 - Summer 1983 (Alien Blaster).tzx"
---tape-sum 5d8c0426e2babf7282ce71ea423f764a
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039865/AlienBlaster.tzx.zip
+--tape-name "AlienBlaster.tzx"
+--tape-sum a2e9af0524450d550ad74ae540ec36b5
 --start 1343
 --sim-load-config finish-tape=1

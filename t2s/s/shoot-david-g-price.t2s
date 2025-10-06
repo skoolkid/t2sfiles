@@ -1,6 +1,0 @@
-https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044335/Shoot.tap.zip
---tape-name "Shoot.tap"
---tape-sum e3b8e25abca5b3a0a345fc68516082b2
---start 1343
---sim-load-config finish-tape=1
---sim-load-config 'load=LOAD "": RUN'
