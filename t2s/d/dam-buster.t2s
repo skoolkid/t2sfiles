@@ -1,6 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/games/d/DamBuster(1).tap.zip
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0013283/DamBuster.tap.zip
 --tape-name "DamBuster.tap"
---tape-sum f0c649094989e79bca0f06c4f9a912f5
+--tape-sum 536d5f8688a297e5be5baf4a870838a2
 --start 1343
 --sim-load-config finish-tape=1
---sim-load-config 'load=LOAD "": RUN'
