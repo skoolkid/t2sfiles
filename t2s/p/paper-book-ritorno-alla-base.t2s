@@ -1,7 +1,0 @@
-https://worldofspectrum.net/pub/sinclair/compilations/p/PaperBook.tzx.zip
---tape-name "Paper Book (J. Soft).tzx"
---tape-sum 029d87be6c7295cafb07f8f91254d181
---start 1343
---tape-start 18
---tape-stop 20
---sim-load-config finish-tape=1
