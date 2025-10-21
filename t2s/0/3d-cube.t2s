@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0019593/Cube3D.tzx.zip
+--tape-name "Cube3D.tzx"
+--tape-sum 9e0751f06bdd5dc0b14c6ae9b979ec21
+--start 1343
+--sim-load-config finish-tape=1

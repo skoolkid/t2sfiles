@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0009472/AlienMine(SideA).tzx.zip
+--tape-name "AlienMine(SideA).tzx"
+--tape-sum 4e3e423995b4f8ddc06417a2426d08a5
+--start 1343
+--sim-load-config finish-tape=1

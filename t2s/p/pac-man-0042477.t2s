@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042477/Pac-Man.tap.zip
+--tape-name "Pac-Man.tap"
+--tape-sum 1586ef1642162efb8e06763d10568f5a
+--start 1343
+--sim-load-config finish-tape=1

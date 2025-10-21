@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044572/Fantaisie.tap.zip
+--tape-name "Fantaisie.tap"
+--tape-sum 7017ddd559444124297048866922727b
+--start 1343
+--sim-load-config finish-tape=1
