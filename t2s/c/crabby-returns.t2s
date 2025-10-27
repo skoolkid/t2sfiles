@@ -1,5 +1,5 @@
 https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044437/CrabbyReturns.tap.zip
 --tape-name "CrabbyReturns.tap"
---tape-sum 1c0ff4358ad28aace7263c54df8b2d5f
+--tape-sum 346451fd4206b4e07b7172ee3fa29c7c
 --start 1343
 --sim-load-config finish-tape=1
