@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044614/Orneborgen.tap.zip
+--tape-name "Orneborgen.tap"
+--tape-sum aed95b33917b35fd92313378374ce433
+--start 1343
+--sim-load-config finish-tape=1

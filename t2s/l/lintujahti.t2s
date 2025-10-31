@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044520/Lintujahti.tap.zip
+--tape-name "Lintujahti.tap"
+--tape-sum 76f497c9a4c28a90043397410dc452cb
+--start 1343
+--sim-load-config finish-tape=1

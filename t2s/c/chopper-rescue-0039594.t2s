@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039594/ChopperRescue.tap.zip
+--tape-name "ChopperRescue.tap"
+--tape-sum 1164c268d4d7ba49537adf94376a030a
+--start 1343
+--sim-load-config finish-tape=1

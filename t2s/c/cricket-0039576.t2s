@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039576/Cricket.tap.zip
+--tape-name "Cricket.tap"
+--tape-sum c3b9e8a87d98e7e4033d497282b13efb
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044524/Pyramidi.tap.zip
+--tape-name "Pyramidi.tap"
+--tape-sum 80fa665a437f758908319294e34e1a87
+--start 1343
+--sim-load-config finish-tape=1

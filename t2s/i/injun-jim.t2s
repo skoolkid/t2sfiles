@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039597/InjunJim.tap.zip
+--tape-name "InjunJim.tap"
+--tape-sum c213b6b51dd36219020c73473ff5967c
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

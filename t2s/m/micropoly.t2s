@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039573/Micropoly.tap.zip
+--tape-name "Micropoly.tap"
+--tape-sum 9f92f206042cfd028255fcda073b7b96
+--start 1343
+--sim-load-config finish-tape=1

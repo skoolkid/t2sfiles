@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044523/Spacescrap.tzx.zip
+--tape-name "Spacescrap.tzx"
+--tape-sum 1cfdba782ddf7902e2419b718a5f0c28
+--start 1343
+--sim-load-config finish-tape=1

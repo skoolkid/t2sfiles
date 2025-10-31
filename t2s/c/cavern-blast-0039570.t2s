@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039570/CavernBlast.tap.zip
+--tape-name "CavernBlast.tap"
+--tape-sum 211262715bbcdd46ebba04354a1571f5
+--start 1343
+--sim-load-config finish-tape=1

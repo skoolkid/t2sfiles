@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039579/BountyHunter.tap.zip
+--tape-name "BountyHunter.tap"
+--tape-sum dc15b86cb1e1656b7ff2f45bd10fc26f
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

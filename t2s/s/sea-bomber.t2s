@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044522/SeaBomber.tap.zip
+--tape-name "SeaBomber.tap"
+--tape-sum 439e94a7233a821a248c523042bff5d6
+--start 1343
+--sim-load-config finish-tape=1

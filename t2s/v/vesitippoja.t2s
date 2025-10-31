@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044519/Vesitippoja.tap.zip
+--tape-name "Vesitippoja.tap"
+--tape-sum 06a5fcbad42d2ec8a602a778672d1cce
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044521/Formula1-kisa.tap.zip
+--tape-name "Formula1-kisa.tap"
+--tape-sum d4584d01d33fcf9bcbf6c50e0a7daed2
+--start 1343
+--sim-load-config finish-tape=1

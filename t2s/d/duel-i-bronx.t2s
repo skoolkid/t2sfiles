@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044612/DuelIBronx.tap.zip
+--tape-name "DuelIBronx.tap"
+--tape-sum 79a4c758ed607647ae7f97648aa6730f
+--start 1343
+--sim-load-config finish-tape=1

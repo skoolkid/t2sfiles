@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044599/BrainTeaser.tap.zip
+--tape-name "BrainTeaser.tap"
+--tape-sum 5c8eed399440dc97175afff2f2dfcaa5
+--start 1343
+--sim-load-config finish-tape=1

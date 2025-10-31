@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044518/RaviveikkaajilleV-5.tap.zip
+--tape-name "RaviveikkaajilleV-5.tap"
+--tape-sum ee433bcb15181151eb5d82841abba6a1
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

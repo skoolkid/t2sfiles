@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039593/AppleCrazy.tap.zip
+--tape-name "AppleCrazy.tap"
+--tape-sum 910b32704ada8c47614289f1b143523b
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

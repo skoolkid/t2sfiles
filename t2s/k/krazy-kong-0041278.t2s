@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0041278/KrazyKong.tap.zip
+--tape-name "KrazyKong.tap"
+--tape-sum e1d701591fabcd6c08f09f3b52858fe7
+--start 1343
+--tape-stop 5
+--sim-load-config finish-tape=1

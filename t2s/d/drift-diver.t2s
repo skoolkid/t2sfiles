@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044654/DriftDiver.tap.zip
+--tape-name "DriftDiver.tap"
+--tape-sum af8df11b8d5114295f3cb7048dbc13e3
+--start 1343
+--sim-load-config finish-tape=1

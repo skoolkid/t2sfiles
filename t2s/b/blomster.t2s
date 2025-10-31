@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044609/Blomster.tap.zip
+--tape-name "Blomster.tap"
+--tape-sum 5716e3f8f77a4ecd0b9af9fc97e54aa3
+--start 1343
+--sim-load-config finish-tape=1

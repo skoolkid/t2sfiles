@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044665/Marsu.tap.zip
+--tape-name "Marsu.tap"
+--tape-sum 42f1258ea12e138c471a3f349fb489c0
+--start 1343
+--sim-load-config finish-tape=1

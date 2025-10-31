@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039584/KatTrax.tap.zip
+--tape-name "KatTrax.tap"
+--tape-sum 55af997bbd0179073f7ca78622308b52
+--start 1343
+--sim-load-config finish-tape=1

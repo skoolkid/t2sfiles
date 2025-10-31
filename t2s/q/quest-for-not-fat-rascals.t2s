@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044645/QuestForNotFatRascals.tap.zip
+--tape-name "QuestForNotFatRascals.tap"
+--tape-sum 9768e79cb114b8eeffa2805d5fa929d3
+--start 1343
+--sim-load-config finish-tape=1

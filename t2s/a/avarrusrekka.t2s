@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044636/Avarrusrekka.tap.zip
+--tape-name "Avarrusrekka.tap"
+--tape-sum d11262d403e51d95eec01d77efe31c44
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

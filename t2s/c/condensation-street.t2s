@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039581/CondensationStreet.tap.zip
+--tape-name "CondensationStreet.tap"
+--tape-sum 70f61cdd9b2a3cc79462783990d153c1
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

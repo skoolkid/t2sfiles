@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039565/BlackBoxThe.tap.zip
+--tape-name "BlackBoxThe.tap"
+--tape-sum 7907ec2c12cdd2529bf7263bd1f44f83
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

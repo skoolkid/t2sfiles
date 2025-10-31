@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044658/MercuryLander.tap.zip
+--tape-name "MercuryLander.tap"
+--tape-sum 1df63458806a41e1b1c7b591ab7a282f
+--start 1343
+--sim-load-config finish-tape=1

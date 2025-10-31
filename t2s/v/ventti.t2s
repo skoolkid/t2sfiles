@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044647/Ventti.tap.zip
+--tape-name "Ventti.tap"
+--tape-sum d414a89792702451696c4eaa7e00d423
+--start 1343
+--sim-load-config finish-tape=1

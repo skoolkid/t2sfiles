@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039566/CityDefender.tap.zip
+--tape-name "CityDefender.tap"
+--tape-sum a83010b1accc8e4bf15b59c642f05510
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039564/CanyonLander.tap.zip
+--tape-name "CanyonLander.tap"
+--tape-sum 0b994a2ecddb0337835035d4fcb83bcc
+--start 1343
+--sim-load-config finish-tape=1

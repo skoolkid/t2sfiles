@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044664/Linna.tap.zip
+--tape-name "Linna.tap"
+--tape-sum 7a5a13d8d7382c93aab770704069ad55
+--start 1343
+--sim-load-config finish-tape=1

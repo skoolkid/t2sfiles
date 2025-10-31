@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044644/Torjunta.tap.zip
+--tape-name "Torjunta.tap"
+--tape-sum 129c8d73b53cfa2a28b78ad03c8fc597
+--start 1343
+--sim-load-config finish-tape=1

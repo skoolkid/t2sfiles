@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0005816/YASG.tzx.zip
+--tape-name "YASG.tzx"
+--tape-sum 54aaebf89bd0bf3de76c04b831b1f95e
+--start 1343
+--sim-load-config finish-tape=1
