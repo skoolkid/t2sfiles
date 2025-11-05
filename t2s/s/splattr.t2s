@@ -1,0 +1,5 @@
+https://worldofspectrum.net/pub/sinclair/games/s/SplATTR.tzx.zip
+--tape-name "splATTR.tzx"
+--tape-sum 0c571c39a2d2e37582ef277dd1d689cd
+--start 41418
+--sim-load-config machine=128

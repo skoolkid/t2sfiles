@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036595/Chromablaster.tzx.zip
+--tape-name "CHROMABLASTER.TZX"
+--tape-sum 3e904d7930ec6cb21a1d2e0e6544a1ed
+--start 16384
+--sim-load-config 'load=LOAD "" SCREEN$ : RANDOMIZE USR 16384'

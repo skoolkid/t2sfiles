@@ -1,0 +1,6 @@
+https://worldofspectrum.net/pub/sinclair/games/r/Rex.tzx.zip
+--tape-name "Rex - Side 1.tzx"
+--tape-sum f06f195b520230fc99d89686c9524446
+--start 38010
+--sim-load-config machine=128
+--tape-stop 8
