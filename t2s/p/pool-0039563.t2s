@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039563/Pool.tap.zip
+--tape-name "Pool.tap"
+--tape-sum 0d5c4159b9231e3a72f57ba8c955a3b2
+--start 1343
+--sim-load-config finish-tape=1

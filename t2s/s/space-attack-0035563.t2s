@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035563/SpaceAttack.tap.zip
+--tape-name "SpaceAttack.tap"
+--tape-sum 32554de21e3f5a52869b14d0a4d1815b
+--start 1343
+--sim-load-config finish-tape=1

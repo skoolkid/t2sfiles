@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044683/BASICTower(ES).tap.zip
+--tape-name "BASICTower(ES).tap"
+--tape-sum b48523464ae66822256e9f3add59455b
+--start 1343
+--tape-stop 17
+--sim-load-config finish-tape=1

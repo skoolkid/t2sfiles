@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039575/PharaohsTomb.tap.zip
+--tape-name "PharaohsTomb.tap"
+--tape-sum 1b4fede28abf5196c497bd7b5d7226e7
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

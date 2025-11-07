@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044705/Wonderman.tap.zip
+--tape-name "Wonderman.tap"
+--tape-sum 9aea427a796434527ee6787ef67e93cf
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

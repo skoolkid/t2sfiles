@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039599/SeaRescue.tap.zip
+--tape-name "SeaRescue.tap"
+--tape-sum 346abba390aba4fa1227a2f552d7eeb1
+--start 1343
+--sim-load-config finish-tape=1

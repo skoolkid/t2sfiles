@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044696/ZXNanoRally.tap.zip
+--tape-name "ZXNanoRally.tap"
+--tape-sum f1bcbcde73d5f7b9b376125f20a81949
+--start 1343
+--sim-load-config finish-tape=1

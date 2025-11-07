@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039567/RabbitRaid.tap.zip
+--tape-name "RabbitRaid.tap"
+--tape-sum 3d9827768c82b133bb79dd42a05c9cf6
+--start 1343
+--sim-load-config finish-tape=1
