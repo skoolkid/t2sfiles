@@ -1,6 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/t/TinyTotsSeven.tzx.zip
---tape-name "Tiny Tots Seven.tzx"
---tape-sum bcd814566b17b2cfa40c50feebd172ad
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0017791/SuperSnap.tzx.zip
+--tape-name "SuperSnap.tzx"
+--tape-sum b6e309e543ec8d22bc2b11d07fa1538e
 --start 1343
---tape-start 8
 --sim-load-config finish-tape=1

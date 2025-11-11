@@ -1,6 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/s/Spectrum50Games.tzx.zip
---tape-name "Spectrum 50 Games - Side 1.tzx"
---tape-sum 7bc119765cec50b7ebae64f0077926ec
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018412/IvasiveAction.tzx.zip
+--tape-name "IvasiveAction.tzx"
+--tape-sum 69d1e4f26acf84d7efd4d27837f9d3b9
 --start 1343
---tape-start 43
 --sim-load-config finish-tape=1

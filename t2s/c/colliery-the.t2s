@@ -1,5 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/w/WashNSlosh+TheColliery+TheScrapyard.tzx.zip
---tape-name "Wash 'n' Slosh & Scrap-Yard & The Colliery - Side 2.tzx"
---tape-sum 3c40663f22e1dc599db03360874249a0
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0015884/CollieryThe.tzx.zip
+--tape-name "CollieryThe.tzx"
+--tape-sum bd95a4d3a8077763a09bc7f9883acb71
 --start 1343
 --sim-load-config finish-tape=1

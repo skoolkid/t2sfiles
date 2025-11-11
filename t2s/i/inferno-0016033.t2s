@@ -1,5 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/u/UltimateExperienceThe.tzx.zip
---tape-name "The Ultimate Experience.tzx"
---tape-sum b3e456424751491c66a47b20116820fb
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016033/Inferno.tzx.zip
+--tape-name "Inferno.tzx"
+--tape-sum c7894bb5836fa36336a4a2edb8024132
 --start 1343
 --sim-load-config finish-tape=1

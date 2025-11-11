@@ -1,7 +1,5 @@
-https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039300/SuperSinc11(Anno2).tzx.zip
---tape-name "SuperSinc11(Anno2).tzx"
---tape-sum 3de774ba6b88c4f930b5ae59d0142936
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038325/Birra.tzx.zip
+--tape-name "Birra.tzx"
+--tape-sum 7dadff1083239b3efb2c8fb127ebd081
 --start 1343
---tape-start 4
---tape-stop 6
 --sim-load-config finish-tape=1

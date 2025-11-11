@@ -1,5 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/l/LasVegas.tzx.zip
---tape-name "Las Vegas.tzx"
---tape-sum cfc0a1c6016f8cab2175efa50989ce29
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0022504/FruitMachine.tzx.zip
+--tape-name "FruitMachine.tzx"
+--tape-sum 4bf0c5663b3d616be84fbaad511983ab
 --start 1343
 --sim-load-config finish-tape=1

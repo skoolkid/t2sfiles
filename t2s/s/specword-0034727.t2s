@@ -1,7 +1,5 @@
-https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0023753/Santa(SideB).tzx.zip
---tape-name "Santa - Top Spec (Side B).tzx"
---tape-sum 8a237f4760a92355b489800fa09c3b65
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034727/Specword.tzx.zip
+--tape-name "Specword.tzx"
+--tape-sum ac97efb01f3af300fb98a5d96eb8e51e
 --start 1343
---tape-start 4
---tape-stop 6
 --sim-load-config finish-tape=1

@@ -1,5 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/g/GamesTape3.tzx.zip
---tape-name "P.S.E. Games Tape 3 - Side A.tzx"
---tape-sum 9c2786db5197510ef4a9c096c2220fd5
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0015993/3-DNoughtsAndCrosses.tzx.zip
+--tape-name "3-DNoughtsAndCrosses.tzx"
+--tape-sum 8efb015d6dbe10504f9ada171f922f8d
 --start 1343
 --sim-load-config finish-tape=1

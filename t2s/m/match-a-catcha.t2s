@@ -1,7 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/b/BigJoy.tap.zip
---tape-name "NAFFSOFT.TAP"
---tape-sum 446d3ada3666850acdbf2926cf399a9d
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018670/Match-a-Catcha.tap.zip
+--tape-name "Match-a-Catcha.tap"
+--tape-sum 569d74adaabd14a87183160a154ed81c
 --start 1343
---tape-start 58
---tape-stop 60
 --sim-load-config finish-tape=1

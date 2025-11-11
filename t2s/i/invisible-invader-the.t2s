@@ -1,7 +1,6 @@
-https://worldofspectrum.net/pub/sinclair/compilations/g/Games3.tzx.zip
---tape-name "Games 3.tzx"
---tape-sum 1f45b179754dc393cecc40aa3f271770
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0015975/InvisibleInvaderThe.tzx.zip
+--tape-name "InvisibleInvaderThe.tzx"
+--tape-sum 49026e2aab40f8d975dc894963ed6497
 --start 1343
---tape-start 11
 --sim-load-config finish-tape=1
 --sim-load-config 'load=LOAD "": RUN'

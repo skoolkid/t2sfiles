@@ -1,7 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/123/1Line3DMazes.tzx.zip
---tape-name "1Line3DMazes.tzx"
---tape-sum 2a18ddeaee9de236b776064286d1bff1
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0029741/1LineLabyrin3D.tzx.zip
+--tape-name "1LineLabyrin3D.tzx"
+--tape-sum b8754273a00b338ae7d774e98b0ca366
 --start 1343
---tape-start 4
---tape-stop 6
 --sim-load-config finish-tape=1

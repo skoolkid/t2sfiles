@@ -1,7 +1,5 @@
-https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0015278/LibreriaDeSoftwareSpectrum05(Side1).tzx.zip
---tape-name "Libreria de Software Spectrum Issue 05 - Side 1.tzx"
---tape-sum a2c20bbf2b3fa76a27633e28ca448daf
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018132/Uve-LaEmboscada.tzx.zip
+--tape-name "Uve-LaEmboscada.tzx"
+--tape-sum e1b356a5f21786c1e3f0c847fd6877b6
 --start 1343
---tape-start 10
---tape-stop 12
 --sim-load-config finish-tape=1

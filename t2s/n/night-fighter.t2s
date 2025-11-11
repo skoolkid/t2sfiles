@@ -1,5 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/g/GamesTape2_2.tzx.zip
---tape-name "P.S.E. Games Tape 2 - Side B.tzx"
---tape-sum e088d5d3bd858946c8f05b4b51ce8d55
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0015990/NightFighter.tzx.zip
+--tape-name "NightFighter.tzx"
+--tape-sum d20f01dfc9626024fd12df61f54329a7
 --start 1343
 --sim-load-config finish-tape=1

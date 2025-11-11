@@ -1,6 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/p/PackAngelGarciaDelgado.tzx.zip
---tape-name "Pack Angel Garcia Delgado.tzx"
---tape-sum 047b93bb43eff929e589ec3949138408
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0015917/Epsilon.tzx.zip
+--tape-name "Epsilon.tzx"
+--tape-sum 63897b712a179da54160e2dbaabebfc6
 --start 1343
---tape-stop 11
 --sim-load-config finish-tape=1

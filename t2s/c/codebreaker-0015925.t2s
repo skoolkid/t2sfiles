@@ -1,5 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/b/BlitzAndCodebreaker.tzx.zip
---tape-name "Blitz & Codebreaker - Side B.tzx"
---tape-sum e56db3fbc085943036d1062e9a8913b5
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0015925/Codebreaker.tzx.zip
+--tape-name "Codebreaker.tzx"
+--tape-sum 9f3ad9d4c122b6889ddb14a58e9bea16
 --start 1343
 --sim-load-config finish-tape=1

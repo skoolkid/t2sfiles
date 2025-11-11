@@ -1,7 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/s/SpectrumSpecial1.tzx.zip
---tape-name "Spectrum Special 1 - Side 2.tzx"
---tape-sum 637bb3994aa4452ba34ffaa4b1b5079b
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016101/HiddenWords.tzx.zip
+--tape-name "HiddenWords.tzx"
+--tape-sum 607d3428de3ca96da7a33e4eefcdec6d
 --start 1343
---tape-start 4
---tape-stop 6
 --sim-load-config finish-tape=1

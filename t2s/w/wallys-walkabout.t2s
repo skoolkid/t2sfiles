@@ -1,5 +1,5 @@
-https://tzxvault.org/Spectrum/TZX/ThePrisonerv2.zip
---tape-name "The Prisoner v2 - Side 2.tzx"
---tape-sum 24f2893622fca462c8f196d01004491c
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018922/WallysWalkabout.tzx.zip
+--tape-name "WallysWalkabout.tzx"
+--tape-sum e325297f381a5de997ddeacef3f44e6d
 --start 1343
 --sim-load-config finish-tape=1

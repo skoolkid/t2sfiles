@@ -1,7 +1,6 @@
-https://worldofspectrum.net/pub/sinclair/compilations/o/OverTheSpectrumCassette2.tzx.zip
---tape-name "Over The Spectrum Cassette 2 - Side 2.tzx"
---tape-sum 7d7763396dd7449ff11d1ea6483b573c
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039158/FreewayFrog(BASICVersion).tzx.zip
+--tape-name "FreewayFrog(BASICVersion).tzx"
+--tape-sum 958e343f586ecf3c52dbf05abe02ed81
 --start 1343
---tape-start 11
 --sim-load-config finish-tape=1
 --sim-load-config 'load=LOAD "": RUN'

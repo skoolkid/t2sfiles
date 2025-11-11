@@ -1,7 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/g/GamesPackOne.tzx.zip
---tape-name "Games Pack One.tzx"
---tape-sum b86c5f998c53cb2f5ed927fa0eeb4851
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0025337/Rattrap.tzx.zip
+--tape-name "Rattrap.tzx"
+--tape-sum 524eb63e872330cf4562bb8b6b928569
 --start 1343
---tape-start 22
---tape-stop 24
 --sim-load-config finish-tape=1

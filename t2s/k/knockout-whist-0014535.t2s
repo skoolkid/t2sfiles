@@ -1,6 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/123/60SpectrumGames.tzx.zip
---tape-name "60 Games - Tape 1 - Side A.tzx"
---tape-sum f40369a0378b4074d43a0e6f8b1a4996
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0014535/KnockoutWhist.tzx.zip
+--tape-name "KnockoutWhist.tzx"
+--tape-sum a84e13086e50be2377c50ccbcc040649
 --start 1343
---tape-start 56
 --sim-load-config finish-tape=1

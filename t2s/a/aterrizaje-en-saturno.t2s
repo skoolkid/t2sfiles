@@ -1,7 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/s/SpectrumCollection1.tzx.zip
---tape-name "Spectrum Collection 1 - Side B.tzx"
---tape-sum 93c581b32b9d9e08d24647ff5d284085
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0004351/AterrizajeEnSaturno.tzx.zip
+--tape-name "AterrizajeEnSaturno.tzx"
+--tape-sum a552c0ee60f6383435f63df74f17c907
 --start 1343
---tape-start 45
---tape-stop 51
 --sim-load-config finish-tape=1

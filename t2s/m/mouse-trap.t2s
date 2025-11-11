@@ -1,7 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/s/SpectrumCassette4802.tzx.zip
---tape-name "Spectrum Cassette 4802.tzx"
---tape-sum 9899626a326c96d0cd91d65e4ffb441a
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016936/MouseTrap.tzx.zip
+--tape-name "MouseTrap.tzx"
+--tape-sum 0dc7b5f7edafec534f448bd6fcb86e23
 --start 1343
---tape-start 20
---tape-stop 22
 --sim-load-config finish-tape=1

@@ -1,7 +1,5 @@
-https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039287/SuperSinc2(Anno2).tzx.zip
---tape-name "SuperSinc2(Anno2).tzx"
---tape-sum 85dc028ef81e0d6a8c6efe86d3423165
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038124/Superconfusion.tzx.zip
+--tape-name "Superconfusion.tzx"
+--tape-sum 07e2992383712864407d52fa5063c629
 --start 1343
---tape-start 13
---tape-stop 17
 --sim-load-config finish-tape=1

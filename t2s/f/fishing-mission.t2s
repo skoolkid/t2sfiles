@@ -1,8 +1,6 @@
-https://worldofspectrum.net/pub/sinclair/compilations/c/Cassette50.tzx.zip
---tape-name "Cassette 50 - Side B.tzx"
---tape-sum 4b9fb65108f34580d49cef9b38f723b1
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018399/FishingMission.tzx.zip
+--tape-name "FishingMission.tzx"
+--tape-sum 9fff0118652a7e748e4b9e9afbc98ba2
 --start 1343
---tape-start 31
---tape-stop 33
 --sim-load-config finish-tape=1
 --sim-load-config 'load=LOAD "": RUN'

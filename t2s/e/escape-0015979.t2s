@@ -1,6 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/g/Games4.tzx.zip
---tape-name "Games 4.tzx"
---tape-sum 5513971a3e97361a8057fa7674ca1f7b
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0015979/Escape.tzx.zip
+--tape-name "Escape.tzx"
+--tape-sum 242f2c199cb16e6490ac5347fe24d30a
 --start 1343
---tape-start 11
 --sim-load-config finish-tape=1

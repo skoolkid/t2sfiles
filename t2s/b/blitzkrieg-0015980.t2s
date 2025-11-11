@@ -1,6 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/g/GamesPack.tzx.zip
---tape-name "Games Pack.tzx"
---tape-sum c57c13dbedec859f3472aeb73bdba6ad
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0015980/Blitzkrieg.tzx.zip
+--tape-name "Blitzkrieg.tzx"
+--tape-sum 029a796cc35a87d00c5e015f6bc5c4db
 --start 1343
---tape-start 13
 --sim-load-config finish-tape=1

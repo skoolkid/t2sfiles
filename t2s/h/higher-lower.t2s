@@ -1,5 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/c/Challenge.tzx.zip
---tape-name "Challenge (Temptation Software).tzx"
---tape-sum 0c22144b5147c59045176b1e74118efd
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0022502/Higher-Lower.tzx.zip
+--tape-name "Higher-Lower.tzx"
+--tape-sum a3aba342201945beb304799557268045
 --start 1343
 --sim-load-config finish-tape=1

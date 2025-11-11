@@ -1,7 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/s/SimonGames1.tzx.zip
---tape-name "Simon Games 1.tzx"
---tape-sum a0d5f124d2979bf1fb39cab43944904b
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0027603/RaceTrack.tzx.zip
+--tape-name "RaceTrack.tzx"
+--tape-sum 6c0af5f22812d3ec1bb7246916eb6dd1
 --start 1343
---tape-start 17
---tape-stop 19
 --sim-load-config finish-tape=1

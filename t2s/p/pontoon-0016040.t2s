@@ -1,6 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/u/UltimateExperienceThe.tzx.zip
---tape-name "The Ultimate Experience.tzx"
---tape-sum b3e456424751491c66a47b20116820fb
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016040/Pontoon.tzx.zip
+--tape-name "Pontoon.tzx"
+--tape-sum ba96d62efd685254d3dff87054dcda3e
 --start 1343
---tape-start 31
 --sim-load-config finish-tape=1

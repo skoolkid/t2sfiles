@@ -1,6 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/g/GamesTapeI.tzx.zip
---tape-name "Games Pack One (Logic Systems).tzx"
---tape-sum 5dce0e483afcc711e75d20e434014ab1
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0025332/3DimensionalNoughtsCrosses.tzx.zip
+--tape-name "3DimensionalNoughtsCrosses.tzx"
+--tape-sum 7e308fd666f0607d99c120c3f1f82266
 --start 1343
---tape-start 14
 --sim-load-config finish-tape=1

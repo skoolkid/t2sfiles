@@ -1,7 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/u/UseAndLearn.tzx.zip
---tape-name "Use And Learn - Side 1.tzx"
---tape-sum 4a9c68c3a4f9467117a786671c08a413
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0028231/AddictiveAddition.tzx.zip
+--tape-name "AddictiveAddition.tzx"
+--tape-sum c0c7344b04d9efee097f7e00e91a0193
 --start 1343
---tape-start 11
---tape-stop 13
 --sim-load-config finish-tape=1

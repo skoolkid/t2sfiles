@@ -1,7 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/s/SpectrumCassette4802.tzx.zip
---tape-name "Spectrum Cassette 4802.tzx"
---tape-sum 9899626a326c96d0cd91d65e4ffb441a
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018650/MensErgerJeNiet.tzx.zip
+--tape-name "MensErgerJeNiet.tzx"
+--tape-sum 41f8b63e846c35570e4cb5f47a5fdea7
 --start 1343
---tape-start 8
---tape-stop 10
 --sim-load-config finish-tape=1

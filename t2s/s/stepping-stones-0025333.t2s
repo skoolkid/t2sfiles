@@ -1,7 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/g/GamesPackOne.tzx.zip
---tape-name "Games Pack One.tzx"
---tape-sum b86c5f998c53cb2f5ed927fa0eeb4851
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0025333/SteppingStones.tzx.zip
+--tape-name "SteppingStones.tzx"
+--tape-sum 15dcc98ec5d1baf4f2fdba6b7e091da4
 --start 1343
---tape-start 6
---tape-stop 10
 --sim-load-config finish-tape=1

@@ -1,5 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/s/SpectrumSpecial2.tzx.zip
---tape-name "Spectrum Special 2 - Side 2.tzx"
---tape-sum 8fe0e9bf9562ae8f49ab63b562e434d9
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016105/MagicForest.tzx.zip
+--tape-name "MagicForest.tzx"
+--tape-sum 1371215cad5e2f0a1f3d8756bc05a135
 --start 1343
 --sim-load-config finish-tape=1

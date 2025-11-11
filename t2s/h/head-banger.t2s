@@ -1,5 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/123/60SpectrumGames.tzx.zip
---tape-name "60 Games - Tape 1 - Side A.tzx"
---tape-sum f40369a0378b4074d43a0e6f8b1a4996
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0014531/Head-Banger.tzx.zip
+--tape-name "Head-Banger.tzx"
+--tape-sum 8921f92d67483698e63c8e5393adf677
 --start 1343
 --sim-load-config finish-tape=1

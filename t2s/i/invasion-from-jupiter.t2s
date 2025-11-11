@@ -1,6 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/g/Games4.tzx.zip
---tape-name "Games 4.tzx"
---tape-sum 5513971a3e97361a8057fa7674ca1f7b
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0015978/InvasionFromJupiter.tzx.zip
+--tape-name "InvasionFromJupiter.tzx"
+--tape-sum d255eed37d529fecc92ab3b937b70894
 --start 1343
---tape-start 8
 --sim-load-config finish-tape=1

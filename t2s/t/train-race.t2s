@@ -1,7 +1,6 @@
-https://worldofspectrum.net/pub/sinclair/compilations/g/Games2.tzx.zip
---tape-name "Games 2.tzx"
---tape-sum 2c5d0c6f631d9817c709d9dffcab3181
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0015971/TrainRace.tzx.zip
+--tape-name "TrainRace.tzx"
+--tape-sum d1b2dc65ec16a34a5a0ae9c82eeba525
 --start 1343
---tape-start 11
 --sim-load-config finish-tape=1
 --sim-load-config 'load=LOAD "": RUN'

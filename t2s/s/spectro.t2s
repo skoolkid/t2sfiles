@@ -1,6 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/c/ComputerKontakt-Samm1ung.tzx.zip
---tape-name "Computer Kontact - Samm1ung.tzx"
---tape-sum cac4719a68684afead7ebdc4173ef096
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037119/Spectro.tzx.zip
+--tape-name "Spectro.tzx"
+--tape-sum 9cdf283b352568298be026f42d3868b3
 --start 1343
---tape-start 16
 --sim-load-config finish-tape=1

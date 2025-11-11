@@ -1,5 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/s/SpaceRescue+3DPenaltyKick.tzx.zip
---tape-name "Space Rescue & 3D Penalty Kick - Side 1.tzx"
---tape-sum 36b9becb37f337d9cd3a835e83369e4e
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0027203/SpaceRescue.tzx.zip
+--tape-name "SpaceRescue.tzx"
+--tape-sum 16d008f96320a18a9a48f93e4cfe6e73
 --start 1343
 --sim-load-config finish-tape=1

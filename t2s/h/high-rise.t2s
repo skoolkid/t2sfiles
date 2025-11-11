@@ -1,6 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/s/Spectrum50Games.tzx.zip
---tape-name "Spectrum 50 Games - Side 2.tzx"
---tape-sum 4d2133d3cd364667b8f088b02242f0c6
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018441/HighRise.tzx.zip
+--tape-name "HighRise.tzx"
+--tape-sum 51d72a29a917a73d72b0150a80a17bc2
 --start 1343
---tape-start 91
 --sim-load-config finish-tape=1

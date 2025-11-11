@@ -1,6 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/p/Pastimes1.tzx.zip
---tape-name "Pastimes 1.tzx"
---tape-sum 51b744c0addfd5d302a579c8a3cca9e1
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016014/TowerOfHanoi.tzx.zip
+--tape-name "TowerOfHanoi.tzx"
+--tape-sum 6c50420b16913b53f977f584a0d647a5
 --start 1343
---tape-start 8
 --sim-load-config finish-tape=1

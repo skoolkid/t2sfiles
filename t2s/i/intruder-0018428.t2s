@@ -1,6 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/s/Spectrum50Games.tzx.zip
---tape-name "Spectrum 50 Games - Side 2.tzx"
---tape-sum 4d2133d3cd364667b8f088b02242f0c6
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018428/Intruder.tzx.zip
+--tape-name "Intruder.tzx"
+--tape-sum 2606235aced64172538b926a7471558e
 --start 1343
---tape-start 27
 --sim-load-config finish-tape=1

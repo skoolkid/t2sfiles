@@ -1,7 +1,5 @@
-https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0010284/SuperSoftwarePack(Side2).tzx.zip
---tape-name "Super Software Pack (Side Two).tzx"
---tape-sum 71f8760f40319612639f0d9a4b8564b1
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036361/SpellingI.tzx.zip
+--tape-name "SpellingI.tzx"
+--tape-sum dc5580a16bd57ccce9c2c4d1783ddb2a
 --start 1343
---tape-start 12
---tape-stop 14
 --sim-load-config finish-tape=1

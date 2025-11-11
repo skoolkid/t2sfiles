@@ -1,6 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/s/SpectrumSpecial1.tzx.zip
---tape-name "Spectrum Special 1 - Side 2.tzx"
---tape-sum 637bb3994aa4452ba34ffaa4b1b5079b
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016100/StMoritz.tzx.zip
+--tape-name "StMoritz.tzx"
+--tape-sum ae7b90c55770f162f532e7f3ed9fc16f
 --start 1343
---tape-stop 4
 --sim-load-config finish-tape=1

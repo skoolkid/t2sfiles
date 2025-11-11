@@ -1,7 +1,6 @@
-https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0010284/SuperSoftwarePack(Side2).tzx.zip
---tape-name "Super Software Pack (Side Two).tzx"
---tape-sum 71f8760f40319612639f0d9a4b8564b1
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036368/TimeWarrior.tzx.zip
+--tape-name "TimeWarrior.tzx"
+--tape-sum 49a347f05057eb9aa66f18c1558caf99
 --start 1343
---tape-start 28
 --sim-load-config finish-tape=1
 --sim-load-config 'load=LOAD "": RUN'

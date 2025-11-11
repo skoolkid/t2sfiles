@@ -1,7 +1,6 @@
-https://worldofspectrum.net/pub/sinclair/compilations/b/BestOfPCW-SoftwareForTheSpectrum.tzx.zip
---tape-name "Best Of PCW - Software For The Spectrum - Side B.tzx"
---tape-sum a22e19c3597d890ee28c54a1fcf10afc
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043164/RaceChase.tzx.zip
+--tape-name "RaceChase.tzx"
+--tape-sum bd82c6be7ba766b8b70838965ce83bd9
 --start 1343
---tape-start 65
 --sim-load-config finish-tape=1
 --sim-load-config 'load=LOAD "": RUN'

@@ -1,6 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/123/60SpectrumGames.tzx.zip
---tape-name "60 Games - Tape 1 - Side B.tzx"
---tape-sum 45e6fd749479c56aa28147f3c49e5fb4
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0025438/SerpentsGarden.tzx.zip
+--tape-name "SerpentsGarden.tzx"
+--tape-sum 73941522ec5b39d83c7e49df62fad6a9
 --start 1343
---tape-start 31
 --sim-load-config finish-tape=1

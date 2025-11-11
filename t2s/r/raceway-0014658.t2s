@@ -1,5 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/g/GalacticWarriors+Raceway.tzx.zip
---tape-name "Galactic Warriors & Raceway - Side B.tzx"
---tape-sum 7f3b6284396c37ad1fd8edfdf81b962b
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0014658/Raceway.tzx.zip
+--tape-name "Raceway.tzx"
+--tape-sum d8bf6c0628d04aa6ff14d89dda20c0fe
 --start 1343
 --sim-load-config finish-tape=1

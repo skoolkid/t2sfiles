@@ -1,7 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/123/1Line3DMazes.tzx.zip
---tape-name "1Line3DMazes.tzx"
---tape-sum 2a18ddeaee9de236b776064286d1bff1
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0029742/1Line3DMaze.tzx.zip
+--tape-name "1Line3DMaze.tzx"
+--tape-sum ff5deabc5b57cc878ac124aa9cc089ed
 --start 1343
---tape-start 6
---tape-stop 8
 --sim-load-config finish-tape=1

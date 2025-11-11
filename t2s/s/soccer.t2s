@@ -1,5 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/r/RoadRace+Soccer.tzx.zip
---tape-name "Road Race & Soccer - Side B.tzx"
---tape-sum d52e356676165c2be2dbc4b3ca4c7891
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0015899/Soccer.tzx.zip
+--tape-name "Soccer.tzx"
+--tape-sum 802468e85b1009d7203f76630787890e
 --start 1343
 --sim-load-config finish-tape=1

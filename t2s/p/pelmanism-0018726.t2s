@@ -1,8 +1,6 @@
-https://worldofspectrum.net/pub/sinclair/compilations/m/MeMyMicro.tzx.zip
---tape-name "Me & My Micro.tzx"
---tape-sum 0a138fd41daae003d3f6d95c509322f7
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018726/Pelmanism.tzx.zip
+--tape-name "Pelmanism.tzx"
+--tape-sum 147589e74570b3901a134778f3cc8d73
 --start 1343
---tape-start 14
---tape-stop 16
 --sim-load-config finish-tape=1
 --sim-load-config 'load=LOAD "": RUN'

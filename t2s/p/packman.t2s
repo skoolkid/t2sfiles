@@ -1,5 +1,5 @@
-https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0019835/CrazyCongPackman.tzx.zip
---tape-name "CrazyCongPackman.tzx"
---tape-sum f96354bd6209b410ca6d619f2785d226
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0019834/Packman.tzx.zip
+--tape-name "Packman.tzx"
+--tape-sum 32913cef73ec0049bbce2e704c376299
 --start 1343
 --sim-load-config finish-tape=1

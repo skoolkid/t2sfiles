@@ -1,7 +1,5 @@
-https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0010284/SuperSoftwarePack(Side1).tzx.zip
---tape-name "Super Software Pack (Side One).tzx"
---tape-sum 419bc4d0c422b32a778e9bc9a518745a
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036347/VaultThe.tzx.zip
+--tape-name "VaultThe.tzx"
+--tape-sum 8fbf358e4ab657f22c76def9a2f4a36f
 --start 1343
---tape-start 5
---tape-stop 7
 --sim-load-config finish-tape=1

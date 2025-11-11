@@ -1,8 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/c/ComputerKontakt-Samm1ung.tzx.zip
---tape-name "Computer Kontact - Samm1ung.tzx"
---tape-sum cac4719a68684afead7ebdc4173ef096
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037117/ManicTrain.tzx.zip
+--tape-name "ManicTrain.tzx"
+--tape-sum 3c86fbdc1828985f771dc108e92e4754
 --start 1343
---tape-start 14
---tape-stop 16
 --sim-load-config finish-tape=1
---sim-load-config 'load=LOAD "": RUN'

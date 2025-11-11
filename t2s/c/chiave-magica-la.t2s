@@ -1,7 +1,5 @@
-https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039271/SuperSinc6.tzx.zip
---tape-name "SuperSinc6.tzx"
---tape-sum 9e2aa4eeb6f8c38c3c3a018f7da95f6e
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038865/ChiaveMagicaLa.tzx.zip
+--tape-name "ChiaveMagicaLa.tzx"
+--tape-sum 0094d077cc783ac01fbd99a3e4c3dfcd
 --start 1343
---tape-start 18
---tape-stop 20
 --sim-load-config finish-tape=1

@@ -1,8 +1,6 @@
-https://worldofspectrum.net/pub/sinclair/compilations/123/15GiochiGraficiPerZXSpectrum.tzx.zip
---tape-name "15 Giochi Grafici (J. Soft).tzx"
---tape-sum efb64b10747e2dccb5a219e0ccc75456
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0023346/MajorMinor.tzx.zip
+--tape-name "MajorMinor.tzx"
+--tape-sum 758447ae0dd3379f6f23444c54a43e8a
 --start 1343
---tape-start 14
---tape-stop 16
 --sim-load-config finish-tape=1
 --sim-load-config 'load=LOAD "": RUN'

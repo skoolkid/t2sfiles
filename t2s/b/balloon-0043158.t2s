@@ -1,7 +1,6 @@
-https://worldofspectrum.net/pub/sinclair/compilations/b/BestOfPCW-SoftwareForTheSpectrum.tzx.zip
---tape-name "Best Of PCW - Software For The Spectrum - Side B.tzx"
---tape-sum a22e19c3597d890ee28c54a1fcf10afc
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043158/Balloon.tzx.zip
+--tape-name "Balloon.tzx"
+--tape-sum 8f01e4abb1f8694d6148f73339e8b1ab
 --start 1343
---tape-start 38
 --sim-load-config finish-tape=1
 --sim-load-config 'load=LOAD "": RUN'

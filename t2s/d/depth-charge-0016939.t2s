@@ -1,7 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/s/SpectrumCassette4802.tzx.zip
---tape-name "Spectrum Cassette 4802.tzx"
---tape-sum 9899626a326c96d0cd91d65e4ffb441a
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016939/DepthCharge.tzx.zip
+--tape-name "DepthCharge.tzx"
+--tape-sum 71cc32c2c1ff5b1f21405d06d3a13d47
 --start 1343
---tape-start 22
---tape-stop 24
 --sim-load-config finish-tape=1

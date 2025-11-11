@@ -1,8 +1,6 @@
-https://worldofspectrum.net/pub/sinclair/compilations/c/Cassette50.tzx.zip
---tape-name "Cassette 50 - Side B.tzx"
---tape-sum 4b9fb65108f34580d49cef9b38f723b1
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018393/DragonsGold.tzx.zip
+--tape-name "DragonsGold.tzx"
+--tape-sum 93bf0216b61ca569b45d86bd21e82b0d
 --start 1343
---tape-start 17
---tape-stop 19
 --sim-load-config finish-tape=1
 --sim-load-config 'load=LOAD "": RUN'

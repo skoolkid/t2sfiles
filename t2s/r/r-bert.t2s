@@ -1,6 +1,5 @@
-https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039299/SuperSinc8(Anno2).tzx.zip
---tape-name "SuperSinc8(Anno2).tzx"
---tape-sum 6951998dc58484f40e87fd9a4f702c1f
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038291/R-Bert.tzx.zip
+--tape-name "R-Bert.tzx"
+--tape-sum 07a8bcd1ca3a5e4d32e19a355f4506f7
 --start 1343
---tape-stop 3
 --sim-load-config finish-tape=1

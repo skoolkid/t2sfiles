@@ -1,7 +1,6 @@
-https://worldofspectrum.net/pub/sinclair/compilations/g/GamesTape2_2.tzx.zip
---tape-name "P.S.E. Games Tape 2 - Side A.tzx"
---tape-sum acddbba5667ddf9982ab69baaa7a7792
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0015988/Battleships.tzx.zip
+--tape-name "Battleships.tzx"
+--tape-sum dcb9b03b65bd070b568488f425fd0b2c
 --start 1343
---tape-start 5
 --sim-load-config finish-tape=1
 --sim-load-config 'load=LOAD "": RUN'

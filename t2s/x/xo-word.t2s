@@ -1,5 +1,5 @@
-https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0009478/Xo-WordAnagrams(SideA).tzx.zip
---tape-name "Xo-WordAnagrams(SideA).tzx"
---tape-sum 4b62cf39ea157695d6ead809042ab334
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0017021/Xo-Word.tzx.zip
+--tape-name "Xo-Word.tzx"
+--tape-sum 6e573306ca50a075293e1724634dd923
 --start 1343
 --sim-load-config finish-tape=1

@@ -1,7 +1,5 @@
-https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039288/SuperSinc3(Anno2).tzx.zip
---tape-name "SuperSinc3(Anno2).tzx"
---tape-sum c3464732760357fde3c96c42144f687e
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038220/Risico.tzx.zip
+--tape-name "Risico.tzx"
+--tape-sum 429bedd93e460fd7334bfda249c4bb40
 --start 1343
---tape-start 19
---tape-stop 25
 --sim-load-config finish-tape=1

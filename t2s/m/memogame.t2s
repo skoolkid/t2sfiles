@@ -1,7 +1,5 @@
-https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039296/SuperSinc7(Anno2).tzx.zip
---tape-name "SuperSinc7(Anno2).tzx"
---tape-sum 94e7cb0290c34d38fdd7e6d580ae3f8e
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038593/Memogame.tzx.zip
+--tape-name "Memogame.tzx"
+--tape-sum 9b0bd5eecea2244ba35f0ece6925699a
 --start 1343
---tape-start 14
---tape-stop 16
 --sim-load-config finish-tape=1

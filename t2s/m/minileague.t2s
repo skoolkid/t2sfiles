@@ -1,7 +1,6 @@
-https://worldofspectrum.net/pub/sinclair/compilations/s/SpecSoccer.tzx.zip
---tape-name "Spec Soccer - Side A.tzx"
---tape-sum a832399d7e4b516673e4fcc19cec8168
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016023/Minileague.tzx.zip
+--tape-name "Minileague.tzx"
+--tape-sum e24531b2764d81d78a37a32b38fd30c3
 --start 1343
---tape-start 6
 --sim-load-config finish-tape=1
 --sim-load-config 'load=LOAD "": RUN'

@@ -1,7 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/j/JOGOSBASICOSVol.1-AVida.tzx.zip
---tape-name "BASICOS1.tzx"
---tape-sum b9106c8c653b938262cd5914f9179f7d
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018759/Esquiador.tzx.zip
+--tape-name "Esquiador.tzx"
+--tape-sum 0a7b7f4acbb10e3197396b0316b1368c
 --start 1343
---tape-start 6
---tape-stop 8
 --sim-load-config finish-tape=1

@@ -1,7 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/123/10JuegosII.tzx.zip
---tape-name "10 Juegos II - Side 2.tzx"
---tape-sum b96df4ec27b5a776bd89fa9ecc803920
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016083/Pasaje.tzx.zip
+--tape-name "Pasaje.tzx"
+--tape-sum e6babe3be312714cc2ac712d7eef692c
 --start 1343
---tape-start 12
---tape-stop 14
 --sim-load-config finish-tape=1

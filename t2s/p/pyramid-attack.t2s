@@ -1,7 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/s/SimonGames1.tzx.zip
---tape-name "Simon Games 1.tzx"
---tape-sum a0d5f124d2979bf1fb39cab43944904b
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0027601/PyramidAttack.tzx.zip
+--tape-name "PyramidAttack.tzx"
+--tape-sum b6f1848b344647616e489f9c3be0d659
 --start 1343
---tape-start 13
---tape-stop 15
 --sim-load-config finish-tape=1

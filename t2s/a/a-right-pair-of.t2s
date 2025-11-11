@@ -1,7 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/b/BigJoy.tap.zip
---tape-name "NAFFSOFT.TAP"
---tape-sum 446d3ada3666850acdbf2926cf399a9d
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018662/RightPairOfA.tap.zip
+--tape-name "RightPairOfA.tap"
+--tape-sum ef8b533cca3478ea1389cba0a5236c8a
 --start 1343
---tape-start 26
---tape-stop 28
 --sim-load-config finish-tape=1

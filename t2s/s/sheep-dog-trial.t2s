@@ -1,7 +1,6 @@
-https://worldofspectrum.net/pub/sinclair/compilations/b/BestOfPCW-SoftwareForTheSpectrum.tzx.zip
---tape-name "Best Of PCW - Software For The Spectrum - Side A.tzx"
---tape-sum 98abd555321a8cbf5e6ff0f13bdcf32f
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018750/SheepDogTrial.tzx.zip
+--tape-name "SheepDogTrial.tzx"
+--tape-sum 7e2c103464915256b4d4f4db4b27f56a
 --start 1343
---tape-start 5
 --sim-load-config finish-tape=1
 --sim-load-config 'load=LOAD "": RUN'

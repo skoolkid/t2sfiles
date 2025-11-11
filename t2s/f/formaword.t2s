@@ -1,5 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/f/Formaword+Password.tzx.zip
---tape-name "Formaword & Password - Formaword.tzx"
---tape-sum a1cc75a8d90ca81e934e71fd322c0e83
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024396/Formaword.tzx.zip
+--tape-name "Formaword.tzx"
+--tape-sum 73fad88eafd919da1fe6a15196074df8
 --start 1343
 --sim-load-config finish-tape=1

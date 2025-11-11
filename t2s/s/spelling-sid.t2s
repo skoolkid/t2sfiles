@@ -1,5 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/s/SimonGames2.tzx.zip
---tape-name "Simon Games 2.tzx"
---tape-sum 41903c26697216947c19c6ae75bc7964
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0027605/SpellingSid.tzx.zip
+--tape-name "SpellingSid.tzx"
+--tape-sum 3a983f891cdf1fd957b390b6a5514dcc
 --start 1343
 --sim-load-config finish-tape=1

@@ -1,6 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/j/JOGOSBASICOSVol.1-AVida.tzx.zip
---tape-name "BASICOS1.tzx"
---tape-sum b9106c8c653b938262cd5914f9179f7d
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018762/Aeroporto.tzx.zip
+--tape-name "Aeroporto.tzx"
+--tape-sum 24a280e164e17af81b1b00f416309a85
 --start 1343
---tape-start 12
 --sim-load-config finish-tape=1

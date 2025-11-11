@@ -1,6 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/s/Spectrum50Games.tzx.zip
---tape-name "Spectrum 50 Games - Side 2.tzx"
---tape-sum 4d2133d3cd364667b8f088b02242f0c6
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018424/SmashTheWindows.tzx.zip
+--tape-name "SmashTheWindows.tzx"
+--tape-sum f500d3254f4f98430b5f23aa6f1816ef
 --start 1343
---tape-start 11
 --sim-load-config finish-tape=1

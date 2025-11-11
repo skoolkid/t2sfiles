@@ -1,6 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/s/Spectrum50Games.tzx.zip
---tape-name "Spectrum 50 Games - Side 2.tzx"
---tape-sum 4d2133d3cd364667b8f088b02242f0c6
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018427/Phaser.tzx.zip
+--tape-name "Phaser.tzx"
+--tape-sum 6baac63ea8da4990ecd03ab4fc7025ae
 --start 1343
---tape-start 23
 --sim-load-config finish-tape=1

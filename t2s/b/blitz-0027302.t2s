@@ -1,5 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/g/GamesTapeII.tzx.zip
---tape-name "Games Tape 2 (Pi Software).tzx"
---tape-sum 6b99e2a486d73d0e1cee1c8cf44b582f
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0027302/Blitz.tzx.zip
+--tape-name "Blitz.tzx"
+--tape-sum a39eb784373c359fb94d2a892cc7e6ee
 --start 1343
 --sim-load-config finish-tape=1

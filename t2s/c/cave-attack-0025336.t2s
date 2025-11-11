@@ -1,7 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/g/GamesPackOne.tzx.zip
---tape-name "Games Pack One.tzx"
---tape-sum b86c5f998c53cb2f5ed927fa0eeb4851
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0025336/CaveAttack.tzx.zip
+--tape-name "CaveAttack.tzx"
+--tape-sum 02822b33f4c8127b536da5a8f18dc1de
 --start 1343
---tape-start 18
---tape-stop 22
 --sim-load-config finish-tape=1

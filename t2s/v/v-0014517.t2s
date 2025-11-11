@@ -1,6 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/123/60SpectrumGames.tzx.zip
---tape-name "60 Games - Tape 2 - Side A (Incomplete).tzx"
---tape-sum f02f0b60c2a19c08cd6d4ca286b94f28
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0014517/V.tzx.zip
+--tape-name "V.tzx"
+--tape-sum 26c9d2bf480d9aa9b6b9e515e5cb3e13
 --start 1343
---tape-start 37
 --sim-load-config finish-tape=1

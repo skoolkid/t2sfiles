@@ -1,7 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/p/Pastimes1.tzx.zip
---tape-name "Pastimes 1.tzx"
---tape-sum 51b744c0addfd5d302a579c8a3cca9e1
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016013/FindTheMate.tzx.zip
+--tape-name "FindTheMate.tzx"
+--tape-sum bb8c698535976cf7bf31be3e6b3f7267
 --start 1343
---tape-start 6
---tape-stop 8
 --sim-load-config finish-tape=1

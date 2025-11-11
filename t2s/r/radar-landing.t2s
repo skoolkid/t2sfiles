@@ -1,6 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/s/Spectrum50Games.tzx.zip
---tape-name "Spectrum 50 Games - Side 1.tzx"
---tape-sum 7bc119765cec50b7ebae64f0077926ec
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018409/RadarLanding.tzx.zip
+--tape-name "RadarLanding.tzx"
+--tape-sum d83eb436ad9777cbb374216b6234e829
 --start 1343
---tape-start 27
 --sim-load-config finish-tape=1

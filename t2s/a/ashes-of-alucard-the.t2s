@@ -1,6 +1,6 @@
-https://worldofspectrum.net/pub/sinclair/games/m/MerlockTheMede.tzx.zip
---tape-name "Merlock The Mede - Side 2.tzx"
---tape-sum 94682003823c50724686f6736a200ca2
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034774/AshesOfAlucardThe.tzx.zip
+--tape-name "AshesOfAlucardThe.tzx"
+--tape-sum 3c40921c3e47d2ad28fabe1b10aeb4ef
 --start 1343
---tape-start 8
+--tape-start 6
 --sim-load-config finish-tape=1

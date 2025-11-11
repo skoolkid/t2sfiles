@@ -1,6 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/g/GamblerThe.tzx.zip
---tape-name "The Gambler.tzx"
---tape-sum 0945c6e1c96a6dc35bd955e63905dad4
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0020246/Pontoon.tzx.zip
+--tape-name "Pontoon.tzx"
+--tape-sum fa354f7c6168119607dbee331f8af9f8
 --start 1343
---tape-stop 10
 --sim-load-config finish-tape=1

@@ -1,5 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/123/60SpectrumGames.tzx.zip
---tape-name "60 Games - Tape 2 - Side B.tzx"
---tape-sum 046da85bb7c8205784180cc1cf6d3b2b
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0025446/SubmarinePatrol.tzx.zip
+--tape-name "SubmarinePatrol.tzx"
+--tape-sum 37088978d2dc418a52833f433a21748d
 --start 1343
 --sim-load-config finish-tape=1

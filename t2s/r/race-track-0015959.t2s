@@ -1,5 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/t/ThreeInOne.tzx.zip
---tape-name "Three In One.tzx"
---tape-sum 5ac21cc2e08ad78548132ac431820471
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0015959/Race-Track.tzx.zip
+--tape-name "Race-Track.tzx"
+--tape-sum b575eb8dc6161bce4d23b3aafabf46bc
 --start 1343
 --sim-load-config finish-tape=1

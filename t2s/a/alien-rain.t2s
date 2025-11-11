@@ -1,6 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/g/GamesPack.tzx.zip
---tape-name "Games Pack.tzx"
---tape-sum c57c13dbedec859f3472aeb73bdba6ad
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0015984/AlienRain.tzx.zip
+--tape-name "AlienRain.tzx"
+--tape-sum a73099ef9d8b9e44b0dea986c3c336f0
 --start 1343
---tape-start 31
 --sim-load-config finish-tape=1

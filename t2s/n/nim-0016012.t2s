@@ -1,7 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/p/Pastimes1.tzx.zip
---tape-name "Pastimes 1.tzx"
---tape-sum 51b744c0addfd5d302a579c8a3cca9e1
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016012/Nim.tzx.zip
+--tape-name "Nim.tzx"
+--tape-sum d297b0a1bd7c861a2536b61bb9e66ed8
 --start 1343
---tape-start 4
---tape-stop 6
 --sim-load-config finish-tape=1

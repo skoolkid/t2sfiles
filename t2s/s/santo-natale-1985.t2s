@@ -1,7 +1,5 @@
-https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039300/SuperSinc11(Anno2).tzx.zip
---tape-name "SuperSinc11(Anno2).tzx"
---tape-sum 3de774ba6b88c4f930b5ae59d0142936
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039087/SantoNatale1985.tzx.zip
+--tape-name "SantoNatale1985.tzx"
+--tape-sum 9bc96da4959364f55276505bd5111f2a
 --start 1343
---tape-start 6
---tape-stop 8
 --sim-load-config finish-tape=1

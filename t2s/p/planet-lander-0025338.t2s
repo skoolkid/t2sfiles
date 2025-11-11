@@ -1,7 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/g/GamesPackOne.tzx.zip
---tape-name "Games Pack One.tzx"
---tape-sum b86c5f998c53cb2f5ed927fa0eeb4851
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0025338/PlanetLander.tzx.zip
+--tape-name "PlanetLander.tzx"
+--tape-sum 5b19c6a1affeaf4253089974b7f05060
 --start 1343
---tape-start 24
---tape-stop 26
 --sim-load-config finish-tape=1

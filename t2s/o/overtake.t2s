@@ -1,5 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/s/Spectrum50Games.tzx.zip
---tape-name "Spectrum 50 Games - Side 2.tzx"
---tape-sum 4d2133d3cd364667b8f088b02242f0c6
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018422/Overtake.tzx.zip
+--tape-name "Overtake.tzx"
+--tape-sum d23c97c9e389cf66276dcc68aa8525f1
 --start 1343
 --sim-load-config finish-tape=1

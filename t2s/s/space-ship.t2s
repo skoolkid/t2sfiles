@@ -1,6 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/s/Spectrum50Games.tzx.zip
---tape-name "Spectrum 50 Games - Side 2.tzx"
---tape-sum 4d2133d3cd364667b8f088b02242f0c6
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018425/Space-Ship.tzx.zip
+--tape-name "Space-Ship.tzx"
+--tape-sum b9625380561c3071f831fb6415f57f48
 --start 1343
---tape-start 15
 --sim-load-config finish-tape=1

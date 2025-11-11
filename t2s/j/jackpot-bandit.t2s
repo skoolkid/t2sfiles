@@ -1,8 +1,6 @@
-https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0010284/SuperSoftwarePack(Side1).tzx.zip
---tape-name "Super Software Pack (Side One).tzx"
---tape-sum 419bc4d0c422b32a778e9bc9a518745a
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036352/JackpotBandit.tzx.zip
+--tape-name "JackpotBandit.tzx"
+--tape-sum 63dc052d653fb600bab63a42777d4aad
 --start 1343
---tape-start 15
---tape-stop 17
 --sim-load-config finish-tape=1
 --sim-load-config 'load=LOAD "": RUN'

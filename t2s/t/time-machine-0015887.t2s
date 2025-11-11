@@ -1,6 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/e/Electro+DeathReprieve+TimeMachine.tzx.zip
---tape-name "Death Reprieve & Time Machine.tzx"
---tape-sum c25be56ee1ba9e361aaec845e45f93f1
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0015887/TimeMachine.tzx.zip
+--tape-name "TimeMachine.tzx"
+--tape-sum fc809794d30d4ba74543ab89c837d702
 --start 1343
---tape-start 11
 --sim-load-config finish-tape=1

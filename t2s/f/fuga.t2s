@@ -1,8 +1,6 @@
-https://worldofspectrum.net/pub/sinclair/compilations/123/15GiochiGraficiPerZXSpectrum.tzx.zip
---tape-name "15 Giochi Grafici (J. Soft).tzx"
---tape-sum efb64b10747e2dccb5a219e0ccc75456
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0023340/Fuga.tzx.zip
+--tape-name "Fuga.tzx"
+--tape-sum d99892349dfc39a544a2307b79b94a64
 --start 1343
---tape-start 24
---tape-stop 26
 --sim-load-config finish-tape=1
 --sim-load-config 'load=LOAD "": RUN'

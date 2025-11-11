@@ -1,6 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/p/Pathfinder.tzx.zip
---tape-name "Path Find.tzx"
---tape-sum 30bff5546aaf5ca8d86d5ecfcf920e86
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0025062/Rabbit.tzx.zip
+--tape-name "Rabbit.tzx"
+--tape-sum 2fdfd5c0337b7666dc5cf126413ebb15
 --start 1343
---tape-stop 8
 --sim-load-config finish-tape=1

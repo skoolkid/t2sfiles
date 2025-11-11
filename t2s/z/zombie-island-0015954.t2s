@@ -1,6 +1,6 @@
-https://worldofspectrum.net/pub/sinclair/compilations/s/StrikeFour.tzx.zip
---tape-name "Strike 4.tzx"
---tape-sum a816d470493d9d094009ca7fa55efd7f
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0015954/ZombieIsland.tzx.zip
+--tape-name "ZombieIsland.tzx"
+--tape-sum f0677ec47eb1d26289e6d8520bb2a7e1
 --start 1343
---tape-start 20
+--tape-start 3
 --sim-load-config finish-tape=1

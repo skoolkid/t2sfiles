@@ -1,7 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/123/10JuegosII.tzx.zip
---tape-name "10 Juegos II - Side 1.tzx"
---tape-sum 24ca4e9ef8980fa983378f8cea37eec8
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016076/Comecocos.tzx.zip
+--tape-name "Comecocos.tzx"
+--tape-sum 1c4ead5045c8cac4f86ece77506209a3
 --start 1343
---tape-start 8
---tape-stop 10
 --sim-load-config finish-tape=1

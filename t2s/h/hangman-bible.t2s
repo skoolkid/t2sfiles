@@ -1,7 +1,5 @@
-https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0010284/SuperSoftwarePack(Side2).tzx.zip
---tape-name "Super Software Pack (Side Two).tzx"
---tape-sum 71f8760f40319612639f0d9a4b8564b1
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036367/Hangman-Bible.tzx.zip
+--tape-name "Hangman-Bible.tzx"
+--tape-sum f8df566e6279b3b89852d63a56644787
 --start 1343
---tape-start 26
---tape-stop 28
 --sim-load-config finish-tape=1

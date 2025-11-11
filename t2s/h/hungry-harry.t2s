@@ -1,6 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/123/60SpectrumGames.tzx.zip
---tape-name "60 Games - Tape 1 - Side B.tzx"
---tape-sum 45e6fd749479c56aa28147f3c49e5fb4
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0025437/HungryHarry.tzx.zip
+--tape-name "HungryHarry.tzx"
+--tape-sum 60254b0b56462bbcd4f2ee018d24595a
 --start 1343
---tape-start 27
 --sim-load-config finish-tape=1

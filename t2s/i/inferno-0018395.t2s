@@ -1,8 +1,6 @@
-https://worldofspectrum.net/pub/sinclair/compilations/c/Cassette50.tzx.zip
---tape-name "Cassette 50 - Side B.tzx"
---tape-sum 4b9fb65108f34580d49cef9b38f723b1
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018395/Inferno.tzx.zip
+--tape-name "Inferno.tzx"
+--tape-sum 3698cea953ab138cefabf88b3e631a85
 --start 1343
---tape-start 21
---tape-stop 23
 --sim-load-config finish-tape=1
 --sim-load-config 'load=LOAD "": RUN'

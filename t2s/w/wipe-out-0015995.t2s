@@ -1,6 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/g/GamesTape3.tzx.zip
---tape-name "P.S.E. Games Tape 3 - Side A.tzx"
---tape-sum 9c2786db5197510ef4a9c096c2220fd5
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0015995/Wipe-Out.tzx.zip
+--tape-name "Wipe-Out.tzx"
+--tape-sum 6f6a1d40a90886a15a661759239d26e8
 --start 1343
---tape-start 8
 --sim-load-config finish-tape=1

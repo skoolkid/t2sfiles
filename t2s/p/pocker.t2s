@@ -1,5 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/c/CassetteJuegos.tzx.zip
---tape-name "Tu Micro.tzx"
---tape-sum ebce4aa233765d1210d9fe8360306373
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0003780/Pocker.tzx.zip
+--tape-name "Pocker.tzx"
+--tape-sum 2781f2e3e6ce53269bfe5b4762f10487
 --start 1343
 --sim-load-config finish-tape=1

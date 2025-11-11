@@ -1,7 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/s/SimonGames1.tzx.zip
---tape-name "Simon Games 1.tzx"
---tape-sum a0d5f124d2979bf1fb39cab43944904b
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0027600/SpaceMerchant.tzx.zip
+--tape-name "SpaceMerchant.tzx"
+--tape-sum e833e4725b2ae48ed67d2ec68123c3c5
 --start 1343
---tape-start 11
---tape-stop 13
 --sim-load-config finish-tape=1

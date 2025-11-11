@@ -1,7 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/s/SimonGames1.tzx.zip
---tape-name "Simon Games 1.tzx"
---tape-sum a0d5f124d2979bf1fb39cab43944904b
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0027598/Vampire.tzx.zip
+--tape-name "Vampire.tzx"
+--tape-sum 860903e74ab32c33352509e6e2a00252
 --start 1343
---tape-start 7
---tape-stop 9
 --sim-load-config finish-tape=1

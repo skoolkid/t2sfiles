@@ -1,6 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/123/60SpectrumGames.tzx.zip
---tape-name "60 Games - Tape 2 - Side A (Incomplete).tzx"
---tape-sum f02f0b60c2a19c08cd6d4ca286b94f28
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0014514/Sniper.tzx.zip
+--tape-name "Sniper.tzx"
+--tape-sum 28918a03e50279e035404a6ab02f755e
 --start 1343
---tape-start 17
 --sim-load-config finish-tape=1

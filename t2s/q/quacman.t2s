@@ -1,7 +1,6 @@
-https://worldofspectrum.net/pub/sinclair/compilations/m/MeMyMicro.tzx.zip
---tape-name "Me & My Micro.tzx"
---tape-sum 0a138fd41daae003d3f6d95c509322f7
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018720/Quacman.tzx.zip
+--tape-name "Quacman.tzx"
+--tape-sum bd7d94d57d864fca43fec674a1802efe
 --start 1343
---tape-stop 4
 --sim-load-config finish-tape=1
 --sim-load-config 'load=LOAD "": RUN'

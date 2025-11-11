@@ -1,7 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/b/BigJoy.tap.zip
---tape-name "NAFFSOFT.TAP"
---tape-sum 446d3ada3666850acdbf2926cf399a9d
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018661/Solitaire.tap.zip
+--tape-name "Solitaire.tap"
+--tape-sum a0aaefefc98cdd7df58d7e34ac2fd1b1
 --start 1343
---tape-start 22
---tape-stop 24
 --sim-load-config finish-tape=1

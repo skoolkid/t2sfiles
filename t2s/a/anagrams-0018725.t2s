@@ -1,8 +1,6 @@
-https://worldofspectrum.net/pub/sinclair/compilations/m/MeMyMicro.tzx.zip
---tape-name "Me & My Micro.tzx"
---tape-sum 0a138fd41daae003d3f6d95c509322f7
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018725/Anagrams.tzx.zip
+--tape-name "Anagrams.tzx"
+--tape-sum bca4f4f5a9bdd1b043d36d44892f4c84
 --start 1343
---tape-start 12
---tape-stop 14
 --sim-load-config finish-tape=1
 --sim-load-config 'load=LOAD "": RUN'

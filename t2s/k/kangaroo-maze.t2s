@@ -1,7 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/p/Pathfinder.tzx.zip
---tape-name "Path Find.tzx"
---tape-sum 30bff5546aaf5ca8d86d5ecfcf920e86
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0025063/KangarooMaze.tzx.zip
+--tape-name "KangarooMaze.tzx"
+--tape-sum 07a96af3056c6917fde931890a232b0e
 --start 1343
---tape-start 8
---tape-stop 14
 --sim-load-config finish-tape=1

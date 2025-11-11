@@ -1,6 +1,6 @@
-https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036790/LNR-mix.tzx.zip
---tape-name "LNR-mix.tzx"
---tape-sum ecf17bbf1185565829105ff828ee76bb
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0005702/SpaceCraft.tap.zip
+--tape-name "SpaceCraft.tap"
+--tape-sum cb154e6e90bee4109a7a71ce7a51050b
 --start 1343
---tape-start 12
+--tape-start 3
 --sim-load-config finish-tape=1

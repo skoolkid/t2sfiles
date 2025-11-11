@@ -1,7 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/b/BigJoy.tap.zip
---tape-name "NAFFSOFT.TAP"
---tape-sum 446d3ada3666850acdbf2926cf399a9d
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018656/RodentRun.tap.zip
+--tape-name "RodentRun.tap"
+--tape-sum d001d5ae657ea085018c3ad3bca85ac7
 --start 1343
---tape-start 5
---tape-stop 9
 --sim-load-config finish-tape=1

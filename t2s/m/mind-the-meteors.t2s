@@ -1,6 +1,6 @@
-https://worldofspectrum.net/pub/sinclair/compilations/g/Games3.tzx.zip
---tape-name "Games 3.tzx"
---tape-sum 1f45b179754dc393cecc40aa3f271770
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0015972/MindTheMeteors.tzx.zip
+--tape-name "MindTheMeteors.tzx"
+--tape-sum 17556fd284c176d83703877ea57b04e5
 --start 1343
 --sim-load-config finish-tape=1
 --sim-load-config 'load=LOAD "": RUN'

@@ -1,6 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/123/60SpectrumGames.tzx.zip
---tape-name "60 Games - Tape 2 - Side B.tzx"
---tape-sum 046da85bb7c8205784180cc1cf6d3b2b
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0025453/Gremlins.tzx.zip
+--tape-name "Gremlins.tzx"
+--tape-sum a5bbfdbf5ac443c4636c1bb85ac59a0a
 --start 1343
---tape-start 31
 --sim-load-config finish-tape=1

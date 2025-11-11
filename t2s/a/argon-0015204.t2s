@@ -1,7 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/p/PackAngelGarciaDelgado.tzx.zip
---tape-name "Pack Angel Garcia Delgado.tzx"
---tape-sum 047b93bb43eff929e589ec3949138408
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0015204/Argon.tzx.zip
+--tape-name "Argon.tzx"
+--tape-sum 424a7b605edb1a031d735bae8484dd8e
 --start 1343
---tape-start 12
---tape-stop 20
 --sim-load-config finish-tape=1

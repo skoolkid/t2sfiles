@@ -1,6 +1,5 @@
-https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0015285/LibreriaDeSoftwareSpectrum12(Side2).tzx.zip
---tape-name "Libreria de Software Spectrum Issue 12 - Side 2.tzx"
---tape-sum 0b37a08b4c218e9807da42c57c1de139
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024676/MundoSubterraneo.tzx.zip
+--tape-name "MundoSubterraneo.tzx"
+--tape-sum 1435d73c4af81678a5b5dd7c7a37bce7
 --start 1343
---tape-start 30
 --sim-load-config finish-tape=1

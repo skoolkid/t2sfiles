@@ -1,5 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/h/Hideaway+Panagram.tzx.zip
---tape-name "Hideaway & Panagram - Hideaway.tzx"
---tape-sum 627b38922898648a558ff1598a9625b0
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024398/Hideaway.tzx.zip
+--tape-name "Hideaway.tzx"
+--tape-sum 19612ef1b6471817a76ed0008f0d7b49
 --start 1343
 --sim-load-config finish-tape=1

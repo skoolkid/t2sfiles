@@ -1,6 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/123/60SpectrumGames.tzx.zip
---tape-name "60 Games - Tape 1 - Side B.tzx"
---tape-sum 45e6fd749479c56aa28147f3c49e5fb4
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0025436/MissileDefence.tzx.zip
+--tape-name "MissileDefence.tzx"
+--tape-sum 7d29c0293583effa2c1059e61b5f7f94
 --start 1343
---tape-start 15
 --sim-load-config finish-tape=1

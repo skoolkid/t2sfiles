@@ -1,7 +1,6 @@
-https://worldofspectrum.net/pub/sinclair/compilations/d/DoubleValueCassette.tzx.zip
---tape-name "Double Value Cassette.tzx"
---tape-sum 28406b54cba585d871096e355469fdf7
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016850/DeathtrapMine.tzx.zip
+--tape-name "DeathtrapMine.tzx"
+--tape-sum 8bc51317385f79369097d5f301fb8b8b
 --start 1343
---tape-start 12
 --sim-load-config finish-tape=1
 --sim-load-config 'load=LOAD "": RUN'

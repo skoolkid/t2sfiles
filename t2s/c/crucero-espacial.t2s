@@ -1,7 +1,5 @@
-https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0015280/LibreriaDeSoftwareSpectrum07(Side2).tzx.zip
---tape-name "Libreria de Software Spectrum Issue 07 - Side 2.tzx"
---tape-sum 90854e2ef0534e24c75abc7c5bf6e3ee
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024642/CruceroEspacial.tzx.zip
+--tape-name "CruceroEspacial.tzx"
+--tape-sum 96d73a6c5907f2063660d6f75d67ba92
 --start 1343
---tape-start 4
---tape-stop 6
 --sim-load-config finish-tape=1

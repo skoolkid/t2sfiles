@@ -1,6 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/g/GamesPack1.tzx.zip
---tape-name "Games Pack 1 (Abacus).tzx"
---tape-sum 4623f5d82a8020b8f5ebbc53d0aeb731
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0002442/Iceberg.tzx.zip
+--tape-name "Iceberg.tzx"
+--tape-sum dd5af7ec16a5829154919a8370f7ca0c
 --start 1343
---tape-stop 6
 --sim-load-config finish-tape=1

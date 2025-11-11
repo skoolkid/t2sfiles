@@ -1,6 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/123/10JuegosI.tzx.zip
---tape-name "10 Juegos I - Side 2.tzx"
---tape-sum acc9a9a0edccc31d39dd1d0b0b0e8a24
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016070/ConductorNovato.tzx.zip
+--tape-name "ConductorNovato.tzx"
+--tape-sum d5d971dd1a49c89405e96546cf2fcd36
 --start 1343
---tape-start 17
 --sim-load-config finish-tape=1

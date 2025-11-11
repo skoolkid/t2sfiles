@@ -1,7 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/b/BigJoy.tap.zip
---tape-name "NAFFSOFT.TAP"
---tape-sum 446d3ada3666850acdbf2926cf399a9d
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018668/Solgor.tap.zip
+--tape-name "Solgor.tap"
+--tape-sum 03411b9ef923239183df40816c3be03a
 --start 1343
---tape-start 50
---tape-stop 54
 --sim-load-config finish-tape=1

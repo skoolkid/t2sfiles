@@ -1,6 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/l/LasVegas.tzx.zip
---tape-name "Las Vegas.tzx"
---tape-sum cfc0a1c6016f8cab2175efa50989ce29
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0022505/Blackjack.tzx.zip
+--tape-name "Blackjack.tzx"
+--tape-sum 099a0fba8143646ce6fb45f44094da32
 --start 1343
---tape-start 13
 --sim-load-config finish-tape=1

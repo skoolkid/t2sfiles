@@ -1,5 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/s/SuperDigger+Chase.tzx.zip
---tape-name "Super Digger & Chase - Side A.tzx"
---tape-sum 04d2ab226821214d9292a1216ad60216
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0010275/SuperDigger.tzx.zip
+--tape-name "SuperDigger.tzx"
+--tape-sum 71da0fd84e0021079c0da0476a7ec29f
 --start 1343
 --sim-load-config finish-tape=1

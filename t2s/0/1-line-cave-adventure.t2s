@@ -1,8 +1,7 @@
-https://worldofspectrum.net/pub/sinclair/compilations/123/1LineStrategy.tzx.zip
---tape-name "1LineStrategy.tzx"
---tape-sum 1af35b532ab01058b038e7a25acdc49c
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0028326/1LineCaveAdventure.tzx.zip
+--tape-name "1LineCaveAdventure.tzx"
+--tape-sum 62b3dcfe0599d511b49ae68fc97b3122
 --start 1343
---tape-start 6
---tape-stop 8
 --sim-load-config finish-tape=1
+--tape-start 3
 --sim-load-config 'load=MERGE "": RUN 1'

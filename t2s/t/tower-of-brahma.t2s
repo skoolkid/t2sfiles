@@ -1,6 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/g/GamesTape3.tzx.zip
---tape-name "P.S.E. Games Tape 3 - Side A.tzx"
---tape-sum 9c2786db5197510ef4a9c096c2220fd5
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0015994/TowerOfBrahma.tzx.zip
+--tape-name "TowerOfBrahma.tzx"
+--tape-sum ff541f3abce68100f40b3a3fcb02f7c3
 --start 1343
---tape-start 5
 --sim-load-config finish-tape=1

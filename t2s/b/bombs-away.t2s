@@ -1,6 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/t/TinyTotsSeven.tzx.zip
---tape-name "Tiny Tots Seven.tzx"
---tape-sum bcd814566b17b2cfa40c50feebd172ad
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0017795/BombsAway.tzx.zip
+--tape-name "BombsAway.tzx"
+--tape-sum 348d2efa80c7010e3f67df8d550bc5cc
 --start 1343
---tape-start 20
 --sim-load-config finish-tape=1

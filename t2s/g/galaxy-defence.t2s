@@ -1,8 +1,6 @@
-https://worldofspectrum.net/pub/sinclair/compilations/c/Cassette50.tzx.zip
---tape-name "Cassette 50 - Side B.tzx"
---tape-sum 4b9fb65108f34580d49cef9b38f723b1
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018401/GalaxyDefence.tzx.zip
+--tape-name "GalaxyDefence.tzx"
+--tape-sum 5b85b6bba6d1a0fd7bb4e6f40223878b
 --start 1343
---tape-start 35
---tape-stop 37
 --sim-load-config finish-tape=1
 --sim-load-config 'load=LOAD "": RUN'

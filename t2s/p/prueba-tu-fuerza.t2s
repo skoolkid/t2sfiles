@@ -1,6 +1,5 @@
-https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0015280/LibreriaDeSoftwareSpectrum07(Side1).tzx.zip
---tape-name "Libreria de Software Spectrum Issue 07 - Side 1.tzx"
---tape-sum 56a3e0827bb5181f3846fa3f2b5a5506
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024640/PruebaTuFuerza.tzx.zip
+--tape-name "PruebaTuFuerza.tzx"
+--tape-sum 83febd154b0d01e66e424c5d6683bd4b
 --start 1343
---tape-start 18
 --sim-load-config finish-tape=1

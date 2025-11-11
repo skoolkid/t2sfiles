@@ -1,6 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/s/SpectrumSpecial2.tzx.zip
---tape-name "Spectrum Special 2 - Side 1.tzx"
---tape-sum 6442d03c33ea7963aa3217a9e7a6bc44
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016104/AnagramsAgainstTheClock.tzx.zip
+--tape-name "AnagramsAgainstTheClock.tzx"
+--tape-sum 67cd1ca3add1c5193ebb3cc5109a8462
 --start 1343
---tape-start 11
 --sim-load-config finish-tape=1

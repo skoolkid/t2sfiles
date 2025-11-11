@@ -1,5 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/games/p/PrisonerTheV1.tzx.zip
---tape-name "The Prisoner v1 - Side 2.tzx"
---tape-sum 1cad847623d5e7e765d3734d7affac4b
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018917/DeathMission.tzx.zip
+--tape-name "DeathMission.tzx"
+--tape-sum 91287d72a22db75ebfc26552e8ca8cfb
 --start 1343
 --sim-load-config finish-tape=1

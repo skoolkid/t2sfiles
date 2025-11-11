@@ -1,7 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/s/SpectrumCassette4802.tzx.zip
---tape-name "Spectrum Cassette 4802.tzx"
---tape-sum 9899626a326c96d0cd91d65e4ffb441a
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0017978/Billar.tzx.zip
+--tape-name "Billar.tzx"
+--tape-sum fb710c870b33db98e4d4de254ce95a9d
 --start 1343
---tape-start 18
---tape-stop 20
 --sim-load-config finish-tape=1

@@ -1,7 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/b/BigJoy.tap.zip
---tape-name "NAFFSOFT.TAP"
---tape-sum 446d3ada3666850acdbf2926cf399a9d
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018665/Horseplay.tap.zip
+--tape-name "Horseplay.tap"
+--tape-sum adfcd8048805ae20a929c6983311635f
 --start 1343
---tape-start 38
---tape-stop 40
 --sim-load-config finish-tape=1

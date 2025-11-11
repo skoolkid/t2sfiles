@@ -1,6 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/123/60SpectrumGames.tzx.zip
---tape-name "60 Games - Tape 1 - Side A.tzx"
---tape-sum f40369a0378b4074d43a0e6f8b1a4996
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0025433/Gridz.tzx.zip
+--tape-name "Gridz.tzx"
+--tape-sum 9891f8b8f7e21bac88077a476832d94b
 --start 1343
---tape-start 89
 --sim-load-config finish-tape=1

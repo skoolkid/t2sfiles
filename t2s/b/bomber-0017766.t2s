@@ -1,6 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/a/Astrocade.tzx.zip
---tape-name "Astrocade.tzx"
---tape-sum 5834281a01fa51856d6f13f303109dd1
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0017766/Bomber.tzx.zip
+--tape-name "Bomber.tzx"
+--tape-sum 4a7cd461a29fae76cdcaf4cdba57729d
 --start 1343
---tape-start 36
 --sim-load-config finish-tape=1

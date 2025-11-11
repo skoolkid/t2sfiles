@@ -1,6 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/s/SpectrumSpecial3.tzx.zip
---tape-name "Spectrum Special 3 - Side 2.tzx"
---tape-sum aca7a695ff850fc803ba4631a0a8297b
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016109/Solitaire.tzx.zip
+--tape-name "Solitaire.tzx"
+--tape-sum 39539637a288fec11974421b0dff84fd
 --start 1343
---tape-stop 4
 --sim-load-config finish-tape=1

@@ -1,6 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/s/Spectrum50Games.tzx.zip
---tape-name "Spectrum 50 Games - Side 2.tzx"
---tape-sum 4d2133d3cd364667b8f088b02242f0c6
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018426/JetFlight.tzx.zip
+--tape-name "JetFlight.tzx"
+--tape-sum 2388d5c707e36f3beb739509779af607
 --start 1343
---tape-start 19
 --sim-load-config finish-tape=1

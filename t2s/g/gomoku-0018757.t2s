@@ -1,7 +1,6 @@
-https://worldofspectrum.net/pub/sinclair/compilations/b/BestOfPCW-SoftwareForTheSpectrum.tzx.zip
---tape-name "Best Of PCW - Software For The Spectrum - Side A.tzx"
---tape-sum 98abd555321a8cbf5e6ff0f13bdcf32f
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018757/Gomoku.tzx.zip
+--tape-name "Gomoku.tzx"
+--tape-sum c5c60956d62671974134b8aeb22fe8ff
 --start 1343
---tape-start 26
 --sim-load-config finish-tape=1
 --sim-load-config 'load=LOAD "": RUN'

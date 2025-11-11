@@ -1,5 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/g/GamesTape2.tzx.zip
---tape-name "Games Tape 2 (Gilsoft) - Side 1.tzx"
---tape-sum 4e4b3667a829b1a84fb10db4b90378b9
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0015985/Reversi.tzx.zip
+--tape-name "Reversi.tzx"
+--tape-sum 1480565e6ba4c8a037f7f37d341d2393
 --start 1343
 --sim-load-config finish-tape=1

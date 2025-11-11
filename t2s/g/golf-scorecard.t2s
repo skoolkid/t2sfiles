@@ -1,7 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/g/GordelloDynastyThe.tzx.zip
---tape-name "The Gordello Dynasty - Side 2.tzx"
---tape-sum 0b84dd9659edddee3d563b366f86055a
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0015902/GolfScorecard.tzx.zip
+--tape-name "GolfScorecard.tzx"
+--tape-sum ec6863053409d3e374dd14e5617c1ba6
 --start 1343
---tape-start 24
---tape-stop 28
 --sim-load-config finish-tape=1

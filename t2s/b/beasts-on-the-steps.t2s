@@ -1,7 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/s/SpectrumSpecial3.tzx.zip
---tape-name "Spectrum Special 3 - Side 2.tzx"
---tape-sum aca7a695ff850fc803ba4631a0a8297b
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016836/BeastsOnTheSteps.tzx.zip
+--tape-name "BeastsOnTheSteps.tzx"
+--tape-sum 4fc066666c2eaed90d3cffa08ef14fec
 --start 1343
---tape-start 8
---tape-stop 10
 --sim-load-config finish-tape=1

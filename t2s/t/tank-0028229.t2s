@@ -1,7 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/u/UseAndLearn.tzx.zip
---tape-name "Use And Learn - Side 1.tzx"
---tape-sum 4a9c68c3a4f9467117a786671c08a413
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0028229/Tank.tzx.zip
+--tape-name "Tank.tzx"
+--tape-sum 86c0cf749b55f39011a2209c779454e5
 --start 1343
---tape-start 3
---tape-stop 5
 --sim-load-config finish-tape=1

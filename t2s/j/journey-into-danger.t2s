@@ -1,7 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/b/BigJoy.tap.zip
---tape-name "NAFFSOFT.TAP"
---tape-sum 446d3ada3666850acdbf2926cf399a9d
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0015977/JourneyIntoDanger.tzx.zip
+--tape-name "JourneyIntoDanger.tzx"
+--tape-sum ade4749f650871baab3d179ff8ad722a
 --start 1343
---tape-start 60
---tape-stop 64
 --sim-load-config finish-tape=1

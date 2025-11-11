@@ -1,6 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/s/Spectrum50Games.tzx.zip
---tape-name "Spectrum 50 Games - Side 1.tzx"
---tape-sum 7bc119765cec50b7ebae64f0077926ec
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018411/ZionAttack.tzx.zip
+--tape-name "ZionAttack.tzx"
+--tape-sum 437ca32a180389280dbeb3f2b2d72a81
 --start 1343
---tape-start 39
 --sim-load-config finish-tape=1

@@ -1,6 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/p/PCWGamesCollectionForTheSpectrum.tzx.zip
---tape-name "PCW Games Collection For The Spectrum - Side B.tzx"
---tape-sum d94d43be668c59c23f4899fe021e1945
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038443/MartianAttack.tzx.zip
+--tape-name "MartianAttack.tzx"
+--tape-sum cba053f9aff68ebf8264f6b57a057044
 --start 1343
---tape-start 11
 --sim-load-config finish-tape=1

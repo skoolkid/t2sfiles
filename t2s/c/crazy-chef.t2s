@@ -1,5 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/f/Frogger+CrazyChef.tzx.zip
---tape-name "Frogger & Crazy Chef - Side B.tzx"
---tape-sum c5dff6fd9de484905a820c0369fb56d4
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0015891/CrazyChef.tzx.zip
+--tape-name "CrazyChef.tzx"
+--tape-sum f4712999d9000fb74782622fdd4e0a48
 --start 1343
 --sim-load-config finish-tape=1

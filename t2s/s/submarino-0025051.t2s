@@ -1,6 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/g/GuerraDeBarcos+Submarino.tzx.zip
---tape-name "Guerra De Barcos + Submarino.tzx"
---tape-sum ce567720a356f6ccd2514ef852c67925
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0025051/Submarino.tzx.zip
+--tape-name "Submarino.tzx"
+--tape-sum afeb2d12f765ce5d9fae2ba68b878a75
 --start 1343
---tape-start 10
 --sim-load-config finish-tape=1

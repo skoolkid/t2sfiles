@@ -1,6 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/g/GamesTapeII.tzx.zip
---tape-name "Games Tape 2 (Pi Software).tzx"
---tape-sum 6b99e2a486d73d0e1cee1c8cf44b582f
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0027303/SnakeByte.tzx.zip
+--tape-name "SnakeByte.tzx"
+--tape-sum 8c8d28833ba0aeb810dedf57dc0c8b28
 --start 1343
---tape-start 7
 --sim-load-config finish-tape=1

@@ -1,7 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/b/BigJoy.tap.zip
---tape-name "NAFFSOFT.TAP"
---tape-sum 446d3ada3666850acdbf2926cf399a9d
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018658/NumberCruncher.tap.zip
+--tape-name "NumberCruncher.tap"
+--tape-sum a3c18d5139cc384e3b253d32637f6b55
 --start 1343
---tape-start 11
---tape-stop 15
 --sim-load-config finish-tape=1

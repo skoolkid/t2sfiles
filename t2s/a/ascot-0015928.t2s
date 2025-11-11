@@ -1,8 +1,7 @@
-https://worldofspectrum.net/pub/sinclair/compilations/d/DoubleValueCassette.tzx.zip
---tape-name "Double Value Cassette.tzx"
---tape-sum 28406b54cba585d871096e355469fdf7
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0015928/Ascot.tzx.zip
+--tape-name "Ascot.tzx"
+--tape-sum d520100cebcfaf7a4bec5068d916136a
 --start 1343
---tape-start 4
---tape-stop 6
+--tape-stop 3
 --sim-load-config finish-tape=1
 --sim-load-config 'load=LOAD "": RUN'

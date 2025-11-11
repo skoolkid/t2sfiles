@@ -1,7 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/123/10JuegosII.tzx.zip
---tape-name "10 Juegos II - Side 2.tzx"
---tape-sum b96df4ec27b5a776bd89fa9ecc803920
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016081/Bombardero.tzx.zip
+--tape-name "Bombardero.tzx"
+--tape-sum 2ea2a69882f1009a86ccc7d119f20d8e
 --start 1343
---tape-start 8
---tape-stop 10
 --sim-load-config finish-tape=1

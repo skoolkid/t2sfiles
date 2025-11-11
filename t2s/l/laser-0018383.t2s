@@ -1,8 +1,6 @@
-https://worldofspectrum.net/pub/sinclair/compilations/c/Cassette50.tzx.zip
---tape-name "Cassette 50 - Side A.tzx"
---tape-sum 83b9e41d2ad8b8b37b646e8e58bdafb5
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018383/Laser.tzx.zip
+--tape-name "Laser.tzx"
+--tape-sum 35e3cb588e54fbef79d6663bc4edc73c
 --start 1343
---tape-start 53
---tape-stop 55
 --sim-load-config finish-tape=1
 --sim-load-config 'load=LOAD "": RUN'

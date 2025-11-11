@@ -1,7 +1,6 @@
-https://worldofspectrum.net/pub/sinclair/compilations/b/BestOfPCW-SoftwareForTheSpectrum.tzx.zip
---tape-name "Best Of PCW - Software For The Spectrum - Side B.tzx"
---tape-sum a22e19c3597d890ee28c54a1fcf10afc
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043162/RocketAttack.tzx.zip
+--tape-name "RocketAttack.tzx"
+--tape-sum 7c9e4b92b35a8bfef84cb3cb7ba8ec4e
 --start 1343
---tape-start 59
 --sim-load-config finish-tape=1
 --sim-load-config 'load=LOAD "": RUN'

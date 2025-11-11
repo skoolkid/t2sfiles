@@ -1,5 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/g/GrandPrix+RallyZ.tzx.zip
---tape-name "Grand Prix & Rally Z - Rally Z.tzx"
---tape-sum 13f0a73b74fbb838ab0f801f0a961378
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0015879/RallyZ.tzx.zip
+--tape-name "RallyZ.tzx"
+--tape-sum 1e73ead9b99a617b5bf6fcff6d44d23f
 --start 1343
 --sim-load-config finish-tape=1

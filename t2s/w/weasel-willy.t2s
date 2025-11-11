@@ -1,7 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/d/DontBuyThis.tzx.zip
---tape-name "Don't Buy This.tzx"
---tape-sum 647e8f0b27614249e47b97af25a51d25
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0015229/WeaselWilly.tzx.zip
+--tape-name "WeaselWilly.tzx"
+--tape-sum 3a2974df68eb01a16ea0ece05bd286e2
 --start 1343
---tape-start 14
---tape-stop 20
 --sim-load-config finish-tape=1

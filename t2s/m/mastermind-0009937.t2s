@@ -1,5 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/l/L-GameMastermindAndPontoon.tzx.zip
---tape-name "The L Game - Side 2.tzx"
---tape-sum bd1a3996f41d4524aa98addbc12a4a5b
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0009937/Mastermind.tzx.zip
+--tape-name "Mastermind.tzx"
+--tape-sum fe80c9e3e69524b558bb2cb2014b47f9
 --start 1343
 --sim-load-config finish-tape=1

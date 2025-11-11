@@ -1,6 +1,6 @@
-https://worldofspectrum.net/pub/sinclair/compilations/g/GamesTape2_2.tzx.zip
---tape-name "P.S.E. Games Tape 2 - Side A.tzx"
---tape-sum acddbba5667ddf9982ab69baaa7a7792
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0015987/FruitMachine.tzx.zip
+--tape-name "FruitMachine.tzx"
+--tape-sum 24b8f9ec349834e3e7054c029bdb04f0
 --start 1343
 --sim-load-config finish-tape=1
 --sim-load-config 'load=LOAD "": RUN'

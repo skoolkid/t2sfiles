@@ -1,7 +1,6 @@
-https://worldofspectrum.net/pub/sinclair/compilations/g/Games3.tzx.zip
---tape-name "Games 3.tzx"
---tape-sum 1f45b179754dc393cecc40aa3f271770
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0015974/Battleships.tzx.zip
+--tape-name "Battleships.tzx"
+--tape-sum a1fdc14a874d8d041beda1af1f449788
 --start 1343
---tape-start 8
 --sim-load-config finish-tape=1
 --sim-load-config 'load=LOAD "": RUN'

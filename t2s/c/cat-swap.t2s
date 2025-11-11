@@ -1,7 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/s/SpectrumSpecial3.tzx.zip
---tape-name "Spectrum Special 3 - Side 1.tzx"
---tape-sum 31778cc9182c81f5b810c4d45b67c1d6
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016837/Cat-Swap.tzx.zip
+--tape-name "Cat-Swap.tzx"
+--tape-sum 01ba2b4a44d9eeebdd041c37b986375b
 --start 1343
---tape-start 8
---tape-stop 10
 --sim-load-config finish-tape=1

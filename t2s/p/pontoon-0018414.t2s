@@ -1,6 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/s/Spectrum50Games.tzx.zip
---tape-name "Spectrum 50 Games - Side 1.tzx"
---tape-sum 7bc119765cec50b7ebae64f0077926ec
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018414/Pontoon.tzx.zip
+--tape-name "Pontoon.tzx"
+--tape-sum a354050285ad210414021fdcb6e77cf6
 --start 1343
---tape-start 55
 --sim-load-config finish-tape=1

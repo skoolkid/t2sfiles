@@ -1,5 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/s/Startrek+TowersOfBrahma.tzx.zip
---tape-name "Startrek & Towers Of Brahma - Side 1.tzx"
---tape-sum 77938c6f00289092de71ac5f61f05d4f
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0017830/Startrek.tzx.zip
+--tape-name "Startrek.tzx"
+--tape-sum 2825d0f4bca655e405c4bf0f56b97f1f
 --start 1343
 --sim-load-config finish-tape=1

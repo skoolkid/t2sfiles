@@ -1,6 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/t/Trio_2.tzx.zip
---tape-name "Trio.tzx"
---tape-sum 1958d8c5b298768e218ff29dfcf9f24e
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0009597/ChaoticCaverns.tzx.zip
+--tape-name "ChaoticCaverns.tzx"
+--tape-sum d1e6bacf150fbf6a4966823354f40aa5
 --start 1343
---tape-start 22
 --sim-load-config finish-tape=1

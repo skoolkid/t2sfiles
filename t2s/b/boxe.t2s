@@ -1,5 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/s/SoftwareClub.tzx.zip
---tape-name "Software Club - Side B.tzx"
---tape-sum ce16d4f1f3d834cb3f25a03fc408fa14
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038078/Boxe.tap.zip
+--tape-name "Boxe.tap"
+--tape-sum 84f2dcd951912f9dde9558e7a4894853
 --start 1343
 --sim-load-config finish-tape=1

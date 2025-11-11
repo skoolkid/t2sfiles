@@ -1,7 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/g/GordelloDynastyThe.tzx.zip
---tape-name "The Gordello Dynasty - Side 2.tzx"
---tape-sum 0b84dd9659edddee3d563b366f86055a
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0015903/MatchingPairs.tzx.zip
+--tape-name "MatchingPairs.tzx"
+--tape-sum ce1f24539cf60e9f0e07841a54b407e1
 --start 1343
---tape-start 28
---tape-stop 30
 --sim-load-config finish-tape=1

@@ -1,6 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/123/60SpectrumGames.tzx.zip
---tape-name "60 Games - Tape 1 - Side B.tzx"
---tape-sum 45e6fd749479c56aa28147f3c49e5fb4
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0014512/SpaceEscape.tzx.zip
+--tape-name "SpaceEscape.tzx"
+--tape-sum e3726b57a5503352d09a0ac081e614bd
 --start 1343
---tape-start 47
 --sim-load-config finish-tape=1

@@ -1,6 +1,5 @@
-https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0023753/Santa(SideB).tzx.zip
---tape-name "Santa - Top Spec (Side B).tzx"
---tape-sum 8a237f4760a92355b489800fa09c3b65
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034726/HauntedHouse.tzx.zip
+--tape-name "HauntedHouse.tzx"
+--tape-sum 2c10afd87285aadf6eaf3c0e0922eddd
 --start 1343
---tape-stop 4
 --sim-load-config finish-tape=1

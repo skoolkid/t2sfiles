@@ -1,6 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/p/PCWGamesCollectionForTheSpectrum.tzx.zip
---tape-name "PCW Games Collection For The Spectrum - Side A.tzx"
---tape-sum 74e6f4605f6fad615c4b7353490c3054
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042436/Supalanda.tzx.zip
+--tape-name "Supalanda.tzx"
+--tape-sum 2876d3468ab176cce6e21e1d66c3b0ec
 --start 1343
---tape-start 20
 --sim-load-config finish-tape=1

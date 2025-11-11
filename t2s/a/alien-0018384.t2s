@@ -1,7 +1,6 @@
-https://worldofspectrum.net/pub/sinclair/compilations/c/Cassette50.tzx.zip
---tape-name "Cassette 50 - Side A.tzx"
---tape-sum 83b9e41d2ad8b8b37b646e8e58bdafb5
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018384/Alien.tzx.zip
+--tape-name "Alien.tzx"
+--tape-sum c3922830cc12dbbe3905eaf3bb9a2e87
 --start 1343
---tape-start 55
 --sim-load-config finish-tape=1
 --sim-load-config 'load=LOAD "": RUN'

@@ -1,6 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/s/Spectrum50Games.tzx.zip
---tape-name "Spectrum 50 Games - Side 2.tzx"
---tape-sum 4d2133d3cd364667b8f088b02242f0c6
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018435/DoYourSums.tzx.zip
+--tape-name "DoYourSums.tzx"
+--tape-sum 667b9b6d3e127df8197d8b6935f29292
 --start 1343
---tape-start 59
 --sim-load-config finish-tape=1

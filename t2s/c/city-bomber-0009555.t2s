@@ -1,6 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/s/SpectrumArcadePack.tzx.zip
---tape-name "Spectrum Arcade Pack.tzx"
---tape-sum 6b38dd9cfd4cc27104f5035a82061c7e
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0009555/CityBomber.tzx.zip
+--tape-name "CityBomber.tzx"
+--tape-sum b39f281aa9e66431b544ffdbb063c120
 --start 1343
---tape-start 42
 --sim-load-config finish-tape=1

@@ -1,6 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/123/60SpectrumGames.tzx.zip
---tape-name "60 Games - Tape 2 - Side B.tzx"
---tape-sum 046da85bb7c8205784180cc1cf6d3b2b
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0025455/MoneyMadness.tzx.zip
+--tape-name "MoneyMadness.tzx"
+--tape-sum a7524a5da562ef7ce64cac2dfa0aeb9e
 --start 1343
---tape-start 39
 --sim-load-config finish-tape=1

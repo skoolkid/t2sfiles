@@ -1,5 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/g/GamesTape2.tzx.zip
---tape-name "Games Tape 2 (Gilsoft) - Side 2.tzx"
---tape-sum 37f83c60dff23dbe8b4d4d0462bcd07c
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0015986/PokerDice.tzx.zip
+--tape-name "PokerDice.tzx"
+--tape-sum 2fbffd774e306b4b6d457c3957b8dce2
 --start 1343
 --sim-load-config finish-tape=1

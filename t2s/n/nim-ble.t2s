@@ -1,5 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/v/ViajeEnGlobo+Nim-ble.tzx.zip
---tape-name "Viaje En Globo Y Nim-Ble - Side 2.tzx"
---tape-sum e48e85eb2c68d1f86f86c1cca7e8e712
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0023026/Nim-ble.tzx.zip
+--tape-name "Nim-ble.tzx"
+--tape-sum f3f08bbef8cab2984b4c8da27368c15c
 --start 1343
 --sim-load-config finish-tape=1

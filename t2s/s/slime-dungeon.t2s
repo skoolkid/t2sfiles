@@ -1,7 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/g/GamesPackOne.tzx.zip
---tape-name "Games Pack One.tzx"
---tape-sum b86c5f998c53cb2f5ed927fa0eeb4851
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0025335/SlimeDungeon.tzx.zip
+--tape-name "SlimeDungeon.tzx"
+--tape-sum 6fff3dc4433381ab83f7aa83ad42f0b6
 --start 1343
---tape-start 14
---tape-stop 18
 --sim-load-config finish-tape=1

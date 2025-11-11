@@ -1,8 +1,6 @@
-https://worldofspectrum.net/pub/sinclair/compilations/b/BumperPack4.tzx.zip
---tape-name "Bumper Pack 50 - Side 1.tzx"
---tape-sum aad9c93b2169562ce6fc04819e79fab2
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040259/Time-A-Climber.tzx.zip
+--tape-name "Time-A-Climber.tzx"
+--tape-sum 6bd0beb79240376cf025e58fd8d049c2
 --start 1343
---tape-start 2
---tape-stop 4
 --sim-load-config finish-tape=1
 --sim-load-config 'load=LOAD "": RUN'

@@ -1,7 +1,6 @@
-https://worldofspectrum.net/pub/sinclair/compilations/g/Games2.tzx.zip
---tape-name "Games 2.tzx"
---tape-sum 2c5d0c6f631d9817c709d9dffcab3181
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0015969/DropABrick.tzx.zip
+--tape-name "DropABrick.tzx"
+--tape-sum 7474b8db52183c1664af9acb489a2f3b
 --start 1343
---tape-start 5
 --sim-load-config finish-tape=1
 --sim-load-config 'load=LOAD "": RUN'

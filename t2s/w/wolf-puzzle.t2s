@@ -1,7 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/s/SpectrumSpecial1.tzx.zip
---tape-name "Spectrum Special 1 - Side 1.tzx"
---tape-sum 7baf780ad7251a2784dc7eda995c030a
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016098/WolfPuzzle.tzx.zip
+--tape-name "WolfPuzzle.tzx"
+--tape-sum 8c9cb35e806a17bd566b8aaa091f0015
 --start 1343
---tape-start 6
---tape-stop 8
 --sim-load-config finish-tape=1

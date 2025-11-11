@@ -1,7 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/g/GamblerThe.tzx.zip
---tape-name "The Gambler.tzx"
---tape-sum 0945c6e1c96a6dc35bd955e63905dad4
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0020245/Hi-Lo.tzx.zip
+--tape-name "Hi-Lo.tzx"
+--tape-sum bf8cd3ea92838c02117c1115f4aa4577
 --start 1343
---tape-start 10
---tape-stop 20
 --sim-load-config finish-tape=1

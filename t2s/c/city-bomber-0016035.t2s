@@ -1,6 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/u/UltimateExperienceThe.tzx.zip
---tape-name "The Ultimate Experience.tzx"
---tape-sum b3e456424751491c66a47b20116820fb
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016035/CityBomber.tzx.zip
+--tape-name "CityBomber.tzx"
+--tape-sum 160f947cec5bc1c2a4de768a6286abcf
 --start 1343
---tape-start 11
 --sim-load-config finish-tape=1

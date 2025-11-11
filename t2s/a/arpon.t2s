@@ -1,7 +1,5 @@
-https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0015282/LibreriaDeSoftwareSpectrum09(Side1).tzx.zip
---tape-name "Libreria de Software Spectrum Issue 09 - Side 1.tzx"
---tape-sum 2c548a18a1393cb45849e99b542a1553
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018147/Arpon.tzx.zip
+--tape-name "Arpon.tzx"
+--tape-sum 59b9ef36e2dec2554d03e1644094e949
 --start 1343
---tape-start 12
---tape-stop 14
 --sim-load-config finish-tape=1

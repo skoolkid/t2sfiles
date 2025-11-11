@@ -1,7 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/s/SimonGames1.tzx.zip
---tape-name "Simon Games 1.tzx"
---tape-sum a0d5f124d2979bf1fb39cab43944904b
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0027599/Bizzaro-Birds.tzx.zip
+--tape-name "Bizzaro-Birds.tzx"
+--tape-sum 21484848fa384cac60462aa5a5f36b59
 --start 1343
---tape-start 9
---tape-stop 11
 --sim-load-config finish-tape=1

@@ -1,7 +1,5 @@
-https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0015274/LibreriaDeSoftwareSpectrum01(Side2).tzx.zip
---tape-name "Libreria de Software Spectrum Issue 01 - Side 2.tzx"
---tape-sum e0c1d2ab770ebebe79353c8ce99f48f5
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018092/Minas.tzx.zip
+--tape-name "Minas.tzx"
+--tape-sum 6eb6acc4e7fb395dc8757c6aad05d4b8
 --start 1343
---tape-start 6
---tape-stop 8
 --sim-load-config finish-tape=1

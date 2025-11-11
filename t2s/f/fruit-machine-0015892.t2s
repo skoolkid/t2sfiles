@@ -1,5 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/f/FruitMachine+Pontoon.tzx.zip
---tape-name "Fruit Machine & Pontoon - Side 1 (Astro Software).tzx"
---tape-sum 74f14c43761a6819e3bbc07b11a24b92
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0015892/FruitMachine.tzx.zip
+--tape-name "FruitMachine.tzx"
+--tape-sum 3d936ad4bd1944614a074457166411ff
 --start 1343
 --sim-load-config finish-tape=1

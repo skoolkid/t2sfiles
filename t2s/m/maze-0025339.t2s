@@ -1,6 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/g/GamesPackOne.tzx.zip
---tape-name "Games Pack One.tzx"
---tape-sum b86c5f998c53cb2f5ed927fa0eeb4851
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0025339/Maze.tzx.zip
+--tape-name "Maze.tzx"
+--tape-sum c2e6d55bf222e323cd4b5d9089907601
 --start 1343
---tape-start 26
 --sim-load-config finish-tape=1

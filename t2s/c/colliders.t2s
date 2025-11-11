@@ -1,7 +1,5 @@
-https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039272/SuperSinc1(Anno2).tzx.zip
---tape-name "SuperSinc1(Anno2).tzx"
---tape-sum 7f92dbe0a64f98e342fb54f3c34fb711
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038148/Colliders.tzx.zip
+--tape-name "Colliders.tzx"
+--tape-sum 27afb41d4051e27bded223af4bb790d0
 --start 1343
---tape-start 9
---tape-stop 15
 --sim-load-config finish-tape=1

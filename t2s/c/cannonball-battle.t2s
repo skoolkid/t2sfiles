@@ -1,6 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/s/Spectrum50Games.tzx.zip
---tape-name "Spectrum 50 Games - Side 1.tzx"
---tape-sum 7bc119765cec50b7ebae64f0077926ec
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018421/CannonballBattle.tzx.zip
+--tape-name "CannonballBattle.tzx"
+--tape-sum da854cd765daeb83d4f25da04fa6a276
 --start 1343
---tape-start 99
 --sim-load-config finish-tape=1

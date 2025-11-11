@@ -1,6 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/s/Spectrum50Games.tzx.zip
---tape-name "Spectrum 50 Games - Side 1.tzx"
---tape-sum 7bc119765cec50b7ebae64f0077926ec
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018417/Orbitter.tzx.zip
+--tape-name "Orbitter.tzx"
+--tape-sum f18d82d339436f08097a17d1a3e05475
 --start 1343
---tape-start 75
 --sim-load-config finish-tape=1

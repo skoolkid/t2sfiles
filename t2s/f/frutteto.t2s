@@ -1,7 +1,5 @@
-https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039295/SuperSinc6(Anno2).tzx.zip
---tape-name "SuperSinc6(Anno2).tzx"
---tape-sum eb2486ddbe2532f1b6d801de4d1810f9
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038856/Frutteto.tzx.zip
+--tape-name "Frutteto.tzx"
+--tape-sum 0683d5ebefb19cd8ba7c55796e80e3c1
 --start 1343
---tape-start 12
---tape-stop 14
 --sim-load-config finish-tape=1

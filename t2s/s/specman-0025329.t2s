@@ -1,7 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/g/GamesTapeI.tzx.zip
---tape-name "Games Pack One (Logic Systems).tzx"
---tape-sum 5dce0e483afcc711e75d20e434014ab1
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0025329/Specman.tzx.zip
+--tape-name "Specman.tzx"
+--tape-sum 3861be61210c41ae05a67974d6fc869e
 --start 1343
---tape-start 6
---tape-stop 10
 --sim-load-config finish-tape=1

@@ -1,7 +1,5 @@
-https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039291/SuperSinc5(Anno2).tzx.zip
---tape-name "SuperSinc5(Anno2).tzx"
---tape-sum 1db2800ad5387af38a05ca927beb37ed
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038308/IsolaDelFaroL.tzx.zip
+--tape-name "IsolaDelFaroL.tzx"
+--tape-sum f5884ba1ea9ba42e737d9116e7ff5500
 --start 1343
---tape-start 14
---tape-stop 16
 --sim-load-config finish-tape=1

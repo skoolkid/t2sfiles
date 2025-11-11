@@ -1,7 +1,6 @@
-https://worldofspectrum.net/pub/sinclair/compilations/b/BigJoy.tap.zip
---tape-name "NAFFSOFT.TAP"
---tape-sum 446d3ada3666850acdbf2926cf399a9d
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0015973/DaylightRobbery.tzx.zip
+--tape-name "DaylightRobbery.tzx"
+--tape-sum 34a6fefa105c4f4a134aff2f28bfcabf
 --start 1343
---tape-start 9
---tape-stop 11
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

@@ -1,7 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/u/UseAndLearn.tzx.zip
---tape-name "Use And Learn - Side 1.tzx"
---tape-sum 4a9c68c3a4f9467117a786671c08a413
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0028230/Parachute.tzx.zip
+--tape-name "Parachute.tzx"
+--tape-sum 0c3a6c9588d9e682783fbe71504c496d
 --start 1343
---tape-start 5
---tape-stop 7
 --sim-load-config finish-tape=1

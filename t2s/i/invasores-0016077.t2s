@@ -1,7 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/123/10JuegosII.tzx.zip
---tape-name "10 Juegos II - Side 1.tzx"
---tape-sum 24ca4e9ef8980fa983378f8cea37eec8
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016077/Invasores.tzx.zip
+--tape-name "Invasores.tzx"
+--tape-sum 88d1fab937eb0d8f59007369bcbe0f05
 --start 1343
---tape-start 10
---tape-stop 12
 --sim-load-config finish-tape=1

@@ -1,8 +1,6 @@
-https://worldofspectrum.net/pub/sinclair/compilations/c/Cassette50.tzx.zip
---tape-name "Cassette 50 - Side A.tzx"
---tape-sum 83b9e41d2ad8b8b37b646e8e58bdafb5
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018374/Motorway.tzx.zip
+--tape-name "Motorway.tzx"
+--tape-sum 2f8130e1ff8e109dc7603173c7b38c4a
 --start 1343
---tape-start 29
---tape-stop 31
 --sim-load-config finish-tape=1
 --sim-load-config 'load=LOAD "": RUN'

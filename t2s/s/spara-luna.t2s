@@ -1,8 +1,6 @@
-https://worldofspectrum.net/pub/sinclair/compilations/123/15GiochiGraficiPerZXSpectrum.tzx.zip
---tape-name "15 Giochi Grafici (J. Soft).tzx"
---tape-sum efb64b10747e2dccb5a219e0ccc75456
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0023337/SparaLuna.tzx.zip
+--tape-name "SparaLuna.tzx"
+--tape-sum 86072dfad4231f573f33f100dd5ecac3
 --start 1343
---tape-start 18
---tape-stop 20
 --sim-load-config finish-tape=1
 --sim-load-config 'load=LOAD "": RUN'

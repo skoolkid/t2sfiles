@@ -1,7 +1,5 @@
-https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0015285/LibreriaDeSoftwareSpectrum12(Side1).tzx.zip
---tape-name "Libreria de Software Spectrum Issue 12 - Side 1.tzx"
---tape-sum 5170870011b73ff6469bfe4b3b669191
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0024664/CiudadEncantadaLa.tzx.zip
+--tape-name "CiudadEncantadaLa.tzx"
+--tape-sum 93ff9ac37c0ccb9d7df3c083c6bf4c2d
 --start 1343
---tape-start 12
---tape-stop 16
 --sim-load-config finish-tape=1

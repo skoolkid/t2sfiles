@@ -1,6 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/p/Paintcraze+BattleOfBrokenBridge+IcarusIgginbothamThe.tzx.zip
---tape-name "The Battle Of Broken Bridge & Icarus Igginbotham.tzx"
---tape-sum 689fe814e660ec37fe46af4cfc58016e
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0015883/IcarusIgginbotham.tzx.zip
+--tape-name "IcarusIgginbotham.tzx"
+--tape-sum af9a26567b01744436a1a21189c1144a
 --start 1343
---tape-start 9
 --sim-load-config finish-tape=1

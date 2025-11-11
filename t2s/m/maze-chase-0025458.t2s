@@ -1,7 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/123/60SpectrumGames.tzx.zip
---tape-name "60 Games - Tape 2 - Side B.tzx"
---tape-sum 046da85bb7c8205784180cc1cf6d3b2b
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0025458/MazeChase.tzx.zip
+--tape-name "MazeChase.tzx"
+--tape-sum 9ae9ac59927a8b7c28bfc8d5e78118a6
 --start 1343
---tape-start 57
---tape-stop 61
 --sim-load-config finish-tape=1

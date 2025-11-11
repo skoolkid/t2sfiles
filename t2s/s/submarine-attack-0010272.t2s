@@ -1,5 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/j/Jackpot+SubmarineAttack.tzx.zip
---tape-name "Jackpot & Submarine Attack - Side 2.tzx"
---tape-sum 7f3c99f1a24111f736b3acf8d4200aa7
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0010272/SubmarineAttack.tzx.zip
+--tape-name "SubmarineAttack.tzx"
+--tape-sum 29f8eecda39087dde2f5521d720be36d
 --start 1343
 --sim-load-config finish-tape=1

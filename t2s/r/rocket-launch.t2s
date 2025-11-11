@@ -1,6 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/s/Spectrum50Games.tzx.zip
---tape-name "Spectrum 50 Games - Side 2.tzx"
---tape-sum 4d2133d3cd364667b8f088b02242f0c6
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018431/RocketLaunch.tzx.zip
+--tape-name "RocketLaunch.tzx"
+--tape-sum b1a21f951c84cfc6076ec706fc16d915
 --start 1343
---tape-start 43
 --sim-load-config finish-tape=1

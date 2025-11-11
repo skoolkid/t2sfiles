@@ -1,5 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/b/Brisca+Cinquillo.tzx.zip
---tape-name "Brisca + Cinquillo - Side 2 (Investronica).tzx"
---tape-sum 5c9bc606a8b7248212b25a965ee5e14d
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018835/Cinquillo.tzx.zip
+--tape-name "Cinquillo.tzx"
+--tape-sum 595680eff237cb90084070b66590cf7a
 --start 1343
 --sim-load-config finish-tape=1
