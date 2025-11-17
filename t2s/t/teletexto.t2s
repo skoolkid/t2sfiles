@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035785/Teletexto.tzx.zip
+--tape-name "TELETEXTO.TZX"
+--tape-sum dfc1fd4fabf6100f73afef5b0a8efd12
+--start 1343
+--sim-load-config finish-tape=1
