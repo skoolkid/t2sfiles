@@ -1,7 +1,5 @@
-https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039391/SystemsEditorialeCompilation.tzx.zip
---tape-name "SystemsEditorialeCompilation.tzx"
---tape-sum 0b6974d94ec43f3022891314ea376612
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037323/Labirynth31.tzx.zip
+--tape-name "Labirynth31.tzx"
+--tape-sum ec902283ccf219a82eadd061c3652b06
 --start 25729
---tape-start 10
---tape-stop 20
 --sim-load-config finish-tape=1

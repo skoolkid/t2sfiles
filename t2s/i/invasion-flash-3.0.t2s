@@ -1,6 +1,5 @@
-https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039391/SystemsEditorialeCompilation.tzx.zip
---tape-name "SystemsEditorialeCompilation.tzx"
---tape-sum 0b6974d94ec43f3022891314ea376612
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0037324/InvasionFlash30.tzx.zip
+--tape-name "InvasionFlash30.tzx"
+--tape-sum f063a6b50fd0918e108a3d5b767df2b3
 --start 25772
---tape-start 20
 --sim-load-config finish-tape=1

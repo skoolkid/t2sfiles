@@ -1,6 +1,4 @@
-https://worldofspectrum.net/pub/sinclair/compilations/123/60SpectrumGames.tzx.zip
---tape-name "60 Games - Tape 1 - Side A.tzx"
---tape-sum f40369a0378b4074d43a0e6f8b1a4996
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0014507/Bomber.tzx.zip
+--tape-name "Bomber.tzx"
+--tape-sum 4591f7e6b903b73601b1f7f70e0e556d
 --start 40000
---tape-start 66
---tape-stop 74

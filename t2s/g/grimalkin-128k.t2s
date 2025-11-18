@@ -1,7 +1,6 @@
-https://worldofspectrum.net/pub/sinclair/compilations/a/AdventureTape1.tzx.zip
---tape-name "Adventure Tape 1.tzx"
---tape-sum dc82ab0eb9f568fb20edbfbf295c3fe9
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0015923/Grimalkin128K.tzx.zip
+--tape-name "Grimalkin128K.tzx"
+--tape-sum 5b2c139061cd29e67b79bf0d92b037ae
 --start 36366
 --sim-load-config machine=128
---tape-start 48
 --sim-load-config finish-tape=1
