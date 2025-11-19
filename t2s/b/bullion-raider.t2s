@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0000755/BullionRaider.tzx.zip
+--tape-name "BullionRaider.tzx"
+--tape-sum 29df9bf49f5bf746794b22068ca20717
+--start 1343
+--sim-load-config finish-tape=1

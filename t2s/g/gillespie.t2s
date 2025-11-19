@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016732/Gillespie.tzx.zip
+--tape-name "Gillespie.tzx"
+--tape-sum 97ece86c730865b42d0f20117577c769
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0017939/HermanosMarioLos.tzx.zip
+--tape-name "HermanosMarioLos.tzx"
+--tape-sum 48758bfb50b0cff138ecc2188725c90f
+--start 1343
+--press 7:ENTER*145
+--sim-load-config finish-tape=1

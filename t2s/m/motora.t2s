@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018257/Motora.tap.zip
+--tape-name "Motora.tap"
+--tape-sum 9f25231175ea309adc1452262d1a0b2f
+--start 1343
+--sim-load-config finish-tape=1

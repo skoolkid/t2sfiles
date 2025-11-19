@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0029731/Plockman.tap.zip
+--tape-name "Plockman.tap"
+--tape-sum 399c6e4e605f842a28d951b1926dfd70
+--start 1343
+--sim-load-config finish-tape=1

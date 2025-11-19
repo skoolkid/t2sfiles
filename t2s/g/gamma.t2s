@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016822/Gamma.tzx.zip
+--tape-name "Gamma.tzx"
+--tape-sum 40e8aa67f8d83688a2a108acc382745e
+--start 1343
+--sim-load-config finish-tape=1

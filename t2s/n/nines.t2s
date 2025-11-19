@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016734/Nines.tzx.zip
+--tape-name "Nines.tzx"
+--tape-sum 609982858326b5a905294ae698aadff6
+--start 1343
+--sim-load-config finish-tape=1

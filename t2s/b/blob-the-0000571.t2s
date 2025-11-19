@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0000571/BlobThe.tzx.zip
+--tape-name "BlobThe.tzx"
+--tape-sum 3642fd28fb3aa5fe0c64478c65dc874c
+--start 1343
+--sim-load-config finish-tape=1

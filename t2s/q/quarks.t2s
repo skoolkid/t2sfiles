@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016824/Quarks.tzx.zip
+--tape-name "Quarks.tzx"
+--tape-sum c92b4dbadbb47b9f2ecc7a816c1751b0
+--start 1343
+--sim-load-config finish-tape=1

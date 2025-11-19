@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0022336/SantaTheAdventure.tzx.zip
+--tape-name "SantaTheAdventure.tzx"
+--tape-sum 933389ce06271e0550a468325e54f11b
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016664/SnowmanSam.tzx.zip
+--tape-name "SnowmanSam.tzx"
+--tape-sum 501ae74688520de4a345b450b672d894
+--start 1343
+--sim-load-config finish-tape=1

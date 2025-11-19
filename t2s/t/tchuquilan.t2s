@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0017948/Tchuquilan.tzx.zip
+--tape-name "Tchuquilan.tzx"
+--tape-sum 758d241363b23f251885b414fec10a35
+--start 1343
+--sim-load-config finish-tape=1

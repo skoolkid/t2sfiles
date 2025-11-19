@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016984/LinkFour.tzx.zip
+--tape-name "LinkFour.tzx"
+--tape-sum 5c7f504144a7c3bbbbb05f69cc40e011
+--start 1343
+--sim-load-config finish-tape=1

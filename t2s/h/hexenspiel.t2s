@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018771/Hexenspiel.tzx.zip
+--tape-name "Hexenspiel.tzx"
+--tape-sum 4aeb881af2acc244bc1c30bc30f7254b
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044740/Katerpillar.tzx.zip
+--tape-name "Katerpillar.tzx"
+--tape-sum d4b2a9ef04310bf50bf28d9103fb5389
+--start 1343
+--sim-load-config finish-tape=1

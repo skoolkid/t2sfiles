@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0027365/VirusDeltaParte2-UltimoAtto.tzx.zip
+--tape-name "VirusDeltaParte2-UltimoAtto.tzx"
+--tape-sum cc2edb445e67587236501bbf264ca325
+--start 1343
+--press '5:p*4 r*4 o*4 v*4 e*4 t*40 a*4 ENTER*4'
+--sim-load-config finish-tape=1

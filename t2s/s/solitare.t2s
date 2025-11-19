@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0029737/Solitare.tap.zip
+--tape-name "Solitare.tap"
+--tape-sum cd66c83c1f51e209bf1b38cd3cff8268
+--start 1343
+--sim-load-config finish-tape=1

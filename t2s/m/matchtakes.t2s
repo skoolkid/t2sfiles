@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0021883/Matchtakes.tzx.zip
+--tape-name "Matchtakes.tzx"
+--tape-sum 0db463acb8b65ff1b6c61b635c9a2094
+--start 1343
+--sim-load-config finish-tape=1

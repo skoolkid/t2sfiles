@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0029733/Yatzy.tap.zip
+--tape-name "Yatzy.tap"
+--tape-sum 888e874d592d2c7b3784055c5a7cf12e
+--start 1343
+--sim-load-config finish-tape=1

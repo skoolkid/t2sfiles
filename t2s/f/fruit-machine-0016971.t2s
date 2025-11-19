@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016971/FruitMachine.tzx.zip
+--tape-name "FruitMachine.tzx"
+--tape-sum dbe52ffa56b2cad7f4419e900c576441
+--start 1343
+--sim-load-config finish-tape=1

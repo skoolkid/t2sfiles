@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016728/RalphOnAlpha2.tzx.zip
+--tape-name "RalphOnAlpha2.tzx"
+--tape-sum f82e425db7274fd2b4850a761dd20b7c
+--start 1343
+--sim-load-config finish-tape=1

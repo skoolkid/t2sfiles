@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0003486/Octipede.tzx.zip
+--tape-name "Octipede.tzx"
+--tape-sum 5560a504eb36ebdbfe3736b17cc26b1e
+--start 1343
+--sim-load-config finish-tape=1

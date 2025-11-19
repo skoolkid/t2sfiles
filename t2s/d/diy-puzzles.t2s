@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016729/DIYPuzzles.tzx.zip
+--tape-name "DIYPuzzles.tzx"
+--tape-sum 6d4330e4e4099f462e0fc90cbc9ce86a
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016930/AcesHigh.tzx.zip
+--tape-name "AcesHigh.tzx"
+--tape-sum 7b073ca5de75fd8e98e4d8b0905957c6
+--start 1343
+--sim-load-config finish-tape=1

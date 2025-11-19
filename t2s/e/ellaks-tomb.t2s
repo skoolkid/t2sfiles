@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016956/EllaksTomb.tzx.zip
+--tape-name "EllaksTomb.tzx"
+--tape-sum 939bc04cd8393277bbd1c49db48498cc
+--start 1343
+--sim-load-config finish-tape=1

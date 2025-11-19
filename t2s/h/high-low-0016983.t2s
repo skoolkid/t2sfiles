@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016983/HighLow.tzx.zip
+--tape-name "HighLow.tzx"
+--tape-sum 37d51d42889700587dbd401abebae15a
+--start 1343
+--sim-load-config finish-tape=1

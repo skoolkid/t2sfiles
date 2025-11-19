@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0027367/KurtWarren-MissioneABangkok.tzx.zip
+--tape-name "KurtWarren-MissioneABangkok.tzx"
+--tape-sum f55f01c152ee9c7695eaa07b36d7e928
+--start 1343
+--press '5:o*4 r*4 i*4 e*4 n*4 t*4 e*4 ENTER*4'
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016934/FurtherAdventuresOfPaxman.tzx.zip
+--tape-name "FurtherAdventuresOfPaxman.tzx"
+--tape-sum 0811a0a8d496e51250064c1818c4d187
+--start 1343
+--sim-load-config finish-tape=1

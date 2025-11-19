@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016985/NoughtsAndCrosses3D.tzx.zip
+--tape-name "NoughtsAndCrosses3D.tzx"
+--tape-sum ec86dc8b1a7aa1b4d2f96cfb43aa60fc
+--start 1343
+--sim-load-config finish-tape=1

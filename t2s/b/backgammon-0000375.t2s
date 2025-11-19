@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0000375/Backgammon.tzx.zip
+--tape-name "Backgammon.tzx"
+--tape-sum d4a7c8d9d14081fc6bac5fa74c568d75
+--start 1343
+--sim-load-config finish-tape=1

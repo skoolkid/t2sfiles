@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016992/WordHunt.tzx.zip
+--tape-name "WordHunt.tzx"
+--tape-sum 30b09d75ab03532fa3d33edc7ddbf23e
+--start 1343
+--sim-load-config finish-tape=1

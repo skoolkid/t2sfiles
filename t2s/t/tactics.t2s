@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016820/Tactics.tzx.zip
+--tape-name "Tactics.tzx"
+--tape-sum cd44011e0c11415fa77c6b5e355382e3
+--start 1343
+--sim-load-config finish-tape=1

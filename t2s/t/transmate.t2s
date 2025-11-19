@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016817/Transmate.tzx.zip
+--tape-name "Transmate.tzx"
+--tape-sum 9df357ec0e5f63e797f790bd6550e8ab
+--start 1343
+--sim-load-config finish-tape=1

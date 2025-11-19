@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0017933/Energy.tzx.zip
+--tape-name "Energy.tzx"
+--tape-sum 99657a75094a68ef1c5c6f841a1f0b3f
+--start 1343
+--sim-load-config finish-tape=1

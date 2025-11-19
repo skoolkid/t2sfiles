@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0002901/LiveWire.tzx.zip
+--tape-name "LiveWire.tzx"
+--tape-sum 43921dcd868b8e47ed20fc31917f62ef
+--start 1343
+--sim-load-config finish-tape=1

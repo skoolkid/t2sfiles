@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016989/Millipede.tzx.zip
+--tape-name "Millipede.tzx"
+--tape-sum 74fd9a02063952f9d7a7a75b86e29dea
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016811/KOWhist.tzx.zip
+--tape-name "KOWhist.tzx"
+--tape-sum 21bc2a6069d8129868857ddd92d11c44
+--start 1343
+--sim-load-config finish-tape=1

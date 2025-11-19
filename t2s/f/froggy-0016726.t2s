@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016726/Froggy.tzx.zip
+--tape-name "Froggy.tzx"
+--tape-sum 72694ac425cd820389dc6e3da13426e3
+--start 1343
+--sim-load-config finish-tape=1

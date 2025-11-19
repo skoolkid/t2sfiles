@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016942/Moonlander.tzx.zip
+--tape-name "Moonlander.tzx"
+--tape-sum b97447e8dd11d8a06b3acf9acd9ee9dd
+--start 1343
+--sim-load-config finish-tape=1

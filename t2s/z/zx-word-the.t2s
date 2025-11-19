@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0005888/ZX-WordThe.tzx.zip
+--tape-name "ZX-WordThe.tzx"
+--tape-sum 041bf757423b0f1436daa7256c5fd467
+--start 1343
+--sim-load-config finish-tape=1

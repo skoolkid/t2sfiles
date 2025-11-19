@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0015122/CrazyKong.tzx.zip
+--tape-name "CrazyKong.tzx"
+--tape-sum 02413c94ac802e57bc7219354f80ffc1
+--start 1343
+--sim-load-config finish-tape=1

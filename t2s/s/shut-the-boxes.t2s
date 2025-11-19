@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0000666/ShutTheBoxes.tzx.zip
+--tape-name "ShutTheBoxes.tzx"
+--tape-sum 6c9e1f28284c5dd75c42ab0927b24e6d
+--start 1343
+--sim-load-config finish-tape=1

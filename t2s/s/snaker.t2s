@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0004590/Snaker.tzx.zip
+--tape-name "Snaker.tzx"
+--tape-sum 05c1e9391968e6bdd33f6ddba128a9a5
+--start 1343
+--sim-load-config finish-tape=1

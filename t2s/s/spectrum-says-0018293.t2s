@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018293/SpectrumSays.tzx.zip
+--tape-name "SpectrumSays.tzx"
+--tape-sum 91867a706d14f70bef5467038b3400cd
+--start 1343
+--sim-load-config finish-tape=1

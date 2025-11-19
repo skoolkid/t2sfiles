@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0015420/Shoot.tzx.zip
+--tape-name "Shoot.tzx"
+--tape-sum 090808fafc0bd1a3d1c36c6eac0f89b7
+--start 1343
+--sim-load-config finish-tape=1

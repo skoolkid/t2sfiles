@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016967/BullsAndCows.tzx.zip
+--tape-name "BullsAndCows.tzx"
+--tape-sum 063b4251c42a33f1f197773ac59a764d
+--start 1343
+--sim-load-config finish-tape=1

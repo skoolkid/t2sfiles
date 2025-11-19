@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0017952/Zeus.tzx.zip
+--tape-name "Zeus.tzx"
+--tape-sum 46a36939e463f74589c31df30d6276b4
+--start 1343
+--sim-load-config finish-tape=1

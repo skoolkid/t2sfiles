@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0029736/Zzzappp.tap.zip
+--tape-name "Zzzappp.tap"
+--tape-sum 80b963f15ef2930cb04f3128e100e943
+--start 1343
+--sim-load-config finish-tape=1

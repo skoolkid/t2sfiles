@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0017959/Circuito.tzx.zip
+--tape-name "Circuito.tzx"
+--tape-sum 8b5506e5ed83276224f5307ab8861992
+--start 1343
+--sim-load-config finish-tape=1

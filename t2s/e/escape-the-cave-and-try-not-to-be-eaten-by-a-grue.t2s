@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044718/EscapeTheCaveAndTryNotToBeEatenByAGrue.tzx.zip
+--tape-name "EscapeTheCaveAndTryNotToBeEatenByAGrue.tzx"
+--tape-sum 58a14d0e7e49e2e4f71166f950f1e442
+--start 1343
+--sim-load-config finish-tape=1

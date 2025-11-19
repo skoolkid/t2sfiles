@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0017955/Tortugas.tzx.zip
+--tape-name "Tortugas.tzx"
+--tape-sum f8f80a23d83727d89738a78bf8d8810f
+--start 1343
+--sim-load-config finish-tape=1

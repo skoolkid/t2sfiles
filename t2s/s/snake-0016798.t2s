@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016798/Snake.tzx.zip
+--tape-name "Snake.tzx"
+--tape-sum a12826a17f8db798c596c24be577171e
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016927/FourEyedBandit.tzx.zip
+--tape-name "FourEyedBandit.tzx"
+--tape-sum ea81838920adeee080f2b78ed44f4964
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016740/TowerOfBenares.tzx.zip
+--tape-name "TowerOfBenares.tzx"
+--tape-sum 0fb629f129f1b994fdea40a2707d6eb6
+--start 1343
+--sim-load-config finish-tape=1

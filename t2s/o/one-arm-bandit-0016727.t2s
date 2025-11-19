@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016727/OneArmBandit.tzx.zip
+--tape-name "OneArmBandit.tzx"
+--tape-sum f32399e4af6abca0ff739612b0a24555
+--start 1343
+--sim-load-config finish-tape=1

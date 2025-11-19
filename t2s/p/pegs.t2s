@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0022149/Pegs.tzx.zip
+--tape-name "Pegs.tzx"
+--tape-sum 8b14ad6a925d778eeb22269ba5412a8a
+--start 1343
+--sim-load-config finish-tape=1

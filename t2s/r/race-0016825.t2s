@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016825/Race.tzx.zip
+--tape-name "Race.tzx"
+--tape-sum b311c76063ab8d239adc28094b229696
+--start 1343
+--sim-load-config finish-tape=1

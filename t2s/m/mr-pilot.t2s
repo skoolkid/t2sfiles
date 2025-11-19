@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0022146/MrPilot.tzx.zip
+--tape-name "MrPilot.tzx"
+--tape-sum 49f8f23f7d6ef8c6d0d901e34ec5fb29
+--start 1343
+--sim-load-config finish-tape=1

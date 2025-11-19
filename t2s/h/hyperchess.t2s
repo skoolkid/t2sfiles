@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016966/Hyperchess.tzx.zip
+--tape-name "Hyperchess.tzx"
+--tape-sum 75ea5f47f607959dfcccafa8668e7d68
+--start 1343
+--tape-start 5
+--sim-load-config finish-tape=1

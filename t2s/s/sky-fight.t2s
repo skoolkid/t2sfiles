@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016778/SkyFight.tzx.zip
+--tape-name "SkyFight.tzx"
+--tape-sum 2275f3d22b5602d659c8e926b68fe951
+--start 1343
+--sim-load-config finish-tape=1

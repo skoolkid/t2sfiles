@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016921/Chessboard.tzx.zip
+--tape-name "Chessboard.tzx"
+--tape-sum 354905bb477095c07eef08a5c66349e7
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016960/StellarAttack.tzx.zip
+--tape-name "StellarAttack.tzx"
+--tape-sum 2863ac6560c45e9b6936fd1ce1f91031
+--start 1343
+--sim-load-config finish-tape=1

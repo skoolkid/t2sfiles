@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044715/OperationBee.tap.zip
+--tape-name "OperationBee.tap"
+--tape-sum 05c4cfcf572ce7832c55feb448e9b02d
+--start 1343
+--sim-load-config finish-tape=1

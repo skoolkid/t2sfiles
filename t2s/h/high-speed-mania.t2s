@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016730/HighSpeedMania.tzx.zip
+--tape-name "HighSpeedMania.tzx"
+--tape-sum 0d9ac6d9c95c8abf57048a7d94cf976e
+--start 1343
+--sim-load-config finish-tape=1

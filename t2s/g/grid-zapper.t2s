@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016815/GridZapper.tzx.zip
+--tape-name "GridZapper.tzx"
+--tape-sum eca6d421472151e268b1ca53b16c729f
+--start 1343
+--sim-load-config finish-tape=1

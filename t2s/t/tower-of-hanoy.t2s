@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0005354/TowerOfHanoy.tzx.zip
+--tape-name "TowerOfHanoy.tzx"
+--tape-sum 0cbe0a2957aaab8a180ca6a226c29f25
+--start 1343
+--sim-load-config finish-tape=1

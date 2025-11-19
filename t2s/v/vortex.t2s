@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016831/Vortex.tzx.zip
+--tape-name "Vortex.tzx"
+--tape-sum 766ac26d6ba5c669e8761369da473b00
+--start 1343
+--sim-load-config finish-tape=1

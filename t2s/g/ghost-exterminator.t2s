@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016949/GhostExterminator.tzx.zip
+--tape-name "GhostExterminator.tzx"
+--tape-sum 524d1b198c4b1fa25765575ccd7c0b04
+--start 1343
+--sim-load-config finish-tape=1

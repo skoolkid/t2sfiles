@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0022115/Noughts2.tzx.zip
+--tape-name "Noughts2.tzx"
+--tape-sum e546b173c17382bdcaf977d8bd9b1b66
+--start 1343
+--sim-load-config finish-tape=1

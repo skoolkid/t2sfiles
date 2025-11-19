@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0027368/RoyNorton-IMisteriDiVillaParson.tzx.zip
+--tape-name "RoyNorton-IMisteriDiVillaParson.tzx"
+--tape-sum 210553b8e6cd69627ba106a27d663171
+--start 1343
+--press '5:t*4 h*4 r*4 i*4 l*40 i*4 n*4 g*4 ENTER*4'
+--sim-load-config finish-tape=1

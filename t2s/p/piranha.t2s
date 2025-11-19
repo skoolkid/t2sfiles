@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016829/Piranha.tzx.zip
+--tape-name "Piranha.tzx"
+--tape-sum fd23ed4308d4cf167f079fee2445cf77
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0001142/Cribbage.tzx.zip
+--tape-name "Cribbage.tzx"
+--tape-sum 6b6f463ece58676ecc399668521918a2
+--start 1343
+--sim-load-config finish-tape=1

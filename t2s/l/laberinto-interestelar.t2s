@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0017947/LaberintoInterestelar.tzx.zip
+--tape-name "LaberintoInterestelar.tzx"
+--tape-sum 56611e4549c55681e0d91dfe30e19e9f
+--start 1343
+--sim-load-config finish-tape=1

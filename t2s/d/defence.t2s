@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016959/Defence.tzx.zip
+--tape-name "Defence.tzx"
+--tape-sum fdd9646fbd70bde1d25ae1424f467ebd
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0003094/MazeOfDeathThe.tzx.zip
+--tape-name "MazeOfDeathThe.tzx"
+--tape-sum bf9895abdaed1b966c90d4536ccb304a
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016931/LowLevelMission.tzx.zip
+--tape-name "LowLevelMission.tzx"
+--tape-sum fb92ed735401e433a0df4872ae7042e8
+--start 1343
+--sim-load-config finish-tape=1

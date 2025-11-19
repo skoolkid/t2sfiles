@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0017936/Tunel.tzx.zip
+--tape-name "Tunel.tzx"
+--tape-sum d2b982420617004c1897d744f1a7abd7
+--start 1343
+--tape-start 7
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016974/MoleAttack.tzx.zip
+--tape-name "MoleAttack.tzx"
+--tape-sum 118b278f23933514cb1a0c94d414a482
+--start 1343
+--sim-load-config finish-tape=1

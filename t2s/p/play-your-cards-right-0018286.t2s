@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018286/PlayYourCardsRight.tzx.zip
+--tape-name "PlayYourCardsRight.tzx"
+--tape-sum 383676994f167e1bcb16e3e01acfe7f4
+--start 1343
+--sim-load-config finish-tape=1

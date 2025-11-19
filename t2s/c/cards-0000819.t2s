@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0000819/Cards.tzx.zip
+--tape-name "Cards.tzx"
+--tape-sum cefcf1dea921b590652800970d00fe8f
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016783/CowboyShootOut.tzx.zip
+--tape-name "CowboyShootOut.tzx"
+--tape-sum a8fa70650f4c8bfe10e77c6d3a5abdf9
+--start 1343
+--sim-load-config finish-tape=1

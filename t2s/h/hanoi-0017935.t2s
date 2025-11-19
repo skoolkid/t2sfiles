@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0017935/Hanoi.tzx.zip
+--tape-name "Hanoi.tzx"
+--tape-sum 408003b7a977043b3b830bfcfcfe6772
+--start 1343
+--sim-load-config finish-tape=1

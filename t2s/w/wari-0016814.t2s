@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016814/Wari.tzx.zip
+--tape-name "Wari.tzx"
+--tape-sum 91f414e26efe4b38e37c0337095f974c
+--start 1343
+--sim-load-config finish-tape=1

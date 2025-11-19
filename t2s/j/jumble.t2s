@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018297/Jumble.tzx.zip
+--tape-name "Jumble.tzx"
+--tape-sum b01a7ebbd457090838460a6f8a263429
+--start 1343
+--sim-load-config finish-tape=1

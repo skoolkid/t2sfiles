@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016821/Eurodroid.tzx.zip
+--tape-name "Eurodroid.tzx"
+--tape-sum e88dcb09fd1a45c23a145245e0c72133
+--start 1343
+--sim-load-config finish-tape=1

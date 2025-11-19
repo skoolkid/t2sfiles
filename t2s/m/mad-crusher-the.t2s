@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016991/MadCrusherThe.tzx.zip
+--tape-name "MadCrusherThe.tzx"
+--tape-sum 0ce9fcc66c6347717f5767413b5c98c5
+--start 1343
+--sim-load-config finish-tape=1

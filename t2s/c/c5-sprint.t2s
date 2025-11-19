@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018296/C5Sprint.tzx.zip
+--tape-name "C5Sprint.tzx"
+--tape-sum a668208b925ebd6258d6b072a7b59712
+--start 1343
+--sim-load-config finish-tape=1

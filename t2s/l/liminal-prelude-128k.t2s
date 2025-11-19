@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044727/Liminal-Prelude.tap.zip
+--tape-name "Liminal-Prelude.tap"
+--tape-sum 32f25eaf21574b93d712c8f653a66328
+--start 23420
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

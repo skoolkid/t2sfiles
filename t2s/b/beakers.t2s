@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016823/Beakers.tzx.zip
+--tape-name "Beakers.tzx"
+--tape-sum b3e469dc5dba2627e3a296ef3e74b064
+--start 1343
+--sim-load-config finish-tape=1

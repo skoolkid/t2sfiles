@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016826/Monkey.tzx.zip
+--tape-name "Monkey.tzx"
+--tape-sum 68404caf495c098945fd0bfaad3dc1d5
+--start 1343
+--sim-load-config finish-tape=1

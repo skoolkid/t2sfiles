@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016775/LetterNumberPuzzle.tzx.zip
+--tape-name "LetterNumberPuzzle.tzx"
+--tape-sum 9d6d185117856b8612ab3b591c60a0b4
+--start 1343
+--sim-load-config finish-tape=1

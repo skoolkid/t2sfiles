@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0003093/MazeOfDarkness.tzx.zip
+--tape-name "MazeOfDarkness.tzx"
+--tape-sum b126375e4c1691435ac4e881ecd8c12e
+--start 1343
+--sim-load-config finish-tape=1

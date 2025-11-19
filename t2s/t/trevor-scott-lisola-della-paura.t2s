@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0027366/TrevorScott-LIsolaDellaPaura.tzx.zip
+--tape-name "TrevorScott-LIsolaDellaPaura.tzx"
+--tape-sum 53569e363e6c29f76d1d38ca5ac63640
+--start 1343
+--press '5:a*4 r*4 c*4 i*4 p*4 e*4 l*4 a*4 g*4 o*4 ENTER*4'
+--sim-load-config finish-tape=1

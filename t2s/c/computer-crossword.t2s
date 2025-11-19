@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018291/ComputerCrossword.tzx.zip
+--tape-name "ComputerCrossword.tzx"
+--tape-sum 45edc632a0a61585d627b899103dc03a
+--start 1343
+--sim-load-config finish-tape=1

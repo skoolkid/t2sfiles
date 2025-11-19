@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018772/Fighter.tzx.zip
+--tape-name "Fighter.tzx"
+--tape-sum ccb28a3034ae706f1e1340fef1806ecc
+--start 1343
+--sim-load-config finish-tape=1

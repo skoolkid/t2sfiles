@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016809/Solitaire.tzx.zip
+--tape-name "Solitaire.tzx"
+--tape-sum 50d71661626318a67a1e0697744ed4b9
+--start 1343
+--sim-load-config finish-tape=1

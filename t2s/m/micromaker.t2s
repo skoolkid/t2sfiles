@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0003179/Micromaker.tzx.zip
+--tape-name "Micromaker.tzx"
+--tape-sum 12c1edaa50347e0aa52ff6d8e5129a12
+--start 1343
+--sim-load-config finish-tape=1

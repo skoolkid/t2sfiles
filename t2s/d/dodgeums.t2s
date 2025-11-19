@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018289/DodgeUms.tzx.zip
+--tape-name "DodgeUms.tzx"
+--tape-sum 2ea2923edff255bd284e9b6e7b22b8a3
+--start 1343
+--sim-load-config finish-tape=1

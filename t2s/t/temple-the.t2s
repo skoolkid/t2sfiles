@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0005180/TempleThe.tzx.zip
+--tape-name "TempleThe.tzx"
+--tape-sum 1dae9e8da490042dc8cbf071b7d1366b
+--start 1343
+--sim-load-config finish-tape=1

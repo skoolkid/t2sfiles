@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0017940/Tenis.tzx.zip
+--tape-name "Tenis.tzx"
+--tape-sum 9e128ca743d1dc96a0ac87e7dbb80e55
+--start 1343
+--sim-load-config finish-tape=1

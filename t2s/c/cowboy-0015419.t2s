@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0015419/Cowboy.tzx.zip
+--tape-name "Cowboy.tzx"
+--tape-sum 1a1fbae750fbf290715c52ba8e01fd64
+--start 1343
+--sim-load-config finish-tape=1

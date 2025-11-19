@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0027359/TriangoloMaledettoParte2-BermudaIl.tzx.zip
+--tape-name "TriangoloMaledettoParte2-BermudaIl.tzx"
+--tape-sum 8d1369c7056fbee32cac817d63a95834
+--start 1343
+--press '7:m*4 o*40 n*4 ENTER*4'
+--sim-load-config finish-tape=1

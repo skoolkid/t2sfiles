@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016924/ZX-Reactor.tzx.zip
+--tape-name "ZX-Reactor.tzx"
+--tape-sum f0445be97da21752dc98db7cf24bdd7c
+--start 1343
+--sim-load-config finish-tape=1

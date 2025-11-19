@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016944/Glenagleys.tzx.zip
+--tape-name "Glenagleys.tzx"
+--tape-sum 544db7c55340fdec26b1616b85504c26
+--start 1343
+--sim-load-config finish-tape=1

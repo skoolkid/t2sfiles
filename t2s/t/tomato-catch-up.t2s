@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016951/TomatoCatch-Up.tzx.zip
+--tape-name "TomatoCatch-Up.tzx"
+--tape-sum 16354c8e2a6b7d3bbf5a431777122b17
+--start 1343
+--sim-load-config finish-tape=1

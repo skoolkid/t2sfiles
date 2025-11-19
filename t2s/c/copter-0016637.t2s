@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016637/Copter.tzx.zip
+--tape-name "Copter.tzx"
+--tape-sum 621ca76cc45b24272b294b8d213ef756
+--start 1343
+--sim-load-config finish-tape=1
