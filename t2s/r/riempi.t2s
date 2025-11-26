@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039172/Riempi.tzx.zip
+--tape-name "Riempi.tzx"
+--tape-sum 1b7dd98b40272a03f97e57d1a5e88c00
+--start 1343
+--sim-load-config finish-tape=1

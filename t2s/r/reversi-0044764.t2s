@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044764/Reversi(EN).tzx.zip
+--tape-name "Reversi(EN).tzx"
+--tape-sum ac63b800cd376d13731de8eaf24158d2
+--start 29000
+--sim-load-config 'load=LOAD "": RUN'

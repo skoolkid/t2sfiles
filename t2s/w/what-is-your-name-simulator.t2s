@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044753/WhatIsYourNameSimulator.tzx.zip
+--tape-name "WhatIsYourNameSimulator.tzx"
+--tape-sum 8d582a6817d8009dd0ccf2a28de4ba51
+--start 1343
+--sim-load-config finish-tape=1

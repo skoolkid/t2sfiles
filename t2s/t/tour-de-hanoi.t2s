@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043220/TourDeHanoi.tzx.zip
+--tape-name "TourDeHanoi.tzx"
+--tape-sum b97642c959c096bf06647f0970a8c774
+--start 1343
+--sim-load-config finish-tape=1

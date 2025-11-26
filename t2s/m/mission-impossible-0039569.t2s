@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039569/MissionImpossible.tap.zip
+--tape-name "MissionImpossible.tap"
+--tape-sum 3ade4e7293778d1d0de98f739f2df4b6
+--start 1343
+--sim-load-config finish-tape=1

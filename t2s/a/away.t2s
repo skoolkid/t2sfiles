@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044758/Away.tzx.zip
+--tape-name "Away.tzx"
+--tape-sum 8f1b3f73358bffb7eaf2b61733bf8040
+--start 1343
+--sim-load-config finish-tape=1

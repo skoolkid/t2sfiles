@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044767/Sabotaggio.tzx.zip
+--tape-name "Sabotaggio.tzx"
+--tape-sum 35ab07bef88384abb328525dffa7371f
+--start 1343
+--sim-load-config finish-tape=1

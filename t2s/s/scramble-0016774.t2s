@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016774/Scramble.tzx.zip
+--tape-name "Scramble.tzx"
+--tape-sum 0e881f82c0dd058261be0567f594c976
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043238/Parachutiste.tzx.zip
+--tape-name "Parachutiste.tzx"
+--tape-sum 5dd2933d5bf42f51fd4698ce3cce8b4e
+--start 1343
+--sim-load-config finish-tape=1

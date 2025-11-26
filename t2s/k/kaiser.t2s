@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044786/Kaiser.tzx.zip
+--tape-name "Kaiser.tzx"
+--tape-sum b4669ffb8708336e68fd851878c1b157
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043258/Canardos.tzx.zip
+--tape-name "Canardos.tzx"
+--tape-sum 853ce6a688626a2e43ab427fd0169cd6
+--start 1343
+--sim-load-config finish-tape=1

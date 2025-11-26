@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0012816/DoctorMario.tap.zip
+--tape-name "DoctorMario.tap"
+--tape-sum eae545482e7516311395219b825b0a62
+--start 32000
+--sim-load-config machine=128
+--press 5:SPACE*2

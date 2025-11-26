@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044745/Ristinolla.tap.zip
+--tape-name "Ristinolla.tap"
+--tape-sum 2baa7d2f268fb6aafecf73ed13b64437
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

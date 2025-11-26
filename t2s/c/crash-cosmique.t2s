@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043227/CrashCosmique.tzx.zip
+--tape-name "CrashCosmique.tzx"
+--tape-sum ec23dee5a6061f4ed41bf85a485e6335
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039602/WitchsBrew.tap.zip
+--tape-name "WitchsBrew.tap"
+--tape-sum bb050ec6bfe2bc917016a3b170335e3a
+--start 1343
+--sim-load-config finish-tape=1

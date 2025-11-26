@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043259/LaserAttack.tzx.zip
+--tape-name "LaserAttack.tzx"
+--tape-sum bed9f57ad5f8cd3e5538c7fae0c8cbe3
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039585/WeatherBeater.tap.zip
+--tape-name "WeatherBeater.tap"
+--tape-sum b9efdd1444ed62c644fd9ad52ef8a285
+--start 1343
+--sim-load-config finish-tape=1

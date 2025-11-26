@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044770/Parolatore.tzx.zip
+--tape-name "Parolatore.tzx"
+--tape-sum c6365d196cd30391290d2308b476db30
+--start 1343
+--sim-load-config finish-tape=1

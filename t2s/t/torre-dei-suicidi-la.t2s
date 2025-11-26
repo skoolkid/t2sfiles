@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044765/TorreDeiSuicidiLa.tzx.zip
+--tape-name "TorreDeiSuicidiLa.tzx"
+--tape-sum 7c1a01da4aa4bc1d459f8e158fc0c3c6
+--start 1343
+--tape-start 5
+--sim-load-config finish-tape=1

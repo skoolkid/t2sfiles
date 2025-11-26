@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044704/Battle.tap.zip
+--tape-name "Battle.tap"
+--tape-sum 5c95f555b77f1951ab72e5187ac4e08c
+--start 1343
+--press 3:ENTER
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0013131/Worm.tap.zip
+--tape-name "Worm.tap"
+--tape-sum eebbe0a346739e0c539b7883c8f7c210
+--start 25000
+--sim-load-config machine=128

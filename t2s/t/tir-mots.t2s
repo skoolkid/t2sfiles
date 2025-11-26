@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043226/TirMots.tzx.zip
+--tape-name "TirMots.tzx"
+--tape-sum 24ab013f47bf0826e90d5ce161a19d69
+--start 1343
+--sim-load-config finish-tape=1

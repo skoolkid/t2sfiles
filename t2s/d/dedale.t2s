@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043261/Dedale.tzx.zip
+--tape-name "Dedale.tzx"
+--tape-sum a0213de8b36191d405f5de78ea3fe35d
+--start 1343
+--sim-load-config finish-tape=1

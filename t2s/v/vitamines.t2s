@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043260/Vitamines.tzx.zip
+--tape-name "Vitamines.tzx"
+--tape-sum dd8d02db5ff63774071a898e7d3d6103
+--start 1343
+--sim-load-config finish-tape=1

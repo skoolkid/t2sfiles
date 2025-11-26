@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044772/Bastimento.tzx.zip
+--tape-name "Bastimento.tzx"
+--tape-sum e95711c7a594d615ccf1d866a0dc520d
+--start 1343
+--sim-load-config finish-tape=1

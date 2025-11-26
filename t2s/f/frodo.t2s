@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0001878/Frodo.tap.zip
+--tape-name "Frodo.tap"
+--tape-sum 2ed1e6a380ba61250e510efdd51d7b25
+--start 1343
+--sim-load-config finish-tape=1

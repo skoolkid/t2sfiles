@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039572/TowerThe.tap.zip
+--tape-name "TowerThe.tap"
+--tape-sum d153760fab2e6f6260d6d47bb4b89147
+--start 1343
+--sim-load-config finish-tape=1

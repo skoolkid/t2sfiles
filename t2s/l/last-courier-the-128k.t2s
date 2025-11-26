@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0012917/LastCourierThe.tap.zip
+--tape-name "LastCourierThe.tap"
+--tape-sum b9a9a257c9a85bc0aa308d35a5d6516d
+--start 25000
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

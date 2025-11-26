@@ -1,0 +1,9 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044737/Quivira-TheAdventure.tap.zip
+--tape-name "Quivira-TheAdventure.tap"
+--tape-sum d1d26ea8f8be191f67d0f82d3221b283
+--start 23316
+--sim-load-config machine=128
+--sim-load-config python=1
+--press 33:n
+--sim-load-config timeout=1300
+--sim-load-config finish-tape=1

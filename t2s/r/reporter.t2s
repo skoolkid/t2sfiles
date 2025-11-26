@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038884/Reporter.tzx.zip
+--tape-name "Reporter.tzx"
+--tape-sum b4c06fbf456481c9e950c4fa473184f9
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0012923/Leprekon.tap.zip
+--tape-name "Leprekon.tap"
+--tape-sum 4bf01857f4a91c62972c3fb852986931
+--start 49152
+--sim-load-config machine=128
+--sim-load-config 'load=DOWN ENTER usr0 ENTER LOAD "" PC=1541'
+--sim-load-config finish-tape=1

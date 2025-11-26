@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039550/Four-Sight.tap.zip
+--tape-name "Four-Sight.tap"
+--tape-sum 1b54c2fb7854254dfb31dbd889b7c8f1
+--start 1343
+--sim-load-config finish-tape=1

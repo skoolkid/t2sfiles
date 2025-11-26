@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039571/Milliman.tap.zip
+--tape-name "Milliman.tap"
+--tape-sum 37d1c2849b071873ec2483c4610a46ee
+--start 1343
+--sim-load-config finish-tape=1

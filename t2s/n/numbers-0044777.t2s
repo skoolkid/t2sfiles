@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044777/Numbers.tap.zip
+--tape-name "Numbers.tap"
+--tape-sum 68e69b32f8b75d2568a3816a854627d0
+--start 1343
+--sim-load-config finish-tape=1

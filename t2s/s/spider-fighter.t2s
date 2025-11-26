@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039587/SpiderFighter.tap.zip
+--tape-name "SpiderFighter.tap"
+--tape-sum 2570ad24b5205fbe5d47233f15552ab4
+--start 1343
+--sim-load-config finish-tape=1

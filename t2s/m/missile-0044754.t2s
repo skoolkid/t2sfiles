@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044754/Missile.tzx.zip
+--tape-name "Missile.tzx"
+--tape-sum 77164a8c09269d5e398d4dee2b66619b
+--start 1343
+--sim-load-config finish-tape=1

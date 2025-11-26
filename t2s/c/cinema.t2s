@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043219/Cinema.tap.zip
+--tape-name "Cinema.tap"
+--tape-sum 515c65e46aa3b81f96b118de9704d364
+--start 1343
+--sim-load-config finish-tape=1

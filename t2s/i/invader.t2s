@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044788/Invader.tap.zip
+--tape-name "Invader.tap"
+--tape-sum 4db16db3c2b31278597956bea8287e68
+--start 1343
+--sim-load-config finish-tape=1

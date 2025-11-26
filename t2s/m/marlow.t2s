@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044785/Marlow.tap.zip
+--tape-name "Marlow.tap"
+--tape-sum 203563685e164d15608367def890b8dd
+--start 1343
+--sim-load-config finish-tape=1

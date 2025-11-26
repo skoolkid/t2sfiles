@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039560/SpaceWatch.tap.zip
+--tape-name "SpaceWatch.tap"
+--tape-sum 50adf13556ab136020f5dae92ccbacb5
+--start 1343
+--sim-load-config finish-tape=1

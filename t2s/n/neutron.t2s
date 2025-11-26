@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043230/Neutron.tzx.zip
+--tape-name "Neutron.tzx"
+--tape-sum 27f766e83e1bed4c8d3fed57f84ef115
+--start 1343
+--sim-load-config finish-tape=1

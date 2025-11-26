@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0013033/RoboXonix.tap.zip
+--tape-name "RoboXonix.tap"
+--tape-sum 5b4264c0372c66a17afbdfa02766f458
+--start 35560
+--sim-load-config machine=128

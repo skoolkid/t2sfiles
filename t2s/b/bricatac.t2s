@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043257/Bricatac.tzx.zip
+--tape-name "Bricatac.tzx"
+--tape-sum 0693383f8dfb38d1007bef45f497106d
+--start 1343
+--sim-load-config finish-tape=1

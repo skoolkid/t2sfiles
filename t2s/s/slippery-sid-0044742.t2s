@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044742/SlipperySid.tap.zip
+--tape-name "SlipperySid.tap"
+--tape-sum c6b62e908fecf12c4f6fb1ceddfb8558
+--start 1343
+--sim-load-config finish-tape=1

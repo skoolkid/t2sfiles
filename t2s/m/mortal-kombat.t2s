@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0012965/MortalKombat.tzx.zip
+--tape-name "MortalKombat.tzx"
+--tape-sum 4fcbf0846e6dd38a56c76fb519235525
+--start 49152
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

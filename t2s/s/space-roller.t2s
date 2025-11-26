@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039562/SpaceRoller.tap.zip
+--tape-name "SpaceRoller.tap"
+--tape-sum 5bac02479ea19fd5ef00ee78220b59b9
+--start 1343
+--sim-load-config finish-tape=1

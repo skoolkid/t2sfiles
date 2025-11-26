@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044744/Pomppis.tap.zip
+--tape-name "Pomppis.tap"
+--tape-sum 03da1533a1b4f5f4ebe1f535ceb96379
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

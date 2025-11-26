@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0012806/DinaBlaster.tap.zip
+--tape-name "DinaBlaster.tap"
+--tape-sum ee18f15c8133f3e36fa3f3b257dce42d
+--start 25000
+--sim-load-config machine=128

@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0013022/RabbitJazzy.tap.zip
+--tape-name "RabbitJazzy.tap"
+--tape-sum 4d046700459206a12d2c7db2731c5e8c
+--start 24576
+--sim-load-config machine=128
+--sim-load-config accelerator=none
+--press 6:ENTER

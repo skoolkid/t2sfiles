@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044672/Maze3D.tap.zip
+--tape-name "Maze3D.tap"
+--tape-sum df828c0e143853e3598cf4e1f8204e66
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

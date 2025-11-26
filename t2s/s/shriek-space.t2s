@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044655/ShriekSpace.tap.zip
+--tape-name "ShriekSpace.tap"
+--tape-sum 27aa0fe13f582aaf184edea690879fff
+--start 1343
+--sim-load-config finish-tape=1

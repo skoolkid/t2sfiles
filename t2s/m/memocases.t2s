@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043229/Memocases.tzx.zip
+--tape-name "Memocases.tzx"
+--tape-sum b9ae4f9c7c0cd04b278fe614ded964b5
+--start 1343
+--sim-load-config finish-tape=1

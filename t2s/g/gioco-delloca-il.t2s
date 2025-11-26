@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039313/GiocoDellOcaIl.tzx.zip
+--tape-name "GiocoDellOcaIl.tzx"
+--tape-sum 57399d9c681b9cd28ff36c2f60703cdd
+--start 1343
+--sim-load-config finish-tape=1

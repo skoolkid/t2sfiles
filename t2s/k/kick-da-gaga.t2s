@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0012884/KickDaGaga.tap.zip
+--tape-name "KickDaGaga.tap"
+--tape-sum 145b0c263b18858ebd5d46b528c8a989
+--start 41384
+--sim-load-config machine=128

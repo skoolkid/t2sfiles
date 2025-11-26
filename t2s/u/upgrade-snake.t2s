@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044313/UpgradeSnake.tap.zip
+--tape-name "UpgradeSnake.tap"
+--tape-sum 4278790815e11e5a29ee50033ca581d7
+--start 1343
+--tape-start 5
+--sim-load-config finish-tape=1

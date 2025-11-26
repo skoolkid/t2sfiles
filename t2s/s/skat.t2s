@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044787/Skat.tap.zip
+--tape-name "Skat.tap"
+--tape-sum 94e1700e7571d6baa705d8b1d5bc7f22
+--start 1343
+--sim-load-config finish-tape=1

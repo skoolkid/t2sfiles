@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044746/Hamahakit.tap.zip
+--tape-name "Hamahakit.tap"
+--tape-sum 2922e41e1e0469befa283b7467ec1452
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039583/Zodiac.tap.zip
+--tape-name "Zodiac.tap"
+--tape-sum 96ccbec1afb3f2fc5ee48c3dd6e10d79
+--start 1343
+--sim-load-config finish-tape=1

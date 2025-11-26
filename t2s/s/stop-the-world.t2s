@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039580/StopTheWorld.tap.zip
+--tape-name "StopTheWorld.tap"
+--tape-sum 4c7a08f6ab99bf09fa2e8d843dad5a42
+--start 1343
+--sim-load-config finish-tape=1

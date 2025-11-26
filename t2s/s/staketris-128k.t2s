@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0013067/Staketris.tap.zip
+--tape-name "Staketris.tap"
+--tape-sum 45b82e33ef7478d4b5d9f7f25f540738
+--start 23760
+--sim-load-config machine=128

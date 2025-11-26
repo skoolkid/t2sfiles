@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044750/StarWar.tzx.zip
+--tape-name "StarWar.tzx"
+--tape-sum 5c333d1e50dc444c2a1a5912cdebbc75
+--start 1343
+--sim-load-config finish-tape=1

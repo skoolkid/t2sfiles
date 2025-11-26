@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043225/Allumettes.tzx.zip
+--tape-name "Allumettes.tzx"
+--tape-sum 85c7ccd749a2f6fa750ae0c711c141d2
+--start 1343
+--sim-load-config finish-tape=1

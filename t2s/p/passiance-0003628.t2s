@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0003628/Passiance.tap.zip
+--tape-name "Passiance.tap"
+--tape-sum 4176d906cb8907c918d7a85c6c4869b2
+--start 24500
+--sim-load-config machine=128
