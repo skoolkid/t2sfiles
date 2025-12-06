@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044850/CultezMusica.tzx.zip
+--tape-name "CultezMusica.tzx"
+--tape-sum cfca5e2b0cc1ad480537446785be2a44
+--start 1343
+--sim-load-config finish-tape=1

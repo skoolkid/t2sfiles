@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044846/Attakk.tzx.zip
+--tape-name "Attakk.tzx"
+--tape-sum 0385113f547d351ab4543ed39965560e
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044815/Camere.tzx.zip
+--tape-name "Camere.tzx"
+--tape-sum 0f7496359acf1081dcd224749f15e751
+--start 1343
+--sim-load-config finish-tape=1

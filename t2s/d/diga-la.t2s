@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044831/DigaLa.tap.zip
+--tape-name "DigaLa.tap"
+--tape-sum 28d9cfcba8a708a8714e609e958841bc
+--start 1343
+--sim-load-config finish-tape=1

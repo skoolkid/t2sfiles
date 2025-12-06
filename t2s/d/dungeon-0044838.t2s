@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044838/Dungeon.tzx.zip
+--tape-name "Dungeon.tzx"
+--tape-sum ffee45b68ce9ebd900afa75f567b234f
+--start 1343
+--sim-load-config finish-tape=1

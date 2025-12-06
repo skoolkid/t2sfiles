@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044865/Cultez.tzx.zip
+--tape-name "Cultez.tzx"
+--tape-sum e4256deeb6c15db790c37fac06a03f39
+--start 1343
+--sim-load-config finish-tape=1

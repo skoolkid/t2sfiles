@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044717/AstroSpy.tzx.zip
+--tape-name "AstroSpy.tzx"
+--tape-sum a0fdd3b702a3bc38a82c905d8e80af22
+--start 1343
+--sim-load-config finish-tape=1

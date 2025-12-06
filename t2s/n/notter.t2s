@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044844/Notter.tzx.zip
+--tape-name "Notter.tzx"
+--tape-sum d9ee40b851d8565c0d62b58d06643450
+--start 1343
+--sim-load-config finish-tape=1

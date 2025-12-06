@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044864/CopaDelRey.tzx.zip
+--tape-name "CopaDelRey.tzx"
+--tape-sum 785f046568f59a80e6dbe239d76202d7
+--start 1343
+--sim-load-config finish-tape=1

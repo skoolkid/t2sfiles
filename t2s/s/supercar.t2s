@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044832/Supercar.tzx.zip
+--tape-name "Supercar.tzx"
+--tape-sum fa169e6bc63dd0e1eb65cf82bde0126c
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044836/LunarLander.tzx.zip
+--tape-name "LunarLander.tzx"
+--tape-sum 2edd1205720d9e011367f4bf333a9d40
+--start 1343
+--sim-load-config finish-tape=1

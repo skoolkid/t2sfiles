@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044792/MissioneLuna.tap.zip
+--tape-name "MissioneLuna.tap"
+--tape-sum 06479132cf65f90f50152093b72092fa
+--start 1343
+--tape-stop 5
+--sim-load-config finish-tape=1

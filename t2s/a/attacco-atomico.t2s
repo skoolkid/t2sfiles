@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044829/AttaccoAtomico.tap.zip
+--tape-name "AttaccoAtomico.tap"
+--tape-sum bdb858dca9304ad58747faff02cfbc55
+--start 1343
+--sim-load-config finish-tape=1

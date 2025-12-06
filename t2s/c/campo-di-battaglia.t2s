@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044830/CampoDiBattaglia.tap.zip
+--tape-name "CampoDiBattaglia.tap"
+--tape-sum 85a9355ec930f92e5a893db9d1244dbd
+--start 1343
+--sim-load-config finish-tape=1

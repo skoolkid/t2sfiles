@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044845/Bombern.tzx.zip
+--tape-name "Bombern.tzx"
+--tape-sum aa9cf2c53759f3e0b2671d0164258b3f
+--start 1343
+--sim-load-config finish-tape=1

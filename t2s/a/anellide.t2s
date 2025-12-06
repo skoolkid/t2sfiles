@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044842/Anellide.tzx.zip
+--tape-name "Anellide.tzx"
+--tape-sum 68a66d21087b2ba8813886fc854e7ef8
+--start 1343
+--sim-load-config finish-tape=1

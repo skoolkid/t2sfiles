@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044840/SlotMachine.tzx.zip
+--tape-name "SlotMachine.tzx"
+--tape-sum 73e1fb71737f67274d2773060f1377d0
+--start 1343
+--sim-load-config finish-tape=1

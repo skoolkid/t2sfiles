@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044833/TrappolaMortale.tzx.zip
+--tape-name "TrappolaMortale.tzx"
+--tape-sum 48cf0a22de0b19256b3420179c548ef2
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'
