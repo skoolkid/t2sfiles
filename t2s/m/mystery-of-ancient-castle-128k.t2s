@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0012970/MysteryOfAncientCastle.tap.zip
+--tape-name "MysteryOfAncientCastle.tap"
+--tape-sum 6e9bafbf3819f63e1c528925db31db62
+--start 25000
+--press '5:ENTER*170 NONE ENTER NONE ENTER'
+--sim-load-config machine=128
