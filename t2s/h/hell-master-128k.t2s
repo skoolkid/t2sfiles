@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0012867/HellMaster.tap.zip
+--tape-name "HellMaster.tap"
+--tape-sum 13c06b3e961c90ffdc64d243cf6e39c6
+--start 31415
+--press 4:ENTER
+--press 5:ENTER
+--sim-load-config machine=128
