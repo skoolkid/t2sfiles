@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034720/Aliens-Neoplasma(ES).tap.zip
+--tape-name "Aliens-Neoplasma(ES).tap"
+--tape-sum a6098fa443914a4b252df50888a8a2cd
+--start 24783
+--sim-load-config machine=128
