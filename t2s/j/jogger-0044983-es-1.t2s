@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044983/Jogger.tzx.zip
+--tape-name "Jogger.tzx"
+--tape-sum c4e57b71a7133246cf804a973c50a431
+--start 1343
+--sim-load-config finish-tape=1

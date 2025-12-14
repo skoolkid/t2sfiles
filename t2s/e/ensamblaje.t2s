@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044916/Ensamblaje.tzx.zip
+--tape-name "Ensamblaje.tzx"
+--tape-sum 1bc5b5d24753a79d791a8ecfbd4145b0
+--start 1343
+--sim-load-config finish-tape=1

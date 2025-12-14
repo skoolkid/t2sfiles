@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044796/MIX.tap.zip
+--tape-name "MIX.tap"
+--tape-sum 2287bda496890d13ffba3574391bb5fe
+--start 1343
+--sim-load-config finish-tape=1

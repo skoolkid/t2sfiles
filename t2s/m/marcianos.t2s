@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044897/Marcianos.tzx.zip
+--tape-name "Marcianos.tzx"
+--tape-sum b67d97ee0151eae5a5a17bf2c95b39ac
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044987/Alphabattle(NL).tzx.zip
+--tape-name "Alphabattle(NL).tzx"
+--tape-sum 4e781f52210671d0eee2ebaa5c8a5a45
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

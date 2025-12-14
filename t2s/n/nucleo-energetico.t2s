@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044923/NucleoEnergetico.tzx.zip
+--tape-name "NucleoEnergetico.tzx"
+--tape-sum 53de8a963e4b9cefee53cd77fdbf70ba
+--start 1343
+--sim-load-config finish-tape=1

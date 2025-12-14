@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044957/Buscadores.tzx.zip
+--tape-name "Buscadores.tzx"
+--tape-sum c910cfaff6634f64273a3ff850b6cda8
+--start 1343
+--sim-load-config finish-tape=1

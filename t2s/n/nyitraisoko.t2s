@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045012/Nyitraisoko.tzx.zip
+--tape-name "Nyitraisoko.tzx"
+--tape-sum 56250cefef5268c6d7968cdf67057b7c
+--start 21987
+--sim-load-config machine=128

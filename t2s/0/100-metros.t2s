@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044922/100Metros.tzx.zip
+--tape-name "100Metros.tzx"
+--tape-sum e50ef218d296a0010b27b928ce975e79
+--start 1343
+--sim-load-config finish-tape=1

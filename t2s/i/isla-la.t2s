@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044913/IslaLa.tzx.zip
+--tape-name "IslaLa.tzx"
+--tape-sum 22be883541eb3bfa22e41573bd895758
+--start 1343
+--sim-load-config finish-tape=1

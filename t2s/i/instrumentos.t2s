@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044907/Instrumentos.tzx.zip
+--tape-name "Instrumentos.tzx"
+--tape-sum e6b5ac208f9ca8a690e73666c1fe228e
+--start 1343
+--sim-load-config finish-tape=1

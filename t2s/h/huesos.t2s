@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044917/Huesos.tzx.zip
+--tape-name "Huesos.tzx"
+--tape-sum b8c4bff026f55ebe443855234431b2af
+--start 1343
+--sim-load-config finish-tape=1

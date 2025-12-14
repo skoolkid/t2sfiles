@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044982/LevelFive.tzx.zip
+--tape-name "LevelFive.tzx"
+--tape-sum 1517d6203f9646fa297990a2cb99024d
+--start 1343
+--sim-load-config finish-tape=1

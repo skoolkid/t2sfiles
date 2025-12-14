@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044995/Tic-Tac-Toe.tzx.zip
+--tape-name "Tic-Tac-Toe.tzx"
+--tape-sum e948044f827993d5442aa3d9a3e030b3
+--start 1343
+--sim-load-config finish-tape=1

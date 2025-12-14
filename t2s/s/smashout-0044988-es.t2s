@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044988/Smashout.tzx.zip
+--tape-name "Smashout.tzx"
+--tape-sum 9147c52bb38f53d9afede91fd823cd16
+--start 1343
+--sim-load-config finish-tape=1

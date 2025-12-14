@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044990/NorwayPanic.tzx.zip
+--tape-name "NorwayPanic.tzx"
+--tape-sum 5fd758fc2b4ff6a00924bce729a6b834
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044952/EnLaHuerta.tzx.zip
+--tape-name "EnLaHuerta.tzx"
+--tape-sum ccf8368a0d885e8cd4a3bc7a9d4b96c2
+--start 1343
+--sim-load-config finish-tape=1

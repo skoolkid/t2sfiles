@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044963/DueloEnLasEstrellas.tzx.zip
+--tape-name "DueloEnLasEstrellas.tzx"
+--tape-sum f56efce0f4f567e3215bdd7ab51c24e3
+--start 1343
+--sim-load-config finish-tape=1

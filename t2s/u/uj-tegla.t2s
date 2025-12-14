@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045030/UjTegla.tzx.zip
+--tape-name "UjTegla.tzx"
+--tape-sum 972553fa208934d511ac12344def8f60
+--start 21987
+--sim-load-config machine=128

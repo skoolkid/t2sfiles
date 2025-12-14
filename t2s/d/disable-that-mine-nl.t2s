@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044984/DisableThatMine(NL).tzx.zip
+--tape-name "DisableThatMine(NL).tzx"
+--tape-sum d0a26c3b2b3d5cca5a2ac550b66943a2
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

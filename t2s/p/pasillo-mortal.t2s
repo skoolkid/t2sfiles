@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044906/PasilloMortal.tzx.zip
+--tape-name "PasilloMortal.tzx"
+--tape-sum 10b9bc338d7050fbc61ae6223c12577f
+--start 1343
+--sim-load-config finish-tape=1

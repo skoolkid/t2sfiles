@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044940/Telemira.tzx.zip
+--tape-name "Telemira.tzx"
+--tape-sum be89e79baf936fdb2f3bc18e954b3c7f
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0000966/Circus.tzx.zip
+--tape-name "Circus.tzx"
+--tape-sum 2da38d685fc9785eb02c76977aa56e13
+--start 1343
+--sim-load-config finish-tape=1

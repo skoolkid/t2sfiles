@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044793/Impicatto.tap.zip
+--tape-name "Impicatto.tap"
+--tape-sum 02ed086fc56b9544849a182c07bb420d
+--start 1343
+--sim-load-config finish-tape=1

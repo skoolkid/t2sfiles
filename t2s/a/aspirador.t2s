@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044941/Aspirador.tzx.zip
+--tape-name "Aspirador.tzx"
+--tape-sum 18ed3ebe7818eae3e0458f5d95d4b462
+--start 1343
+--sim-load-config finish-tape=1

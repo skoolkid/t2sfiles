@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044873/Centipede.tzx.zip
+--tape-name "Centipede.tzx"
+--tape-sum 5c44415d5798fa446ac41748a3a9450d
+--start 1343
+--sim-load-config finish-tape=1

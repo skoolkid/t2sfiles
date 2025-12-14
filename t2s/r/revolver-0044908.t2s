@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044908/Revolver.tzx.zip
+--tape-name "Revolver.tzx"
+--tape-sum 19ff93d5cc926ac50397864babe1e708
+--start 1343
+--sim-load-config finish-tape=1

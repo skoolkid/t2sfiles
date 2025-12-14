@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045016/Fovarosok.tzx.zip
+--tape-name "Fovarosok.tzx"
+--tape-sum 9680b6729c88e524a9ce27d2afb3be2e
+--start 21987
+--sim-load-config machine=128

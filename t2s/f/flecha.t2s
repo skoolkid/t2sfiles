@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044937/Flecha.tzx.zip
+--tape-name "Flecha.tzx"
+--tape-sum b91a6bfafdbfa432e9d9e4ece641b9bb
+--start 1343
+--sim-load-config finish-tape=1

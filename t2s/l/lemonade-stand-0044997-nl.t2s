@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044997/LemonadeStand(NL).tzx.zip
+--tape-name "LemonadeStand(NL).tzx"
+--tape-sum 2464a8e1d071ac866f241b8ee060b7be
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044891/Rastreador.tzx.zip
+--tape-name "Rastreador.tzx"
+--tape-sum 80f098daeaa15ebd760900b0e42fa059
+--start 1343
+--sim-load-config finish-tape=1

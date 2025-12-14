@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044959/Cuatreros.tzx.zip
+--tape-name "Cuatreros.tzx"
+--tape-sum 2cbac5384ed3b577cc0d1785d75648d9
+--start 1343
+--sim-load-config finish-tape=1

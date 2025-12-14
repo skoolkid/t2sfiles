@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045026/PiramisSzoliter.tzx.zip
+--tape-name "PiramisSzoliter.tzx"
+--tape-sum f167395126e2db3cb887071a5b7c6cf6
+--start 21987
+--sim-load-config machine=128

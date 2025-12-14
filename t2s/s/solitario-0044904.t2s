@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044904/Solitario.tzx.zip
+--tape-name "Solitario.tzx"
+--tape-sum 2f4b5d1162d87de36105ba8c511e474a
+--start 1343
+--sim-load-config finish-tape=1

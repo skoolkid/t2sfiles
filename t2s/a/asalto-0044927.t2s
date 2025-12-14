@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044927/Asalto.tzx.zip
+--tape-name "Asalto.tzx"
+--tape-sum b5a5d03bccd5799a7b4ea827e61b01d5
+--start 1343
+--sim-load-config finish-tape=1

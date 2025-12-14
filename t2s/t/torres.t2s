@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044900/Torres.tzx.zip
+--tape-name "Torres.tzx"
+--tape-sum ac113c0155dddfb7cb1246e53539c198
+--start 1343
+--sim-load-config finish-tape=1

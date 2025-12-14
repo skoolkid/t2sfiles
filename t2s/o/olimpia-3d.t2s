@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044932/Olimpia3D.tzx.zip
+--tape-name "Olimpia3D.tzx"
+--tape-sum dd8c543e7ed94648d54f047330600944
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045023/Meteorit.tzx.zip
+--tape-name "Meteorit.tzx"
+--tape-sum 2308f3612d779a31045e7b62779280e4
+--start 1343
+--sim-load-config finish-tape=1

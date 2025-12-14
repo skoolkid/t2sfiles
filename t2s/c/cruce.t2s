@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044929/Cruce.tzx.zip
+--tape-name "Cruce.tzx"
+--tape-sum 3294ef73f4818ec8929168940ece438e
+--start 1343
+--sim-load-config finish-tape=1

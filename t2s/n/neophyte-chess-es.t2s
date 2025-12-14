@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044996/NeophyteChess.tzx.zip
+--tape-name "NeophyteChess.tzx"
+--tape-sum e52d86f13df71cd28c0ac5194f97dc0d
+--start 1343
+--sim-load-config finish-tape=1

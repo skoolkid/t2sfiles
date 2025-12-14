@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044905/Serpiente.tzx.zip
+--tape-name "Serpiente.tzx"
+--tape-sum cf1f32a61b900d9a199cf2c98021471f
+--start 1343
+--sim-load-config finish-tape=1

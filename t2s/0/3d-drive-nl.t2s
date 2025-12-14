@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044989/Drive3D(NL).tzx.zip
+--tape-name "Drive3D(NL).tzx"
+--tape-sum 501a32151890268dbec39fc150a6939c
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

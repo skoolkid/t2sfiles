@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044998/Syntax.tzx.zip
+--tape-name "Syntax.tzx"
+--tape-sum 9e1aa1236e65ab5f0bc6b3785517d8a1
+--start 1343
+--sim-load-config finish-tape=1

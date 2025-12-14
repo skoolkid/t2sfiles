@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044955/ComerA.tzx.zip
+--tape-name "ComerA.tzx"
+--tape-sum 30207f3078e60af751ec5469ef81ac93
+--start 1343
+--sim-load-config finish-tape=1

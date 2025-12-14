@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044965/Mart-3X.tzx.zip
+--tape-name "Mart-3X.tzx"
+--tape-sum e35713b913af45239f138f68dbc503e2
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044912/DeTrebolAs.tzx.zip
+--tape-name "DeTrebolAs.tzx"
+--tape-sum 47112ce444346a35075ecf34ba3745b2
+--start 1343
+--sim-load-config finish-tape=1

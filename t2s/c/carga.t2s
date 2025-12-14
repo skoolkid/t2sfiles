@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044895/Carga.tzx.zip
+--tape-name "Carga.tzx"
+--tape-sum 55abff8d1b27305ea2c64059369bc036
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045028/Szoliter.tzx.zip
+--tape-name "Szoliter.tzx"
+--tape-sum 7629c1c5b0e11edd37d2d4a1abd06943
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044992/CloneCrazy(NL).tzx.zip
+--tape-name "CloneCrazy(NL).tzx"
+--tape-sum c57085877f215d210fabf0e2bdf7e320
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

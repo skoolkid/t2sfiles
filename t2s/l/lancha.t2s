@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044943/Lancha.tzx.zip
+--tape-name "Lancha.tzx"
+--tape-sum 552cddc7d5b8e958481f336d57027e2c
+--start 1343
+--sim-load-config finish-tape=1

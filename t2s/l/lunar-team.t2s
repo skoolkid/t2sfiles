@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044961/LunarTeam.tzx.zip
+--tape-name "LunarTeam.tzx"
+--tape-sum dcf31ea891fa1b26298b410c654e74f6
+--start 1343
+--sim-load-config finish-tape=1

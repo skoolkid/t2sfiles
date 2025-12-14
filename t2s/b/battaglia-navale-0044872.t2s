@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044872/BattagliaNavale.tzx.zip
+--tape-name "BattagliaNavale.tzx"
+--tape-sum 2e33322c6a0cba6106c1a06cff697d01
+--start 1343
+--sim-load-config finish-tape=1

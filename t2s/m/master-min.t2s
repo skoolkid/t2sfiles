@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044896/MasterMin.tzx.zip
+--tape-name "MasterMin.tzx"
+--tape-sum 1c032e8e1c908ceee0ba564436937552
+--start 1343
+--sim-load-config finish-tape=1

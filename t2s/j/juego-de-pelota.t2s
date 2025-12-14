@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044962/JuegoDePelota.tzx.zip
+--tape-name "JuegoDePelota.tzx"
+--tape-sum bb3a468482fd84dd390776b6948033dd
+--start 1343
+--sim-load-config finish-tape=1

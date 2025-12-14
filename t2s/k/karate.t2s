@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044920/Karate.tzx.zip
+--tape-name "Karate.tzx"
+--tape-sum 8c5b918327fffeb748a3ce1b75ae4a35
+--start 1343
+--sim-load-config finish-tape=1

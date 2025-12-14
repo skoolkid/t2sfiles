@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044924/Selva.tzx.zip
+--tape-name "Selva.tzx"
+--tape-sum d686d50637f78dbf6c80a1a8c8e547b8
+--start 1343
+--sim-load-config finish-tape=1

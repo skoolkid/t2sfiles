@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044928/Astronave.tzx.zip
+--tape-name "Astronave.tzx"
+--tape-sum b471456448a328a023151981edc58b78
+--start 1343
+--sim-load-config finish-tape=1

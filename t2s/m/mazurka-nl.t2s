@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044986/Mazurka(NL).tzx.zip
+--tape-name "Mazurka(NL).tzx"
+--tape-sum 020eae4a51ca75a2dc4aec6510e41698
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

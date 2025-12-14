@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044919/Recogida.tzx.zip
+--tape-name "Recogida.tzx"
+--tape-sum 593dd8f8232785b46c1bb8601567da1f
+--start 1343
+--sim-load-config finish-tape=1

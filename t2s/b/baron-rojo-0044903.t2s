@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044903/BaronRojo.tzx.zip
+--tape-name "BaronRojo.tzx"
+--tape-sum 132875e7d6aba31228820f690d740aa1
+--start 1343
+--sim-load-config finish-tape=1

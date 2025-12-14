@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044888/Helicoptero.tzx.zip
+--tape-name "Helicoptero.tzx"
+--tape-sum 2d5b464e0f500f7b9bb8420f50e65fa2
+--start 1343
+--sim-load-config finish-tape=1

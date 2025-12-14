@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044993/Pirandello(NL).tzx.zip
+--tape-name "Pirandello(NL).tzx"
+--tape-sum 5d4f3f2b974f8dea4a3bb6775d791de0
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

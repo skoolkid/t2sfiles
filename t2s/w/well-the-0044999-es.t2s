@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044999/WellThe.tzx.zip
+--tape-name "WellThe.tzx"
+--tape-sum c5baa94d8802f2863d2ecde6f869359d
+--start 1343
+--sim-load-config finish-tape=1

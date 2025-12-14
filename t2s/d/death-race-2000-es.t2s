@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044991/DeathRace2000.tzx.zip
+--tape-name "DeathRace2000.tzx"
+--tape-sum a99966124a900dd5c9df4ca0d0d18da8
+--start 1343
+--sim-load-config finish-tape=1

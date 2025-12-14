@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044918/Soga.tzx.zip
+--tape-name "Soga.tzx"
+--tape-sum e574681cae620c2ba6399b6bd1dd7136
+--start 1343
+--sim-load-config finish-tape=1

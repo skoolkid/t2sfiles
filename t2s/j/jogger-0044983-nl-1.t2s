@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044983/Jogger(NL).tzx.zip
+--tape-name "Jogger(NL).tzx"
+--tape-sum e0491390898ea5a06a49db1982b16ca1
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

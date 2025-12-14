@@ -1,7 +1,0 @@
-https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0013658/SoftSpectrumIssue13(SideA).tzx.zip
---tape-name "SoftSpectrumIssue13(SideA).tzx"
---tape-sum f3502ae366489c13b0e72b1d6110983e
---start 1343
---tape-start 18
---tape-stop 20
---sim-load-config finish-tape=1

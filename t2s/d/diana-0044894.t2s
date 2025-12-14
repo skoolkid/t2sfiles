@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044894/Diana.tzx.zip
+--tape-name "Diana.tzx"
+--tape-sum 9c41c538398659d7e5b5f90039354550
+--start 1343
+--sim-load-config finish-tape=1

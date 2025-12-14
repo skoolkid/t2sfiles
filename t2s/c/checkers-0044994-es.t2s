@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044994/Checkers.tzx.zip
+--tape-name "Checkers.tzx"
+--tape-sum 185e63edcd2c10148ea8c0456193c394
+--start 1343
+--sim-load-config finish-tape=1

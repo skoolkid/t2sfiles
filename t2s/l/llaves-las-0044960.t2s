@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044960/LlavesLas.tzx.zip
+--tape-name "LlavesLas.tzx"
+--tape-sum 13633c05c582e6c5221359c8e9871d1b
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044954/LazarilloEl.tzx.zip
+--tape-name "LazarilloEl.tzx"
+--tape-sum cf1a1f1ae36691d8d9322d5de29a6724
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044985/Copter(NL).tzx.zip
+--tape-name "Copter(NL).tzx"
+--tape-sum 27351e4b677c48a4224541b71c238c4d
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

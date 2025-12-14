@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044921/CanonLaser.tzx.zip
+--tape-name "CanonLaser.tzx"
+--tape-sum 6a56e91a159dce8ce03935b5ba4a33ab
+--start 1343
+--sim-load-config finish-tape=1

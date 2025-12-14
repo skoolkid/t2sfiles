@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044934/TartaLa.tzx.zip
+--tape-name "TartaLa.tzx"
+--tape-sum c640648d119b73f35a140cdb767cb12e
+--start 1343
+--sim-load-config finish-tape=1

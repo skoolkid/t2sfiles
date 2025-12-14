@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044964/Globos.tzx.zip
+--tape-name "Globos.tzx"
+--tape-sum f24fa9cd76cfb045ebd2905ba97d3f6b
+--start 1343
+--sim-load-config finish-tape=1

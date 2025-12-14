@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044899/Bolos.tzx.zip
+--tape-name "Bolos.tzx"
+--tape-sum 38e14202bb412f79010766befe3b4ac2
+--start 1343
+--sim-load-config finish-tape=1

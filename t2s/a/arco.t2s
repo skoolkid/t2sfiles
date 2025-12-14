@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044915/Arco.tzx.zip
+--tape-name "Arco.tzx"
+--tape-sum a9f34148f31609ea364b2f3a83ce1f4f
+--start 1343
+--sim-load-config finish-tape=1

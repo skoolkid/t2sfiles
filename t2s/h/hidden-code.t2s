@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044875/HiddenCode.tzx.zip
+--tape-name "HiddenCode.tzx"
+--tape-sum e3dc9499994faa85666c2b21974671d8
+--start 1343
+--sim-load-config finish-tape=1
