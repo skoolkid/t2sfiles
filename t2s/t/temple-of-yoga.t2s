@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0029732/TempleOfYoga.tap.zip
+--tape-name "TempleOfYoga.tap"
+--tape-sum 6ab0d2fa7507b777fa22397512d63528
+--start 1343
+--sim-load-config finish-tape=1

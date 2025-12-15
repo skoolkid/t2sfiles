@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0029730/VarlsrymdenAnfaller.tap.zip
+--tape-name "VarlsrymdenAnfaller.tap"
+--tape-sum fb89fe4aba8f4b51d60d6b73f6953930
+--start 1343
+--sim-load-config finish-tape=1
