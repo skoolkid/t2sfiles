@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045112/Memory.tzx.zip
+--tape-name "Memory.tzx"
+--tape-sum f3d94dc03e64978c2f8a5538096491c9
+--start 1343
+--sim-load-config finish-tape=1

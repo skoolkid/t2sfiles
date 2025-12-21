@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045081/BalloonSimulation.tzx.zip
+--tape-name "BalloonSimulation.tzx"
+--tape-sum 74e7b42cc9b15689844a9d040374d465
+--start 1343
+--sim-load-config finish-tape=1

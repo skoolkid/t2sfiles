@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045052/Racer.tap.zip
+--tape-name "Racer.tap"
+--tape-sum 9c1f54e6a2b2aabfab69abd1234aae39
+--start 1343
+--sim-load-config finish-tape=1

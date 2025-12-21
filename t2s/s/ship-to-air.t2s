@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045049/ShipToAir.tap.zip
+--tape-name "ShipToAir.tap"
+--tape-sum 51e75231c566bf8dea5409b467c4a92b
+--start 1343
+--sim-load-config finish-tape=1

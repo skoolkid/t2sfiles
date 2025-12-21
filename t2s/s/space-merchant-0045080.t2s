@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045080/SpaceMerchant.tzx.zip
+--tape-name "SpaceMerchant.tzx"
+--tape-sum 91fcb815fdfae40318dff6a572731773
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045053/TreasureHunt.tap.zip
+--tape-name "TreasureHunt.tap"
+--tape-sum 183674da74ead4eb70ca9e062da7bd75
+--start 1343
+--sim-load-config finish-tape=1

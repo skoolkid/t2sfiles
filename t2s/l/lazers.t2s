@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045074/Lazers.tzx.zip
+--tape-name "Lazers.tzx"
+--tape-sum 6f394c625be58b8693c6f1bf6e69fc87
+--start 1343
+--sim-load-config finish-tape=1

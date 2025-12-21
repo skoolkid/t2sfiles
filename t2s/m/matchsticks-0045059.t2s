@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045059/Matchsticks.tap.zip
+--tape-name "Matchsticks.tap"
+--tape-sum 13ea953c0a3f41212cd51f3fbb7e58bf
+--start 1343
+--sim-load-config finish-tape=1

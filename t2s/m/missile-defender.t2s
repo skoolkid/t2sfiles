@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045087/MissileDefender.tzx.zip
+--tape-name "MissileDefender.tzx"
+--tape-sum c314f9eae5aabe2efc22eaa45607c751
+--start 1343
+--sim-load-config finish-tape=1

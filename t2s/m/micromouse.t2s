@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045089/Micromouse.tzx.zip
+--tape-name "Micromouse.tzx"
+--tape-sum 554b827dd701bdf6d460327e50f569fe
+--start 1343
+--sim-load-config finish-tape=1

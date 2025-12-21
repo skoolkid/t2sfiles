@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045062/Grid.tap.zip
+--tape-name "Grid.tap"
+--tape-sum 39ec1cb957196b673bca627e1f145f50
+--start 1343
+--sim-load-config finish-tape=1

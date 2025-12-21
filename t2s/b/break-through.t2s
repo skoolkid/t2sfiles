@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045065/BreakThrough.tzx.zip
+--tape-name "BreakThrough.tzx"
+--tape-sum ab4c41e4408e80dc1fae0d4fafe073c9
+--start 1343
+--sim-load-config finish-tape=1

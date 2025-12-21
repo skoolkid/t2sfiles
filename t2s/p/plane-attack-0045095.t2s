@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045095/PlaneAttack.tzx.zip
+--tape-name "PlaneAttack.tzx"
+--tape-sum 73e0fe9158ac93f72cc972f5f678a9d8
+--start 1343
+--sim-load-config finish-tape=1

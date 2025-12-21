@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045058/BlastOff.tap.zip
+--tape-name "BlastOff.tap"
+--tape-sum 3fe88934e8d2eea3e030fb8b7ec31fb4
+--start 1343
+--sim-load-config finish-tape=1

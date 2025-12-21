@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045091/MiniGrandNational.tzx.zip
+--tape-name "MiniGrandNational.tzx"
+--tape-sum f3b95ab79783b34388f5c57402e8f61f
+--start 1343
+--sim-load-config finish-tape=1

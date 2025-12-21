@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045061/FuelDump.tap.zip
+--tape-name "FuelDump.tap"
+--tape-sum 44a5cab848c1894a1c3d61d68838e507
+--start 1343
+--sim-load-config finish-tape=1

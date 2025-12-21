@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044881/Adventure.tap.zip
+--tape-name "Adventure.tap"
+--tape-sum 635cdf5e11cd85f733ac1743eff3902c
+--start 1343
+--sim-load-config finish-tape=1

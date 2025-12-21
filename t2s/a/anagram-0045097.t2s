@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045097/Anagram.tzx.zip
+--tape-name "Anagram.tzx"
+--tape-sum 0402498d72edd93e196206d4e305fb4e
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045090/MapQuiz.tzx.zip
+--tape-name "MapQuiz.tzx"
+--tape-sum 494288aac5f5ef8c3784ba4de5da5a22
+--start 1343
+--sim-load-config finish-tape=1

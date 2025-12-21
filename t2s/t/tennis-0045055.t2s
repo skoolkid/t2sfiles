@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045055/Tennis.tap.zip
+--tape-name "Tennis.tap"
+--tape-sum f6cb5173a3264632318eb33979b0a605
+--start 1343
+--sim-load-config finish-tape=1

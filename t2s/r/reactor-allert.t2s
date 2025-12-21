@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045045/ReactorAllert.tap.zip
+--tape-name "ReactorAllert.tap"
+--tape-sum 746ae06b25b8b503d8912e7247394872
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045079/MusicalMemory.tzx.zip
+--tape-name "MusicalMemory.tzx"
+--tape-sum 06269414059bc039595c39e3554814c2
+--start 1343
+--sim-load-config finish-tape=1

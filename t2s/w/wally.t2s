@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045102/Wally.tzx.zip
+--tape-name "Wally.tzx"
+--tape-sum d73d4923669c62236ca6a1ffee9cbf45
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

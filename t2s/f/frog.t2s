@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045040/Frog.tap.zip
+--tape-name "Frog.tap"
+--tape-sum f1884c8c554ddcf5614ccbe81ebddfad
+--start 1343
+--sim-load-config finish-tape=1

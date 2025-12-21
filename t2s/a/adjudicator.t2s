@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045083/Adjudicator.tzx.zip
+--tape-name "Adjudicator.tzx"
+--tape-sum eeedaeed6be90b8c3473618c5f304906
+--start 1343
+--sim-load-config finish-tape=1

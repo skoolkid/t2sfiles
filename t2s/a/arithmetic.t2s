@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045057/Arithmetic.tap.zip
+--tape-name "Arithmetic.tap"
+--tape-sum 4e6865662d4e5608896b411c1f32e6ac
+--start 1343
+--sim-load-config finish-tape=1

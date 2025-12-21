@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045092/Castle.tzx.zip
+--tape-name "Castle.tzx"
+--tape-sum a03aa06b1b55d629d95b127bcc84b6f9
+--start 1343
+--sim-load-config finish-tape=1

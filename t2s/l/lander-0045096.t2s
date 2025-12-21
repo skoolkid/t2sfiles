@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045096/Lander.tzx.zip
+--tape-name "Lander.tzx"
+--tape-sum 65a50b04fff523535bccfafbc70f4b79
+--start 1343
+--sim-load-config finish-tape=1

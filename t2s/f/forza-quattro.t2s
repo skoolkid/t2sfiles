@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044883/ForzaQuattro.tap.zip
+--tape-name "ForzaQuattro.tap"
+--tape-sum bac01757df5162a2526c883e921f0ae9
+--start 1343
+--sim-load-config finish-tape=1

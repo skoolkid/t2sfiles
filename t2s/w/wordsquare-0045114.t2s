@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045114/Wordsquare.tzx.zip
+--tape-name "Wordsquare.tzx"
+--tape-sum 1cdc731bd8bcfedd58158dbc23765819
+--start 1343
+--sim-load-config finish-tape=1

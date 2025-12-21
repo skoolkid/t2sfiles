@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045124/Conecta1.tap.zip
+--tape-name "Conecta1.tap"
+--tape-sum b64c0f33cd1fc87699131de384d563b9
+--start 31311
+--sim-load-config finish-tape=1

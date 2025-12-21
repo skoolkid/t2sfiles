@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044879/Tandem.tap.zip
+--tape-name "Tandem.tap"
+--tape-sum 6cb7134663f1e4112df016545f7e10db
+--start 1343
+--sim-load-config finish-tape=1

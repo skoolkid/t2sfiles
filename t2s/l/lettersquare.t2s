@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045113/Lettersquare.tzx.zip
+--tape-name "Lettersquare.tzx"
+--tape-sum cff2ef4dc86c506cb6dbe82ce480c3e0
+--start 1343
+--sim-load-config finish-tape=1

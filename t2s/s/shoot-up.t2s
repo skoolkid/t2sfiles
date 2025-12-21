@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045064/ShootUp.tap.zip
+--tape-name "ShootUp.tap"
+--tape-sum b5674089e7b0bda1006406323c6f800d
+--start 1343
+--sim-load-config finish-tape=1

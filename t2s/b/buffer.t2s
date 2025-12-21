@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045051/Buffer.tap.zip
+--tape-name "Buffer.tap"
+--tape-sum 675e53ca1065161c0b8b1598b0dd1619
+--start 1343
+--sim-load-config finish-tape=1

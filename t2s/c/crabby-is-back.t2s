@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045121/CrabbyIsBack.tap.zip
+--tape-name "CrabbyIsBack.tap"
+--tape-sum f6641a370c982b9f20244f8054a3f936
+--start 32000
+--sim-load-config machine=128

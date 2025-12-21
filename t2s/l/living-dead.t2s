@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045067/LivingDead.tzx.zip
+--tape-name "LivingDead.tzx"
+--tape-sum 4e0ec1a11fa6a4be9677c8e5d46c8cce
+--start 1343
+--sim-load-config finish-tape=1

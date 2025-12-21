@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045115/Roundabout.tzx.zip
+--tape-name "Roundabout.tzx"
+--tape-sum 6f07e90a2e5eaab829f8f61c6065261b
+--start 1343
+--sim-load-config finish-tape=1

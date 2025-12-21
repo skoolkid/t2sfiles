@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045107/Trespass.tzx.zip
+--tape-name "Trespass.tzx"
+--tape-sum 373badb2be454ff594de9853ad152752
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045100/Droid.tzx.zip
+--tape-name "Droid.tzx"
+--tape-sum 93835cc8c5228e1b87fd69d792aabab3
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

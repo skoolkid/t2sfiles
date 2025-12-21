@@ -1,8 +1,0 @@
-https://worldofspectrum.net/pub/sinclair/compilations/b/BumperPack4.tzx.zip
---tape-name "Bumper Pack 50 - Side 1.tzx"
---tape-sum aad9c93b2169562ce6fc04819e79fab2
---start 1343
---tape-start 32
---tape-stop 34
---sim-load-config finish-tape=1
---sim-load-config 'load=LOAD "": RUN'

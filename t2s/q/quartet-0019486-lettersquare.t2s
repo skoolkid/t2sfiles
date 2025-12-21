@@ -1,7 +1,0 @@
-https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0019486/Quartet.tzx.zip
---tape-name "Quartet.tzx"
---tape-sum 75b37a759325a5e6efdc785648351d5d
---start 1343
---tape-start 5
---tape-stop 7
---sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045117/Bandit.tzx.zip
+--tape-name "Bandit.tzx"
+--tape-sum b5c030a6d436c95f15d18449556c07c0
+--start 1343
+--sim-load-config finish-tape=1

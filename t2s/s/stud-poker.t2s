@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045123/StudPoker.tzx.zip
+--tape-name "StudPoker.tzx"
+--tape-sum 06a88170d9a416fe264fb56ff3135bd6
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045125/TourDeFrance.tap.zip
+--tape-name "TourDeFrance.tap"
+--tape-sum 82bed0cf3a18ce1ab43ff89003ca124f
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045075/WordSearch.tzx.zip
+--tape-name "WordSearch.tzx"
+--tape-sum d8b1533f8762547cc43e5a16f1c8a74d
+--start 1343
+--sim-load-config finish-tape=1

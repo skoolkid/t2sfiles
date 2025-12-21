@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045084/PursuitShip.tzx.zip
+--tape-name "PursuitShip.tzx"
+--tape-sum a226cc0b21c60b3ae727c4d37f944fb3
+--start 1343
+--sim-load-config finish-tape=1

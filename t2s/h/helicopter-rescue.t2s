@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045068/HelicopterRescue.tzx.zip
+--tape-name "HelicopterRescue.tzx"
+--tape-sum 26ef687489d153ef8606cec1d2421ac1
+--start 1343
+--sim-load-config finish-tape=1

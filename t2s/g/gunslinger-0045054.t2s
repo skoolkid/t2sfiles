@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045054/Gunslinger.tap.zip
+--tape-name "Gunslinger.tap"
+--tape-sum 3f16148a890487b292f03230d660b384
+--start 1343
+--sim-load-config finish-tape=1

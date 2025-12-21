@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045039/Aliens.tap.zip
+--tape-name "Aliens.tap"
+--tape-sum 8c54e90d6113bf240056a0a08579ae4c
+--start 1343
+--sim-load-config finish-tape=1

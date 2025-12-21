@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045070/LunarRover.tzx.zip
+--tape-name "LunarRover.tzx"
+--tape-sum a4f0ba3940058267bd6337531f04bd8d
+--start 1343
+--sim-load-config finish-tape=1

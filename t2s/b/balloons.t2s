@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045050/Balloons.tap.zip
+--tape-name "Balloons.tap"
+--tape-sum 5529982d992f2ee606fc28b47d193b76
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045094/DogFight.tzx.zip
+--tape-name "DogFight.tzx"
+--tape-sum 31d84b32cdf775424e32af8f5d1ea5b0
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045098/NumberReverse.tzx.zip
+--tape-name "NumberReverse.tzx"
+--tape-sum 30473f39ddf30c28041c1753c39dd8b7
+--start 1343
+--sim-load-config finish-tape=1

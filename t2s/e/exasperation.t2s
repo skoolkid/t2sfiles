@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045105/Exasperation.tzx.zip
+--tape-name "Exasperation.tzx"
+--tape-sum 901c2205ab77225db22fae6c493e9687
+--start 1343
+--sim-load-config finish-tape=1

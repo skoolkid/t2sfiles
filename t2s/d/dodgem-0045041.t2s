@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045041/Dodgem.tap.zip
+--tape-name "Dodgem.tap"
+--tape-sum d8d2797fe116ca852adf06a8eb5daf50
+--start 1343
+--sim-load-config finish-tape=1

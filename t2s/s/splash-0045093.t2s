@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045093/Splash.tzx.zip
+--tape-name "Splash.tzx"
+--tape-sum 8e9e5c11d05d0deaa895701fcb4ea642
+--start 1343
+--sim-load-config finish-tape=1

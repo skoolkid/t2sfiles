@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045073/Duel.tzx.zip
+--tape-name "Duel.tzx"
+--tape-sum 2ae7f9f0e7a13050a0b0b664ced90264
+--start 1343
+--sim-load-config finish-tape=1
