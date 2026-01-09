@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043805/ComputerBattleships.tap.zip
+--tape-name "ComputerBattleships.tap"
+--tape-sum a81b36b9f97e77b0c1d957a0cba40fa4
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

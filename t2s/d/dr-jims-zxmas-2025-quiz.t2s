@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045150/DrJimsZXmas2025Quiz.tap.zip
+--tape-name "DrJimsZXmas2025Quiz.tap"
+--tape-sum 71c9c2330f10e7cef0e12cc978f3394c
+--start 23316
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

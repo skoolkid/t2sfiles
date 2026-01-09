@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044365/Argon.tap.zip
+--tape-name "Argon.tap"
+--tape-sum b526143f36e68abd26491fd62fe2b06b
+--start 1343
+--sim-load-config finish-tape=1

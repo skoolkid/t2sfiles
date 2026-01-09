@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0041307/AlongTheWire.tap.zip
+--tape-name "AlongTheWire.tap"
+--tape-sum 54c07f3b4dccdf16024ab539f1ee1019
+--start 1343
+--sim-load-config finish-tape=1

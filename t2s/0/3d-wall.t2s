@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044375/Wall3D.tap.zip
+--tape-name "Wall3D.tap"
+--tape-sum 05f4e3c6e65638f9e657afe1fc03ca34
+--start 1343
+--sim-load-config finish-tape=1

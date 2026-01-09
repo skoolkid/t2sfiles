@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045154/CwisArWynedd.tzx.zip
+--tape-name "CwisArWynedd.tzx"
+--tape-sum 50f42e0487c231ef0972607a0179aab1
+--start 1343
+--sim-load-config finish-tape=1

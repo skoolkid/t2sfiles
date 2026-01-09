@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045153/NotVeryAdvancedSnakemowerSimulator.tzx.zip
+--tape-name "NotVeryAdvancedSnakemowerSimulator.tzx"
+--tape-sum ec7f422a15c6ab571092ad6469322e26
+--start 1343
+--sim-load-config finish-tape=1

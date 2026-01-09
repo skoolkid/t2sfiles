@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044364/ArcherThe.tap.zip
+--tape-name "ArcherThe.tap"
+--tape-sum 71b461acbd378ae521cd953a2573b9a5
+--start 1343
+--sim-load-config finish-tape=1

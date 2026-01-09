@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044886/AlFuoco.tap.zip
+--tape-name "AlFuoco.tap"
+--tape-sum 9cc99897de9a7dc3acae4d11c0cd101f
+--start 1343
+--sim-load-config finish-tape=1

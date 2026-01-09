@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0041389/AlienEnforcer.tap.zip
+--tape-name "AlienEnforcer.tap"
+--tape-sum 41b73e3ba95352b5f89c53dc045275f7
+--start 1343
+--sim-load-config finish-tape=1

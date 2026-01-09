@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045139/Halloween2025.tap.zip
+--tape-name "Halloween2025.tap"
+--tape-sum 0939debbf7c8c50c9955d33d3f83dd50
+--start 1343
+--sim-load-config finish-tape=1

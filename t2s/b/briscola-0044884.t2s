@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044884/Briscola.tap.zip
+--tape-name "Briscola.tap"
+--tape-sum 586437ed8c2ba43c6404c140c961ded8
+--start 1343
+--sim-load-config finish-tape=1
