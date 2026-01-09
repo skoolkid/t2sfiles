@@ -1,5 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/m/MicroAtWorkSoftwareCassette1The.tzx.zip
---tape-name "The Micro At Work Software Cassette 1 - Tape 2 - Side A.tzx"
---tape-sum 8394ea0d41f341b9ed4e8dd758b712c4
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018741/AirTrafficControl.tzx.zip
+--tape-name "AirTrafficControl.tzx"
+--tape-sum 6bcc302e357f80a0ba13392ed24ee905
 --start 1343
 --sim-load-config finish-tape=1

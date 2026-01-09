@@ -1,5 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/k/KickOffCollection.tzx.zip
---tape-name "Kick Off Collection - World Cup Kick Off.tzx"
---tape-sum 30348b4d86f27588c53927bf0fa1b85f
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0002689/KickOffWorldCupEdition.tzx.zip
+--tape-name "KickOffWorldCupEdition.tzx"
+--tape-sum 920ebd1f9877d49eac63e56fbb2a0a79
 --start 24727
 --sim-load-config machine=128

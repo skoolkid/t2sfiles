@@ -1,5 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/l/L-GameMastermindAndPontoon.tzx.zip
---tape-name "The L Game - Side 1.tzx"
---tape-sum 3fb11093bedcc73975eed8855639c2f2
+https://worldofspectrum.net/pub/sinclair/games/l/L-Game(Angles)(ContrastSoftware).tzx.zip
+--tape-name "ANGLES.TZX"
+--tape-sum 80e4de93ed17cc48d2435f72d325d72f
 --start 1343
 --sim-load-config finish-tape=1

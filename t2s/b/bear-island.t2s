@@ -1,5 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/g/GamesTape1.tzx.zip
---tape-name "Games Tape 1 (Gilsoft) - Side 2.tzx"
---tape-sum 3763773575510174568a97e06c680746
+https://worldofspectrum.net/pub/sinclair/games/b/BearIsland.tap.zip
+--tape-name "Bear Island.tap"
+--tape-sum 854e5cc3f9f5dd529ec88750e8c9bb5c
 --start 1343
 --sim-load-config finish-tape=1

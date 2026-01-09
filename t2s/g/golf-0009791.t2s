@@ -1,6 +1,5 @@
-https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0013357/GamesPack4(SideA).tzx.zip
---tape-name "Games Pack 4 - Custom Cables - Tape A.TZX"
---tape-sum cac3c4241eb54d34973304da847fa3a1
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0009791/Golf.tzx.zip
+--tape-name "Golf.tzx"
+--tape-sum d6ecbb275d4193092c539e5c2c4ae7b5
 --start 1343
---tape-start 7
 --sim-load-config finish-tape=1

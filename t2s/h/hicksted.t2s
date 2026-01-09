@@ -1,5 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/h/Hicksted-Mathsted.tzx.zip
---tape-name "Hicksted & Mathsted - Side 1.tzx"
---tape-sum 03d99e4671ad6114ac2ab6c77b815d9a
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016095/Hicksted.tzx.zip
+--tape-name "Hicksted.tzx"
+--tape-sum e52870d5b7109c3cc90ae86b5074b86b
 --start 1343
 --sim-load-config finish-tape=1

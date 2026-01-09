@@ -1,5 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/a/AdventurePlayground.tzx.zip
---tape-name "Adventure Playground - Side B.tzx"
---tape-sum 5cf868b26144ae975ea16ef66c1b8d8c
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0015916/CrookedAdventure.tzx.zip
+--tape-name "CrookedAdventure.tzx"
+--tape-sum c76ee5e0fd7471bb4c3946ce7d06da88
 --start 1343
 --sim-load-config finish-tape=1

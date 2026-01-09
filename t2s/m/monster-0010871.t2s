@@ -1,6 +1,6 @@
-https://worldofspectrum.net/pub/sinclair/compilations/m/Monster+StarReporter.tzx.zip
---tape-name "Monster & Star Reporter - Monster.tzx"
---tape-sum 899d3e4f6c5670268d6a3605fb63542a
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0010871/Monster.tzx.zip
+--tape-name "Monster.tzx"
+--tape-sum d07a16f0226c89463522c149c60f2357
 --start 36383
 --sim-load-config machine=128
 --sim-load-config finish-tape=1

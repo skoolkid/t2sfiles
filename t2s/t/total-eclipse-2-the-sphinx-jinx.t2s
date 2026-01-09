@@ -1,4 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/t/TotalEclipse+TheSphinxJinx.tzx.zip
---tape-name "Total Eclipse & The Sphinx Jinx - The Sphinx Jinx.tzx"
---tape-sum ca4458b00be6bbea7ee05e316e24e250
---start 27228
+https://worldofspectrum.net/pub/sinclair/games/t/TotalEclipse2-TheSphinxJinx.tap.zip
+--tape-name "TOTALEC2.TAP"
+--tape-sum cda579395c555e5de1d630ef8cc81bdf
+--start 1343
+--sim-load-config finish-tape=1

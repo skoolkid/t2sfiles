@@ -1,6 +1,6 @@
-https://worldofspectrum.net/pub/sinclair/compilations/t/TusJuegosSingle2D.tzx.zip
---tape-name "Tus Juegos Single 2D - Aracnidos.tzx"
---tape-sum c7e929654f2469c2e3dbdc6bd83e8ce4
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0005147/Aracnidos.tzx.zip
+--tape-name "Aracnidos.tzx"
+--tape-sum ec029c4bf6fd66166e4412bab07fff45
 --start 1343
 --sim-load-config finish-tape=1
 --sim-load-config 'load=LOAD "": RUN'

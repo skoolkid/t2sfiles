@@ -1,5 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/a/ActionPack3.tzx.zip
---tape-name "Action Pack 3 - Side B.tzx"
---tape-sum 1939035d64da7cbc894c8f2d20971324
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0015914/IndoorBowling.tzx.zip
+--tape-name "IndoorBowling.tzx"
+--tape-sum 16c59586cd19a7f478ef6ebe5e0b4440
 --start 1343
 --sim-load-config finish-tape=1

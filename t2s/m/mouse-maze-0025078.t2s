@@ -1,7 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/b/BrainTrainThe.tzx.zip
---tape-name "The Brain Train.tzx"
---tape-sum 989cb001bc009ba6dd9cf6d9285268e7
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0025078/MouseMaze.tzx.zip
+--tape-name "MouseMaze.tzx"
+--tape-sum d40f6a97d1f74cd590d0964f2318d3cc
 --start 1343
---tape-start 4
---tape-stop 8
 --sim-load-config finish-tape=1

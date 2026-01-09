@@ -1,6 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/t/TubeCube+Pentacube.tzx.zip
---tape-name "Tube Cube.tzx"
---tape-sum 942541e452d1dfdcb5ec14f636b6984d
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0005442/Pentacube.tzx.zip
+--tape-name "Pentacube.tzx"
+--tape-sum d5309daa602df3862caa258d469abeba
 --start 1343
---tape-start 7
 --sim-load-config finish-tape=1

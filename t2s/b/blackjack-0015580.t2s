@@ -1,5 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/m/MonteCarlo.tzx.zip
---tape-name "Monte Carlo - Side 1.tzx"
---tape-sum ec5d5aeda87f1e8a820f7879011be546
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0015580/Blackjack.tzx.zip
+--tape-name "Blackjack.tzx"
+--tape-sum 7d78ea44b6fd2c620f04bec2a3d6a9e3
 --start 1343
 --sim-load-config finish-tape=1

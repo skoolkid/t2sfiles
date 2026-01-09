@@ -1,5 +1,6 @@
-https://worldofspectrum.net/pub/sinclair/compilations/y/Yankee.tzx.zip
---tape-name "Yankee - Chickamauga.tzx"
---tape-sum 962b8fccdf8d1983fae46900875eea2a
+https://worldofspectrum.net/pub/sinclair/games/c/Chickamauga.tap.zip
+--tape-name "YANKEECH.TAP"
+--tape-sum 86e6af613a1961525b3dde9b168119df
 --start 1343
+--press 5:ENTER
 --sim-load-config finish-tape=1

@@ -1,5 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/s/StarterPack.tzx.zip
---tape-name "Spectrum Adventure Starter Pack - Side 1.tzx"
---tape-sum 8f8dce53cff46165556dfccb9c2732a4
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0025049/AdventureGuide.tzx.zip
+--tape-name "AdventureGuide.tzx"
+--tape-sum c1d01bc7bd03258c818e7f412712a4c7
 --start 1343
 --sim-load-config finish-tape=1

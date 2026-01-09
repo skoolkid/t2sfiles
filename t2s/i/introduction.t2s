@@ -1,6 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/123/6In1.tzx.zip
---tape-name "Six-In-One - Side A.tzx"
---tape-sum dcde5eda07a05488f147c46576321087
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0028226/Introduction.tzx.zip
+--tape-name "Introduction.tzx"
+--tape-sum 85632a713f3d385f4fe4008b649d7b90
 --start 1343
---tape-stop 10
 --sim-load-config finish-tape=1

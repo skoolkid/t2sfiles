@@ -1,5 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/s/StarsOnThe128K.tzx.zip
---tape-name "Stars On The 128 Tape 2 - Side B.tzx"
---tape-sum 2ae3d0b07173adb067c9c487daaab744
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038189/YieArKung-Fu128K.tzx.zip
+--tape-name "YieArKung-Fu128K.tzx"
+--tape-sum e76dd26c88d13b233ab00404daa6fd8b
 --start 42726
 --sim-load-config machine=128

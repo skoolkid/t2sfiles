@@ -1,5 +1,5 @@
-https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0013475/AdventureIslandMunchmanOutline_2.tzx.zip
---tape-name "AdventureIslandMunchmanOutline.tzx"
---tape-sum 8375a306a5ee63df17238ceea2c984fd
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0015878/Outline.tzx.zip
+--tape-name "Outline.tzx"
+--tape-sum 2866b4fabedb04d4c2991188e9ac3118
 --start 1343
 --sim-load-config finish-tape=1

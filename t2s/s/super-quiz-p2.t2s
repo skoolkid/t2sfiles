@@ -1,7 +1,6 @@
-https://worldofspectrum.net/pub/sinclair/compilations/s/SpecSoccer.tzx.zip
---tape-name "Spec Soccer - Side B.tzx"
---tape-sum 367ccc775511f968ac7253a78bd77807
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0016024/SuperQuiz_2.tzx.zip
+--tape-name "SuperQuiz.tzx"
+--tape-sum 51c4147b2dab592094c0d560798be589
 --start 1343
---tape-start 9
 --sim-load-config finish-tape=1
 --sim-load-config 'load=LOAD "": RUN'

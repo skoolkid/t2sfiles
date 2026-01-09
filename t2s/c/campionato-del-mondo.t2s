@@ -1,6 +1,5 @@
-https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038205/CampionatoDiCalcio(sideB).tzx.zip
---tape-name "CampionatoDiCalcio(sideB).tzx"
---tape-sum 71b53b80006fb0f640b73c4451e25460
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0038208/CampionatoDelMondo.tzx.zip
+--tape-name "CampionatoDelMondo.tzx"
+--tape-sum 48b129de6ac634ceadcb896013771271
 --start 1343
---tape-start 11
 --sim-load-config finish-tape=1

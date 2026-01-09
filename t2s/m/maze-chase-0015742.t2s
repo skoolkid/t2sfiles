@@ -1,5 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/z/ZXSpectrum+UserGuideCompanionCassette.tzx.zip
---tape-name "ZX Spectrum+ User Guide Companion Cassette - Side B.tzx"
---tape-sum c444bd8f25af5098313a03188140c9af
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0015742/MazeChase.tzx.zip
+--tape-name "MazeChase.tzx"
+--tape-sum dae2609e8ffbc7301c431ccfb4213afc
 --start 1343
 --sim-load-config finish-tape=1

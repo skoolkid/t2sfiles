@@ -1,5 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/j/JumpySnakeBlues+HonkyTonk.tzx.zip
---tape-name "Jumpy Snake Blues And Honky Tonk - Side 1.tzx"
---tape-sum 3d1417a110e7b4579fcda5c63643162b
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0015935/JumpySnakeBlues.tzx.zip
+--tape-name "JumpySnakeBlues.tzx"
+--tape-sum 3bed657f9cb721b3ed42f9354dd7a26e
 --start 1343
 --sim-load-config finish-tape=1

@@ -1,5 +1,5 @@
-https://tzxvault.org/Spectrum/TZX/CasinoRoyal.zip
---tape-name "Casino Royal - Side 2.tzx"
---tape-sum 877f6022d4e559741321caaf2f9e0b4e
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0022909/Roulette.tzx.zip
+--tape-name "Roulette.tzx"
+--tape-sum 0f9a00a0e9c47d6a8ef5e4319a408460
 --start 1343
 --sim-load-config finish-tape=1

@@ -1,6 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/p/Pontoon+Cribbage+Mastermind.tzx.zip
---tape-name "Pontoon Plus Cribbage And Mastermind.tzx"
---tape-sum f8aa2a2db16cfe467668f8896f835c51
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0009635/Cribbage.tzx.zip
+--tape-name "Cribbage.tzx"
+--tape-sum 3be525a5235caf8ff48577e8423606ce
 --start 1343
---tape-start 9
 --sim-load-config finish-tape=1

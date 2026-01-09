@@ -1,7 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/s/SimonMicro-Soft-CollectionTwo.tzx.zip
---tape-name "Simon Micro-Soft - Collection Two.tzx"
---tape-sum 5534a3ba5b6a776c4a8f394addee14ea
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0010052/PlanetDefender.tzx.zip
+--tape-name "PlanetDefender.tzx"
+--tape-sum 6a970a221b2f4af06b0bfbb49b0eef5d
 --start 1343
---tape-start 5
---tape-stop 9
 --sim-load-config finish-tape=1

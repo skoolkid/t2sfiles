@@ -1,6 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/s/SoccerSpectacular.tzx.zip
---tape-name "Soccer Spectacular - Side A.tzx"
---tape-sum 81ffefaa3f7fd9c6927208ad87f93ab4
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0010205/SoccerSupremo.tzx.zip
+--tape-name "SoccerSupremo.tzx"
+--tape-sum 9ad549790e8307692ca424387fc45e93
 --start 1343
---tape-start 14
 --sim-load-config finish-tape=1

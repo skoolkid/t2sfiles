@@ -1,5 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/g/GamesTape3V1.tzx.zip
---tape-name "Games Tape 3 (Gilsoft) - Release 1 - Side 2.tzx"
---tape-sum e6dbc5c01794a26a257b8c395a21fb80
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0011135/Tasks.tzx.zip
+--tape-name "Tasks.tzx"
+--tape-sum 2b05c878c63f2907dca18c5795d6e4ed
 --start 1343
 --sim-load-config finish-tape=1

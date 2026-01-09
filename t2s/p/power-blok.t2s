@@ -1,5 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/n/NightmarePark+Blok.tzx.zip
---tape-name "Nightmare Park & Blok - Side 2.tzx"
---tape-sum 8479679cce3a296d207a50b6777bb265
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0021853/PowerBlok.tzx.zip
+--tape-name "PowerBlok.tzx"
+--tape-sum 19c339192bc2aa2b3b566c5a1dd5cb84
 --start 1343
 --sim-load-config finish-tape=1

@@ -1,5 +1,5 @@
-"https://tzxvault.org/Spectrum/TZX/Sam'sUn-ExcellentAdventure.zip"
---tape-name "Sam's Un-Excellent Adventure.tzx"
---tape-sum dedabc874522c473f186a3e9c2befcf0
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0006920/SamsUn-ExcellentAdventure.tzx.zip
+--tape-name "SamsUn-ExcellentAdventure.tzx"
+--tape-sum 903ec66e683ecd62a7784ac9431cec53
 --start 29201
 --sim-load-config finish-tape=1

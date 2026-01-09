@@ -1,8 +1,6 @@
-https://worldofspectrum.net/pub/sinclair/compilations/n/Nightwing+Solaris.tzx.zip
---tape-name "Nightwing & Solaris - Solaris.tzx"
---tape-sum 88fcedffd3e818f220406b155d1c229c
+https://worldofspectrum.net/pub/sinclair/games/s/Solaris.tzx.zip
+--tape-name "Solaris - Alternate - Part 1.tzx"
+--tape-sum 438c16e7b3dede0134bb6a0264eb50c3
 --start 1343
---tape-start 6
---sim-load-config 'load=PAPER 0: INK 0: BORDER 0: LOAD "" SCREEN$ : PRINT AT 8,0;: LOAD ""'
---press 10:ENTER*5
+--press 6:ENTER*425
 --sim-load-config finish-tape=1

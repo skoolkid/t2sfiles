@@ -1,5 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/compilations/p/Proteus+AndroidPitRescue.tzx.zip
---tape-name "Proteus & Android Pit Rescue - Side A.tzx"
---tape-sum 4e0a30ace84331347b8b988ea48000ee
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0003904/Proteus.tzx.zip
+--tape-name "Proteus.tzx"
+--tape-sum 4e28112a9b45cef8b2ed1664e0283350
 --start 1343
 --sim-load-config finish-tape=1

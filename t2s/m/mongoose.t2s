@@ -1,5 +1,6 @@
-https://worldofspectrum.net/pub/sinclair/compilations/g/GamesTape1.tzx.zip
---tape-name "Games Tape 1 (Gilsoft) - Side 1.tzx"
---tape-sum af35ed3798c5cacb7cb18df41b824c5a
+https://worldofspectrum.net/pub/sinclair/games/m/Mongoose.tap.zip
+--tape-name "MONGOOSE.TAP"
+--tape-sum 02668bc2d7e25741d835bc547db2d0da
 --start 1343
 --sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'
