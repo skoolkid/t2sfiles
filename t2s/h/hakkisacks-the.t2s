@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045186/HakkisacksThe.tzx.zip
+--tape-name "HakkisacksThe.tzx"
+--tape-sum fa9f4bb0c52a8fd4980a22d44e70b795
+--start 23316
+--sim-load-config machine=128
+--tape-stop 6
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043808/Darts.tap.zip
+--tape-name "Darts.tap"
+--tape-sum 853658fbafb2aea7cf7fa7c4aace7f76
+--start 1343
+--sim-load-config finish-tape=1

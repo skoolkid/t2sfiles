@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044381/BombCatcher.tap.zip
+--tape-name "BombCatcher.tap"
+--tape-sum 49b85eecd92b05c296a2d3942bc756f1
+--start 1343
+--sim-load-config finish-tape=1

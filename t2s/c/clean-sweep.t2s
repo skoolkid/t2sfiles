@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043801/CleanSweep.tap.zip
+--tape-name "CleanSweep.tap"
+--tape-sum ebcb3b793a35211ce807886806e9b926
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

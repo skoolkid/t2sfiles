@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045168/TurkeyShoot.tap.zip
+--tape-name "TurkeyShoot.tap"
+--tape-sum 24fcfc0f9796fd87348474b071d199bb
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

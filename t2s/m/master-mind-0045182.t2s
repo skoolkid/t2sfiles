@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045182/MasterMind.tap.zip
+--tape-name "MasterMind.tap"
+--tape-sum 57a52df7731ae8480a676436536c400c
+--start 1343
+--sim-load-config finish-tape=1

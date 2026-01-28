@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045178/AdvancedKittiwakeSimulator.tap.zip
+--tape-name "AdvancedKittiwakeSimulator.tap"
+--tape-sum d7b18aefea6d199b7ccf5d00db5d25ea
+--start 1343
+--sim-load-config finish-tape=1

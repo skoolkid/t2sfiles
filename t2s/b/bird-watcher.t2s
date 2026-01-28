@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044373/BirdWatcher.tap.zip
+--tape-name "BirdWatcher.tap"
+--tape-sum 7edc7bf8be2e5a496c0092f1b33e9417
+--start 1343
+--sim-load-config finish-tape=1

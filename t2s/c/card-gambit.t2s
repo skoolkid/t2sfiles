@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043796/CardGambit.tap.zip
+--tape-name "CardGambit.tap"
+--tape-sum 3904bed81506a4ea0b465a81f9a0eefc
+--start 1343
+--sim-load-config finish-tape=1

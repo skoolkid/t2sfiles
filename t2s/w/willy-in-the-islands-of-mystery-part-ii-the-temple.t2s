@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045181/WillyInTheIslandsOfMysteryPartII-TheTemple.tzx.zip
+--tape-name "WillyInTheIslandsOfMysteryPartII-TheTemple.tzx"
+--tape-sum 9a4f744fc8c030cd87d6d64f91ec9bef
+--start 32039
+--sim-load-config machine=128

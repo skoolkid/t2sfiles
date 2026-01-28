@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045161/AlanWakeExperience(ES).tap.zip
+--tape-name "AlanWakeExperience(ES).tap"
+--tape-sum 8be126ebea74078dbe4e21dddabd2fb4
+--start 1343
+--sim-load-config finish-tape=1

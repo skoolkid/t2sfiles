@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045173/FourUp.tzx.zip
+--tape-name "FourUp.tzx"
+--tape-sum 1d8c680de7efd2bdbc239d2dd34ef05b
+--start 1343
+--sim-load-config finish-tape=1

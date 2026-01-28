@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044759/SingleDragon.tap.zip
+--tape-name "SingleDragon.tap"
+--tape-sum 2b7db21da89e610869e5cc382f6ab4a9
+--start 36529
+--sim-load-config machine=128

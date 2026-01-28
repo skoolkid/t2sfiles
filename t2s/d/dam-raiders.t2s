@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0041372/DamRaiders.tap.zip
+--tape-name "DamRaiders.tap"
+--tape-sum 0302d8e65a59f469b59b4996b5c4cc0c
+--start 1343
+--sim-load-config finish-tape=1

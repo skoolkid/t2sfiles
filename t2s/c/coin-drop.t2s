@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043803/CoinDrop.tap.zip
+--tape-name "CoinDrop.tap"
+--tape-sum feb91ed78aeb15220bb2e04551b25649
+--start 1343
+--sim-load-config finish-tape=1

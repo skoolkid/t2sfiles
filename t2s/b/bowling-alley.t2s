@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044368/BowlingAlley.tap.zip
+--tape-name "BowlingAlley.tap"
+--tape-sum fccb2d77f58a745f3b2cc1654d036a3a
+--start 1343
+--sim-load-config finish-tape=1

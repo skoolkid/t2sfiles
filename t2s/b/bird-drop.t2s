@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044367/BirdDrop.tap.zip
+--tape-name "BirdDrop.tap"
+--tape-sum 4dd25b03e07f01a1c5b67ed3b16833ae
+--start 1343
+--sim-load-config finish-tape=1

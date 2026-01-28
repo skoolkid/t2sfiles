@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043806/CrunchyMuncher.tap.zip
+--tape-name "CrunchyMuncher.tap"
+--tape-sum 6738b8aee8c11438fd44995fe47549d3
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044814/Quadriland.tap.zip
+--tape-name "Quadriland.tap"
+--tape-sum a0c597d4704288b1db59a5c4221fe963
+--start 1343
+--sim-load-config finish-tape=1
