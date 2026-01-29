@@ -1,5 +1,5 @@
-https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0028471/CSSCrapGamesCompetition2013.zip
---tape-name "CSSCGC2013_all/darts.tap"
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0031266/JackyWatsonsDarts.tap.zip
+--tape-name "JackyWatsonsDarts.tap"
 --tape-sum 83e595e7844ead23a4374e596c8db2fb
 --start 1343
 --sim-load-config finish-tape=1
