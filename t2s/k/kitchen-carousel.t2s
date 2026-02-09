@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044013/KitchenCarousel.tap.zip
+--tape-name "KitchenCarousel.tap"
+--tape-sum 0920742cf9143590ef9b44996a8d3cdc
+--start 1343
+--sim-load-config finish-tape=1

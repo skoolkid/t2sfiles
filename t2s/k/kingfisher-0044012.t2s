@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044012/Kingfisher.tap.zip
+--tape-name "Kingfisher.tap"
+--tape-sum fc7493e914bf22343b6e5973d22ff50c
+--start 1343
+--sim-load-config finish-tape=1

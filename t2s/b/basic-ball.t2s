@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045209/BASICBall.tap.zip
+--tape-name "BASICBall.tap"
+--tape-sum 4e1818639e7434c824b3363b05189772
+--start 1343
+--sim-load-config finish-tape=1

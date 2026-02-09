@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043816/DryClean.tap.zip
+--tape-name "DryClean.tap"
+--tape-sum 9be52f751a615d05e806498feb69ed0f
+--start 1343
+--sim-load-config finish-tape=1

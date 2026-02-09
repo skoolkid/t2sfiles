@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043829/Goalkeeper.tap.zip
+--tape-name "Goalkeeper.tap"
+--tape-sum 1d821b7ee7e728394e81ba1350d53119
+--start 1343
+--sim-load-config finish-tape=1

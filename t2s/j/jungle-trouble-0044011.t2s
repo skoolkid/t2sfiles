@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044011/JungleTrouble.tap.zip
+--tape-name "JungleTrouble.tap"
+--tape-sum 9353a7632f81a8e61f60ac59636dfd7e
+--start 1343
+--sim-load-config finish-tape=1

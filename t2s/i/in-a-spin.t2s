@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044004/InASpin.tap.zip
+--tape-name "InASpin.tap"
+--tape-sum a926d0ac7cd93e96fec9495416070a79
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045218/PutMoneyAside.tap.zip
+--tape-name "PutMoneyAside.tap"
+--tape-sum 69779e6131b1b3cfa23e9f171d021f94
+--start 1343
+--sim-load-config finish-tape=1

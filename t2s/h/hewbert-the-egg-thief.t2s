@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043999/HewbertTheEggThief.tap.zip
+--tape-name "HewbertTheEggThief.tap"
+--tape-sum b0cfd376464969ebcc219af05e89eebe
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

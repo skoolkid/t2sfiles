@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045205/LexiconZ80.tap.zip
+--tape-name "LexiconZ80.tap"
+--tape-sum 5da25dc8dab6a4aa4cc051f11ef79c37
+--start 1343
+--sim-load-config finish-tape=1

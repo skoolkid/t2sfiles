@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043824/Follower.tap.zip
+--tape-name "Follower.tap"
+--tape-sum 8aba205d4a5e6fbffc0695f1d9633533
+--start 1343
+--sim-load-config finish-tape=1

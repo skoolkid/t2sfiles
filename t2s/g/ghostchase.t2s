@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043828/Ghostchase.tap.zip
+--tape-name "Ghostchase.tap"
+--tape-sum 87fc636b020e99bd310ede9efee0f5c9
+--start 1343
+--tape-stop 5
+--sim-load-config finish-tape=1

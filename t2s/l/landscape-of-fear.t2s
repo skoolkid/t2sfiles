@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044016/LandscapeOfFear.tap.zip
+--tape-name "LandscapeOfFear.tap"
+--tape-sum 35c959e7cba00288c1b6d0429ad09f49
+--start 1343
+--sim-load-config finish-tape=1

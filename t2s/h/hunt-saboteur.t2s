@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0041308/HuntSaboteur.tap.zip
+--tape-name "HuntSaboteur.tap"
+--tape-sum b6f48e00e008731b2f1a0c7c540306ab
+--start 1343
+--sim-load-config finish-tape=1

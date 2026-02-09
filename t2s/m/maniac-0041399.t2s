@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0041399/Maniac.tap.zip
+--tape-name "Maniac.tap"
+--tape-sum f61e5b4ec8c7b0d504039d845ad1727e
+--start 1343
+--sim-load-config finish-tape=1

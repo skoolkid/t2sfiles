@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043996/Gridref.tap.zip
+--tape-name "Gridref.tap"
+--tape-sum 9e5db27f85833773bd4cb08281fe7d18
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044343/Snails.tap.zip
+--tape-name "Snails.tap"
+--tape-sum bd1333f13a59ed911ff0c3f9995cf0dd
+--start 1343
+--sim-load-config finish-tape=1

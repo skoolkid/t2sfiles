@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044010/JumpBuggy.tap.zip
+--tape-name "JumpBuggy.tap"
+--tape-sum e7aa538bf5469ac63dd97dd011fdd897
+--start 1343
+--sim-load-config finish-tape=1

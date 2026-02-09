@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043827/Ghostblasters.tap.zip
+--tape-name "Ghostblasters.tap"
+--tape-sum 5dec1df832a1fafeec2cc1d76536d797
+--start 1343
+--sim-load-config finish-tape=1

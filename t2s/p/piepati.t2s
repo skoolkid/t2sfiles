@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045210/PIEPATI.tap.zip
+--tape-name "PIEPATI.tap"
+--tape-sum 53bf37e53b90b99fe3548f2a2917bc95
+--start 1343
+--sim-load-config finish-tape=1

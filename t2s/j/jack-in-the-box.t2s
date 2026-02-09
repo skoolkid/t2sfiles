@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0041382/JackInTheBox.tap.zip
+--tape-name "JackInTheBox.tap"
+--tape-sum 503ba2c21927e3ba5aa1ac5f44bb4e2a
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043989/FroggerJr.tap.zip
+--tape-name "FroggerJr.tap"
+--tape-sum 049a43744c8b8cde9f4e94c29d58ffc8
+--start 1343
+--sim-load-config finish-tape=1

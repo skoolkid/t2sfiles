@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045217/FunAtTheFair.tzx.zip
+--tape-name "FunAtTheFair.tzx"
+--tape-sum 8faaf7500087a848756293df68bdaad1
+--start 1343
+--sim-load-config finish-tape=1

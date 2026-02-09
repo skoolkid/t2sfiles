@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0041360/Gobbler.tap.zip
+--tape-name "Gobbler.tap"
+--tape-sum eb2a1349996de54778237955a7252e25
+--start 1343
+--sim-load-config finish-tape=1

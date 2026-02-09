@@ -1,5 +1,6 @@
-https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035205/RingOfPower(Complete).tzx.zip
---tape-name "RingOfPowerComplete.tzx"
---tape-sum 50a4012289bb648b11ba17af16b4db64
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035205/RingOfPower(BUGFIX).tzx.zip
+--tape-name "RingOfPower(BUGFIX).tzx"
+--tape-sum 9205085f2ee831b333db5c4b0db9c105
 --start 1343
+--tape-stop 13
 --sim-load-config finish-tape=1

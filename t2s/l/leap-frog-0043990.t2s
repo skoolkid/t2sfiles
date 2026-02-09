@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043990/LeapFrog.tap.zip
+--tape-name "LeapFrog.tap"
+--tape-sum 15c0e46b0146c193101993365ea200fd
+--start 1343
+--sim-load-config finish-tape=1

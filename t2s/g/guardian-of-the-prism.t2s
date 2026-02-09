@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043997/GuardianOfThePrism.tap.zip
+--tape-name "GuardianOfThePrism.tap"
+--tape-sum b65a7c20771501e23587240a76a4e7bd
+--start 1343
+--sim-load-config finish-tape=1

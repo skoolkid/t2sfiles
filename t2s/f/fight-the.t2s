@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043823/FightThe.tap.zip
+--tape-name "FightThe.tap"
+--tape-sum 99c65e078f3e45b7d7c0dd2b1bc0044a
+--start 1343
+--sim-load-config finish-tape=1

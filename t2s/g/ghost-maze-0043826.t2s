@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043826/GhostMaze.tap.zip
+--tape-name "GhostMaze.tap"
+--tape-sum a6f88de2301284fddb8edc1723e284ac
+--start 1343
+--sim-load-config finish-tape=1

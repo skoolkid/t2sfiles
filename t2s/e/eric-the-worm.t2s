@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0041398/EricTheWorm.tap.zip
+--tape-name "EricTheWorm.tap"
+--tape-sum 4b2b932570d6ee7d4b308db7332dbccb
+--start 1343
+--sim-load-config finish-tape=1

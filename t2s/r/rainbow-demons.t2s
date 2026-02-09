@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045206/RainbowDemons.tap.zip
+--tape-name "RainbowDemons.tap"
+--tape-sum f2ca3d80dd414c583633f60b8bf867b9
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'
