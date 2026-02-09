@@ -1,8 +1,0 @@
-; This title is distribution denied.
-; A local copy of the zip archive is required to use this t2s file.
-
-Bruxolico(Demo).tap.zip
---tape-name "English/Bruxólico - Side A 01 - Game (ENG) (QAOPM).tap"
---tape-sum 09b196b6bf5a6f406e90676144aa14c2
---start 24803
---sim-load-config machine=128
