@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044108/Parkie.tap.zip
+--tape-name "Parkie.tap"
+--tape-sum 6e5b53240e5c0f283e38b1692d15c2d2
+--start 1343
+--sim-load-config finish-tape=1

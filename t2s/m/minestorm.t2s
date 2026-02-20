@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044089/Minestorm.tap.zip
+--tape-name "Minestorm.tap"
+--tape-sum 4dbda3d4edd766b6eadc25fc21026b71
+--start 1343
+--sim-load-config finish-tape=1

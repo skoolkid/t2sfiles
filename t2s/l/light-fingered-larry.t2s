@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044031/LightFingeredLarry.tap.zip
+--tape-name "LightFingeredLarry.tap"
+--tape-sum 0d2670f053731cb6da9947889fdd8e4c
+--start 1343
+--sim-load-config finish-tape=1

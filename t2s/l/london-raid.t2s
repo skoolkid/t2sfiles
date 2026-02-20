@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0041325/LondonRaid.tap.zip
+--tape-name "LondonRaid.tap"
+--tape-sum 8088715ce08083a5d3aef8e01996a65e
+--start 1343
+--sim-load-config finish-tape=1

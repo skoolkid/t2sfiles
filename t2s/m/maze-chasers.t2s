@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044085/MazeChasers.tap.zip
+--tape-name "MazeChasers.tap"
+--tape-sum 63621cb11dd8f8986cb166b4bae681a9
+--start 1343
+--sim-load-config finish-tape=1

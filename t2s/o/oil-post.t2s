@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044107/OilPost.tap.zip
+--tape-name "OilPost.tap"
+--tape-sum 2534096877f347dac572e593922cee5d
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045235/ZXPachinko.tap.zip
+--tape-name "ZXPachinko.tap"
+--tape-sum 160029a13d85b39a092b4e88c1de3925
+--start 1343
+--sim-load-config finish-tape=1

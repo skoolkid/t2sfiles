@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044086/MemoryBoxes.tap.zip
+--tape-name "MemoryBoxes.tap"
+--tape-sum 62dd73006d7edc0bcf2e5f2b404af3b0
+--start 1343
+--sim-load-config finish-tape=1

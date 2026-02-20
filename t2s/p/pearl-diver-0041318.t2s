@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0041318/PearlDiver.tap.zip
+--tape-name "PearlDiver.tap"
+--tape-sum a2969f810b7ed05ac34506551f95d82e
+--start 1343
+--sim-load-config finish-tape=1

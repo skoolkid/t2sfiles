@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044105/OddOneOut.tap.zip
+--tape-name "OddOneOut.tap"
+--tape-sum c8e1224adf9c4e81a886a20270cab164
+--start 1343
+--sim-load-config finish-tape=1

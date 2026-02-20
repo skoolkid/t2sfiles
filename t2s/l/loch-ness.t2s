@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044689/LochNess.tzx.zip
+--tape-name "LochNess.tzx"
+--tape-sum 707465bf7798fc309c27496d01e55936
+--start 1343
+--sim-load-config finish-tape=1
