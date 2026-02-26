@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044163/RedDevil.tap.zip
+--tape-name "RedDevil.tap"
+--tape-sum 29bbf63efa23ea0dfbe6908de42a99bc
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045245/ExTPhoneHome.tzx.zip
+--tape-name "ExTPhoneHome.tzx"
+--tape-sum c40222304c31259301432e80a0f58a51
+--tape-start 4
+--start 1343
+--sim-load-config finish-tape=1

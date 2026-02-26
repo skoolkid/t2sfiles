@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044691/U-Boot.tap.zip
+--tape-name "U-Boot.tap"
+--tape-sum d226059638a1830f98770997d38fce28
+--start 1343
+--sim-load-config finish-tape=1

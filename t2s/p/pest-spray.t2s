@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044121/PestSpray.tap.zip
+--tape-name "PestSpray.tap"
+--tape-sum 614151d67e0db919343e37940c99a78e
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

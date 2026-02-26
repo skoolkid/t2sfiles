@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045249/KeithPaperback.tap.zip
+--tape-name "KeithPaperback.tap"
+--tape-sum 9ae6159a7a872ea3321f2e947b4c5459
+--start 1343
+--sim-load-config finish-tape=1

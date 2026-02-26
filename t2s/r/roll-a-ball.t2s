@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044166/Roll-A-Ball.tap.zip
+--tape-name "Roll-A-Ball.tap"
+--tape-sum da6e413b36ac3c7af96cd1cd9a848d4d
+--start 1343
+--sim-load-config finish-tape=1

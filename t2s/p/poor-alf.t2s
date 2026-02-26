@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0041363/PoorAlf.tap.zip
+--tape-name "PoorAlf.tap"
+--tape-sum ee9331cad74071c4e73910317816f1ff
+--start 1343
+--sim-load-config finish-tape=1

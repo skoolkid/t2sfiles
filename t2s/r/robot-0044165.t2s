@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044165/Robot.tap.zip
+--tape-name "Robot.tap"
+--tape-sum baff5629e1502050ecb719c671061a81
+--start 1343
+--sim-load-config finish-tape=1

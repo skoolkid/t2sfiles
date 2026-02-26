@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045242/CentreCourtOne.tap.zip
+--tape-name "CentreCourtOne.tap"
+--tape-sum 54c36de51a5c058b4b5a1df4e75e7403
+--start 1343
+--sim-load-config finish-tape=1

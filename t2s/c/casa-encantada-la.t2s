@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044542/CasaEncantadaLa.tap.zip
+--tape-name "CasaEncantadaLa.tap"
+--tape-sum 9944e04aeaa422aeab367a2fba14a9b3
+--start 1343
+--sim-load-config finish-tape=1
