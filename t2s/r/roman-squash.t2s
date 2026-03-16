@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0041306/RomanSquash.tap.zip
+--tape-name "RomanSquash.tap"
+--tape-sum 146e3d276e16f23d4bf3a2b5fed3f46c
+--start 1343
+--sim-load-config finish-tape=1

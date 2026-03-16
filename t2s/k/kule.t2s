@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045259/Kule.tap.zip
+--tape-name "Kule.tap"
+--tape-sum 9150318fc6ec1fa9866c2e86372d4227
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045251/Soko.tap.zip
+--tape-name "Soko.tap"
+--tape-sum d0d7afa84911c696c8742ff43e33d127
+--start 1343
+--sim-load-config finish-tape=1

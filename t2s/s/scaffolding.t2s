@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044329/Scaffolding.tap.zip
+--tape-name "Scaffolding.tap"
+--tape-sum 2ed67da608e269fed0f96e789a30aefb
+--start 1343
+--sim-load-config finish-tape=1

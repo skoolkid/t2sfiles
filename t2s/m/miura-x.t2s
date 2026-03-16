@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045261/MiuraX.tap.zip
+--tape-name "MiuraX.tap"
+--tape-sum dc50467d3ae07315e0bd50825862cff4
+--start 1343
+--sim-load-config finish-tape=1

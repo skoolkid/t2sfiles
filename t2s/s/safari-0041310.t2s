@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0041310/Safari.tap.zip
+--tape-name "Safari.tap"
+--tape-sum 8f340c01768f6d4c10c06771bc8ccbce
+--start 1343
+--sim-load-config finish-tape=1
