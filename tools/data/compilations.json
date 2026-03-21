@@ -1,0 +1,1934 @@
+{
+    "0012104": {
+        "contents": [
+            "******* Character Generator [NAG]",
+            "******* Disassembler [NAG]",
+            "0044836 Lunar Lander",
+            "0044837 Mastermind",
+            "******* Sketchpad [NAG]"
+        ],
+        "name": "All 5"
+    },
+    "0012582": {
+        "contents": [
+            "0009697 Earth Attack [Attacco alla terra]",
+            "0025694 Baseball",
+            "0010439 Asteroids Ahead! [Lo Sciame Di Asteroidi]",
+            "***9061 Counting Cats [Contando i Gatti]",
+            "******* Circuiti [NAG]",
+            "0025684 Aliens [Alieni]",
+            "******* Attributi [NAG]",
+            "0044872 Battaglia Navale",
+            "0025804 Home Base [Ritorno alla Base]",
+            "0044873 Centipede",
+            "0025749 Defending Your Spectrum [Tunnel]",
+            "0013269 Tree Eaters [Marziani]",
+            "******* Routines [NAG]",
+            "0025760 Drainpipes [Tubazioni]",
+            "******* Carica [NAG]",
+            "0026642 City Defence [La Difesa Della Citta]",
+            "0025950 Spectrum Maze [Labirinto]",
+            "******* Clock [NAG]",
+            "0044874 Elicottero",
+            "0026790 Whippets [Sei Levrieri Gareggiano Quale Vincera]",
+            "0018452 Tarantula [Tarantole]",
+            "0025681 Air Raid [Raid Aereo]",
+            "0044875 Hidden Code"
+        ],
+        "name": "Paper Book"
+    },
+    "0013652": {
+        "contents": [
+            "******* Sumario [NAG]",
+            "0044905 Serpiente",
+            "******* Circlerama [NAG]",
+            "0044906 Pasillo Mortal",
+            "0044907 Instrumentos",
+            "0044908 Revolver",
+            "******* Pulsaci\u00f3nes [NAG]",
+            "0044909 Glot\u00f3n",
+            "0044910 Masacre",
+            "******* Donuts [NAG]",
+            "0044911 Racing Cars",
+            "******* Melody",
+            "0044912 As de Trebol",
+            "******* Renumerador [NAG]",
+            "0044913 La Isla"
+        ],
+        "name": "Soft Spectrum issue 07"
+    },
+    "0013653": {
+        "contents": [
+            "******* Sumario [NAG]",
+            "0044915 Arco",
+            "******* UDG-Screen [NAG]",
+            "0044916 Ensamblaje",
+            "0044917 Huesos",
+            "0044918 Soga",
+            "0044919 Recogida",
+            "******* Pincel [NAG]",
+            "0044920 K\u00e1rate",
+            "******* Graf 3D [NAG]",
+            "0044921 Ca\u00f1\u00f3n L\u00e1ser",
+            "******* Analiza",
+            "0044922 100 Metros",
+            "******* ATTR [NAG]",
+            "0044923 N\u00facleo Energetico"
+        ],
+        "name": "Soft Spectrum issue 08"
+    },
+    "0013658": {
+        "contents": [
+            "******* Sumario [NAG]",
+            "0044924 Selva",
+            "0044925 Rescate",
+            "0044926 Memorion",
+            "0044927 Asalto",
+            "0044928 Astronave",
+            "0044929 Cruce",
+            "******* Puf [NAG]",
+            "0044930 Don Perales",
+            "0044931 Escalada",
+            "0044932 Olimpia 3D",
+            "0044933 Invasi\u00f3n Al\u00edenigena",
+            "******* C/M 1 Scrolls [NAG]",
+            "******* Dibujo [NAG]",
+            "******* Celdilla [NAG]"
+        ],
+        "name": "Soft Spectrum issue 13"
+    },
+    "0014245": {
+        "contents": [
+            "0006396 The Green Death"
+        ],
+        "name": "Spectraxx issue 10"
+    },
+    "0014602": {
+        "contents": [
+            "**45010 Naprendszer Bolyg\u00f3i [NAG]",
+            "0045011 3egysorban [3EGY2]",
+            "0045012 Nyitraisoko [58SOKO]",
+            "**45013 Adat [NAG]",
+            "0045014 Bet\u0171 Keres\u0151 J\u00e1t\u00e9k [BETUUJ]",
+            "0035854 BOMBAZO",
+            "0045015 D\u00f3ri a Labirintusban [COFILABI]",
+            "0035855 COWBOY",
+            "0001511 DAMA-E [Draughts]",
+            "0024323 DORI [Benny Bunny: Litterbugs]",
+            "0045016 F\u0151v\u00e1rosok [FOVAROSO]",
+            "0035865 FUTKOSO",
+            "0045017 M\u00e1gnes-Goly\u00f3 [GOLYO200]",
+            "0035868 GONDOL4",
+            "0035869 GONDOLKO",
+            "0045018 Gyufas J\u00e1t\u00e9k [GYUFAUJ]",
+            "0045019 Modell-haj\u00f3 Verseny [HAJO6]",
+            "0035906 Torony [HANOI]",
+            "0035870 HANOI128",
+            "0045020 Helycsere [HELYCSER]",
+            "0035871 HERNYO",
+            "0035872 HORDO",
+            "0016167 HUPIKEK [Gnomos]",
+            "0016720 INCAGOLD [Hunt the Hurkle]",
+            "******* KARD128 [NAG]",
+            "0021614 KASTELY2 [Benny Bunny: Monster Mansion]",
+            "0015601 Kockapoker",
+            "0035881 KOMBINET",
+            "0035882 KVIZ",
+            "0045021 Mastermind [MAST5]",
+            "0045022 M\u00e1trix-J\u00e1t\u00e9k [MATRIX2]",
+            "0016713 Maya Awari",
+            "0045023 Meteorit",
+            "******* NY-TEXT [NAG]",
+            "0035891 NYIL",
+            "0016715 Orajatek [ORA128]",
+            "0045024 Othell\u00f3 [OTH2002]",
+            "0045025 P\u00e1ros Keres\u0151-Mem\u00f3riaj\u00e1t\u00e9k [PAROSKER]",
+            "0045026 Piramis Szoliter [PIRISZOL]",
+            "0035895 PONTFALO",
+            "**35894 PKATALOG [NAG]",
+            "0045027 Szokereso [SZOKER6]",
+            "0045028 Szoliter [SZOLIT]",
+            "0045029 TIX-TAX [TIXTAX]",
+            "0021612 TORONY2 [Benny Bunny: The Haunted Belltower]",
+            "**35908 UDGTERV [NAG]",
+            "0045030 \u00daj t\u00e9gla [UJTEGLA]",
+            "0045031 Torped\u00f3 [ZXTORPED]"
+        ],
+        "name": "51 Games Compilation"
+    },
+    "0014913": {
+        "contents": [
+            "0015888 Fruit Machine [Fruits]",
+            "0044788 Invader",
+            "******* Compositor [NAG]",
+            "******* Gen-Char [NAG]",
+            "******* Superstore [NAG]",
+            "******* Renumerar [NAG]",
+            "******* Concursos [NAG]",
+            "******* Despedida [NAG]"
+        ],
+        "name": "Spectrumania 1/01"
+    },
+    "0015249": {
+        "contents": [
+            "******* Sumario [NAG]",
+            "0044863 Pingo",
+            "******* Agenda [NAG]",
+            "0044864 Copa-Rey",
+            "0005197 Terrapin",
+            "0044865 Cultez",
+            "******* Pianissimo [NAG]",
+            "0026902 Kung Fu",
+            "******* Antirrobo [NAG]",
+            "******* Concurso [NAG]",
+            "******* Oferta y Demanda [NAG]",
+            "0044866 Sopa de Letras 1",
+            "0044867 Sopa de Letras 2"
+        ],
+        "name": "Enter Spectrum issue 01"
+    },
+    "0015256": {
+        "contents": [
+            "******* Sumario [NAG]",
+            "0000651 Bounzai",
+            "0026081 Evolution 2 [Ev\u00f3lucion 2]",
+            "******* Agenda Abril [NAG]",
+            "******* List C/M [NAG]",
+            "0044868 ZX Bingo",
+            "******* Cuerpos de Revoluci\u00f3n [NAG]",
+            "0044869 Pacman",
+            "0044870 Cultez Historia",
+            "******* Numeros Primos [NAG]",
+            "0044871 Montecarlo",
+            "******* C/V/C 8 [NAG]"
+        ],
+        "name": "Enter Spectrum issue 08"
+    },
+    "0015257": {
+        "contents": [
+            "******* Sumario [NAG]",
+            "******* Dibujar [NAG]",
+            "**26082 Evolution 3 [Ev\u00f3lucion 3]",
+            "******* Agenda Mayo [NAG]",
+            "0044848 Bombardear",
+            "******* Mapamundi [NAG]",
+            "0044849 Bricker",
+            "******* Def/UDG [NAG]",
+            "0044850 Cultez M\u00fasica",
+            "******* Truco 1 [NAG]",
+            "******* Truco 2 [NAG]",
+            "******* Truco 3 [NAG]",
+            "******* C/V/C-9 [NAG]"
+        ],
+        "name": "Enter Spectrum issue 09"
+    },
+    "0017294": {
+        "contents": [
+            "0044829 Attacco Atomico",
+            "0044830 Campo di Battaglia",
+            "0039265 Tre Topolini Ciechi [Tre topi]",
+            "0044831 La Diga",
+            "0044832 Supercar",
+            "******* Pazienza! [NAG]"
+        ],
+        "name": "Super Sinc"
+    },
+    "0017486": {
+        "contents": [
+            "0017422 Gone Missin'"
+        ],
+        "name": "MR Jones Computer Games Tape 40"
+    },
+    "0017869": {
+        "contents": [
+            "------- Tiny Pacman",
+            "------- Tiny Pacman 2",
+            "------- Tiny Pacman 3",
+            "------- Line Invaders 1a",
+            "------- Line Invaders 1b",
+            "------- Line Invaders 2a",
+            "------- Line Invaders 2b"
+        ],
+        "name": "1 Line Classics"
+    },
+    "0017873": {
+        "contents": [
+            "------- Skier",
+            "------- Toader",
+            "------- Sheepdog Trials",
+            "------- Titan Lander",
+            "------- City Bomber"
+        ],
+        "name": "1 Line Action"
+    },
+    "0018342": {
+        "contents": [
+            "------- Othello",
+            "------- Othello PvP"
+        ],
+        "name": "1 Line Othello"
+    },
+    "0019030": {
+        "contents": [
+            "------- Simon",
+            "------- Blackjack",
+            "------- Matching Cards",
+            "------- Memory",
+            "------- Memory PvP"
+        ],
+        "name": "1 Line Mind"
+    },
+    "0023005": {
+        "contents": [
+            "0037981 Space Odyssey (Part 4)"
+        ],
+        "name": "Spectrum Adventurer issue 05"
+    },
+    "0023006": {
+        "contents": [
+            "0037981 Space Odyssey (Part 5)"
+        ],
+        "name": "Spectrum Adventurer issue 06"
+    },
+    "0023007": {
+        "contents": [
+            "0037981 Space Odyssey (Part 5)"
+        ],
+        "name": "Spectrum Adventurer issue 07"
+    },
+    "0023916": {
+        "contents": [
+            "******* Catalog [NAG]",
+            "0037191 Solitaire",
+            "******* FILL-Routine [NAG]",
+            "******* Computer-Figures [NAG]",
+            "0043658 Ku Bernd",
+            "******* Sterngrafik [NAG]",
+            "0037117 Manic Train",
+            "0037119 Spectro"
+        ],
+        "name": "Computer Kontakt - Samm1ung"
+    },
+    "0023989": {
+        "contents": [
+            "0044755 Code Break"
+        ],
+        "name": "Sinclair User Club issue 03"
+    },
+    "0023990": {
+        "contents": [
+            "0044754 Missile"
+        ],
+        "name": "Sinclair User Club issue 04"
+    },
+    "0025134": {
+        "contents": [
+            "------- Batmaster",
+            "------- Batmaster 2",
+            "------- Mutant Fungi",
+            "------- Biscuit Snake",
+            "------- Worm Battle PvP"
+        ],
+        "name": "1 Line Arcade"
+    },
+    "0025224": {
+        "contents": [
+            "------- Connect 4 PvP",
+            "------- Conexao PvP",
+            "------- Complica PvP",
+            "------- Quixo+ PvP"
+        ],
+        "name": "1 Line Board"
+    },
+    "0025314": {
+        "contents": [
+            "0038078 Boxe",
+            "0017503 Lover",
+            "0016818 Dig Dug [Elevator]"
+        ],
+        "name": "Software Club"
+    },
+    "0026585": {
+        "contents": [
+            "0040259 Time-A-Climber",
+            "0045097 Anagram",
+            "0045098 Number Reverse",
+            "0045099 Battleships",
+            "0045100 Droid",
+            "0045101 Ruler",
+            "0045102 Wally",
+            "0026659 Diver",
+            "0042384 Mult"
+        ],
+        "name": "Bumper Pack 4"
+    },
+    "0033927": {
+        "contents": [
+            "0002143 Greyfell",
+            "0001421 Dogfight: 2187",
+            "0009350 Ghost Hunters",
+            "0002902 Livingstone Supongo",
+            "0004919 Stormbringer",
+            "0003152 Metro-Cross",
+            "0002976 Mag Max",
+            "0002408 Hydrofool",
+            "0002698 Kinetik",
+            "0000109 Agent X"
+        ],
+        "name": "New Special Playgames - Issue 01"
+    },
+    "0033928": {
+        "contents": [
+            "0009316 Brainache",
+            "0002678 Kat Trap",
+            "0002298 Hercules",
+            "0002648 Judge Dredd",
+            "0004160 Road Race",
+            "0000065 Ace of Aces",
+            "0004339 Saracen",
+            "0003385 Nemesis",
+            "0009442 Transmuter",
+            "0002863 Leviathan"
+        ],
+        "name": "New Special Playgames - Issue 02"
+    },
+    "0033929": {
+        "contents": [
+            "0005409 Triaxos",
+            "0004564 Slap Fight",
+            "0000149 Alien Evolution",
+            "0009431 Super G-Man",
+            "0001942 Galletron",
+            "0003546 Oriental Hero",
+            "0000128 Airwolf II",
+            "0003340 Mutants",
+            "0001762 The Final Matrix",
+            "0004391 Sector 90"
+        ],
+        "name": "New Special Playgames - Issue 03"
+    },
+    "0033930": {
+        "contents": [
+            "0002475 Indiana Jones and the Temple of Doom",
+            "0005114 Tai-Pan",
+            "0001569 EastEnders",
+            "0002157 Grumpy Gumphrey Supersleuth",
+            "0000540 Bismarck",
+            "0002823 Last Mission",
+            "0005069 Superman: The Game",
+            "0009318 Bubbler",
+            "0004163 Road Runner",
+            "0000722 Bubble Bobble"
+        ],
+        "name": "New Special Playgames - Issue 04"
+    },
+    "0033931": {
+        "contents": [
+            "0005713 Wizball",
+            "0003523 One Man and His Droid",
+            "0000951 Chronos",
+            "0005083 Survivors",
+            "0005624 War Cars Construction Set",
+            "0002862 Level 5",
+            "0001832 Footballer of the Year",
+            "0003182 Micronaut One",
+            "0005259 Thundercats",
+            "0004643 Solomon's Key"
+        ],
+        "name": "New Special Playgames - Issue 05"
+    },
+    "0033932": {
+        "contents": [
+            "0000430 Basil the Great Mouse Detective",
+            "0000890 Championship Sprint",
+            "0002456 Implosion",
+            "0009353 Grand Prix Simulator",
+            "0002567 Jackal",
+            "0005263 Thunderceptor",
+            "0004494 Sidewize",
+            "0001734 Fast 'n' Furious",
+            "0004082 Renegade",
+            "0003560 Outcast"
+        ],
+        "name": "New Special Playgames - Issue 06"
+    },
+    "0033933": {
+        "contents": [
+            "0003496 Oink!",
+            "0001991 Gauntlet II",
+            "0005509 Ultimate Combat Mission",
+            "0003044 MASK II",
+            "0005828 Yogi Bear",
+            "0003681 Phantom Club",
+            "0003922 Psycho Soldier",
+            "0000041 720 Degrees",
+            "0001927 Galactic Games",
+            "0001259 Dark Sceptre"
+        ],
+        "name": "New Special Playgames - Issue 07"
+    },
+    "0033934": {
+        "contents": [
+            "0001813 Flying Shark",
+            "0003201 Milk Race",
+            "0003484 Octagon Squad",
+            "0003295 Motos",
+            "0002468 Incredible Shrinking Fireman",
+            "0003767 Plexar",
+            "0004929 Streaker",
+            "0001477 Jackle & Wide",
+            "0003625 Park Patrol",
+            "0005019 Super Hang-On"
+        ],
+        "name": "New Special Playgames - Issue 08"
+    },
+    "0033935": {
+        "contents": [
+            "0005348 Tour de Force",
+            "0015906 Snakes and Hazards",
+            "0001062 Convoy Raider",
+            "0002159 Gryzor",
+            "0001028 Combat School",
+            "0015908 Tiddly Drinks",
+            "0001206 Cyclone",
+            "0000258 Arkanoid - Revenge of Doh",
+            "0000590 Blood Valley",
+            "0005019 Super Hang-On"
+        ],
+        "name": "New Special Playgames - Issue 09"
+    },
+    "0033936": {
+        "contents": [
+            "0000200 Andy Capp",
+            "0002494 Cage Match",
+            "0000601 BMX Kidz",
+            "0003111 Mega-Apocalypse",
+            "0004791 Spy vs Spy III: Arctic Antics",
+            "0001196 Cybernoid",
+            "0005212 Tetris",
+            "0003461 North Star",
+            "0010521 Grand Prix Tennis",
+            "0005699 Winter Olympiad '88"
+        ],
+        "name": "New Special Playgames - Issue 10"
+    },
+    "0033937": {
+        "contents": [
+            "0004087 Target: Renegade",
+            "0000742 Bug-Eyes",
+            "0004557 Sky Ranger",
+            "0005653 Thing!",
+            "0002847 Lee Enfield Space Ace",
+            "0000517 Big Ben Strikes Again",
+            "0004170 Roadwars",
+            "0002833 Lazer Tag",
+            "0002189 Gutz",
+            "0002453 Impact",
+            "0000048 Abu Simbel Profanation",
+            "0009425 Street Fighter",
+            "0000746 Buggy Boy"
+        ],
+        "name": "New Special Playgames - Issue 11"
+    },
+    "0033938": {
+        "contents": [
+            "0000567 Blind Panic",
+            "0001375 Deviants",
+            "0005862 Zolyx",
+            "0003660 People from Sirius",
+            "0004875 Starring Charlie Chaplin",
+            "0001892 Frontline",
+            "0005774 Xarax",
+            "0001632 Energy Warrior",
+            "0001799 The Flintstones",
+            "0001359 Desolator"
+        ],
+        "name": "New Special Playgames - Issue 12"
+    },
+    "0033939": {
+        "contents": [
+            "0009309 Bionic Commando",
+            "0004942 Street Sports Basketball",
+            "0001958 Game Over",
+            "0002827 Last Ninja 2",
+            "0001261 Dark Side",
+            "0004530 Skate Crazy",
+            "0002349 Hopping Mad",
+            "0000700 Bride of Frankenstein",
+            "0001521 Driller",
+            "0001518 Dream Warrior"
+        ],
+        "name": "New Special Playgames - Issue 13"
+    },
+    "0033940": {
+        "contents": [
+            "0004046 Ready Steady Go",
+            "0003512 Omega One",
+            "0003796 Pogostick Olympics",
+            "0009484 Apache Raid!!",
+            "0000405 Barbarian",
+            "0005537 Vampire Killer",
+            "0001055 Contact Sam Cruise",
+            "0001220 Daley Thompson's Olympic Challenge",
+            "0009425 Street Fighter"
+        ],
+        "name": "New Special Playgames - Issue 14"
+    },
+    "0033941": {
+        "contents": [
+            "0000954 Chubby Gristle",
+            "0004667 Space Hunter",
+            "0003906 Prowler",
+            "0004914 Stop Ball",
+            "0002808 Lap of the Gods",
+            "0004236 Rommel's Revenge",
+            "0000642 Boulder Dash II: Rockford's Riot",
+            "0009298 1943",
+            "0004005 Rally Driver"
+        ],
+        "name": "New Special Playgames - Issue 15"
+    },
+    "0033942": {
+        "contents": [
+            "0004012 Rambo III",
+            "0000490 Bear a Grudge",
+            "0005249 Thunder Blade",
+            "0002965 Mad Mix Game",
+            "0004129 Rex",
+            "0003534 Operation Wolf",
+            "0000282 Artura",
+            "0009369 LED Storm",
+            "0005202 Terrorpods"
+        ],
+        "name": "New Special Playgames - Issue 16"
+    },
+    "0033944": {
+        "contents": [
+            "0005234 Thingy and the Doodahs",
+            "0003923 Psytraxx",
+            "0005179 Tempest",
+            "0002206 Halaga",
+            "0005566 Video Pool",
+            "0000137 Alcatraz Harry",
+            "0000812 Captain Kelly",
+            "0009368 Last Duel",
+            "0002370 Howard the Duck"
+        ],
+        "name": "New Special Playgames - Issue 18"
+    },
+    "0033945": {
+        "contents": [
+            "0001347 Denizen",
+            "0000572 Blob the Cop",
+            "0000273 Army Moves",
+            "0000762 Bump, Set, Spike!",
+            "0003369 Navy Moves",
+            "0001892 Frontline",
+            "0001403 Disposable Heroes",
+            "0004541 Skateboard Kidz",
+            "0002223 Hamte Damte",
+            "0005097 Sword Slayer"
+        ],
+        "name": "New Special Playgames - Issue 19"
+    },
+    "0033946": {
+        "contents": [
+            "0000442 Batman: The Caped Crusader",
+            "0009301 Advanced Pinball Simulator",
+            "0004904 3D Stock Car Championship",
+            "0004129 Rex",
+            "0001846 Foxx Fights Back",
+            "0005340 Total Eclipse",
+            "0004353 Savage",
+            "0017305 Soccer Skills",
+            "0004256 R-Type"
+        ],
+        "name": "New Special Playgames - Issue 20"
+    },
+    "0033947": {
+        "contents": [
+            "0017304 Indoor Soccer",
+            "0004353 Savage",
+            "0003577 Pac-Land",
+            "0005081 Survivor",
+            "0000810 Captain Blood",
+            "0005774 Xarax",
+            "0004648 Sophistry",
+            "0001355 Desert Hawk",
+            "0002375 Human Killing Machine"
+        ],
+        "name": "New Special Playgames - Issue 21"
+    },
+    "0033948": {
+        "contents": [
+            "0004333 Sanxion",
+            "0003855 Power Pyramids",
+            "0009436 Super Hero",
+            "0004848 Return of the Jedi",
+            "0001765 Fire and Forget",
+            "0002491 Intensity",
+            "0003393 Netherworld",
+            "0004820 Star Farce",
+            "0001484 Draconus",
+            "0000555 Black Beard",
+            "0002619 Jocky Wilson's Darts Challenge",
+            "0003530 Operation Hormuz"
+        ],
+        "name": "New Special Playgames - Issue 22"
+    },
+    "0033949": {
+        "contents": [
+            "0000801 Capitan Sevilla",
+            "0005547 Vectorball",
+            "0002388 Hundra",
+            "0001549 Dynamic Duo",
+            "0005507 Ulises",
+            "0003784 El Poder Oscuro",
+            "0000510 Bestial Warrior",
+            "0009892 Comando Tracer",
+            "0005462 Turbo Girl",
+            "0003156 Metropolis"
+        ],
+        "name": "New Special Playgames - Issue 23"
+    },
+    "0033950": {
+        "contents": [
+            "0005783 Xecutor",
+            "0001877 Frightmare",
+            "0001309 Deep Strike",
+            "0000796 Cannibals from Outer Space",
+            "0002673 Kane",
+            "0004043 Raw Recruit",
+            "0009384 Ninja Massacre",
+            "0009307 Bigfoot",
+            "0004231 Roller Coaster"
+        ],
+        "name": "New Special Playgames - Issue 24"
+    },
+    "0033951": {
+        "contents": [
+            "0000735 Buffalo Bill's Wild West Show",
+            "0005255 Thunderbirds",
+            "0000808 Captain America in the Doom Tube of Dr Megalomann",
+            "0009346 Forgotten Worlds",
+            "0003211 Mindtrap",
+            "0004537 Skateboard Construction System",
+            "0004214 Rockford",
+            "0009312 BMX Freestyle",
+            "0005678 A Whole New Ball Game"
+        ],
+        "name": "New Special Playgames - Issue 25"
+    },
+    "0033952": {
+        "contents": [
+            "0005545 Vatman",
+            "0000173 Altered Beast",
+            "0000269 The Armageddon Man",
+            "0004359 Sceptre of Bagdad",
+            "0005510 Ultimate Warrior",
+            "0005255 Thunderbirds",
+            "0005648 WEC Le Mans",
+            "0000101 After the War",
+            "0000434 Batman: The Movie"
+        ],
+        "name": "New Special Playgames - Issue 26"
+    },
+    "0033953": {
+        "contents": [
+            "0001610 Emilio Butragueno Futbol",
+            "0004935 Street Gang",
+            "0009430 Super Dragon Slayer",
+            "0003662 Perico Delgado Maillot Amarillo",
+            "0001622 Enchanted",
+            "0009444 Twin Turbo V8",
+            "0000780 Cabal",
+            "0004125 Revolution",
+            "0004916 Stop the Express",
+            "0004932 Street Cred' Football"
+        ],
+        "name": "New Special Playgames - Issue 27"
+    },
+    "0033954": {
+        "contents": [
+            "0003794 Pogo",
+            "0005193 Terrahawks",
+            "0000073 Action Farce II",
+            "0003662 Perico Delgado Maillot Amarillo",
+            "0003184 MicroProse Soccer",
+            "0000525 Pasteman Pat",
+            "0005034 Super Scramble Simulator",
+            "0005615 Wanderer",
+            "0005255 Thunderbirds"
+        ],
+        "name": "New Special Playgames - Issue 28"
+    },
+    "0033955": {
+        "contents": [
+            "0001175 Crusader",
+            "0005310 Toi Acid Game",
+            "0000295 Astro Marine Corps",
+            "0004969 Stunt Car Racer",
+            "0000353 Averno",
+            "0002871 Liberator",
+            "0003166 Michel Futbol Master",
+            "0003662 Perico Delgado Maillot Amarillo",
+            "0005559 Viaje al Centro de la Tierra"
+        ],
+        "name": "New Special Playgames - Issue 29"
+    },
+    "0033956": {
+        "contents": [
+            "0009380 Moto Cross Simulator",
+            "0001083 Cosmic Pirate",
+            "0004983 Subterranean Stryker",
+            "0005294 Titan",
+            "0000045 Aaargh!",
+            "0009397 Pro Skateboard Simulator",
+            "0003603 Paperboy",
+            "0009330 Death Stalker",
+            "0005630 War Machine"
+        ],
+        "name": "New Special Playgames - Issue 30"
+    },
+    "0033957": {
+        "contents": [
+            "0000303 El Equipo A",
+            "0002368 How to be a Hero",
+            "0001301 Death Zone",
+            "0004665 Space Harrier II",
+            "0001863 Freddy Hardest en Manhattan Sur",
+            "0001516 Drazen Petrovic Basket",
+            "0000273 Army Moves",
+            "0009404 The Race Against Time",
+            "0009343 Fast Food"
+        ],
+        "name": "New Special Playgames - Issue 31"
+    },
+    "0033958": {
+        "contents": [
+            "0000409 Barbarian II: The Dungeon of Drax",
+            "0000735 Buffalo Bill's Wild West Show",
+            "0000967 Circus Games",
+            "0004665 Space Harrier II",
+            "0004271 Run the Gauntlet",
+            "0000475 Bazooka Bill",
+            "0003391 Nether Earth",
+            "0009394 Pro Powerboat Simulator",
+            "0000061 ACE 2088"
+        ],
+        "name": "New Special Playgames - Issue 32"
+    },
+    "0033959": {
+        "contents": [
+            "0002233 Hard Drivin'",
+            "0001997 Gazza's Super Soccer",
+            "0002115 3D Grand Prix",
+            "0002904 Livingstone Supongo II",
+            "0001505 Drakkar",
+            "0009385 Olli & Lissa 3",
+            "0003846 Postman Pat 2",
+            "0000814 Captain Pytron",
+            "0000488 Beaky and the Egg Snatchers",
+            "0005027 Super Mutt",
+            "0001722 Fall Guy",
+            "0004344 Satan"
+        ],
+        "name": "New Special Playgames - Issue 33"
+    },
+    "0033960": {
+        "contents": [
+            "0004008 R.A.M.",
+            "0002627 Joe Blade III",
+            "0004930 Street Cred' Boxing",
+            "0003668 Peter Pack Rat",
+            "0002422 Hypsys",
+            "0001084 Cosmic Sheriff",
+            "0009383 Nightshade",
+            "0001395 Omega Dimension",
+            "0001158 Critical Mass"
+        ],
+        "name": "New Special Playgames - Issue 34"
+    },
+    "0033961": {
+        "contents": [
+            "0004782 Sputnik",
+            "0000186 Amoto's Puf",
+            "0000290 Asterix and the Magic Cauldron",
+            "0005620 W.A.R.",
+            "0004624 Sol Negro",
+            "0000242 Archon",
+            "0003442 The Ninja Warriors",
+            "0004187 Robot Scape",
+            "0004746 Spherical"
+        ],
+        "name": "New Special Playgames - Issue 35"
+    },
+    "0033962": {
+        "contents": [
+            "0004903 Stir Crazy Featuring Bobo",
+            "0009377 Soviet Fighter MiG 29",
+            "0001908 Full Throttle",
+            "0003830 Popeye",
+            "0026455 Mountain Stream",
+            "0004016 Ramon Rodriguez",
+            "0026457 Aliens",
+            "0003385 Nemesis",
+            "0004505 Silent Shadow"
+        ],
+        "name": "New Special Playgames - Issue 36"
+    },
+    "0033963": {
+        "contents": [
+            "0004772 Spooked",
+            "0005890 Zynaps",
+            "0004491 Sideral War",
+            "0005449 Tuma 7",
+            "0003609 Para Assault Course",
+            "0003435 Ninja Hamster",
+            "0000836 Castle Master",
+            "0005934 Aftermath",
+            "0003988 The Race"
+        ],
+        "name": "New Special Playgames - Issue 37"
+    },
+    "0033964": {
+        "contents": [
+            "0004306 Saigon Combat Unit",
+            "0005449 Tuma 7",
+            "0009435 Super Bike TransAm",
+            "0004770 Splitting Images",
+            "0000568 Blinkys Scary School",
+            "0003384 N.E.I.L. Android",
+            "0009364 KGB Superspy",
+            "0005646 The Way of the Tiger",
+            "0003282 Mortadelo y Filem\u00f3n II"
+        ],
+        "name": "New Special Playgames - Issue 38"
+    },
+    "0033965": {
+        "contents": [
+            "0004607 Snoopy",
+            "0005826 Yie Ar Kung-Fu 2",
+            "0005237 Thomas the Tank Engine & Friends",
+            "0009391 Prince Clumsy",
+            "0002662 Jungle Warfare",
+            "0002664 Jungle Warrior",
+            "0004240 Room Ten",
+            "0005840 Zanthrax",
+            "0004980 Submariner"
+        ],
+        "name": "New Special Playgames - Issue 39"
+    },
+    "0033966": {
+        "contents": [
+            "0004448 Shark",
+            "0004543 Skatin' USA",
+            "0004217 The Rocky Horror Show",
+            "0002982 Magic Johnson's Basketball",
+            "0003000 Manollo: El Cavernicola",
+            "0002486 Los Inhumanos",
+            "0002564 Jack the Nipper",
+            "0003853 Power Magic",
+            "0004515 Simulador Profesional de Tenis"
+        ],
+        "name": "New Special Playgames - Issue 40"
+    },
+    "0033967": {
+        "contents": [
+            "0000700 Bride of Frankenstein",
+            "0000288 Assassin",
+            "0000200 Andy Capp",
+            "0001332 Deja Vu: The Remix",
+            "0004509 Sim City",
+            "0002344 Hong Kong Phooey",
+            "0003251 Monster Munch",
+            "0005212 Tetris",
+            "0004630 Solaris"
+        ],
+        "name": "New Special Playgames - Issue 41"
+    },
+    "0033968": {
+        "contents": [
+            "0003308 Mister Gas",
+            "0003356 Mithos",
+            "0004142 Riddler's Den",
+            "0001454 Double Dash",
+            "0002495 International 3D Tennis",
+            "0001366 Destrux",
+            "0009506 Atomic Robo-Kid",
+            "0004190 Robot Messiah",
+            "0002959 Mach 3"
+        ],
+        "name": "New Special Playgames - Issue 42"
+    },
+    "0033969": {
+        "contents": [
+            "0001659 Ethnipod",
+            "0004293 Saboteur!",
+            "0001384 Diamond",
+            "0001706 F-16 Fighting Falcon",
+            "0009434 Super Tank",
+            "0001222 Daley Thompson's Supertest",
+            "0000380 Badlands",
+            "0005292 Tir Na Nog",
+            "0005168 Teenage Mutant Hero Turtles"
+        ],
+        "name": "New Special Playgames - Issue 43"
+    },
+    "0033970": {
+        "contents": [
+            "0002253 Havoc",
+            "0003304 Moving Target",
+            "0002502 International Karate",
+            "0003427 A Nightmare on Robinson Street",
+            "0003034 Maria's Christmas Box",
+            "0005829 Yogi Bear & Friends: The Greed Monster",
+            "0001712 Fairlight",
+            "0005066 Superkid in Space",
+            "0011860 Logo: Part I",
+            "0004096 Repton 2",
+            "0000922 The Chessmaster 2000",
+            "0000100 African Trail Simulator"
+        ],
+        "name": "New Special Playgames - Issue 44"
+    },
+    "0033971": {
+        "contents": [
+            "0002831 The Last Vampire",
+            "0002875 The Light Corridor",
+            "0000299 Astroclone",
+            "0005659 Welltris",
+            "0000252 Ares",
+            "0009325 Commando",
+            "0001996 Gazza II",
+            "0003117 Megaphoenix",
+            "0002084 Golden Basket"
+        ],
+        "name": "New Special Playgames - Issue 45"
+    },
+    "0033972": {
+        "contents": [
+            "0000888 Championship Run",
+            "0003617 Parap Shock",
+            "0005085 Swat!",
+            "0003557 Out for the Count",
+            "0004741 Speed Zone",
+            "0000573 Block",
+            "0001853 Frankie",
+            "0003933 Pulsator",
+            "0005105 Syntax",
+            "0002920 Lone Wolf - The Mirror of Death"
+        ],
+        "name": "New Special Playgames - Issue 46"
+    },
+    "0033973": {
+        "contents": [
+            "0004951 Strike Force SAS",
+            "0004151 Riptoff",
+            "0000862 Ceasefire",
+            "0004622 Sokoban",
+            "0002335 Hobgoblin",
+            "0002487 Insector Hecti in the Interchange",
+            "0002216 Hammer Boy",
+            "0002256 Hawk Storm",
+            "0000716 Bronx Street Cop"
+        ],
+        "name": "New Special Playgames - Issue 47"
+    },
+    "0033974": {
+        "contents": [
+            "0001046 Confused",
+            "0004609 The Snowman",
+            "0001016 Coloris",
+            "0001361 Desperado 2",
+            "0003938 Punch & Judy",
+            "0001390 Die Alien Slime",
+            "0001524 Driller Tanks",
+            "0003505 Olli & Lissa II: Halloween",
+            "0002933 LA Drugs Bust"
+        ],
+        "name": "New Special Playgames - Issue 48"
+    },
+    "0033975": {
+        "contents": [
+            "0004575 Smaily",
+            "0001366 Destrux",
+            "0003409 Nifty Lifty",
+            "0004540 Skateboard Joust",
+            "0009376 Miami Chase",
+            "0001394 Dimension Destructors",
+            "0003561 Outlaw",
+            "0004657 Space 7",
+            "0003227 Missile Defence",
+            "0003980 Quick Draw McGraw",
+            "0003916 Psycho City",
+            "0003297 Mountain Bike Racer"
+        ],
+        "name": "New Special Playgames - Issue 49"
+    },
+    "0033976": {
+        "contents": [
+            "0000882 The Champ",
+            "0003637 Paws",
+            "0009345 1st Division Manager",
+            "0002262 Head the Ball",
+            "0005463 Turbo Kart Racer",
+            "0000616 Bomb Ed",
+            "0001848 Frank Bruno's Boxing",
+            "0004892 Steel Eagle",
+            "0002928 Lop Ears"
+        ],
+        "name": "New Special Playgames - Issue 50"
+    },
+    "0033977": {
+        "contents": [
+            "0027285 Poker",
+            "0002417 Hyperaction",
+            "0001495 Dragonfire",
+            "0000531 Bimbo",
+            "0002984 Magic Meanies",
+            "0002715 Knight Driver",
+            "0000227 Aquaplane",
+            "0001105 Cowboy Shootout",
+            "0002062 Glug Glug"
+        ],
+        "name": "New Special Playgames - Issue 51"
+    },
+    "0034441": {
+        "contents": [
+            "0034445 Invaders",
+            "0034444 FG",
+            "0034443 Rat Race",
+            "0034446 Warriors of Light",
+            "0034442 Subs"
+        ],
+        "name": "Let's Compute! Club",
+        "url": "https://spectrumcomputing.co.uk/zxdb/add/public/history_publishers.php?filter_id=5943"
+    },
+    "0035763": {
+        "contents": [
+            "0016637 Copter",
+            "**16638 Stroke4 [4 Tempi] [NAG]",
+            "0006596 Long Way Home Volume 1 [Il lungo ritorno]",
+            "0016833 Vampire [Vampiri]",
+            "**16736 Bigprint [NAG]",
+            "0000390 Ballista [Balista]",
+            "0016639 Chessfire",
+            "**16737 Amplifier Simulation [Amplificatore Simulato] [NAG]",
+            "0016824 Quarks"
+        ],
+        "name": "16/48 #1"
+    },
+    "0035764": {
+        "contents": [
+            "0000531 Bimbo",
+            "***8630 Rescode [NAG]",
+            "******* Puzzle [NAG]",
+            "0006595 Long Way Home Volume 2: The Ludoids [Part 1]",
+            "0002363 House of the Living Dead [La Casa dei Morti Viventi]",
+            "**16772 Usergraphics-Program Generator [NAG]",
+            "******* Pronostico Totocalcio [NAG]",
+            "******* Istogrammi [NAG]"
+        ],
+        "name": "16/48 #2"
+    },
+    "0035765": {
+        "contents": [
+            "0017503 Lover [Margherita]",
+            "******* Transistor [NAG]",
+            "0039172 Riempi!",
+            "0006595 Long Way Home Volume 2: The Ludoids [Part 2]",
+            "0016818 Elevator [Ascensor]",
+            "0038884 Reporter",
+            "******* Puzzle 2 [NAG]"
+        ],
+        "name": "16/48 #3"
+    },
+    "0035766": {
+        "contents": [
+            "0044770 Parolatore",
+            "******* Set Caratteri [NAG]",
+            "0039313 Il Gioco Dell'Oca",
+            "******* 16/48 Match [NAG]",
+            "**44771 Test di Quoziente Intellettivo [NAG]",
+            "0006595 Long Way Home Volume 2: The Ludoids [Part 3]"
+        ],
+        "name": "16/48 #4"
+    },
+    "0035767": {
+        "contents": [
+            "0044772 Bastimento",
+            "******* Disassembler [NAG]",
+            "**44773 English [NAG]",
+            "******* Corso Linguaggio Macchina [NAG]",
+            "******* Scroll Video [NAG]",
+            "******* Bioritmi [NAG]",
+            "******* Test Q.S. [BMD]",
+            "0006595 Long Way Home Volume 2: The Ludoids [Part 4]"
+        ],
+        "name": "16/48 #5"
+    },
+    "0035768": {
+        "contents": [
+            "0044774 Strip Blackjack",
+            "0038869 Lomagna 2",
+            "**39140 Esame Di Guida [NAG]",
+            "******* L/M [NAG]",
+            "0038078 Boxe",
+            "**39136 Biblioteca [NAG]",
+            "**44775 Happiness Test [NAG]",
+            "0006595 Long Way Home Volume 2: The Ludoids [Part 5]"
+        ],
+        "name": "16/48 #6"
+    },
+    "0036778": {
+        "contents": [
+            "0015106 Moggy 48",
+            "0015624 Dominetris",
+            "0015121 Columns",
+            "0014905 Area 51",
+            "0000451 Battle Command",
+            "0030664 Crap Football",
+            "0003475 Numb Cars",
+            "0030929 Waku Waku Move"
+        ],
+        "name": "Scene+ 061"
+    },
+    "0036779": {
+        "contents": [
+            "0017552 Deathrider",
+            "0017300 Elvin the Elf",
+            "0017120 Falldown Forever",
+            "0016851 Mpthrilla: The Metal Miner",
+            "0015805 On the Burgle!",
+            "0017064 Phantomasa in the Land of the Grunge Wizards",
+            "0017665 rEdIvIvUs",
+            "**17613 Port Demonstration [NAG]"
+        ],
+        "name": "Scene+ 062"
+    },
+    "0036780": {
+        "contents": [
+            "0021876 Albatrossity",
+            "0015670 By Right of Birth",
+            "0021576 Shoot Redux",
+            "0022800 Demo Mania",
+            "0022904 Frogger",
+            "0023300 Phantomas Tales #1: Marsport",
+            "0023027 Skyscraper of Doom",
+            "**22693 Artist III [NAG]",
+            "**22506 GarageBEEP 3 [NAG]"
+        ],
+        "name": "Scene+ 063"
+    },
+    "0036781": {
+        "contents": [
+            "0023487 Gommy, Defensor Medieval",
+            "0023898 King's Valley",
+            "0023309 Banger Management",
+            "0024080 Battery's Not Precluded",
+            "0025225 Egghead Plus",
+            "0024820 Ghost Castle",
+            "0024831 Gloop Troops",
+            "0024052 Heritage",
+            "0023797 Homebrew"
+        ],
+        "name": "Scene+ 065"
+    },
+    "0037226": {
+        "contents": [
+            "0044765 La Torre dei Suicidi",
+            "0038840 Linda"
+        ],
+        "name": "G.U.C. n\u00b08"
+    },
+    "0037866": {
+        "contents": [
+            "0002052 Glass [Ombre]",
+            "0044766 Le Sabbie di Marte",
+            "0009383 Nightshade [Notte Fonda]",
+            "0003138 Metabolis [Metamorfosi]",
+            "0044767 Sabotaggio",
+            "0001450 Dos en Dos [Pexeso]",
+            "0038198 Sferix"
+        ],
+        "name": "Run issue 13"
+    },
+    "0037947": {
+        "contents": [
+            "0003727 Pioneer",
+            "0005392 Travel with Trashman",
+            "0004650 Sorcery",
+            "0016086 Las Cuatro en Raya",
+            "0004105 Rescate del Tesoro",
+            "0001874 Friday the 13th",
+            "0002134 Green Beret"
+        ],
+        "name": "Spectrum Load'n'Run v2 issue 07"
+    },
+    "0037948": {
+        "contents": [
+            "0000726 Bubble Buster",
+            "0002062 Glug Glug",
+            "0004754 Spinads",
+            "0000139 Alchemist",
+            "0002232 Hard Cheese",
+            "0002925 Loony Zoo"
+        ],
+        "name": "Spectrum Load'n'Run v2 issue 08"
+    },
+    "0037987": {
+        "contents": [
+            "0000285 Aspar GP Master",
+            "0002980 Magic Dice",
+            "0002981 Magic Fields",
+            "0000101 After the War"
+        ],
+        "name": "Scene+ 046"
+    },
+    "0037993": {
+        "contents": [
+            "0001353 Descent",
+            "0001787 Fisherman's Friend",
+            "0004338 Sapper",
+            "0004397 Senku"
+        ],
+        "name": "Scene+ 052"
+    },
+    "0037995": {
+        "contents": [
+            "0017799 1Kanoid",
+            "0017800 Dotathon",
+            "0017802 Easyfrog",
+            "0017805 Pobble",
+            "0017806 Samegame",
+            "0017808 Shisen1k",
+            "0017809 Snake1k",
+            "0017811 Spectris",
+            "0017810 Soliyawn",
+            "0017813 ztrack 1k",
+            "0003124 Mental Blocks - Frustration 2",
+            "**21793 B.A.D. [DEM]",
+            "0014533 Skint Willy",
+            "0017893 Subscan",
+            "0002694 Kikstart 2",
+            "**30758 Top Shelf Challenge 3 - Newsie's Revenge [RUI]",
+            "0004794 Squamble"
+        ],
+        "name": "Scene+ 054"
+    },
+    "0037996": {
+        "contents": [
+            "0012592 Egghead in Space",
+            "0014525 MazezaM",
+            "0044777 Numbers",
+            "0014527 ZX Willy the Bug Slayer"
+        ],
+        "name": "Scene+ 055"
+    },
+    "0037997": {
+        "contents": [
+            "0014551 Maria vs. Some Bastards",
+            "0000379 Bad Dream",
+            "0000182 Super Car Trans Am"
+        ],
+        "name": "Scene+ 056"
+    },
+    "0037998": {
+        "contents": [
+            "0017803 Kilopede",
+            "0000103 Afterburner",
+            "0017807 Semi Stack"
+        ],
+        "name": "Scene+ 057"
+    },
+    "0037999": {
+        "contents": [
+            "0030144 Amusement Park",
+            "0030777 Ascent",
+            "0030769 Advanced Weapons Inspector Simulator",
+            "0030778 Bottomless Pit",
+            "0014578 Ma Jolie",
+            "0005294 Titan",
+            "**23540 More Tea, Vicar? [DEM]"
+        ],
+        "name": "Scene+ 058"
+    },
+    "0038556": {
+        "contents": [
+            "0038522 Circuit Breaker",
+            "0038538 Circuit Breaker 2",
+            "0038551 Myp, o Bzidr\u00f3glio",
+            "0038555 Swift",
+            "0038549 Caveted Against the Darkness",
+            "0038554 Lex Fantastic Adventure"
+        ],
+        "name": "Adventure Pack",
+        "url": "https://spectrumcomputing.co.uk/zxdb/add/public/history_publishers.php?filter_id=5944"
+    },
+    "0038724": {
+        "contents": [
+            "0003542 Orc Attack",
+            "0038148 Colliders",
+            "0039268 Labirinto",
+            "******* Assembler/Disassembler [NAG]",
+            "0025877 Pelmanism [Caccia all Carta]",
+            "******* Graph [NAG]"
+        ],
+        "name": "J.S. Compilation 5"
+    },
+    "0038725": {
+        "contents": [
+            "0001354 Desert Burner",
+            "0044815 Camere",
+            "0001931 Invaders",
+            "******* 3D [NAG]",
+            "0026073 Xmas Eve [Renne e Regali]",
+            "******* Routines [NAG]"
+        ],
+        "name": "J.S. Compilation 6"
+    },
+    "0038726": {
+        "contents": [
+            "0003649 Penetrator",
+            "0005848 Zebbedy",
+            "0023339 City Bomber",
+            "0042810 Shoot Out",
+            "******* Renumber",
+            "******* Scroll"
+        ],
+        "name": "J.S. Compilation 7"
+    },
+    "0039256": {
+        "contents": [
+            "******* Display File [NAG]",
+            "******* Corso di chitara [NAG]",
+            "******* Microassembler [NAG]",
+            "**44831 La Diga",
+            "0039265 Tre Topolini Ciechi [Tre topi]",
+            "******* Anellide [NAG]",
+            "0044833 Trappola Mortale",
+            "**44832 Supercar",
+            "******* Etichette [NAG]"
+        ],
+        "name": "Super Sinc 3"
+    },
+    "0039260": {
+        "contents": [
+            "******* Archivio [NAG]",
+            "0044840 Slot machine",
+            "******* Soluzione dei triangoli [NAG]",
+            "0025997 Warlock",
+            "0025770 Expedition [Tunnel run]",
+            "******* Disassembler Z80 [NAG]",
+            "0038966 Rescue [Soccorso aereo]",
+            "0044841 Poker",
+            "0044842 Anellide"
+        ],
+        "name": "Super Sinc 4"
+    },
+    "0039271": {
+        "contents": [
+            "******* Logo [NAG]",
+            "0038296 Pallonzolo",
+            "******* Scroll [NAG]",
+            "******* Database Hash [NAG]",
+            "******* Sindisc 01 [NAG]",
+            "0038865 La chiave magica",
+            "******* riDIM [NAG]"
+        ],
+        "name": "Super Sinc 6"
+    },
+    "0039272": {
+        "contents": [
+            "******* Logo e Tartarughe",
+            "0038967 Air Drop [Paracadutismo]",
+            "0038148 Colliders",
+            "0038295 Andre",
+            "******* Enalotto [NAG]"
+        ],
+        "name": "Super Sinc 1 (Anno 2)"
+    },
+    "0039287": {
+        "contents": [
+            "******* Logo 3 [NAG]",
+            "0044825 Alcool",
+            "**38611 Compumeter [NAG]",
+            "0038124 Superconfusion",
+            "**44827 Il Test del Vostro Futuro [NAG]",
+            "******* Foto 1 [NAG]"
+        ],
+        "name": "Super Sinc 2 (Anno 2)"
+    },
+    "0039288": {
+        "contents": [
+            "******* R&W [NAG]",
+            "******* Agenda Telefonica [NAG]",
+            "******* Contapersone Automatico [NAG]",
+            "******* Spectrum Renumber [NAG]",
+            "******* Renumber Rilocatore [NAG]",
+            "0001931 Invaders [Galattoidi]",
+            "******* Dieta [NAG]",
+            "0038220 Risico",
+            "******* Il Mago Numeretto [NAG]",
+            "******* Fotografia II [NAG]"
+        ],
+        "name": "Super Sinc 3 (Anno 2)"
+    },
+    "0039291": {
+        "contents": [
+            "******* Grafica [NAG]",
+            "******* Taratura [NAG]",
+            "******* Smart Boy [NAG]",
+            "0038308 L'Isola Del Faro",
+            "0038313 Micropoli",
+            "******* 42 Colonne [NAG]",
+            "******* Disegno [NAG]",
+            "******* 740/85 [NAG]"
+        ],
+        "name": "Super Sinc 5 (Anno 2)"
+    },
+    "0039295": {
+        "contents": [
+            "******* Termostato 1 [NAG]",
+            "******* Termostato 2 [NAG]",
+            "******* Termostato 3 [NAG]",
+            "0042806 Radar Grid [Radar]",
+            "0038334 Zanzare",
+            "0038856 Frutteto",
+            "0026766 Survival [Sincronia]",
+            "0002250 Haunted House [Il Castello Stregato]",
+            "******* Ridefinizione tasti [NAG]",
+            "******* Specpaint 16K [NAG]",
+            "******* Specpaint 48K [NAG]",
+            "******* Motore a 2 tempi [NAG]",
+            "******* Tavolozza [NAG]",
+            "******* Test 2 - siete zingari o pantofolai? [NAG]",
+            "******* Compattamento SCREEN$ [NAG]"
+        ],
+        "name": "Super Sinc 6 (Anno 2)"
+    },
+    "0039296": {
+        "contents": [
+            "******* Cancellino [NAG]",
+            "******* Supercomposer [NAG]",
+            "0044749 Undici",
+            "0044750 Star War",
+            "0025825 Log Hop",
+            "0038593 Memogame",
+            "0032117 For Love",
+            "******* Ridefinizione tasti [NAG]",
+            "******* Spectrum renumber [NAG]",
+            "0044751 Boxe"
+        ],
+        "name": "Super Sinc 7 (Anno 2)"
+    },
+    "0039299": {
+        "contents": [
+            "0038291 R*Bert",
+            "0044748 Reversi",
+            "******* Quark [NAG]",
+            "******* Quark Dimostrazione [NAG]",
+            "******* Integrazione Numerica [NAG]",
+            "******* Latino [NAG]",
+            "******* Classifiche dei Campionati [NAG]",
+            "0037522 Nursery",
+            "******* Psyco [NAG]"
+        ],
+        "name": "Super Sinc 8 (Anno 2)"
+    },
+    "0039300": {
+        "contents": [
+            "0038325 Birra!",
+            "0039087 Santo Natale 1985",
+            "******* Suoni [NAG]",
+            "0038840 Linda"
+        ],
+        "name": "Super Sinc 11 (Anno 2)"
+    },
+    "0041260": {
+        "contents": [
+            "0007823 Ugly Blaster",
+            "0000635 Boovie",
+            "0003233 Mission Elevator"
+        ],
+        "name": "Scene+ 027"
+    },
+    "0041261": {
+        "contents": [
+            "0005271 Tiles",
+            "0000543 Bitwa o Wyspe II",
+            "0001454 Double Dash",
+            "0003015 Manic Miner 3: Tales from a Parallel Universe",
+            "0042232 Formula One"
+        ],
+        "name": "Scene+ 028"
+    },
+    "0041262": {
+        "contents": [
+            "0005487 Twister - Fruit Machine",
+            "**12939 Mario Islands [DEM]",
+            "**12920 A Last Hero of The Light Force [DEM]",
+            "0012806 Dina Blaster",
+            "**13027 Return to Home 4 [DEM]",
+            "0003628 Passiance"
+        ],
+        "name": "Scene+ 029"
+    },
+    "0041263": {
+        "contents": [
+            "***5757 Worms [DEM]",
+            "0004575 Smaily",
+            "***5455 Tupik [DEM]",
+            "**19052 The Renegade Levels [NAG]"
+        ],
+        "name": "Scene+ 030"
+    },
+    "0041264": {
+        "contents": [
+            "0014539 Boovie 2",
+            "0001878 Frodo",
+            "0017218 Arcanoid",
+            "**13124 Way Out [DEM]"
+        ],
+        "name": "Scene+ 031"
+    },
+    "0041265": {
+        "contents": [
+            "***2221 Hamon IV [DEM]",
+            "0000495 Bedlam",
+            "0036275 Boulder Dash 5",
+            "0002667 Kaboom!"
+        ],
+        "name": "Scene+ 032"
+    },
+    "0041268": {
+        "contents": [
+            "0013022 Rabbit Jazzy",
+            "**12749 Babylon 5 [DEM]",
+            "**12965 Mortal Kombat [DEM]",
+            "0013131 Worm",
+            "0004640 Solitaire",
+            "0013018 Pussy: Love Story from Titanic"
+        ],
+        "name": "Scene+ 035"
+    },
+    "0041269": {
+        "contents": [
+            "0012768 Adventures of Buratino",
+            "0012884 Kick da Gaga",
+            "0012970 Mystery of Ancient Castle",
+            "0012816 Doctor Mario",
+            "**12790 Crime Santa Claus 2 [DEM]"
+        ],
+        "name": "Scene+ 036"
+    },
+    "0041270": {
+        "contents": [
+            "0004672 Space Landing",
+            "0005859 Zodiac Strip",
+            "0013067 Staketris",
+            "0013033 Robo Xonix",
+            "0000864 Ceasefire 2: Night Run",
+            "0001730 Fantasy"
+        ],
+        "name": "Scene+ 037"
+    },
+    "0041271": {
+        "contents": [
+            "0000281 Artillery",
+            "0012917 The Last Courier",
+            "0013039 The Scorched Earth",
+            "**12864 Hearts [UMT]"
+        ],
+        "name": "Scene+ 038"
+    },
+    "0041272": {
+        "contents": [
+            "0001864 Freddy Kruger Live",
+            "0001823 Football Manager",
+            "0003648 Penalty Soccer",
+            "0001832 Footballer of the Year",
+            "0001834 Footballer of the Year 2"
+        ],
+        "name": "Scene+ 039"
+    },
+    "0041273": {
+        "contents": [
+            "0000770 Bustout",
+            "**12733 3D Roost [DEM]",
+            "0012923 Leprekon",
+            "0030615 Buffy the Vampire Slayer"
+        ],
+        "name": "Scene+ 040"
+    },
+    "0041771": {
+        "contents": [
+            "0017812 tinyzb",
+            "0017807 Semi Stack",
+            "0017801 Dotathon 2",
+            "0017803 Kilopede",
+            "0017804 Maziacs1",
+            "0017755 Zblast SD",
+            "0017816 Scrolly Stack",
+            "0015831 Arachno Joe",
+            "0018311 Tic Tac Zac",
+            "0003728 Pipe Line",
+            "0014940 Play Ball"
+        ],
+        "name": "Scene+ 059"
+    },
+    "0041772": {
+        "contents": [
+            "0001408 Dizzy X: Journey to Russia",
+            "0014930 Abe's Mission: Escape",
+            "0013403 Pitfall ZX",
+            "0030773 Amnesia",
+            "0030779 Bowling Masters",
+            "0013356 Ultracop",
+            "0030828 Top Shelf Challenge 4"
+        ],
+        "name": "Scene+ 060"
+    },
+    "0041773": {
+        "contents": [
+            "0023678 Factory Daze",
+            "0018873 Farmer Jack and the Hedge Monkeys!",
+            "0023447 Kuiper Pursuit",
+            "0023524 LUDO_2009",
+            "0023478 W*H*B",
+            "0023308 Party Worms",
+            "0023326 La Corona Encantada"
+        ],
+        "name": "Scene+ 064"
+    },
+    "0041774": {
+        "contents": [
+            "0044786 Kaiser",
+            "0017574 Justin",
+            "0024034 All Present and Correct",
+            "0025269 Kyd Cadet II: The Rescue of Pobbleflu",
+            "0025250 Teodoro no Puede Volar",
+            "0024968 Trooper:Point 5",
+            "0025374 Crimbo",
+            "0025485 Utter Tripe"
+        ],
+        "name": "Scene+ 066"
+    },
+    "0041775": {
+        "contents": [
+            "0026258 2k RGB Challenge",
+            "0026040 Wiwo Dido: The Case of the Lost Keys",
+            "0026121 Chessboard Attack",
+            "0025399 Phaeton",
+            "0024601 Invasion of the Zombie Monsters",
+            "0025657 Marbles of Wisdom",
+            "0026209 Chopper Drop",
+            "0026112 Join"
+        ],
+        "name": "Scene+ 067"
+    },
+    "0041777": {
+        "contents": [
+            "0027761 Bouncing Bomb: Redux",
+            "0027966 Carlos Michelis",
+            "0027825 Catacombs of Balachor",
+            "0027687 Earthraid",
+            "0027989 Euphoria 2D",
+            "0027624 Majikazo",
+            "0028022 MODERATE RETRIBUTION",
+            "0027953 Maritrini, Freelance Monster Slayer en: Las Increibles Vicisitudes de Despertarse Resacosa con Fred en la Cama y Tener que Llegar Mas o Menos Puntual a la Prueba de \"Monstruos Vigorosos de Pechos Lustrosos\" featuring Los Fratelli",
+            "0028013 El Hobbit (Vah-ka's Cut)",
+            "0023540 More Tea, Vicar?",
+            "0027963 Pariboro",
+            "0028028 Intergalactic Space Rescue",
+            "0027924 Toofy in Fan Land",
+            "0027878 VADE RETRO"
+        ],
+        "name": "Scene+ 069"
+    },
+    "0041778": {
+        "contents": [
+            "0028169 Terry the Turtle",
+            "0028165 ABYDOS",
+            "0028162 Cattivik",
+            "0028161 Tank Battle",
+            "0028157 Gem Chaser",
+            "0028172 Souls",
+            "0028044 Ramiro, el Vampiro",
+            "0028170 ZX Striker",
+            "0028054 Knights & Demons"
+        ],
+        "name": "Scene+ 070"
+    },
+    "0041779": {
+        "contents": [
+            "0030076 Metal Man Reloaded",
+            "**30192 Castlevania: Spectral Interlude [DEM]",
+            "0030109 l'Abbaye des Morts",
+            "0027065 Bozxle",
+            "0028119 Hunt the Wumpus",
+            "0030095 ZX Destroyer",
+            "0030073 The World's Hardest Game ZX48K",
+            "0027961 Encyclopaedia Galactica",
+            "0030084 Dreamwalker: Alter Ego 2",
+            "0030108 Sun Bucket",
+            "0028158 Toofy's Winter Nuts",
+            "0030105 The Chard"
+        ],
+        "name": "Scene+ 071"
+    },
+    "0041780": {
+        "contents": [
+            "0030192 Castlevania: Spectral Interlude",
+            "0030255 Chrimblast!",
+            "0030100 Flappy Bird ZX",
+            "0030140 First World Problems",
+            "0030128 Kyd Cadet 3: The Eyeburx Plee",
+            "0030136 Game About Squares",
+            "0030092 Altair",
+            "0030156 MultiDude",
+            "0030163 Dark Tricks",
+            "0030232 Bathyscaphe",
+            "0030160 The Prisoner",
+            "0030138 Godkiller",
+            "0030110 Ninjajar!",
+            "0030175 Micro INC"
+        ],
+        "name": "Scene+ 072"
+    },
+    "0041781": {
+        "contents": [
+            "0044693 Dziurak Deluxe",
+            "0030155 Cousin Horace",
+            "0030228 Lirus",
+            "0030091 Leonardo's Lost Last Invention",
+            "0025030 Sir Ababol",
+            "0030162 Monty's Last Strike",
+            "0030166 Mystery",
+            "0030178 Popeye",
+            "0030114 Sir Froggy"
+        ],
+        "name": "Scene+ 073"
+    },
+    "0041782": {
+        "contents": [
+            "0030270 Dark Castle",
+            "0030301 Angry Birds: Opposition",
+            "0030308 Air Apparent",
+            "0030262 Battle City 4",
+            "**30298 Car Wars [Not archived (available elsewhere)]",
+            "0030282 Deep Core Raider",
+            "0030261 SolarGun",
+            "0030281 Attack of the RGBobots",
+            "0030290 Tourmaline",
+            "0030268 Castaway",
+            "0030296 Vallation",
+            "0030288 Magical Tower Adventure - Mini version"
+        ],
+        "name": "Scene+ 074"
+    },
+    "0041783": {
+        "contents": [
+            "**34302 Ninjakul in the AUIC Temple [Distribution denied - still for sale]",
+            "0034459 Maze Death Rally-X",
+            "0034300 Gem Slider",
+            "0032298 Eurostriker",
+            "0032213 ZXombies: Dead Flesh",
+            "**34312 Hibernated 1: This Place is Death [Not archived (available elsewhere)]",
+            "******* Globus [NAG]",
+            "0044787 Skat",
+            "0032221 Mighty Final Fight"
+        ],
+        "name": "Scene+ 075"
+    },
+    "0041784": {
+        "contents": [
+            "0034715 PTM",
+            "0035155 Valley of Rains",
+            "0034678 Cell 3326",
+            "0034912 Block Dude",
+            "0034819 The House on the Other Side of the Storm",
+            "0035160 Just a Gal",
+            "0036519 Yoyo's Great Adventure",
+            "0037680 Space Invaders",
+            "0035334 Coloristic",
+            "0036494 Mire Mare",
+            "0037699 Escape from M.O.N.J.A.S.",
+            "0037968 The Humans",
+            "0037621 Agent Blue"
+        ],
+        "name": "Scene+ 076"
+    },
+    "0041785": {
+        "contents": [
+            "0037956 Travel Through Time Vol.1: Northern Lights",
+            "0037278 Tiny Dungeons",
+            "**38149 Bufonada [Not archived (available elsewhere)]",
+            "**38594 Zombi Mall [Not archived (available elsewhere)]",
+            "**38204 /\\O[] (Triangle Circle Square) [Distribution denied - still for sale]",
+            "0035809 Bonnie and Clyde"
+        ],
+        "name": "Scene+ 077"
+    },
+    "0042096": {
+        "contents": [
+            "0000079 Ad Astra",
+            "0005735 World Cup Football",
+            "0000422 Barmy Burgers",
+            "0005391 Trashman",
+            "0005481 Tutankhamun",
+            "0005100 Swordfight",
+            "0001019 Colour Clash",
+            "0003718 Pinball",
+            "0000566 Blind Alley",
+            "0002241 Harrier Attack"
+        ],
+        "name": "Spectrum Load'n'Run v1 issue 00"
+    },
+    "0042097": {
+        "contents": [
+            "0001033 3D Combat Zone",
+            "0005248 Thrusta",
+            "0000227 Aquaplane",
+            "0003991 Race Fun",
+            "0001932 Galakzions",
+            "0009362 Jetpac",
+            "0004589 Snake Pit",
+            "0003825 Pool",
+            "0004496 Siege",
+            "0003755 Planetoids"
+        ],
+        "name": "Spectrum Load'n'Run v1 issue 01"
+    },
+    "0042105": {
+        "contents": [
+            "0005822 Yie Ar Kung-Fu",
+            "0002641 Jonah Barrington's Squash",
+            "0005693 Winter Games",
+            "0003526 One on One",
+            "0002514 International Match Day",
+            "0001844 Formula One"
+        ],
+        "name": "Spectrum Load'n'Run v2 Especial Deportes"
+    },
+    "0044213": {
+        "contents": [
+            "0006018 The Blood of Bogmole",
+            "0006020 Bogmole II: Zogan's Revenge",
+            "0006021 Bogmole III: The Wizard's Skull"
+        ],
+        "name": "The Bogmole Trilogy",
+        "url": "https://spectrumcomputing.co.uk/zxdb/add/public/history_publishers.php?filter_id=5942"
+    },
+    "0045222": {
+        "contents": [
+            "0004888 3D Star Wars",
+            "0045245 Ex.T Phone Home",
+            "0009715 Eteor Torn",
+            "0006614 Lost over Bermuda"
+        ],
+        "name": "Games Pack 2",
+        "url": "https://spectrumcomputing.co.uk/zxdb/add/public/history_publishers.php?filter_id=6526"
+    }
+}

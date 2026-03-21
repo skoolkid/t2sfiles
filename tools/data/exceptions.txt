@@ -1,0 +1,24 @@
+; This file contains a list of ZXDB entries whose T2S status is TBM (i.e. there
+; are t2s files for both 48K and 128K, but ZXDB says the game is only 48K or
+; only 128K) or TWM (i.e. ZXDB says the game is 48K, but there is only a 128K
+; t2s file, or vice versa), but should be excluded from the TBM/TWM lists by
+; list-games-status.py (for the reason stated).
+;
+; Only lines that start with a 7-digit ID are processed, and in such lines
+; anything after TBM/TWM is ignored.
+
+0005176 TBM Telly Tennis
+        'Telly Tennis.tzx' contains two programs: 'Tennis +3' and 'Tennis 16'.
+        The first is the original program from the +3 manual, and the second is
+        a 16K-compatible modified version with the PLAY commands replaced by
+        BEEP commands.
+
+0005910 TWM Adventure 2: Politico
+        Original release was 48K, but tape contains 128K RAM disk version.
+
+0005912 TWM Adventure 3: The Satan Crystals
+        Original release was 48K, but tape contains 128K RAM disk version.
+
+0010085 TBM Protect and Survive
+        Parts 1 & 2 are 128K, and part 3 is 48K.
+        https://spectrumcomputing.co.uk/forums/viewtopic.php?t=9754

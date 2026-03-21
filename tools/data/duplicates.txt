@@ -1,0 +1,30 @@
+; This file contains a list of ZXDB entries (E) and tapes (D/T) that are
+; duplicates (so they can be ignored by list-games-status.py and
+; list-compilations.py). Anything after the first 7-digit ID in E/T lines is
+; ignored, and anything after the first tape filename in a D line is ignored.
+;
+; For example:
+;
+; E 0031484 0036600 Santa Go Home [The (Un)Official Father Christmas Game 2016]
+; T 1102d9e1feef5ffdef849d6195d3f82b 0042546 A Case of Murder 128K [0038888 A Case of Murder]
+; D 82fd9d5644d23344f627947585a6510b "https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036372/Spaceship.tzx.zip" "Spaceship [Zarsoft].tap" [...]
+;
+; The E line indicates that 0031484 (Santa Go Home) is a duplicate of 0036600.
+;
+; The T line indicates that the tape with MD5 sum
+; 1102d9e1feef5ffdef849d6195d3f82b in 0042546 (A Case of Murder 128K) already
+; appears in 0038888 (A Case of Murder - the "original").
+;
+; The D line indicates that the tape with MD5 sum
+; 82fd9d5644d23344f627947585a6510b named "Spaceship [Zarsoft].tap" archived at
+; https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036372/Spaceship.tzx.zip
+; is identical to a tape that already exists for this title.
+
+T 1102d9e1feef5ffdef849d6195d3f82b 0042546 A Case of Murder 128K [0038888 A Case of Murder]
+D 2b6a4d09fcfb6cddb2a085408525bdf5 "https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044435/DungeonsAndSouls.tap.zip" "DungeonsAndSouls.tap" [0039462 https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039462/DungeonAndSouls.tap.zip DungeonAndSouls.tap]
+D 82fd9d5644d23344f627947585a6510b "https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036372/Spaceship.tzx.zip" "Spaceship [Zarsoft].tap" [0036372 https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036372/Spaceship.tap.zip Spaceship.tap]
+D ab6927fcc9997891b35f7dd5d5aceb66 "https://spectrumcomputing.co.uk/denied/entries/0022508/ThomasTheTankEngineII(EN).tzx.zip" "ThomasTheTankEngineII(EN).tzx" [0022508 https://spectrumcomputing.co.uk/denied/entries/0022508/ThomasTheTankEngineII.tzx.zip ThomasTheTankEngineII.tzx]
+D d83ec48012ec5a06205da97fb2cc4d8d "https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034858/FnBalls(EN).tap.zip" "FnBalls(EN).tap" [0034858 https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034858/FnBalls.tap.zip F'n Balls ULA rain fix.tap]
+D e3b8e25abca5b3a0a345fc68516082b2 "https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044335/Shoot.tap.zip" "Shoot.tap" [0036746 https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0036746/SkyShoot.tap.zip SkyShoot.tap]
+E 0045208 0020164 Fruit Machine
+T 311e8649c4a04b4b8412caf70f2ef9d9 0045208 Fruit Machine [0020164 Fruit Machine]

@@ -1,0 +1,639 @@
+0000016 RUI *    19 Part 1: Boot Camp
+0000045 RUI *    Aaargh!
+0000073 DEM *    Action Farce II
+0000103 RUI *    Afterburner
+0000109 RUI *    Agent X
+0000155 RUI *    Alien Storm
+0000203 NTA 128K Angel Nieto Pole 500
+0000220 RUI *    APB
+0000222 RUI *    Apocalypse
+0000236 RUI *    Arcade Trivia Quiz
+0000267 RUI *    Armageddon
+0000307 RUI 48K  Athena
+0000332 RUI *    Australian Games
+0000366 RUI *    Back to the Future Part II
+0000409 RUI 48K  Barbarian II: The Dungeon of Drax
+0000426 NTA 128K Barry McGuigan World Championship Boxing
+0000451 RUI *    Battle Command
+0000454 RUI 128K Austerlitz
+0000469 RUI *    Battlefield Germany
+0000485 RUI 48K  Beach Volley
+0000511 RUI *    Beverly Hills Cop
+0000584 RUI *    Blood Brothers
+0000590 RUI *    Blood Valley
+0000629 RUI *    Bonanza Bros.
+0000733 RUI *    Budokan: The Martial Spirit
+0000767 RUI *    Buran
+0000780 RUI 48K  Cabal
+0000790 RUI *    California Games
+0000810 RUI 48K  Captain Blood
+0000882 RUI *    The Champ
+0000887 RUI *    Championship Golf
+0000913 RUI *    Chernobil
+0000921 RUI *    Chess Tutor 1
+0000923 RUI 48K  Chevy Chase
+0000967 RUI *    Circus Games
+0000974 NTA 48K  City Connection
+0001044 ADD *    Confrontation Scenarios volume 1
+0001069 RUI *    La Corona Magica
+0001074 NTA 128K Corsarios
+0001109 RUI *    Crack Down
+0001160 RUI *    Cromwell at War 1642-1645
+0001244 NTA 128K Dandy
+0001276 RUI *    D-Day
+0001314 RUI *    Defcom 1
+0001361 RUI *    Desperado 2
+0001434 RUI *    Don Din: El Saber no Ocupa Lugar
+0001458 RUI 48K  Double Dragon II: The Revenge
+0001481 RUI *    Dalek Attack
+0001492 RUI *    Dragon Spirit
+0001505 RUI *    Drakkar
+0001516 RUI 48K  Drazen Petrovic Basket
+0001532 RUI *    Duck Out!
+0001581 RUI 48K  The Eidolon
+0001615 RUI *    Emlyn Hughes Arcade Quiz
+0001652 RUI 48K  La Espada Sagrada
+0001660 RUI *    E.T.X.
+0001724 RUI *    Fallen Angel
+0001731 NAG *    The Fantasy Zone 2
+0001746 RUI *    Fiendish Freddy's Big Top o'Fun
+0001752 RUI *    Fighter Bomber
+0001874 RUI *    Friday the 13th
+0001936 RUI *    Galaxy Force
+0001967 NAG *    Spectrum Game Writers' Pack
+0001969 RUI 48K  The Games - Winter Edition
+0001984 RUI 48K  Gary Lineker's Superskills
+0001989 RUI 48K  Gauntlet
+0001991 RUI *    Gauntlet II
+0001993 RUI *    Gauntlet III: The Final Quest
+0001994 ADD *    Gauntlet: The Deeper Dungeons
+0002000 RUI *    GeeBee Air Rally
+0002007 RUI *    Gemini Wing
+0002171 RUI *    Guerrilla War
+0002304 ADD *    Hero Quest: Return of the Witch Lord
+0002354 RUI *    Hostages
+0002392 RUI *    The Hunt for Red October - Based on the Movie
+0002473 RUI *    Indiana Jones and the Last Crusade
+0002478 RUI *    Indoor Sports
+0002513 RUI *    International Manager
+0002515 RUI *    International Ninja Rabbits
+0002611 RUI *    The Jetsons
+0002676 RUI *    Karnov
+0002813 RUI *    Laser Squad
+0002893 RUI *    Line of Fire
+0002904 NTA 128K Livingstone Supongo II
+0002932 RUI *    Lorna
+0002955 RUI *    3D Lunattack
+0002966 RUI *    Mad Mix 2
+0003005 RUI *    Mandragore
+0003007 RUI *    Mango Jones
+0003042 RUI *    MASK
+0003128 ADD *    Mercenary: The Second City
+0003282 RUI *    Mortadelo y Filemón II
+0003285 NTA 128K Mot
+0003290 RUI *    Motor Massacre
+0003326 NTA 128K Mundial de Fútbol
+0003338 RUI *    Mutant Fortress
+0003352 RUI 48K  Mystical
+0003356 NTA 128K Mithos
+0003360 RUI *    NARC
+0003363 RUI *    Narco Police
+0003367 RUI 48K  NATO Assault
+0003398 RUI *    New York Warriors
+0003399 RUI *    The New Zealand Story
+0003410 RUI 48K  Nigel Mansell's Grand Prix
+0003414 RUI *    Nigel Mansell's World Championship
+0003415 RUI *    Night Breed
+0003460 RUI *    North & South
+0003528 RUI *    Operation Hanoi
+0003532 RUI 48K  Operation Thunderbolt
+0003534 RUI 48K  Operation Wolf
+0003563 RUI *    Out Run
+0003565 RUI *    Turbo Out Run
+0003575 RUI *    P-47 Thunderbolt
+0003662 RUI *    Perico Delgado Maillot Amarillo
+0003742 RUI *    Pit-Fighter
+0003835 RUI *    Popeye 3: Wrestle Crazy
+0003849 RUI *    Potsworth & Co.
+0003854 RUI 48K  Power Drift
+0003891 RUI *    Pro Tennis Tour
+0003900 RUI *    Project Stealth Fighter
+0003909 RUI *    Psi-5 Trading Company
+0003942 RUI *    Purple Saturn Day
+0003978 RUI *    A Question of Sport
+0004012 RUI 48K  Rambo III
+0004044 RUI 48K  R.B.I. 2 Baseball
+0004047 RUI *    The Real Ghostbusters
+0004049 RUI *    The Real Stunt Experts
+0004090 RUI 48K  Renegade III
+0004172 NAG *    The Roaring Twenties
+0004202 RUI *    Rock 'n Roll
+0004251 RUI *    Roy of the Rovers
+0004268 RUI *    Rugby Manager
+0004275 RUI *    The Running Man
+0004393 RUI *    3D Seiddab Attack
+0004421 RUI *    Shadow Dancer
+0004424 RAH *    Shadow of the Unicorn
+0004442 RUI 48K  Shanghai Warriors
+0004505 RUI *    Silent Shadow
+0004524 NTA 128K Sirwood
+0004554 RUI 48K  Skull & Crossbones
+0004610 RUI 48K  Snowstrike
+0004629 RAH *    Solar Invasion
+0004646 RUI *    Sonic Boom
+0004654 RUI *    Soviet
+0004686 RUI *    3D Space-Wars
+0004692 RUI *    Space Gun
+0004879 RUI *    Starship Enterprise
+0004898 NAG *    Stevie Dotman
+0004942 RUI *    Street Sports Basketball
+0004944 RUI *    Strider II
+0004992 RUI *    Summer Games II
+0005049 BMD *    Super Star Trek
+0005068 RUI *    Superman - The Man of Steel
+0005092 RUI *    SWIV
+0005163 RUI *    Techno Cop
+0005284 RUI *    Time Wreck
+0005314 RUI *    Tom & Jerry 2
+0005347 RUI *    Tour 91
+0005357 RUI *    Toyota Celica GT Rally
+0005449 NTA *    Tuma 7
+0005455 DEM *    Tupik
+0005466 RUI *    Turbo the Tortoise
+0005476 RUI *    Turrican II
+0005479 RUI *    Tusker
+0005484 RUI *    Twin World
+0005559 RUI *    Viaje al Centro de la Tierra
+0005595 RUI *    Viz - The Computer Game
+0005603 RUI *    3D Vortex
+0005610 RUI *    Wacky Races
+0005638 RUI *    War of the Roses
+0005646 RUI *    The Way of the Tiger
+0005699 RUI *    Winter Olympiad '88
+0005703 NTA 48K  Witchfiend
+0005719 RUI 48K  Wonder Boy
+0005728 RUI *    World Class Leader Board
+0005741 RUI *    World Games
+0005766 RUI *    WWF WrestleMania
+0005819 RUI *    Yes, Prime Minister
+0005830 RUI *    Yogi's Great Escape
+0005836 RUI *    Yucan
+0005868 RUI *    Zona 0
+0005909 RUI *    Adventure
+0005990 NTA 48K  The Bardic Rite
+0006080 RUI *    Chrobák Truhlík
+0006229 RUI *    The Dungeon Master
+0006325 NTA 48K  The Four Symbols
+0006457 RUI *    Hunchback - The Adventure
+0006534 RUI *    Killed Until Dead
+0006538 ADD *    King's Ransom
+0006637 NTA 48K  Magnetic Moon
+0006897 RUI *    The Ring of Darkness
+0007058 RUI *    Super Discus
+0007113 RUI 128K Time Warrior
+0008539 NAG *    PD Tape 01: Spectrum Comms
+0008540 NAG *    PD Tape 02: +3 Utilities
+0008613 NAG *    Practical Wireless Magazine Radio Programs 5
+0008704 NAG *    Sound Compilation
+0009211 NAG *    30 Hour Basic - Spectrum Edition
+0009218 NAG *    Pokes y Cargadores: Especial Patas Arriba n.1
+0009260 NAG *    Sceptical
+0009261 NAG *    Sceptical 2
+0009262 NAG *    Sceptical 3
+0009264 RUI *    Soko-Ban
+0009276 NAG *    Subliminal Extacy 1
+0009309 RUI 48K  Bionic Commando
+0009331 RUI *    Desperado
+0009341 NTA 128K DJ Puff [tape loads/runs OK in +2A mode but not 128K mode]
+0009344 RUI *    Final Fight
+0009348 NTA 128K Fruit Machine Simulator
+0009350 NTA 128K Ghost Hunters
+0009361 NTA 128K Jet Bike Simulator
+0009369 RUI 48K  LED Storm
+0009370 RUI *    Lemmings
+0009399 NTA 128K Professional Ski Simulator
+0009400 NTA 128K Professional Snooker Simulator
+0009404 NTA 128K The Race Against Time
+0009422 NTA 128K Star Runner
+0009423 NTA 128K 3D Starfighter
+0009432 NTA 128K Super Robin Hood
+0009433 NTA 128K Super Stuntman
+0009436 NTA 128K Super Hero
+0009442 NTA 128K Transmuter
+0009445 RUI *    U.N. Squadron
+0009485 ADD *    Apocalypse Expansion Kit Vol. 2: Historical Scenarios - Chapter 1: Fall of Rome + Napoleon's Campaigns 1813
+0009486 ADD *    Apocalypse Expansion Kit Vol. 2: Historical Scenarios - Chapter 2: The 1984 Pacific War
+0009499 RUI *    Ascot
+0009506 DEM *    Atomic Robo-Kid
+0009591 BMD *    Centauri Challenge
+0009621 ADD *    Confrontation Scenarios volume 2
+0010056 NTA *    Point-a-Spot
+0010281 RUI *    Superpower
+0010436 ADD *    Arcade Trivia Quiz Question Creator
+0010448 ADD *    Blockbusters Question Master
+0010545 ADD *    Jet Set Willy: April Showers
+0010570 RUI *    Krazy Kong
+0010575 ADD *    Laser Squad Expansion Kit One
+0010620 NAG *    Peep Show
+0010653 RUI *    Sootland
+0010680 RAH *    Target Plus
+0010747 RUI *    Corrupt
+0011038 NAG *    007 Spy
+0011039 NAG *    007 Spy N
+0011411 NAG *    Education Tape for Infants and Juniors
+0011413 RUI *    Galactic Jail Break
+0011422 RUI *    Snake
+0011476 RUI 48K  Anaconda
+0011567 RAH *    The CD Games Pack
+0011681 RUI *    Endzone
+0012072 NAG *    Shake! issue 01
+0012321 NAG *    Advanced Graphics with the Sinclair ZX Spectrum
+0012407 ADD *    Soccer Rematch Data Cassette 1
+0012419 RUI *    Strangers from Outer Space
+0012841 NTA *    Figus [Existing tape is for Pentagon machines]
+0013018 RUI *    Pussy: Love Story from Titanic
+0013102 RUI *    Twilight - Krajina Tieňov
+0013157 NAG *    100 Programs for the ZX Spectrum
+0013193 NAG *    Spectrum BASIC Programming Course
+0013206 NAG *    ZX Spectrum Interfacing Programs
+0013834 RUI *    Leader Board - Famous Courses of the World Volume 1
+0013873 RUI *    Pedro v krajine pyramid
+0014038 ADD *    Champions of Cricket - 2 to 6 Version Mod
+0014046 ADD *    Endzone - 90f Rosters
+0014067 ADD *    Twenty Crossword Puzzles
+0014071 ADD *    Champions of Cricket - Expanded Version
+0014072 ADD *    Champions of Cricket - Extended Version
+0014073 ADD *    Champions of Cricket + World Cup Cricket - 2 To 6 Version
+0014085 ADD *    Soccer Rematch - Italia 90
+0014269 ADD *    Revised Champions Of Cricket - 2 To 6 Version Mark 5
+0014347 NAG *    Amunt la Informatica. Cassette n. 2
+0014470 NAG *    MicroHobby 20 Utilidades
+0014478 NAG *    007 Multispy
+0014774 ADD *    Apocalypse Expansion Kit Vol. 1: Novamaps
+0014779 ADD *    Current Contenders Cassette - As at 28-02-90
+0014788 ADD *    Lords of Chaos - Expansion Kit 1
+0014798 ADD *    Soccer Rematch - Misc Datafiles
+0014809 ADD *    Wender Bender - Question Tape 2
+0014839 RUI *    Infiltrado 2: Return To Reactor
+0014939 RUI *    Peloponéská válka
+0015034 NTA 48K  Rescate
+0015505 NAG *    XL1
+0015588 RUI *    Endzone - 88e Program
+0015589 ADD *    Endzone - 88e Rosters
+0015590 RUI *    Endzone - 90f Program
+0015755 RUI *    Sudoku
+0015783 RUI *    Insert Coins
+0015804 RUI *    Kube's Maze
+0015845 UMT *    Laberinto III
+0015849 UMT *    Pack Stilla
+0015853 RUI *    King Arthur
+0015855 NAG *    Como Usar los Colores y los Graficos en el Spectrum
+0015910 RUI *    The Pits
+0015943 RUI *    Space Lanes
+0015948 RAH *    Grouse Shoot
+0015949 RAH *    Shooting Gallery
+0015950 RAH *    High Noon
+0015951 RUI *    Serpent's Tail
+0015952 RUI *    Maze Fantasy
+0015970 NAG *    Silhouette Colour Doodle
+0016654 RUI *    Droga do Duplandu
+0016670 RUI *    Leitin
+0016912 RUI *    Megaplex
+0017020 NAG *    Anagrams
+0017040 NAG *    El Loto
+0017041 NAG *    Combiloto
+0017089 NAG *    Začiatky
+0017126 NAG *    Transpack 2
+0017173 RAH *    Shooting Range: Mix I
+0017199 NTA 128K Mineman 2
+0017218 DEM *    Arcanoid
+0017310 DEM *    The Frontier of Warriors: Mayday Call
+0017460 NAG *    007 Spy M
+0017485 NAG *    MR Jones Basic Progs Tape 20
+0017487 NAG *    MR Jones Development Tape 1
+0017488 NAG *    MR Jones Development Tape 2
+0017494 ADD *    Endzone - 87f Rosters
+0017495 ADD *    Endzone - 89e Rosters
+0017850 NAG *    Enciclopedia del BASIC
+0017919 NAG *    Pokes Tape 1
+0018829 RUI *    Viaje al Centro de la Tierra: Version Extendida
+0018879 NAG *    Wegwijs op uw ZX Spectrum 48K
+0018880 NAG *    Alles Wat U Moet Weten over de ZX Spectrum
+0018889 NAG *    16 Basisprogramma's voor de ZX Spectrum
+0019039 RUI *    1 Line Space Trader
+0019081 RUI *    Ucieczka ze Spejs-Szipu
+0019100 NAG *    Blockbuster
+0019457 NAG *    Clone-it + Renumber
+0019877 NAG *    Cassette 8420
+0020659 RUI *    Boulder Dash Classic Collection
+0020715 NAG *    SD4+ Tape to Microdrive Utility
+0020728 NTA 128K 3D-Tetris
+0020744 RUI 48K  Zodiac Strip 2
+0020795 NAG *    DigiTape - Your Sinclair issue 10
+0020798 NAG *    DigiTape - Your Sinclair issue 13
+0020822 NAG *    Shake! issue 03
+0020827 NAG *    PD4
+0020931 NAG *    Pack Games Volumen 1.00
+0021006 DEM *    Piratas
+0021010 DEM *    El Espia
+0021623 RUI *    Nipik 2
+0021836 DEM *    Fire Desire
+0021837 DEM *    Shooty-Thing
+0021845 BMD *    Planet Protector
+0021857 DEM *    Thieves School
+0023299 RUI *    Supaplex
+0023315 ADD *    Thieves School - The Oasis - Mini-Expansion
+0023328 RUI *    Insert Coins 2
+0023342 RUI *    Slot
+0023521 RAH *    SexiMatrix
+0023539 NTA *    Sensitive
+0023540 DEM 48K  More Tea, Vicar?
+0023574 NAG *    Spectrum Machine Language for the Absolute Beginner
+0023796 NAG *    Practical Wireless Magazine Radio Programs 3
+0023918 NAG *    Trident PD List 1
+0023948 NAG *    RMS-3
+0024365 DEM *    Fernando Martin Basket Master (BETA)
+0024712 BMD *    Elisa
+0025005 DEM *    The Gem Machine
+0025007 DEM *    Pickles and Pearl
+0025194 RUI *    Hot Tyre
+0025215 UMT *    Piton
+0025311 RAH *    Currah Chatterpack 1
+0025371 NAG *    Elite Help File
+0025393 RUI *    Strip Poker 3000
+0025508 NAG *    ZX Spectrum: Aplicaciones para la Casa y los Pequenos Negocios
+0025523 NAG *    Shake! issue 09
+0025658 DEM *    Monkey Island Adventure
+0026141 NAG *    Crossnumber 1
+0026142 NAG *    Crossnumber 2
+0026153 NAG *    Madam I'm Adam
+0026170 NAG *    Sum Trouble
+0026269 RUI *    Kerixer III
+0026491 RUI *    Down Up
+0026511 RUI *    Othello 3D
+0027099 DEM *    Speeder
+0027268 RUI *    Lunar Mission
+0027357 RUI *    Hero Parte 1: Il Superstite
+0027358 RUI *    Fantasy Parte 1: L'Incantesimo
+0027363 RUI *    Mythos
+0027364 RUI *    Computer Killer
+0027379 RUI *    Awaria Sondy
+0027390 BMD *    A Mina
+0027429 RUI *    Sex Zone
+0027438 RUI *    Apples
+0027586 RUI *    Tele Puzzle
+0027594 DEM *    Klass of '99
+0027828 NAG *    Phil's Utilities Tape
+0027964 ADD *    Des Chiffres et Des Lettres Pro
+0027966 DEM *    Carlos Michelis
+0027974 RUI 48K  Lost in My Spectrum
+0027982 NTA 48K  Survivisection
+0027982 RUI 128K Survivisection
+0028057 NAG *    ZX Spectrum Astronomy: Discover the Heavens on Your Computer
+0028201 NAG *    Hardware
+0028202 NAG *    Lessons 1
+0028203 NAG *    Lessons 2
+0028204 NAG *    Lessons 3
+0028205 NAG *    Lessons 4
+0028220 RAH *    Trainer
+0028232 NAG *    Computer Term Glossary
+0028234 NAG *    Sentences
+0028235 NAG *    Graph
+0028236 NAG *    Pie Chart
+0028237 NAG *    Sort
+0028238 NAG *    Editor
+0028239 NAG *    Screen Designer
+0028240 NAG *    Memory Monitor
+0028241 NAG *    Variables Monitor
+0028242 NAG *    Ramcheck
+0028250 RUI *    World Cup Cricket
+0028251 NTA *    Champions of Cricket
+0028252 NAG *    Disegnatore Caratteri Speciali
+0028253 NAG *    Disegnatore a Colori
+0028255 NAG *    Curve Matematiche
+0028256 NAG *    Disegno Poligoni
+0028257 NAG *    Plottaggio Ellissi
+0028258 NAG *    Disegno Quadrati
+0028259 NAG *    Spirali
+0028260 NAG *    Cono Tridimensionale
+0028261 NAG *    Cilindro Tridimensionale
+0028262 NAG *    Sfera Terrestre
+0028263 NAG *    Business Grafica Diagramma a Torta
+0028264 NAG *    Business Grafica Cilindri 3D
+0028265 NAG *    Business Grafica Istogrammi Orizzontali
+0028271 NAG *    RTTY
+0028272 NAG *    Amtor
+0028273 NAG *    Morse
+0028274 NAG *    SSTV
+0028279 NAG *    C/V/C
+0028280 NAG *    Concurso
+0028281 NAG *    Truco
+0028284 NAG *    Cabeceras
+0028296 NAG *    +D Boot
+0029713 NAG *    Sinewave
+0029735 NAG *    Chars
+0029739 NAG *    X-File
+0029763 NAG *    Out-Take 01
+0029765 NAG *    Shoutburst 1
+0029767 NAG *    Shoutburst 2
+0029768 NAG *    Shoutburst 3
+0029769 NAG *    Out-Take 02
+0029860 NAG *    SAM Mail A
+0029861 NAG *    SAM Mail B
+0029865 NAG *    More SAM
+0029994 NAG *    Writing Adventures
+0029995 NAG *    Quill Review
+0030133 NTA 128K Sexwords
+0030312 RUI 48K  Mysterious Dimensions
+0030349 NAG *    Chunky Graphics Compressor
+0030351 NAG *    Ste Nichol's Tunes 2016
+0030352 NAG *    The Twelve Games of ZXMas
+0030356 NAG *    BoxODLites
+0030357 NAG *    Spritemaker
+0030358 RUI *    Frankie the Rescuer
+0030390 NTA *    Gamex 2: Playing Dividends
+0030396 NTA 48K  The Treasure of Lumos
+0030430 DEM *    Terrapins
+0030447 RUI *    The Sword of IANNA
+0030615 RUI *    Buffy The Vampire Slayer
+0030624 RUI *    The Enforcer 2
+0030646 RUI *    Shut It!
+0030757 RUI *    The Invisible Man
+0030758 RUI *    Top Shelf Challenge 3 - Newsie's Revenge
+0030828 RUI *    Top Shelf Challenge 4
+0031267 NTA *    Dastardly Dave
+0031280 RUI *    2013 Football Manager
+0031283 NTA *    Monkey Doo's Fruit Salad
+0031293 RAH *    Joystick Hero
+0031296 NTA *    Kick the Ball Boy
+0031309 NTA *    Parking Meter Simulator
+0031313 NTA *    Rat Mole!
+0031329 NTA *    Toader
+0031334 NTA *    Ultimate Language Translator
+0031339 NTA *    Advanced Cricket Simulator
+0031340 NTA *    Advanced David Moyes Simulator
+0031350 RUI *    Brad - The Game
+0031352 RUI *    Carbon Dating
+0031353 NTA *    Choppy Bird
+0031362 NTA *    Hangman for Idiots
+0031363 NTA *    Harry the Baby Saves the World With His Amazing Water Pistol
+0031369 NTA *    Mr Money!
+0031371 NTA *    Pudding Chase
+0031379 NTA *    Sotchi Advanced Downhill Tea Tray Simulator
+0031383 NTA *    The Display File of Sisyphus
+0031387 NTA *    Twister for Two
+0031389 NTA *    Ultimate Horse Racing Simulator
+0031393 NTA *    Zero Asteroids II
+0031399 RUI *    The Amazing Thinking Brain
+0031415 RUI *    European Sandwich Hunt
+0031416 RUI *    Europe-Vision 2015
+0031424 NTA *    Guess My Wait
+0031426 NTA *    Jeremy Clarkson's Punch A Top Gear Producer Simulator
+0031428 RUI *    Kamikaze Karaoke Shootout!
+0031429 ADD *    Kamikaze Karaoke Shootout! - Ballads
+0031430 ADD *    Kamikaze Karaoke Shootout! - Merry XMas
+0031435 NTA *    Maria Whittaker Strip Snap
+0031440 NTA *    Papel, Pedra, Tesoura 2
+0031476 NTA *    The Gudetama Game
+0032221 RUI *    Mighty Final Fight
+0032258 NAG *    Hex Dumper
+0032259 NAG *    Hex Loader
+0034621 NAG *    AGD Compendium
+0034747 RUI *    Chibi Akumas
+0034773 RUI *    The Deeds of Glengarry Hall
+0034795 RUI *    Kenny Dalglish Football Manager
+0034862 DEM *    JSW 128 VL5
+0035108 RUI *    Super Mario Bros 128K
+0035351 RUI *    21 Erotic 2
+0035396 RAH *    KSČM
+0035851 NTA *    4NYERO
+0035852 NTA *    AGARVERS
+0035856 NTA *    DAMA
+0035857 NTA *    DIMMATRI
+0035859 NTA *    F1
+0035861 NTA *    FOLYO
+0035863 NTA *    FORMA1
+0035864 NTA *    FUSS3
+0035866 NTA *    GOMOKU2
+0035867 NTA *    GONDOL3
+0035868 NTA 48K  GONDOL4
+0035875 NTA *    INKA128
+0035876 NTA *    IZOTOP5
+0035877 NTA *    KAZENYTA
+0035878 NTA *    KINCS
+0035879 NTA *    KINEVET
+0035880 NTA *    KOCPOKER
+0035883 NTA *    LABI2
+0035884 NTA *    MASTERMI
+0035885 NTA *    MATRIX7
+0035886 NTA *    MATRIX86
+0035887 NTA *    MEM2TESZ
+0035888 NTA *    MEMTESZT
+0035889 NTA *    MOZGOFEL
+0035890 NTA *    NEGY2
+0035892 NTA *    NYISOKO2
+0035893 NTA *    ORIGMATR
+0035894 NTA *    PKATALOG
+0035897 NTA *    SIKLO2
+0035898 NTA *    SZINESK
+0035899 NTA *    SZINKOMB
+0035901 NTA *    SZOREJTO
+0035902 NTA *    SZUPERBA
+0035903 NTA *    TEGLA
+0035904 NTA *    TICTAC
+0035905 NTA *    TOLI2001
+0035906 NTA *    TORONY
+0035907 NTA *    TORPEDO
+0035908 NTA *    UDGTERV
+0035909 NTA *    UJKOCI
+0035910 NTA *    UJMATRIX
+0035911 NTA *    VEGSOSOK
+0036097 RUI *    Blood & Iron
+0036381 NTA 48K  Alien Girl
+0036471 RUI 48K  Renegade III: Re-Imagined
+0036525 NTA 48K  Captain Gopher
+0036548 NAG *    Desert Island Tapes
+0036558 NTA 48K  Gherkin's Christmas Carnage
+0036580 RUI *    Golden Axe: Re-Imagined
+0036591 NAG *    Sésamo
+0036594 NTA *    Colour Maze
+0036597 NTA *    Little Peter Rabbit is not there
+0036599 NTA *    Pixel Perfect (Clash)
+0036705 NAG *    Subliminal Extacy 4
+0036707 DEM *    Anteater
+0036900 ADD *    Rock Star Ate My Hamster: Millennium
+0036935 NTA *    Greed
+0037000 RUI *    Atlantis
+0037096 DEM *    Tetris
+0037177 NTA *    Eye Gambler
+0037179 NTA *    Archer MacLean's Poo
+0037681 DEM *    Stop Virus
+0037744 RUI *    Super Mario Bros: COVID-19 Edition
+0037931 NAG *    Sinclair Classic 10
+0037994 NAG *    Scene+ 053
+0038193 NAG *    Centauro #1
+0038222 NAG *    Informace pro majitele ZX Spectrum 1
+0038223 NAG *    Informace pro majitele ZX Spectrum 2
+0038224 NAG *    Informace pro majitele ZX Spectrum 3
+0038225 NAG *    Informace pro majitele ZX Spectrum 4
+0038226 NAG *    Informace pro majitele ZX Spectrum 5
+0038227 NAG *    Informace pro majitele ZX Spectrum 6
+0038228 NAG *    Informace pro majitele ZX Spectrum 7
+0038229 NAG *    Informace pro majitele ZX Spectrum 8
+0038230 NAG *    Informace pro majitele ZX Spectrum 9
+0038231 NAG *    Informace pro majitele ZX Spectrum 10
+0038232 NAG *    Informace pro majitele ZX Spectrum 11
+0038233 NAG *    Informace pro majitele ZX Spectrum 12
+0038234 NAG *    Informace pro majitele ZX Spectrum 13
+0038235 NAG *    Informace pro majitele ZX Spectrum 14
+0038236 NAG *    Informace pro majitele ZX Spectrum 15
+0038237 NAG *    Informace pro majitele ZX Spectrum 16
+0038238 NAG *    Informace pro majitele ZX Spectrum 17
+0038239 NAG *    Informace pro majitele ZX Spectrum 18
+0038240 NAG *    Informace pro majitele ZX Spectrum 19
+0038241 NAG *    Informace pro majitele ZX Spectrum 20
+0038242 NAG *    Informace pro majitele ZX Spectrum 21
+0038243 NAG *    Informace pro majitele ZX Spectrum 22
+0038244 NAG *    Informace pro majitele ZX Spectrum 23
+0038245 NAG *    Informace pro majitele ZX Spectrum 24
+0038554 NTA *    Lex Fantastic Adventure [Missing from "Adventure Pack" (0038556)]
+0038555 RUI *    Swift
+0038677 UMT *    Bolas Diabólicas
+0038821 DEM *    Colonos III
+0038903 ADD *    Quest
+0038959 RUI *    Maths Vaders
+0039025 NAG *    Woot on Sunday
+0039080 NAG *    Sinewave 2
+0039081 NAG *    Sinewave 3
+0039105 RUI *    Turbo the Tortoise - 30th Anniversary Edition
+0039166 RUI *    Joker
+0039216 DEM *    Super Bomberman 2 Remix
+0039261 NAG *    Super Sinc 5
+0039280 NAG *    Restore 00
+0039290 NTA *    Super Sinc 4 (Anno 2) [Tape downloads are for "Super Sinc 4" (0039260)]
+0039376 RUI *    Shuttle
+0039394 RUI *    Perito
+0039395 NAG *    RWS Productions Software
+0039424 ADD *    The Warren
+0039428 BMD *    Super Lander
+0039434 DEM *    Bruxólico
+0039437 NAG *    Wordsearch Generator
+0041247 NAG *    Scene+ 014
+0042030 BMD *    Tres en Raya
+0042051 RUI *    (The Last) Arkanoid
+0042057 RUI *    Belmar: Rescue Under the Sea
+0042452 RUI *    Batmanolo contra el ataque mutante a Lloricatown
+0042636 NAG *    Subliminal Extacy 5
+0042658 RUI *    Jesus Vs The Romans
+0042813 RUI *    Johnny Bravo - Run Johnny Run
+0043124 RUI *    Řízení rakety
+0043179 NAG *    MagMag 0/94
+0043413 NAG *    Assembly Language for Arcade Games - Cassette
+0043429 NAG *    Konkret 6
+0043430 NAG *    Konkret 7 - 10
+0043636 RUI *    Road Safety
+0043825 NAG *    Fool Your Teacher
+0044123 BMD *    Ping Pong
+0044303 ADD *    Crusade
+0044432 ADD *    Driver
+0044444 NAG *    Educational Software Selection - Spectrum 1
