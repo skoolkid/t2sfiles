@@ -42,6 +42,7 @@ if not os.path.isfile(ZXDB):
 ZXDB_DIR = os.path.dirname(ZXDB)
 
 GAMES_JSON = f'{ZXDB_DIR}/games.json'
+TAPES_CACHE = f'{ZXDB_DIR}/tapes-{{}}.json'
 
 DATA_ROOT_DIR = f'{T2SFILES_HOME}/tools/data'
 if not os.path.isdir(DATA_ROOT_DIR):
@@ -501,9 +502,13 @@ def _get_duplicate_tapes():
                     duplicates_by_tape[md5].append((url, tape))
     return duplicates_by_iid, duplicates_by_tape
 
-def get_tapes(include_other=True, games=None):
-    if games is None:
-        games = get_games(include_other)
+def get_tapes(include_other=True):
+    tapes_cache = TAPES_CACHE.format(int(include_other))
+    if os.path.isfile(tapes_cache) and os.stat(tapes_cache).st_mtime > os.stat(GAMES_JSON).st_mtime:
+        with open(tapes_cache) as f:
+            return json.load(f)
+
+    games = get_games(include_other)
     duplicates_by_iid, duplicates_by_tape = _get_duplicate_tapes()
     tapes = {}
     for iid, game in games.items():
@@ -532,4 +537,9 @@ def get_tapes(include_other=True, games=None):
                     'tape': tape,
                     'url': url
                 }
+
+    with open(tapes_cache, 'w') as f:
+        json.dump(tapes, f, sort_keys=True, indent=4)
+        f.write('\n')
+
     return tapes
