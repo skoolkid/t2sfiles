@@ -1,5 +1,5 @@
-https://worldofspectrum.net/pub/sinclair/games/t/TrivialPursuit-ANewBeginning.tzx.zip
---tape-name "Trivial Pursuit - A New Beginning.tzx"
---tape-sum ef61ae9f1bb015d120547d4b4f84395e
---start 65319
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0005420/TrivialPursuit-ANewBeginning.tzx.zip
+--tape-name "TrivialPursuit-ANewBeginning.tzx"
+--tape-sum d1447ed5df9c7e3ffd225fdd7089d236
+--start 24288
 --sim-load-config machine=128

@@ -42,16 +42,11 @@ if not os.path.isfile(ZXDB):
 ZXDB_DIR = os.path.dirname(ZXDB)
 
 GAMES_JSON = f'{ZXDB_DIR}/games.json'
-TAPES_CACHE = f'{ZXDB_DIR}/tapes-{{}}.json'
+TAPES_JSON = f'{ZXDB_DIR}/tapes.json'
 
 DATA_ROOT_DIR = f'{T2SFILES_HOME}/tools/data'
 if not os.path.isdir(DATA_ROOT_DIR):
     sys.stderr.write(f'{DATA_ROOT_DIR}: directory not found\n')
-    sys.exit(1)
-
-TAPES_JSON = f'{DATA_ROOT_DIR}/tapes.json'
-if not os.path.isfile(TAPES_JSON):
-    sys.stderr.write(f'{TAPES_JSON}: file not found\n')
     sys.exit(1)
 
 COMPILATIONS_JSON = f'{DATA_ROOT_DIR}/compilations.json'
@@ -423,32 +418,9 @@ def get_t2s_by_iid(games, tapes):
                 t2s_by_iid[zxdb_id].append(t)
     return t2s_by_iid
 
-def get_games(include_other_tapes=True, include_other_contents=True):
+def get_games(include_other_contents=True):
     with open(GAMES_JSON) as f:
         games = json.load(f)
-
-    if include_other_tapes:
-        conn = sqlite3.connect(ZXDB)
-        with open(TAPES_JSON) as f:
-            tapes = json.load(f)
-        tapes_by_url = defaultdict(dict)
-        for md5, tape_info in tapes.items():
-            iid = tape_info['infoseek']
-            url = tape_info['url']
-            tape = tape_info['tape']
-            tapes_by_url[iid].setdefault(url, []).append(f'{md5} {tape}')
-        for iid, urls in tapes_by_url.items():
-            if iid in games:
-                game_tapes = games[iid].setdefault('tapes', [])
-                for url, url_tapes in urls.items():
-                    game_tapes.insert(0, [url, url_tapes])
-            else:
-                game_tapes = []
-                for url, url_tapes in urls.items():
-                    game_tapes.append((url, url_tapes))
-                games[iid] = game = _add_game(conn, games, iid)
-                game['tapes'] = game_tapes
-        conn.close()
 
     if include_other_contents:
         # Add contents from compilations.json that aren't present in ZXDB
@@ -502,13 +474,12 @@ def _get_duplicate_tapes():
                     duplicates_by_tape[md5].append((url, tape))
     return duplicates_by_iid, duplicates_by_tape
 
-def get_tapes(include_other=True):
-    tapes_cache = TAPES_CACHE.format(int(include_other))
-    if os.path.isfile(tapes_cache) and os.stat(tapes_cache).st_mtime > os.stat(GAMES_JSON).st_mtime:
-        with open(tapes_cache) as f:
+def get_tapes():
+    if os.path.isfile(TAPES_JSON) and os.stat(TAPES_JSON).st_mtime > os.stat(GAMES_JSON).st_mtime:
+        with open(TAPES_JSON) as f:
             return json.load(f)
 
-    games = get_games(include_other)
+    games = get_games()
     duplicates_by_iid, duplicates_by_tape = _get_duplicate_tapes()
     tapes = {}
     for iid, game in games.items():
@@ -538,7 +509,7 @@ def get_tapes(include_other=True):
                     'url': url
                 }
 
-    with open(tapes_cache, 'w') as f:
+    with open(TAPES_JSON, 'w') as f:
         json.dump(tapes, f, sort_keys=True, indent=4)
         f.write('\n')
 

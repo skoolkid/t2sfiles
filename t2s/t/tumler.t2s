@@ -1,5 +1,5 @@
-https://tzxvault.org/Spectrum/TZX/Tumler.zip
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0005451/Tumler.tzx.zip
 --tape-name "Tumler.tzx"
---tape-sum 7c3309a36ead97a242003b29575e2e8e
+--tape-sum a2404826e699f8b59546200f5bd731eb
 --start 23845
 --sim-load-config finish-tape=1
