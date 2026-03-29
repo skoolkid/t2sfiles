@@ -1,4 +1,6 @@
 *.pyc
 .emacs.desktop
 .emacs.desktop.lock
+tools/build
+tools/libz80diff.cpython*.so
 untracked
