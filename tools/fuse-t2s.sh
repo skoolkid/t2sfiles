@@ -1,4 +1,13 @@
 #!/usr/bin/env bash
+if [[ -z $SPECTRUM_TAPES ]]; then
+  echo "ERROR: SPECTRUM_TAPES is not set"
+  exit 1
+fi
+if [[ ! -d $SPECTRUM_TAPES ]]; then
+  echo "ERROR: $SPECTRUM_TAPES: directory not found"
+  exit 1
+fi
+
 t2sfile=$1
 
 if [[ -z $t2sfile ]]; then

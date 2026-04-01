@@ -1,4 +1,13 @@
 #!/usr/bin/env bash
+if [[ -z $T2SFILES_HOME ]]; then
+  echo "ERROR: T2SFILES_HOME is not set"
+  exit 1
+fi
+if [[ ! -d $T2SFILES_HOME ]]; then
+  echo "ERROR: $T2SFILES_HOME: directory not found"
+  exit 1
+fi
+
 UNZIP="$T2SFILES_HOME/tools/tapes/unzip.py"
 GEN_MD5SUMS="$T2SFILES_HOME/tools/tapes/gen-md5sums.sh"
 

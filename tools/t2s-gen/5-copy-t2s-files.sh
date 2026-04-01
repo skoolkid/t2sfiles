@@ -1,4 +1,13 @@
 #!/usr/bin/env bash
+if [[ -z $T2SFILES_HOME ]]; then
+  echo "ERROR: T2SFILES_HOME is not set"
+  exit 1
+fi
+if [[ ! -d $T2SFILES_HOME ]]; then
+  echo "ERROR: $T2SFILES_HOME: directory not found"
+  exit 1
+fi
+
 destdir="$T2SFILES_HOME/t2s"
 mkdir -p t2s-done
 for l in a b c d e f g h i j k l m n o p q r s t u v w x y z; do

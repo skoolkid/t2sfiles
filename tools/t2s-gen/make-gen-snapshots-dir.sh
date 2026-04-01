@@ -1,4 +1,21 @@
 #!/usr/bin/env bash
+if [[ -z $T2SFILES_HOME ]]; then
+  echo "ERROR: T2SFILES_HOME is not set"
+  exit 1
+fi
+if [[ ! -d $T2SFILES_HOME ]]; then
+  echo "ERROR: $T2SFILES_HOME: directory not found"
+  exit 1
+fi
+
+if [[ -z $SPECTRUM_TAPES ]]; then
+  echo "ERROR: SPECTRUM_TAPES is not set"
+  exit 1
+fi
+if [[ ! -d $SPECTRUM_TAPES ]]; then
+  echo "ERROR: $SPECTRUM_TAPES: directory not found"
+  exit 1
+fi
 
 usage() {
   cat <<EOF

@@ -1,4 +1,18 @@
 #!/usr/bin/env bash
+if [[ -z $T2SFILES_HOME ]]; then
+  echo "ERROR: T2SFILES_HOME is not set"
+  exit 1
+fi
+if [[ ! -d $T2SFILES_HOME ]]; then
+  echo "ERROR: $T2SFILES_HOME: directory not found"
+  exit 1
+fi
+
+if [[ -z $WEBHOST_USER ]]; then
+  echo "ERROR: WEBHOST_USER environment variable not defined"
+  exit 1
+fi
+
 STATUSES="T2S TWM TBM TBI NTA ADD BMD DEM NAG RAH RUI UBT UMT"
 LGS=$T2SFILES_HOME/tools/list-games-status.py
 
