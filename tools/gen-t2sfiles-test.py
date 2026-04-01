@@ -41,6 +41,7 @@ from libt2s import get_tapes
 
 HEADER = r"""
 #!/usr/bin/env python3
+import gc
 import hashlib
 import os
 import sys
@@ -285,6 +286,8 @@ def run(root_dir, accelerators, gen_options):
         test_fname = TEST_C_FNAME if gen_options.c else TEST_FNAME
         with open(test_fname, 'w') as f:
             f.write(HEADER)
+            if gen_options.gc:
+                f.write('        gc.collect()\n')
             for test in tests:
                 f.write(TEST.format(**test))
             f.write(FOOTER.format(c=gen_options.c, processes=gen_options.processes))
@@ -325,6 +328,8 @@ parser.add_argument('accelerators', help=argparse.SUPPRESS, nargs='*')
 group = parser.add_argument_group('Options')
 group.add_argument('-c', action='store_true',
                    help="Generate tests for tap2sna.py using CSimulator.")
+group.add_argument('-g', dest='gc', action='store_true',
+                   help="Collect garbage after each test. This can help prevent OOM errors when running the tests on low-RAM systems.")
 group.add_argument('-j', dest='processes', metavar='PROCS', type=int, default=0,
                    help="Run tests using this many processes.")
 namespace, unknown_args = parser.parse_known_args()
