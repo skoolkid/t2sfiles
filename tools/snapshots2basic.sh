@@ -1,4 +1,9 @@
 #!/usr/bin/env bash
+if ! command -v snapinfo.py &> /dev/null; then
+  echo "ERROR: snapinfo.py: command not found"
+  exit 1
+fi
+
 usage() {
   cat <<EOF
 Usage: $(basename $0) [options] SNAPSDIR BASICDIR

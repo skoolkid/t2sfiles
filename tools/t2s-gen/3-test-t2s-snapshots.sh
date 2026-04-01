@@ -1,4 +1,9 @@
 #!/usr/bin/env bash
+if ! command -v fuse &> /dev/null; then
+  echo "ERROR: fuse: command not found"
+  exit 1
+fi
+
 odir=t2s-snapshots-tested
 mkdir -p $odir/{failed,ok} t2s-{failed/broken-snapshot,ok}
 count=0

@@ -8,6 +8,11 @@ if [[ ! -d $SPECTRUM_TAPES ]]; then
   exit 1
 fi
 
+if ! command -v tapinfo.py &> /dev/null; then
+  echo "ERROR: tapinfo.py: command not found"
+  exit 1
+fi
+
 cd $SPECTRUM_TAPES
 errors=gen-tapinfo-errors.txt
 rm -f $errors

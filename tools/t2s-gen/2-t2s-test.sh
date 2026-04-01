@@ -1,4 +1,9 @@
 #!/usr/bin/env bash
+if ! command -v tap2sna.py &> /dev/null; then
+  echo "ERROR: tap2sna.py: command not found"
+  exit 1
+fi
+
 USER_AGENT="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:110.0) Gecko/20100101 Firefox/110.0"
 SC_MIN_WAIT=1  # Minimum wait time (in seconds) between downloads from spectrumcomputing.co.uk
 MIN_WAIT=1     # Minimum wait time (in seconds) between downloads from other sites

@@ -1,4 +1,9 @@
 #!/usr/bin/env bash
+if ! command -v fuse &> /dev/null; then
+  echo "ERROR: fuse: command not found"
+  exit 1
+fi
+
 SNAPSHOTS_DIR=$1
 
 if [[ -z $SNAPSHOTS_DIR ]]; then

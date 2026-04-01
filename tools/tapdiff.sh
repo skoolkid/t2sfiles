@@ -1,4 +1,14 @@
 #!/usr/bin/env bash
+if ! command -v tapinfo.py &> /dev/null; then
+  echo "ERROR: tapinfo.py: command not found"
+  exit 1
+fi
+
+if ! command -v cdiff &> /dev/null; then
+  echo "ERROR: cdiff: command not found"
+  exit 1
+fi
+
 usage() {
   cat <<EOF
 Usage: $(basename $0) TAPE1 TAPE2

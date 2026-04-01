@@ -8,6 +8,11 @@ if [[ ! -d $SPECTRUM_TAPES ]]; then
   exit 1
 fi
 
+if ! command -v fuse &> /dev/null; then
+  echo "ERROR: fuse: command not found"
+  exit 1
+fi
+
 t2sfile=$1
 
 if [[ -z $t2sfile ]]; then

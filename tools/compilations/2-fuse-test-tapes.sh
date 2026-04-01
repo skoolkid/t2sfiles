@@ -1,4 +1,9 @@
 #!/usr/bin/env bash
+if ! command -v fuse &> /dev/null; then
+  echo "ERROR: fuse: command not found"
+  exit 1
+fi
+
 if [[ ! -d tapes ]]; then
   echo "ERROR: tapes: directory not found"
   exit 1
