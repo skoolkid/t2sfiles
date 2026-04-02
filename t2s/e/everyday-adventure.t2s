@@ -1,5 +1,5 @@
 https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0035203/EverydayAdventure.tzx.zip
 --tape-name "EverydayAdventure.tzx"
---tape-sum 85ba4fdc8a7e9a4f70169344d5ecc016
+--tape-sum 547f8d375a0cddae237ea19f6f418cde
 --start 1343
 --sim-load-config finish-tape=1
