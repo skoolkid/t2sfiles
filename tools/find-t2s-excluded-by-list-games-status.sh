@@ -10,10 +10,8 @@ fi
 
 cd $T2SFILES_HOME
 index=$(mktemp)
-tools/list-games-status.py -h ALL > $index
+tools/list-games-status.py -h ALL | grep -Po '(?<=>)[^<]*\.t2s' | sort > $index
 t2sfiles=$(mktemp)
 find t2s -name '*.t2s' | sort | cut -c7- > $t2sfiles
-while read t; do
-  grep -q $t $index || echo $t
-done < $t2sfiles
+comm -23 $t2sfiles $index
 rm -f $index $t2sfiles
