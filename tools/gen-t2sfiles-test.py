@@ -112,11 +112,17 @@ def error(msg):
         f.write(full_msg)
     sys.stderr.write(full_msg)
 
-def find_tape(t2sfile, url, tape_name):
-    tapefile = f'{SPECTRUM_TAPES}/{url[8:-4]}/{tape_name}'
-    if os.path.isfile(tapefile):
-        return tapefile
-    error(f'{t2sfile}: {tapefile} not found')
+def find_tape(tapes_by_md5, tape_sum, t2sfile):
+    tape = tapes_by_md5.get(tape_sum)
+    if tape:
+        url = tape['url']
+        tape_name = tape['tape']
+        tapefile = f'{SPECTRUM_TAPES}/{url[8:-4]}/{tape_name}'
+        if os.path.isfile(tapefile):
+            return tapefile
+        error(f'{t2sfile}: {tapefile} not found')
+    else:
+        error(f'{t2sfile}: tape with sum {tape_sum} not found')
 
 def write_snapshots_json(snapshots):
     with open(SNAPSHOTS_JSON, 'w') as f:
@@ -151,21 +157,14 @@ def run(root_dir, accelerators, gen_options):
     for root, subdirs, files in sorted(os.walk(root_dir)):
         for fname in sorted(files):
             t2sfile = os.path.join(root, fname)
-            t2s_options, t2s_accelerator, url, sna_fmt, tape_names, tape_sums = [], None, None, 'z80', [], []
+            t2s_options, t2s_accelerator, sna_fmt, tape_sums = [], None, 'z80', []
             t2s_r_time_start = time.time()
             with open(t2sfile) as f:
                 for line in f:
                     s_line = line.strip()
-                    if s_line.startswith(('"https://', 'https://')):
-                        url = s_line
-                        if url.startswith('"'):
-                            url = url[1:-1]
-                    elif s_line.startswith('--tape-name'):
-                        tape_name = s_line[11:].lstrip()
-                        if tape_name.startswith('"'):
-                            tape_name = tape_name[1:-1]
-                        tape_names.append(tape_name)
-                    elif s_line.startswith('--tape-sum'):
+                    if s_line.startswith('--tape-name'):
+                        continue
+                    if s_line.startswith('--tape-sum'):
                         tape_sums.append(s_line[10:].lstrip())
                     elif line.startswith('--'):
                         if 'accelerator=' in s_line:
@@ -184,13 +183,7 @@ def run(root_dir, accelerators, gen_options):
                             t2s_options.extend(s_line[:s_line.index(';')].rstrip().split())
                         else:
                             t2s_options.extend(s_line.split())
-            if url is None:
-                try:
-                    url = tapes_by_md5[tape_sums[0]]['url']
-                except Exception as e:
-                    error(f'Could not determine URL for {t2sfile}: {e.args[0]}')
-                    continue
-            tapes = [find_tape(fname, url, tape_name) for tape_name in tape_names]
+            tapes = [find_tape(tapes_by_md5, tape_sum, fname) for tape_sum in tape_sums]
             if not all(tapes):
                 continue
             outfile = f'{fname[:-4]}.{sna_fmt}'
