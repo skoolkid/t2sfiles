@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 import argparse
 import os
-import sys
 
 def run(compilations_txt, uploaded_dir):
    compilations = {}

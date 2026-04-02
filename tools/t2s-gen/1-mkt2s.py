@@ -1,9 +1,7 @@
 #!/usr/bin/env python3
-from collections import defaultdict
 import hashlib
 import os
 import re
-import sqlite3
 import sys
 import unicodedata
 

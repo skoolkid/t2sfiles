@@ -2,7 +2,6 @@
 import argparse
 from collections import defaultdict
 import os
-import sys
 
 from libt2s import (T2S_ROOT_DIR, SPECTRUM_TAPES, GREEN, CYAN, RESET,
                     get_games, get_skipped_tapes, get_skipped_reason)

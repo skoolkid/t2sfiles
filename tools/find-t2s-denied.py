@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 import argparse
 import os
-import sys
 
 from libt2s import get_games, get_tapes, parse_t2sfile
 

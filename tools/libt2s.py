@@ -1,6 +1,5 @@
 from collections import defaultdict
 import json
-import re
 import os
 import sqlite3
 import sys

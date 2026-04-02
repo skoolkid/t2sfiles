@@ -2,17 +2,13 @@
 import argparse
 from collections import defaultdict
 from datetime import datetime
-import hashlib
 import json
 import os
-import re
 import sys
-from textwrap import dedent
 
-from libt2s import (COMPILATION_TYPES, DATA_ROOT_DIR, T2S_ROOT_DIR,
-                    REASONS, T2S, get_games, get_tapes, get_skipped_tapes,
-                    get_non_compilations, get_duplicates, get_exceptions,
-                    get_zxdb_id)
+from libt2s import (COMPILATION_TYPES, T2S_ROOT_DIR, REASONS, T2S, get_games,
+                    get_tapes, get_skipped_tapes, get_non_compilations,
+                    get_duplicates, get_exceptions, get_zxdb_id)
 
 CACHE_FILE = 'status.json'
 

@@ -6,10 +6,9 @@ import hashlib
 import json
 import os
 import sqlite3
-import sys
 
-from libt2s import (COMPILATION_TYPES, GAMES_JSON, MD5SUMS_TXT, SPECTRUM_TAPES,
-                    ZXDB, get_entries_sql, get_tape_sums)
+from libt2s import (COMPILATION_TYPES, GAMES_JSON, SPECTRUM_TAPES, ZXDB,
+                    get_entries_sql, get_tape_sums)
 
 # Note: '/pub/sinclair/utils/' is included for 'Expert for Bank' (0017097)
 DOWNLOADS_SQL = """

@@ -1,12 +1,10 @@
 #!/usr/bin/env python3
 import argparse
-from collections import defaultdict
 import os
 import sys
 
-from libt2s import (COMPILATION_TYPES, DATA_ROOT_DIR, T2S_ROOT_DIR,
-                    get_games, get_tapes, get_exp_t2s_names, get_t2s_names,
-                    get_skipped_tapes, get_skipped_reason,
+from libt2s import (COMPILATION_TYPES, get_games, get_tapes, get_exp_t2s_names,
+                    get_t2s_names, get_skipped_tapes, get_skipped_reason,
                     get_non_compilations, get_duplicates, get_t2s_by_iid)
 
 def run(options):

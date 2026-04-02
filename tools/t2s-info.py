@@ -1,9 +1,7 @@
 #!/usr/bin/env python3
 import argparse
-import os
-import sys
 
-from libt2s import COMPILATION_TYPES, get_games, get_tapes, parse_t2sfile, get_t2s_name, get_zxdb_id
+from libt2s import get_games, get_tapes, parse_t2sfile, get_zxdb_id
 
 ALL_DETAILS_FMT = """
 {f}

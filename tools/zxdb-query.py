@@ -1,9 +1,7 @@
 #!/usr/bin/env python3
 import argparse
 from collections import defaultdict
-import os
 import sqlite3
-import sys
 
 from libt2s import ZXDB
 

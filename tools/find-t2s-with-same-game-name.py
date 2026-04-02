@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 import argparse
 from collections import defaultdict
-import os
-import sys
 
 from libt2s import T2SFILES_HOME, get_games, get_tapes, get_t2s_by_iid, get_t2s_name_iids, get_t2s_names
 

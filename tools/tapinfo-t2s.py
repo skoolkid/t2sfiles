@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 import os
 import sys
-import time
 
 SKOOLKIT_HOME = os.environ.get('SKOOLKIT_HOME')
 if not SKOOLKIT_HOME:

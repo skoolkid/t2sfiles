@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 import argparse
 import os
-import sys
 
 from libt2s import T2S_ROOT_DIR
 

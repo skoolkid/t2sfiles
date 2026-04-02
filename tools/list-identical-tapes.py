@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 import argparse
 from collections import defaultdict
-import json
 
 from libt2s import RED, GREEN, RESET, get_games
 
