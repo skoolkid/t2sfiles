@@ -1,10 +1,14 @@
 #!/usr/bin/env bash
+if [[ -z $T2SFILES_USER_AGENT ]]; then
+  echo "ERROR: T2SFILES_USER_AGENT environment variable not defined"
+  exit 1
+fi
+
 if ! command -v tap2sna.py &> /dev/null; then
   echo "ERROR: tap2sna.py: command not found"
   exit 1
 fi
 
-USER_AGENT="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:110.0) Gecko/20100101 Firefox/110.0"
 SC_MIN_WAIT=1  # Minimum wait time (in seconds) between downloads from spectrumcomputing.co.uk
 MIN_WAIT=1     # Minimum wait time (in seconds) between downloads from other sites
 mkdir -p t2s-snapshots
@@ -35,7 +39,7 @@ find t2s -name '*.t2s' | sort | while read t; do
     echo "Trying $t..."
     logfile=t2s-snapshots/$t2sname.log
     t0=$(date +%s)
-    tap2sna.py -u "$USER_AGENT" -d t2s-snapshots @$t 2>&1 | tee $logfile
+    tap2sna.py -u "$T2SFILES_USER_AGENT" -d t2s-snapshots @$t 2>&1 | tee $logfile
     failed=${PIPESTATUS[0]}
     grep -qF "(timed out)" $logfile && failed=1
     if [[ $failed -ne 0 ]]; then
