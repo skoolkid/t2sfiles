@@ -8,6 +8,12 @@ if [[ ! -d $SPECTRUM_TAPES ]]; then
   exit 1
 fi
 
+MD5SUMS_TXT="$SPECTRUM_TAPES/md5sums.txt"
+if [[ ! -f $MD5SUMS_TXT ]]; then
+  echo "ERROR: $MD5SUMS_TXT: file not found; consider running gen-md5sums.sh"
+  exit 1
+fi
+
 if ! command -v fuse &> /dev/null; then
   echo "ERROR: fuse: command not found"
   exit 1
@@ -25,25 +31,17 @@ if [[ ! -f $t2sfile ]]; then
   exit 1
 fi
 
-shift
-
-url=$(grep -o 'https://.*\.zip' $t2sfile)
-tape_name=$(grep '^--tape-name' $t2sfile | cut -c13-)
-if [[ ${tape_name:0:1} == '"' ]]; then
-  tape_name=${tape_name:1}
-  tape_name=${tape_name%\"}
+tape_sum=$(grep '^--tape-sum' $t2sfile | cut -c12-)
+tape=$(grep -m 1 "^$tape_sum" "$MD5SUMS_TXT" | cut -c35-)
+if [[ -z $tape ]]; then
+  echo "ERROR: Could not find tape with sum $tape_sum"
+  exit 1
 fi
-if [[ $tape_name == "Golfo Pérsico.tzx" ]]; then
-  tape_name='Golfo P'$'\202''rsico.tzx'
-fi
-
-path=${url#https://}
-path=${path%.zip}
-tape="$SPECTRUM_TAPES/$path/$tape_name"
 
 if [[ ! -f $tape ]]; then
   echo "ERROR: $tape not found"
   exit 1
 fi
 
+shift
 fuse -g 2x --no-confirm-actions $* "$tape"
