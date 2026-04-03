@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044337/Silverstone.tap.zip
+--tape-name "Silverstone.tap"
+--tape-sum d9cc6b8539b33e23f582672b4d32208a
+--start 1343
+--sim-load-config finish-tape=1

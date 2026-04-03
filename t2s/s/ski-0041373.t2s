@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0041373/Ski.tap.zip
+--tape-name "Ski.tap"
+--tape-sum 08331a43e1bfb5a415dea781a92637bb
+--start 1343
+--sim-load-config finish-tape=1

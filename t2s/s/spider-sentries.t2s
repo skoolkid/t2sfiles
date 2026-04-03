@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044348/SpiderSentries.tap.zip
+--tape-name "SpiderSentries.tap"
+--tape-sum 1be4eaeb64ad6aa06121df365e2f53a2
+--start 1343
+--sim-load-config finish-tape=1

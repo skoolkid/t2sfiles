@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045281/WordRushArena-Spanish(2).tap.zip
+--tape-name "WordRushArena-Spanish(2).tap"
+--tape-sum 2d970c356ec912773691251094ba2bc6
+--start 1343
+--sim-load-config finish-tape=1

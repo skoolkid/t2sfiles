@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044350/Splash.tap.zip
+--tape-name "Splash.tap"
+--tape-sum 9a1933ade4b88bf25d4609d53b0961e1
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0041377/Stuntman.tap.zip
+--tape-name "Stuntman.tap"
+--tape-sum 15fbaf7002ccea955ffe0dcba84fbe1f
+--start 1343
+--sim-load-config finish-tape=1

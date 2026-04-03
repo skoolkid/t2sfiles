@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044338/SimonSays.tap.zip
+--tape-name "SimonSays.tap"
+--tape-sum 4ebf6cfe9372dc40a1e82eabd12dea10
+--start 1343
+--sim-load-config finish-tape=1

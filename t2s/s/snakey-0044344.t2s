@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044344/Snakey.tap.zip
+--tape-name "Snakey.tap"
+--tape-sum e6ee5ba0c6861243169f7e4b508de643
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044341/SmartAlec.tap.zip
+--tape-name "SmartAlec.tap"
+--tape-sum cd75b706ab9e2e36e7265b35f373338c
+--start 1343
+--sim-load-config finish-tape=1

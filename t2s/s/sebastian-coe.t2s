@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044333/SebastianCoe.tap.zip
+--tape-name "SebastianCoe.tap"
+--tape-sum ed57fed083dc41a93254037d53829d6c
+--start 1343
+--sim-load-config finish-tape=1

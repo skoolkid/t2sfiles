@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044351/StarBlast.tap.zip
+--tape-name "StarBlast.tap"
+--tape-sum 81e41d964f79397ff351ea31f4f19c52
+--start 1343
+--sim-load-config finish-tape=1

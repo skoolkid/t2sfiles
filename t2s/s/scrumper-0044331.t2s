@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044331/Scrumper.tap.zip
+--tape-name "Scrumper.tap"
+--tape-sum 88d4787b3dfa22372f77781627f8eb8e
+--start 1343
+--sim-load-config finish-tape=1

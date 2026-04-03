@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044347/SpellBreaker.tap.zip
+--tape-name "SpellBreaker.tap"
+--tape-sum 72144db5678deab8968b5a31778b4da3
+--start 1343
+--sim-load-config finish-tape=1

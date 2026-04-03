@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045273/WordRushArena-Persian.tap.zip
+--tape-name "WordRushArena-Persian.tap"
+--tape-sum 332d82e417436c481dd93ef0e2772197
+--start 1343
+--sim-load-config finish-tape=1

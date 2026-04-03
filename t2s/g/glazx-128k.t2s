@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034857/GLAZX.tap.zip
+--tape-name "GLAZX.tap"
+--tape-sum 7984ed29218f58a4977a09a26a5de2de
+--start 23804
+--sim-load-config machine=128

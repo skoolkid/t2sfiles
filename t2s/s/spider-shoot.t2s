@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044349/SpiderShoot.tap.zip
+--tape-name "SpiderShoot.tap"
+--tape-sum 4abd52d6d73e86782431b11efdb791ac
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'
