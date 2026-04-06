@@ -42,12 +42,12 @@ T2S=$T2SFILES_HOME/t2s
 lfile=t2sfiles.txt
 
 rm -f tap2sna.log tap2sna-full.log
-$T2SFILES_HOME/tools/find-t2s-to-gen-acc.py $T2S > $lfile
+$T2SFILES_HOME/tools/tapes/find-t2s-to-gen-acc.py $T2S > $lfile
 if [[ -s $lfile ]]; then
   echo -e "Running tap2sna-t2s.py\n"
   $T2SFILES_HOME/tools/tap2sna-t2s.py $lfile -c accelerator=list
   echo -en "\nRunning refresh-accelerators.py..."
-  $T2SFILES_HOME/tools/refresh-accelerators.py tap2sna-full.log
+  $T2SFILES_HOME/tools/tapes/refresh-accelerators.py tap2sna-full.log
   echo "done"
 else
   echo "No t2s files to process"

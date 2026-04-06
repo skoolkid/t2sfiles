@@ -1,8 +1,23 @@
 #!/usr/bin/env python3
 import argparse
 import os
+import sys
 
-from libt2s import ACCELERATORS, T2SFILES_HOME
+T2SFILES_HOME = os.environ.get('T2SFILES_HOME')
+if not T2SFILES_HOME:
+    sys.stderr.write('T2SFILES_HOME is not set; aborting\n')
+    sys.exit(1)
+if not os.path.isdir(T2SFILES_HOME):
+    sys.stderr.write(f'T2SFILES_HOME={T2SFILES_HOME}; directory not found\n')
+    sys.exit(1)
+
+LIBT2S_DIR = f'{T2SFILES_HOME}/tools'
+if not os.path.isdir(LIBT2S_DIR):
+    sys.stderr.write(f'{LIBT2S_DIR}: directory not found\n')
+    sys.exit(1)
+sys.path.insert(0, LIBT2S_DIR)
+
+from libt2s import ACCELERATORS
 
 def run(acc_log):
     acc = {}
