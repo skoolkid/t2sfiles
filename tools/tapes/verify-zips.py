@@ -15,13 +15,14 @@ if not os.path.isdir(T2SFILES_HOME):
     sys.exit(1)
 
 sys.path.insert(0, f'{T2SFILES_HOME}/tools')
-from libt2s import ZXDB
+from libt2s import SPECTRUM_TAPES, ZXDB
 
 DOWNLOADS_SQL = """
 SELECT file_link, file_md5
 FROM downloads
 WHERE file_link LIKE '/pub/sinclair/%.zip'
 OR file_link LIKE '/zxdb/sinclair/entries/%.zip'
+OR file_link LIKE '/denied/entries/%.zip'
 """
 
 def remove_zips(zips, desc, remove):
@@ -51,28 +52,21 @@ def run(options):
     for file_link, file_md5 in conn.execute(DOWNLOADS_SQL):
         downloads[file_link[1:]] = file_md5
 
-    cwd = os.path.basename(os.getcwd())
-    if cwd == 'worldofspectrum.net':
-        root_dir = 'pub/sinclair'
-    elif cwd == 'spectrumcomputing.co.uk':
-        root_dir = 'zxdb/sinclair/entries'
-    else:
-        print('Not in worldofspectrum.net or spectrumcomputing.co.uk; aborting')
-        sys.exit(1)
-
     zips_not_in_zxdb = []
     zips_with_mismatched_md5 = []
+    root_dir = f'{SPECTRUM_TAPES}/spectrumcomputing.co.uk/'
     for root, subdirs, files in sorted(os.walk(root_dir)):
+        dirname = root[len(root_dir):]
         for fname in sorted(files):
             if not fname.lower().endswith('.zip'):
                 continue
-            zipfile = os.path.join(root, fname)
+            zipfile = os.path.join(dirname, fname)
             if zipfile not in downloads:
                 zips_not_in_zxdb.append(zipfile)
                 continue
             exp_md5 = downloads.get(zipfile)
             if exp_md5:
-                with open(zipfile, 'rb') as f:
+                with open(os.path.join(root_dir, zipfile), 'rb') as f:
                     md5 = hashlib.md5(f.read()).hexdigest()
                 if md5 != exp_md5:
                     zips_with_mismatched_md5.append(zipfile)

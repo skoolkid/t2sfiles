@@ -150,8 +150,6 @@ def get_tape_sums():
                 md5 = line[:32]
                 fname = line[34:].rstrip()
                 tape_sums[fname] = md5
-                if 'worldofspectrum.net' in fname:
-                    tape_sums[fname.replace('worldofspectrum.net', 'worldofspectrum.org')] = md5
     else:
         print(f'WARNING: {MD5SUMS_TXT} not found; consider running gen-md5sums.sh')
     return tape_sums
@@ -260,14 +258,13 @@ def query_t2s_names(name, t2s_name_iids, games, t2s_names=None):
         lines.append(f'{iid} {name} [{publishers}] [{authors}]{c_suffix}')
     return lines
 
-def find_tape(url, tape_name, tape_md5=None):
-    if url is None:
-        tape = get_tapes().get(tape_md5)
-        if tape is None:
-            sys.stderr.write(f'ERROR: Tape not found: url={url} md5={tape_md5}\n')
-            sys.exit(1)
-        url = tape['url']
-    tapefile = f'{SPECTRUM_TAPES}/{url[8:-4]}/{tape_name}'
+def find_tape(url, tape_name, tape_md5):
+    tape = get_tapes().get(tape_md5)
+    if tape is None:
+        sys.stderr.write(f'ERROR: Tape not found: url={url} md5={tape_md5}\n')
+        sys.exit(1)
+    tape_url = tape['url']
+    tapefile = f'{SPECTRUM_TAPES}/{tape_url[8:-4]}/{tape_name}'
     if os.path.isfile(tapefile):
         return tapefile
     sys.stderr.write(f'ERROR: {tapefile} not found\n')

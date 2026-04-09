@@ -8,6 +8,15 @@ if [[ ! -d $T2SFILES_HOME ]]; then
   exit 1
 fi
 
+if [[ -z $SPECTRUM_TAPES ]]; then
+  echo "ERROR: SPECTRUM_TAPES is not set"
+  exit 1
+fi
+if [[ ! -d $SPECTRUM_TAPES ]]; then
+  echo "ERROR: $SPECTRUM_TAPES: directory not found"
+  exit 1
+fi
+
 if [[ -z $ZXDB ]]; then
   echo "ERROR: ZXDB environment variable not defined"
   exit 1
@@ -45,16 +54,9 @@ if [[ ! -f $json_file ]]; then
   exit 1
 fi
 
-site=$(basename $(pwd))
-if [[ $site == spectrumcomputing.co.uk ]]; then
-  pause=1
-elif [[ $site == worldofspectrum.net ]]; then
-  pause=3
-else
-  echo "Not in spectrumcomputing.co.uk or worldofspectrum.net; aborting"
-  exit 1
-fi
-
+site=spectrumcomputing.co.uk
+cd $SPECTRUM_TAPES/$site || exit 1
+pause=1
 first=1
 failed_log=failed.log
 rm -f "$failed_log"

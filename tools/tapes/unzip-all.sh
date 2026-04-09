@@ -8,6 +8,15 @@ if [[ ! -d $T2SFILES_HOME ]]; then
   exit 1
 fi
 
+if [[ -z $SPECTRUM_TAPES ]]; then
+  echo "ERROR: SPECTRUM_TAPES is not set"
+  exit 1
+fi
+if [[ ! -d $SPECTRUM_TAPES ]]; then
+  echo "ERROR: $SPECTRUM_TAPES: directory not found"
+  exit 1
+fi
+
 UNZIP="$T2SFILES_HOME/tools/tapes/unzip.py"
 GEN_MD5SUMS="$T2SFILES_HOME/tools/tapes/gen-md5sums.sh"
 
@@ -25,7 +34,7 @@ fi
 error_log=unzip-all-errors.log
 >$error_log
 
-find . -name '*.zip' | while read z; do
+find $SPECTRUM_TAPES/spectrumcomputing.co.uk -name '*.zip' | while read z; do
   zdir=${z%.zip}
   if [[ $force == 1 ]] || [[ ! -d $zdir ]]; then
     rm -rf "$zdir"

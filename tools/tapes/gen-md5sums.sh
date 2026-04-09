@@ -11,5 +11,5 @@ else
   exit 1
 fi
 
-find $SPECTRUM_TAPES/{spectrumcomputing.co.uk,worldofspectrum.net} -type f \( -iname '*.tap' -o -iname '*.tzx' \) -print0 | xargs -0 md5sum > $MD5SUMS &&
+find $SPECTRUM_TAPES/spectrumcomputing.co.uk -type f \( -iname '*.tap' -o -iname '*.tzx' \) -print0 | xargs -0 md5sum > $MD5SUMS &&
 echo "Wrote $MD5SUMS"

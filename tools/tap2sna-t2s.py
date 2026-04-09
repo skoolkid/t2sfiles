@@ -44,9 +44,9 @@ def run_tap2sna(t2sfile, tapes_by_md5, extra_options):
     if t2s.snapshot is None:
         sna_fmt = 'szx' if 'DefaultSnapshotFormat=szx' in t2s.options else 'z80'
         t2s.snapshot = os.path.basename(t2sfile)[:-4] + f'.{sna_fmt}'
-    tapes = [find_tape(t2s.url, t2s.tape_name)]
+    tapes = [find_tape(t2s.url, t2s.tape_name, t2s.tape_sum)]
     if t2s.tape_name_2:
-        tapes.append(find_tape(t2s.url, t2s.tape_name_2))
+        tapes.append(find_tape(t2s.url, t2s.tape_name_2, t2s.tape_sum_2))
     start = time.time()
     try:
         with contextlib.redirect_stdout(io.StringIO()) as tap2sna_out:

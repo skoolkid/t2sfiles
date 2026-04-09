@@ -17,7 +17,7 @@ cd $SPECTRUM_TAPES
 errors=gen-tapinfo-errors.txt
 rm -f $errors
 
-find spectrumcomputing.co.uk worldofspectrum.net -type f -a \( -iname '*.tap' -o -iname '*.tzx' \) | while read t; do
+find spectrumcomputing.co.uk -type f -a \( -iname '*.tap' -o -iname '*.tzx' \) | while read t; do
   infofname="tapinfo/$t.txt"
   if [[ ! -f $infofname ]]; then
     infodirname=$(dirname "$infofname")

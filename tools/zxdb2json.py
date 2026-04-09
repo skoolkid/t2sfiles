@@ -55,6 +55,14 @@ WHERE c.container_id = e.id
 AND e.machinetype_id < 6
 """.strip()
 
+PATHS = (
+    '/denied/entries/',
+    '/pub/sinclair/compilations/',
+    '/pub/sinclair/games/',
+    '/pub/sinclair/utils/',
+    '/zxdb/sinclair/entries/'
+)
+
 def run(options):
     debug = options.debug
     tape_sums = get_tape_sums()
@@ -96,10 +104,7 @@ def run(options):
         game_tapes = []
         if downloads[iid]:
             for path, md5 in downloads[iid]:
-                if path.startswith(('/pub/sinclair/games/', '/pub/sinclair/compilations/', '/pub/sinclair/utils/')):
-                    url = f'https://worldofspectrum.net{path}'
-                    tsubdir = f'{SPECTRUM_TAPES}/worldofspectrum.net{path[:-4]}'
-                elif path.startswith(('/zxdb/sinclair/entries/', '/denied/entries/')):
+                if path.startswith(PATHS):
                     url = f'https://spectrumcomputing.co.uk{path}'
                     tsubdir = f'{SPECTRUM_TAPES}/spectrumcomputing.co.uk{path[:-4]}'
                 else:
@@ -188,9 +193,11 @@ def run(options):
                 del games[iid]
 
     if options.urls:
+        prefix_len = len('https://spectrumcomputing.co.uk/')
         for iid, game in games.items():
             for url, tapes in game.get('tapes', ()):
-                if not url.startswith('https://spectrumcomputing.co.uk/denied/entries/'):
+                path = url[prefix_len:]
+                if not path.startswith('denied/entries/') and not os.path.isfile(f'{SPECTRUM_TAPES}/spectrumcomputing.co.uk/{path}'):
                     print(url)
     elif not debug:
         if os.path.isfile(GAMES_JSON):
