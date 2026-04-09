@@ -29,3 +29,4 @@ D e3b8e25abca5b3a0a345fc68516082b2 "https://spectrumcomputing.co.uk/zxdb/sinclai
 E 0045208 0020164 Fruit Machine
 T 311e8649c4a04b4b8412caf70f2ef9d9 0045208 Fruit Machine [0020164 Fruit Machine]
 E 0045309 0027702 Number 6 in the Village + Once Upon a Lily Pad / A Global Games Adventure
+D bae2b6bf9da584ed38ec74a8a1992779 "https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045307/GissaKiss.tzx.zip" "GissaKiss.tzx" [0009780 https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0009780/GissaKiss.tzx.zip GissaKiss.tzx]
