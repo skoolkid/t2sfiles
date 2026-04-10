@@ -1,0 +1,5 @@
+https://worldofspectrum.net/pub/sinclair/utils/b/BSMix.tap.zip
+--tape-name "MIX.TAP"
+--tape-sum 485b9a3479018d7cb4b47c08de9ea7ec
+--start 40000
+--sim-load-config finish-tape=1
