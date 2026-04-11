@@ -17,6 +17,8 @@ if not os.path.isdir(T2SFILES_HOME):
 sys.path.insert(0, f'{T2SFILES_HOME}/tools')
 from libt2s import SPECTRUM_TAPES, ZXDB
 
+ROOT_DIR = f'{SPECTRUM_TAPES}/spectrumcomputing.co.uk/'
+
 DOWNLOADS_SQL = """
 SELECT file_link, file_md5
 FROM downloads
@@ -32,7 +34,8 @@ def remove_zips(zips, desc, remove):
     print()
     remove = remove or input('Remove these zip archives? [Y/n] ')
     if remove in 'Yy':
-        for z in zips:
+        for zr in zips:
+            z = os.path.join(ROOT_DIR, zr)
             try:
                 os.remove(z)
                 print(f'Removed {z}')
@@ -54,9 +57,8 @@ def run(options):
 
     zips_not_in_zxdb = []
     zips_with_mismatched_md5 = []
-    root_dir = f'{SPECTRUM_TAPES}/spectrumcomputing.co.uk/'
-    for root, subdirs, files in sorted(os.walk(root_dir)):
-        dirname = root[len(root_dir):]
+    for root, subdirs, files in sorted(os.walk(ROOT_DIR)):
+        dirname = root[len(ROOT_DIR):]
         for fname in sorted(files):
             if not fname.lower().endswith('.zip'):
                 continue
@@ -66,7 +68,7 @@ def run(options):
                 continue
             exp_md5 = downloads.get(zipfile)
             if exp_md5:
-                with open(os.path.join(root_dir, zipfile), 'rb') as f:
+                with open(os.path.join(ROOT_DIR, zipfile), 'rb') as f:
                     md5 = hashlib.md5(f.read()).hexdigest()
                 if md5 != exp_md5:
                     zips_with_mismatched_md5.append(zipfile)
