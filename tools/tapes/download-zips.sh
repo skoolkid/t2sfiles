@@ -54,11 +54,11 @@ if [[ ! -f $json_file ]]; then
   exit 1
 fi
 
+failed_log="$(pwd)/failed.log"
 site=spectrumcomputing.co.uk
 cd $SPECTRUM_TAPES/$site || exit 1
 pause=1
 first=1
-failed_log=failed.log
 rm -f "$failed_log"
 $zxdb2json -u | grep "https://$site" | while read url; do
   path=${url#https://${site}/}
