@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045355/CastilloEncantadoEl.tap.zip
+--tape-name "CastilloEncantadoEl.tap"
+--tape-sum c9aeb14ac9687e2be35fa0906ea08d37
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045253/BaseOmega.tap.zip
+--tape-name "BaseOmega.tap"
+--tape-sum a59b793c7267ad1b9013a56d8025ea04
+--start 1343
+--sim-load-config finish-tape=1

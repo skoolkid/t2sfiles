@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044359/Trapdoor.tap.zip
+--tape-name "Trapdoor.tap"
+--tape-sum 98672c24eaae52889567adcdacb9856a
+--start 1343
+--sim-load-config finish-tape=1

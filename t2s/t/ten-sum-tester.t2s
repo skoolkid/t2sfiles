@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045313/TenSumTester.tap.zip
+--tape-name "TenSumTester.tap"
+--tape-sum e5cd48d4ef334e71487092672d3e6bc7
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

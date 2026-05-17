@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045148/SonicZX-BorielAdventure.tap.zip
+--tape-name "SonicZX-BorielAdventure.tap"
+--tape-sum c0c87e724371a393e082257177ffa020
+--start 44139
+--sim-load-config machine=128
+--press 7:ENTER

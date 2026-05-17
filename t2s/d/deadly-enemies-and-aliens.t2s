@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045375/DeadlyEnemiesAndAliens.tap.zip
+--tape-name "DeadlyEnemiesAndAliens.tap"
+--tape-sum ad71f801b20047cdba5e577f45759846
+--start 1343
+--sim-load-config finish-tape=1

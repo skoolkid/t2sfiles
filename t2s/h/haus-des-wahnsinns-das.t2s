@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045312/HausDesWahnsinnsDas.tzx.zip
+--tape-name "HausDesWahnsinnsDas.tzx"
+--tape-sum e7c04c10d1915fcc45ef9c827cadde4a
+--start 1343
+--sim-load-config finish-tape=1

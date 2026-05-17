@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045332/Miau.tzx.zip
+--tape-name "Miau.tzx"
+--tape-sum 3e2aa234363e5b4ab3643b79ee501741
+--start 1343
+--sim-load-config finish-tape=1

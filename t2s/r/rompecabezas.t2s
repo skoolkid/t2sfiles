@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045371/Rompecabezas.tap.zip
+--tape-name "Rompecabezas.tap"
+--tape-sum d8528d90f0e07bbe3dee9b41d3a0f306
+--start 1343
+--sim-load-config finish-tape=1

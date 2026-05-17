@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045353/TresConTimonel.tap.zip
+--tape-name "TresConTimonel.tap"
+--tape-sum 825a08bee16a1c81b83c224105705a56
+--start 1343
+--sim-load-config finish-tape=1

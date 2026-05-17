@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045317/Eliza.tap.zip
+--tape-name "Eliza.tap"
+--tape-sum ab2e71816d7ee7e99d20c63b8fa19193
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045348/Golpe.tzx.zip
+--tape-name "Golpe.tzx"
+--tape-sum ead3003c16c9272915950b1f387e1645
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045357/Chiringuito.tap.zip
+--tape-name "Chiringuito.tap"
+--tape-sum 94cfbd3da3a8cec1716622bd87a564c3
+--start 1343
+--sim-load-config finish-tape=1

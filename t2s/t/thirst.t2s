@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044357/Thirst.tap.zip
+--tape-name "Thirst.tap"
+--tape-sum 55c7bf2f5e6f829a8cc469fd6570de45
+--start 1343
+--sim-load-config finish-tape=1

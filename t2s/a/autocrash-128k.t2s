@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/pub/sinclair/games/a/Autocrash.tzx.zip
+--tape-name "Autocrash.tzx"
+--tape-sum 8b535494579729a370b8df9c88ce2562
+--start 57912
+--sim-load-config machine=128

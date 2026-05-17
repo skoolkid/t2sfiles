@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045310/Crossword.tap.zip
+--tape-name "Crossword.tap"
+--tape-sum 9a80bf1bc81f19aebd12158318b71923
+--start 1343
+--sim-load-config finish-tape=1

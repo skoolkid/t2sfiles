@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040122/Pothole.tap.zip
+--tape-name "Pothole.tap"
+--tape-sum c721bfa87146f4385304e2fa09e9705b
+--start 1343
+--sim-load-config finish-tape=1
