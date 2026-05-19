@@ -1094,17 +1094,6 @@
         ],
         "name": "New Special Playgames - Issue 51"
     },
-    "0034441": {
-        "contents": [
-            "0034445 Invaders",
-            "0034444 FG",
-            "0034443 Rat Race",
-            "0034446 Warriors of Light",
-            "0034442 Subs"
-        ],
-        "name": "Let's Compute! Club",
-        "url": "https://spectrumcomputing.co.uk/zxdb/add/public/history_publishers.php?filter_id=5943"
-    },
     "0035763": {
         "contents": [
             "0016637 Copter",
@@ -1353,18 +1342,6 @@
             "**23540 More Tea, Vicar? [DEM]"
         ],
         "name": "Scene+ 058"
-    },
-    "0038556": {
-        "contents": [
-            "0038522 Circuit Breaker",
-            "0038538 Circuit Breaker 2",
-            "0038551 Myp, o Bzidr\u00f3glio",
-            "0038555 Swift",
-            "0038549 Caveted Against the Darkness",
-            "0038554 Lex Fantastic Adventure"
-        ],
-        "name": "Adventure Pack",
-        "url": "https://spectrumcomputing.co.uk/zxdb/add/public/history_publishers.php?filter_id=5944"
     },
     "0038724": {
         "contents": [
@@ -1911,24 +1888,5 @@
             "0001844 Formula One"
         ],
         "name": "Spectrum Load'n'Run v2 Especial Deportes"
-    },
-    "0044213": {
-        "contents": [
-            "0006018 The Blood of Bogmole",
-            "0006020 Bogmole II: Zogan's Revenge",
-            "0006021 Bogmole III: The Wizard's Skull"
-        ],
-        "name": "The Bogmole Trilogy",
-        "url": "https://spectrumcomputing.co.uk/zxdb/add/public/history_publishers.php?filter_id=5942"
-    },
-    "0045222": {
-        "contents": [
-            "0004888 3D Star Wars",
-            "0045245 Ex.T Phone Home",
-            "0009715 Eteor Torn",
-            "0006614 Lost over Bermuda"
-        ],
-        "name": "Games Pack 2",
-        "url": "https://spectrumcomputing.co.uk/zxdb/add/public/history_publishers.php?filter_id=6526"
     }
 }
