@@ -1,6 +1,0 @@
-https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0018366/CrossMan.tzx.zip
---tape-name "CrossMan.tzx"
---tape-sum db1e0c6d09f37fb6374245ba35a83bab
---start 1343
---sim-load-config finish-tape=1
---sim-load-config 'load=LOAD "": RUN'
