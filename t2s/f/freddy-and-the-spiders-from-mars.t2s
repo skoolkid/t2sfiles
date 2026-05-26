@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045439/FreddyAndTheSpidersFromMars.tap.zip
+--tape-name "FreddyAndTheSpidersFromMars.tap"
+--tape-sum c06cfe88dcbb65b45770a2a8892636d6
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045444/Higher-Lower.tzx.zip
+--tape-name "Higher-Lower.tzx"
+--tape-sum ef8732c994681a6e16b8bcd3c3a61da3
+--start 1343
+--sim-load-config finish-tape=1

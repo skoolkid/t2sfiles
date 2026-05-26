@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045416/Nadrazak.tzx.zip
+--tape-name "Nadrazak.tzx"
+--tape-sum fdd87487e3377cb092c97c693949b5f5
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045415/Skolak.tzx.zip
+--tape-name "Skolak.tzx"
+--tape-sum b31befa6093451ed5fa0195a1f727dd1
+--start 1343
+--sim-load-config finish-tape=1

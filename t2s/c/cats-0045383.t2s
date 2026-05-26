@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045383/Cats.tap.zip
+--tape-name "Cats.tap"
+--tape-sum f08b9e4fe50a877d0d57c0928f484ad0
+--start 1343
+--sim-load-config finish-tape=1

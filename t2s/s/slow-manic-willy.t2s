@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0044292/SlowManicWilly.tap.zip
+--tape-name "SlowManicWilly.tap"
+--tape-sum 75f66379c3c1198888945dff3a8660e5
+--start 1343
+--sim-load-config finish-tape=1

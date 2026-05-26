@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045430/Othello.tap.zip
+--tape-name "Othello.tap"
+--tape-sum 6de97084af4a0e459aba5d3eaec0e373
+--start 1343
+--sim-load-config finish-tape=1

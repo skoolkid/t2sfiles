@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045407/Goldmine.tap.zip
+--tape-name "Goldmine.tap"
+--tape-sum de3c271d3657b4dad687a735a83bb87b
+--start 1343
+--sim-load-config finish-tape=1

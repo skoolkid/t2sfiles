@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045423/Ballistae.tzx.zip
+--tape-name "Ballistae.tzx"
+--tape-sum 867a1c7c1b36ff7b714b1a5511d446e9
+--start 1343
+--sim-load-config finish-tape=1

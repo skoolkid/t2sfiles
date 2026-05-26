@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045389/BuscaDosDocumentosPerdidosEm.tap.zip
+--tape-name "BuscaDosDocumentosPerdidosEm.tap"
+--tape-sum a3fabf7d3232cfea16ee3c9c1873598a
+--start 1343
+--sim-load-config finish-tape=1

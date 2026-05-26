@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039814/SaintGeorge.tzx.zip
+--tape-name "SaintGeorge.tzx"
+--tape-sum fa5d3f4454faab0f61f5c79155cdf4dd
+--start 1343
+--sim-load-config finish-tape=1

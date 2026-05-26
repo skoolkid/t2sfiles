@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045449/CavendishField.tap.zip
+--tape-name "CavendishField.tap"
+--tape-sum 6c38a626d0c440527b7db43f6cbd7824
+--start 1343
+--sim-load-config finish-tape=1

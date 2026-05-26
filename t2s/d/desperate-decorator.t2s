@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045440/DesperateDecorator.tap.zip
+--tape-name "DesperateDecorator.tap"
+--tape-sum f834a48593211d2abfa1230851a8e760
+--start 1343
+--sim-load-config finish-tape=1

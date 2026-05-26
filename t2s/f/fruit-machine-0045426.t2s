@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045426/FruitMachine.tap.zip
+--tape-name "FruitMachine.tap"
+--tape-sum beea8702c1334552e8172d7ce8656aab
+--start 1343
+--sim-load-config finish-tape=1

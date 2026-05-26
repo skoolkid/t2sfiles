@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045429/WordGame.tap.zip
+--tape-name "WordGame.tap"
+--tape-sum 516bfca543d933205b3f11494791b7e3
+--start 1343
+--sim-load-config finish-tape=1

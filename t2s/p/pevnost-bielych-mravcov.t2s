@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045403/PevnostBielychMravcov.tzx.zip
+--tape-name "PevnostBielychMravcov.tzx"
+--tape-sum b424b914419525a26cee6fc5bd85f98a
+--start 1343
+--sim-load-config finish-tape=1

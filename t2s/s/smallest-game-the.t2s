@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045450/SmallestGameThe.tap.zip
+--tape-name "SmallestGameThe.tap"
+--tape-sum df150d407b515ea62d59b78dab0e75cf
+--start 1343
+--sim-load-config finish-tape=1

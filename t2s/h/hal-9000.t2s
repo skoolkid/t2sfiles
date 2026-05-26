@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045413/HAL9000.tzx.zip
+--tape-name "HAL9000.tzx"
+--tape-sum 6b1bdbe3c1d4fa0e78d6c0da8516b8ba
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

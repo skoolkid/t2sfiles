@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045451/Tetris-40thAnniversaryEdition.tap.zip
+--tape-name "Tetris-40thAnniversaryEdition.tap"
+--tape-sum c2fe237ed1c5e1f04735c596a76307f1
+--start 1343
+--press 3:ENTER*2
+--sim-load-config finish-tape=1
