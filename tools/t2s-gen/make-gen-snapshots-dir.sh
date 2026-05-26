@@ -27,6 +27,7 @@ Usage: $(basename $0) [options] TARGET_DIR MACHINE|FILE
   list of tape files to use.
 
 Options:
+  -a      Copy all tape files for each title instead of just the first one
   -n NUM  Run this many gen-snapshot.py processes (default: 1)
   -q      Don't print 'cd' command when finished
   -t      Assume FILE contains a list of tape files
@@ -34,11 +35,13 @@ EOF
   exit 1
 }
 
+all=0
 num=1
 tapes=0
 quiet=0
-while getopts ":qtn:" opt; do
+while getopts ":aqtn:" opt; do
   case $opt in
+    a) all=1 ;;
     n) num=$OPTARG ;;
     q) quiet=1 ;;
     t) tapes=1 ;;
@@ -82,7 +85,8 @@ else
   else
     iids=$($listgames -s TBI $MACHINE_OR_FILE | cut -c1-7)
   fi
-  $gameinfo -1 $iids | grep -o "${SPECTRUM_TAPES}/.*" | while read t; do
+  [[ $all == 0 ]] && opts="-1"
+  $gameinfo $opts $iids | grep -o "${SPECTRUM_TAPES}/.*" | while read t; do
     cp -pv "$t" tapes
   done
 fi
