@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045184/LeyendaDeZagoreLa(2).tap.zip
+--tape-name "LeyendaDeZagoreLa(2).tap"
+--tape-sum 5243e261f97516d318c585483b19e50f
+--start 1343
+--sim-load-config finish-tape=1
