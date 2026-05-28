@@ -1888,5 +1888,41 @@
             "0001844 Formula One"
         ],
         "name": "Spectrum Load'n'Run v2 Especial Deportes"
+    },
+    "0045404": {
+        "contents": [
+            "**45515 Gran Premio Merano",
+            "0042815 Galactica"
+        ],
+        "name": "Gran Premio Merano + Galactica"
+    },
+    "0045409": {
+        "contents": [
+            "0006429 The Hermitage",
+            "0007073 Teacher Trouble",
+            "0007062 Survival",
+            "0010822 The Guardian",
+            "0006564 The Last Believer",
+            "0005945 Alstrad",
+            "0006445 A Holiday to Remember",
+            "0006056 The Calling",
+            "0007151 Use Your Loaf"
+        ],
+        "name": "The Guild PD Adventure Pack"
+    },
+    "0045410": {
+        "contents": [
+            "0009914 Lost in the Desert",
+            "0006072 Castle Warlock",
+            "0010906 Reality Hacker"
+        ],
+        "name": "The Guild Adventure PD pack #2"
+    },
+    "0045424": {
+        "contents": [
+            "0002263 Headbangers Heaven",
+            "0004454 Panic"
+        ],
+        "name": "Head Bangers Heaven & Panic"
     }
 }
