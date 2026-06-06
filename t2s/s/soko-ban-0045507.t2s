@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045507/Soko-Ban.tap.zip
+--tape-name "Soko-Ban.tap"
+--tape-sum b55db9d8c69a5c414e5072abbf156ca2
+--start 1343
+--sim-load-config finish-tape=1

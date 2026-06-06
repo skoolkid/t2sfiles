@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043689/IntoTheUnknown.tzx.zip
+--tape-name "IntoTheUnknown.tzx"
+--tape-sum 8a6682d101fee216f3080747e3535c69
+--start 1343
+--sim-load-config finish-tape=1

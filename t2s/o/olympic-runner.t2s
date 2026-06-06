@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039771/OlympicRunner.tap.zip
+--tape-name "OlympicRunner.tap"
+--tape-sum fede5e96fea4853500b2bbcda8862ebe
+--start 1343
+--sim-load-config finish-tape=1

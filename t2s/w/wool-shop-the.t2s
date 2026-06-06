@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039850/WoolShopThe.tap.zip
+--tape-name "WoolShopThe.tap"
+--tape-sum e87f4e2a7951096de5bc523e08e5d974
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

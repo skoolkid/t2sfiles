@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045502/JetSetWilly-KeyCodeEdition.tzx.zip
+--tape-name "JetSetWilly-KeyCodeEdition.tzx"
+--tape-sum 599bdd2fe488ee71965a03b7e1806d59
+--start 32768
+--sim-load-config finish-tape=1

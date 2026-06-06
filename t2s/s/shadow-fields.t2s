@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045452/ShadowFields.tap.zip
+--tape-name "ShadowFields.tap"
+--tape-sum 55b9409d6ac622ff9ac5906c78e7ccb5
+--start 24744
+--sim-load-config machine=128

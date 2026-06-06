@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039820/TTRace.tap.zip
+--tape-name "TTRace.tap"
+--tape-sum 093ff1faa38ea003224d320ed96d90f4
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045471/TumblingDice.tap.zip
+--tape-name "TumblingDice.tap"
+--tape-sum 2fca36fe56802561af4975286a96d196
+--start 1343
+--sim-load-config finish-tape=1

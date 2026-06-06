@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045499/WhatAWonderfulWorldOfWillie.tzx.zip
+--tape-name "WhatAWonderfulWorldOfWillie.tzx"
+--tape-sum 9556c5df9f8ed0fac9d12f2168da1f4a
+--start 1343
+--tape-start 3
+--sim-load-config finish-tape=1

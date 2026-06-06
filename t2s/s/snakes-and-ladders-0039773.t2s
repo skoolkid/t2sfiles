@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039773/SnakesAndLadders.tap.zip
+--tape-name "SnakesAndLadders.tap"
+--tape-sum 342d94bef1f0fd534242b57f4b7a6de6
+--start 1343
+--sim-load-config finish-tape=1

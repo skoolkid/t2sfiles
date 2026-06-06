@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039798/RealRobinHoodThe.tap.zip
+--tape-name "RealRobinHoodThe.tap"
+--tape-sum 92d4528026eecbd16ca09317d6279467
+--start 1343
+--sim-load-config finish-tape=1
