@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045492/Powerplay-IronMaidenEdition.tap.zip
+--tape-name "Powerplay-IronMaidenEdition.tap"
+--tape-sum 5497fd1e452a74fb754dc4be7549c06f
+--press 17:l*162
+--tape-skip 11-16
+--start 33457
