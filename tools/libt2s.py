@@ -471,7 +471,8 @@ def _get_duplicate_tapes():
     return duplicates_by_iid, duplicates_by_tape
 
 def get_tapes():
-    if os.path.isfile(TAPES_JSON) and os.stat(TAPES_JSON).st_mtime > os.stat(GAMES_JSON).st_mtime:
+    ts = max(os.stat(f).st_mtime for f in (GAMES_JSON, DUPLICATES_TXT))
+    if os.path.isfile(TAPES_JSON) and os.stat(TAPES_JSON).st_mtime > ts:
         with open(TAPES_JSON) as f:
             return json.load(f)
 
