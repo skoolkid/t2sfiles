@@ -1,4 +1,5 @@
 from collections import defaultdict
+from contextlib import chdir
 import json
 import os
 import sqlite3
@@ -407,11 +408,13 @@ def _add_game(conn, games, iid):
 
 def get_t2s_by_iid(games, tapes):
     t2s_by_iid = defaultdict(list)
-    for root, subdirs, files in sorted(os.walk(T2S_ROOT_DIR)):
-        for t in files:
-            zxdb_id = get_zxdb_id(os.path.join(root, t), games, tapes)
-            if zxdb_id:
-                t2s_by_iid[zxdb_id].append(t)
+    with chdir(T2SFILES_HOME):
+        for root, subdirs, files in sorted(os.walk('t2s')):
+            for t in files:
+                t2s_path = os.path.join(root, t)
+                zxdb_id = get_zxdb_id(t2s_path, games, tapes)
+                if zxdb_id:
+                    t2s_by_iid[zxdb_id].append(t2s_path)
     return t2s_by_iid
 
 def get_games(include_other_contents=True):

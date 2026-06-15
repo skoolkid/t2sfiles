@@ -1,14 +1,16 @@
 #!/usr/bin/env python3
 import argparse
 from collections import defaultdict
+import os
 
-from libt2s import T2SFILES_HOME, get_games, get_tapes, get_t2s_by_iid, get_t2s_name_iids, get_t2s_names
+from libt2s import (T2SFILES_HOME, T2S_SUFFIXES, RED, GREEN, CYAN, RESET,
+                    get_games, get_tapes, get_t2s_by_iid, get_t2s_name_iids,
+                    get_t2s_names)
 
 def get_suffix(t2s_name):
-    for s in ('-128k', '-p1', '-p2', '-p3', '-p4', '-en', '-es', '-pt', '-side-1', '-side-2', '-side-a', '-side-b', '-release-1', '-release-2', '-release-3', '-v1', '-v2'):
+    for s in T2S_SUFFIXES:
         if t2s_name.endswith(s):
             return s
-    return ''
 
 def get_suffixes(t2s_name):
     suffixes = []
@@ -37,7 +39,7 @@ def run(options):
         game = games[iid]['name']
         t2s_name = t2s_names[iid][0]
         for fname in t2s_files:
-            names[(t2s_name, game)].append((iid, fname))
+            names[(t2s_name, game)].append((iid, os.path.basename(fname)))
 
     for (t2s_name, game), t2s_files in sorted(names.items()):
         iids_for_t2s_name = set(t2s_name_iids[t2s_name])
@@ -49,6 +51,7 @@ def run(options):
             show = len(t2s_files) > 1
         if show:
             entries = []
+            has_alt_t2s_name = False
             for iid, t2s_file in sorted(t2s_files, key=lambda t: t[0]):
                 iids_for_t2s_name.discard(iid)
                 iid_in_t2s = f'-{iid}' in  t2s_file
@@ -59,13 +62,24 @@ def run(options):
                         if not options.hide_t2s_with_iid:
                             entries.append(f'  {iid} t2s/{t2s_ltr}/{t2s_file}')
                     elif alt_t2s_fname:
-                        entries.append(f'  {iid} t2s/{t2s_ltr}/{t2s_file} -> t2s/{t2s_ltr}/{alt_t2s_fname}')
+                        entries.append(f'  {iid} {CYAN}t2s/{t2s_ltr}/{t2s_file} -> t2s/{t2s_ltr}/{alt_t2s_fname}{RESET}')
+                        has_alt_t2s_name = True
                     else:
                         entries.append(f'  {iid} t2s/{t2s_ltr}/{t2s_file} -> ???')
                 elif not iid_in_t2s or not options.hide_t2s_with_iid:
                     entries.append(f'  {iid} {t2s_file}')
             if entries and options.show_non_unique and iids_for_t2s_name:
-                entries.extend(f'  {iid} -' for iid in iids_for_t2s_name)
+                for iid in iids_for_t2s_name:
+                    if iid in games:
+                        t2sf = t2s_by_iid.get(iid)
+                        if t2sf:
+                            colour = GREEN if has_alt_t2s_name else ''
+                            info = ', '.join(f'{colour}{t}{RESET}' for t in t2sf)
+                        else:
+                            info = f'{RED}* no t2s file *{RESET}'
+                    else:
+                        info = f'{RED}* not in games.json *{RESET}'
+                    entries.append(f'  {iid} {info}')
             if entries:
                 print(f'{t2s_name} ({game}):')
                 for line in sorted(entries):
