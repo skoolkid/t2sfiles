@@ -68,6 +68,8 @@ DUPLICATES_TXT = f'{DATA_ROOT_DIR}/duplicates.txt'
 
 EXCEPTIONS_TXT = f'{DATA_ROOT_DIR}/exceptions.txt'
 
+T2S_NAMES_TXT = f'{DATA_ROOT_DIR}/t2s-names.txt'
+
 T2S_ROOT_DIR = f'{T2SFILES_HOME}/t2s'
 if not os.path.isdir(T2S_ROOT_DIR):
     sys.stderr.write(f'{T2S_ROOT_DIR}: directory not found\n')
@@ -210,13 +212,29 @@ def get_exp_t2s_names(name, index_name):
         names.add(get_t2s_name(name.lower().replace(s, '-'), index_name.lower().replace(s, '-')))
     return names
 
+def _get_alt_t2s_names():
+    alt_t2s_names = {}
+    if os.path.isfile(T2S_NAMES_TXT):
+        with open(T2S_NAMES_TXT) as f:
+            for line in f:
+                if line[:7].isdigit():
+                    zxdb_id, name = line.split(None, 2)[:2]
+                    alt_t2s_names[zxdb_id] = name
+    return alt_t2s_names
+
 def get_t2s_names(include_alt=False):
     conn = sqlite3.connect(ZXDB)
     sql = get_entries_sql('e.id', 'e.title', 'elt.library_title')
     t2s_names = {}
     if include_alt:
+        alt_t2s_names = _get_alt_t2s_names()
         for iid, name, index_name in conn.execute(sql):
-            t2s_names[f'{iid:07}'] = get_exp_t2s_names(name, index_name)
+            names = get_exp_t2s_names(name, index_name)
+            zxdb_id = f'{iid:07}'
+            alt_name = alt_t2s_names.get(zxdb_id)
+            if alt_name:
+                names.add(alt_name)
+            t2s_names[zxdb_id] = names
     else:
         for iid, name, index_name in conn.execute(sql):
             t2s_names[f'{iid:07}'] = (get_t2s_name(name, index_name), name)

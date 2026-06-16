@@ -1,0 +1,15 @@
+; This file contains a list of accepted t2s names for titles with tricky names
+; (i.e. those for which libt2s.get_exp_t2s_names() fails to derive the actual
+; t2s name), so that find-t2s-with-incorrect-name.py can avoid listing them.
+
+; Only lines that start with a 7-digit ID are processed, and in such lines
+; anything after the t2s name is ignored.
+
+0035392 dobrodruzstvi-indiana-jonese-na-vaclavskem-namesti-v-praze-dne-16.1.1989 [Dobrodružství Indiana Jonese na Václavském náměstí v Praze dne 16. 1. 1989]
+0027958 drag-n-join-4k [Drag'NJoin4k]
+0010495 energy-30000 [Energy 30,000]
+0012374 escape-from-devils-isle [Escape from Devil's Island - alternative version]
+0037098 por-2000-dolares [Por 2.000 Dólares]
+0005070 superman.olo [Superman.olo]
+0014804 thimble [TH!MBLE]
+0036600 unofficial-father-christmas-game-2016-the [The (Un)Official Father Christmas Game 2016]
