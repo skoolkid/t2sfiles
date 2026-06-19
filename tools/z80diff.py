@@ -57,19 +57,45 @@ def _compare(s1, s2):
             count += 1
     return count
 
-try:
-    from libz80diff import compare
-except ImportError:
-    print('WARNING: libz80diff C extension not found', file=sys.stderr)
-    compare = _compare
+def _normalised_levenshtein(s1, s2):
+    """
+    Return the Normalised Levenshtein Distance (similarity): a number between
+    0.0 (totally different) and 1.0 (identical).
+    """
+    slen = len(s1)
+    prev_row = range(slen + 1)
+    for i in range(1, slen + 1):
+        curr_row = [i] * (slen + 1)
+        for j in range(1, slen + 1):
+            cost = 0 if s1[i - 1] == s2[j - 1] else 1
+            curr_row[j] = min(
+                curr_row[j - 1] + 1,   # Deletion
+                prev_row[j] + 1,       # Insertion
+                prev_row[j - 1] + cost # Substitution
+            )
+        prev_row = curr_row
+    distance = prev_row[slen]
+    return 1.0 - distance / slen
 
-def cmp2(z1, z2):
+try:
+    from libz80diff import compare, normalised_levenshtein
+except ImportError:
+    print('WARNING: libz80diff C extension not found; computing NLD will be VERY slow', file=sys.stderr)
+    compare = _compare
+    normalised_levenshtein = _normalised_levenshtein
+
+def cmp2(z1, z2, nld):
     s1 = Snapshot.get(z1)
     s2 = Snapshot.get(z2)
     snapshot1 = s1.ram(-1)
     snapshot2 = s2.ram(-1)
     header1, reg1 = s1.header, s1
     header2, reg2 = s2.header, s2
+
+    if nld:
+        similarity = normalised_levenshtein(bytes(snapshot1), bytes(snapshot2))
+    else:
+        similarity = None
 
     reg_diffs = []
     for reg, attr in REGISTERS.items():
@@ -110,10 +136,12 @@ def cmp2(z1, z2):
         if diffs:
             for d in diffs:
                 print(f'  {d}')
+            if name == 'RAM' and similarity is not None:
+                print(f'  Similarity: {similarity:.02f}')
         else:
             print('  No differences')
 
-def cpall(z80s, limit):
+def cpall(z80s, limit, nld):
     snapshots = [(z80, bytearray(Snapshot.get(z80).ram(-1))) for z80 in z80s]
     cps = defaultdict(list)
     for f in os.listdir(T2S_BIN_DIR):
@@ -123,14 +151,20 @@ def cpall(z80s, limit):
             z = b.read()
         for z80, snapshot in snapshots:
             if len(snapshot) == len(z):
-                cps[z80].append((compare(z, snapshot), f))
+                cps[z80].append((compare(z, snapshot), snapshot, f))
     for z80, cp in cps.items():
         results = sorted(cp)
         if limit > 0:
             results = results[-limit:]
         print(z80)
-        for n, f in results:
-            print(f'  {n:>6} {f}')
+        for n, s1, f in results:
+            if nld:
+                with open(f'{T2S_BIN_DIR}/{f}', 'rb') as b:
+                    s2 = b.read()
+                similarity = normalised_levenshtein(s1, s2)
+                print(f'  {n:>6} {similarity:.02f} {f}')
+            else:
+                print(f'  {n:>6} {f}')
 
 parser = argparse.ArgumentParser(
     usage='%(prog)s [options] snap1.z80 [snap2.z80 ...]',
@@ -141,14 +175,16 @@ parser.add_argument('snaps', help=argparse.SUPPRESS, nargs='*')
 group = parser.add_argument_group('Options')
 group.add_argument('-a', dest='cpall', action='store_true',
                    help="Compare with all t2s raw binary files, and sort by number of matching non-zero bytes.")
-group.add_argument('-l', dest='limit', metavar='LIMIT', type=int, default=0,
-                   help="Show not more than this many of the most similar snapshots.")
+group.add_argument('-l', dest='limit', metavar='LIMIT', type=int, default=5,
+                   help="Show not more than this many of the most similar snapshots (default: 5).")
+group.add_argument('-n', dest='nld', action='store_true',
+                   help="Compute and display normalised Levenshtein distance.")
 namespace, unknown_args = parser.parse_known_args()
 if unknown_args or not namespace.snaps:
     parser.exit(2, parser.format_help())
 if namespace.cpall:
-    cpall(namespace.snaps, namespace.limit)
+    cpall(namespace.snaps, namespace.limit, namespace.nld)
 elif len(namespace.snaps) == 2:
-    cmp2(*namespace.snaps)
+    cmp2(*namespace.snaps, namespace.nld)
 else:
     parser.exit(2, parser.format_help())
