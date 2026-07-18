@@ -191,6 +191,7 @@
 0006897 RUI *    The Ring of Darkness
 0007058 RUI *    Super Discus
 0007113 RUI 128K Time Warrior
+0007969 NAG *    Spectrum Assembly Language Course
 0008539 NAG *    PD Tape 01: Spectrum Comms
 0008540 NAG *    PD Tape 02: +3 Utilities
 0008613 NAG *    Practical Wireless Magazine Radio Programs 5
@@ -567,6 +568,7 @@
 0037096 DEM *    Tetris
 0037177 NTA *    Eye Gambler
 0037179 NTA *    Archer MacLean's Poo
+0037303 DEM *    Rival Gangs EXT
 0037681 DEM *    Stop Virus
 0037744 RUI *    Super Mario Bros: COVID-19 Edition
 0037931 NAG *    Sinclair Classic 10

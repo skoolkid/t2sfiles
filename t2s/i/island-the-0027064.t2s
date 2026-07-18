@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0027064/IslandThe.tzx.zip
+--tape-name "IslandThe.tzx"
+--tape-sum f410ecdaee23a6bec7eb3a5eb29493b5
+--start 34887
+--sim-load-config machine=128

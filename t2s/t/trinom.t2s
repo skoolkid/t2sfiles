@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045511/Trinom.tap.zip
+--tape-name "Trinom.tap"
+--tape-sum d87070a20ccf75d344139e4564b115c3
+--start 1343
+--press 3:n*355
+--sim-load-config finish-tape=1

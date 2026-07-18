@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045515/GranPremioMerano.tzx.zip
+--tape-name "GranPremioMerano.tzx"
+--tape-sum c26a52b30a6a4014f1d8ae847501f64c
+--start 1343
+--sim-load-config finish-tape=1

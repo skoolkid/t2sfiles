@@ -1891,16 +1891,10 @@
     },
     "0045404": {
         "contents": [
-            "**45515 Gran Premio Merano",
+            "0045515 Gran Premio Merano",
             "0042815 Galactica"
         ],
-        "name": "Gran Premio Merano + Galactica"
-    },
-    "0045508": {
-        "contents": [
-            "0003263 Moon Cresta",
-            "0004431 Shadowfax"
-        ],
-        "name": "Invaders + Ringo"
+        "name": "Gran Premio Merano + Galactica",
+        "url": "https://spectrumcomputing.co.uk/zxdb/add/public/history_publishers.php?filter_id=7206"
     }
 }

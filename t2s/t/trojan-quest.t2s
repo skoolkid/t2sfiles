@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045362/Trojan-Quest(DE).tap.zip
+--tape-name "Trojan-Quest(DE).tap"
+--tape-sum e42e6d96b34048de296ee2e282fcbfbc
+--start 1343
+--sim-load-config finish-tape=1

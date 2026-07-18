@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045538/Jackman.tzx.zip
+--tape-name "Jackman.tzx"
+--tape-sum 0f2e1317c120f200367402ce27073311
+--start 1343
+--sim-load-config finish-tape=1

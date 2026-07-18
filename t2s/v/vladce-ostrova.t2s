@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045528/VladceOstrova.tap.zip
+--tape-name "VladceOstrova.tap"
+--tape-sum c25d65f9c0eb779df4e06fd12614f14f
+--start 1343
+--sim-load-config finish-tape=1
