@@ -198,7 +198,16 @@ def run(options):
             for url, tapes in game.get('tapes', ()):
                 path = url[prefix_len:]
                 if not path.startswith('denied/entries/') and not os.path.isfile(f'{SPECTRUM_TAPES}/spectrumcomputing.co.uk/{path}'):
-                    print(url)
+                    if options.bbcode:
+                        name = game['name']
+                        bname = os.path.basename(path)
+                        print(f'[*] [url="{url}"]{bname}[/url] ([url="https://spectrumcomputing.co.uk/entry/{iid}"]{name}[/url])')
+                    elif options.titles:
+                        name = game['name']
+                        print(f'{iid} {name}')
+                        print(f'  {url}')
+                    else:
+                        print(url)
     elif not debug:
         if os.path.isfile(GAMES_JSON):
             mtime = datetime.fromtimestamp(os.stat(GAMES_JSON).st_mtime)
@@ -216,8 +225,12 @@ parser = argparse.ArgumentParser(
     add_help=False
 )
 group = parser.add_argument_group('Options')
+group.add_argument('-b', dest='bbcode', action='store_true',
+                   help="Output as BBCode list items (use with -u).")
 group.add_argument('-d', dest='debug', action='store_true',
                    help="Print debug info only (without updating the JSON file).")
+group.add_argument('-t', dest='titles', action='store_true',
+                   help="Print titles (use with -u).")
 group.add_argument('-u', dest='urls', action='store_true',
                    help="Print download URLs (without updating the JSON file).")
 namespace, unknown_args = parser.parse_known_args()
