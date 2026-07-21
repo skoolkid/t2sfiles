@@ -1,0 +1,7 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0010335/Trax.tzx.zip
+--tape-name "Trax.tzx"
+--tape-sum 699881032b3bc92adaaaac3426c59809
+--tape-start 4
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "" CODE : LOAD ""'
