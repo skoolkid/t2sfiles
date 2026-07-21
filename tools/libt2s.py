@@ -528,7 +528,7 @@ def get_tapes():
                 }
 
     with open(TAPES_JSON, 'w') as f:
-        json.dump(tapes, f, sort_keys=True, indent=4)
+        json.dump(tapes, f, sort_keys=True, indent=4, ensure_ascii=False)
         f.write('\n')
 
     return tapes

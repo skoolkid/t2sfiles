@@ -45,8 +45,8 @@
             "0044906 Pasillo Mortal",
             "0044907 Instrumentos",
             "0044908 Revolver",
-            "******* Pulsaci\u00f3nes [NAG]",
-            "0044909 Glot\u00f3n",
+            "******* Pulsaciónes [NAG]",
+            "0044909 Glotón",
             "0044910 Masacre",
             "******* Donuts [NAG]",
             "0044911 Racing Cars",
@@ -67,13 +67,13 @@
             "0044918 Soga",
             "0044919 Recogida",
             "******* Pincel [NAG]",
-            "0044920 K\u00e1rate",
+            "0044920 Kárate",
             "******* Graf 3D [NAG]",
-            "0044921 Ca\u00f1\u00f3n L\u00e1ser",
+            "0044921 Cañón Láser",
             "******* Analiza",
             "0044922 100 Metros",
             "******* ATTR [NAG]",
-            "0044923 N\u00facleo Energetico"
+            "0044923 Núcleo Energetico"
         ],
         "name": "Soft Spectrum issue 08"
     },
@@ -90,7 +90,7 @@
             "0044930 Don Perales",
             "0044931 Escalada",
             "0044932 Olimpia 3D",
-            "0044933 Invasi\u00f3n Al\u00edenigena",
+            "0044933 Invasión Alíenigena",
             "******* C/M 1 Scrolls [NAG]",
             "******* Dibujo [NAG]",
             "******* Celdilla [NAG]"
@@ -105,23 +105,23 @@
     },
     "0014602": {
         "contents": [
-            "**45010 Naprendszer Bolyg\u00f3i [NAG]",
+            "**45010 Naprendszer Bolygói [NAG]",
             "0045011 3egysorban [3EGY2]",
             "0045012 Nyitraisoko [58SOKO]",
             "**45013 Adat [NAG]",
-            "0045014 Bet\u0171 Keres\u0151 J\u00e1t\u00e9k [BETUUJ]",
+            "0045014 Betű Kereső Játék [BETUUJ]",
             "0035854 BOMBAZO",
-            "0045015 D\u00f3ri a Labirintusban [COFILABI]",
+            "0045015 Dóri a Labirintusban [COFILABI]",
             "0035855 COWBOY",
             "0001511 DAMA-E [Draughts]",
             "0024323 DORI [Benny Bunny: Litterbugs]",
-            "0045016 F\u0151v\u00e1rosok [FOVAROSO]",
+            "0045016 Fővárosok [FOVAROSO]",
             "0035865 FUTKOSO",
-            "0045017 M\u00e1gnes-Goly\u00f3 [GOLYO200]",
+            "0045017 Mágnes-Golyó [GOLYO200]",
             "0035868 GONDOL4",
             "0035869 GONDOLKO",
-            "0045018 Gyufas J\u00e1t\u00e9k [GYUFAUJ]",
-            "0045019 Modell-haj\u00f3 Verseny [HAJO6]",
+            "0045018 Gyufas Játék [GYUFAUJ]",
+            "0045019 Modell-hajó Verseny [HAJO6]",
             "0035906 Torony [HANOI]",
             "0035870 HANOI128",
             "0045020 Helycsere [HELYCSER]",
@@ -135,14 +135,14 @@
             "0035881 KOMBINET",
             "0035882 KVIZ",
             "0045021 Mastermind [MAST5]",
-            "0045022 M\u00e1trix-J\u00e1t\u00e9k [MATRIX2]",
+            "0045022 Mátrix-Játék [MATRIX2]",
             "0016713 Maya Awari",
             "0045023 Meteorit",
             "******* NY-TEXT [NAG]",
             "0035891 NYIL",
             "0016715 Orajatek [ORA128]",
-            "0045024 Othell\u00f3 [OTH2002]",
-            "0045025 P\u00e1ros Keres\u0151-Mem\u00f3riaj\u00e1t\u00e9k [PAROSKER]",
+            "0045024 Othelló [OTH2002]",
+            "0045025 Páros Kereső-Memóriajáték [PAROSKER]",
             "0045026 Piramis Szoliter [PIRISZOL]",
             "0035895 PONTFALO",
             "**35894 PKATALOG [NAG]",
@@ -151,8 +151,8 @@
             "0045029 TIX-TAX [TIXTAX]",
             "0021612 TORONY2 [Benny Bunny: The Haunted Belltower]",
             "**35908 UDGTERV [NAG]",
-            "0045030 \u00daj t\u00e9gla [UJTEGLA]",
-            "0045031 Torped\u00f3 [ZXTORPED]"
+            "0045030 Új tégla [UJTEGLA]",
+            "0045031 Torpedó [ZXTORPED]"
         ],
         "name": "51 Games Compilation"
     },
@@ -191,11 +191,11 @@
         "contents": [
             "******* Sumario [NAG]",
             "0000651 Bounzai",
-            "0026081 Evolution 2 [Ev\u00f3lucion 2]",
+            "0026081 Evolution 2 [Evólucion 2]",
             "******* Agenda Abril [NAG]",
             "******* List C/M [NAG]",
             "0044868 ZX Bingo",
-            "******* Cuerpos de Revoluci\u00f3n [NAG]",
+            "******* Cuerpos de Revolución [NAG]",
             "0044869 Pacman",
             "0044870 Cultez Historia",
             "******* Numeros Primos [NAG]",
@@ -208,13 +208,13 @@
         "contents": [
             "******* Sumario [NAG]",
             "******* Dibujar [NAG]",
-            "**26082 Evolution 3 [Ev\u00f3lucion 3]",
+            "**26082 Evolution 3 [Evólucion 3]",
             "******* Agenda Mayo [NAG]",
             "0044848 Bombardear",
             "******* Mapamundi [NAG]",
             "0044849 Bricker",
             "******* Def/UDG [NAG]",
-            "0044850 Cultez M\u00fasica",
+            "0044850 Cultez Música",
             "******* Truco 1 [NAG]",
             "******* Truco 2 [NAG]",
             "******* Truco 3 [NAG]",
@@ -901,7 +901,7 @@
             "0003384 N.E.I.L. Android",
             "0009364 KGB Superspy",
             "0005646 The Way of the Tiger",
-            "0003282 Mortadelo y Filem\u00f3n II"
+            "0003282 Mortadelo y Filemón II"
         ],
         "name": "New Special Playgames - Issue 38"
     },
@@ -1229,7 +1229,7 @@
             "0044765 La Torre dei Suicidi",
             "0038840 Linda"
         ],
-        "name": "G.U.C. n\u00b08"
+        "name": "G.U.C. n°8"
     },
     "0037866": {
         "contents": [

@@ -23,7 +23,7 @@ def run(options):
     if count:
         if not options.dry_run:
             with open(COMPILATIONS_JSON, 'w') as f:
-                json.dump(compilations, f, sort_keys=True, indent=4)
+                json.dump(compilations, f, sort_keys=True, indent=4, ensure_ascii=False)
                 f.write('\n')
             print(f'Wrote {COMPILATIONS_JSON} ({len(compilations)} compilations)')
     else:

@@ -215,7 +215,7 @@ def run(options):
             os.rename(GAMES_JSON, fname)
 
         with open(GAMES_JSON, 'w') as f:
-            json.dump(games, f, sort_keys=True, indent=4)
+            json.dump(games, f, sort_keys=True, indent=4, ensure_ascii=False)
             f.write('\n')
         print(f'Wrote {GAMES_JSON} ({len(games)} games)')
 
