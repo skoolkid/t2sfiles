@@ -250,7 +250,6 @@
 0012072 NAG *    Shake! issue 01
 0012321 NAG *    Advanced Graphics with the Sinclair ZX Spectrum
 0012407 ADD *    Soccer Rematch Data Cassette 1
-0012419 RUI *    Strangers from Outer Space
 0012841 NTA *    Figus [Existing tape is for Pentagon machines]
 0013018 RUI *    Pussy: Love Story from Titanic
 0013102 RUI *    Twilight - Krajina Tieňov
@@ -286,7 +285,6 @@
 0015783 RUI *    Insert Coins
 0015804 RUI *    Kube's Maze
 0015845 UMT *    Laberinto III
-0015849 UMT *    Pack Stilla
 0015853 RUI *    King Arthur
 0015855 NAG *    Como Usar los Colores y los Graficos en el Spectrum
 0015910 RUI *    The Pits
@@ -301,7 +299,6 @@
 0016670 RUI *    Leitin
 0016912 RUI *    Megaplex
 0017020 NAG *    Anagrams
-0017040 NAG *    El Loto
 0017041 NAG *    Combiloto
 0017089 NAG *    Začiatky
 0017126 NAG *    Transpack 2
@@ -323,7 +320,6 @@
 0018889 NAG *    16 Basisprogramma's voor de ZX Spectrum
 0019039 RUI *    1 Line Space Trader
 0019081 RUI *    Ucieczka ze Spejs-Szipu
-0019100 NAG *    Blockbuster
 0019457 NAG *    Clone-it + Renumber
 0019877 NAG *    Cassette 8420
 0020659 RUI *    Boulder Dash Classic Collection
@@ -347,27 +343,21 @@
 0023328 RUI *    Insert Coins 2
 0023342 RUI *    Slot
 0023521 RAH *    SexiMatrix
-0023539 NTA *    Sensitive
 0023540 DEM 48K  More Tea, Vicar?
 0023574 NAG *    Spectrum Machine Language for the Absolute Beginner
 0023796 NAG *    Practical Wireless Magazine Radio Programs 3
 0023918 NAG *    Trident PD List 1
 0023948 NAG *    RMS-3
 0024365 DEM *    Fernando Martin Basket Master (BETA)
-0024712 BMD *    Elisa
 0025005 DEM *    The Gem Machine
 0025007 DEM *    Pickles and Pearl
 0025194 RUI *    Hot Tyre
-0025215 UMT *    Piton
 0025311 RAH *    Currah Chatterpack 1
 0025371 NAG *    Elite Help File
 0025393 RUI *    Strip Poker 3000
 0025508 NAG *    ZX Spectrum: Aplicaciones para la Casa y los Pequenos Negocios
 0025523 NAG *    Shake! issue 09
-0025658 DEM *    Monkey Island Adventure
-0026141 NAG *    Crossnumber 1
 0026142 NAG *    Crossnumber 2
-0026153 NAG *    Madam I'm Adam
 0026170 NAG *    Sum Trouble
 0026269 RUI *    Kerixer III
 0026491 RUI *    Down Up
@@ -383,7 +373,6 @@
 0027429 RUI *    Sex Zone
 0027438 RUI *    Apples
 0027586 RUI *    Tele Puzzle
-0027594 DEM *    Klass of '99
 0027828 NAG *    Phil's Utilities Tape
 0027964 ADD *    Des Chiffres et Des Lettres Pro
 0027966 DEM *    Carlos Michelis
@@ -391,11 +380,6 @@
 0027982 NTA 48K  Survivisection
 0027982 RUI 128K Survivisection
 0028057 NAG *    ZX Spectrum Astronomy: Discover the Heavens on Your Computer
-0028201 NAG *    Hardware
-0028202 NAG *    Lessons 1
-0028203 NAG *    Lessons 2
-0028204 NAG *    Lessons 3
-0028205 NAG *    Lessons 4
 0028220 RAH *    Trainer
 0028232 NAG *    Computer Term Glossary
 0028234 NAG *    Sentences
@@ -429,25 +413,14 @@
 0028279 NAG *    C/V/C
 0028280 NAG *    Concurso
 0028281 NAG *    Truco
-0028284 NAG *    Cabeceras
-0028296 NAG *    +D Boot
 0029713 NAG *    Sinewave
 0029735 NAG *    Chars
 0029739 NAG *    X-File
-0029763 NAG *    Out-Take 01
-0029765 NAG *    Shoutburst 1
-0029767 NAG *    Shoutburst 2
-0029768 NAG *    Shoutburst 3
-0029769 NAG *    Out-Take 02
-0029860 NAG *    SAM Mail A
-0029861 NAG *    SAM Mail B
-0029865 NAG *    More SAM
 0029994 NAG *    Writing Adventures
 0029995 NAG *    Quill Review
 0030133 NTA 128K Sexwords
 0030312 RUI 48K  Mysterious Dimensions
 0030349 NAG *    Chunky Graphics Compressor
-0030351 NAG *    Ste Nichol's Tunes 2016
 0030352 NAG *    The Twelve Games of ZXMas
 0030356 NAG *    BoxODLites
 0030357 NAG *    Spritemaker
@@ -543,7 +516,6 @@
 0035903 NTA *    TEGLA
 0035904 NTA *    TICTAC
 0035905 NTA *    TOLI2001
-0035906 NTA *    TORONY
 0035907 NTA *    TORPEDO
 0035908 NTA *    UDGTERV
 0035909 NTA *    UJKOCI
@@ -569,7 +541,6 @@
 0037177 NTA *    Eye Gambler
 0037179 NTA *    Archer MacLean's Poo
 0037303 DEM *    Rival Gangs EXT
-0037681 DEM *    Stop Virus
 0037744 RUI *    Super Mario Bros: COVID-19 Edition
 0037931 NAG *    Sinclair Classic 10
 0037994 NAG *    Scene+ 053
@@ -600,7 +571,6 @@
 0038245 NAG *    Informace pro majitele ZX Spectrum 24
 0038554 NTA *    Lex Fantastic Adventure [Missing from "Adventure Pack" (0038556)]
 0038555 RUI *    Swift
-0038677 UMT *    Bolas Diabólicas
 0038821 DEM *    Colonos III
 0038903 ADD *    Quest
 0038959 RUI *    Maths Vaders
@@ -634,7 +604,6 @@
 0043429 NAG *    Konkret 6
 0043430 NAG *    Konkret 7 - 10
 0043636 RUI *    Road Safety
-0043825 NAG *    Fool Your Teacher
 0044123 BMD *    Ping Pong
 0044303 ADD *    Crusade
 0044432 ADD *    Driver

@@ -73,12 +73,26 @@ def run(t2s_dir, options):
                             print(f'{RED}- {zxdb_id} {reason} {machine:<4} {name}{RESET}')
                     del skipped_tapes[zxdb_id]
 
+    non_games = []
+    for zxdb_id in sorted(skipped_tapes):
+        if zxdb_id not in games:
+            non_games.append(zxdb_id)
+    if non_games:
+        if options.dry_run:
+            print('Not in games.json:')
+        for zxdb_id in non_games:
+            if options.dry_run:
+                reasons = skipped_tapes[zxdb_id]
+                for machine, (reason, name) in reasons.items():
+                    print(f'{RED}- {zxdb_id} {reason} {machine:<4} {name}{RESET}')
+            del skipped_tapes[zxdb_id]
+
     if not options.dry_run:
         write_skipped_tapes(skipped_tapes)
 
 parser = argparse.ArgumentParser(
     usage='{} [options] T2S_DIR'.format(os.path.basename(sys.argv[0])),
-    description="Remove entries from tapes.txt for which there are t2s files in T2S_DIR.",
+    description="Remove entries from tapes.txt for which there are t2s files in T2S_DIR or no records in games.json.",
     add_help=False
 )
 parser.add_argument('t2s_dir', help=argparse.SUPPRESS, nargs='?')
