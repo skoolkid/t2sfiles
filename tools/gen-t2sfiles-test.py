@@ -265,14 +265,16 @@ def run(root_dir, accelerators, gen_options):
                     'options': repr(tuple(options))
                 })
 
-    if gap:
-        print()
     if new_count:
         write_snapshots_json(snapshots)
-        print(f'Added {new_count} snapshot(s) to {SNAPSHOTS_JSON}')
-    else:
-        print(f'{SNAPSHOTS_JSON} is up-to-date')
-    print()
+    if gen_options.verbose:
+        if gap:
+            print()
+        if new_count:
+            print(f'Added {new_count} snapshot(s) to {SNAPSHOTS_JSON}')
+        else:
+            print(f'{SNAPSHOTS_JSON} is up-to-date')
+        print()
 
     if tests:
         test_fname = TEST_C_FNAME if gen_options.c else TEST_FNAME
@@ -286,14 +288,15 @@ def run(root_dir, accelerators, gen_options):
         os.chmod(test_fname, 0o755)
         print(f'Wrote {test_fname} ({len(tests)} tests)')
 
-    total_time = time.time() - total_time_start
-    print(f'\nt2s read time: {t2s_r_time:.2f}s')
-    print(f'Snapshot read time: {snapshot_r_time:.2f}s')
-    print(f'Snapshot write time: {snapshot_w_time:.2f}s')
-    print(f'Total time: {total_time:.2f}s')
+    if gen_options.verbose:
+        total_time = time.time() - total_time_start
+        print(f'\nt2s read time: {t2s_r_time:.2f}s')
+        print(f'Snapshot read time: {snapshot_r_time:.2f}s')
+        print(f'Snapshot write time: {snapshot_w_time:.2f}s')
+        print(f'Total time: {total_time:.2f}s')
 
-    if tests:
-        print(f'\nNow run ./{test_fname}')
+        if tests:
+            print(f'\nNow run ./{test_fname}')
 
 DESCRIPTION = """
 Generate tests for all the t2s files in T2S_DIR and its subdirectories, along
@@ -324,6 +327,8 @@ group.add_argument('-g', dest='gc', action='store_true',
                    help="Collect garbage after each test. This can help prevent OOM errors when running the tests on low-RAM systems.")
 group.add_argument('-j', dest='processes', metavar='PROCS', type=int, default=0,
                    help="Run tests using this many processes.")
+group.add_argument('-q', dest='verbose', action='store_false',
+                   help="Produce less output.")
 namespace, unknown_args = parser.parse_known_args()
 if unknown_args or not namespace.t2s_dir:
     parser.exit(2, parser.format_help())
