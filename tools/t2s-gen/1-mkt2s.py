@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
+import contextlib
 import hashlib
+import io
 import os
 import re
 import sys
@@ -104,7 +106,15 @@ def run(root_dir):
             except:
                 print('ERROR: Failed to produce BASIC listing')
             print('----------------------------------------------------------')
-            trace.main(('-v', '--max-operations', '500', z80file))
+            rows, cols = 40, 6
+            max_ops = rows * cols
+            buf = io.StringIO()
+            with contextlib.redirect_stdout(buf):
+                trace.main(('-v', '--max-operations', str(max_ops), z80file))
+            lines = buf.getvalue().split('\n')
+            for i in range(rows):
+                print(''.join(f'{lines[i + j]:20}' for j in range(0, max_ops, rows)))
+            print('----------------------------------------------------------')
 
             if md5sum in tapes:
                 tape_info = tapes[md5sum]
