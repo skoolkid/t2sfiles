@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045713/Geometria-AreasEPerimetros-v1.tap.zip
+--tape-name "Geometria-AreasEPerimetros-v1.tap"
+--tape-sum 6a54787a1ff4e4bb10c20af9114a4ba5
+--start 1343
+--sim-load-config finish-tape=1

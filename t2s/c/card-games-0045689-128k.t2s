@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045689/CardGames.tap.zip
+--tape-name "CardGames.tap"
+--tape-sum db088cce627ff81b71c85ebb983a7970
+--start 33075
+--sim-load-config machine=128

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0023544/MajorPercy.tap.zip
+--tape-name "MajorPercy.tap"
+--tape-sum b32c825c4b142ed7784641b659fd153b
+--start 1343
+--sim-load-config finish-tape=1

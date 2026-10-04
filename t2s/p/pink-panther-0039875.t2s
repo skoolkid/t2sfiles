@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039875/PinkPanther.tap.zip
+--tape-name "PinkPanther.tap"
+--tape-sum e8c08ae68118ac27f42da870c3a3aaac
+--start 1343
+--sim-load-config finish-tape=1

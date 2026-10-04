@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045640/LeagueCricket.tzx.zip
+--tape-name "LeagueCricket.tzx"
+--tape-sum daa7180ab606911643d78c5ec734b621
+--start 1343
+--tape-start 3
+--sim-load-config finish-tape=1

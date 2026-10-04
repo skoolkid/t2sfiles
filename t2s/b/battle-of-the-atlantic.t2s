@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045605/BattleOfTheAtlantic.tap.zip
+--tape-name "BattleOfTheAtlantic.tap"
+--tape-sum 79a7f3ceb83123f1f8adb5113fb511df
+--start 1343
+--sim-load-config finish-tape=1

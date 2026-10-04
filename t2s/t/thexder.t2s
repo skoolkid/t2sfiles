@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045740/Thexder.tap.zip
+--tape-name "Thexder.tap"
+--tape-sum 9f7deef7a5fe3261b5b3684e4a66239c
+--start 49120
+--sim-load-config machine=128

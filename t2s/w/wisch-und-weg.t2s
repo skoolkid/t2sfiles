@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045615/WischUndWeg.tap.zip
+--tape-name "WischUndWeg.tap"
+--tape-sum 2e49f70e4d6dc0271bda83c157c61596
+--start 1343
+--sim-load-config finish-tape=1

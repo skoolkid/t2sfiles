@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045686/MaquinaDoVolta.tap.zip
+--tape-name "MaquinaDoVolta.tap"
+--tape-sum 51cd1d6ad7a17c21fde65b8872a449db
+--start 1343
+--sim-load-config finish-tape=1

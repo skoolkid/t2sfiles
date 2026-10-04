@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045617/ColourMind.tzx.zip
+--tape-name "ColourMind.tzx"
+--tape-sum 4fca5325baa76454eb396e54d95657a9
+--start 1343
+--sim-load-config finish-tape=1

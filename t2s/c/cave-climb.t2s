@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045671/CaveClimb.tap.zip
+--tape-name "CaveClimb.tap"
+--tape-sum 6103214b19e15ad136dfce1bbed266ed
+--start 1343
+--sim-load-config finish-tape=1

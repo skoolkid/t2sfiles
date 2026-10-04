@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045662/Sudoku(2).tap.zip
+--tape-name "Sudoku(2).tap"
+--tape-sum d366ee0bb07108e701e906a979812044
+--start 1343
+--sim-load-config finish-tape=1

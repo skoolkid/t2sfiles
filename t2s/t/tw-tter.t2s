@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0034847/Twtter.tap.zip
+--tape-name "Twtter.tap"
+--tape-sum 1f1dd4821292036c4eda146e6e8facf2
+--start 1343
+--sim-load-config finish-tape=1

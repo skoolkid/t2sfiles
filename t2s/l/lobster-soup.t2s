@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043875/LobsterSoup.tap.zip
+--tape-name "LobsterSoup.tap"
+--tape-sum 65cedc8872e029020e50a3e3669e0bde
+--start 1343
+--sim-load-config finish-tape=1

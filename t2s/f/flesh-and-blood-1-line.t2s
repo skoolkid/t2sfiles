@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045644/FleshAndBlood(1Line).tap.zip
+--tape-name "FleshAndBlood(1Line).tap"
+--tape-sum fee20accc3421667108ede2f96eecf04
+--start 1343
+--sim-load-config finish-tape=1

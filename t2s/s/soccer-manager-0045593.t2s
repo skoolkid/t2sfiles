@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045593/SoccerManager.tzx.zip
+--tape-name "SoccerManager.tzx"
+--tape-sum 60737e97a970c14cbcd902a66a400852
+--start 23316
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

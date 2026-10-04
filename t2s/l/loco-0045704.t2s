@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045704/Loco.tzx.zip
+--tape-name "Loco.tzx"
+--tape-sum 6de5962ba846c54b48af741731eb8a75
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

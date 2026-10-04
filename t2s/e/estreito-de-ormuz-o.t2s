@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045623/EstreitoDeOrmuzO.tap.zip
+--tape-name "EstreitoDeOrmuzO.tap"
+--tape-sum 8589c2220bd7c3c1b7d93672d5f481a4
+--start 1343
+--sim-load-config finish-tape=1

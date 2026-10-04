@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045576/Centipede.tap.zip
+--tape-name "Centipede.tap"
+--tape-sum 34f9135d6d4c616e9bddab0b53310cb9
+--start 1343
+--tape-stop 5
+--sim-load-config finish-tape=1

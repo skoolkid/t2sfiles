@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045613/MicroDog.tzx.zip
+--tape-name "MicroDog.tzx"
+--tape-sum 01a7fff6aae0a874ef823f434561947b
+--start 1343
+--sim-load-config finish-tape=1

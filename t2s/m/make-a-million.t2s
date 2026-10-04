@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045733/MakeAMillion.tzx.zip
+--tape-name "MakeAMillion.tzx"
+--tape-sum 3f944ab8aad4c3d604f60be168a14c06
+--start 1343
+--sim-load-config finish-tape=1

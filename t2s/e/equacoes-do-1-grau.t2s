@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045703/EquacoesDo1Grau.tap.zip
+--tape-name "EquacoesDo1Grau.tap"
+--tape-sum 353f07cce598b89baac95fa93c15c151
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045722/Alkohol.tzx.zip
+--tape-name "Alkohol.tzx"
+--tape-sum 5a50d25343e76f8d0450d926482586a7
+--start 1343
+--sim-load-config finish-tape=1

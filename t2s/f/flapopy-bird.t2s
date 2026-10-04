@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045664/FlapopyBird.tap.zip
+--tape-name "FlapopyBird.tap"
+--tape-sum 2e54bb61b50a136d416c031e55f8c6b8
+--start 1343
+--press 7:ENTER
+--sim-load-config finish-tape=1

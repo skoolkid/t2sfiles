@@ -31,3 +31,5 @@ E 0045309 0027702 Number 6 in the Village + Once Upon a Lily Pad / A Global Game
 D bae2b6bf9da584ed38ec74a8a1992779 "https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045307/GissaKiss_2.tzx.zip" "GissaKiss.tzx" [0009780 https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0009780/GissaKiss.tzx.zip GissaKiss.tzx]
 T b4400e148c0b7bea874626eb6e9a5b15 0042829 Krakout 3 [0035832 Krakout 3]
 D a764010243609ef91ed15b5b514588f1 "https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0002390/HoracioGlutao_3.tzx.zip" "HoracioGlutao.tzx" [0002390 https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0002390/HoracioGlutao.tzx.zip Horacio Glutao.tzx]
+T 0f03f3c6c31d40997488146c3c6a234d 0045720 Magick [0034388 Magic]
+E 0045720 0034388 Magick [Magic]

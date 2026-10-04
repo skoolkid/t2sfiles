@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045596/EuropeanChallenge.tzx.zip
+--tape-name "EuropeanChallenge.tzx"
+--tape-sum e82012d81d7d6e2a1266a4415ebe7fcf
+--start 1343
+--sim-load-config finish-tape=1

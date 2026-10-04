@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045611/Suchsel.tap.zip
+--tape-name "Suchsel.tap"
+--tape-sum 49df9e01d389788567649f80b36dc9bb
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045646/Motos-Luz.tap.zip
+--tape-name "Motos-Luz.tap"
+--tape-sum b733daa5501d2f0c612f2e161061c9be
+--start 1343
+--sim-load-config finish-tape=1

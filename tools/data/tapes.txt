@@ -604,7 +604,9 @@
 0043429 NAG *    Konkret 6
 0043430 NAG *    Konkret 7 - 10
 0043636 RUI *    Road Safety
+0043712 RUI *    Joker (2023)
 0044123 BMD *    Ping Pong
 0044303 ADD *    Crusade
 0044432 ADD *    Driver
 0044444 NAG *    Educational Software Selection - Spectrum 1
+0045685 ADD *    Asgard

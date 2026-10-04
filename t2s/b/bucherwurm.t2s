@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045608/Bucherwurm.tap.zip
+--tape-name "Bucherwurm.tap"
+--tape-sum 2585d3143b498dbf9804eb71cf43080e
+--start 1343
+--sim-load-config finish-tape=1

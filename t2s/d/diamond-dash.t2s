@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045679/DiamondDash.tap.zip
+--tape-name "DiamondDash.tap"
+--tape-sum 43063f63bd6e788345461d50881f9ff8
+--start 1343
+--sim-load-config finish-tape=1

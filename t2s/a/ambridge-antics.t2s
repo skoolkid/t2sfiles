@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045677/AmbridgeAntics.tap.zip
+--tape-name "AmbridgeAntics.tap"
+--tape-sum 5e2a4e094818d8dca90e7b1935a7bf81
+--start 1343
+--sim-load-config finish-tape=1

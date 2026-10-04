@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045725/JetSetLemmy.tzx.zip
+--tape-name "JetSetLemmy.tzx"
+--tape-sum bf2062dbc54e975f6c5ae9f42d94779e
+--start 32039
+--sim-load-config machine=128

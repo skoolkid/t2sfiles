@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0010232/SpectrumZap.tap.zip
+--tape-name "SpectrumZap.tap"
+--tape-sum 9f1014291aef26fa5eac695a31adeea8
+--start 1343
+--sim-load-config finish-tape=1

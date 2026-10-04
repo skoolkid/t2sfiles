@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045645/FleshAndBlood(2Players).tap.zip
+--tape-name "FleshAndBlood(2Players).tap"
+--tape-sum b4d7ea03a224672810f45ce14776bc52
+--start 1343
+--sim-load-config finish-tape=1

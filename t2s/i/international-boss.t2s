@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045594/InternationalBoss.tzx.zip
+--tape-name "InternationalBoss.tzx"
+--tape-sum 88f989dc3709c94fb761cfb193d769e4
+--start 1343
+--sim-load-config finish-tape=1

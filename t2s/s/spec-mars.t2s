@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045729/SpecMars.tzx.zip
+--tape-name "SpecMars.tzx"
+--tape-sum ac5bb211dba0717004b02480051dec3d
+--start 1343
+--sim-load-config finish-tape=1
