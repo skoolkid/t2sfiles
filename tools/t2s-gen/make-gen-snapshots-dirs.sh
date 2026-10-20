@@ -17,11 +17,14 @@ Usage: $(basename $0) [options] TARGET_DIR FILE
   FILE must be a file produced by list-games-status.py.
 
 Options:
-  -a      Copy all tape files for each title instead of just the first one
+  -a      Copy all tape files for each title
   -n NUM  Run this many gen-snapshot.py processes (default: 1)
 EOF
   exit 1
 }
+
+BOLD_CYAN='\e[1;36m'
+RESET='\e[0m'
 
 all=0
 num=1
@@ -87,13 +90,16 @@ done < $FILE
 opts="-n $num -q"
 [[ $all == 1 ]] && opts="-a $opts"
 if [[ -f $t_48 ]]; then
+  echo -e "${BOLD_CYAN}============================== 48K titles ==============================${RESET}"
   $mkgensnapdir $opts "$TARGET_DIR/48k" "$t_48" || exit 1
 fi
 if [[ -f $t_128 ]]; then
+  echo -e "${BOLD_CYAN}============================== 128K titles =============================${RESET}"
   $mkgensnapdir $opts "$TARGET_DIR/128k" "$t_128" || exit 1
   touch "$TARGET_DIR/128k/machine=128"
 fi
 if [[ -f $t_48_128 ]]; then
+  echo -e "${BOLD_CYAN}============================ 48K/128K titles ===========================${RESET}"
   $mkgensnapdir $opts "$TARGET_DIR/48k-128k" "$t_48_128" || exit 1
   touch "$TARGET_DIR/48k-128k/machine=128"
   touch "$TARGET_DIR/48k-128k/suffix-128k"
