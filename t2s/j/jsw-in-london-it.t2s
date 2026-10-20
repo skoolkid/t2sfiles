@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045773/JSWInLondon(128K)(IT).tap.zip
+--tape-name "JSWInLondon(128K)(IT).tap"
+--tape-sum 3e63858ed70a8a353874e672cfbb66b7
+--start 32039
+--sim-load-config machine=128

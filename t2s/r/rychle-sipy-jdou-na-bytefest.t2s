@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045789/RychleSipyJdouNaBytefest.tap.zip
+--tape-name "RychleSipyJdouNaBytefest.tap"
+--tape-sum ba270bb0bb4f594b76cdb10a6fe154dc
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0028307/AssaultOnEnemyPostXIII.tap.zip
+--tape-name "AssaultOnEnemyPostXIII.tap"
+--tape-sum 686572f95892ffb972312d2778e0854b
+--start 1343
+--sim-load-config finish-tape=1

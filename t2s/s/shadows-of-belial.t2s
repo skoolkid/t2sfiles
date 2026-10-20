@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045787/ShadowsOfBelial.tzx.zip
+--tape-name "ShadowsOfBelial.tzx"
+--tape-sum 428a0a3066d3e527fb09cf043a50a198
+--start 24204
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

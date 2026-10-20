@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045762/MunchInfinity.tap.zip
+--tape-name "MunchInfinity.tap"
+--tape-sum 641817b4740944a29e6e901c555698fe
+--start 32830
+--sim-load-config machine=128

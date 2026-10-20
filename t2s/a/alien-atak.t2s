@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0042392/AlienAtak.tap.zip
+--tape-name "AlienAtak.tap"
+--tape-sum f84135a0d91aa1fdf3b15b6bbfb851a2
+--start 1343
+--sim-load-config finish-tape=1

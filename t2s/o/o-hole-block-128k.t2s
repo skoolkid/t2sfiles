@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045781/O-HoleBlock.tzx.zip
+--tape-name "O-HoleBlock.tzx"
+--tape-sum c1a14fd3e7940ebc8d051252012470bd
+--start 24200
+--sim-load-config machine=128

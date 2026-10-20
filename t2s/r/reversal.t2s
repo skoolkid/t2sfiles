@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039744/Reversal.tap.zip
+--tape-name "Reversal.tap"
+--tape-sum ea9d818612ecfc10ac04861b584701a1
+--start 1343
+--sim-load-config finish-tape=1

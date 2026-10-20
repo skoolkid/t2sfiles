@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045796/Brickie.tap.zip
+--tape-name "Brickie.tap"
+--tape-sum 3e82c306fadc66d1e46455ee26315bca
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

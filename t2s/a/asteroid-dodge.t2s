@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039882/AsteroidDodge.tap.zip
+--tape-name "AsteroidDodge.tap"
+--tape-sum e760ddc38034d7bf8ddac7a73c47604e
+--start 1343
+--sim-load-config finish-tape=1

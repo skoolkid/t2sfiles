@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045788/Mazed.tap.zip
+--tape-name "Mazed.tap"
+--tape-sum 2535077d35c5d5e4db02b42da6c1a2bf
+--start 1343
+--sim-load-config finish-tape=1

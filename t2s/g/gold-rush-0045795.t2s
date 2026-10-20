@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045795/GoldRush.tap.zip
+--tape-name "GoldRush.tap"
+--tape-sum 2e064f3baa252f21e89e052e5c8c0b9f
+--start 1343
+--sim-load-config finish-tape=1
