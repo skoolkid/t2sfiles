@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045830/PalavrasCifradas.tap.zip
+--tape-name "PalavrasCifradas.tap"
+--tape-sum d9d408163e357afe65780bfb3d802fa6
+--start 1343
+--sim-load-config finish-tape=1

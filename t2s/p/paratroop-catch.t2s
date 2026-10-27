@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039692/ParatroopCatch.tap.zip
+--tape-name "ParatroopCatch.tap"
+--tape-sum 517836e4f2ad61a38d3bbd9df1cb6535
+--start 1343
+--sim-load-config finish-tape=1

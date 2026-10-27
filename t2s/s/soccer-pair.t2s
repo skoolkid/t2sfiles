@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039818/SoccerPair.tap.zip
+--tape-name "SoccerPair.tap"
+--tape-sum 7c537dc897e902f1531e81116cf11b15
+--start 1343
+--sim-load-config finish-tape=1

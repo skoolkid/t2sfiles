@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039724/Outlaws.tap.zip
+--tape-name "Outlaws.tap"
+--tape-sum bcb2e1e86288601465430f4901a1528a
+--start 1343
+--sim-load-config finish-tape=1

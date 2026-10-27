@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039746/MonacoGP.tap.zip
+--tape-name "MonacoGP.tap"
+--tape-sum 6e803a1d2ed5157a8843df5548d43ca5
+--start 1343
+--sim-load-config finish-tape=1

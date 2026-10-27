@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039701/MunchieAndTheHoonos.tap.zip
+--tape-name "MunchieAndTheHoonos.tap"
+--tape-sum b5d529013b5e7e0bba33e7d6d208cba7
+--start 1343
+--sim-load-config finish-tape=1

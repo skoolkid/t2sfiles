@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039713/Ski-Run.tap.zip
+--tape-name "Ski-Run.tap"
+--tape-sum 5344374a0e737ca6941d933a59604a4c
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045807/LightCycles(BUGFIXED).tap.zip
+--tape-name "LightCycles(BUGFIXED).tap"
+--tape-sum 7eaeb7f2b067368333aa3bcd0a3ce939
+--start 1343
+--sim-load-config finish-tape=1

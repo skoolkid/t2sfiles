@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039819/ZooBreak-Out.tap.zip
+--tape-name "ZooBreak-Out(BUGFIXED).tap"
+--tape-sum 509a53a860b794cf3d07c06e8663a4e0
+--start 1343
+--sim-load-config finish-tape=1

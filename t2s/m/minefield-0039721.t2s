@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039721/Minefield.tap.zip
+--tape-name "Minefield.tap"
+--tape-sum bf9c9f50f95097b08175454401ee52be
+--start 1343
+--sim-load-config finish-tape=1

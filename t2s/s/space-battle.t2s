@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039806/SpaceBattle.tap.zip
+--tape-name "SpaceBattle.tap"
+--tape-sum 4b055130ac600c9adb45821505fa2115
+--start 1343
+--sim-load-config finish-tape=1

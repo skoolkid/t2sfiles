@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039844/LogicGame.tap.zip
+--tape-name "LogicGame.tap"
+--tape-sum 60c080a335c728718031ec768c0bb849
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

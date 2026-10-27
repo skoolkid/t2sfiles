@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039759/Mower.tap.zip
+--tape-name "Mower.tap"
+--tape-sum 72588047efa4fb263917e98c312aea01
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040111/Firefox.tap.zip
+--tape-name "Firefox.tap"
+--tape-sum bb19218b9271956cc9adde902c639745
+--start 1343
+--sim-load-config finish-tape=1

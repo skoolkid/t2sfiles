@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040096/ComputerSurround.tap.zip
+--tape-name "ComputerSurround.tap"
+--tape-sum 30c4a8ea0c96afa133105eb151cf5c82
+--start 1343
+--sim-load-config finish-tape=1

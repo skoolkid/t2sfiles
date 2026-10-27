@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039911/CodeBreaker.tap.zip
+--tape-name "CodeBreaker.tap"
+--tape-sum 54a08ac094f5b5a45bb2ccc74b1db361
+--start 1343
+--sim-load-config finish-tape=1

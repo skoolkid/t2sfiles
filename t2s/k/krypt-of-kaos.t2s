@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045848/KryptOfKaos.tap.zip
+--tape-name "KryptOfKaos.tap"
+--tape-sum f0f4d861e650f2637ac5dfda8cd95468
+--start 33088
+--sim-load-config machine=128

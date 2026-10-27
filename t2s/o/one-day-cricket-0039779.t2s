@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039779/OneDayCricket.tap.zip
+--tape-name "OneDayCricket.tap"
+--tape-sum 4629796f90dd67effa82fe2552709f9f
+--start 1343
+--sim-load-config finish-tape=1

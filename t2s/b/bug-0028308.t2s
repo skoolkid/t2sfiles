@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0028308/Bug.tap.zip
+--tape-name "Bug.tap"
+--tape-sum 1d17adab9bd3e66f0f5c3569cfa09525
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

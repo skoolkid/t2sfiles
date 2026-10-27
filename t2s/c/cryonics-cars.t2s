@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040277/CryonicsCars.tap.zip
+--tape-name "CryonicsCars.tap"
+--tape-sum 2c1dcd5fd98703f271a08d824c27d40b
+--start 1343
+--sim-load-config finish-tape=1

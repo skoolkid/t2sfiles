@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039727/SantasDilemma.tap.zip
+--tape-name "SantasDilemma.tap"
+--tape-sum 6a99d78af1742f26299827c6d84ebdcd
+--start 1343
+--sim-load-config finish-tape=1

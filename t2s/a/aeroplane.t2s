@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040823/Aeroplane.tap.zip
+--tape-name "Aeroplane.tap"
+--tape-sum 414c85ed9042d66bf73ce0f3ee7fa84b
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039013/GangWars.tzx.zip
+--tape-name "GangWars.tzx"
+--tape-sum fd5cedae48f4622914b6674611d3da61
+--start 1343
+--sim-load-config finish-tape=1

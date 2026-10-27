@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045841/RadioMessage.tap.zip
+--tape-name "RadioMessage.tap"
+--tape-sum 82e7ac0098db5a025deb1ff0f24ef5dd
+--start 1343
+--sim-load-config finish-tape=1

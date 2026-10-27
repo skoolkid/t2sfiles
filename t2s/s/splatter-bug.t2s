@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039774/SplatterBug.tap.zip
+--tape-name "SplatterBug.tap"
+--tape-sum 404762b3f50c3f93c1e6a20ed71a1c47
+--start 1343
+--sim-load-config finish-tape=1

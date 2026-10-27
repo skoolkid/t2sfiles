@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039734/MoonbaseZX.tap.zip
+--tape-name "MoonbaseZX.tap"
+--tape-sum 0476ddf3932b53334a2535a816816ec9
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "": RUN'

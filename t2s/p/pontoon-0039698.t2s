@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039698/Pontoon.tap.zip
+--tape-name "Pontoon.tap"
+--tape-sum 1294f389bd777a00bcc0a19b22f9c886
+--start 1343
+--tape-stop 5
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040075/Defender.tap.zip
+--tape-name "Defender.tap"
+--tape-sum b6353ed4c3600034b847442c36db2e95
+--start 1343
+--sim-load-config finish-tape=1

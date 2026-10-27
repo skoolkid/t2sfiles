@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045840/PiratesGold.tap.zip
+--tape-name "PiratesGold.tap"
+--tape-sum 639b63b9359c8a4e3859a512801c636b
+--start 1343
+--sim-load-config finish-tape=1
