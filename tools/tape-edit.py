@@ -206,8 +206,8 @@ def _edit_tzx(tzx, block, options):
     i = 10
     while i < len(tzx):
         if block == block_num:
-            if options.set_value:
-                tzx[i + 1 + options.set_value[0]] = options.set_value[1]
+            for spec in options.set_value:
+                tzx[i + 1 + spec[0]] = spec[1]
         i, block_id, header, info, tape_data = _get_block_info(tzx, i, block_num)
         if block == block_num:
             if block_id in (0x10, 0x11, 0x14):
@@ -225,8 +225,8 @@ def _edit_tap(tap, block, options):
     while i + 1 < len(tap):
         block_len = get_word(tap, i)
         if block == block_num:
-            if options.set_value:
-                tap[i + options.set_value[0]] = options.set_value[1]
+            for spec in options.set_value:
+                tap[i + spec[0]] = spec[1]
             if options.flag is not None:
                 tap[i + 2] = options.flag
             data = tap[i + 2:i + 2 + block_len]
@@ -251,13 +251,14 @@ group.add_argument('-f', dest='flag', type=int,
                    help="Set the flag byte.")
 group.add_argument('-p', dest='fix_parity', action='store_true',
                    help="Fix the parity byte.")
-group.add_argument('-s', dest='set_value', metavar='OFFSET,VALUE',
-                   help="Set the value at the given 0-based offset. For TZX files the offset is relative to the byte that follows the block ID.")
+group.add_argument('-s', dest='set_value', metavar='OFFSET,VALUE', action='append', default=[],
+                   help="Set the value at the given 0-based offset. "
+                        "For TZX files the offset is relative to the byte that follows the block ID. "
+                        "This option may be used multiple times.")
 namespace, unknown_args = parser.parse_known_args()
 if unknown_args or namespace.outfile is None:
     parser.exit(2, parser.format_help())
-if namespace.set_value is not None:
-    namespace.set_value = [int(s) for s in namespace.set_value.split(',', 1)]
+namespace.set_value = [[int(s) for s in spec.split(',', 1)] for spec in namespace.set_value]
 tape_type = namespace.tapefile[-4:].lower()
 if tape_type not in ('.tap', '.tzx'):
     print('Unrecognised tape type', file=sys.stderr)
