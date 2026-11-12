@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039694/Trampoline.tap.zip
+--tape-name "Trampoline.tap"
+--tape-sum 8a9526b411fe6d6c4634e75fd09d6ba8
+--start 1343
+--sim-load-config finish-tape=1

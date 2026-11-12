@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039780/Starfox.tap.zip
+--tape-name "Starfox.tap"
+--tape-sum 039e84cccf759fe782015a3037d62a0a
+--start 1343
+--sim-load-config finish-tape=1

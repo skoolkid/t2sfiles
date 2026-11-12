@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0046235/AvoidTrees.tap.zip
+--tape-name "AvoidTrees.tap"
+--tape-sum 33e342ba82c96a4d186c6d2b06acf189
+--start 1343
+--sim-load-config finish-tape=1

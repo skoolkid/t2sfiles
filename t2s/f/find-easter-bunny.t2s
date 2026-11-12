@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0046232/FindEasterBunny.tap.zip
+--tape-name "FindEasterBunny.tap"
+--tape-sum 952df1a3ad855b630f0dedbe938e025f
+--start 1343
+--sim-load-config finish-tape=1

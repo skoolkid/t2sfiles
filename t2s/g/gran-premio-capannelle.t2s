@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0046223/GranPremioCapannelle.tap.zip
+--tape-name "GranPremioCapannelle.tap"
+--tape-sum 726c102433ea4ac250cfdbd041053c48
+--start 1343
+--sim-load-config finish-tape=1

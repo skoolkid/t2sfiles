@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045868/Codenames.tap.zip
+--tape-name "Codenames.tap"
+--tape-sum 3371483f99441340c3838529c87f5d3a
+--start 1343
+--sim-load-config finish-tape=1

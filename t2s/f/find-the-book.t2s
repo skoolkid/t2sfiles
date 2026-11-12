@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0046233/FindTheBook.tap.zip
+--tape-name "FindTheBook.tap"
+--tape-sum fa7ba80ab9fd0ba1fc0548ec6fbb56ba
+--start 1343
+--sim-load-config finish-tape=1

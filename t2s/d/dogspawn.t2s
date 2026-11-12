@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0046230/Dogspawn.tap.zip
+--tape-name "Dogspawn.tap"
+--tape-sum fbca774a92f0455a028bc9bf51cb305a
+--start 1343
+--sim-load-config finish-tape=1

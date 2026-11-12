@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0046224/Elicottero.tap.zip
+--tape-name "Elicottero.tap"
+--tape-sum 7e86a74d0aa888736629f1e6ebd566d6
+--start 1343
+--sim-load-config finish-tape=1

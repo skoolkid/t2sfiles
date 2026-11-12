@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045853/SpaceMines.tap.zip
+--tape-name "SpaceMines.tap"
+--tape-sum 91fbb699331669fefe4a43e81828d4a9
+--start 1343
+--sim-load-config finish-tape=1

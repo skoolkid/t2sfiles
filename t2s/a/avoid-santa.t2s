@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0046234/AvoidSanta.tap.zip
+--tape-name "AvoidSanta.tap"
+--tape-sum 54f68b979fda3245161d4b009bd5b38d
+--start 1343
+--sim-load-config finish-tape=1

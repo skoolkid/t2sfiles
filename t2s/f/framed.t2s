@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0043705/Framed.tap.zip
+--tape-name "Framed.tap"
+--tape-sum 637df89da3ded0e535d69607b674abc8
+--start 24578
+--sim-load-config machine=128

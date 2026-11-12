@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045872/OldBones.tap.zip
+--tape-name "OldBones.tap"
+--tape-sum c016674adc7c0fdd81c91d4dffc4346e
+--start 1343
+--sim-load-config finish-tape=1

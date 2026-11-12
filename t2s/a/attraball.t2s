@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0046242/Attraball.tap.zip
+--tape-name "Attraball.tap"
+--tape-sum f8cdb30783b9fd5f946b35f220f59103
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045858/GreenBert2026.tap.zip
+--tape-name "GreenBert2026.tap"
+--tape-sum 4f7c19d3c8bd89fe82623c72e8af760e
+--start 1343
+--sim-load-config finish-tape=1

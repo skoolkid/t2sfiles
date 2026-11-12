@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0046238/HighLowContinue.tap.zip
+--tape-name "HighLowContinue.tap"
+--tape-sum 5a28b5c9015fa0f47a1908695521ac57
+--start 1343
+--sim-load-config finish-tape=1

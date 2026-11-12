@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0046231/FindSanta.tap.zip
+--tape-name "FindSanta.tap"
+--tape-sum 565fc44e09e003857da61731fa14a18c
+--start 1343
+--sim-load-config finish-tape=1

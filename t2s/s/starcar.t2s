@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045877/Starcar.tap.zip
+--tape-name "Starcar.tap"
+--tape-sum 7668e24e09d9d6efb4d1deb1c48a986f
+--start 1343
+--sim-load-config finish-tape=1

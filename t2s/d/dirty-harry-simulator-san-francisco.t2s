@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045870/DirtyHarrySimulatorSanFrancisco.tzx.zip
+--tape-name "DirtyHarrySimulatorSanFrancisco.tzx"
+--tape-sum 4262110c1970468b698cd286765680d6
+--start 1343
+--sim-load-config finish-tape=1

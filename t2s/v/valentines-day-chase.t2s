@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039738/ValentinesDayChase.tap.zip
+--tape-name "ValentinesDayChase.tap"
+--tape-sum 8c3f4dd8315099e69499b14921f45daa
+--start 1343
+--sim-load-config finish-tape=1

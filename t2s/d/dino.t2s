@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0046249/Dino.tap.zip
+--tape-name "Dino.tap"
+--tape-sum 16b256677ba100ad11e1c1fdc507fbc5
+--start 1343
+--sim-load-config finish-tape=1
+--sim-load-config 'load=LOAD "" CODE : RANDOMIZE USR 16384'

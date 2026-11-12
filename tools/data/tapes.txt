@@ -610,3 +610,4 @@
 0045685 ADD *    Asgard
 0045751 ADD *    Castle
 0045798 ADD *    Cavern
+0046236 ADD *    Seven/Eleven

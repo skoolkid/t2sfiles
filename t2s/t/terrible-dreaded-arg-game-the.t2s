@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039822/TerribleDreadedArgGameThe.tap.zip
+--tape-name "TerribleDreadedArgGameThe.tap"
+--tape-sum e27106f97758e47cfa8b5a378179d675
+--start 1343
+--sim-load-config finish-tape=1

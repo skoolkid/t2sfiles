@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0046237/VeryBASICCHRMASNOTIFETA.tap.zip
+--tape-name "VeryBASICCHRMASNOTIFETA.tap"
+--tape-sum 83e8a55d1523fe85cf9035ef1b963995
+--start 1343
+--sim-load-config finish-tape=1
