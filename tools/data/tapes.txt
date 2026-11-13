@@ -299,6 +299,7 @@
 0016670 RUI *    Leitin
 0016912 RUI *    Megaplex
 0017020 NAG *    Anagrams
+0017040 NAG *    El Loto
 0017041 NAG *    Combiloto
 0017089 NAG *    Začiatky
 0017126 NAG *    Transpack 2
