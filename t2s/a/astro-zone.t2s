@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039857/AstroZone.tap.zip
+--tape-name "AstroZone.tap"
+--tape-sum 63b57401729da840b67ec131a2c477da
+--start 1343
+--sim-load-config finish-tape=1

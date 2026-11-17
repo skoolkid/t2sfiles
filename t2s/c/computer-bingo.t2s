@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0041152/ComputerBingo.tap.zip
+--tape-name "ComputerBingo.tap"
+--tape-sum 54beabb4707f0ef78f595ca789363198
+--start 1343
+--sim-load-config finish-tape=1

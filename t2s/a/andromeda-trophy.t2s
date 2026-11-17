@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0009480/AndromedaTrophy.tzx.zip
+--tape-name "AndromedaTrophy.tzx"
+--tape-sum 927ac48980b7b1afd46f299bd7927317
+--start 1343
+--sim-load-config finish-tape=1

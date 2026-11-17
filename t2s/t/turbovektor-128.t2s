@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0046336/Turbovektor128.tap.zip
+--tape-name "Turbovektor128.tap"
+--tape-sum 7aaddd47c641d7a02d381e12a6a0c607
+--start 47670
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

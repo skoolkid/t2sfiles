@@ -589,6 +589,8 @@
 0039428 BMD *    Super Lander
 0039434 DEM *    Bruxólico
 0039437 NAG *    Wordsearch Generator
+0039674 NAG *    Election Special
+0039776 NAG *    Wordsearch
 0041247 NAG *    Scene+ 014
 0042030 BMD *    Tres en Raya
 0042051 RUI *    (The Last) Arkanoid

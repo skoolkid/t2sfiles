@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039855/Kopycat.tap.zip
+--tape-name "Kopycat.tap"
+--tape-sum cf6f27be8cb9ac41f57fd7876aed485e
+--start 1343
+--sim-load-config finish-tape=1

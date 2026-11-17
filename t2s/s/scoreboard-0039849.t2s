@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039849/Scoreboard.tap.zip
+--tape-name "Scoreboard.tap"
+--tape-sum 9eabe7bcaac1c7e2be5004ea8a708e84
+--start 1343
+--sim-load-config finish-tape=1

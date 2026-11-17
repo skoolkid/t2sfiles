@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039811/Chop.tap.zip
+--tape-name "Chop.tap"
+--tape-sum 13f501219e7d4dd4c6fc8ac400517b07
+--start 1343
+--sim-load-config finish-tape=1

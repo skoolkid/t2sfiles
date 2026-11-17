@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039125/MadMolecules(BUGFIX).tap.zip
+--tape-name "MadMolecules(BUGFIX).tap"
+--tape-sum 1b6a1ca9740ac3da25eaf3bb143012f0
+--start 1343
+--sim-load-config finish-tape=1

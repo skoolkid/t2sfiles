@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0045129/ZXNano-Tetris.tap.zip
+--tape-name "ZXNano-Tetris.tap"
+--tape-sum 13d99fb2595622ac32e739bee3ae89b9
+--start 1343
+--sim-load-config finish-tape=1

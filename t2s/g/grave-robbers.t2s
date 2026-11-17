@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039068/GraveRobbers.tap.zip
+--tape-name "GraveRobbers.tap"
+--tape-sum 6be2bb8840a500046c0485f7e55be935
+--start 1343
+--sim-load-config finish-tape=1

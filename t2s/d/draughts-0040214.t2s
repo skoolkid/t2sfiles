@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0040214/Draughts.tap.zip
+--tape-name "Draughts.tap"
+--tape-sum a40ec74239f46bad509ce4687ab24cdb
+--start 1343
+--sim-load-config finish-tape=1

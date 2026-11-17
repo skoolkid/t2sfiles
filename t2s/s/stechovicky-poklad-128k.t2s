@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0046371/StechovickyPoklad.tap.zip
+--tape-name "StechovickyPoklad.tap"
+--tape-sum 5668c8384ab734a30dc0d521e4dc3cd5
+--start 24720
+--sim-load-config machine=128

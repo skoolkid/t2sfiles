@@ -1,0 +1,6 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0046289/RoadFighter.tap.zip
+--tape-name "RoadFighter.tap"
+--tape-sum f70471eda83627e0a10afd4a24ab97d5
+--start 41069
+--sim-load-config machine=128
+--sim-load-config finish-tape=1

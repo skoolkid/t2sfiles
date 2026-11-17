@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0039699/Bomber.tap.zip
+--tape-name "Bomber.tap"
+--tape-sum e3d72e83dfc25be42e7a0dc8173790b4
+--start 1343
+--sim-load-config finish-tape=1

@@ -1,0 +1,5 @@
+https://spectrumcomputing.co.uk/zxdb/sinclair/entries/0046350/Sniper.tap.zip
+--tape-name "Sniper.tap"
+--tape-sum fddf7433ef14005f028c0752028b3841
+--start 1343
+--sim-load-config finish-tape=1
